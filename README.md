@@ -156,6 +156,12 @@ https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_C
 Mind Tools
 * [Mind Tools](https://www.mindtools.com)
 
+<!--
+https://getpocket.com/ | Pocket
+https://getpocket.com/a/recommended/ | Pocket: Recommended
+https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech | Listening to Articles in Pocket with Text-to-Speech - Pocket Support
+-->
+
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
@@ -239,6 +245,28 @@ Persuasive Tech
 http://captology.stanford.edu/projects/behaviordesign.html
 -->
 
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+## Conferences
+
+Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Lanyrd](http://lanyrd.com)
+* [PaperCall](https://www.papercall.io)
+* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Tech EU Events List](http://tech.eu/events)
+
+Python and Django
+* [PSF Python Events](https://www.python.org/events)
+* [Meetup Topic Django](https://www.meetup.com/topics/django)
+* [Meetup Topic Python](http://www.meetup.com/topics/python)
+* [Python Conferences Repo](https://github.com/python-organizers/conferences)
+* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
+
 ## Engineering Management Resources
 
 JavaScript Scene
@@ -256,18 +284,63 @@ https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesom
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
+## Case Studies and Built With
+
+Computer History
+* [Internet Hall of Fame Inductees](https://internethalloffame.org/inductees/all)
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
+* [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+## Web Development
+
 Languages and Frameworks
 * [Python Docs](https://docs.python.org)
 * [Django Docs](https://docs.djangoproject.com)  
+* [Django REST Framework](https://www.django-rest-framework.org)
 * [React Docs](https://reactjs.org/docs)
 * [Golang Docs](https://golang.org/doc)
 
 <!--
-https://www.django-rest-framework.org/ | Home - Django REST framework
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
 https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
 https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
 -->
 
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+Internals
+* [Python Tutor](http://pythontutor.com)
+
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+
+## Software Design
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+
+
