@@ -24,11 +24,23 @@ Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python?since=daily)
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Look at Often
+* [Product Hunt](https://www.producthunt.com)
 
 Product Hunt Leader Boards
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
+
+<!--
+https://hunts.xyz/ | Hunts.xyz
+
+https://www.producthunt.com/golden-kitty-awards-2017
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+-->
 
 <!--
 App ideas
@@ -90,28 +102,20 @@ Books- Management and Scaling
 Born Standing Up
 
 https://www.blitzscaling.com/ | https://www.blitzscaling.com
-https://www.amazon.com/dp/0061339202/ref=cm_sw_r_sms_awdb_t1_B3u4AbDAS69J0?pldnSite=1 | Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics): Mihaly Csikszentmihalyi: 8601405917720: Amazon.com: Books
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
--->
 
-Mind-Body Connection
-* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-Dr. Barbara Oakley
-* [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-<!--
 Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
 https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
 https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+-->
 
+Books- Work Methods
+* [Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202)
+* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
+
+<!--
 Batching
 https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
 https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
@@ -135,6 +139,23 @@ https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free
 https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
 -->
 
+Mind-Body Connection
+* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
+
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+Dr. Barbara Oakley
+* [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+<!--
+https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
+-->
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
@@ -148,15 +169,14 @@ Productivity- Marshall Goldsmith
 * ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
 
 Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
 
 <!--
 https://news.ycombinator.com/item?id=18783816 | The habit of habit engineering | Hacker News
 https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://twitter.com/ali01/with_replies | Tweets with replies by Ali Yahya (@ali01) | Twitter
-https://twitter.com/ali01/status/1078647576201703427 | Ali Yahya on Twitter: "Four years ago on new years eve, I set out to build for myself a robust habit of habit engineering. Looking back, doing this has been very transformative for me. A thread 👇"
 https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
 
-https://www.google.com/search?q=benjamin+franklin+habits&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiWsLe-kMffAhXM5YMKHRAhBakQ_AUIDigB&biw=911&bih=399 | benjamin franklin habits - Google Search
+benjamin franklin habits - Google Search
 -->
 
 Goal Setting
@@ -171,8 +191,28 @@ Scientific Method and Minimum Viable Product
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 
+Idea Maze
+* [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
+
+Blue Ocean Strategy
+* [Blue Ocean Strategy Wikipedia](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
+
 Pieter Levels
 * [Pieter Levels Twitter](https://twitter.com/levelsio)
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
+* [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
+
+<!--
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
+-->
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
@@ -183,13 +223,37 @@ Financial Ratio
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
+Tim Ferris Blueprints
+* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
+* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
+* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
+* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+
 Persuasive Tech
 * [Nir Eyal](http://www.nirandfar.com)
+* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
 * [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
 * [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
 
 <!--
-https://www.amazon.com/dp/B00LMGLXTS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Hooked: How to Build Habit-Forming Products, Nir Eyal, Ryan Hoover, eBook - Amazon.com
+http://captology.stanford.edu/projects/behaviordesign.html
+-->
+
+## Engineering Management Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+<!--
+https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
+
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
 Languages and Frameworks
