@@ -58,6 +58,7 @@ Seneca
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
 <!--
+https://tim.blog/2017/05/15/fear-setting/
 https://www.youtube.com/watch?v=o7EVMjgsSME | Fear Setting: The Most Important Exercise I Still Do Today | Tim Ferriss - YouTube
 -->
 
@@ -79,14 +80,15 @@ Mental Models
 * [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
+Books- Management and Scaling
+* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
+* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
+
 <!--
-Powerful Books
-High Output Management
-https://www.amazon.com/dp/B002G54Y04/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: High Output Management eBook: Andrew S. Grove: Kindle Store
-https://www.amazon.com/dp/B07DRPGGQ7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: High Growth Handbook eBook: Elad Gil: Kindle Store
-https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B0791239V7/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=V528P49276XG377KDB2R | Amazon.com: Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies eBook: Reid Hoffman, Chris Yeh, Bill Gates: Kindle Store
-https://www.amazon.com/dp/B002G54Y04/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Score Takes Care of Itself: My Philosophy of Leadership eBook: Bill Walsh, Steve Jamison, Craig Walsh: Kindle Store
+Born Standing Up
+
 https://www.blitzscaling.com/ | https://www.blitzscaling.com
 https://www.amazon.com/dp/0061339202/ref=cm_sw_r_sms_awdb_t1_B3u4AbDAS69J0?pldnSite=1 | Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics): Mihaly Csikszentmihalyi: 8601405917720: Amazon.com: Books
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
@@ -95,9 +97,8 @@ https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second
 Mind-Body Connection
 * [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
 
-<!--
-https://en.wikipedia.org/wiki/Transcendental_Meditation | Transcendental Meditation - Wikipedia
--->
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 Dr. Barbara Oakley
 * [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
@@ -175,6 +176,12 @@ Pieter Levels
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 Persuasive Tech
 * [Nir Eyal](http://www.nirandfar.com)
