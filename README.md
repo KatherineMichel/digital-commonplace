@@ -50,6 +50,13 @@ https://www.djangosites.org/ | Latest Additions at DjangoSites.org
 https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
 -->
 
+<!--
+https://developers.google.com/web/showcase
+
+https://www.w3.org/TR/notifications
+https://www.w3.org/TR/push-api
+-->
+
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
@@ -69,10 +76,9 @@ Seneca
 * [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 
-<!--
-https://tim.blog/2017/05/15/fear-setting/
-https://www.youtube.com/watch?v=o7EVMjgsSME | Fear Setting: The Most Important Exercise I Still Do Today | Tim Ferriss - YouTube
--->
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
 
 Tren Griffin
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
@@ -156,11 +162,9 @@ https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_C
 Mind Tools
 * [Mind Tools](https://www.mindtools.com)
 
-<!--
-https://getpocket.com/ | Pocket
-https://getpocket.com/a/recommended/ | Pocket: Recommended
-https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech | Listening to Articles in Pocket with Text-to-Speech - Pocket Support
--->
+Pocket
+* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
+* [Pocket Recommended](https://getpocket.com/a/recommended)
 
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -240,10 +244,7 @@ Persuasive Tech
 * [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
 * [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
 * [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
-
-<!--
-http://captology.stanford.edu/projects/behaviordesign.html
--->
+* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Open Product Management](https://github.com/tron1991/open-product-management)
@@ -319,10 +320,19 @@ Python and Visual Studio Code
 Internals
 * [Python Tutor](http://pythontutor.com)
 
+JavaScript Scene
+* [JavaScript Scene](https://medium.com/javascript-scene)
+
+One Pic
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
 ## Software Design
+
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
 
 Authorities
 * [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
@@ -343,4 +353,68 @@ Software Principles (SOLID)
 * [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
+Robustness
+* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
 
+Design Patterns- General
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+Pseudocode
+* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
+
+UML- Diagrams
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+
+<!--
+https://twitter.com/KatiMichel/status/995797396461207553
+https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+http://pydotplus.readthedocs.io/
+http://www.graphviz.org/
+https://graphviz.gitlab.io/documentation/
+https://graphviz.gitlab.io/download/
+-->
+
+TLA+
+* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+
+## X Driven Development
+
+* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
+* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+
+Test Driven Development (TDD)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+
+Domain-Driven Design (DDD)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+## Standards
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript
+* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
+* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
+* [Node.js GitHub](https://github.com/nodejs)
