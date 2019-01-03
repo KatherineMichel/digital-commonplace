@@ -20,6 +20,12 @@ https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter:
 Center for Humane Technology
 * [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
 
+Mind-Body Connection
+* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
+
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python?since=daily)
@@ -80,8 +86,21 @@ Farnham Street
 Tim Ferris
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss Podcast](https://tim.blog/podcast), and [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 
-Tim Ferris
-* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+Tren Griffin
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+Books- Management and Scaling
+* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
+* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
+
+<!--
+Born Standing Up
+
+https://www.blitzscaling.com/ | https://www.blitzscaling.com
+https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
+-->
 
 Seneca
 * [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
@@ -92,8 +111,8 @@ Fear Setting
 * [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
 * [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
 
-Tren Griffin
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+Tim Ferris
+* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
 
 Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
@@ -109,25 +128,6 @@ Mental Models
 * [Farnham Street Mental Models](https://fs.blog/mental-models/)
 * [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
-Books- Management and Scaling
-* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
-* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
-
-<!--
-Born Standing Up
-
-https://www.blitzscaling.com/ | https://www.blitzscaling.com
-https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
-https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
--->
 
 Books- Work Methods
 * [Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202)
@@ -157,12 +157,6 @@ https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free
 https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
 -->
 
-Mind-Body Connection
-* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
 Dr. Barbara Oakley
 * [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
@@ -177,6 +171,39 @@ Mind Tools
 Pocket
 * [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
 * [Pocket Recommended](https://getpocket.com/a/recommended)
+
+<!--
+https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
+
+https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
+
+https://ncase.me/remember/ | How To Remember Anything Forever-ish
+https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
+https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
+http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+
+https://en.wikipedia.org/wiki/Practice_(learning_method)
+https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
+http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
+https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
+
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
+https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
+https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
+https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+
+Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
+-->
 
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -307,6 +334,11 @@ Computer History
 * [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
 * [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
+<!--
+https://en.wikipedia.org/wiki/List_of_logicians | List of logicians - Wikipedia
+https://en.wikipedia.org/wiki/Category:Lists_of_mathematicians
+-->
+
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
@@ -410,9 +442,11 @@ Design Patterns- General
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 Pseudocode
+* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
 * [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
 
-UML- Diagrams
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 * [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 * [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
 * [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
