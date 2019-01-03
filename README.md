@@ -48,6 +48,18 @@ https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-samp
 https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
 https://www.djangosites.org/ | Latest Additions at DjangoSites.org
 https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
+https://github.com/karan/Projects/ | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+https://github.com/karan/Projects-Solutions | karan/Projects-Solutions: Links to others' solutions to Projects 
+
+https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 -->
 
 <!--
@@ -332,8 +344,11 @@ Languages and Frameworks
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
-https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
+
 https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
+https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
+https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
+https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
 -->
 
 Python and Visual Studio Code
@@ -341,6 +356,13 @@ Python and Visual Studio Code
 
 Internals
 * [Python Tutor](http://pythontutor.com)
+
+Python Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 JavaScript Scene
 * [JavaScript Scene](https://medium.com/javascript-scene)
@@ -444,3 +466,22 @@ JavaScript
 * [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
 * [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
 * [Node.js GitHub](https://github.com/nodejs)
+
+## Security 
+
+<!--
+https://en.wikipedia.org/wiki/Threat_model
+
+https://github.com/OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+-->
