@@ -276,6 +276,8 @@ JavaScript Scene
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
@@ -298,6 +300,26 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 ## Web Development
+
+Interesting Curated Learning Resources
+* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://en.wikipedia.org/wiki/CAP_theorem
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+
+https://github.com/jwasham/coding-interview-university
+https://github.com/CyC2018/CS-Notes
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+-->
 
 Languages and Frameworks
 * [Python Docs](https://docs.python.org)
@@ -328,6 +350,10 @@ One Pic
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+
+<!--
+https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+-->
 
 ## Software Design
 
