@@ -389,7 +389,7 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
-## Web Development
+## Web Development- General
 
 Interesting Curated Learning Resources
 * [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -399,6 +399,9 @@ Interesting Curated Learning Resources
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+
 https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 https://en.wikipedia.org/wiki/CAP_theorem
@@ -413,39 +416,6 @@ https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-han
 https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 -->
 
-Languages and Frameworks
-* [Python Docs](https://docs.python.org)
-* [Django Docs](https://docs.djangoproject.com)  
-* [Django REST Framework](https://www.django-rest-framework.org)
-* [React Docs](https://reactjs.org/docs)
-* [Golang Docs](https://golang.org/doc)
-
-<!--
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
-
-https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
-https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
-https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
-https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
--->
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-Internals
-* [Python Tutor](http://pythontutor.com)
-
-Python Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
 <!--
 how probability distributions are related
 taxonomy of programming paradigms
@@ -456,6 +426,48 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+-->
+
+<!--
+https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+-->
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know
+http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+-->
+
+## Languages and Frameworks
+
+Languages and Frameworks
+* [Python Docs](https://docs.python.org)
+* [Django Docs](https://docs.djangoproject.com)  
+* [Django REST Framework](https://www.django-rest-framework.org)
+* [React Docs](https://reactjs.org/docs)
+* [Golang Docs](https://golang.org/doc)
+
+<!--
+https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
+-->
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+Internals
+* [Python Tutor](http://pythontutor.com)
+
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+<!--
+https://wiki.python.org/moin/GlobalInterpreterLock
 -->
 
 Python vs. JavaScript
@@ -472,11 +484,60 @@ DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
 <!--
-https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
+
+https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
+https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
+https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
+https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
 -->
+
 
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+## Python Internals
+
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+
+Python Internals- Philip Guo
+* [Philip Guo- CPython Internals](http://pgbovine.net/cpython-internals.htm) and [Philip Guo- CPython Internals YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [Philip Guo- CPython Internals Course Website](http://courses.pgbovine.net/csc253)
+
+Python Internals- General
+* [Python’s Innards: Introduction](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction) and [Python’s Innards: For My Wife](https://tech.blog.aknin.name/2010/07/04/pythons-innards-for-my-wife)
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+## Python and Django Contributing
+
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
+
+## Python Packaging
+
+Vinta Django Apps Checklist
+* [Vinta Django Apps Checklist](http://djangoappschecklist.com)
+
+Vinta API Checklist
+* [Vinta API Checklist](http://python.apichecklist.com) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+Python and Django- Contributing- Packaging
+
+DjangoCon Europe 2017 Vinta
+https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
+https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
+https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
+-->
 
 ## Paradigms and Patterns
 
@@ -502,9 +563,17 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval
 https://sourcemaking.com
 https://sourcemaking.com/antipatterns/ | AntiPatterns
 https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
 -->
 
 ## Python Patterns
+
+Python Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
 
 * [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
 * [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
@@ -550,6 +619,11 @@ Relational
 
 <!--
 https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+-->
+
+<!--
+ORM, MRO
+https://www.fullstackpython.com/object-relational-mappers-orms.html
 -->
 
 Object Oriented Software Construction
@@ -602,6 +676,13 @@ Robustness Analysis
 Pseudocode
 * [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
 * [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
+
+<!--
+https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
+https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+state machine diagram
+-->
 
 Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
