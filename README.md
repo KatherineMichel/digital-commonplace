@@ -1,6 +1,10 @@
 # The List 2019
 
 <!--
+Well Being
+https://twitter.com/james_clear/status/1005821705980465152 | James Clear on Twitter: "Habits that have a high rate of return in life: - sleep 8+ hours each day - lift weights 3x week - go for a walk each day - save at least 10 percent of your income - read every day - drink more water and less of everything else - leave your phone in another room while you work"
+https://twitter.com/ValaAfshar/status/1065265463473651712 | Vala Afshar on Twitter: "A healthy list: 1 Get more sleep 2 Make time to exercise 3 Drink more water 4 Eat less sugar 5 Stay teachable 6 Read and write more 7 Remove clutter 8 More random acts of kindness 9 Don't respond to negativity 10 Spend quality time with family 11 Show gratitude #WednesdayWisdom"
+
 https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
 https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
@@ -26,6 +30,10 @@ Mind-Body Connection
 Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
+<!--
+https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
+-->
+
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python?since=daily)
@@ -37,14 +45,13 @@ Look at Often
 * [Product Hunt](https://www.producthunt.com)
 
 Product Hunt Leader Boards
+* [Hunts.xyz](https://hunts.xyz)
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
+* [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 
 <!--
-https://hunts.xyz/ | Hunts.xyz
-
-https://www.producthunt.com/golden-kitty-awards-2017
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 -->
 
@@ -110,6 +117,11 @@ Seneca
 Fear Setting
 * [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
 * [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+<!--
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
+-->
 
 Tim Ferris
 * [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
@@ -187,6 +199,8 @@ https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
 
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+
 Checklist Manifesto Template
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
@@ -208,6 +222,11 @@ Look at your calendar for the last week. Classify your activities as low-/medium
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
+<!--
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Memory_sport
+-->
+
 Productivity- Spaced Repetition
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
@@ -221,6 +240,8 @@ Habit Engineering
 * [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
 
 <!--
+https://twitter.com/JamesClear
+
 https://news.ycombinator.com/item?id=18783816 | The habit of habit engineering | Hacker News
 https://threader.app/thread/1078647576201703427 | A thread written by @ali01
 https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
@@ -236,6 +257,10 @@ Productivity- Make the Most of Your Limited Learning Time Matrix
 Productivity- Eisenhower Matrix
 * [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
 
+<!--
+https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html
+-->
+
 Scientific Method and Minimum Viable Product
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
@@ -243,8 +268,18 @@ Scientific Method and Minimum Viable Product
 Idea Maze
 * [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
 
+<!--
+https://twitter.com/davidlee/status/983742916513251328 | David Lee on Twitter: "1/ .@balajis and @cdixon wrote about the Idea Maze 5 years ago. For startups in hard but not impossible startups today, there’s also the Industry Maze. This path is well-worn and in some cases, the only path to success. https://t.co/0OKkAdn175"
+https://twitter.com/sarthakgh/status/1069367174169411584 | Sar Haribhakti on Twitter: "I really enjoy deeply researched talks/posts that explore thematic idea mazes. Few recent ones : @arampell on real estate https://t.co/6hsH870YgL @venturetwins on business in box https://t.co/OjLaUWyTPP Looking for mazes in digital communities, urban tech & office tech.… https://t.co/kTJRpd8Pe7"
+-->
+
 Blue Ocean Strategy
 * [Blue Ocean Strategy Wikipedia](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
+
+<!--
+https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html | 'Red Oceans': How to Find Profitable Startup Ideas - Capital & Growth
+https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
+-->
 
 Pieter Levels
 * [Pieter Levels Twitter](https://twitter.com/levelsio)
@@ -254,6 +289,8 @@ Pieter Levels
 * [Make Book](https://makebook.io)
 
 <!--
+https://nomadlist.com/open | Open Startups - Nomad List
+
 https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
 https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
 https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
@@ -335,8 +372,17 @@ Computer History
 * [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
+https://en.wikipedia.org/wiki/The_Men_Who_Built_America | The Men Who Built America - Wikipedia
+https://twitter.com/cyberomin/status/946032702536470528 | Celestine Omin on Twitter: "My yearly ritual - watching "The Men Who Built America.""
+
+https://en.wikipedia.org/wiki/Mathematician
+https://en.wikipedia.org/wiki/Lists_of_philosophers | Lists of philosophers - Wikipedia
 https://en.wikipedia.org/wiki/List_of_logicians | List of logicians - Wikipedia
 https://en.wikipedia.org/wiki/Category:Lists_of_mathematicians
+
+https://www.forbes.com/top-tech-women/#17ee38b74df0
+https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepreneurs | Inc.com
+https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
 
 List of Engineering Blogs
@@ -353,6 +399,8 @@ Interesting Curated Learning Resources
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
 https://en.wikipedia.org/wiki/CAP_theorem
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 
@@ -375,6 +423,8 @@ Languages and Frameworks
 <!--
 https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
 
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
 
 https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
@@ -391,6 +441,22 @@ Internals
 
 Python Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+<!--
+how probability distributions are related
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+software development competency framework
+
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+
+http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+-->
 
 Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
@@ -409,10 +475,65 @@ DataCamp
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
 
-## Software Design
-
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+## Paradigms and Patterns
+
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+Design Patterns- General
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+
+<!--
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+
+https://sourcemaking.com
+https://sourcemaking.com/antipatterns/ | AntiPatterns
+https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+-->
+
+## Python Patterns
+
+* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
+* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
+
+<!--
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
+
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
+https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
+https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
+https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+-->
+
+## Software Design
 
 Authorities
 * [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
@@ -420,6 +541,16 @@ Authorities
 
 Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+Relational
+* [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+* [Create, Read, Update and Delete Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+<!--
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+-->
 
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
@@ -429,6 +560,34 @@ Object Oriented Software Construction Principles
 * [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 * [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+https://en.wikipedia.org/wiki/Persistent_data_structure
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
+
+https://en.wikipedia.org/wiki/Immutable_object
+
+https://en.wikipedia.org/wiki/Memoization
+-->
+
 Software Principles (SOLID)
 * [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
@@ -436,10 +595,9 @@ Software Principles (SOLID)
 Robustness
 * [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
 
-Design Patterns- General
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+<!--
+Robustness Analysis
+-->
 
 Pseudocode
 * [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
@@ -447,6 +605,21 @@ Pseudocode
 
 Unified Modeling Language
 * [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+UML Books
+* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
+* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+
+Use Case Books
+* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
+
+<!--
+https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+-->
+
+UML Diagrams
 * [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
 * [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
 * [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
@@ -464,6 +637,34 @@ https://graphviz.gitlab.io/download/
 
 TLA+
 * [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+
+<!--
+Clean architecture in Python and Django
+
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+
+Brandon Rhodes
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
+-->
 
 ## X Driven Development
 
@@ -484,6 +685,39 @@ Test Driven Development (TDD)
 Domain-Driven Design (DDD)
 * [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 * [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+## Philosophies
+
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Principles of Chaos Engineering](http://principlesofchaos.org)
+
+<!--
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+http://highscalability.com/ | High Scalability -
+-->
+
+## Types of Architectures
+
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+
+<!--
+http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
+
+https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
+http://users.ece.utexas.edu/~adnan/pike.html
+-->
 
 ## Standards
 
