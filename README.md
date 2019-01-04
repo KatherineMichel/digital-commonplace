@@ -49,9 +49,13 @@ Product Hunt Leader Boards
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
-* [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
-<!--
+<!-- 
+https://makerrank.co/ | Maker Rank: Your Favorite Makers, Ranked
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 -->
 
@@ -80,6 +84,23 @@ https://developers.google.com/web/showcase
 
 https://www.w3.org/TR/notifications
 https://www.w3.org/TR/push-api
+-->
+
+## Competitive Programming
+
+Coding Competitions
+* Kaggle
+* Hackathons
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+* Project-Based Learning
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
 Top 10 Articles
@@ -141,83 +162,34 @@ Mental Models
 * [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
-Books- Work Methods
-* [Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202)
-* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
-
-<!--
-Batching
-https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
-https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
-https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
-https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
-https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
-https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
-https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
-https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
-https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
-https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
-
-http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
-https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
-http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
-http://calnewport.com/blog/
-
-https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
-https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
-https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
-https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
--->
-
 Dr. Barbara Oakley
 * [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
 https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
--->
 
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-Pocket
-* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
-* [Pocket Recommended](https://getpocket.com/a/recommended)
-
-<!--
 https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
 
 https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
 
-https://ncase.me/remember/ | How To Remember Anything Forever-ish
-https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
-https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
-http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
 https://en.wikipedia.org/wiki/Practice_(learning_method)
 https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
-
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
-
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
-https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
-https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
-https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
-https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
-https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
-
-Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
 -->
+
+Pocket
+* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
+* [Pocket Recommended](https://getpocket.com/a/recommended)
 
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -230,11 +202,65 @@ https://en.wikipedia.org/wiki/Memory_sport
 Productivity- Spaced Repetition
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
+<!--
+https://ncase.me/remember/ | How To Remember Anything Forever-ish
+https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
+https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
+http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+-->
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
+Books- Work Methods
+* [Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202)
+* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
+
+<!--
+http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
+https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
+http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
+http://calnewport.com/blog/
+-->
+
 Productivity- The Art of Focus
 * [Index](https://bitcq.com/torrent/3196010)
 
+<!--
+https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
+https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
+
+Batching
+https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
+https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
+https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
+https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
+https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
+https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
+https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
+https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
+https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
+https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+-->
+
 Productivity- Marshall Goldsmith
 * ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+<!--
+https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html
+-->
+
+<!--
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+
+Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
+-->
 
 Habit Engineering
 * [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
@@ -258,7 +284,9 @@ Productivity- Eisenhower Matrix
 * [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
 
 <!--
-https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html
+https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
+https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
+https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
 Scientific Method and Minimum Viable Product
@@ -452,10 +480,6 @@ Languages and Frameworks
 * [React Docs](https://reactjs.org/docs)
 * [Golang Docs](https://golang.org/doc)
 
-<!--
-https://www.khanacademy.org/computing/computer-programming/sql | Intro to SQL: Querying and managing data | Khan Academy
--->
-
 Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
@@ -610,6 +634,9 @@ Authorities
 
 Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+SQL
+* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
 Relational
 * [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
