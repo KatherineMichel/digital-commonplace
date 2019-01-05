@@ -111,6 +111,35 @@ Farnham Street
 * [Farnham Street Blog Best Articles](https://fs.blog/best-articles), [Farnham Street Blog Popular Articles](https://fs.blog/popular)
 * [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
 
+<!--
+* [Hacker News](https://news.ycombinator.com), [Hacker News News](https://news.ycombinator.com/news), [Hacker News Newest](https://news.ycombinator.com/newest), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+
+https://lobste.rs
+
+https://www.ribbonfarm.com/page/3/?s=roundup
+
+* [Farnam Street Courses](https://fscourses.com)
+
+https://www.farnamstreetblog.com/newsletter
+https://www.farnamstreetblog.com/membership
+
+* [Medium Top 100](https://medium.com/top-100) and [Medium Top Stories](https://medium.com/top-stories)
+* [Slideshare Explore Tab](http://www.slideshare.net/popular/category) and [Slideshare Featured](http://www.slideshare.net/featured)
+* [XKCD](http://xkcd.com)
+
+* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+
+http://nuzzel.com/newswire
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+More News
+* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
+* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
+-->
+
 Tim Ferris
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss Podcast](https://tim.blog/podcast), and [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
 
@@ -124,28 +153,95 @@ Books- Management and Scaling
 * [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
 
 <!--
-Born Standing Up
+* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 https://www.blitzscaling.com/ | https://www.blitzscaling.com
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
 -->
 
-Seneca
+Seneca the Younger
 * [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
 * [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
+* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
 Fear Setting
 * [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
 * [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
 
+Tim Ferris
+* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+
+<!--
+Tim Ferris
+* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
+* [Tools of Titans](https://toolsoftitans.com) 
+* [Tribe of Mentors](https://tribeofmentors.com)
+* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
+
+Tools of Titans
+http://tim.blog/2017/01/25/tools-of-titans-index/
+https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+
+FreshBooks: Breaking the Time Barrier
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+
+Rec from Tim Ferris
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+http://vagabonding.net
+https://en.wikipedia.org/wiki/Rolf_Potts
+https://en.wikipedia.org/wiki/The_Graveyard_Book
+https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
+
+
+A Brief History of Existential Terror
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
+
+The Upside of Stress
+https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
+http://online.stanford.edu/course/upside-stress
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
+https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
+Marty Cagan Inspired
+
+Nir Eyal
+https://www.nirandfar.com/download/hooked-workbook.pdf
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+
+https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
+https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
+https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
+https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
+
+https://www.principles.com/ | Principles by Ray Dalio
+https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
+https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
+https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
+
+http://fourhourworkweek.com
+http://fourhourworkweek.com/sitemap.xml
+-->
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
 <!--
 https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
 https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
 -->
-
-Tim Ferris
-* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
 
 Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
@@ -167,6 +263,11 @@ Dr. Barbara Oakley
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
+
+https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
+
 https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
 
 https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
@@ -187,9 +288,32 @@ http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Pr
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
 -->
 
+Making Learning Whole
+* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+Learning
+* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
+* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+
+<!--
+* [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
+* [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
+-->
+
 Pocket
 * [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
 * [Pocket Recommended](https://getpocket.com/a/recommended)
+
+Voice
+* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
+* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
+* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
+* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
+
+<!--
+http://dictate.ms
+-->
 
 Productivity- Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -293,6 +417,24 @@ Scientific Method and Minimum Viable Product
 * [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 * [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
 
+Distribution, Digital Distribution and User-Generated Content
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Hiten Shah Twitter](https://twitter.com/hnshah)
+
+<!--
+http://growth.ren/
+https://github.com/phodal/growth
+https://github.com/phodal/growth-ebook
+https://github.com/phodal/awesome-growth
+https://github.com/phodal/fe#%E5%85%B3%E4%BA%8E%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE
+-->
+
 Idea Maze
 * [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
 
@@ -391,15 +533,53 @@ https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesom
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
-## Case Studies and Built With
+## Case Studies, People, and Built With
+
+Philosphers
+* [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+
+<!--
+https://en.wikipedia.org/wiki/List_of_psychologists
+-->
+
+Inventors
+* [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
+
+<!--
+http://www.greatachievements.org
+-->
+
+Schools of Thought
+* [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
+* [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+* [Claude Shannon Wikipedia](https://en.wikipedia.org/wiki/Claude_Shannon)
+* [W. Brian Arthur (books/articles recommended by Sonal) Wikipedia](https://en.wikipedia.org/wiki/W._Brian_Arthur)
+* [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
+* [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
+* [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
+* [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
+
+Computer Pioneers and Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 Computer History
 * [Internet Hall of Fame Inductees](https://internethalloffame.org/inductees/all)
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
 * [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
-* [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
+* [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
+
+GitHub Trending Developers
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
 <!--
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+
+* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
+
+https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/Alonzo_Church
+https://en.wikipedia.org/wiki/Claude_Shannon
+
 https://en.wikipedia.org/wiki/The_Men_Who_Built_America | The Men Who Built America - Wikipedia
 https://twitter.com/cyberomin/status/946032702536470528 | Celestine Omin on Twitter: "My yearly ritual - watching "The Men Who Built America.""
 
@@ -417,6 +597,16 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
 ## Web Development- General
 
 Interesting Curated Learning Resources
@@ -425,6 +615,13 @@ Interesting Curated Learning Resources
 * [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+CodePen
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
 https://memberportal.1millionwomentotech.com/diy
@@ -461,6 +658,9 @@ https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872
 -->
 
 <!--
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Latency_(engineering)
+
 What are the Numbers that Every Computer Engineer Should Know
 http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 https://gist.github.com/jboner/2841832
@@ -479,6 +679,25 @@ Languages and Frameworks
 * [Django REST Framework](https://www.django-rest-framework.org)
 * [React Docs](https://reactjs.org/docs)
 * [Golang Docs](https://golang.org/doc)
+
+CPython
+* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+
+Assembly 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+<!--
+* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
+
+<!--
+https://github.com/amontalenti/elements-of-python-style
+-->
 
 Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
@@ -504,11 +723,28 @@ JavaScript Scene
 One Pic
 * [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
 
+<!--
+Cookies
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
+-->
+
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
+Python- Django- Debug Toolbar
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org)  
+* [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
+
 <!--
+Lincoln Loop Stack
+High Performance Django Stack
+
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
 
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
 
@@ -518,6 +754,10 @@ https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar
 https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
 -->
 
+## Protocols and Classifications
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
 
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
@@ -636,6 +876,9 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 SQL
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
 * [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
 Relational
@@ -773,6 +1016,84 @@ https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architectu
 https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
 https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
+
+#### Servers, Databases, Architectures
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Databases
+* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+Types of Databases
+* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
+* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+<!--
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+Architectures
+* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+
+<!--
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+http://en.wikipedia.org/wiki/REST
+https://en.wikipedia.org/wiki/Representational_state_transfer
+-->
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
 
 ## X Driven Development
 
