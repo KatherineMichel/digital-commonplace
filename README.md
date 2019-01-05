@@ -32,6 +32,7 @@ Meditation
 
 <!--
 https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
+https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t | A Brief History of Humankind - YouTube
 -->
 
 Look at Daily
@@ -40,6 +41,7 @@ Look at Daily
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
+* [Lobsters](https://lobste.rs)
 
 Look at Often
 * [Product Hunt](https://www.producthunt.com)
@@ -106,15 +108,20 @@ https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Sci
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
+Various
+* [Medium Top 100](https://medium.com/top-100) and [Medium Top Stories](https://medium.com/top-stories)
+* [XKCD](http://xkcd.com)
+
 Farnham Street
 * [Farnham Street Blog](https://fs.blog) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
 * [Farnham Street Blog Best Articles](https://fs.blog/best-articles), [Farnham Street Blog Popular Articles](https://fs.blog/popular)
 * [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
 
 <!--
-* [Hacker News](https://news.ycombinator.com), [Hacker News News](https://news.ycombinator.com/news), [Hacker News Newest](https://news.ycombinator.com/newest), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+* [Slideshare Explore Tab](http://www.slideshare.net/popular/category) and [Slideshare Featured](http://www.slideshare.net/featured)
 
-https://lobste.rs
+https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0 | Most Popular XKCD Comics - Google Sheets
 
 https://www.ribbonfarm.com/page/3/?s=roundup
 
@@ -122,10 +129,6 @@ https://www.ribbonfarm.com/page/3/?s=roundup
 
 https://www.farnamstreetblog.com/newsletter
 https://www.farnamstreetblog.com/membership
-
-* [Medium Top 100](https://medium.com/top-100) and [Medium Top Stories](https://medium.com/top-stories)
-* [Slideshare Explore Tab](http://www.slideshare.net/popular/category) and [Slideshare Featured](http://www.slideshare.net/featured)
-* [XKCD](http://xkcd.com)
 
 * [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 
