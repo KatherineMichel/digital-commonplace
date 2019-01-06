@@ -964,10 +964,44 @@ UML Books
 * [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
 * [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
 
-Use Case Books
-* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
+<!--
+Three ways to use UML: sketch, blueprint, and programming language
+Most common: sketch
+Blueprints or sketch: forward-engineering or reverse-engineering direction
+"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
+
+https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
+Figure 1.3, a screen flow diagram
+
+Diagrams: page 10-13
+Table 1.1 Official Diagram Types of the UML
+Table 1.2 Decision Table
+waterfall vs. iterative
+Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
+Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
+
+Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
+
+Chapter 5
+class diagrams
+
+Chapters 6 through 8
+structure of a system: object diagrams, package diagrams, and deployment diagrams.
+
+Chapters 9 through 11 
+behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
+
+https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
+-->
 
 <!--
+https://en.wikipedia.org/wiki/Object-oriented_modeling
+https://en.wikipedia.org/wiki/Model-driven_engineering
+https://en.wikipedia.org/wiki/Model-driven_architecture
+https://en.wikipedia.org/wiki/Platform-independent_model
+https://en.wikipedia.org/wiki/Executable_UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process
+
 https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
 
 http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
@@ -988,6 +1022,9 @@ http://www.graphviz.org/
 https://graphviz.gitlab.io/documentation/
 https://graphviz.gitlab.io/download/
 -->
+
+Use Case Books
+* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
 
 TLA+
 * [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
