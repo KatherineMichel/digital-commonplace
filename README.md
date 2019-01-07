@@ -189,10 +189,6 @@ Seneca the Younger
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
 * [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
 
-Fear Setting
-* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
-* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
-
 Tim Ferris
 * [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
 * [Tools of Titans](https://toolsoftitans.com) 
@@ -249,6 +245,14 @@ Dr. Barbara Oakley
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
+
+https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
+
+https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
+
+
+
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
 https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
@@ -258,23 +262,7 @@ https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
 https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
 https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
 
-
-https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
-
-https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
-
-https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
-
-https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
-
 https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
-
-https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
-
-Deliberate Practice
-https://en.wikipedia.org/wiki/Practice_(learning_method)
-http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
-https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
 
 https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 -->
@@ -289,6 +277,60 @@ Learning
 <!--
 * [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
 * [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
+-->
+
+## Goal Setting and Prioritization
+
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+Goal Setting
+
+Marshall Goldsmith
+* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+
+
+<!--
+https://twitter.com/JamesClear
+
+https://news.ycombinator.com/item?id=18783816 | The habit of habit engineering | Hacker News
+https://threader.app/thread/1078647576201703427 | A thread written by @ali01
+https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
+
+benjamin franklin habits - Google Search
+-->
+
+Effort and Results
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+
+Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+Practice
+* [Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method))
+
+Deliberate Practice
+* [Deliberate Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice)
+
+<!--
+https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
+
+http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
+https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+<!--
+https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
+https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
+
+https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
 ## Productivity
@@ -342,25 +384,9 @@ https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute P
 https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
 https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
-
-
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
-https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
-
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
-Productivity- Marshall Goldsmith
-* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-<!--
-https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html
--->
-
-Productivity- Memory Methods
+Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 <!--
@@ -368,7 +394,7 @@ https://en.wikipedia.org/wiki/Mnemonic
 https://en.wikipedia.org/wiki/Memory_sport
 -->
 
-Productivity- Spaced Repetition
+Spaced Repetition
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 <!--
@@ -376,33 +402,18 @@ https://ncase.me/remember/ | How To Remember Anything Forever-ish
 https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
 https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
 http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
-Habit Engineering
-* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+Checklists
 
 <!--
-https://twitter.com/JamesClear
-
-https://news.ycombinator.com/item?id=18783816 | The habit of habit engineering | Hacker News
-https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
-
-benjamin franklin habits - Google Search
--->
-
-Goal Setting
-
-Productivity- Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
-Productivity- Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-<!--
-https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
-https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
-https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 -->
 
 ## Business Effectiveness and Productivity
