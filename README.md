@@ -244,15 +244,13 @@ https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_C
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
 https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
 https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
 https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+
 https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
 https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
 
 https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
-
-https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 -->
 
 Making Learning Whole
@@ -262,10 +260,8 @@ Learning
 * [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
-<!--
-* [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
-* [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
--->
+Mindset
+* [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 
 ## Goal Setting and Prioritization
 
