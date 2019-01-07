@@ -1,19 +1,5 @@
 # The List 2019
 
-<!--
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
-
-https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "My general principles for success: Overcome your weaknesses. Use your strengths. Both individually are necessary, but not sufficient. You must do both."
-
-https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
-
-https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
--->
-
 ## Well Being
 
 Habits with a High Rate of Return in Life
@@ -95,6 +81,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
+
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
 https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
@@ -280,6 +268,18 @@ Learning
 -->
 
 ## Goal Setting and Prioritization
+
+<!--
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
+
+https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "My general principles for success: Overcome your weaknesses. Use your strengths. Both individually are necessary, but not sufficient. You must do both."
+
+https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
+-->
 
 Fear Setting
 * [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
