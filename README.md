@@ -30,10 +30,14 @@ Mind-Body Connection
 Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
+Sleep
+
 <!--
-https://www.youtube.com/watch?v=CGhTQ4iruLc&feature=youtu.be | A Brief History of Humankind - Lesson 01 - part 1 - Dr. Yuval Noah Harari - YouTube
-https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t | A Brief History of Humankind - YouTube
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
 -->
+
+Sapiens
+* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
 
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
@@ -43,6 +47,10 @@ Look at Daily
 * [Hacker News Trending](https://hntrending.com)
 * [Lobsters](https://lobste.rs)
 
+<!--
+* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+-->
+
 Look at Often
 * [Product Hunt](https://www.producthunt.com)
 
@@ -51,34 +59,31 @@ Product Hunt Leader Boards
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
 * [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 * [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
 <!-- 
-https://makerrank.co/ | Maker Rank: Your Favorite Makers, Ranked
 https://24hrstartup.com/ | The 24 Hour Startup Challenge
 
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 -->
 
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
 <!--
-App ideas
-https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a | Want to build something fun? Here’s a list of sample web app ideas.
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-https://www.djangosites.org/ | Latest Additions at DjangoSites.org
 https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-
-https://github.com/karan/Projects/ | karan/Projects: A list of practical projects that anyone can solve in any programming language.
-https://github.com/karan/Projects-Solutions | karan/Projects-Solutions: Links to others' solutions to Projects 
-
-https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
-https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
 
 https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
 <!--
@@ -110,7 +115,7 @@ Top 10 Articles
 
 Various
 * [Medium Top 100](https://medium.com/top-100) and [Medium Top Stories](https://medium.com/top-stories)
-* [XKCD](http://xkcd.com)
+* [XKCD](http://xkcd.com) and [Most Popular XKCD Comics](https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0)
 
 Farnham Street
 * [Farnham Street Blog](https://fs.blog) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
@@ -118,17 +123,14 @@ Farnham Street
 * [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
 
 <!--
-* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
-* [Slideshare Explore Tab](http://www.slideshare.net/popular/category) and [Slideshare Featured](http://www.slideshare.net/featured)
-
-https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0 | Most Popular XKCD Comics - Google Sheets
-
-https://www.ribbonfarm.com/page/3/?s=roundup
-
 * [Farnam Street Courses](https://fscourses.com)
 
 https://www.farnamstreetblog.com/newsletter
 https://www.farnamstreetblog.com/membership
+
+* [Slideshare Explore Tab](http://www.slideshare.net/popular/category) and [Slideshare Featured](http://www.slideshare.net/featured)
+
+https://www.ribbonfarm.com/page/3/?s=roundup
 
 * [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 
@@ -154,12 +156,21 @@ Books- Management and Scaling
 * [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
 * [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
 * [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
-
-<!--
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
-https://www.blitzscaling.com/ | https://www.blitzscaling.com
+<!--
+Marty Cagan Inspired
+
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
+
+The Upside of Stress
+https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
+http://online.stanford.edu/course/upside-stress
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
+https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+A Brief History of Existential Terror
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 -->
 
 Seneca the Younger
@@ -173,23 +184,22 @@ Fear Setting
 * [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
 
 Tim Ferris
-* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
-
-<!--
-Tim Ferris
 * [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
 * [Tools of Titans](https://toolsoftitans.com) 
+* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
 * [Tribe of Mentors](https://tribeofmentors.com)
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
 
+<!--
 Tools of Titans
 http://tim.blog/2017/01/25/tools-of-titans-index/
 https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 
 FreshBooks: Breaking the Time Barrier
 https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+
+http://fourhourworkweek.com
+http://fourhourworkweek.com/sitemap.xml
 
 Rec from Tim Ferris
 Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
@@ -200,41 +210,10 @@ https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 
-https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
-
-
-A Brief History of Existential Terror
-https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
-
-The Upside of Stress
-https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
-http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
-https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-Marty Cagan Inspired
-
-Nir Eyal
-https://www.nirandfar.com/download/hooked-workbook.pdf
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
-
-https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
-https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
-https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
-https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
-https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
-
 https://www.principles.com/ | Principles by Ray Dalio
 https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
 https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
 https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
-
-http://fourhourworkweek.com
-http://fourhourworkweek.com/sitemap.xml
 -->
 
 Personal Advice
@@ -242,6 +221,9 @@ Personal Advice
 * [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 
 <!--
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
 https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
 https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
 -->
@@ -270,6 +252,14 @@ Dr. Barbara Oakley
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
+https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
+https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
+https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
+https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
+
+
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 
 https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
@@ -289,8 +279,10 @@ https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklis
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
-https://en.wikipedia.org/wiki/Practice_(learning_method)
 https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
+
+Deliberate Practice
+https://en.wikipedia.org/wiki/Practice_(learning_method)
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
 -->
@@ -490,6 +482,12 @@ Persuasive Tech
 * [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
 * [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
 * [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
+
+<!--
+Nir Eyal
+https://www.nirandfar.com/download/hooked-workbook.pdf
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+-->
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Open Product Management](https://github.com/tron1991/open-product-management)
