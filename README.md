@@ -71,7 +71,7 @@ https://24hrstartup.com/ | The 24 Hour Startup Challenge
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 -->
 
-## Ideas
+## Project-Based Learning
 
 App Ideas
 * [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
@@ -288,12 +288,9 @@ Marshall Goldsmith
 
 Habit Engineering
 * [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816 )
 
 <!--
-https://twitter.com/JamesClear
-
-https://news.ycombinator.com/item?id=18783816 | The habit of habit engineering | Hacker News
 https://threader.app/thread/1078647576201703427 | A thread written by @ali01
 https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
 
@@ -315,6 +312,7 @@ Deliberate Practice
 <!--
 https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
 
+https://twitter.com/JamesClear
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
 -->
@@ -414,17 +412,23 @@ https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklis
 
 ## Business Effectiveness and Productivity
 
+Objectives
+* [Management by Objectives Wikipedia](https://en.wikipedia.org/wiki/Management_by_objectives)
+* [Peter Drucker Wikipedia](https://en.wikipedia.org/wiki/Peter_Drucker)
+* Deming: Eliminate Management by Objectives
+* Peter Thiel’s “One Thing” philosophy (only do one job)
+
+Company Approaches
+* Google: OKRs
+* Facebook: P90/P50/P25 goals
+
+OKRs
+* [OKR Wikipedia](https://en.wikipedia.org/wiki/OKR)
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+
 <!--
-https://www.amazon.com/dp/B078FZ9SYB/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs eBook: John Doerr, Larry Page: Kindle Store
-https://en.wikipedia.org/wiki/OKR
-Peter Thiel’s “One Thing” philosophy (only do one job)
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
 task relevant maturity - Google Search
-
-https://en.wikipedia.org/wiki/Management_by_objectives | Management by objectives - Wikipedia
-https://en.wikipedia.org/wiki/Peter_Drucker
-Deming: Eliminate Management by Objectives
-Facebook P90/P50/P25 goals
 
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
