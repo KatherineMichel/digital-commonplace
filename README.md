@@ -47,10 +47,6 @@ Look at Daily
 * [Hacker News Trending](https://hntrending.com)
 * [Lobsters](https://lobste.rs)
 
-<!--
-* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
--->
-
 Look at Often
 * [Product Hunt](https://www.producthunt.com)
 
@@ -123,15 +119,6 @@ Farnham Street
 * [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
 
 <!--
-* [Farnam Street Courses](https://fscourses.com)
-
-https://www.farnamstreetblog.com/newsletter
-https://www.farnamstreetblog.com/membership
-
-* [Slideshare Explore Tab](http://www.slideshare.net/popular/category) and [Slideshare Featured](http://www.slideshare.net/featured)
-
-https://www.ribbonfarm.com/page/3/?s=roundup
-
 * [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 
 http://nuzzel.com/newswire
@@ -166,7 +153,7 @@ https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second
 The Upside of Stress
 https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
 http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
 https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 A Brief History of Existential Terror
@@ -195,13 +182,11 @@ Tools of Titans
 http://tim.blog/2017/01/25/tools-of-titans-index/
 https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
 
-FreshBooks: Breaking the Time Barrier
-https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
-
 http://fourhourworkweek.com
 http://fourhourworkweek.com/sitemap.xml
 
 Rec from Tim Ferris
+http://fourhourworkweek.com/2013/11/11/vagabonding/ | The Tim Ferriss Book Club Launches — Book #1: Vagabonding | The Blog of Author Tim Ferriss
 Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
@@ -227,12 +212,6 @@ https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
 https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
 https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
 -->
-
-Personal MBA
-* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
-* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
-* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
-* [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
 
 ## Mental Models
 
@@ -262,7 +241,6 @@ https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Ma
 
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
 
 https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
@@ -271,20 +249,14 @@ https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateur
 
 https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
 
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
-https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
-
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
 https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
 
 Deliberate Practice
 https://en.wikipedia.org/wiki/Practice_(learning_method)
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
+
+https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 -->
 
 Making Learning Whole
@@ -314,24 +286,6 @@ Voice
 
 <!--
 http://dictate.ms
--->
-
-Productivity- Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-<!--
-https://en.wikipedia.org/wiki/Mnemonic
-https://en.wikipedia.org/wiki/Memory_sport
--->
-
-Productivity- Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-<!--
-https://ncase.me/remember/ | How To Remember Anything Forever-ish
-https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
-https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
-http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
 -->
 
 Mind Tools
@@ -368,6 +322,15 @@ https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute P
 https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
 https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+
+
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
 Productivity- Marshall Goldsmith
@@ -377,14 +340,22 @@ Productivity- Marshall Goldsmith
 https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html
 -->
 
+Productivity- Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
 <!--
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Memory_sport
+-->
 
-https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
-https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+Productivity- Spaced Repetition
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
-Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
+<!--
+https://ncase.me/remember/ | How To Remember Anything Forever-ish
+https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
+https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
+http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
 -->
 
 Habit Engineering
@@ -413,6 +384,45 @@ https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.pn
 https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
 https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
+
+## Business Effectiveness and Productivity
+
+<!--
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+
+Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
+-->
+
+## Business Philosophies
+
+Personal MBA
+* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
+* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
+* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
+* [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
+
+Tim Ferris Blueprints
+* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
+* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
+* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
+* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+
+<!--
+FreshBooks: Breaking the Time Barrier
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+-->
+
+## Ratios
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 ## Minimum Viable Product
 
@@ -484,8 +494,6 @@ Persuasive Tech
 * [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
 
 <!--
-Nir Eyal
-https://www.nirandfar.com/download/hooked-workbook.pdf
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 -->
 
@@ -494,20 +502,6 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-Tim Ferris Blueprints
-* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
-* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
-* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
-* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
-
-## Ratios
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 ## Conferences
 
@@ -546,18 +540,23 @@ https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/
 
 ## People and Case Studies
 
-Philosphers
+Philosphers and Psychologists
 * [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
+* [List of Psychologists Wikipedia](https://en.wikipedia.org/wiki/List_of_psychologists)  
 
-<!--
-https://en.wikipedia.org/wiki/List_of_psychologists
--->
+Logicians and Mathematicians
+* [List of Logicians Wikipedia](https://en.wikipedia.org/wiki/List_of_logicians)
+* [List of Mathematicians Wikipedia](https://en.wikipedia.org/wiki/Lists_of_mathematicians)
+* [List of Women in Mathematics Wikipedia](https://en.wikipedia.org/wiki/List_of_women_in_mathematics)
 
-Inventors
+Inventors and Leaders
 * [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
+* [The Men Who Built America Wikipedia](https://en.wikipedia.org/wiki/The_Men_Who_Built_America)
 
 <!--
 http://www.greatachievements.org
+
+https://twitter.com/cyberomin/status/946032702536470528 | Celestine Omin on Twitter: "My yearly ritual - watching "The Men Who Built America.""
 -->
 
 Schools of Thought
@@ -583,6 +582,9 @@ GitHub Trending Developers
 * [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
 <!--
+The 39 most powerful female engineers of 2018
+https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
+https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
 
 * [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
@@ -590,14 +592,6 @@ http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 |
 https://en.wikipedia.org/wiki/Alan_Turing
 https://en.wikipedia.org/wiki/Alonzo_Church
 https://en.wikipedia.org/wiki/Claude_Shannon
-
-https://en.wikipedia.org/wiki/The_Men_Who_Built_America | The Men Who Built America - Wikipedia
-https://twitter.com/cyberomin/status/946032702536470528 | Celestine Omin on Twitter: "My yearly ritual - watching "The Men Who Built America.""
-
-https://en.wikipedia.org/wiki/Mathematician
-https://en.wikipedia.org/wiki/Lists_of_philosophers | Lists of philosophers - Wikipedia
-https://en.wikipedia.org/wiki/List_of_logicians | List of logicians - Wikipedia
-https://en.wikipedia.org/wiki/Category:Lists_of_mathematicians
 
 https://www.forbes.com/top-tech-women/#17ee38b74df0
 https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepreneurs | Inc.com
@@ -696,7 +690,7 @@ Languages and Frameworks
 CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
-Assembly 
+C Programming Language 
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
