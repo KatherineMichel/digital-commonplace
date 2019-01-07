@@ -252,6 +252,8 @@ Personal MBA
 * [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
 * [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
 
+## Mental Models
+
 Mental Models
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -544,7 +546,7 @@ https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesom
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
-## Case Studies, People, and Built With
+## People and Case Studies
 
 Philosphers
 * [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
@@ -607,6 +609,8 @@ https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+## Built With
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source) 
