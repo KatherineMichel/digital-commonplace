@@ -154,7 +154,6 @@ The Upside of Stress
 https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
 http://online.stanford.edu/course/upside-stress
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
-https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 A Brief History of Existential Terror
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
@@ -194,11 +193,6 @@ http://vagabonding.net
 https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
-
-https://www.principles.com/ | Principles by Ray Dalio
-https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
-https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
-https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
 -->
 
 Personal Advice
@@ -388,6 +382,17 @@ https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization
 ## Business Effectiveness and Productivity
 
 <!--
+https://www.amazon.com/dp/B078FZ9SYB/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs eBook: John Doerr, Larry Page: Kindle Store
+https://en.wikipedia.org/wiki/OKR
+Peter Thiel’s “One Thing” philosophy (only do one job)
+https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
+task relevant maturity - Google Search
+
+https://en.wikipedia.org/wiki/Management_by_objectives | Management by objectives - Wikipedia
+https://en.wikipedia.org/wiki/Peter_Drucker
+Deming: Eliminate Management by Objectives
+Facebook P90/P50/P25 goals
+
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
@@ -395,6 +400,13 @@ https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit 
 https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
 
 Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
+
+https://www.principles.com/ | Principles by Ray Dalio
+https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
+https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
+https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/In_Search_of_Excellence#Themes | In Search of Excellence - Wikipedia
 -->
 
 ## Business Philosophies
