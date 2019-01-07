@@ -1,10 +1,6 @@
 # The List 2019
 
 <!--
-Well Being
-https://twitter.com/james_clear/status/1005821705980465152 | James Clear on Twitter: "Habits that have a high rate of return in life: - sleep 8+ hours each day - lift weights 3x week - go for a walk each day - save at least 10 percent of your income - read every day - drink more water and less of everything else - leave your phone in another room while you work"
-https://twitter.com/ValaAfshar/status/1065265463473651712 | Vala Afshar on Twitter: "A healthy list: 1 Get more sleep 2 Make time to exercise 3 Drink more water 4 Eat less sugar 5 Stay teachable 6 Read and write more 7 Remove clutter 8 More random acts of kindness 9 Don't respond to negativity 10 Spend quality time with family 11 Show gratitude #WednesdayWisdom"
-
 https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
 https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
@@ -13,12 +9,34 @@ https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "
 
 https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "My general principles for success: Overcome your weaknesses. Use your strengths. Both individually are necessary, but not sufficient. You must do both."
 
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
 https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
-https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
 
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
+-->
+
+## Well Being
+
+Habits with a High Rate of Return in Life
+* [DHH](https://twitter.com/dhh/status/990742238257864705)
+* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
+* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
+
+<!--
+- save at least 10 percent of your income
+- leave your phone in another room while you work
+
+* Sleep 8+ hours every day
+* Exercise: lift weights 3x per week/go for a walk every day
+* Drink more water, less of everything else
+* Eat less sugar
+* Stay teachable
+* Read every day
+* Write more
+* Remove clutter
+* More random acts of kindness
+* Don't respond to negativity
+* Spend quality time with family
+* Show gratitude #WednesdayWisdom
 -->
 
 Center for Humane Technology
@@ -38,6 +56,8 @@ https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Be
 
 Sapiens
 * [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
+
+## Trends
 
 Look at Daily
 * [GitHub Trending](https://github.com/trending)
@@ -65,6 +85,8 @@ https://24hrstartup.com/ | The 24 Hour Startup Challenge
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 -->
 
+## Ideas
+
 App Ideas
 * [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
 * [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
@@ -73,6 +95,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+
 https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
 
 https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
@@ -106,6 +130,8 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
+## Articles and Blog Posts
+
 Top 10 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
 
@@ -121,15 +147,9 @@ Farnham Street
 <!--
 * [Nuzzel (including Twitter List support)](http://nuzzel.com) 
 
-http://nuzzel.com/newswire
-
 Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-More News
-* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
-* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
 -->
 
 Tim Ferris
@@ -137,6 +157,8 @@ Tim Ferris
 
 Tren Griffin
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+## Books
 
 Books- Management and Scaling
 * [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
@@ -158,6 +180,8 @@ https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
 A Brief History of Existential Terror
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 -->
+
+## How to Live
 
 Seneca the Younger
 * [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
@@ -225,6 +249,8 @@ Dr. Barbara Oakley
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
 https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
 https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
 https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
