@@ -489,14 +489,6 @@ Distribution, Growth, Sales Hacking
 * [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
 * [Hiten Shah Twitter](https://twitter.com/hnshah)
 
-<!--
-http://growth.ren/
-https://github.com/phodal/growth
-https://github.com/phodal/growth-ebook
-https://github.com/phodal/awesome-growth
-https://github.com/phodal/fe#%E5%85%B3%E4%BA%8E%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE
--->
-
 Idea Maze
 * [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
 
