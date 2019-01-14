@@ -546,12 +546,8 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 
 ## Conferences
 
-Conferences (See also Designer/Developer Conferences and Python Django Conferences)
-* [Lanyrd](http://lanyrd.com)
+General
 * [PaperCall](https://www.papercall.io)
-* [Crunchbase Global Events List](http://www.crunchbase.com/events)  
-* [Techmeme Events List](http://techmeme.com/events) 
-* [Tech EU Events List](http://tech.eu/events)
 
 Python and Django
 * [PSF Python Events](https://www.python.org/events)
@@ -852,6 +848,10 @@ https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCo
 -->
 
 ## Paradigms and Patterns
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
 Software Paradigm Types
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
