@@ -929,19 +929,62 @@ SQL
 * [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
 * [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+Databases
+* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Comparison of Database Tools Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_database_tools)  
+
+Schema and Model
+* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model) 
+* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
+
+Model-Driven
+* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+
 Relational
 * [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
 * [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
 * [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+* [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
 * [Create, Read, Update and Delete Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 
-<!--
-https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
--->
+Examples of Popular Relational Databases
+* [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
+* [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
+* [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
+
+Relational and Object
+* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system) 
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+
+Architecture
+* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
 
 <!--
 ORM, MRO
 https://www.fullstackpython.com/object-relational-mappers-orms.html
+-->
+
+<!--
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+
+https://en.wikipedia.org/wiki/Mutator_method
+
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+http://en.wikipedia.org/wiki/SQL#Queries
 -->
 
 Object Oriented Software Construction
@@ -1040,9 +1083,6 @@ https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/03217189
 -->
 
 <!--
-https://en.wikipedia.org/wiki/Object-oriented_modeling
-https://en.wikipedia.org/wiki/Model-driven_engineering
-https://en.wikipedia.org/wiki/Model-driven_architecture
 https://en.wikipedia.org/wiki/Platform-independent_model
 https://en.wikipedia.org/wiki/Executable_UML
 https://en.wikipedia.org/wiki/Rational_Unified_Process
@@ -1115,48 +1155,6 @@ Client and Server-Side
 * [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
 * [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
 * [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Databases
-* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
-* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
-
-Types of Databases
-* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-<!--
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
-
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-
-http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
-http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
-http://en.wikipedia.org/wiki/SQL#Queries
--->
 
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
