@@ -7,24 +7,6 @@ Habits with a High Rate of Return in Life
 * [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
 * [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
 
-<!--
-- save at least 10 percent of your income
-- leave your phone in another room while you work
-
-* Sleep 8+ hours every day
-* Exercise: lift weights 3x per week/go for a walk every day
-* Drink more water, less of everything else
-* Eat less sugar
-* Stay teachable
-* Read every day
-* Write more
-* Remove clutter
-* More random acts of kindness
-* Don't respond to negativity
-* Spend quality time with family
-* Show gratitude #WednesdayWisdom
--->
-
 Center for Humane Technology
 * [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
 
@@ -121,10 +103,11 @@ https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Sci
 ## Articles and Blog Posts
 
 Top 10 Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming )
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
 
 Various
-* [Medium Top 100](https://medium.com/top-100) and [Medium Top Stories](https://medium.com/top-stories)
+* [Medium Top Stories](https://medium.com/top-stories)
+* [Top Medium Stories](https://topmediumstories.com)
 * [XKCD](http://xkcd.com) and [Most Popular XKCD Comics](https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0)
 
 Farnham Street
@@ -724,9 +707,6 @@ Languages and Frameworks
 * [React Docs](https://reactjs.org/docs)
 * [Golang Docs](https://golang.org/doc)
 
-CPython
-* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
-
 C Programming Language 
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
@@ -787,15 +767,16 @@ High Performance Django Stack
 
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
 
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-model-utils
-
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
 
+Django Debug Toolbar
 https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
 https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
 https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
 https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
+
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
 -->
 
 ## Protocols and Classifications
@@ -905,14 +886,29 @@ https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patt
 https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
 https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
 
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
-
+Pluralsight Python Design Patterns course author
 https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-https://app.pluralsight.com/player?course=python-design-patterns&author=gerald-britton&name=python-design-patterns-m5&clip=1&mode=live | Design Patterns with Python
-https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents | Functional Programming with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents | Design Patterns with Python | Pluralsight
-https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
 -->
+
+## Client, Server
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Client-Side
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+
+Server-Side
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
 
 ## Software Design
 
@@ -928,6 +924,10 @@ SQL
 * [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
 * [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
 * [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+<!--
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
 
 Stanford Open Classroom- Introduction to Databases
 * [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
@@ -975,36 +975,22 @@ https://www.fullstackpython.com/object-relational-mappers-orms.html
 -->
 
 <!--
+https://en.wikipedia.org/wiki/Primary_key
+
 https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
 
 https://en.wikipedia.org/wiki/Mutator_method
+https://docs.python.org/3/library/functions.html#setattr
+https://docs.python.org/3/library/functions.html#getattr
+https://docs.python.org/3/library/functions.html#hasattr
+https://docs.python.org/3/library/functions.html#delattr
+https://en.wikipedia.org/wiki/Property_(programming)
 
 http://en.wikipedia.org/wiki/Database_normalization
 http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 
 http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
-http://en.wikipedia.org/wiki/SQL#Queries
--->
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
 <!--
@@ -1021,6 +1007,30 @@ https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | P
 https://en.wikipedia.org/wiki/Immutable_object
 
 https://en.wikipedia.org/wiki/Memoization
+-->
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+<!--
+https://realpython.com/modeling-polymorphism-django-python/
+-->
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
 Software Principles (SOLID)
@@ -1142,30 +1152,17 @@ https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-c
 https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
 
-#### Servers, Databases, Architectures
+## Architectures
 
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
-
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
-Architectures
-* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 * [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
 
 <!--
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
-http://en.wikipedia.org/wiki/REST
 https://en.wikipedia.org/wiki/Representational_state_transfer
 -->
 
@@ -1177,6 +1174,19 @@ Distributed and Parallel Computing
 * [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 * [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+<!--
+http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
+
+https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
+http://users.ece.utexas.edu/~adnan/pike.html
+-->
 
 ## X Driven Development
 
@@ -1211,24 +1221,6 @@ http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 http://highscalability.com/ | High Scalability -
--->
-
-## Types of Architectures
-
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-
-<!--
-http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
-
-https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
-http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
 ## Standards
