@@ -63,6 +63,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
 https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
@@ -410,6 +412,10 @@ OKRs
 * [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
 
 <!--
+Don't mistake motion for progress
+
+Apple's Directly Responsible Individual (DRI)
+
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
 task relevant maturity - Google Search
 
@@ -448,6 +454,13 @@ FreshBooks: Breaking the Time Barrier
 https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
 -->
 
+## Chicken or Egg Problem
+
+<!--
+https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
+https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
+-->
+
 ## Ratios
 
 Financial Ratio
@@ -455,6 +468,10 @@ Financial Ratio
 
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+<!--
+https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
+-->
 
 ## Minimum Viable Product
 
@@ -551,6 +568,7 @@ https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engin
 
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
+http://www.camilletalk.com/ | Camille Fournier
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
@@ -648,9 +666,12 @@ The Practical Dev and Hackernoon
 * [Hacker Noon](https://hackernoon.com)
 
 CodePen
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
 https://memberportal.1millionwomentotech.com/diy
 https://github.com/1millionwomentotech | 1 Million Women To Tech
 
