@@ -564,6 +564,8 @@ JavaScript Scene
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
+https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
+
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
 
 https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
