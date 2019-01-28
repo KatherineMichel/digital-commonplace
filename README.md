@@ -728,6 +728,7 @@ Languages and Frameworks
 * [Django Docs](https://docs.djangoproject.com)  
 * [Django REST Framework](https://www.django-rest-framework.org)
 * [React Docs](https://reactjs.org/docs)
+* [Vue Docs](https://vuejs.org/v2/guide)
 * [Golang Docs](https://golang.org/doc)
 
 C Programming Language 
@@ -769,13 +770,6 @@ JavaScript Scene
 
 One Pic
 * [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-<!--
-Cookies
-* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
--->
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
@@ -1245,22 +1239,6 @@ https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 http://highscalability.com/ | High Scalability -
 -->
-
-## Standards
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-JavaScript
-* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
-* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
-* [Node.js GitHub](https://github.com/nodejs)
 
 ## Security 
 
