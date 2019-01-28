@@ -16,10 +16,25 @@ Mind-Body Connection
 Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
+<!--
+https://www.amazon.com/Strength-Stillness-Power-Transcendental-Meditation/dp/1501161210 | Strength in Stillness: The Power of Transcendental Meditation: Bob Roth: 9781501161216: Amazon.com: Books
+-->
+
 Sleep
 
 <!--
+https://www.amazon.com/dp/B06ZZ1YGJ5/ | Why We Sleep: Unlocking the Power of Sleep and Dreams - Kindle edition by Matthew Walker. Health, Fitness & Dieting Kindle eBooks @ Amazon.com.
+
+https://en.wikipedia.org/wiki/Circadian_clock | Circadian clock - Wikipedia
+
 https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
+-->
+
+Stress
+
+<!--
+The Upside of Stress
+https://www.amazon.com/dp/B00OI5PGWU
 -->
 
 Sapiens
@@ -761,15 +776,8 @@ Kenneth Reitz Advice to Me
 https://wiki.python.org/moin/GlobalInterpreterLock
 -->
 
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
 JavaScript Scene
 * [JavaScript Scene](https://medium.com/javascript-scene)
-
-One Pic
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
