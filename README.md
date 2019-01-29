@@ -15,18 +15,13 @@ Mind-Body Connection
 
 Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-<!--
-https://www.amazon.com/Strength-Stillness-Power-Transcendental-Meditation/dp/1501161210 | Strength in Stillness: The Power of Transcendental Meditation: Bob Roth: 9781501161216: Amazon.com: Books
--->
+* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
 
 Sleep
+* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
+* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
 
 <!--
-https://www.amazon.com/dp/B06ZZ1YGJ5/ | Why We Sleep: Unlocking the Power of Sleep and Dreams - Kindle edition by Matthew Walker. Health, Fitness & Dieting Kindle eBooks @ Amazon.com.
-
-https://en.wikipedia.org/wiki/Circadian_clock | Circadian clock - Wikipedia
-
 https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
 -->
 
@@ -35,6 +30,11 @@ Stress
 <!--
 The Upside of Stress
 https://www.amazon.com/dp/B00OI5PGWU
+http://online.stanford.edu/course/upside-stress
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
+
+A Brief History of Existential Terror
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 -->
 
 Sapiens
@@ -91,13 +91,6 @@ https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100d
 
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
--->
-
-<!--
-https://developers.google.com/web/showcase
-
-https://www.w3.org/TR/notifications
-https://www.w3.org/TR/push-api
 -->
 
 ## Competitive Programming
@@ -159,14 +152,6 @@ Books- Management and Scaling
 Marty Cagan Inspired
 
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
-
-The Upside of Stress
-https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
-http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
-
-A Brief History of Existential Terror
-https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 -->
 
 ## How to Live
@@ -233,12 +218,13 @@ Dr. Barbara Oakley
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
+
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
 
 https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
-
 
 
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
@@ -406,6 +392,9 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 Checklists
 
 <!--
+The Checklist Manifesto: How to Get Things Right, Atul Gawande
+https://www.amazon.com/dp/B0030V0PEW
+
 Checklist Manifesto Template
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 -->
@@ -427,8 +416,6 @@ OKRs
 * [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
 
 <!--
-Don't mistake motion for progress
-
 Apple's Directly Responsible Individual (DRI)
 
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
@@ -579,6 +566,9 @@ JavaScript Scene
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
+https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
+
 https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
 
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
