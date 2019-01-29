@@ -218,8 +218,6 @@ Dr. Barbara Oakley
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
-http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
-
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
@@ -237,6 +235,11 @@ https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wiki
 https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
 
 https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
 -->
 
 Making Learning Whole
@@ -248,6 +251,10 @@ Learning
 
 Mindset
 * [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
+
+<!--
+https://fs.blog/2015/03/carol-dweck-mindset/
+-->
 
 ## Goal Setting and Prioritization
 
@@ -315,6 +322,14 @@ https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization
 
 ## Productivity
 
+<!--
+https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
+
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
+https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
+-->
+
 Pocket
 * [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
 * [Pocket Recommended](https://getpocket.com/a/recommended)
@@ -348,6 +363,8 @@ Productivity- The Art of Focus
 * [Index](https://bitcq.com/torrent/3196010)
 
 <!--
+https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
+
 https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
 https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
 https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
