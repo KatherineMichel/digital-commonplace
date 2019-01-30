@@ -1254,22 +1254,3 @@ https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 http://highscalability.com/ | High Scalability -
 -->
-
-## Security 
-
-<!--
-https://en.wikipedia.org/wiki/Threat_model
-
-https://github.com/OWASP
-https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
-
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-
-https://www.owasp.org/index.php/Main_Page
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
--->
