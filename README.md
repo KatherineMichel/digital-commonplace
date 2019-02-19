@@ -756,6 +756,10 @@ Computing Classification
 ## Clean Architecture
 
 <!--
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+-->
+
+<!--
 Robert C. Martin
 https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
 
@@ -822,22 +826,12 @@ Architectures
 * [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
 * [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
 * [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
-
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-
-Client-Side
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-
-Server-Side
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+<!--
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+https://en.wikipedia.org/wiki/Representational_state_transfer
+-->
 
 ## X Driven Development
 
@@ -848,6 +842,7 @@ Server-Side
 * [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
 * [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 * [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
 
@@ -973,18 +968,12 @@ Databases
 Schema and Model
 * [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
 * [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model) 
-* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
-
-Model-Driven
-* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
-* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
 
 Relational
 * [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
 * [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
 * [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
 * [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
-* [Create, Read, Update and Delete Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 
 Examples of Popular Relational Databases
 * [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
@@ -1056,10 +1045,21 @@ Object Oriented Software Characteristics
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 <!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+<!--
+https://realpython.com/modeling-polymorphism-django-python/
+
+* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
+
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 
 https://en.wikipedia.org/wiki/Object_composition
 https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/Stateless_protocol
 https://en.wikipedia.org/wiki/State_diagram
 https://en.wikipedia.org/wiki/Interface_(computing)
 
@@ -1112,29 +1112,50 @@ Shard
 
 
 <!--
+* [Create, Read, Update and Delete Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+
 https://en.wikipedia.org/wiki/Continuous_integration
 https://en.wikipedia.org/wiki/Continuous_delivery
 
+AP, CP or CA Databases
+
 https://en.wikipedia.org/wiki/CAP_theorem
+https://en.wikipedia.org/wiki/Consistency_(database_systems)
+https://en.wikipedia.org/wiki/Availability
+https://en.wikipedia.org/wiki/Network_partition
+
+https://en.wikipedia.org/wiki/High_availability
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Throttling_process_(computing)
+https://en.wikipedia.org/wiki/Bandwidth_throttling
+https://en.wikipedia.org/wiki/Throughput
 
-https://en.wikipedia.org/wiki/Load_balancing_(computing)
+https://en.wikipedia.org/wiki/Database_transaction
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/ACID_(computer_science)
+https://en.wikipedia.org/wiki/Atomic_commit
+BASE
+https://en.wikipedia.org/wiki/Eventual_consistency
+CRUD
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
 https://en.wikipedia.org/wiki/Rate_limiting
-https://en.wikipedia.org/wiki/High_availability
 https://en.wikipedia.org/wiki/Failover
 https://en.wikipedia.org/wiki/Persistence_(computer_science)
 https://en.wikipedia.org/wiki/Event-driven_messaging
-https://en.wikipedia.org/wiki/Loose_coupling
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/Multitenancy
 https://en.wikipedia.org/wiki/Webhook
 https://en.wikipedia.org/wiki/Performance_tuning
 https://en.wikipedia.org/wiki/Fault_tolerance
-https://en.wikipedia.org/wiki/Throttling_process_(computing)
-https://en.wikipedia.org/wiki/Bandwidth_throttling
-https://en.wikipedia.org/wiki/Throughput
+https://en.wikipedia.org/wiki/Cron
+https://en.wikipedia.org/wiki/Cache_(computing)
 
 
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
@@ -1164,26 +1185,7 @@ https://en.wikipedia.org/wiki/Concurrent_computing
 https://en.wikipedia.org/wiki/Parallel_computing
 -->
 
-
-<!--
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
-https://en.wikipedia.org/wiki/Representational_state_transfer
--->
-
  
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-
-<!--
-https://realpython.com/modeling-polymorphism-django-python/
--->
-
-
-
 ## Python Internals
 
 Python Internals
