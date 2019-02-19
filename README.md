@@ -82,6 +82,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
 https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
 https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
 
@@ -685,13 +687,6 @@ Built With
 
 ## Web Development- General
 
-Interesting Curated Learning Resources
-* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 * [Hacker Noon](https://hackernoon.com)
@@ -700,16 +695,19 @@ CodePen
 * [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
-<!--
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+Interesting Curated Learning Resources
+* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
+<!--
+https://github.com/charlax/professional-programming
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 
 https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://en.wikipedia.org/wiki/CAP_theorem
-https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 
 https://github.com/jwasham/coding-interview-university
 https://github.com/CyC2018/CS-Notes
@@ -717,7 +715,18 @@ https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
 https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
 
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+-->
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
 -->
 
 <!--
@@ -736,18 +745,29 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-t
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Latency_(engineering)
+## Important Concepts
 
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
+<!--
+https://en.wikipedia.org/wiki/CAP_theorem
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+-->
+
+## Site Reliability Engineering, High Performance Browser Networking
+
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+<!--
+* [High Performance Browser Networking](https://hpbn.co/)
+
+https://github.com/dastergon/awesome-sre
+
+https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
+https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
+
+https://landing.google.com/sre/ | Google - Site Reliability Engineering
+
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 -->
 
 ## Languages and Frameworks
