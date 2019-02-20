@@ -825,6 +825,8 @@ Architectures
 * [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 
 <!--
+https://en.wikipedia.org/wiki/Multitenancy
+
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 https://en.wikipedia.org/wiki/Representational_state_transfer
 -->
@@ -1059,6 +1061,7 @@ https://en.wikipedia.org/wiki/Stateless_protocol
 https://en.wikipedia.org/wiki/State_diagram
 https://en.wikipedia.org/wiki/Interface_(computing)
 
+https://en.wikipedia.org/wiki/Persistence_(computer_science)
 https://en.wikipedia.org/wiki/Persistent_data_structure
 https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
 
@@ -1091,12 +1094,25 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 -->
 
 
-
-
 ## Important Concepts
 
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+CPU versus IO
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [Input/Output Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+
+<!--
+https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
+https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
+-->
+
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
 
 Database Principles
 * [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
@@ -1135,35 +1151,44 @@ https://en.wikipedia.org/wiki/Distributed_transaction
 https://en.wikipedia.org/wiki/Atomic_commit
 https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
 
-https://en.wikipedia.org/wiki/CAP_theorem
-https://en.wikipedia.org/wiki/Consistency_(database_systems)
-https://en.wikipedia.org/wiki/Availability
-https://en.wikipedia.org/wiki/Network_partition
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
 
+System
 https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
 https://en.wikipedia.org/wiki/Bandwidth_throttling
 https://en.wikipedia.org/wiki/Throughput
-
-https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
 https://en.wikipedia.org/wiki/Rate_limiting
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Persistence_(computer_science)
+
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+https://en.wikipedia.org/wiki/Cron
+
+https://en.wikipedia.org/wiki/Cache_(computing)
+https://en.wikipedia.org/wiki/Webhook
+
+
+https://en.wikipedia.org/wiki/Computer
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 https://en.wikipedia.org/wiki/Pareto_principle
-https://en.wikipedia.org/wiki/Multitenancy
-https://en.wikipedia.org/wiki/Webhook
 https://en.wikipedia.org/wiki/Performance_tuning
-https://en.wikipedia.org/wiki/Fault_tolerance
-https://en.wikipedia.org/wiki/Cron
-https://en.wikipedia.org/wiki/Cache_(computing)
 
 https://en.wikipedia.org/wiki/Continuous_integration
 https://en.wikipedia.org/wiki/Continuous_delivery
 
+https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
+https://en.wikipedia.org/wiki/Multiprocessing
+
+https://en.wikipedia.org/wiki/Network_socket
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
 https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
@@ -1172,10 +1197,6 @@ https://docs.python.org/3/library/threading.html | threading — Thread-based pa
 https://en.wikipedia.org/wiki/Thread_(computing)
 https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
 https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
-
-https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
-https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
-https://en.wikipedia.org/wiki/Input/output | Input/output - Wikipedia
 
 https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Async/await
@@ -1186,7 +1207,6 @@ https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
 https://en.wikipedia.org/wiki/Asynchronous_system
 https://en.wikipedia.org/wiki/Asynchronous_communication
 
-https://en.wikipedia.org/wiki/Central_processing_unit
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)
 https://en.wikipedia.org/wiki/Concurrent_computing
 https://en.wikipedia.org/wiki/Parallel_computing
