@@ -711,9 +711,9 @@ https://github.com/davideuler/architecture.of.internet-product | davideuler/arch
 
 https://github.com/jwasham/coding-interview-university
 https://github.com/CyC2018/CS-Notes
+
 https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-https://github.com/hmtranae/Topics-in-Imposter-Handbook/blob/master/imposter-handbook-links.md | Topics-in-Imposter-Handbook/imposter-handbook-links.md at master · hmtranae/Topics-in-Imposter-Handbook
 
 https://memberportal.1millionwomentotech.com/diy
 https://github.com/1millionwomentotech | 1 Million Women To Tech
@@ -779,26 +779,22 @@ https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c0
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 * [Principles of Chaos Engineering](http://principlesofchaos.org)
 
-<!--
-http://stevesouders.com/hpws
-https://www.enterpriseready.io
-https://github.com/enterpriseready/enterpriseready
-http://highscalability.com/ | High Scalability -
--->
-
 Site Reliability Engineering
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
 * [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
 
 High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
 <!--
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+http://highscalability.com/ | High Scalability -
+
+https://landing.google.com/sre/book/index.html 
+
 https://github.com/dastergon/awesome-sre
-
-https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
-https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
-
-https://landing.google.com/sre/ | Google - Site Reliability Engineering
 
 https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 -->
@@ -1102,6 +1098,12 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
 
+Database Principles
+* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
+* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
+* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
 Distributed and Parallel Computing
 * [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
@@ -1112,14 +1114,26 @@ Shard
 
 
 <!--
-* [Create, Read, Update and Delete Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
 
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-
-https://en.wikipedia.org/wiki/Continuous_integration
-https://en.wikipedia.org/wiki/Continuous_delivery
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
 
 AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
 
 https://en.wikipedia.org/wiki/CAP_theorem
 https://en.wikipedia.org/wiki/Consistency_(database_systems)
@@ -1132,16 +1146,6 @@ https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
 https://en.wikipedia.org/wiki/Bandwidth_throttling
 https://en.wikipedia.org/wiki/Throughput
-
-https://en.wikipedia.org/wiki/Database_transaction
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/ACID_(computer_science)
-https://en.wikipedia.org/wiki/Atomic_commit
-BASE
-https://en.wikipedia.org/wiki/Eventual_consistency
-CRUD
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
 
 https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
 https://en.wikipedia.org/wiki/Rate_limiting
@@ -1156,6 +1160,9 @@ https://en.wikipedia.org/wiki/Performance_tuning
 https://en.wikipedia.org/wiki/Fault_tolerance
 https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Cache_(computing)
+
+https://en.wikipedia.org/wiki/Continuous_integration
+https://en.wikipedia.org/wiki/Continuous_delivery
 
 
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
