@@ -1099,6 +1099,12 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
 
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+
 CPU versus IO
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [Input/Output Wikipedia](https://en.wikipedia.org/wiki/Input/output)
@@ -1127,7 +1133,6 @@ Distributed and Parallel Computing
 
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
 
 <!--
 https://en.wikipedia.org/wiki/OSI_model
