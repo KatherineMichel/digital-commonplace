@@ -703,12 +703,15 @@ Interesting Curated Learning Resources
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
-https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
-https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
+
+https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
+
+https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
 https://t.co/BEhKVo5t3R"
-https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls?page=3&q=is%3Apr+is%3Aclosed | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
+https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
 https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
 https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
 https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
