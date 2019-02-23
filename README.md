@@ -648,6 +648,116 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
+## Open Source Software
+
+<!--
+GitLab (See also Project Management, Continuous Integration, Docker)
+* [GitLab](https://gitlab.com)
+
+https://about.gitlab.com
+http://packages.gitlab.com/
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://github.com/blog/2471-introducing-team-discussions | Introducing Team discussions
+https://github.com/blog/2415-introducing-embedded-code-snippets
+https://github.com/blog/2470-introducing-security-alerts-on-github
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
+
+GitHub Web Hooks
+* [Service Hooks GitHub](https://github.com/github/github-services)   
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+GitHub Developer
+* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+https://githubengineering.com
+https://blog.github.com
+https://github.com/blog
+
+https://github.com/actions | GitHub Actions
+https://github.com/features/actions | Features • GitHub Actions
+https://github.community/| Home - GitHub Community Forum
+https://hub.github.com/ | hub · the command-line wrapper for git
+https://github.com/updates | What’s new on GitHub · GitHub
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://github.com/primer | Primer
+
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+
+https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months	
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://developer.github.com/apps
+
+https://github.com/blog/2226-build-an-integration-for-github
+https://developer.github.com/integrations-directory/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
+
+https://github.com/github/github-services/tree/master/docs
+
+https://en.wikipedia.org/wiki/Webhook
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+
+Important!
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+https://arxiv.org/abs/1702.01715 | [1702.01715] Software Engineering at Google
+
+https://www.computerworlduk.com/open-source/how-google-decides-open-source-its-technology-3681832/ | How Google decides to open source its technology | Open Source | Computerworld UK
+
+Company OS
+
+Facebook Open Source
+https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
+https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
+
+https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook | Scaling Mercurial at Facebook | Engineering Blog | Facebook Code
+
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext | Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
+https://dl.acm.org/citation.cfm?id=2854146 | Why Google stores billions of lines of code in a single repository
+
+https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/ | Scaling Git (and some back story) | Brian Harry's blog
+
+https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ | The largest Git repo on the planet | Brian Harry's blog
+
+https://github.com/Microsoft/GVFS | Microsoft/GVFS: Git Virtual File System
+https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system/ | Announcing GVFS (Git Virtual File System) – Microsoft DevOps Blog
+https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual File System | Hacker News
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+-->
+
 ## Built With
 
 Python- Django- Sites
