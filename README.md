@@ -796,6 +796,14 @@ https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
 ## Built With
