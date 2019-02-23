@@ -648,7 +648,34 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+<!--
+https://about.gitlab.com/developer-survey/
+https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+https://2018.stateofjs.com/ | The State of JavaScript 2018: [en-US] page.home
+http://stateofjs.com/2016/frontend/ | Front-End Frameworks
+-->
+
 ## Open Source Software
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 <!--
 GitLab (See also Project Management, Continuous Integration, Docker)
@@ -682,6 +709,8 @@ https://githubengineering.com
 https://blog.github.com
 https://github.com/blog
 
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
 https://github.com/actions | GitHub Actions
 https://github.com/features/actions | Features • GitHub Actions
 https://github.community/| Home - GitHub Community Forum
@@ -696,7 +725,8 @@ https://github.com/blog/2453-mission-report-github-universe-2017 | Mission repor
 https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 
-https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months	
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2401-the-github-diversity-report	
 
 https://developer.github.com/apps
@@ -714,6 +744,10 @@ https://help.github.com/articles/about-webhooks/
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 
+https://todogroup.org/guides
+http://todogroup.org
+https://github.com/todogroup
+
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
 
@@ -722,6 +756,8 @@ https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
 https://arxiv.org/abs/1702.01715 | [1702.01715] Software Engineering at Google
 
 https://www.computerworlduk.com/open-source/how-google-decides-open-source-its-technology-3681832/ | How Google decides to open source its technology | Open Source | Computerworld UK
+
+https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
 
 Company OS
 
@@ -745,17 +781,15 @@ https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual Fil
 Feature Toggles
 https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
 
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
 https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
 
 https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
 https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
 -->
 
 ## Built With
@@ -868,6 +902,11 @@ https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872
 Authorities
 * [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+<!--
+https://martinfowler.com/articles/products-over-projects.html
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+-->
 
 Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
