@@ -765,8 +765,6 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 
 https://github.com/github/github-services/tree/master/docs
 
-https://en.wikipedia.org/wiki/Webhook
-
 https://todogroup.org/guides
 http://todogroup.org
 https://github.com/todogroup
@@ -798,6 +796,10 @@ https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-p
 https://github.com/Microsoft/GVFS | Microsoft/GVFS: Git Virtual File System
 https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system/ | Announcing GVFS (Git Virtual File System) – Microsoft DevOps Blog
 https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual File System | Hacker News
+
+
+https://en.wikipedia.org/wiki/Continuous_integration
+https://en.wikipedia.org/wiki/Continuous_delivery
 
 Feature Toggles
 https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
@@ -1402,17 +1404,15 @@ https://en.wikipedia.org/wiki/Cache_(computing)
 https://en.wikipedia.org/wiki/Webhook
 
 
-https://en.wikipedia.org/wiki/Computer
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/Performance_tuning
 
-https://en.wikipedia.org/wiki/Continuous_integration
-https://en.wikipedia.org/wiki/Continuous_delivery
 
 https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
 https://en.wikipedia.org/wiki/Multiprocessing
 
+https://en.wikipedia.org/wiki/WebSocket
 https://en.wikipedia.org/wiki/Network_socket
 https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 
