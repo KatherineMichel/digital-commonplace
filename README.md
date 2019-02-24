@@ -678,24 +678,20 @@ GitLab
 * [GitLab](https://gitlab.com) and [GitLab About](https://about.gitlab.com)
 * [GitLab Docs](http://docs.gitlab.com)
 * [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Comparison](https://about.gitlab.com/comparison)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 * [GitLab Packages](http://packages.gitlab.com)
 
 GitHub
 * [GitHub Features (Code Review, ect.)](https://github.com/features) 
-* [GitHub Blog](https://github.com/blog)  
+* [GitHub Blog](https://github.blog)  
 * [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Updates](https://github.com/updates)
 * [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
 GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
 
 <!--
-https://githubengineering.com
-https://blog.github.com
-
 https://github.com/actions | GitHub Actions
 https://github.com/features/actions | Features • GitHub Actions
 https://github.community/| Home - GitHub Community Forum
@@ -722,7 +718,7 @@ http://githooks.com/
 Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
 * [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
+* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
 
 GitHub Web Hooks
 * [Service Hooks GitHub](https://github.com/github/github-services)   
@@ -731,17 +727,17 @@ GitHub Web Hooks
 GitHub Developer 
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 Google Open Source
 * [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
 * [Google Open Source Docs](https://opensource.google.com/docs)
 * [Why Open Source?](https://opensource.google.com/docs/why)
 
-GitHub Open Source Guide
-* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 
 <!--
 * [Github Development (Example Website)](https://github.com/github/developer.github.com) 
@@ -781,8 +777,6 @@ https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Docume
 Important!
 https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
 https://arxiv.org/abs/1702.01715 | [1702.01715] Software Engineering at Google
-
-https://www.computerworlduk.com/open-source/how-google-decides-open-source-its-technology-3681832/ | How Google decides to open source its technology | Open Source | Computerworld UK
 
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
 
@@ -963,6 +957,15 @@ https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplicat
 https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+<!--
+https://martinfowler.com/bliki/MaturityModel.html
+
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 -->
 
 Checklists
@@ -1543,6 +1546,10 @@ Comparison of basic instructions of programming languages
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
 Comparison of programming languages (mapping)
 -->
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 ## Languages and Frameworks
 
