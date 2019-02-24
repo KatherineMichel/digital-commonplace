@@ -585,9 +585,13 @@ Python and Django
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
 
 <!--
-https://techyaks.com/top-python-talks.html
-
-https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
+https://www.meetup.com/topics/python/all/
+https://www.meetup.com/topics/django/all/
+https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
+https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
+https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
+Kansas City, St. Louis
 -->
 
 ## People and Case Studies
@@ -665,11 +669,67 @@ List of Engineering Blogs
 https://about.gitlab.com/developer-survey/
 https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
 https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
-https://2018.stateofjs.com/ | The State of JavaScript 2018: [en-US] page.home
 http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 -->
 
 ## Open Source Software
+
+GitLab
+* [GitLab](https://gitlab.com) and [GitLab About](https://about.gitlab.com)
+* [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Comparison](https://about.gitlab.com/comparison)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitHub
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+* [GitHub Blog](https://github.com/blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Updates](https://github.com/updates)
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+<!--
+https://githubengineering.com
+https://blog.github.com
+
+https://github.com/actions | GitHub Actions
+https://github.com/features/actions | Features • GitHub Actions
+https://github.community/| Home - GitHub Community Forum
+https://hub.github.com/ | hub · the command-line wrapper for git
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://github.com/primer | Primer
+
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v4/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+-->
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
+
+GitHub Web Hooks
+* [Service Hooks GitHub](https://github.com/github/github-services)   
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
@@ -684,11 +744,9 @@ GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 <!--
-GitLab (See also Project Management, Continuous Integration, Docker)
-* [GitLab](https://gitlab.com)
+* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
 
-https://about.gitlab.com
-http://packages.gitlab.com/
+https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
@@ -698,42 +756,9 @@ https://github.com/blog/2471-introducing-team-discussions | Introducing Team dis
 https://github.com/blog/2415-introducing-embedded-code-snippets
 https://github.com/blog/2470-introducing-security-alerts-on-github
 
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing) 
-
-GitHub Web Hooks
-* [Service Hooks GitHub](https://github.com/github/github-services)   
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-GitHub Developer
-* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-https://githubengineering.com
-https://blog.github.com
-https://github.com/blog
-
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
-https://github.com/actions | GitHub Actions
-https://github.com/features/actions | Features • GitHub Actions
-https://github.community/| Home - GitHub Community Forum
-https://hub.github.com/ | hub · the command-line wrapper for git
-https://github.com/updates | What’s new on GitHub · GitHub
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://github.com/primer | Primer
-
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2401-the-github-diversity-report	
+https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
 
 https://developer.github.com/apps
 
@@ -745,10 +770,6 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 https://github.com/github/github-services/tree/master/docs
 
 https://en.wikipedia.org/wiki/Webhook
-
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
 
 https://todogroup.org/guides
 http://todogroup.org
@@ -796,14 +817,6 @@ https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
 ## Built With
@@ -876,6 +889,13 @@ https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses:
 -->
 
 <!--
+https://techyaks.com/top-python-talks.html
+
+https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+
+https://github.com/asciimoo/ListOfGithubLists
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 
@@ -935,6 +955,14 @@ Authorities
 <!--
 https://martinfowler.com/articles/products-over-projects.html
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
 Checklists
@@ -1492,14 +1520,6 @@ https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django
 https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
 
-## Python and Django Contributing
-
-Django and Python Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
-* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
-
 ## Programming Language Comparisons
 
 Programming Language Comparisons
@@ -1656,6 +1676,14 @@ http://pythontesting.net/start-here/
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
 -->
+
+## Python and Django Contributing
+
+Django and Python Contributing
+* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
+* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+* [CPython Dev Guide](https://devguide.python.org), [Alternate URL: CPython Dev Guide Read the Docs](http://cpython-devguide.readthedocs.io), and [CPython Dev Guide GitHub](https://github.com/python/devguide)
+* [How to Become a Core Developer — Python Developer's Guide](https://devguide.python.org/coredev)
 
 ## Python Packaging
 
