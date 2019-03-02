@@ -592,6 +592,9 @@ https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Franci
 https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
 https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
 Kansas City, St. Louis
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks – Nina Zakharenko – Medium
+https://twitter.com/nnja/status/1096609124559642626 | 𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘 💖🐍 on Twitter: "2: Choosing a Topic Takeaways: - Everyone, including you, has something interesting to say. Use everyday inspiration to pick a topic. - Choose a topic that you’re passionate about. Your enthusiasm will show. - Keep up to date on open Calls For Proposals https://t.co/nunhr0Nqu7"
 -->
 
 ## People and Case Studies
