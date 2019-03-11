@@ -63,6 +63,9 @@ Product Hunt Leader Boards
 * [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
 <!-- 
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
 https://repl.it/leaders | Repl.it - Leaderboard
 
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
@@ -478,6 +481,8 @@ Tim Ferris Blueprints
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
 <!--
+https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
+
 FreshBooks: Breaking the Time Barrier
 https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
 -->
@@ -747,6 +752,8 @@ Google Developers- Code
 
 https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
 
+https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
 
@@ -754,6 +761,8 @@ https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 https://github.com/blog/2471-introducing-team-discussions | Introducing Team discussions
 https://github.com/blog/2415-introducing-embedded-code-snippets
 https://github.com/blog/2470-introducing-security-alerts-on-github
+
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
 
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
@@ -771,6 +780,8 @@ https://github.com/github/github-services/tree/master/docs
 https://todogroup.org/guides
 http://todogroup.org
 https://github.com/todogroup
+
+https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
@@ -838,6 +849,8 @@ JavaScript Scene
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 <!--
+https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
+
 https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
 https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
 
@@ -883,6 +896,8 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 -->
@@ -982,7 +997,9 @@ Computing Classification
 ## Clean Architecture
 
 <!--
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 -->
 
 <!--
