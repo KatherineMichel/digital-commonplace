@@ -1549,7 +1549,6 @@ https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
 
 Django Debug Toolbar
-https://django-debug-toolbar.readthedocs.io/en/latest/ | Django Debug Toolbar — Django Debug Toolbar 1.11 documentation
 https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
 https://github.com/jazzband/django-debug-toolbar | jazzband/django-debug-toolbar: A configurable set of panels that display various debug information about the current request/response.
 https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
@@ -1717,9 +1716,12 @@ Django Testing
 * [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
 
 <!--
+https://github.com/revsys/django-test-plus
+
 https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
 https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
 
+https://docs.pytest.org/en/latest/contents.html#toc
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
