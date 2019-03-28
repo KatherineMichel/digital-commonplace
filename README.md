@@ -1733,3 +1733,50 @@ http://pythontesting.net/start-here/
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
 -->
+
+
+<!--
+salt, ansible
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
+
+Message and Task Queues
+http://mqtt.org/ | MQTT
+http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+http://python-rq.org/
+https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
+https://www.fullstackpython.com/task-queues.html
+https://redis.io/ | Redis
+
+https://www.sqlalchemy.org
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+
+https://elixir-lang.org/ | Elixir
+
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+https://en.wikipedia.org/wiki/WebSocket
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://realpython.com/python-data-classes/
+
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+-->
