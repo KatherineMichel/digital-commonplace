@@ -481,6 +481,8 @@ Tim Ferris Blueprints
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
 <!--
+https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
+
 https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
 
 FreshBooks: Breaking the Time Barrier
