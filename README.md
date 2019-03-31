@@ -182,6 +182,9 @@ Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
 
 <!--
+https://fourminutebooks.com/the-courage-to-be-disliked-summary/
+https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
+
 Tools of Titans
 http://tim.blog/2017/01/25/tools-of-titans-index/
 https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
@@ -880,6 +883,13 @@ CodePen
 * [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
+<!--
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://t.co/rzvAPV1wXl | https://glitch.com/@python
+https://guide.freecodecamp.org/ | freeCodeCamp Guide
+https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
+-->
+
 Interesting Curated Learning Resources
 * [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
@@ -1460,6 +1470,10 @@ https://en.wikipedia.org/wiki/Asynchronous_communication
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)
 https://en.wikipedia.org/wiki/Concurrent_computing
 https://en.wikipedia.org/wiki/Parallel_computing
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
 -->
 
 ## Programming Language Comparisons
@@ -1503,6 +1517,8 @@ C Programming Language
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
 
 <!--
+https://en.wikipedia.org/wiki/C%2B%2B | C++ - Wikipedia
+
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 
 https://learncodethehardway.org/c/
