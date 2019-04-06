@@ -582,31 +582,6 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
-## Conferences
-
-General
-* [PaperCall](https://www.papercall.io)
-
-Python and Django
-* [PSF Python Events](https://www.python.org/events)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
-* [Python Conferences Repo](https://github.com/python-organizers/conferences)
-* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
-
-<!--
-https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
-https://www.meetup.com/topics/python/all/
-https://www.meetup.com/topics/django/all/
-https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
-https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
-https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
-Kansas City, St. Louis
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks – Nina Zakharenko – Medium
-https://twitter.com/nnja/status/1096609124559642626 | 𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘 💖🐍 on Twitter: "2: Choosing a Topic Takeaways: - Everyone, including you, has something interesting to say. Use everyday inspiration to pick a topic. - Choose a topic that you’re passionate about. Your enthusiasm will show. - Keep up to date on open Calls For Proposals https://t.co/nunhr0Nqu7"
--->
-
 ## People and Case Studies
 
 Philosphers and Psychologists
