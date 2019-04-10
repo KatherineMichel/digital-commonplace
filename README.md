@@ -1486,20 +1486,6 @@ Languages and Frameworks (Other than Python and Django)
 * [Vue Docs](https://vuejs.org/v2/guide)
 * [Golang Docs](https://golang.org/doc)
 
-C Programming Language 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-<!--
-https://en.wikipedia.org/wiki/C%2B%2B | C++ - Wikipedia
-
-* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
--->
-
 JavaScript Scene
 * [JavaScript Scene](https://medium.com/javascript-scene)
 
