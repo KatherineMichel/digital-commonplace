@@ -448,6 +448,9 @@ OKRs
 * [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
 
 <!--
+https://twitter.com/rabois/status/1114954160594505728 | Keith Rabois on Twitter: "I despise OKRs.… "
+https://twitter.com/sriramk/status/1114954089060806656 | Sriram Krishnan on Twitter: "And all the psychology around OKRs that the OP post talks about ( stretch goals leading to short term pressure )… https://t.co/jdw1ouEPMK"
+
 Apple's Directly Responsible Individual (DRI)
 
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
@@ -1225,14 +1228,10 @@ https://www.fullstackpython.com/object-relational-mappers-orms.html
 <!--
 https://en.wikipedia.org/wiki/Primary_key
 
-https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+https://twitter.com/simonw/status/1113134366601838592
+https://backchannel.org/blog/friendfeed-schemaless-mysql | How FriendFeed uses MySQL to store schema-less data
 
-https://en.wikipedia.org/wiki/Mutator_method
-https://docs.python.org/3/library/functions.html#setattr
-https://docs.python.org/3/library/functions.html#getattr
-https://docs.python.org/3/library/functions.html#hasattr
-https://docs.python.org/3/library/functions.html#delattr
-https://en.wikipedia.org/wiki/Property_(programming)
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
 
 http://en.wikipedia.org/wiki/Database_normalization
 http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
@@ -1253,6 +1252,13 @@ Software Paradigm Types
 * [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 * [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+<!--
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+-->
 
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
