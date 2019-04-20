@@ -1388,6 +1388,9 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 <!--
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+https://en.wikipedia.org/wiki/Stack_(abstract_data_type) | Stack (abstract data type) - Wikipedia
+
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
@@ -1396,6 +1399,10 @@ https://en.wikipedia.org/wiki/Throughput
 https://en.wikipedia.org/wiki/Rate_limiting
 
 https://en.wikipedia.org/wiki/Cache_(computing)
+
+https://en.wikipedia.org/wiki/LL_parser | LL parser - Wikipedia
+https://en.wikipedia.org/wiki/Control-flow_graph | Control-flow graph - Wikipedia
+https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
 
 
 https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Engineering
@@ -1468,7 +1475,6 @@ https://en.wikipedia.org/wiki/Multiprocessing
 
 https://en.wikipedia.org/wiki/WebSocket
 https://en.wikipedia.org/wiki/Network_socket
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
 https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
