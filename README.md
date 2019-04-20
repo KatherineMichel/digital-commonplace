@@ -1332,6 +1332,23 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 
 ## Important Concepts
 
+<!--
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
+
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
+-->
+
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
 
@@ -1371,20 +1388,31 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 <!--
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Application_layer
-https://en.wikipedia.org/wiki/Presentation_layer
-https://en.wikipedia.org/wiki/Session_layer
-https://en.wikipedia.org/wiki/Transport_layer
-https://en.wikipedia.org/wiki/Network_layer
-https://en.wikipedia.org/wiki/Data_link_layer
-https://en.wikipedia.org/wiki/Physical_layer
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Throttling_process_(computing)
+https://en.wikipedia.org/wiki/Bandwidth_throttling
+https://en.wikipedia.org/wiki/Throughput
+https://en.wikipedia.org/wiki/Rate_limiting
 
-https://en.wikipedia.org/wiki/Internet_Protocol
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-https://en.wikipedia.org/wiki/Internet_layer
-https://en.wikipedia.org/wiki/Link_layer
+https://en.wikipedia.org/wiki/Cache_(computing)
+
+
+https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Engineering
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+https://en.wikipedia.org/wiki/Bytecode | Bytecode - Wikipedia
+https://en.wikipedia.org/wiki/Reference_counting | Reference counting - Wikipedia
+http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
+
+https://en.wikipedia.org/wiki/Representational_state_transfer | Representational state transfer - Wikipedia
+https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
+https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
+https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
+https://en.wikipedia.org/wiki/Concurrency_(computer_science) | Concurrency (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+
+
 
 AP, CP or CA Databases
 
@@ -1400,39 +1428,14 @@ https://en.wikipedia.org/wiki/High_availability
 https://en.wikipedia.org/wiki/Failover
 https://en.wikipedia.org/wiki/Fault_tolerance
 
-https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Throttling_process_(computing)
-https://en.wikipedia.org/wiki/Bandwidth_throttling
-https://en.wikipedia.org/wiki/Throughput
-https://en.wikipedia.org/wiki/Rate_limiting
-
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
 https://en.wikipedia.org/wiki/Cron
 
-https://en.wikipedia.org/wiki/Cache_(computing)
 https://en.wikipedia.org/wiki/Webhook
 
-
-https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
-https://en.wikipedia.org/wiki/Pareto_principle
-https://en.wikipedia.org/wiki/Performance_tuning
-
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-
-
-https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
-https://en.wikipedia.org/wiki/Multiprocessing
-
-https://en.wikipedia.org/wiki/WebSocket
-https://en.wikipedia.org/wiki/Network_socket
-https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
-
-https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
-https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
 
 https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
 https://en.wikipedia.org/wiki/Thread_(computing)
@@ -1451,6 +1454,24 @@ https://en.wikipedia.org/wiki/Asynchronous_communication
 https://en.wikipedia.org/wiki/Concurrency_(computer_science)
 https://en.wikipedia.org/wiki/Concurrent_computing
 https://en.wikipedia.org/wiki/Parallel_computing
+
+
+https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
+https://en.wikipedia.org/wiki/Pareto_principle
+https://en.wikipedia.org/wiki/Performance_tuning
+
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+
+
+https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
+https://en.wikipedia.org/wiki/Multiprocessing
+
+https://en.wikipedia.org/wiki/WebSocket
+https://en.wikipedia.org/wiki/Network_socket
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+
+https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
+https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
 
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
@@ -1632,47 +1653,4 @@ http://pythontesting.net/start-here/
 <!--
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
--->
-
-
-<!--
-salt, ansible
-http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
-
-Message and Task Queues
-http://mqtt.org/ | MQTT
-http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-http://python-rq.org/
-https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
-https://www.fullstackpython.com/task-queues.html
-https://redis.io/ | Redis
-
-https://www.sqlalchemy.org
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-
-https://elixir-lang.org/ | Elixir
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-https://realpython.com/python-data-classes/
-
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
-Node.js
-Event-driven, asynchronous IO
-
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
 -->
