@@ -683,8 +683,15 @@ GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
 
 <!--
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+
 https://github.com/actions | GitHub Actions
 https://github.com/features/actions | Features • GitHub Actions
+
+GitHub Package Registry
+https://github.com/features/package-registry | GitHub Package Registry: Your packages, at home with their code
+https://about.gitlab.com/2019/05/10/github-adds-package-registry/ | Packaging now standard, dependency proxy next? | GitLab
+
 https://github.community/| Home - GitHub Community Forum
 https://hub.github.com/ | hub · the command-line wrapper for git
 https://github.com/maintainers | Open Source Maintainers on GitHub
@@ -772,6 +779,8 @@ https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Docume
 Important!
 https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
 https://arxiv.org/abs/1702.01715 | [1702.01715] Software Engineering at Google
+
+https://eng.uber.com/research/keeping-master-green-at-scale/ | Keeping master green at scale | Uber Engineering Blog
 
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
 
