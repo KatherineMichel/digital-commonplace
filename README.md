@@ -683,6 +683,29 @@ GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
 
 <!--
+https://github.com/erikbern/git-of-theseus
+
+https://live-stream.github.com/ | GitHub Live Events
+
+https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
+https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
+
+https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
+
+Packages
+https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
+Sponsors
+https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
+https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
+https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
+https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
+
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+
+https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
+https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-enterprise/
+
 https://about.gitlab.com/handbook/ | Handbook | GitLab
 
 https://github.com/actions | GitHub Actions
