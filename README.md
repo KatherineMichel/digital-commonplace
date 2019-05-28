@@ -629,6 +629,11 @@ GitHub Trending Developers
 * [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
 <!--
+Humans of comp
+https://computingthehumanexperience.com/people/ | People – Computing: The Human Experience
+https://twitter.com/computinghuman | computing (@computinghuman) | Twitter
+https://twitter.com/Grady_Booch/status/1067904220865585152 | Grady Booch on Twitter: "i hope to bring it online in the next month or two. i'm reworking the site for my documentary (Computing: The Human Experience). I'll announce it here, when it's up.… https://t.co/vLuPj8FF2P"
+
 The 39 most powerful female engineers of 2018
 https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
 https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
