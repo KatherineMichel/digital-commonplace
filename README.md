@@ -1581,6 +1581,41 @@ https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-archit
 https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
 -->
 
+## General Software Design Patterns
+
+Creational Patterns
+* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
+* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
+* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
+
+Structural Patterns
+* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
+* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
+* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
+* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
+
+Behavioral Patterns
+* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
+* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
+* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
+* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
+* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
+
+
 ## Python Patterns
 
 Python Design Patterns and Algorithms
