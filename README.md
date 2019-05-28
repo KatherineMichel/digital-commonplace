@@ -888,6 +888,25 @@ https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesom
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
+## Coding Practice
+
+Math/Programming Problems and Projects
+* [Project Euler Problems](http://projecteuler.net/problems) 
+
+Practice
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com)
+* [100 Days of Code](http://www.100daysofcode.com)
+
+## Python- Coding Practice
+
+Python Challenges
+* [Exercism Python](https://exercism.io/tracks/python)
+* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
+* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
+* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
+* [Python Morsels](https://www.pythonmorsels.com)
+
 ## Web Development- General
 
 The Practical Dev and Hackernoon
