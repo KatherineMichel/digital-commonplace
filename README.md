@@ -982,6 +982,68 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-t
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
 
+## Authority Figures and Books
+
+* [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
+* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
+* [Steven C. McConnell](http://stevemcconnell.com)
+* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
+* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+<!--
+https://www.kentbeck.com/ | KentBeck.com
+
+http://stevemcconnell.com/books/
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+-->
+
+<!--
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+-->
+
+<!--
+Clean Architecture
+Clean Code
+Code Complete
+Compilers
+Computer Architecture
+Design Patterns
+Design Patterns Explained
+Domain Driven Design- Tackling
+Domain Driven Design Reference
+Extreme Programming Explained
+Head First Design Patterns
+Head First Object Oriented Analysis and Design
+Lean Software Development
+Patterns of Enterprise Application Architecture
+Programming Pearls
+Refactoring
+Release It
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+Test Driven Development by Example
+The Architecture of Open Source Applications
+The Mythical Man Month
+The Programmatic Programmer
+Working Effectively with Legacy Code
+
+https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
+
+https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+-->
+
 ## Software Design
 
 Authorities
