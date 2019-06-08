@@ -574,6 +574,8 @@ Persuasive Tech
 * [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
 
 <!--
+Nir Eyal 4-step model
+
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 -->
 
@@ -584,6 +586,57 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 ## People and Case Studies
+
+<!--
+https://www.top500.org/ | Home | TOP500 Supercomputer Sites
+
+http://www.pulitzer.org/ | The Pulitzer Prizes
+
+Mozilla
+https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/ | Apply for a Mozilla Fellowship - The Mozilla Blog
+https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
+https://mozilla.fluxx.io/apply/MOSS | https://mozilla.fluxx.io/apply/MOSS
+
+https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
+https://www.openchainproject.org/ | Home - OpenChain
+https://todogroup.org/ | // TODO: Talk openly, develop openly
+https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
+
+Rewards
+https://opensource.com/article/19/2/community-awards-2019 | Announcing the 2019 Opensource.com Community Awards winners | Opensource.com
+https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
+https://www.redhat.com/en/about/women-in-open-source | Women in Open Source Award
+https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
+https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html | Announcing more Open Source Peer Bonus winners | Google Open Source Blog
+https://opensource.com/article/18/2/community-awards-2018
+https://blog.sourced.tech/post/100-awesome-women-in-the-open-source-community-you-should-know/ | 100 Awesome Women In The Open-Source Community You Should Know · source{d} blog
+https://www.redhat.com/en/about/women-in-open-source | Women in Open Source Award
+https://opensource.com/article/18/2/community-awards-2018 | Announcing the 2018 Opensource.com Community Awards winners | Opensource.com
+https://opensource.googleblog.com/2018/03/congratulating-open-source-peer-bonus-winners.html | Congratulating the latest Open Source Peer Bonus winners | Google Open Source Blog
+https://opensource.googleblog.com/2018/03/celebrating-open-source-mentorship.html | Celebrating open source mentorship with Joomla | Google Open Source Blog
+
+Awards
+https://opensource.googleblog.com/2018/03/congratulating-open-source-peer-bonus-winners.html | Congratulating the latest Open Source Peer Bonus winners | Google Open Source Blog
+http://opensourceawards.org/ | UK Open Source Awards
+https://www.fossjobs.net
+https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
+https://www.google.com/search?q=ACM+Turing+Award&oq=ACM+Turing+Award&aqs=chrome..69i57j0l5.254j0j7&sourceid=chrome&ie=UTF-8 | ACM Turing Award - Google Search
+
+Later
+https://ethics.acm.org/2018-code-draft-3/
+http://www.wfeo.org/ethics/ | Code of Ethics | WFEO
+
+https://www.ncwit.org/ | National Center for Women & Information Technology |
+Society of Women Engineers
+
+https://twitter.com/@usnistgov | NIST (@usnistgov) | Twitter
+https://twitter.com/theNAEng | Nat'l Aced of Eng. (@theNAEng) | Twitter
+https://www.techrepublic.com/article/acm-updates-computing-ethics-code-for-first-time-in-16-years-heres-whats-new/?platform=hootsuite | ACM updates computing ethics code for first time in 26 years, here's what's new - TechRepublic
+
+https://www.propublica.org/code-of-ethics/ | Code of Ethics — ProPublica
+https://foss.training/ | DGPLUG Summer Training
+http://python-gsoc.org/ | Python GSoC – Splash
+-->
 
 Philosphers and Psychologists
 * [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
@@ -627,7 +680,15 @@ GitHub Trending Developers
 * [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
 <!--
+https://dependabot.com/ | Dependabot
+
+http://www.computerhistory.org/
+https://www.computerhistory.org/fellowawards/hall/ | Hall of Fellows | Computer History Museum
+http://www.computerhistory.org/press/2018-fellow-honorees.html | Computer History Museum Announces 2018 Fellow Award Honorees | Press Releases | Computer History Museum
+http://www.computinghistory.org.uk/ | Computing History - The UK Computer Museum - Cambridge
+
 Humans of comp
+https://wikivisually.com/wiki/Kathleen_Booth | Kathleen Booth - WikiVisually
 https://computingthehumanexperience.com/people/ | People – Computing: The Human Experience
 https://twitter.com/computinghuman | computing (@computinghuman) | Twitter
 https://twitter.com/Grady_Booch/status/1067904220865585152 | Grady Booch on Twitter: "i hope to bring it online in the next month or two. i'm reworking the site for my documentary (Computing: The Human Experience). I'll announce it here, when it's up.… https://t.co/vLuPj8FF2P"
@@ -940,6 +1001,9 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
