@@ -22,6 +22,9 @@ Sleep
 * [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
 
 <!--
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
+
 https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
 -->
 
@@ -599,32 +602,23 @@ https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/ | Apply
 https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
 https://mozilla.fluxx.io/apply/MOSS | https://mozilla.fluxx.io/apply/MOSS
 
-https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
-https://www.openchainproject.org/ | Home - OpenChain
-https://todogroup.org/ | // TODO: Talk openly, develop openly
-https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
-
-Rewards
+Awards and Rewards
 https://opensource.com/article/19/2/community-awards-2019 | Announcing the 2019 Opensource.com Community Awards winners | Opensource.com
-https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
-https://www.redhat.com/en/about/women-in-open-source | Women in Open Source Award
-https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
-https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html | Announcing more Open Source Peer Bonus winners | Google Open Source Blog
-https://opensource.com/article/18/2/community-awards-2018
-https://blog.sourced.tech/post/100-awesome-women-in-the-open-source-community-you-should-know/ | 100 Awesome Women In The Open-Source Community You Should Know · source{d} blog
-https://www.redhat.com/en/about/women-in-open-source | Women in Open Source Award
 https://opensource.com/article/18/2/community-awards-2018 | Announcing the 2018 Opensource.com Community Awards winners | Opensource.com
-https://opensource.googleblog.com/2018/03/congratulating-open-source-peer-bonus-winners.html | Congratulating the latest Open Source Peer Bonus winners | Google Open Source Blog
+https://opensource.googleblog.com/2018/03/congratulating-open-source-peer-bonus-winners.html | Congratulating the latest Open Source Peer Bonus winners | Google Open Source Blog
+https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html | Announcing more Open Source Peer Bonus winners | Google Open Source Blog
 https://opensource.googleblog.com/2018/03/celebrating-open-source-mentorship.html | Celebrating open source mentorship with Joomla | Google Open Source Blog
 
-Awards
-https://opensource.googleblog.com/2018/03/congratulating-open-source-peer-bonus-winners.html | Congratulating the latest Open Source Peer Bonus winners | Google Open Source Blog
+https://blog.sourced.tech/post/100-awesome-women-in-the-open-source-community-you-should-know/ | 100 Awesome Women In The Open-Source Community You Should Know · source{d} blog
+https://www.redhat.com/en/about/women-in-open-source | Women in Open Source Award
 http://opensourceawards.org/ | UK Open Source Awards
 https://www.fossjobs.net
 https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
 https://www.google.com/search?q=ACM+Turing+Award&oq=ACM+Turing+Award&aqs=chrome..69i57j0l5.254j0j7&sourceid=chrome&ie=UTF-8 | ACM Turing Award - Google Search
 
-Later
+https://foss.training/ | DGPLUG Summer Training
+
+https://www.techrepublic.com/article/acm-updates-computing-ethics-code-for-first-time-in-16-years-heres-whats-new/?platform=hootsuite | ACM updates computing ethics code for first time in 26 years, here's what's new - TechRepublic
 https://ethics.acm.org/2018-code-draft-3/
 http://www.wfeo.org/ethics/ | Code of Ethics | WFEO
 
@@ -633,11 +627,6 @@ Society of Women Engineers
 
 https://twitter.com/@usnistgov | NIST (@usnistgov) | Twitter
 https://twitter.com/theNAEng | Nat'l Aced of Eng. (@theNAEng) | Twitter
-https://www.techrepublic.com/article/acm-updates-computing-ethics-code-for-first-time-in-16-years-heres-whats-new/?platform=hootsuite | ACM updates computing ethics code for first time in 26 years, here's what's new - TechRepublic
-
-https://www.propublica.org/code-of-ethics/ | Code of Ethics — ProPublica
-https://foss.training/ | DGPLUG Summer Training
-http://python-gsoc.org/ | Python GSoC – Splash
 -->
 
 Philosphers and Psychologists
@@ -730,6 +719,15 @@ http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 -->
 
 ## Open Source Software
+
+<!--
+https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
+https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
+https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
+https://www.openchainproject.org/ | Home - OpenChain
+https://todogroup.org/ | // TODO: Talk openly, develop openly
+https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
+-->
 
 GitLab
 * [GitLab](https://gitlab.com) and [GitLab About](https://about.gitlab.com)
