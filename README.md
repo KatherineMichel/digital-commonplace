@@ -588,6 +588,8 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 ## People and Case Studies
 
 <!--
+https://awards.acm.org/about/2017-technical-awards | 2017 Technical Awards
+
 https://www.top500.org/ | Home | TOP500 Supercomputer Sites
 
 http://www.pulitzer.org/ | The Pulitzer Prizes
