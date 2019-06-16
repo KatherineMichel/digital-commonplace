@@ -88,6 +88,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
 https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
@@ -239,7 +241,6 @@ https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=as
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
 
 https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
-
 
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
@@ -949,12 +950,18 @@ https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/
 
 ## Authority Figures and Books
 
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
 * [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 * [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
 * [Steven C. McConnell](http://stevemcconnell.com)
 * [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
 https://www.kentbeck.com/ | KentBeck.com
@@ -970,6 +977,51 @@ http://wiki.c2.com/ | Welcome Visitors
 http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
 http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
 http://wiki.c2.com/?BusNumber | Bus Number
+-->
+
+<!--
+https://martinfowler.com/bliki/MaturityModel.html
+
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+-->
+
+<!--
+https://martinfowler.com/articles/products-over-projects.html
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
+
+## Clean Architecture
+
+<!--
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+-->
+
+<!--
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
 
 <!--
@@ -1535,61 +1587,6 @@ https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Enginee
 
 https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
--->
-
-
-## Software Design
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-<!--
-https://martinfowler.com/articles/products-over-projects.html
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
--->
-
-<!--
-https://martinfowler.com/bliki/MaturityModel.html
-
-https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
-
-http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
--->
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
-
-## Clean Architecture
-
-<!--
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
--->
-
-<!--
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
 
 ## Philosophies
@@ -2222,6 +2219,31 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 ## Python and Django- Specific Learning Resources
+
+<!--
+* [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
+* [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
+* [Trey Hunner Talks](http://treyhunner.com/talks), [Trey Hunner Archives](http://treyhunner.com/blog/archives), [Trey Hunner Crowd Cast](https://www.crowdcast.io/treyhunner), and [Weekly Python Chat](http://www.weeklypython.chat)
+
+Python- Books (See also: Data Science books)
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html) and [Python Cookbook GitHub](https://github.com/dabeaz/python-cookbook)
+* [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
+* [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
+
+* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
+
+* [Brandon Rhodes Talks](http://rhodesmill.org/brandon/talks)
+* [Luciano Ramallo Speaker Deck](https://speakerdeck.com/ramalho)
+* [Mariatta Wijaya GitHub](https://github.com/Mariatta) and [Mariatta Wijaya Slideshare](https://www.slideshare.net/MariattaWijaya)
+* [Raymond Hettinger Talks YouTube](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
+
+Carlton Gibson and William S. Vincent
+https://djangochat.com/ | Django Chat Podcast
+
+https://people.djangoproject.com
+-->
 
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
