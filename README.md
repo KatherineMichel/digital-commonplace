@@ -152,7 +152,7 @@ Tim Ferris
 Tren Griffin
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
-## Books
+## Management Books
 
 Books- Management and Scaling
 * [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
@@ -1057,60 +1057,18 @@ Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
 
-Interesting Curated Learning Resources- General
+Interesting Curated Learning Resources
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 * [Front End Guide](https://github.com/grab/front-end-guide)
-
-Interesting Curated Learning Resources- Back-End Developer
-* [Open Source Society University](https://github.com/ossu/computer-science)
-* [Skill Map](https://github.com/TeamStuQ/skill-map)
-
-<!--
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
--->
-
-<!--
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
--->
-
-
-<!--
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-
-https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-
-https://github.com/in28minutes/first-steps-to-software-architect
-
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/Droogans/unmaintainable-code
--->
-
-Interesting Curated Learning Resources
 * [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
 
 Google
 * [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
@@ -1119,6 +1077,66 @@ Stellar Programming Learning Resources
 * [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+
+<!--
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+-->
+
+<!--
+https://techyaks.com/top-python-talks.html
+
+https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+-->
+
+<!--
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+
+
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/Droogans/unmaintainable-code
+-->
+
 
 <!--
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
@@ -1131,9 +1149,16 @@ https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses:
 -->
 
 <!--
-https://techyaks.com/top-python-talks.html
+https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
+https://t.co/BEhKVo5t3R"
+https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
+https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
+https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
+https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
-https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+
 
 https://github.com/asciimoo/ListOfGithubLists
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
@@ -1143,35 +1168,8 @@ https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-sta
 
 https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
 
-https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
-https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
-https://t.co/BEhKVo5t3R"
-https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
-https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
-https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
-https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/jwasham/coding-interview-university
-https://github.com/CyC2018/CS-Notes
-
 https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
 
 how probability distributions are related
 taxonomy of programming paradigms
@@ -1184,11 +1182,11 @@ http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in scien
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 -->
 
+## Interviewing
+
 <!--
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
-
-## Interviewing
 
 <!--
 http://blog.interviewing.io
@@ -1606,6 +1604,25 @@ http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_system
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 -->
 
+## Databases
+
+<!--
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+-->
+
+Relational Database Management Systems
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+
+More Database Stuff
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
 ## Programming Paradigms
 
 Programming Paradigms
@@ -1819,25 +1836,6 @@ Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
-
-## Databases
-
-<!--
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
--->
-
-Relational Database Management Systems
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-
-More Database Stuff
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
 ## Installation and Editors
 
