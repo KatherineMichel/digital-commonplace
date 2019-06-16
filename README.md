@@ -825,6 +825,16 @@ Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 
+OS and Software Practices by Company
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
+* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
+* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
+* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
+* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
+* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
+
 <!--
 * [Github Development (Example Website)](https://github.com/github/developer.github.com) 
 
@@ -864,33 +874,11 @@ https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide o
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
 
-Important!
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
-https://arxiv.org/abs/1702.01715 | [1702.01715] Software Engineering at Google
-
-https://eng.uber.com/research/keeping-master-green-at-scale/ | Keeping master green at scale | Uber Engineering Blog
-
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
-
-Company OS
 
 Facebook Open Source
 https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
 https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
-
-https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook | Scaling Mercurial at Facebook | Engineering Blog | Facebook Code
-
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext | Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
-https://dl.acm.org/citation.cfm?id=2854146 | Why Google stores billions of lines of code in a single repository
-
-https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/ | Scaling Git (and some back story) | Brian Harry's blog
-
-https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ | The largest Git repo on the planet | Brian Harry's blog
-
-https://github.com/Microsoft/GVFS | Microsoft/GVFS: Git Virtual File System
-https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system/ | Announcing GVFS (Git Virtual File System) – Microsoft DevOps Blog
-https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual File System | Hacker News
-
 
 https://en.wikipedia.org/wiki/Continuous_integration
 https://en.wikipedia.org/wiki/Continuous_delivery
@@ -1289,8 +1277,6 @@ http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 http://highscalability.com/ | High Scalability -
-
-https://landing.google.com/sre/book/index.html 
 
 https://github.com/dastergon/awesome-sre
 
