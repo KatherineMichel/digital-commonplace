@@ -947,6 +947,74 @@ https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesom
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
+## Authority Figures and Books
+
+* [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
+* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
+* [Steven C. McConnell](http://stevemcconnell.com)
+* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
+* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+<!--
+https://www.kentbeck.com/ | KentBeck.com
+
+http://stevemcconnell.com/books/
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+-->
+
+<!--
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+-->
+
+<!--
+Books!
+http://www.dev-books.com
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
+
+Clean Architecture
+Clean Code
+Code Complete
+Compilers
+Computer Architecture
+Design Patterns
+Design Patterns Explained
+Domain Driven Design- Tackling
+Domain Driven Design Reference
+Extreme Programming Explained
+Head First Design Patterns
+Head First Object Oriented Analysis and Design
+Lean Software Development
+Patterns of Enterprise Application Architecture
+Programming Pearls
+Refactoring
+Release It
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+Test Driven Development by Example
+The Architecture of Open Source Applications
+The Mythical Man Month
+The Programmatic Programmer
+Working Effectively with Legacy Code
+
+https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
+
+https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+-->
+
 ## Coding Practice
 
 Math/Programming Problems and Projects
@@ -983,6 +1051,7 @@ https://guide.freecodecamp.org/ | freeCodeCamp Guide
 https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
 -->
 
+## Curated Resources
 
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
@@ -1035,43 +1104,12 @@ https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer
 https://github.com/Droogans/unmaintainable-code
 -->
 
-<!--
-http://blog.interviewing.io
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
-
-
-https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
-
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
-http://blog.triplebyte.com/how-to-interview-engineers
-https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
-https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
-
-https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
-
-https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
-
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/donnemartin/interactive-coding-challenges
--->
-
-
 Interesting Curated Learning Resources
 * [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
 * [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
 
 
 Google
@@ -1150,72 +1188,82 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-t
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
 
-## Authority Figures and Books
-
-* [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
-* [Steven C. McConnell](http://stevemcconnell.com)
-* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
-* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+## Interviewing
 
 <!--
-https://www.kentbeck.com/ | KentBeck.com
+http://blog.interviewing.io
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
 
-http://stevemcconnell.com/books/
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
+
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
+http://blog.triplebyte.com/how-to-interview-engineers
+https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
+
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
+
+https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
+
+https://github.com/trimstray/sysadmin-interview-questions
+
+https://github.com/donnemartin/interactive-coding-challenges
 -->
 
+## Important Concepts
+
 <!--
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
+
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
 -->
 
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+
 <!--
-Books!
-http://www.dev-books.com
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
+## Programming Concepts and Tools
 
-Clean Architecture
-Clean Code
-Code Complete
-Compilers
-Computer Architecture
-Design Patterns
-Design Patterns Explained
-Domain Driven Design- Tackling
-Domain Driven Design Reference
-Extreme Programming Explained
-Head First Design Patterns
-Head First Object Oriented Analysis and Design
-Lean Software Development
-Patterns of Enterprise Application Architecture
-Programming Pearls
-Refactoring
-Release It
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-Test Driven Development by Example
-The Architecture of Open Source Applications
-The Mythical Man Month
-The Programmatic Programmer
-Working Effectively with Legacy Code
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
-https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
-https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
 
-https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 -->
 
 ## Software Design
@@ -1353,6 +1401,15 @@ Domain-Driven Design (DDD)
 * [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 * [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
 
+<!--
+https://domainlanguage.com/ddd/reference/
+http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
+
+https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
+https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
+-->
+
 ## Software Design Tools
 
 Robustness
@@ -1442,16 +1499,8 @@ Use Case Books
 TLA+
 * [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
 
-## X Driven Development
 
-<!--
-https://domainlanguage.com/ddd/reference/
-http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
 
-https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
-https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
--->
 
 ## Software Construction Tools
 
@@ -1559,25 +1608,6 @@ http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 
 ## Programming Paradigms
 
-<!--
-## Programming Concepts and Tools
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
--->
-
 Programming Paradigms
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
@@ -1599,6 +1629,11 @@ React?
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
 * [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+<!--
+Object-Oriented Programming
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+-->
 
 Object Oriented Software Construction Principles
 * [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
@@ -1665,35 +1700,6 @@ https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Componen
 https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
 -->
 
-
-## Important Concepts
-
-<!--
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Application_layer
-https://en.wikipedia.org/wiki/Presentation_layer
-https://en.wikipedia.org/wiki/Session_layer
-https://en.wikipedia.org/wiki/Transport_layer
-https://en.wikipedia.org/wiki/Network_layer
-https://en.wikipedia.org/wiki/Data_link_layer
-https://en.wikipedia.org/wiki/Physical_layer
-
-https://en.wikipedia.org/wiki/Internet_Protocol
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-https://en.wikipedia.org/wiki/Internet_layer
-https://en.wikipedia.org/wiki/Link_layer
--->
-
-Network Protocols
-* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
-
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-
 ## Programming Language Comparisons
 
 Programming Language Comparisons
@@ -1734,31 +1740,6 @@ JavaScript Scene
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
-
-
-## Python Internals
-
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-## Clean architecture in Python and Django
-
-<!--
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-
-Brandon Rhodes
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
-
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
-
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
--->
-
 
 ## Browser Object Model (BOM) and Document Object Model (DOM)
 
@@ -1838,6 +1819,41 @@ Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
+
+## Databases
+
+<!--
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+-->
+
+Relational Database Management Systems
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+
+More Database Stuff
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+## Installation and Editors
+
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
+
+PyCharm
+* [PyCharm](https://www.jetbrains.com/pycharm)
+
+<!--
+Plugins
+
+https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
+https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
+-->
 
 <!--
 https://www.digitalocean.com/community/tutorial_series/django-development
@@ -2171,41 +2187,6 @@ Course Reader - CS160
 http://computerscience.chemeketa.edu/cs160Reader/index.html
 -->
 
-## Installation and Editors
-
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
-
-<!--
-Plugins
-
-https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
-https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
--->
-
-## Databases
-
-<!--
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
--->
-
-Relational Database Management Systems
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-
-More Database Stuff
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
 ## Python and Django Testing Books
 
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
@@ -2217,187 +2198,28 @@ Django Learning Resources
 * [Django For Beginners](https://djangoforbeginners.com) and [Django For Beginners GitHub](https://github.com/wsvincent/djangoforbeginners)
 * [Django Unleashed](https://django-unleashed.com) and [Django Unleashed GitHub](https://github.com/jambonrose/DjangoUnleashed-1.8)
 
-## Django Learning Resources
+## Python Internals
 
-Python- Django- Dedicated Websites
-* [GoDjango](https://godjango.com)
+Python Internals
+* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
 
-Python- Django- Tutorial and Book Lists
-* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
-* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
-* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
-
-Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
-* [High Performance Django](https://highperformancedjango.com)
-* [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
-* [Getting Started with Django](http://gettingstartedwithdjango.com)
-* [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
-* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
-* [Ultimate Django](https://ultimatedjango.com)
- 
-<!--
-https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
--->
-
-Python- Django Carrots (Inspired Django Girls Tutorial)
-* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
-
-Python- Django- Hello Web Books
-* [Hello Web Books GitHub](https://hellowebbooks.com) and [Hello Web Books GitHub](https://github.com/hellowebbooks)
-* [Hello Web Design GitHub](https://github.com/hellowebapp/hellowebdesign)
-
-Python- Django- Hello Web App
-* [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
-* [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
-* [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
-* [Hello Web App Setup](https://hellowebapp.com/setup)
-
-## Django Organizations and Teachers
-
-Django Consulting Firms
-
-Django Consulting Firms, Blogs
-* [Caktus Group](https://www.caktusgroup.com) 
-* [Changeset Consulting](https://changeset.nyc)
-* [Cuttlesoft](https://www.cuttlesoft.com)
-* [Divio](https://www.divio.com)
-* [Eldarion](http://eldarion.com)
-* [Pinax](https://pinaxproject.com)
-* [JamBon Software](http://www.jambonsw.com)
-* [Lincoln Loop](http://lincolnloop.com)
-* [Revolution Systems](http://www.revsys.com)
-* [Torchbox](https://torchbox.com)
-* [Truthful Technology](https://truthful.technology)
-* [Vinta](https://www.vinta.com.br) 
-
-Django Consulting Firms Blogs
-* [Caktus Group Blog](https://www.caktusgroup.com/blog)
-* [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
-* [Divio Blog](https://www.divio.com/blog)
-* [Eldarion Blog](http://eldarion.com/blog)
-* [Pinax Blog](http://blog.pinaxproject.com)
-* [Lincoln Loop Blog](https://lincolnloop.com/blog)
-* [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
-* [Torchbox Blog](https://torchbox.com/blog)
-* [Vinta Blog](https://www.vinta.com.br/blog)
-
-Django Consulting Firm GitHub Accounts
-* [Caktus Group GitHub](https://github.com/caktus)
-* [Cuttlesoft GitHub](https://github.com/cuttlesoft)
-* [Divio GitHub](https://github.com/divio)
-* [Eldarion GitHub](https://github.com/eldarion)
-* [JamBon Software GitHub](https://github.com/jambonsw)
-* [Lincoln Loop GitHub](https://github.com/lincolnloop)
-* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
-* [Torchbox GitHub](https://github.com/torchbox)
-* [Truthful Technology GitHub](https://github.com/TruthfulTechnology)
-* [Vinta Software GitHub](https://github.com/vintasoftware)
+## Clean architecture in Python and Django
 
 <!--
-https://www.jbssolutions.com/
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
 
-DjangoCon sponsors
-https://2018.djangocon.us/sponsors/
+Brandon Rhodes
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
 -->
-
-Teachers
-* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
-* [Frank Wiles](http://www.frankwiles.com)
-* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
-
-## Django Project Structure
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-## Working with Objects
-
-## Django Rest Framework
-
-* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
-
-Python- Django- Alternative Rest Framework
-* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
-
-<!--
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-http://www.encode.io/reports/july-2017
-
-https://github.com/encode/django-rest-framework/issues
-https://github.com/encode/django-rest-framework/projects
-
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
--->
-
-## Serialization
-
-Python- Django- Rest Framework (Serialization/Deserialization)
-* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-#### Python and Django Geo
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-## Newer Stuff
-
-<!--
-https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
-
-ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
-
-https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
-
-https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
-
-https://github.com/jacobian/demo-thing
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
--->
-
-<!--
-See also: Data Science
-https://github.com/keen/cohorts
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
--->
-
 
 ## General Software Design Patterns
 
@@ -2433,12 +2255,10 @@ Behavioral Patterns
 * [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
 * [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
 
-
 ## Python Patterns
 
 Python Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
 
 * [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
 * [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
@@ -2544,4 +2364,185 @@ http://pythontesting.net/start-here/
 <!--
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
+-->
+
+## Django
+
+### Django Learning Resources
+
+Python- Django- Dedicated Websites
+* [GoDjango](https://godjango.com)
+
+Python- Django- Tutorial and Book Lists
+* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
+* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
+* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
+
+Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
+* [High Performance Django](https://highperformancedjango.com)
+* [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
+* [Getting Started with Django](http://gettingstartedwithdjango.com)
+* [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
+* [Tango with Django Tutorial](http://www.tangowithdjango.com) 
+* [Ultimate Django](https://ultimatedjango.com)
+ 
+<!--
+https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
+-->
+
+Python- Django Carrots (Inspired Django Girls Tutorial)
+* [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
+
+Python- Django- Hello Web Books
+* [Hello Web Books GitHub](https://hellowebbooks.com) and [Hello Web Books GitHub](https://github.com/hellowebbooks)
+* [Hello Web Design GitHub](https://github.com/hellowebapp/hellowebdesign)
+
+Python- Django- Hello Web App
+* [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
+* [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
+* [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
+* [Hello Web App Setup](https://hellowebapp.com/setup)
+
+### Django Organizations and Teachers
+
+Django Consulting Firms
+
+Django Consulting Firms, Blogs
+* [Caktus Group](https://www.caktusgroup.com) 
+* [Changeset Consulting](https://changeset.nyc)
+* [Cuttlesoft](https://www.cuttlesoft.com)
+* [Divio](https://www.divio.com)
+* [Eldarion](http://eldarion.com)
+* [Pinax](https://pinaxproject.com)
+* [JamBon Software](http://www.jambonsw.com)
+* [Lincoln Loop](http://lincolnloop.com)
+* [Revolution Systems](http://www.revsys.com)
+* [Torchbox](https://torchbox.com)
+* [Truthful Technology](https://truthful.technology)
+* [Vinta](https://www.vinta.com.br) 
+
+Django Consulting Firms Blogs
+* [Caktus Group Blog](https://www.caktusgroup.com/blog)
+* [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
+* [Divio Blog](https://www.divio.com/blog)
+* [Eldarion Blog](http://eldarion.com/blog)
+* [Pinax Blog](http://blog.pinaxproject.com)
+* [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
+* [Torchbox Blog](https://torchbox.com/blog)
+* [Vinta Blog](https://www.vinta.com.br/blog)
+
+Django Consulting Firm GitHub Accounts
+* [Caktus Group GitHub](https://github.com/caktus)
+* [Cuttlesoft GitHub](https://github.com/cuttlesoft)
+* [Divio GitHub](https://github.com/divio)
+* [Eldarion GitHub](https://github.com/eldarion)
+* [JamBon Software GitHub](https://github.com/jambonsw)
+* [Lincoln Loop GitHub](https://github.com/lincolnloop)
+* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Torchbox GitHub](https://github.com/torchbox)
+* [Truthful Technology GitHub](https://github.com/TruthfulTechnology)
+* [Vinta Software GitHub](https://github.com/vintasoftware)
+
+<!--
+https://www.jbssolutions.com/
+
+DjangoCon sponsors
+https://2018.djangocon.us/sponsors/
+-->
+
+Teachers
+* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
+* [Frank Wiles](http://www.frankwiles.com)
+* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
+
+### Django Project Structure
+
+Python- Django- Project Stucture
+* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+### Django Rest Framework
+
+* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
+
+Python- Django- Alternative Rest Framework
+* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
+
+<!--
+http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
+http://www.encode.io/reports/july-2017
+
+https://github.com/encode/django-rest-framework/issues
+https://github.com/encode/django-rest-framework/projects
+
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
+-->
+
+### Serialization
+
+Python- Django- Rest Framework (Serialization/Deserialization)
+* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
+### Python and Django Geo
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Python/Django- Internationalization and Localization, Translation
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+### Newer Stuff
+
+<!--
+https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
+
+ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
+
+https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
+
+https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
+
+https://github.com/jacobian/demo-thing
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+-->
+
+<!--
+See also: Data Science
+https://github.com/keen/cohorts
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
 -->
