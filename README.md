@@ -2110,10 +2110,6 @@ Stack
 
 ## Installation and Editors
 
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
 PyCharm
 * [PyCharm](https://www.jetbrains.com/pycharm)
 
