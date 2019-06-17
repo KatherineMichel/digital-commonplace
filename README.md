@@ -722,12 +722,91 @@ http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 ## Open Source Software
 
 <!--
+https://www.linuxfoundation.org/
+https://www.apache.org/foundation/
+https://foundation.mozilla.org/en/
+https://foundation.nodejs.org/
+https://opensource.org/
+
+Mozilla Metrics
+https://github.com/chaoss/metrics
+https://github.com/chaoss | CHAOSS
+https://wiki.linuxfoundation.org/chaoss/metrics
+https://chaoss.community/ | Home - CHAOSS
+https://github.com/chaoss/wg-diversity-inclusion
+https://medium.com/@sunnydeveloper/
+https://github.com/emmairwin | emmairwin (Emma)
+
+Diversity Study
+https://www.atlassian.com
+https://www.atlassian.com/diversity/survey/2018 | 2018 State of Diversity Report | Atlassian
+https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c | Diversity fatigue is real: Atlassian's State of Diversity Report 2018
+
+Node
+https://medium.com/@nodejs/take-our-node-js-2018-user-survey-965011560edb | Take Our Node.js 2018 User Survey! – Node.js Foundation – Medium
+https://www.slideshare.net/NodejsFoundation?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview | Nodejsfoundation presentations
+https://github.com/nodejs/board | nodejs/board: The Node Foundation Board of Directors
+https://github.com/nodejs/TSC/issues/179 | Result of Request to migrate Inclusivity Working Group responsibilities to the Node.js Foundation and TSC · Issue #179 · nodejs/TSC
+http://www.devtalk.tv/keynote-contributing-to-nodejs-coding-not-required-by-william-kapke-kap-co-llc_fd62a5d2f.html | KEYNOTE: Contributing to Node.js: Coding Not Required by William Kapke, Kap Co, LLC
+http://www.devtalk.tv/keynote-the-road-forward-by-tracy-hinds-nodejs-foundation_a01f763e9.html | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation
+https://www.youtube.com/watch?v=pyEQRjU1SZQ | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation - YouTube
+https://github.com/nodejs/summit/ | nodejs/summit: Organizing a Collaborator Summit
+https://github.com/nodejs/summit/issues/35 | Collaboration Summit at Node Interactive Austin · Issue #35 · nodejs/summit
+https://github.com/nodejs/community-committee | nodejs/community-committee: The Node.js Foundation Community Committee (aka CommComm)
+https://en.wikipedia.org/wiki/Capacity_building | Capacity building - Wikipedia
+https://blog.npmjs.org/post/164575965335/values-inclusion-and-the-nodejs-foundation | The npm Blog — Values, Inclusion, and the Node.js Foundation
+https://github.com/nodejs/board/blob/38a7a3065613e04a259c23ea02bb6e787d9ea839/minutes/2016-09-15.md | board/2016-09-15.md at 38a7a3065613e04a259c23ea02bb6e787d9ea839 · nodejs/board
+
+Mozilla Metrics
+https://github.com/chaoss/metrics
+https://github.com/chaoss | CHAOSS
+https://chaoss.community/ | Home - CHAOSS
+https://github.com/chaoss/wg-diversity-inclusion
+https://medium.com/@sunnydeveloper/
+https://github.com/emmairwin | emmairwin (Emma)
+
+Mozilla
+https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e | A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities
+https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy#Long_Term_Vision | Diversity and Inclusion Strategy - MozillaWiki
+https://ossna2017.sched.com/event/BJ4v/time-for-action-innovating-for-di-in-open-source-communities-emma-irwin-larissa-shapiro-mozilla | Open Source Summit North America 2017: Time for Action - Innovating for D&I in...
+https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/ | If You Can't Measure It, You Can't Improve It: CHAOSS Project Creates Tools to Analyze Software Development and Measure Open Source Community Health - The Linux Foundation
+https://wiki.mozilla.org/Diversity_and_Inclusion_for_Communities_and_Contributors/DI_Call_08_01_2018 | Diversity and Inclusion for Communities and Contributors/DI Call 08 01 2018 - MozillaWiki
+https://github.com/mozilla/diversity | mozilla/diversity: Our repository for Diversity & Inclusion work at Mozilla
+https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
+https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
+https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425 | We See You! Reaching Diverse Audiences in FOSS – Mozilla Open Innovation – Medium
+https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
+https://discourse.mozilla.org/t/diversity-inclusion-in-open-source-survey/23733 | Diversity & Inclusion in Open Source - Survey - Mozillians - Mozilla Discourse
+https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html | Increasing Rust’s Reach - The Rust Programming Language Blog
+https://chaoss.community/chaosscon-2018-na/ | CHAOSScon-2018-NA - CHAOSS
+https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/ | Open Source Summit 2018 - Linux Foundation Events
+http://tiptoes.ca/ | Emma Irwin – Learning in the open
+https://medium.com/mozilla-open-innovation | Mozilla Open Innovation – Medium
+https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
+https://www.youtube.com/playlist?list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth | Open Source Summit North America 2017 - YouTube
+https://twitter.com/aschapi/status/987106493618044928 | Amy Schapiro on Twitter: "The state of diversity and inclusion at @mozilla is now available: Mozilla Corporation: https://t.co/XZK5uDv7Pp Mozilla Foundation: https://t.co/81cBZck2rP"
+
+https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
+https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
+
+NumFOCUS
+https://numfocus.org/blog/discover-cookbook | Diverse & Inclusive Events and Conferences Cookbook — #DISCunconf
+https://github.com/numfocus/DISCOVER-Cookbook | numfocus/DISCOVER-Cookbook: The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
+https://www.numfocus.org/membership | Membership - NumFOCUS
+https://numfocus.org/blog/numfocus-sustainer-weeks | NumFOCUS Sustainer Weeks - NumFOCUS
+https://numfocus.org/blog/diversity-and-metrics-in-software-communities-notes-from-the-disc-unconference | Diversity and Metrics in Software Communities — Notes from the DISC Unconference - NumFOCUS
+https://numfocus.org/blog/starting-di-conversations-work-notes-disc-unconference | Starting D&I Conversations at Work — Notes from the DISC Unconference - NumFOCUS
+https://github.com/numfocus/diversity-and-inclusion-conversation-kit | numfocus/diversity-and-inclusion-conversation-kit: Quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
+https://numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/ | Page not found - NumFOCUS
+
+Node.js Foundation’s membership levels - Google Search
+Mozilla open leaders programme - Google Search
+https://github.com/nodejs/outreach | nodejs/outreach: A Node.js community growth and support initiative
+https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
+
 https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
-https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
 https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
 https://www.openchainproject.org/ | Home - OpenChain
-https://todogroup.org/ | // TODO: Talk openly, develop openly
-https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
 -->
 
 GitLab
@@ -743,6 +822,10 @@ GitHub
 * [GitHub Blog](https://github.blog)  
 * [GitHub Engineering](https://githubengineering.com) 
 * [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Package Registry](https://github.com/features/package-registry)
 
 GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
@@ -763,6 +846,8 @@ https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twi
 Sponsors
 https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
 https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
+https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
+https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
 https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
 https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
 
@@ -774,11 +859,6 @@ https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-e
 https://about.gitlab.com/handbook/ | Handbook | GitLab
 
 https://github.com/actions | GitHub Actions
-https://github.com/features/actions | Features • GitHub Actions
-
-GitHub Package Registry
-https://github.com/features/package-registry | GitHub Package Registry: Your packages, at home with their code
-https://about.gitlab.com/2019/05/10/github-adds-package-registry/ | Packaging now standard, dependency proxy next? | GitLab
 
 https://github.community/| Home - GitHub Community Forum
 https://hub.github.com/ | hub · the command-line wrapper for git
@@ -866,7 +946,7 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 https://github.com/github/github-services/tree/master/docs
 
 https://todogroup.org/guides
-http://todogroup.org
+https://todogroup.org/ | // TODO: Talk openly, develop openly
 https://github.com/todogroup
 
 https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
@@ -916,6 +996,8 @@ JavaScript Scene
 * ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
 * ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
 <!--
 https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
 
@@ -925,8 +1007,6 @@ https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, P
 https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
 
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://stripe.com/atlas/guides/scaling-eng | Stripe Atlas: Guide to scaling engineering organizations
 
 http://www.camilletalk.com/ | Camille Fournier
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
