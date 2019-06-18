@@ -1,53 +1,182 @@
 # The List 2019
 
-## Well Being
+## Priorities
 
-Habits with a High Rate of Return in Life
-* [DHH](https://twitter.com/dhh/status/990742238257864705)
-* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
-* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
+### Languages and Frameworks
 
-Center for Humane Technology
-* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
-
-Mind-Body Connection
-* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
-
-Sleep
-* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
-* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
+Languages and Frameworks (Other than Python and Django)
+* [React Docs](https://reactjs.org/docs)
+* [Vue Docs](https://vuejs.org/v2/guide)
+* [Golang Docs](https://golang.org/doc)
 
 <!--
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
-https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
-
-https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
+node.js
+https://nodejs.org/en/
 -->
 
-Stress
+### High Performance Developers and Blogs
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+### Authorities
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
-The Upside of Stress
-https://www.amazon.com/dp/B00OI5PGWU
-http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
 
-A Brief History of Existential Terror
-https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 -->
 
-Sapiens
-* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
+### Trending
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+
+Python Trending, Topics, Forums
+* [GitHub Trending: Python](https://github.com/trending/python)
+* [GitHub Topic: Python](https://github.com/topics/python)
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
+* [Reddit Python](https://www.reddit.com/r/Python)
+
+Python Articles
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+* [Mybridge Python](https://medium.mybridge.co/tagged/python)
+
+<!--
+https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
+-->
+
+JavaScript Articles
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
+* [Medium JavaScript](https://medium.com/tag/javascript)
+* [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
+
+DataCamp
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+
+### Coding Practice
+
+Math/Programming Problems and Projects
+* [Project Euler Problems](http://projecteuler.net/problems) 
+
+Practice
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com)
+* [100 Days of Code](http://www.100daysofcode.com)
+
+### Python- Coding Practice
+
+Python Challenges
+* [Exercism Python](https://exercism.io/tracks/python)
+* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
+* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
+* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
+* [Python Morsels](https://www.pythonmorsels.com)
+
+### GitLab and GitHub
+
+* [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab- Notable Features
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitHub
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Package Registry](https://github.com/features/package-registry)
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+### Open Source Guides
+
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+<!--
+https://martinfowler.com/bliki/MaturityModel.html
+
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+-->
+
+## Engineering Management Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+### X Driven Development
+
+* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
+* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+
+Test Driven Development (TDD)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+
+Domain-Driven Design (DDD)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+<!--
+https://domainlanguage.com/ddd/reference/
+http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
+
+https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
+https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
+-->
+
+
+
+
+
 
 ## Trends
 
 Look at Daily
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python?since=daily)
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
@@ -124,470 +253,6 @@ https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions |
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
-
-## Articles and Blog Posts
-
-Top 10 Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
-Various
-* [Medium Top Stories](https://medium.com/top-stories)
-* [Top Medium Stories](https://topmediumstories.com)
-* [XKCD](http://xkcd.com) and [Most Popular XKCD Comics](https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0)
-
-Farnham Street
-* [Farnham Street Blog](https://fs.blog) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
-* [Farnham Street Blog Best Articles](https://fs.blog/best-articles), [Farnham Street Blog Popular Articles](https://fs.blog/popular)
-* [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
-
-<!--
-* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
--->
-
-Tim Ferris
-* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss Podcast](https://tim.blog/podcast), and [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
-
-Tren Griffin
-* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
-
-## Management Books
-
-Books- Management and Scaling
-* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
-* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
-* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
-
-<!--
-Marty Cagan Inspired
-
-https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
--->
-
-## How to Live
-
-Seneca the Younger
-* [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
-* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
-* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
-* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
-
-Tim Ferris
-* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
-* [Tools of Titans](https://toolsoftitans.com) 
-* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
-* [Tribe of Mentors](https://tribeofmentors.com)
-* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
-
-<!--
-https://fourminutebooks.com/the-courage-to-be-disliked-summary/
-https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
-
-Tools of Titans
-http://tim.blog/2017/01/25/tools-of-titans-index/
-https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
-
-http://fourhourworkweek.com
-http://fourhourworkweek.com/sitemap.xml
-
-Rec from Tim Ferris
-http://fourhourworkweek.com/2013/11/11/vagabonding/ | The Tim Ferriss Book Club Launches — Book #1: Vagabonding | The Blog of Author Tim Ferriss
-Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
-https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-http://vagabonding.net
-https://en.wikipedia.org/wiki/Rolf_Potts
-https://en.wikipedia.org/wiki/The_Graveyard_Book
-https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
--->
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-<!--
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
-https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
--->
-
-## Mental Models
-
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://fs.blog/mental-models/)
-* [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
-## Learning Methods
-
-Dr. Barbara Oakley
-* [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-<!--
-https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
-
-https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
-
-https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
-https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
-https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
-https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
-
-https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
-https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
-
-http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
--->
-
-Making Learning Whole
-* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-
-Learning
-* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
-* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
-
-Mindset
-* [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
-
-<!--
-https://fs.blog/2015/03/carol-dweck-mindset/
--->
-
-## Goal Setting and Prioritization
-
-<!--
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
-
-https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "My general principles for success: Overcome your weaknesses. Use your strengths. Both individually are necessary, but not sufficient. You must do both."
-
-https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
--->
-
-Fear Setting
-* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
-* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
-
-Goal Setting
-
-Marshall Goldsmith
-* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Habit Engineering
-* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816 )
-
-<!--
-https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
-
-benjamin franklin habits - Google Search
--->
-
-Effort and Results
-* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
-
-Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
-Practice
-* [Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method))
-
-Deliberate Practice
-* [Deliberate Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice)
-
-<!--
-https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
-
-https://twitter.com/JamesClear
-http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
-https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
--->
-
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-<!--
-https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
-https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
-
-https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
--->
-
-## Productivity
-
-<!--
-https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
-
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
--->
-
-Pocket
-* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
-* [Pocket Recommended](https://getpocket.com/a/recommended)
-
-Voice
-* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
-* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
-* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
-* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
-
-<!--
-http://dictate.ms
--->
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-Books- Work Methods
-* [Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202)
-* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
-
-<!--
-http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
-https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
-http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
-http://calnewport.com/blog/
--->
-
-Productivity- The Art of Focus
-* [Index](https://bitcq.com/torrent/3196010)
-
-<!--
-https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
-
-https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
-https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
-https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
-https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
-
-Batching
-https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
-https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
-https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
-https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
-https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
-https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
-https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
-https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
-https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
-https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
--->
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-<!--
-https://en.wikipedia.org/wiki/Mnemonic
-https://en.wikipedia.org/wiki/Memory_sport
--->
-
-Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-<!--
-https://ncase.me/remember/ | How To Remember Anything Forever-ish
-https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
-https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
-http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
-
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
-https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
--->
-
-Checklists
-
-<!--
-The Checklist Manifesto: How to Get Things Right, Atul Gawande
-https://www.amazon.com/dp/B0030V0PEW
-
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
--->
-
-## Business Effectiveness and Productivity
-
-Objectives
-* [Management by Objectives Wikipedia](https://en.wikipedia.org/wiki/Management_by_objectives)
-* [Peter Drucker Wikipedia](https://en.wikipedia.org/wiki/Peter_Drucker)
-* Deming: Eliminate Management by Objectives
-* Peter Thiel’s “One Thing” philosophy (only do one job)
-
-Company Approaches
-* Google: OKRs
-* Facebook: P90/P50/P25 goals
-
-OKRs
-* [OKR Wikipedia](https://en.wikipedia.org/wiki/OKR)
-* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
-
-<!--
-https://twitter.com/rabois/status/1114954160594505728 | Keith Rabois on Twitter: "I despise OKRs.… "
-https://twitter.com/sriramk/status/1114954089060806656 | Sriram Krishnan on Twitter: "And all the psychology around OKRs that the OP post talks about ( stretch goals leading to short term pressure )… https://t.co/jdw1ouEPMK"
-
-Apple's Directly Responsible Individual (DRI)
-
-https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
-task relevant maturity - Google Search
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
-https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
-
-Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
-
-https://www.principles.com/ | Principles by Ray Dalio
-https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
-https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
-https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/In_Search_of_Excellence#Themes | In Search of Excellence - Wikipedia
--->
-
-## Business Philosophies
-
-Personal MBA
-* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
-* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
-* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
-* [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
-
-Tim Ferris Blueprints
-* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
-* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
-* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
-* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
-
-https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
-
-FreshBooks: Breaking the Time Barrier
-https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
--->
-
-## Chicken or Egg Problem
-
-<!--
-https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
-https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
--->
-
-## Ratios
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-<!--
-https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
--->
-
-## Minimum Viable Product
-
-Scientific Method and Minimum Viable Product
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
-
-Distribution, Digital Distribution and User-Generated Content
-* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-* [Distribution Hacks](http://distributionhacks.com) 
-* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-* [Hiten Shah Twitter](https://twitter.com/hnshah)
-
-Idea Maze
-* [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
-
-<!--
-https://twitter.com/davidlee/status/983742916513251328 | David Lee on Twitter: "1/ .@balajis and @cdixon wrote about the Idea Maze 5 years ago. For startups in hard but not impossible startups today, there’s also the Industry Maze. This path is well-worn and in some cases, the only path to success. https://t.co/0OKkAdn175"
-https://twitter.com/sarthakgh/status/1069367174169411584 | Sar Haribhakti on Twitter: "I really enjoy deeply researched talks/posts that explore thematic idea mazes. Few recent ones : @arampell on real estate https://t.co/6hsH870YgL @venturetwins on business in box https://t.co/OjLaUWyTPP Looking for mazes in digital communities, urban tech & office tech.… https://t.co/kTJRpd8Pe7"
--->
-
-Blue Ocean Strategy
-* [Blue Ocean Strategy Wikipedia](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
-
-<!--
-https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html | 'Red Oceans': How to Find Profitable Startup Ideas - Capital & Growth
-https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
--->
-
-Pieter Levels
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
-* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
-* [Bootstrapping](https://levels.io/bootstrapping)
-* [Make Book](https://makebook.io)
-
-<!--
-https://nomadlist.com/open | Open Startups - Nomad List
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
--->
-
-The Elements of Value
-* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
-
-Persuasive Tech
-* [Nir Eyal](http://www.nirandfar.com)
-* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
-* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
-* [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
-* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
-
-<!--
-Nir Eyal 4-step model
-
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
--->
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 ## People and Case Studies
 
@@ -668,9 +333,6 @@ Computer History
 * [Grady Booch: 512 Most Influential People](https://twitter.com/Grady_Booch/status/1054788001782362112)
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
-GitHub Trending Developers
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
 <!--
 https://dependabot.com/ | Dependabot
 
@@ -700,10 +362,6 @@ https://www.forbes.com/top-tech-women/#17ee38b74df0
 https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepreneurs | Inc.com
 https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 ## Surveys
 
@@ -757,14 +415,6 @@ https://en.wikipedia.org/wiki/Capacity_building | Capacity building - Wikipedia
 https://blog.npmjs.org/post/164575965335/values-inclusion-and-the-nodejs-foundation | The npm Blog — Values, Inclusion, and the Node.js Foundation
 https://github.com/nodejs/board/blob/38a7a3065613e04a259c23ea02bb6e787d9ea839/minutes/2016-09-15.md | board/2016-09-15.md at 38a7a3065613e04a259c23ea02bb6e787d9ea839 · nodejs/board
 
-Mozilla Metrics
-https://github.com/chaoss/metrics
-https://github.com/chaoss | CHAOSS
-https://chaoss.community/ | Home - CHAOSS
-https://github.com/chaoss/wg-diversity-inclusion
-https://medium.com/@sunnydeveloper/
-https://github.com/emmairwin | emmairwin (Emma)
-
 Mozilla
 https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e | A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities
 https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy#Long_Term_Vision | Diversity and Inclusion Strategy - MozillaWiki
@@ -809,26 +459,8 @@ https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenCha
 https://www.openchainproject.org/ | Home - OpenChain
 -->
 
-GitLab
-* [GitLab](https://gitlab.com) and [GitLab About](https://about.gitlab.com)
-* [GitLab Docs](http://docs.gitlab.com)
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Packages](http://packages.gitlab.com)
-
 GitHub
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
 * [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-* [GitHub Package Registry](https://github.com/features/package-registry)
-
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
 
 <!--
 https://github.com/erikbern/git-of-theseus
@@ -892,14 +524,6 @@ GitHub Web Hooks
 
 GitHub Developer 
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-GitHub Open Source Guide
-* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Why Open Source?](https://opensource.google.com/docs/why)
 
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
@@ -989,14 +613,6 @@ Built With
 * [Made with React](http://madewithreact.com)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 
-## Engineering Management Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
 <!--
 https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
@@ -1019,17 +635,12 @@ https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/
 ## Authority Figures and Books
 
 Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
 * [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 * [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
 * [Steven C. McConnell](http://stevemcconnell.com)
 * [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
 https://www.kentbeck.com/ | KentBeck.com
@@ -1045,15 +656,6 @@ http://wiki.c2.com/ | Welcome Visitors
 http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
 http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
 http://wiki.c2.com/?BusNumber | Bus Number
--->
-
-<!--
-https://martinfowler.com/bliki/MaturityModel.html
-
-https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
-
-http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 -->
 
 <!--
@@ -1073,12 +675,6 @@ Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
 
 ## Clean Architecture
-
-<!--
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
--->
 
 <!--
 Robert C. Martin
@@ -1134,25 +730,6 @@ https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/03219
 
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 -->
-
-## Coding Practice
-
-Math/Programming Problems and Projects
-* [Project Euler Problems](http://projecteuler.net/problems) 
-
-Practice
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-
-## Python- Coding Practice
-
-Python Challenges
-* [Exercism Python](https://exercism.io/tracks/python)
-* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
-* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
-* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
-* [Python Morsels](https://www.pythonmorsels.com)
 
 ## Web Development- General
 
@@ -1393,36 +970,6 @@ https://en.wikipedia.org/wiki/Multitenancy
 
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 https://en.wikipedia.org/wiki/Representational_state_transfer
--->
-
-## X Driven Development
-
-* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
-* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
-* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
-* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
-
-Test Driven Development (TDD)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-
-Domain-Driven Design (DDD)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-<!--
-https://domainlanguage.com/ddd/reference/
-http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
-
-https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
-https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
 -->
 
 ## Software Design Tools
@@ -1769,27 +1316,9 @@ Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
-## Languages and Frameworks
-
-Languages and Frameworks (Other than Python and Django)
-* [React Docs](https://reactjs.org/docs)
-* [Vue Docs](https://vuejs.org/v2/guide)
-* [Golang Docs](https://golang.org/doc)
-
-JavaScript Scene
-* [JavaScript Scene](https://medium.com/javascript-scene)
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
-
 ## Browser Object Model (BOM) and Document Object Model (DOM)
 
 ## JavaScript
-
-Articles
-* [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
-* [Medium JavaScript](https://medium.com/tag/javascript)
-* [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
 
 <!--
 https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
@@ -1964,9 +1493,6 @@ Awesome Django
 * [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
 * [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
 
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
 ## Python and Django- Specific Learning Resources
 
 <!--
@@ -1992,21 +1518,6 @@ Carlton Gibson and William S. Vincent
 https://djangochat.com/ | Django Chat Podcast
 
 https://people.djangoproject.com
--->
-
-Python Trending, Topics, Forums
-* [GitHub Trending: Python](https://github.com/trending/python)
-* [GitHub Topic: Python](https://github.com/topics/python)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
-
-Articles
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-* [Mybridge Python](https://medium.mybridge.co/tagged/python)
-
-<!--
-https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
 
 Learning Platforms (See also others)
@@ -2591,3 +2102,508 @@ http://grafana.org
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 -->
+
+## Well Being
+
+Habits with a High Rate of Return in Life
+* [DHH](https://twitter.com/dhh/status/990742238257864705)
+* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
+* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
+
+Center for Humane Technology
+* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
+
+Mind-Body Connection
+* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
+
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
+
+Sleep
+* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
+* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
+
+<!--
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
+
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
+-->
+
+Stress
+
+<!--
+The Upside of Stress
+https://www.amazon.com/dp/B00OI5PGWU
+http://online.stanford.edu/course/upside-stress
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
+
+A Brief History of Existential Terror
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
+-->
+
+Sapiens
+* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
+
+## Articles and Blog Posts
+
+Various
+* [Medium Top Stories](https://medium.com/top-stories)
+* [Top Medium Stories](https://topmediumstories.com)
+* [XKCD](http://xkcd.com) and [Most Popular XKCD Comics](https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0)
+
+Farnham Street
+* [Farnham Street Blog](https://fs.blog) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
+* [Farnham Street Blog Best Articles](https://fs.blog/best-articles), [Farnham Street Blog Popular Articles](https://fs.blog/popular)
+* [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
+
+<!--
+* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+-->
+
+Tim Ferris
+* [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss Podcast](https://tim.blog/podcast), and [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
+
+Tren Griffin
+* [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
+
+## Management Books
+
+Books- Management and Scaling
+* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
+* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
+* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+
+<!--
+Marty Cagan Inspired
+
+https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
+-->
+
+## How to Live
+
+Seneca the Younger
+* [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
+* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
+* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
+* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+
+Tim Ferris
+* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
+* [Tools of Titans](https://toolsoftitans.com) 
+* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+* [Tribe of Mentors](https://tribeofmentors.com)
+* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
+
+<!--
+https://fourminutebooks.com/the-courage-to-be-disliked-summary/
+https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
+
+Tools of Titans
+http://tim.blog/2017/01/25/tools-of-titans-index/
+https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
+
+http://fourhourworkweek.com
+http://fourhourworkweek.com/sitemap.xml
+
+Rec from Tim Ferris
+http://fourhourworkweek.com/2013/11/11/vagabonding/ | The Tim Ferriss Book Club Launches — Book #1: Vagabonding | The Blog of Author Tim Ferriss
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+http://vagabonding.net
+https://en.wikipedia.org/wiki/Rolf_Potts
+https://en.wikipedia.org/wiki/The_Graveyard_Book
+https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+-->
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+<!--
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
+-->
+
+## Mental Models
+
+Mental Models
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+* [Farnham Street Mental Models](https://fs.blog/mental-models/)
+* [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+## Learning Methods
+
+Dr. Barbara Oakley
+* [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+<!--
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
+
+https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
+
+https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
+https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
+https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+
+https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
+https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
+-->
+
+Making Learning Whole
+* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+Learning
+* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
+* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+
+Mindset
+* [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
+
+<!--
+https://fs.blog/2015/03/carol-dweck-mindset/
+-->
+
+## Goal Setting and Prioritization
+
+<!--
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
+
+https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "My general principles for success: Overcome your weaknesses. Use your strengths. Both individually are necessary, but not sufficient. You must do both."
+
+https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
+-->
+
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+Goal Setting
+
+Marshall Goldsmith
+* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816 )
+
+<!--
+https://threader.app/thread/1078647576201703427 | A thread written by @ali01
+https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
+
+benjamin franklin habits - Google Search
+-->
+
+Effort and Results
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+
+Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+Practice
+* [Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method))
+
+Deliberate Practice
+* [Deliberate Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice)
+
+<!--
+https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
+
+https://twitter.com/JamesClear
+http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
+https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+<!--
+https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
+https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
+
+https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
+-->
+
+## Productivity
+
+<!--
+https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
+
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
+https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
+-->
+
+Pocket
+* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
+* [Pocket Recommended](https://getpocket.com/a/recommended)
+
+Voice
+* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
+* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
+* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
+* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
+
+<!--
+http://dictate.ms
+-->
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
+Books- Work Methods
+* [Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience](https://www.amazon.com/dp/0061339202)
+* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
+
+<!--
+http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
+https://www.amazon.com/Cal-Newport/e/B001IGNR0U | Amazon.com: Cal Newport: Books, Biography, Blog, Audiobooks, Kindle
+http://calnewport.com/blog/2014/09/13/deep-habits-jumpstart-your-concentration-with-a-depth-ritual/ | Deep Habits: Jumpstart Your Concentration with a Depth Ritual - Study Hacks - Cal Newport
+http://calnewport.com/blog/
+-->
+
+Productivity- The Art of Focus
+* [Index](https://bitcq.com/torrent/3196010)
+
+<!--
+https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
+
+https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+https://gettingthingsdone.com/2010/07/the-tickler-file-the-key-to-a-clutter-free-refrigerator/ | The Tickler File--The Key to a Clutter-free Refrigerator
+https://gettingthingsdone.com/pdfs/tt_tickler_file.pdf | Article - Tickler File.qxd
+
+Batching
+https://www.farnamstreetblog.com/2017/03/focusing-art-not-science/ | Focusing is an Art, Not a Science
+https://www.farnamstreetblog.com/2013/04/how-to-work-more-efficiently-the-eisenhower-matrix/ | Master Productivity and Eliminate Noise Using the Eisenhower Matrix
+https://www.farnamstreetblog.com/2013/08/66-personal-development-habits-for-smart-people/ | 66 Personal Development Habits For Smart People
+https://www.farnamstreetblog.com/2017/12/maker-vs-manager/ | Maker vs. Manager: How Your Schedule Can Make or Break You
+https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/ | How Successful People Increase Productivity
+https://www.farnamstreetblog.com/smart-decisions/ | The Ultimate Guide to Making Smart Decisions
+https://www.farnamstreetblog.com/2014/07/bregman-finding-focus/ | An 18-Minute Plan for Managing Your Day And Finding Focus
+https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habits You Need to Stop Now
+https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
+https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
+-->
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+<!--
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Memory_sport
+-->
+
+Spaced Repetition
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
+<!--
+https://ncase.me/remember/ | How To Remember Anything Forever-ish
+https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
+https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
+http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
+
+Checklists
+
+<!--
+The Checklist Manifesto: How to Get Things Right, Atul Gawande
+https://www.amazon.com/dp/B0030V0PEW
+
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+-->
+
+## Business Effectiveness and Productivity
+
+Objectives
+* [Management by Objectives Wikipedia](https://en.wikipedia.org/wiki/Management_by_objectives)
+* [Peter Drucker Wikipedia](https://en.wikipedia.org/wiki/Peter_Drucker)
+* Deming: Eliminate Management by Objectives
+* Peter Thiel’s “One Thing” philosophy (only do one job)
+
+Company Approaches
+* Google: OKRs
+* Facebook: P90/P50/P25 goals
+
+OKRs
+* [OKR Wikipedia](https://en.wikipedia.org/wiki/OKR)
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+
+<!--
+https://twitter.com/rabois/status/1114954160594505728 | Keith Rabois on Twitter: "I despise OKRs.… "
+https://twitter.com/sriramk/status/1114954089060806656 | Sriram Krishnan on Twitter: "And all the psychology around OKRs that the OP post talks about ( stretch goals leading to short term pressure )… https://t.co/jdw1ouEPMK"
+
+Apple's Directly Responsible Individual (DRI)
+
+https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
+task relevant maturity - Google Search
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
+https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
+
+Look at your calendar for the last week. Classify your activities as low-/medium-/high-leverage. Generate a plan of action to do more of the high-leverage category. (What activities will you reduce?) - Google Search
+
+https://www.principles.com/ | Principles by Ray Dalio
+https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
+https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
+https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/In_Search_of_Excellence#Themes | In Search of Excellence - Wikipedia
+-->
+
+## Business Philosophies
+
+Personal MBA
+* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
+* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
+* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
+* [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
+
+Tim Ferris Blueprints
+* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
+* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
+* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
+* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
+
+https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
+
+FreshBooks: Breaking the Time Barrier
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+-->
+
+## Chicken or Egg Problem
+
+<!--
+https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
+https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
+-->
+
+## Ratios
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+<!--
+https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
+-->
+
+## Minimum Viable Product
+
+Scientific Method and Minimum Viable Product
+* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
+* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+
+Distribution, Digital Distribution and User-Generated Content
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Hiten Shah Twitter](https://twitter.com/hnshah)
+
+Idea Maze
+* [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
+
+<!--
+https://twitter.com/davidlee/status/983742916513251328 | David Lee on Twitter: "1/ .@balajis and @cdixon wrote about the Idea Maze 5 years ago. For startups in hard but not impossible startups today, there’s also the Industry Maze. This path is well-worn and in some cases, the only path to success. https://t.co/0OKkAdn175"
+https://twitter.com/sarthakgh/status/1069367174169411584 | Sar Haribhakti on Twitter: "I really enjoy deeply researched talks/posts that explore thematic idea mazes. Few recent ones : @arampell on real estate https://t.co/6hsH870YgL @venturetwins on business in box https://t.co/OjLaUWyTPP Looking for mazes in digital communities, urban tech & office tech.… https://t.co/kTJRpd8Pe7"
+-->
+
+Blue Ocean Strategy
+* [Blue Ocean Strategy Wikipedia](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
+
+<!--
+https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html | 'Red Oceans': How to Find Profitable Startup Ideas - Capital & Growth
+https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
+-->
+
+Pieter Levels
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
+* [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
+
+<!--
+https://nomadlist.com/open | Open Startups - Nomad List
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
+-->
+
+The Elements of Value
+* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
+
+Persuasive Tech
+* [Nir Eyal](http://www.nirandfar.com)
+* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
+* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
+* [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
+* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
+
+<!--
+Nir Eyal 4-step model
+
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+-->
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
