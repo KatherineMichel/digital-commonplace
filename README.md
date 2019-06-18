@@ -1677,6 +1677,13 @@ Software Principles (SOLID)
 * [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
+<!--
+https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
+https://en.wikipedia.org/wiki/Interface_segregation_principle
+https://en.wikipedia.org/wiki/Dependency_inversion_principle
+-->
+
 Object Oriented Software Characteristics
 * [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
 * [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
