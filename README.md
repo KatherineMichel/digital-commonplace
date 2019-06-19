@@ -567,7 +567,7 @@ DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
 -->
 
-## Python and Django- General
+### Python and Django- General
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
@@ -576,7 +576,7 @@ Kenneth Reitz Advice to Me
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
-## Editors
+### Editors
 
 Visual Studio Code
 * [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
@@ -823,6 +823,158 @@ Python Testing
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
 * [doctest](https://docs.python.org/3/library/doctest.html)
+
+### Time Complexity and Optimization- General
+
+### Improvement Methods
+
+Improvement Methods
+* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
+* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
+* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
+
+<!--
+lines of code (loc) versus complexity
+
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
+https://en.wikipedia.org/wiki/Mathematical_optimization
+
+https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
+
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
+https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
+-->
+
+### General Big O Rules
+
+Big O Notation
+* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
+* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
+Linear versus Constant Time
+* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
+* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
+
+Big O Notation- Terminology
+* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
+* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+
+<!--
+https://www.youtube.com/watch?v=duvZ-2UK0fc
+
+https://nedbatchelder.com/text/bigo.html
+Python Complexities
+https://nedbatchelder.com/text/bigo/bigo.html#13
+The Graph
+https://nedbatchelder.com/text/bigo/bigo.html#12
+Small Numbers
+https://nedbatchelder.com/text/bigo/bigo.html#17
+
+Trade-Offs
+https://nedbatchelder.com/text/bigo/bigo.html#14
+Slow/Fast
+https://nedbatchelder.com/text/bigo/bigo.html#15
+More Possibilities
+https://nedbatchelder.com/text/bigo/bigo.html#16
+
+https://nedbatchelder.com/text/slowsgrows.html
+https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
+
+https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
+https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
+https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
+
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
+-->
+
+### Python Time Complexity and Optimization
+
+### Python Benchmarking and Profiling
+
+Diagnostic tools
+* hotshot module?
+* cProfile module
+* profile module
+* timeit module
+
+<!--
+http://scipy.github.io/old-wiki/pages/PerformancePython
+
+27.4. The Python Profilers
+https://docs.python.org/3/library/profile.html#module-pstats
+
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
+https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
+https://docs.python.org/3/library/profile.html#limitations
+https://docs.python.org/3/library/profile.html#calibration
+https://docs.python.org/3/library/profile.html#using-a-custom-timer
+
+27.5. timeit — Measure execution time of small code snippets
+https://docs.python.org/3/library/timeit.html#basic-examples
+https://docs.python.org/3/library/timeit.html#python-interface
+https://docs.python.org/3/library/timeit.html#command-line-interface
+https://docs.python.org/3/library/timeit.html#examples
+
+https://wiki.python.org/moin/PythonSpeed/Profiling
+http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+https://numba.pydata.org/
+
+https://en.wikipedia.org/wiki/Schwartzian_transform
+https://wiki.python.org/moin/DecorateSortUndecorate
+
+https://wiki.python.org/moin/ConcatenationTestCode
+
+https://docs.python.org/3/library/sys.html#sys.setcheckinterval
+-->
+
+### Python Time Complexity and Optimization
+
+Python Performance
+* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
+* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+
+### Python Profiling
+
+<!--
+Python Profiling 
+
+Third Party Testing and Profiling
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+-->
+
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
 
 ### Clean Architecture
 
@@ -1283,6 +1435,68 @@ Sequential Versus Random (Direct) Access
 
 Sequential Access List
 Random (Direct) Access List
+-->
+
+## Django Security
+
+<!--
+https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
+-->
+
+<!--
+## Security- General
+    
+Same Origin
+* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://developers.google.com/web/fundamentals/security/
+
+https://github.com/OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+
+https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
+
+https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
+https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
+    
+https://en.wikipedia.org/wiki/Code_injection
+https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
+
+https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
+
+https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
+
+https://en.wikipedia.org/wiki/Threat_model
 -->
 
 
