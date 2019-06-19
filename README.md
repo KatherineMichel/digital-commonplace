@@ -12,6 +12,9 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
 ### Languages and Frameworks
 
 Languages and Frameworks (Other than Python and Django)
@@ -39,6 +42,18 @@ Check This Out
 <!--
 https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
 -->
+
+Django Consulting Firm GitHub Accounts
+* [Caktus Group GitHub](https://github.com/caktus)
+* [Cuttlesoft GitHub](https://github.com/cuttlesoft)
+* [Divio GitHub](https://github.com/divio)
+* [Eldarion GitHub](https://github.com/eldarion)
+* [JamBon Software GitHub](https://github.com/jambonsw)
+* [Lincoln Loop GitHub](https://github.com/lincolnloop)
+* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
+* [Torchbox GitHub](https://github.com/torchbox)
+* [Truthful Technology GitHub](https://github.com/TruthfulTechnology)
+* [Vinta Software GitHub](https://github.com/vintasoftware)
 
 ### High Performance Developers and Blogs
 
@@ -121,6 +136,10 @@ https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 ### Coding Practice
 
@@ -1577,10 +1596,6 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instruc
 Comparison of programming languages (mapping)
 -->
 
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
 ## Browser Object Model (BOM) and Document Object Model (DOM)
 
 ## JavaScript
@@ -2052,18 +2067,6 @@ Django Consulting Firms Blogs
 * [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
 * [Torchbox Blog](https://torchbox.com/blog)
 * [Vinta Blog](https://www.vinta.com.br/blog)
-
-Django Consulting Firm GitHub Accounts
-* [Caktus Group GitHub](https://github.com/caktus)
-* [Cuttlesoft GitHub](https://github.com/cuttlesoft)
-* [Divio GitHub](https://github.com/divio)
-* [Eldarion GitHub](https://github.com/eldarion)
-* [JamBon Software GitHub](https://github.com/jambonsw)
-* [Lincoln Loop GitHub](https://github.com/lincolnloop)
-* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
-* [Torchbox GitHub](https://github.com/torchbox)
-* [Truthful Technology GitHub](https://github.com/TruthfulTechnology)
-* [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
 https://www.jbssolutions.com/
@@ -2614,6 +2617,10 @@ Distribution, Growth, Sales Hacking
 * [Distribution Hacks](http://distributionhacks.com) 
 * [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
 * [Hiten Shah Twitter](https://twitter.com/hnshah)
+
+<!--
+Seth Godin
+-->
 
 Idea Maze
 * [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
