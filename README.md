@@ -2,6 +2,10 @@
 
 ## Priorities
 
+<!--
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+-->
+
 ### Languages and Frameworks
 
 Languages and Frameworks (Other than Python and Django)
@@ -66,6 +70,13 @@ JavaScript Articles
 * [Medium JavaScript](https://medium.com/tag/javascript)
 * [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
 
+<!--
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://t.co/rzvAPV1wXl | https://glitch.com/@python
+https://guide.freecodecamp.org/ | freeCodeCamp Guide
+https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
+-->
+
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
@@ -122,12 +133,44 @@ Google Open Source
 * [Why Open Source?](https://opensource.google.com/docs/why)
 
 <!--
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+
+https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
+
+https://todogroup.org/guides
+https://todogroup.org/ | // TODO: Talk openly, develop openly
+https://github.com/todogroup
+
+Capability Maturity Model Integrated (CMMI®) 
+https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+https://community.apache.org/apache-way/apache-project-maturity-model.html
+
+Mozilla Metrics
+https://github.com/chaoss/metrics
+https://github.com/chaoss | CHAOSS
+https://wiki.linuxfoundation.org/chaoss/metrics
+https://chaoss.community/ | Home - CHAOSS
+https://github.com/chaoss/wg-diversity-inclusion
+https://medium.com/@sunnydeveloper/
+https://github.com/emmairwin | emmairwin (Emma)
+https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/ | If You Can't Measure It, You Can't Improve It: CHAOSS Project Creates Tools to Analyze Software Development and Measure Open Source Community Health - The Linux Foundation
+http://tiptoes.ca/ | Emma Irwin – Learning in the open
+
 https://martinfowler.com/bliki/MaturityModel.html
 
 https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
 
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+-->
+
+<!--
+https://about.gitlab.com/handbook/ | Handbook | GitLab
 -->
 
 ## Engineering Management Resources
@@ -212,8 +255,221 @@ Vinta Django Apps Checklist
  Vinta API Checklist	
 * [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
+## Programming Paradigms
 
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+<!--
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+-->
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+<!--
+Object-Oriented Programming
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+-->
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+
+<!--
+https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
+https://en.wikipedia.org/wiki/Interface_segregation_principle
+https://en.wikipedia.org/wiki/Dependency_inversion_principle
+-->
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+<!--
+https://realpython.com/modeling-polymorphism-django-python/
+
+* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
+
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/Stateless_protocol
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+https://en.wikipedia.org/wiki/Persistence_(computer_science)
+https://en.wikipedia.org/wiki/Persistent_data_structure
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
+
+https://en.wikipedia.org/wiki/Immutable_object
+
+https://en.wikipedia.org/wiki/Memoization
+-->
+
+## Clean Architecture
+
+<!--
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
+-->
+
+## Clean architecture in Python and Django
+
+<!--
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+
+Brandon Rhodes
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+-->
+
+## Software Design Patterns
+
+Design Patterns- General
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+
+<!--
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+
+https://sourcemaking.com
+https://sourcemaking.com/antipatterns/ | AntiPatterns
+https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
+-->
+
+## General Software Design Patterns
+
+Creational Patterns
+* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
+* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
+* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
+
+Structural Patterns
+* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
+* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
+* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
+* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
+
+Behavioral Patterns
+* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
+* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
+* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
+* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
+* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
+
+## Python Patterns
+
+Python Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
+* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
+* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
+
+<!--
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
+
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
+https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
+
+Pluralsight Python Design Patterns course author
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+-->
+
+<!--
+Django Design patterns
+
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+
+https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
+
+https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
+
+https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
+https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
+
+https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
+-->
 
 
 
@@ -261,8 +517,6 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
-
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
 https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
@@ -378,8 +632,6 @@ Computer History
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
-https://dependabot.com/ | Dependabot
-
 http://www.computerhistory.org/
 https://www.computerhistory.org/fellowawards/hall/ | Hall of Fellows | Computer History Museum
 http://www.computerhistory.org/press/2018-fellow-honorees.html | Computer History Museum Announces 2018 Fellow Award Honorees | Press Releases | Computer History Museum
@@ -424,138 +676,82 @@ http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 ## Open Source Software
 
 <!--
+https://dependabot.com/ | Dependabot
+
 https://www.linuxfoundation.org/
 https://www.apache.org/foundation/
 https://foundation.mozilla.org/en/
 https://foundation.nodejs.org/
 https://opensource.org/
 
-Mozilla Metrics
-https://github.com/chaoss/metrics
-https://github.com/chaoss | CHAOSS
-https://wiki.linuxfoundation.org/chaoss/metrics
-https://chaoss.community/ | Home - CHAOSS
-https://github.com/chaoss/wg-diversity-inclusion
-https://medium.com/@sunnydeveloper/
-https://github.com/emmairwin | emmairwin (Emma)
-
 Diversity Study
 https://www.atlassian.com
 https://www.atlassian.com/diversity/survey/2018 | 2018 State of Diversity Report | Atlassian
 https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c | Diversity fatigue is real: Atlassian's State of Diversity Report 2018
 
-Node
 https://medium.com/@nodejs/take-our-node-js-2018-user-survey-965011560edb | Take Our Node.js 2018 User Survey! – Node.js Foundation – Medium
-https://www.slideshare.net/NodejsFoundation?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview | Nodejsfoundation presentations
+Node
+https://foundation.nodejs.org/about/leadership
 https://github.com/nodejs/board | nodejs/board: The Node Foundation Board of Directors
+https://www.slideshare.net/NodejsFoundation | Nodejsfoundation presentations
+
 https://github.com/nodejs/TSC/issues/179 | Result of Request to migrate Inclusivity Working Group responsibilities to the Node.js Foundation and TSC · Issue #179 · nodejs/TSC
-http://www.devtalk.tv/keynote-contributing-to-nodejs-coding-not-required-by-william-kapke-kap-co-llc_fd62a5d2f.html | KEYNOTE: Contributing to Node.js: Coding Not Required by William Kapke, Kap Co, LLC
-http://www.devtalk.tv/keynote-the-road-forward-by-tracy-hinds-nodejs-foundation_a01f763e9.html | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation
-https://www.youtube.com/watch?v=pyEQRjU1SZQ | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation - YouTube
 https://github.com/nodejs/summit/ | nodejs/summit: Organizing a Collaborator Summit
 https://github.com/nodejs/summit/issues/35 | Collaboration Summit at Node Interactive Austin · Issue #35 · nodejs/summit
 https://github.com/nodejs/community-committee | nodejs/community-committee: The Node.js Foundation Community Committee (aka CommComm)
 https://en.wikipedia.org/wiki/Capacity_building | Capacity building - Wikipedia
 https://blog.npmjs.org/post/164575965335/values-inclusion-and-the-nodejs-foundation | The npm Blog — Values, Inclusion, and the Node.js Foundation
 https://github.com/nodejs/board/blob/38a7a3065613e04a259c23ea02bb6e787d9ea839/minutes/2016-09-15.md | board/2016-09-15.md at 38a7a3065613e04a259c23ea02bb6e787d9ea839 · nodejs/board
+Node.js Foundation’s membership levels - Google Search
+https://github.com/nodejs/outreach | nodejs/outreach: A Node.js community growth and support initiative
+
+http://www.devtalk.tv/keynote-the-road-forward-by-tracy-hinds-nodejs-foundation_a01f763e9.html | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation
+https://www.youtube.com/watch?v=pyEQRjU1SZQ | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation - YouTube
+http://www.devtalk.tv/keynote-contributing-to-nodejs-coding-not-required-by-william-kapke-kap-co-llc_fd62a5d2f.html | KEYNOTE: Contributing to Node.js: Coding Not Required by William Kapke, Kap Co, LLC
+
+https://chaoss.community/chaosscon-2018-na/ | CHAOSScon-2018-NA - CHAOSS
+https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/ | Open Source Summit 2018 - Linux Foundation Events
+https://www.youtube.com/playlist?list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth | Open Source Summit North America 2017 - YouTube
+https://ossna2017.sched.com/event/BJ4v/time-for-action-innovating-for-di-in-open-source-communities-emma-irwin-larissa-shapiro-mozilla | Open Source Summit North America 2017: Time for Action - Innovating for D&I in...
 
 Mozilla
 https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e | A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities
 https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy#Long_Term_Vision | Diversity and Inclusion Strategy - MozillaWiki
-https://ossna2017.sched.com/event/BJ4v/time-for-action-innovating-for-di-in-open-source-communities-emma-irwin-larissa-shapiro-mozilla | Open Source Summit North America 2017: Time for Action - Innovating for D&I in...
-https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/ | If You Can't Measure It, You Can't Improve It: CHAOSS Project Creates Tools to Analyze Software Development and Measure Open Source Community Health - The Linux Foundation
 https://wiki.mozilla.org/Diversity_and_Inclusion_for_Communities_and_Contributors/DI_Call_08_01_2018 | Diversity and Inclusion for Communities and Contributors/DI Call 08 01 2018 - MozillaWiki
 https://github.com/mozilla/diversity | mozilla/diversity: Our repository for Diversity & Inclusion work at Mozilla
 https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
 https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
 https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425 | We See You! Reaching Diverse Audiences in FOSS – Mozilla Open Innovation – Medium
-https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
 https://discourse.mozilla.org/t/diversity-inclusion-in-open-source-survey/23733 | Diversity & Inclusion in Open Source - Survey - Mozillians - Mozilla Discourse
 https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html | Increasing Rust’s Reach - The Rust Programming Language Blog
-https://chaoss.community/chaosscon-2018-na/ | CHAOSScon-2018-NA - CHAOSS
-https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/ | Open Source Summit 2018 - Linux Foundation Events
-http://tiptoes.ca/ | Emma Irwin – Learning in the open
 https://medium.com/mozilla-open-innovation | Mozilla Open Innovation – Medium
-https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
-https://www.youtube.com/playlist?list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth | Open Source Summit North America 2017 - YouTube
 https://twitter.com/aschapi/status/987106493618044928 | Amy Schapiro on Twitter: "The state of diversity and inclusion at @mozilla is now available: Mozilla Corporation: https://t.co/XZK5uDv7Pp Mozilla Foundation: https://t.co/81cBZck2rP"
+https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
+Mozilla open leaders programme - Google Search
 
 https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
 https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
 
+
+
 NumFOCUS
 https://numfocus.org/blog/discover-cookbook | Diverse & Inclusive Events and Conferences Cookbook — #DISCunconf
 https://github.com/numfocus/DISCOVER-Cookbook | numfocus/DISCOVER-Cookbook: The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
-https://www.numfocus.org/membership | Membership - NumFOCUS
-https://numfocus.org/blog/numfocus-sustainer-weeks | NumFOCUS Sustainer Weeks - NumFOCUS
+https://github.com/numfocus/diversity-and-inclusion-conversation-kit | numfocus/diversity-and-inclusion-conversation-kit: Quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
+
+Disc
+https://numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/ | Page not found - NumFOCUS
 https://numfocus.org/blog/diversity-and-metrics-in-software-communities-notes-from-the-disc-unconference | Diversity and Metrics in Software Communities — Notes from the DISC Unconference - NumFOCUS
 https://numfocus.org/blog/starting-di-conversations-work-notes-disc-unconference | Starting D&I Conversations at Work — Notes from the DISC Unconference - NumFOCUS
-https://github.com/numfocus/diversity-and-inclusion-conversation-kit | numfocus/diversity-and-inclusion-conversation-kit: Quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
-https://numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/ | Page not found - NumFOCUS
-
-Node.js Foundation’s membership levels - Google Search
-Mozilla open leaders programme - Google Search
-https://github.com/nodejs/outreach | nodejs/outreach: A Node.js community growth and support initiative
-https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
 
 https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
+
 https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
 https://www.openchainproject.org/ | Home - OpenChain
 -->
 
 GitHub
 * [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
-
-<!--
-https://github.com/erikbern/git-of-theseus
-
-https://live-stream.github.com/ | GitHub Live Events
-
-https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
-https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
-
-https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
-
-Packages
-https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
-
-Sponsors
-https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
-https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
-https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
-https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
-https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
-https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
-
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
-
-https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
-https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-enterprise/
-
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-
-https://github.com/actions | GitHub Actions
-
-https://github.community/| Home - GitHub Community Forum
-https://hub.github.com/ | hub · the command-line wrapper for git
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://github.com/primer | Primer
-
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2401-the-github-diversity-report	
-
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v4/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
--->
 
 Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
@@ -584,27 +780,62 @@ OS and Software Practices by Company
 * [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
 
 <!--
-* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+https://github.com/erikbern/git-of-theseus
 
-https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
+https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
+https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
 
-https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
 
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
 
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-https://github.com/blog/2471-introducing-team-discussions | Introducing Team discussions
-https://github.com/blog/2415-introducing-embedded-code-snippets
-https://github.com/blog/2470-introducing-security-alerts-on-github
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2401-the-github-diversity-report	
 
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
-
-https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+https://live-stream.github.com/ | GitHub Live Events
 
 https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
 
+Sponsors
+https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
+https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
+https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
+https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
+https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
+https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
+
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+
+Packages
+https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
+https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
+https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-enterprise/
+
+* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+
+https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
+https://github.com/actions | GitHub Actions
+
+https://github.community/| Home - GitHub Community Forum
+https://hub.github.com/ | hub · the command-line wrapper for git
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://github.com/primer | Primer
+
 https://developer.github.com/apps
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v4/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
 
 https://github.com/blog/2226-build-an-integration-for-github
 https://developer.github.com/integrations-directory/
@@ -613,14 +844,7 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 
 https://github.com/github/github-services/tree/master/docs
 
-https://todogroup.org/guides
-https://todogroup.org/ | // TODO: Talk openly, develop openly
-https://github.com/todogroup
-
 https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
 
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
 
@@ -692,9 +916,7 @@ https://www.kentbeck.com/ | KentBeck.com
 http://stevemcconnell.com/books/
 http://www.cc2e.com
 https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
--->
 
-<!--
 ???
 http://wiki.c2.com/ | Welcome Visitors
 http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
@@ -718,19 +940,7 @@ https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefa
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
 
-## Clean Architecture
-
-<!--
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
--->
+## Books
 
 <!--
 Books!
@@ -785,18 +995,13 @@ CodePen
 * [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
-<!--
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
-https://guide.freecodecamp.org/ | freeCodeCamp Guide
-https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
--->
-
 ## Curated Resources
 
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+
 
 Interesting Curated Learning Resources
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
@@ -1230,107 +1435,6 @@ More Database Stuff
 * [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
 * [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
 * [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-## Programming Paradigms
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Paradigm Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-<!--
-React?
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
--->
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-<!--
-Object-Oriented Programming
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
--->
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
-Software Principles (SOLID)
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-
-<!--
-https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
-https://en.wikipedia.org/wiki/Liskov_substitution_principle
-https://en.wikipedia.org/wiki/Interface_segregation_principle
-https://en.wikipedia.org/wiki/Dependency_inversion_principle
--->
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-<!--
-https://realpython.com/modeling-polymorphism-django-python/
-
-* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
-
-https://en.wikipedia.org/wiki/Object_composition
-https://en.wikipedia.org/wiki/State_(computer_science)
-https://en.wikipedia.org/wiki/Stateless_protocol
-https://en.wikipedia.org/wiki/State_diagram
-https://en.wikipedia.org/wiki/Interface_(computing)
-
-https://en.wikipedia.org/wiki/Persistence_(computer_science)
-https://en.wikipedia.org/wiki/Persistent_data_structure
-https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
-
-https://en.wikipedia.org/wiki/Immutable_object
-
-https://en.wikipedia.org/wiki/Memoization
--->
-
-## Software Design Patterns
-
-Design Patterns- General
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-Design Patterns
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-
-<!--
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
-
-https://sourcemaking.com
-https://sourcemaking.com/antipatterns/ | AntiPatterns
-https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
-
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
--->
 
 ## Programming Language Comparisons
 
@@ -1800,107 +1904,6 @@ Django Learning Resources
 
 Python Internals
 * [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
-
-## Clean architecture in Python and Django
-
-<!--
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-
-Brandon Rhodes
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
-
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
-
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
--->
-
-## General Software Design Patterns
-
-Creational Patterns
-* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
-* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
-* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
-* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
-
-Structural Patterns
-* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
-* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
-* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
-* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
-* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
-
-Behavioral Patterns
-* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
-* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
-* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
-* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
-* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
-* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
-
-## Python Patterns
-
-Python Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
-* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
-
-<!--
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
-
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
-https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
-https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
-
-Pluralsight Python Design Patterns course author
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
--->
-
-<!--
-Django Design patterns
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
-
-https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
-
-https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
-
-https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
-https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
-
-https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
--->
 
 ## Software Testing
 
