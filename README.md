@@ -17,6 +17,10 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 
 ### Languages and Frameworks
 
+Python and Django Docs
+* [Python Docs](https://docs.python.org)
+* [Django Docs](https://docs.djangoproject.com)  
+
 Languages and Frameworks (Other than Python and Django)
 * [Node Docs](https://nodejs.org)
 * [React Docs](https://reactjs.org/docs)
@@ -25,14 +29,21 @@ Languages and Frameworks (Other than Python and Django)
 
 ### High Performance Developers and Blogs
 
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
 * [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+Speaker Twitter Lists
+https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
+https://twitter.com/djangocon/lists/speakers-2017
+
+https://techyaks.com/top-python-talks.html
+
+https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+-->
 
 ### Authorities
 
@@ -44,6 +55,10 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
 Software development tools
 
 https://m.signalvnoise.com
@@ -221,7 +236,7 @@ Python Challenges
 * [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
 
-## Data Types, Data Structures, and Algorithms
+### Data Types, Data Structures, and Algorithms
 
 Data Type
 * [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type)
@@ -252,10 +267,11 @@ https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 https://en.wikipedia.org/wiki/List_of_algorithms
 -->
 
-
 ### Django Learning Resources
 
-<!--
+Django Learning Resources
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
+
 Django Tutorials
 * [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
@@ -268,16 +284,7 @@ Two Scoops Books
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
 
 Two Scoops Django 2.0
-* ["What about Django 2.0, 2.1, etc.?"](https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc)
 * [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
--->
-
-Django Learning Resources
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-
-Python- Django- Tutorial and Book Lists
-* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
-* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
 
 Check This Out
 * [High Performance Django](https://highperformancedjango.com)
@@ -310,10 +317,12 @@ Django Consulting Firm GitHub Accounts
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+https://github.com/cfpb/django-flags | cfpb/django-flags: Feature flags for Django projects
+
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
 -->
 
-## Django Rest Framework
+### Django Rest Framework
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
@@ -341,16 +350,6 @@ https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD
 -->
 
 ### CPython
-
-<!--
-Speaker Twitter Lists
-https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
-https://twitter.com/djangocon/lists/speakers-2017
-
-https://techyaks.com/top-python-talks.html
-
-https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
--->
 
 Python Language Summits
 * [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
@@ -529,14 +528,10 @@ Common for Python
 * [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 
 <!--
-https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
-
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
 https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
-https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-https://en.wikipedia.org/wiki/Code_coverage
 
 https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
 https://en.wikipedia.org/wiki/Mutation_testing
@@ -571,6 +566,263 @@ http://pythontesting.net/start-here/
 DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
 -->
+
+## Python and Django- General
+
+Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
+* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
+
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+## Editors
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+-->
+
+### Django Style
+
+Django Coding Style Guide
+* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
+
+Django JavaScript Style Guide
+* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
+
+### Python Style
+
+Python Style
+* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+
+### Python Non-Official Styleguides and Code Formatting
+
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+Code Formatting
+* [Black GitHub](https://github.com/python/black)
+* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
+* [Black Out GitHub](https://github.com/mariatta/black_out)
+* [White GitHub](https://github.com/kennethreitz/white)
+* [Google YAPF](https://github.com/google/yapf)
+
+<!--
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
+### Python and Django Oficial Style Guides
+
+Python- PEP 8
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+
+<!--
+https://github.com/amontalenti/elements-of-python-style
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+-->
+
+### Python Notation
+
+<!--	
+https://twitter.com/aaronchall/status/1114713624453554176
+
+4.8. Intermezzo: Coding Style	
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
+10. Full Grammar specification	
+https://docs.python.org/3/reference/grammar.html	
+https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
+1.2. Notation	
+https://docs.python.org/3/reference/introduction.html#notation	
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
+### Django Performance, Optimization, Deployment, Architecture
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
+### Django Debugging
+
+### Python Debugging
+
+Python and Django Debugging
+* [bdb](https://docs.python.org/3/library/bdb.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+* [profile](https://docs.python.org/3/library/profile.html)
+* [timeit](https://docs.python.org/3/library/timeit.html)
+
+### Django Testing Tools
+
+Django
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
+
+<!--
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
+tox can be used with Flask
+https://github.com/pallets/flask/blob/master/tox.ini
+
+https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+
+Django Debug Toolbar
+https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
+https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
+-->
+
+<!--
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
+https://en.wikipedia.org/wiki/Code_coverage
+-->
+
+### Python Testing Tools
+
+Tox and Nox
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+
+Testing Tools
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+
+Continuous Integration and Delivery
+* [CircleCI](https://circleci.com)
+* [Codecov](https://codecov.io)
+
+<!--
+https://codecov.io/#features | Codecov
+
+https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode
+
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+https://github.com/openstack/doc8
+https://github.com/PyCQA/pydocstyle
+
+http://www.pyinvoke.org/
+https://github.com/pypa/pip/blob/master/tasks/generate.py
+https://www.gnu.org/software/make/
+https://github.com/ruby/rake
+http://www.fabfile.org/
+
+http://mypy-lang.org/
+
+flake8 
+noqa: E501
+https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
+
+Package Tools
+* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
+
+pytz
+https://pypi.org/project/pytz/ | pytz · PyPI
+
+https://hypothesis.readthedocs.io/en/latest/
+-->
+
+pytest and Nose (Unit Test Extension)
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+* [Nose GitHub](https://github.com/nose-devs/nose)
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
+* [mock PyPi](https://pypi.python.org/pypi/mock)
+
+<!--
+https://github.com/PyCQA/mccabe
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+-->
+
+### Django Testing
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+### Python Testing
+
+Python Testing
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+* [doctest](https://docs.python.org/3/library/doctest.html)
 
 ### Clean Architecture
 
@@ -934,9 +1186,6 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 
-
-
-
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
 http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
 
@@ -946,7 +1195,6 @@ https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_cons
 https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
 https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-
 
 
 AP, CP or CA Databases
@@ -967,11 +1215,7 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
-https://en.wikipedia.org/wiki/Cron
 
-
-
-https://en.wikipedia.org/wiki/Performance_tuning
 
 https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
 
@@ -985,8 +1229,6 @@ https://en.wikipedia.org/wiki/Webhook
 
 https://en.wikipedia.org/wiki/WebSocket
 https://en.wikipedia.org/wiki/Network_socket
-
-https://landing.google.com/sre/sre-book/toc/ | Google - Site Reliability Engineering
 
 https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
@@ -1043,11 +1285,7 @@ Sequential Access List
 Random (Direct) Access List
 -->
 
-<!--
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
 
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
--->
 
 
 
@@ -1133,6 +1371,9 @@ https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Sci
 ## People and Case Studies
 
 <!--
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
 https://awards.acm.org/about/2017-technical-awards | 2017 Technical Awards
 
 https://www.top500.org/ | Home | TOP500 Supercomputer Sites
@@ -2447,6 +2688,13 @@ Tutorials
 
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
+
+Python- Django- Tutorial and Book Lists
+* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
+* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
+
+Two Scoops
+* ["What about Django 2.0, 2.1, etc.?"](https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc)
 
 Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
 * [Django Book (Deprecated but useful)](http://www.djangobook.com)
