@@ -10,6 +10,12 @@ https://en.wikipedia.org/wiki/Project-based_learning
 * Mariatta's talks and workshops
 
 https://github.com/dateutil/dateutil/issues/653
+
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
 -->
 
 Eisenhower Matrix
