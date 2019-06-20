@@ -273,6 +273,75 @@ https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 https://en.wikipedia.org/wiki/List_of_algorithms
 -->
 
+<!--
+## Data Types and Data Structures
+ 
+Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
+Dynamic Data Structures
+
+https://en.wikipedia.org/wiki/Address_space
+https://en.wikipedia.org/wiki/Memory_address
+
+https://en.wikipedia.org/wiki/Recursion_(computer_science)
+https://en.wikipedia.org/wiki/Recursion | Recursion - Wikipedia
+https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers | Call stack - Wikipedia
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+https://en.wikipedia.org/wiki/Stack-based_memory_allocation
+
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+
+Sequential Access List
+Random (Direct) Access List
+-->
+
+### Django Learning Resources
+
+Django Learning Resources
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
+
+Django Tutorials
+* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
+
+Django Tutorials- Unified Modeling Language in Practice
+* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
+Two Scoops Books
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+
+Two Scoops Django 2.0
+* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
+
+Check This Out
+* [High Performance Django](https://highperformancedjango.com)
+
+<!--
+https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
+
+Django for Beginners
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
+https://www.amazon.com/dp/B079ZZLRRL/?tag=wsvincent-20 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+https://leanpub.com/u/wsvincent | William S. Vincent
+https://github.com/wsvincent | wsvincent (William S. Vincent)
+https://wsvincent.com/django-tips-imports/ | Django Tips #2: Imports - William S. Vincent
+https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: makemigrations command - William S. Vincent
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+-->
+
 ### High Performance Python
 
 Python Success Stories
@@ -326,43 +395,6 @@ http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
-### Django Learning Resources
-
-Django Learning Resources
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
-
-Django Tutorials
-* [Django Web Framework Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) and [Django Web Framework Tutorial GitHub](https://github.com/mdn/django-locallibrary-tutorial)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11) and [A Complete Beginner's Guide to Django GitHub](https://github.com/sibtc/django-beginners-guide)
-
-Django Tutorials- Unified Modeling Language in Practice
-* ["A Complete Beginner's Guide to Django - Part 2"](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
-* [Mozilla Django Tutorial Part 3: Using models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
-
-Two Scoops Books
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/collections/django/products/two-scoops-of-django-1-11) and [Two Scoops of Django: Best Practices for Django 1.11 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
-
-Two Scoops Django 2.0
-* [Two Scoops of Django: Best Practices for Django 2.0 GitHub](https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples)
-
-Check This Out
-* [High Performance Django](https://highperformancedjango.com)
-
-<!--
-https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
-
-Django for Beginners
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
-https://www.amazon.com/dp/B079ZZLRRL/?tag=wsvincent-20 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-https://leanpub.com/u/wsvincent | William S. Vincent
-https://github.com/wsvincent | wsvincent (William S. Vincent)
-https://wsvincent.com/django-tips-imports/ | Django Tips #2: Imports - William S. Vincent
-https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: makemigrations command - William S. Vincent
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
--->
-
 Django Consulting Firm GitHub Accounts
 * [Caktus Group GitHub](https://github.com/caktus)
 * [Cuttlesoft GitHub](https://github.com/cuttlesoft)
@@ -376,9 +408,18 @@ Django Consulting Firm GitHub Accounts
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
-https://github.com/cfpb/django-flags | cfpb/django-flags: Feature flags for Django projects
-
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+https://github.com/lincolnloop/django-alive
+
+https://github.com/jambonsw/django-improved-user
+
+https://github.com/divio/react-boilerplate
+https://github.com/divio/node-boilerplate
+
+https://github.com/caktus/django-project-template
+
+https://github.com/cfpb/django-flags | cfpb/django-flags: Feature flags for Django projects
 -->
 
 ### Django Rest Framework
@@ -458,26 +499,35 @@ Vinta Django Apps Checklist
 
 ### X Driven Development
 
+Fear
 * [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+
+Docs
 * [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
 * [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
 * [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
-* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
 
 Test Driven Development (TDD)
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
 
 Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 * [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 * [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
 
+More Software Planning
+* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+
 <!--
+* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
+
+Paradigm
+* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+
 https://domainlanguage.com/ddd/reference/
 http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
 
@@ -544,8 +594,6 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 
 <!--
 https://realpython.com/modeling-polymorphism-django-python/
-
-* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
 
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 
@@ -679,6 +727,10 @@ Django Deployment
 
 ### Python Debugging
 
+Debugging
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+
 Python and Django Debugging
 * [bdb](https://docs.python.org/3/library/bdb.html)
 * [pdb](https://docs.python.org/3/library/pdb.html)
@@ -687,44 +739,49 @@ Python and Django Debugging
 
 ### Software Testing
 
-Software Testing
+General
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-
 * [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
 * [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
 * [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
 * [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
 
+Software Testing
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 * [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+Common for Python
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 * [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
 * [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
 
-Common for Python
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+TDD and BDD
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
 <!--
+https://en.wikipedia.org/wiki/Test_case
+
+* [Automation Panda](https://automationpanda.com)
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+
+https://martinfowler.com/articles/practical-test-pyramid.html
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+https://automationpanda.com/bdd/
+https://automationpanda.com/python/
+
+https://twitter.com/AutomationPanda/status/1097140065577431041
+https://twitter.com/AutomationPanda/status/1048275359303708673
+https://twitter.com/AutomationPanda/status/1023346925771345920
+https://twitter.com/AutomationPanda/status/1061393338165837825
+
 https://en.wikipedia.org/wiki/Return_on_investment
 
 https://en.wikipedia.org/wiki/Load_testing
 https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
 https://en.wikipedia.org/wiki/Mutation_testing
-
-https://martinfowler.com/articles/practical-test-pyramid.html
-
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-https://twitter.com/AutomationPanda/status/1097140065577431041
-https://automationpanda.com/bdd/
-https://automationpanda.com/python/
-https://twitter.com/AutomationPanda/status/1048275359303708673
-https://twitter.com/AutomationPanda/status/1023346925771345920
-https://twitter.com/AutomationPanda/status/1061393338165837825
 
 https://www.tutorialspoint.com/software_testing_dictionary
 https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
@@ -735,8 +792,6 @@ https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is
 ### Python and Django Debugging and Testing
 
 Testing
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Automation Panda](https://automationpanda.com)
 * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
 * [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
 
@@ -744,15 +799,11 @@ Django Testing
 * [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
 
 <!--
-https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-
 Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 
 https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
 https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
 
-https://docs.pytest.org/en/latest/contents.html#toc
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
@@ -792,6 +843,12 @@ https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: 
 
 ### Python Testing Tools
 
+Python Testing Built-In Tools
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+* [doctest](https://docs.python.org/3/library/doctest.html)
+* [mock](https://docs.python.org/dev/library/unittest.mock.html)
+
 Continuous Integration and Delivery
 * [CircleCI](https://circleci.com)
 * [Codecov](https://codecov.io)
@@ -814,9 +871,6 @@ pytest
 PyLint
 * [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
 
-Built-In Tools
-* [mock](https://docs.python.org/dev/library/unittest.mock.html)
-
 Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
@@ -834,10 +888,6 @@ https://github.com/PyCQA/pydocstyle
 https://www.youtube.com/watch?v=-BHverY7IwU
 http://www.pyinvoke.org/
 https://github.com/pypa/pip/blob/master/tasks/generate.py
-
-https://www.gnu.org/software/make/
-https://github.com/ruby/rake
-http://www.fabfile.org/
 
 http://mypy-lang.org/
 
@@ -870,13 +920,6 @@ Django Testing- Official
 * [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
-### Python Testing
-
-Python Testing
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-* [doctest](https://docs.python.org/3/library/doctest.html)
-
 <!--
 Shells
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
@@ -887,8 +930,11 @@ Permissions
 * [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
 
 Files
-* [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
 * [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+http://www.fabfile.org/
 
 EditorConfig (tabs versus spaces, ect) .editorconfig
 * [EditorConfig](http://editorconfig.org)
@@ -1230,6 +1276,19 @@ https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simula
 https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+
+https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Webhook
+
+https://en.wikipedia.org/wiki/WebSocket
+https://en.wikipedia.org/wiki/Network_socket
 -->
 
 ### Important Concepts
@@ -1451,74 +1510,6 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
-
-
-https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Webhook
-
-https://en.wikipedia.org/wiki/WebSocket
-https://en.wikipedia.org/wiki/Network_socket
-
-https://en.wikipedia.org/wiki/Pareto_principle
-https://en.wikipedia.org/wiki/POSIX_Threads | POSIX Threads - Wikipedia
--->
-
-<!--
-## Programming Concepts and Tools
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
--->
-
-<!--
-## Data Types and Data Structures
- 
-Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
-* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
-* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
-
-Dynamic Data Structures
-
-https://en.wikipedia.org/wiki/Address_space
-https://en.wikipedia.org/wiki/Memory_address
-
-https://en.wikipedia.org/wiki/Recursion_(computer_science)
-https://en.wikipedia.org/wiki/Recursion | Recursion - Wikipedia
-https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers | Call stack - Wikipedia
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-https://en.wikipedia.org/wiki/Stack-based_memory_allocation
-
-https://en.wikipedia.org/wiki/Pointer_(computer_programming)
-https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-
-Sequential Access List
-Random (Direct) Access List
 -->
 
 ## Django Security
@@ -2274,6 +2265,16 @@ https://github.com/trimstray/sysadmin-interview-questions
 https://github.com/donnemartin/interactive-coding-challenges
 -->
 
+## Programming Concepts and Tools
+
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
+
 ## Philosophies
 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -2301,6 +2302,13 @@ https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre |
 -->
 
 <!--
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+
 https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
 https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
 https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
