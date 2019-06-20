@@ -4,6 +4,12 @@
 
 <!--
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+
+https://en.wikipedia.org/wiki/Project-based_learning
+
+* Mariatta's talks and workshops
+
+https://github.com/dateutil/dateutil/issues/653
 -->
 
 Eisenhower Matrix
@@ -267,6 +273,59 @@ https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 https://en.wikipedia.org/wiki/List_of_algorithms
 -->
 
+### High Performance Python
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+High Performance Python- Engineering Blogs
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
+<!--
+Carl Meyer talk
+
+https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
+
+Major Organizations and Projects that Use Django
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
+
 ### Django Learning Resources
 
 Django Learning Resources
@@ -505,68 +564,6 @@ https://en.wikipedia.org/wiki/Immutable_object
 https://en.wikipedia.org/wiki/Memoization
 -->
 
-### Software Testing
-
-Software Testing
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-
-Common for Python
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-
-<!--
-https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-
-https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
-
-https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
-https://en.wikipedia.org/wiki/Mutation_testing
--->
-
-### Python and Django Debugging and Testing
-
-Testing
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Automation Panda](https://automationpanda.com)
-* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
-
-Django Testing
-* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
-
-<!--
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
-
-https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
-https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
-
-https://docs.pytest.org/en/latest/contents.html#toc
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-http://pythontesting.net/start-here/
--->
-
-<!--
-DjangoCon Keynote by Ana
-http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
--->
-
 ### Python and Django- General
 
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
@@ -688,14 +685,98 @@ Python and Django Debugging
 * [profile](https://docs.python.org/3/library/profile.html)
 * [timeit](https://docs.python.org/3/library/timeit.html)
 
+### Software Testing
+
+Software Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+
+Common for Python
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+
+<!--
+https://en.wikipedia.org/wiki/Return_on_investment
+
+https://en.wikipedia.org/wiki/Load_testing
+https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
+https://en.wikipedia.org/wiki/Mutation_testing
+
+https://martinfowler.com/articles/practical-test-pyramid.html
+
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+https://twitter.com/AutomationPanda/status/1097140065577431041
+https://automationpanda.com/bdd/
+https://automationpanda.com/python/
+https://twitter.com/AutomationPanda/status/1048275359303708673
+https://twitter.com/AutomationPanda/status/1023346925771345920
+https://twitter.com/AutomationPanda/status/1061393338165837825
+
+https://www.tutorialspoint.com/software_testing_dictionary
+https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
+
+https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
+-->
+
+### Python and Django Debugging and Testing
+
+Testing
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Automation Panda](https://automationpanda.com)
+* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
+
+Django Testing
+* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
+
+<!--
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+
+https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
+https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
+
+https://docs.pytest.org/en/latest/contents.html#toc
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+http://pythontesting.net/start-here/
+-->
+
+<!--
+DjangoCon Keynote by Ana
+http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
+-->
+
 ### Django Testing Tools
 
 Django
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 * [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+
+Pylint Django
 * [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
+
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 <!--
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
@@ -708,6 +789,93 @@ Django Debug Toolbar
 https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
 https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
 -->
+
+### Python Testing Tools
+
+Continuous Integration and Delivery
+* [CircleCI](https://circleci.com)
+* [Codecov](https://codecov.io)
+
+Tox and Nox
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
+* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+
+Testing Tools
+* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+
+pytest 
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Built-In Tools
+* [mock](https://docs.python.org/dev/library/unittest.mock.html)
+
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
+
+<!--
+https://en.wikipedia.org/wiki/Code_coverage
+https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
+
+https://codecov.io/#features | Codecov
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+https://github.com/openstack/doc8
+https://github.com/PyCQA/pydocstyle
+
+https://www.youtube.com/watch?v=-BHverY7IwU
+http://www.pyinvoke.org/
+https://github.com/pypa/pip/blob/master/tasks/generate.py
+
+https://www.gnu.org/software/make/
+https://github.com/ruby/rake
+http://www.fabfile.org/
+
+http://mypy-lang.org/
+
+flake8 
+noqa: E501
+https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
+
+Package Tools
+* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
+
+pytz
+https://pypi.org/project/pytz/ | pytz · PyPI
+
+https://hypothesis.readthedocs.io/en/latest/
+https://github.com/cucumber/gherkin-python
+
+https://github.com/PyCQA/mccabe
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Python 2
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+-->
+
+### Django Testing
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+### Python Testing
+
+Python Testing
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+* [doctest](https://docs.python.org/3/library/doctest.html)
 
 <!--
 Shells
@@ -738,91 +906,7 @@ YAML
 
 Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-https://en.wikipedia.org/wiki/Code_coverage
 -->
-
-### Python Testing Tools
-
-Tox and Nox
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
-
-Testing Tools
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
-
-Continuous Integration and Delivery
-* [CircleCI](https://circleci.com)
-* [Codecov](https://codecov.io)
-
-<!--
-https://codecov.io/#features | Codecov
-
-https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode
-
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
-https://github.com/openstack/doc8
-https://github.com/PyCQA/pydocstyle
-
-http://www.pyinvoke.org/
-https://github.com/pypa/pip/blob/master/tasks/generate.py
-https://www.gnu.org/software/make/
-https://github.com/ruby/rake
-http://www.fabfile.org/
-
-http://mypy-lang.org/
-
-flake8 
-noqa: E501
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
-
-Package Tools
-* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
-
-pytz
-https://pypi.org/project/pytz/ | pytz · PyPI
-
-https://hypothesis.readthedocs.io/en/latest/
--->
-
-pytest and Nose (Unit Test Extension)
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
-* [Nose GitHub](https://github.com/nose-devs/nose)
-* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
-* [mock PyPi](https://pypi.python.org/pypi/mock)
-
-<!--
-https://github.com/PyCQA/mccabe
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
--->
-
-### Django Testing
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-### Python Testing
-
-Python Testing
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-* [doctest](https://docs.python.org/3/library/doctest.html)
 
 ### Time Complexity and Optimization- General
 
@@ -990,7 +1074,7 @@ https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-c
 https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
 -->
 
-### Clean architecture in Python and Django
+### Clean Architecture in Python and Django
 
 <!--
 https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
