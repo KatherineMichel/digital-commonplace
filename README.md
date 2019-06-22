@@ -15,7 +15,9 @@ https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on T
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
 
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+https://microservice.guide/ | Open Microservice Guide
+
+https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
 -->
 
 Eisenhower Matrix
@@ -38,6 +40,19 @@ Languages and Frameworks (Other than Python and Django)
 * [React Docs](https://reactjs.org/docs)
 * [Vue Docs](https://vuejs.org/v2/guide)
 * [Golang Docs](https://golang.org/doc)
+
+<!--
+https://es.vuejs.org/ | Vue.js
+https://vuejs.org/ | Vue.js
+https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
+https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
+
+https://reactjs.org/ | React – A JavaScript library for building user interfaces
+
+https://nodejs.org/en/docs/guides/ | Guides | Node.js
+https://nodejs.org/en/docs/ | Docs | Node.js
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+-->
 
 ### High Performance Developers and Blogs
 
@@ -318,20 +333,30 @@ Check This Out
 * [High Performance Django](https://highperformancedjango.com)
 
 <!--
-https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
+Teaching Python with Nicholas Tollervey
 
-Django for Beginners
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1 | https://www.amazon.com/William-S.-Vincent/e/B07B38Y8SG/ref=dp_byline_cont_ebooks_1
-https://www.amazon.com/dp/B079ZZLRRL/?tag=wsvincent-20 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-https://leanpub.com/u/wsvincent | William S. Vincent
+https://twitter.com/wsv3000 | William Vincent (@wsv3000) | Twitter
 https://github.com/wsvincent | wsvincent (William S. Vincent)
+https://leanpub.com/u/wsvincent | William S. Vincent
+
+https://wsvincent.com/best-django-books/ | Best Django Books (2019) - William Vincent
+https://wsvincent.com/best-python-books/ | Best Python Books (2019) - William Vincent
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
+
+https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
 https://wsvincent.com/django-tips-imports/ | Django Tips #2: Imports - William S. Vincent
 https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: makemigrations command - William S. Vincent
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
 
-https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
+https://djangobook.com/build-a-website-with-django-2/ | Build a Website with Django 2 - Python Django Tutorials
 -->
 
 ### High Performance Python
@@ -442,6 +467,10 @@ https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD
 -->
 
 ### CPython
+
+<!--
+https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+-->
 
 Python Language Summits
 * [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
@@ -883,6 +912,17 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
+https://github.com/python/black | python/black: The uncompromising Python code formatter
+
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+
+https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
+https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
+https://coverage.readthedocs.io/en/latest/ | Coverage.py — Coverage.py 5.0a5 documentation
+
+
 https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
 https://github.com/python/black | python/black: The uncompromising Python code formatter
 http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
@@ -1445,9 +1485,6 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
-https://en.wikipedia.org/wiki/C_(programming_language) | The C Programming Language, First Edition Cover (2) - C (programming language) - Wikipedia
-https://en.wikipedia.org/wiki/C_standard_library | C standard library - Wikipedia
-
 https://en.wikipedia.org/wiki/Bytecode | Bytecode - Wikipedia
 https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
 https://en.wikipedia.org/wiki/Common_Gateway_Interface | Common Gateway Interface - Wikipedia
@@ -1579,10 +1616,12 @@ https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implemen
 http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
 
-https://www.sqlalchemy.org/
+Datasette- Glitch
+https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
+https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
 
 Datasette
-https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
 https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
 https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
 https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
@@ -1608,6 +1647,13 @@ https://redis.io/ | Redis
 
 https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
 https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
 
 https://github.com/ovh | OVH
 https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
