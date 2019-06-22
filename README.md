@@ -9,13 +9,13 @@ https://en.wikipedia.org/wiki/Project-based_learning
 
 * Mariatta's talks and workshops
 
-https://github.com/dateutil/dateutil/issues/653
-
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
 https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
 https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
 -->
 
 Eisenhower Matrix
@@ -115,8 +115,9 @@ Google Open Source
 * [Why Open Source?](https://opensource.google.com/docs/why)
 
 <!--
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
 https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
 
@@ -210,23 +211,6 @@ https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
--->
-
-<!--
-Trey Hunner
-https://treyhunner.com
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/treyhunner/status/1130862509362171905
-
-https://realpython.com
-https://www.geeksforgeeks.org/
-https://www.programiz.com
-https://www.programiz.com/c-programming
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
 -->
 
 ### Coding Practice
@@ -346,6 +330,8 @@ https://wsvincent.com/django-tips-imports/ | Django Tips #2: Imports - William 
 https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: makemigrations command - William S. Vincent
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
 https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+
+https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
 -->
 
 ### High Performance Python
@@ -769,8 +755,19 @@ TDD and BDD
 <!--
 https://en.wikipedia.org/wiki/Test_case
 
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
+https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/ | EGAD! How Do We Start Writing (Better) Tests? | Automation Panda
+
+https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Knight on Twitter: "Cool! Thanks. Let me know if you have questions.… "
+
 * [Automation Panda](https://automationpanda.com)
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
 https://martinfowler.com/articles/practical-test-pyramid.html
@@ -836,6 +833,11 @@ Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 <!--
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
+
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
 tox can be used with Flask
 https://github.com/pallets/flask/blob/master/tox.ini
@@ -881,15 +883,30 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
+https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
+https://github.com/python/black | python/black: The uncompromising Python code formatter
+http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
+
 https://en.wikipedia.org/wiki/Code_coverage
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 
 https://codecov.io/#features | Codecov
 
+https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
+https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
+https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
+
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+https://pytest-cov.readthedocs.io/en/latest/ | Welcome to pytest-cov’s documentation! — pytest-cov 2.7.1 documentation
+
 https://docs.pytest.org/en/latest/example/parametrize.html
 https://docs.pytest.org/en/latest/parametrize.html
 https://github.com/openstack/doc8
 https://github.com/PyCQA/pydocstyle
+https://github.com/PyCQA/mccabe
 
 https://www.youtube.com/watch?v=-BHverY7IwU
 http://www.pyinvoke.org/
@@ -904,13 +921,15 @@ https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (
 Package Tools
 * [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
 
-pytz
-https://pypi.org/project/pytz/ | pytz · PyPI
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 
+https://github.com/behave/behave | behave/behave: BDD, Python style.
 https://hypothesis.readthedocs.io/en/latest/
 https://github.com/cucumber/gherkin-python
 
-https://github.com/PyCQA/mccabe
+pytz
+https://pypi.org/project/pytz/ | pytz · PyPI
 
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
 
@@ -1112,6 +1131,23 @@ http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 -->
 
+<!--
+Trey Hunner
+https://treyhunner.com
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://twitter.com/treyhunner/status/1130862509362171905
+
+https://realpython.com
+https://www.geeksforgeeks.org/
+https://www.programiz.com
+https://www.programiz.com/c-programming
+
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+-->
+
 ### Clean Architecture
 
 <!--
@@ -1259,8 +1295,6 @@ http://static.googleusercontent.com/media/research.google.com/en//people/jeff/st
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
-Load Test
-
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
@@ -1350,6 +1384,10 @@ Machine Code and Assembly Language
 * [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
 <!--
+https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
+https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
+
 https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
 -->
 
@@ -1407,6 +1445,15 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
+https://en.wikipedia.org/wiki/C_(programming_language) | The C Programming Language, First Edition Cover (2) - C (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/C_standard_library | C standard library - Wikipedia
+
+https://en.wikipedia.org/wiki/Bytecode | Bytecode - Wikipedia
+https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
+https://en.wikipedia.org/wiki/Common_Gateway_Interface | Common Gateway Interface - Wikipedia
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+
 Apple
 https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
 https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
@@ -1416,13 +1463,10 @@ https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-pyt
 	
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
-https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
 http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
 https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions | Instruction set architecture - Wikipedia
 https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
-https://en.wikipedia.org/wiki/Machine_code | Machine code - Wikipedia
-https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
-https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
 
 https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
 https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
@@ -1516,6 +1560,80 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
+-->
+
+<!--
+See also: Data Science
+https://github.com/keen/cohorts
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
+https://www.sqlalchemy.org/
+
+Datasette
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
+https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
+https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
+https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
+https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
+-->
+
+<!--
+salt, ansible
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
+
+Message and Task Queues
+http://mqtt.org/ | MQTT
+http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+http://python-rq.org/
+https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
+https://www.fullstackpython.com/task-queues.html
+https://redis.io/ | Redis
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+
+https://elixir-lang.org/ | Elixir
+
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://realpython.com/python-data-classes/
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
 -->
 
 ## Django Security
@@ -1842,6 +1960,8 @@ https://medium.com/mozilla-open-innovation | Mozilla Open Innovation – Medium
 https://twitter.com/aschapi/status/987106493618044928 | Amy Schapiro on Twitter: "The state of diversity and inclusion at @mozilla is now available: Mozilla Corporation: https://t.co/XZK5uDv7Pp Mozilla Foundation: https://t.co/81cBZck2rP"
 https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
 Mozilla open leaders programme - Google Search
+https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
+https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
 
 https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
 https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
