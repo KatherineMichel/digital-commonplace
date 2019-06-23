@@ -3,19 +3,13 @@
 ## Priorities
 
 <!--
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
-
-https://en.wikipedia.org/wiki/Project-based_learning
-
 * Mariatta's talks and workshops
 
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+https://microservice.guide/ | Open Microservice Guide
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
 
-https://microservice.guide/ | Open Microservice Guide
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
 
 https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
 -->
@@ -29,6 +23,14 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
+## Project-Based Learning
+
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+<!--
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+-->
+
 ### Languages and Frameworks
 
 Python and Django Docs
@@ -36,21 +38,17 @@ Python and Django Docs
 * [Django Docs](https://docs.djangoproject.com)  
 
 Languages and Frameworks (Other than Python and Django)
-* [Node Docs](https://nodejs.org)
+* [Node Docs](https://nodejs.org/en/docs)
 * [React Docs](https://reactjs.org/docs)
 * [Vue Docs](https://vuejs.org/v2/guide)
 * [Golang Docs](https://golang.org/doc)
 
 <!--
 https://es.vuejs.org/ | Vue.js
-https://vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 
-https://reactjs.org/ | React – A JavaScript library for building user interfaces
-
 https://nodejs.org/en/docs/guides/ | Guides | Node.js
-https://nodejs.org/en/docs/ | Docs | Node.js
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 -->
 
@@ -760,15 +758,6 @@ Python and Django Debugging
 
 ### Software Testing
 
-General
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-
 Software Testing
 * [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 * [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
@@ -783,6 +772,10 @@ TDD and BDD
 
 <!--
 https://en.wikipedia.org/wiki/Test_case
+
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
 
 https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
 https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
@@ -999,7 +992,8 @@ Files
 * [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
 * [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
 
-http://www.fabfile.org/
+salt, ansible
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
 
 EditorConfig (tabs versus spaces, ect) .editorconfig
 * [EditorConfig](http://editorconfig.org)
@@ -1633,9 +1627,6 @@ https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create a
 -->
 
 <!--
-salt, ansible
-http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
-
 Message and Task Queues
 http://mqtt.org/ | MQTT
 http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
@@ -2436,6 +2427,17 @@ https://github.com/trimstray/sysadmin-interview-questions
 
 https://github.com/donnemartin/interactive-coding-challenges
 -->
+
+### Software Testing
+
+General
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
 
 ## Programming Concepts and Tools
 
