@@ -8,8 +8,6 @@
 Effort vs. Impact Matrix
 value effort matrix
 
-https://microservice.guide/ | Open Microservice Guide
-
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
 -->
 
@@ -234,6 +232,84 @@ https://github.com/digitalocean/engineering-code-of-conduct
 https://github.com/Prismatic/eng-practices
 
 https://github.com/opengovfoundation/hr-manual
+-->
+
+<!--
+https://code.gov/#/policy-guide/docs/compliance/measuring-code
+https://github.com/isobar-idev/code-standards
+http://isobar-idev.github.io/code-standards
+
+https://github.com/babel/babel.github.io/issues
+
+https://github.com/DockYard/styleguides
+http://kafka.apache.org/coding-guide.html
+
+http://accessibility.voxmedia.com/
+https://github.com/voxmedia/accessibility
+https://www.w3.org/TR/WCAG/
+https://github.com/ascott1/accessibility-policy
+https://github.com/ascott1/ethical-web-dev
+https://ethicalweb.org/
+
+http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
+http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
+
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+
+http://jtleek.com/modules/01_DataScientistToolbox
+
+http://schacon.github.io/git/user-manual
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+-->
+
+<!--
+## Website Project Management
+See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
+
+https://github.com/red-hat-people-team | Red Hat People team
+
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
+
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+
+https://github.com/blog/2123-more-code-review-tools
+https://github.com/marketplace/category/code-review
+
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/guides
+
+https://github.com/thoughtbot/guides/tree/master/protocol
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+
+https://github.com/hypenotic/hypelabs
+
+https://www.thoughtworks.com/
+https://robots.thoughtbot.com/running-acceptance-with-review-apps
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 -->
 
 ### Engineering Management Resources
@@ -1140,6 +1216,26 @@ Django Testing- Official
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
 <!--
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
 Shells
 * [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
@@ -2283,22 +2379,6 @@ https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approa
 Facebook Open Source
 https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
 https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
-
-https://en.wikipedia.org/wiki/Continuous_integration
-https://en.wikipedia.org/wiki/Continuous_delivery
-
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
 -->
 
 ## Stack and Built With
@@ -2626,6 +2706,8 @@ High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
 <!--
+https://microservice.guide/ | Open Microservice Guide
+
 http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
