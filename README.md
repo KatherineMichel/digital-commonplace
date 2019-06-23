@@ -5,13 +5,12 @@
 <!--
 * Mariatta's talks and workshops
 
+Effort vs. Impact Matrix
+value effort matrix
+
 https://microservice.guide/ | Open Microservice Guide
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
-
-https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
-
-https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
 -->
 
 Eisenhower Matrix
@@ -166,7 +165,75 @@ https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organiz
 -->
 
 <!--
-https://about.gitlab.com/handbook/ | Handbook | GitLab
+## Playbooks
+
+GitLab
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
+
+## Digital Agencies and Code Philosophies
+## Open Companies
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+https://github.com/Paperwell?tab=repositories
+https://github.com/danluu/post-mortems
+
+https://github.com/nmsanchez?tab=repositories
+
+https://afonsopacifer.github.io/open-source-checklist/
+https://github.com/18F/bpa-identity-management
+https://github.com/bocoup/opendesignkit
+
+https://github.com/zincmade/employee-handbook
+https://github.com/rosarior/Code-of-Merit
+https://github.com/FormidableLabs/formidable-playbook
+https://github.com/goinvo/InvoPlaybook
+https://github.com/18F/partnership-playbook
+https://github.com/sprintly/sprint.ly-culture
+https://github.com/bonusly/un-handbook
+https://corner.squareup.com/2016/02/womeng-handbook-launch.html
+https://github.com/digitalocean/engineering-code-of-conduct
+
+https://github.com/Prismatic/eng-practices
+
+https://github.com/opengovfoundation/hr-manual
 -->
 
 ### Engineering Management Resources
@@ -555,6 +622,100 @@ https://martinfowler.com/tags/domain%20driven%20design.html | domain driven desi
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
 -->
 
+## Cost
+
+* [List of Failed and Overbudget Custom Software Projects Wikipedia](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
+
+<!--
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+
+https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
+
+https://en.wikipedia.org/wiki/Continuous_integration#References | Continuous integration - Wikipedia
+
+https://en.wikipedia.org/wiki/COCOMO
+https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering
+https://www.youtube.com/watch?v=meB_SWzZm8M | (1) Trunk-Based Development economics (Paul Hammant) - YouTube
+https://en.wikipedia.org/wiki/Barry_Boehm
+https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227 | Software Engineering Economics: Barry W. Boehm: 0076092033097: Amazon.com: Books
+
+https://scottwambler.wordpress.com/courses/amdd/
+http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
+http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
+Cost of Software Change
+-->
+
+## Software Engineering
+
+Software Project Management
+* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+
+## Requirements and Planning
+
+Requirements
+* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
+* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
+* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
+* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
+* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
+* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
+* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
+* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+
+<!--
+Requirements baseline
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+-->
+
+Technical
+* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
+* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
+* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+* Objective, Assumption, Constraint
+
+## Software Life Cycle and Release Management
+
+Software Development Philosophies and Process
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+
+Life Cycles
+* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
+* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Release Management
+* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
+* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
+* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
+* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+
+Software Versioning and Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+* [CalVer](https://calver.org)
+* [ZeroVer](https://0ver.org)
+
+<!--
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release/semantic-release
+-->
+
 ### Programming Paradigms
 
 Programming Paradigms
@@ -767,10 +928,14 @@ Common for Python
 * [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
 * [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
 
+Other
+* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
+* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
+* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
+
 TDD and BDD
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
-<!--
 https://en.wikipedia.org/wiki/Test_case
 
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
@@ -803,10 +968,6 @@ https://twitter.com/AutomationPanda/status/1023346925771345920
 https://twitter.com/AutomationPanda/status/1061393338165837825
 
 https://en.wikipedia.org/wiki/Return_on_investment
-
-https://en.wikipedia.org/wiki/Load_testing
-https://en.wikipedia.org/wiki/Smoke_testing_(software) | Smoke testing (software) - Wikipedia
-https://en.wikipedia.org/wiki/Mutation_testing
 
 https://www.tutorialspoint.com/software_testing_dictionary
 https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
