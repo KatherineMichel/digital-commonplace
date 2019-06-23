@@ -119,12 +119,57 @@ GitHub- Notable Features
 GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
 
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
 Heroku- App Architecture
 * [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
 * [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
 
 Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
+<!--
+https://developer.atlassian.com
+
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/devops | What is DevOps? | Atlassian
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://about.gitlab.com/
+
+GitLab Docs- Overview
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+
+GitLab General
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://docs.gitlab.com/ee/install/README.html
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+-->
 
 <!--
 ## DevOps
