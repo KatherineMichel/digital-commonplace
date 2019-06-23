@@ -91,7 +91,12 @@ https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart an
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 -->
 
-### GitLab and GitHub
+### Hosting, GitLab, and GitHub
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
 
 * [GitLab Docs](http://docs.gitlab.com)
 * [GitLab Features](https://about.gitlab.com/features)
@@ -113,6 +118,40 @@ GitHub- Notable Features
 
 GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+<!--
+## DevOps
+
+DevOps, Ops School and DevOps Bootcamp
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+https://devops.com
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
 
 ### Open Source Guides
 
