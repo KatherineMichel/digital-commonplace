@@ -35,16 +35,33 @@ Python and Django Docs
 * [Django Docs](https://docs.djangoproject.com)  
 
 Languages and Frameworks (Other than Python and Django)
-* [Node Docs](https://nodejs.org/en/docs)
-* [React Docs](https://reactjs.org/docs)
-* [Vue Docs](https://vuejs.org/v2/guide)
 * [Golang Docs](https://golang.org/doc)
+
+React and Vue
+* [React Docs](https://reactjs.org/docs)
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+
+Facebook- React Native
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+React Profiler
+* [React Performance Tools](https://reactjs.org/docs/perf.html)
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), and [Node Guides](https://nodejs.org/en/docs/guides)
+
+Express
+* [Express](https://expressjs.com)
 
 <!--
 https://es.vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+
+https://github.com/nodejs/node
 https://nodejs.org/en/docs/guides/ | Guides | Node.js
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 -->
@@ -422,6 +439,8 @@ Python Articles
 * [Mybridge Python](https://medium.mybridge.co/tagged/python)
 
 <!--
+https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
+
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
 
@@ -434,6 +453,21 @@ JavaScript Articles
 JavaScript Syntax
 * [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+
+JavaScript Styleguides
+* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
+
+<!--
+https://google.github.io/styleguide/javascriptguide.xml
+-->
 
 One Pic
 * [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
