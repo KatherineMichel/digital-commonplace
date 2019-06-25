@@ -172,13 +172,6 @@ https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ |
 
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
 
-https://github.com/blog/2123-more-code-review-tools
-https://github.com/marketplace/category/code-review
-
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
 https://about.gitlab.com/
 
 GitLab Docs- Overview
@@ -205,6 +198,49 @@ https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Ev
 
 https://www.atlassian.com/devops | What is DevOps? | Atlassian
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+-->
+
+## Philosophies
+
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Principles of Chaos Engineering](http://principlesofchaos.org)
+
+Site Reliability Engineering
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+<!--
+https://microservice.guide/ | Open Microservice Guide
+
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+http://highscalability.com/ | High Scalability -
+
+https://github.com/dastergon/awesome-sre
+
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+
+https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
+http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
 <!--
@@ -2471,6 +2507,11 @@ https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-e
 * [Github Development (Example Website)](https://github.com/github/developer.github.com) 
 
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://github.com/blog/2123-more-code-review-tools
+https://github.com/marketplace/category/code-review
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
 https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
@@ -2814,49 +2855,6 @@ Concepts
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-## Philosophies
-
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Principles of Chaos Engineering](http://principlesofchaos.org)
-
-Site Reliability Engineering
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-<!--
-https://microservice.guide/ | Open Microservice Guide
-
-http://stevesouders.com/hpws
-https://www.enterpriseready.io
-https://github.com/enterpriseready/enterpriseready
-http://highscalability.com/ | High Scalability -
-
-https://github.com/dastergon/awesome-sre
-
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
--->
-
-<!--
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
-
-https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
-http://users.ece.utexas.edu/~adnan/pike.html
--->
 
 ## Architectures
 
