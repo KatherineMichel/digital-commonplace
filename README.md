@@ -159,15 +159,25 @@ Atlassian Agile
 * [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
 <!--
-https://developer.atlassian.com
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
-https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
 
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
 
-https://www.atlassian.com/devops | What is DevOps? | Atlassian
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+
+https://github.com/blog/2123-more-code-review-tools
+https://github.com/marketplace/category/code-review
+
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
 https://about.gitlab.com/
 
@@ -185,6 +195,16 @@ https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
 
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
+https://developer.atlassian.com
+
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/devops | What is DevOps? | Atlassian
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 -->
 
 <!--
@@ -368,28 +388,6 @@ https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
 See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
 
 https://github.com/red-hat-people-team | Red Hat People team
-
-
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
-
-https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
-https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
-
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-
-https://github.com/blog/2123-more-code-review-tools
-https://github.com/marketplace/category/code-review
-
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
 
 https://thoughtbot.com/playbook
 https://github.com/thoughtbot/guides
