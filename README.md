@@ -49,7 +49,10 @@ React Profiler
 * [React Performance Tools](https://reactjs.org/docs/perf.html)
 
 Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), and [Node Guides](https://nodejs.org/en/docs/guides)
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+V8 (JavaScript Engine)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
 
 Express
 * [Express](https://expressjs.com)
@@ -59,10 +62,6 @@ https://es.vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-
-https://github.com/nodejs/node
-https://nodejs.org/en/docs/guides/ | Guides | Node.js
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 -->
 
@@ -370,6 +369,7 @@ See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
 
 https://github.com/red-hat-people-team | Red Hat People team
 
+
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
@@ -389,6 +389,7 @@ https://github.com/marketplace/category/code-review
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
 https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
 
 https://thoughtbot.com/playbook
 https://github.com/thoughtbot/guides
@@ -427,6 +428,8 @@ JavaScript Scene
 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
 
+### Python
+
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
 * [GitHub Topic: Python](https://github.com/topics/python)
@@ -439,9 +442,13 @@ Python Articles
 * [Mybridge Python](https://medium.mybridge.co/tagged/python)
 
 <!--
-https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
-
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
+-->
+
+### JavaScript
+
+<!--
+https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
 -->
 
 JavaScript Articles
@@ -469,6 +476,8 @@ JavaScript Styleguides
 https://google.github.io/styleguide/javascriptguide.xml
 -->
 
+## Python Versus JavaScript
+
 One Pic
 * [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
 * [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
@@ -476,16 +485,6 @@ One Pic
 Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-<!--
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
-https://guide.freecodecamp.org/ | freeCodeCamp Guide
-https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
--->
 
 ### Coding Practice
 
@@ -496,6 +495,16 @@ Practice
 * [HackerRank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com)
 * [100 Days of Code](http://www.100daysofcode.com)
+
+<!--
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://t.co/rzvAPV1wXl | https://glitch.com/@python
+https://guide.freecodecamp.org/ | freeCodeCamp Guide
+https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
+
+DataCamp
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+-->
 
 ### Python- Coding Practice
 
