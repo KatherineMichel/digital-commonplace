@@ -52,15 +52,13 @@ Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
 V8 (JavaScript Engine)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [V8 Dev](https://v8.dev) and [V8 Dev GitHub](https://github.com/v8/v8.dev)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) and [V8 GitHub](https://github.com/v8/v8)
 
 Express
 * [Express](https://expressjs.com)
 
 <!--
-https://v8.dev/
-https://github.com/v8/v8.dev
-
 https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
 https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
 https://cli.vuejs.org/
