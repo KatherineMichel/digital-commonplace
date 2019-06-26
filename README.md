@@ -73,9 +73,6 @@ https://vuex.vuejs.org/
 https://es.vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
-
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 -->
 
 ### High Performance Developers and Blogs
@@ -1806,19 +1803,6 @@ https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simula
 https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
-
-https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Webhook
-
-https://en.wikipedia.org/wiki/WebSocket
-https://en.wikipedia.org/wiki/Network_socket
 -->
 
 ### Important Concepts
@@ -1974,15 +1958,17 @@ CPU versus IO
 https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
 https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
 
-https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
 https://en.wikipedia.org/wiki/Thread_(computing)
 https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
+https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
 https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
+https://en.wikipedia.org/wiki/Multiprocessing
 
 https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Async/await
-https://en.wikipedia.org/wiki/Futures_and_promises
+https://en.wikipedia.org/wiki/Subroutine
 https://en.wikipedia.org/wiki/Coroutine
+https://en.wikipedia.org/wiki/Futures_and_promises
 https://en.wikipedia.org/wiki/Asynchronous_I/O
 https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
 https://en.wikipedia.org/wiki/Asynchronous_system
@@ -1992,9 +1978,45 @@ https://en.wikipedia.org/wiki/Concurrency_(computer_science)
 https://en.wikipedia.org/wiki/Concurrent_computing
 https://en.wikipedia.org/wiki/Parallel_computing
 
+https://en.wikipedia.org/wiki/HTTP_persistent_connection
+
+https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://en.wikipedia.org/wiki/Webhook
+
+https://en.wikipedia.org/wiki/WebSocket
+https://en.wikipedia.org/wiki/Network_socket
+
 https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
-https://en.wikipedia.org/wiki/Multiprocessing
 https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
+-->
+
+<!--
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+http://libuv.org/
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
 -->
 
 CAP Theorem
@@ -2017,7 +2039,7 @@ Distributed and Parallel Computing
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
-
+<!--
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
 http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
 
@@ -2050,6 +2072,18 @@ https://en.wikipedia.org/wiki/Scheduling_(computing)
 -->
 
 <!--
+Message and Task Queues
+http://mqtt.org/ | MQTT
+http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+http://python-rq.org/
+https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
+https://www.fullstackpython.com/task-queues.html
+https://redis.io/ | Redis
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
 See also: Data Science
 https://github.com/keen/cohorts
 
@@ -2066,35 +2100,6 @@ https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implemen
 http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
 
-Datasette- Glitch
-https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
-https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
-https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
-
-Datasette
-https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
-https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-http://datasette.readthedocs.io
-https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
-http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
-https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
-https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
--->
-
-<!--
-Message and Task Queues
-http://mqtt.org/ | MQTT
-http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-http://python-rq.org/
-https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
-https://www.fullstackpython.com/task-queues.html
-https://redis.io/ | Redis
-
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
 KLEE LLVM Execution Engine
 https://klee.github.io/ | KLEE	
 
@@ -2109,24 +2114,20 @@ https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem
 
 https://elixir-lang.org/ | Elixir
 
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+Datasette- Glitch
+https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
+https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
 
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-https://realpython.com/python-data-classes/
-
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
-Node.js
-Event-driven, asynchronous IO
-
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
+Datasette
+https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
+https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
+https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
+https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 ## Django Security
