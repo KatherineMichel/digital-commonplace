@@ -1192,6 +1192,78 @@ https://docs.djangoproject.com/en/2.2/internals/release-process/
 https://docs.djangoproject.com/en/2.2/internals/deprecation/
 -->
 
+## Structuring Your Python Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+## Common Django Features
+
+Django Views
+* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
+
+Django ORM
+* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
+
+<!--
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
+
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+https://docs.djangoproject.com/en/2.2/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+
+https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
+
+https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
+-->
+
+## Django Performance, Optimization, Deployment, Architecture
+
+Django Architecture and Scaling
+* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
+* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
+* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
+
+<!--
+https://djangobook.com/deploying-django/
+-->
+
+## Django Classy
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+## Django Twelve Factor
+
+<!--
+https://12factor.net/config | The Twelve-Factor App
+
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
+-->
+
+## Additional Django Things
+
+<!--
+Lincoln Loop Stack
+High Performance Django Stack
+
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
+-->
+
 ### Django Debugging
 
 ### Python Debugging
@@ -1803,6 +1875,15 @@ https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simula
 https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI HTTP Server for UNIX
+http://gunicorn.org
+
+https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
+https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
 -->
 
 ### Important Concepts
