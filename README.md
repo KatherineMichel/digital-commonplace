@@ -58,10 +58,23 @@ Express
 * [Express](https://expressjs.com)
 
 <!--
+https://v8.dev/
+https://github.com/v8/v8.dev
+
+https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
+https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
+https://cli.vuejs.org/
+https://vuejs.org/v2/guide/instance.html
+https://vuejs.org/v2/examples/
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+
+https://vuex.vuejs.org/
+
 https://es.vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 -->
 
@@ -540,6 +553,23 @@ DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 -->
 
+<!--
+Trey Hunner
+https://treyhunner.com
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://twitter.com/treyhunner/status/1130862509362171905
+
+https://realpython.com
+https://www.geeksforgeeks.org/
+https://www.programiz.com
+https://www.programiz.com/c-programming
+
+Tutorial
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+-->
+
 ### Python- Coding Practice
 
 Python Challenges
@@ -953,6 +983,13 @@ https://semantic-release.gitbook.io/semantic-release/
 https://github.com/semantic-release/semantic-release
 -->
 
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
 ### Programming Paradigms
 
 Programming Paradigms
@@ -1098,6 +1135,8 @@ Code Formatting
 * [Google YAPF](https://github.com/google/yapf)
 
 <!--
+https://github.com/bots-for-humanity/black-out
+
 https://docs.python-guide.org/#writing-great-python-code
 -->
 
@@ -1139,6 +1178,22 @@ Django Performance and Optimization
 
 Django Deployment
 * [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
+### New Releases
+
+<!--
+https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
+https://www.djangoproject.com/download/#supported-versions
+https://docs.djangoproject.com/en/2.2/releases/
+https://docs.djangoproject.com/en/2.2/releases/2.2/
+https://docs.djangoproject.com/en/2.2/releases/2.1/
+https://docs.djangoproject.com/en/2.2/releases/2.0/
+https://docs.djangoproject.com/en/2.2/releases/1.11/
+
+https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
+https://docs.djangoproject.com/en/2.2/internals/release-process/
+https://docs.djangoproject.com/en/2.2/internals/deprecation/
+-->
 
 ### Django Debugging
 
@@ -1239,6 +1294,58 @@ DjangoCon Keynote by Ana
 http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
 -->
 
+<!--
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+-->
+
+### Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+salt, ansible
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
+-->
+
 ### Django Testing Tools
 
 Django
@@ -1253,6 +1360,8 @@ Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 <!--
+https://docs.djangoproject.com/en/2.2/topics/testing/overview/
+
 https://docs.djangoproject.com/en/dev/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
 https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
 
@@ -1303,29 +1412,30 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
-https://github.com/python/black | python/black: The uncompromising Python code formatter
-
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
-
-https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
-https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
-https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
-https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
-https://coverage.readthedocs.io/en/latest/ | Coverage.py — Coverage.py 5.0a5 documentation
-
-
-https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
-https://github.com/python/black | python/black: The uncompromising Python code formatter
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
-
 https://en.wikipedia.org/wiki/Code_coverage
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 
-https://codecov.io/#features | Codecov
+https://github.com/python/black | python/black: The uncompromising Python code formatter
+
+Eldarion
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 
 https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
 https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
 https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
+https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
+
+https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
+https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+
+https://coverage.readthedocs.io/en/latest/ | Coverage.py — Coverage.py 5.0a5 documentation
+https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
+
+http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
+
+https://docs.codecov.io/docs/python
+https://codecov.io/#features | Codecov
 
 https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
 
@@ -1375,61 +1485,6 @@ Django Testing- Official
 * [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
 * [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-<!--
-Continuousness
-* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
-
-Continuous Integration Software
-* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
-
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Files
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-salt, ansible
-http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
--->
 
 ### Time Complexity and Optimization- General
 
@@ -1581,23 +1636,6 @@ http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark
 
 <!--
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
--->
-
-<!--
-Trey Hunner
-https://treyhunner.com
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/treyhunner/status/1130862509362171905
-
-https://realpython.com
-https://www.geeksforgeeks.org/
-https://www.programiz.com
-https://www.programiz.com/c-programming
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
 -->
 
 ### Clean Architecture
