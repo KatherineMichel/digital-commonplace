@@ -3,12 +3,16 @@
 ## Priorities
 
 <!--
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
 * Mariatta's talks and workshops
 
 Effort vs. Impact Matrix
 value effort matrix
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
 -->
 
 Eisenhower Matrix
@@ -26,6 +30,19 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 
 <!--
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+
+https://frontendmasters.com
+https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
+https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
+
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
+
+Nina
+https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
+https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
+http://takingnot.es/
 -->
 
 ### Languages and Frameworks
@@ -2273,11 +2290,6 @@ https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified doma
 
 https://en.wikipedia.org/wiki/Threat_model
 -->
-
-
-
-
-
 
 ## Trends
 
