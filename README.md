@@ -2151,6 +2151,9 @@ https://en.wikipedia.org/wiki/Scheduling_(computing)
 -->
 
 <!--
+https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
+https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
+
 Message and Task Queues
 http://mqtt.org/ | MQTT
 http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
@@ -4056,6 +4059,8 @@ https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization
 ## Productivity
 
 <!--
+https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
+
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
 
 https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
