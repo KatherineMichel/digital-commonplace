@@ -1,57 +1,12 @@
 # The List 2019
 
 <!--
-https://tailwindcss.com/docs/what-is-tailwind/ | Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development
-https://github.com/garygreen/tsg | garygreen/tsg: Tailwind Style Guide - Generate your own personalized style guide for your tailwind configs.
-
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
-https://glitch.com
-https://handbook.glitch.me/ | Glitch Employee Handbook
-https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
-https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
-course
-
-Hawt
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Repl.it](https://repl.it)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-
-https://repl.it/site/blog/packager
-
-Netlify
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-
-[Micro](https://github.com/zeit/micro)
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
-
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-https://zeit.co/blog/github
-* [now](https://zeit.co/now)
-* [Next.js](https://github.com/zeit/next.js)      
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-
 https://letsencrypt.status.io
 https://www.terraform.io/docs/modules/usage.html | Using Modules - Terraform by HashiCorp
 
 https://www.splunk.com/ | SIEM, AIOps, Application Management, Log Management, Machine Learning, and Compliance | Splunk
 https://docs.emmet.io/ | Emmet Documentation
 
-https://blog.airtable.com/ | For The Record
-https://airtable.com/blocks
-https://airtable.com
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
-
-https://github.com/zapier | Zapier
--->
-
-## Priorities
-
-<!--
 https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
@@ -59,7 +14,11 @@ https://treyhunner.com/2019/05/python-builtins-worth-learning/
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
 * Mariatta's talks and workshops
+-->
 
+## Priorities
+
+<!--
 Effort vs. Impact Matrix
 value effort matrix
 -->
@@ -92,6 +51,51 @@ https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on
 https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
 https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
 http://takingnot.es/
+-->
+
+### Useful Tools
+
+Makers
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
+
+Hawt
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Repl.it](https://repl.it)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+
+<!--
+https://tailwindcss.com/docs/what-is-tailwind/ | Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development
+https://github.com/garygreen/tsg | garygreen/tsg: Tailwind Style Guide - Generate your own personalized style guide for your tailwind configs.
+
+https://glitch.com
+https://handbook.glitch.me/ | Glitch Employee Handbook
+https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
+course
+
+https://repl.it/site/blog/packager
+
+Netlify
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+
+[Micro](https://github.com/zeit/micro)
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+https://zeit.co/blog/github
+* [now](https://zeit.co/now)
+* [Next.js](https://github.com/zeit/next.js)      
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+
+https://blog.airtable.com/ | For The Record
+https://airtable.com/blocks
+https://airtable.com
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+
+https://github.com/zapier | Zapier
 -->
 
 ### Languages and Frameworks
