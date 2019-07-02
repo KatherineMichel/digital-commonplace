@@ -2221,6 +2221,11 @@ https://en.wikipedia.org/wiki/Scheduling_(computing)
 -->
 
 <!--
+https://urllib3.readthedocs.io/en/latest/
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
 https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
