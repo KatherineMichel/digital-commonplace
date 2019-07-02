@@ -629,6 +629,10 @@ https://www.geeksforgeeks.org/
 https://www.programiz.com
 https://www.programiz.com/c-programming
 
+https://www.w3schools.com/python
+https://www.programiz.com/python-programming
+https://www.tutorialspoint.com/python
+
 Tutorial
 * [Code Tuts+](https://code.tutsplus.com)
 * [Site Point](https://www.sitepoint.com)
