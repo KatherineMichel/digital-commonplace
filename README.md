@@ -730,6 +730,8 @@ Check This Out
 * [High Performance Django](https://highperformancedjango.com)
 
 <!--
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+
 Teaching Python with Nicholas Tollervey
 
 https://twitter.com/wsv3000 | William Vincent (@wsv3000) | Twitter
@@ -2241,6 +2243,8 @@ https://redis.io/ | Redis
 
 https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
 https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 
 See also: Data Science
 https://github.com/keen/cohorts
