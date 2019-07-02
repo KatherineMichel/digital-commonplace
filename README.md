@@ -751,6 +751,7 @@ https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for D
 https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
 https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
 https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
