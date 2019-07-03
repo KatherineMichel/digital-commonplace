@@ -2228,6 +2228,7 @@ https://en.wikipedia.org/wiki/Scheduling_(computing)
 -->
 
 <!--
+https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
 https://urllib3.readthedocs.io/en/latest/
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
 https://httpie.org/ | HTTPie – command line HTTP client
