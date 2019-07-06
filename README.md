@@ -2089,6 +2089,7 @@ CPU versus IO
 
 <!--
 https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
+https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia
 https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
 
 https://en.wikipedia.org/wiki/Execution_(computing)		
