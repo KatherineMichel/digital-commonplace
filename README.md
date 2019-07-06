@@ -1119,10 +1119,6 @@ https://en.wikipedia.org/wiki/Memoization
 Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
 * [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
 
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
-
 ### Editors
 
 Visual Studio Code
@@ -1188,7 +1184,7 @@ https://github.com/bots-for-humanity/black-out
 https://docs.python-guide.org/#writing-great-python-code
 -->
 
-### Python and Django Oficial Style Guides
+### Python and Django Official Style Guides
 
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
@@ -1532,6 +1528,8 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
+https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+
 https://en.wikipedia.org/wiki/Code_coverage
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
 
@@ -1970,6 +1968,10 @@ Computer Architecture
 * [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 * [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
 
+<!--
+https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
+-->
+
 CPU and Instruction Set
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
@@ -1991,6 +1993,7 @@ Machine Code and Assembly Language
 
 <!--
 https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture | Computer architecture - Wikipedia
 https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
 https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
 
@@ -2051,8 +2054,6 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
-https://en.wikipedia.org/wiki/Bytecode | Bytecode - Wikipedia
-https://en.wikipedia.org/wiki/Object_code | Object code - Wikipedia
 https://en.wikipedia.org/wiki/Common_Gateway_Interface | Common Gateway Interface - Wikipedia
 https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
 https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
@@ -2090,9 +2091,12 @@ CPU versus IO
 https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
 https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
 
+https://en.wikipedia.org/wiki/Execution_(computing)		
+https://simple.wikipedia.org/wiki/Thread_(computer_science) | Thread (computer science) - Simple English Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Thread_(computing)
 https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
 https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
+
 https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
 https://en.wikipedia.org/wiki/Multiprocessing
 
@@ -2206,6 +2210,7 @@ https://en.wikipedia.org/wiki/Scheduling_(computing)
 <!--
 https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
 https://urllib3.readthedocs.io/en/latest/
+https://python-requests.org/
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
 https://httpie.org/ | HTTPie – command line HTTP client
 https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
