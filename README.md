@@ -1,6 +1,18 @@
 # The List 2019
 
 <!--
+salt, ansible
+http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
+
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI HTTP Server for UNIX
+http://gunicorn.org
+
+https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
+https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
+
 https://letsencrypt.status.io
 https://www.terraform.io/docs/modules/usage.html | Using Modules - Terraform by HashiCorp
 
@@ -314,14 +326,9 @@ https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
-https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
 http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
-<!--
 ## DevOps
 
 DevOps, Ops School and DevOps Bootcamp
@@ -331,6 +338,7 @@ DevOps, Ops School and DevOps Bootcamp
 * [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
 * [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
 
+<!--
 https://devops.com
 
 * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
@@ -1195,25 +1203,6 @@ https://github.com/amontalenti/elements-of-python-style
 https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
 -->
 
-### Python Notation
-
-<!--	
-https://twitter.com/aaronchall/status/1114713624453554176
-
-4.8. Intermezzo: Coding Style	
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style	
-10. Full Grammar specification	
-https://docs.python.org/3/reference/grammar.html	
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification	
-1.2. Notation	
-https://docs.python.org/3/reference/introduction.html#notation	
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
-
 ### Django Performance, Optimization, Deployment, Architecture
 
 Django Performance and Optimization
@@ -1222,22 +1211,6 @@ Django Performance and Optimization
 
 Django Deployment
 * [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
-
-### New Releases
-
-<!--
-https://docs.djangoproject.com/en/2.2/internals/release-process/#supported-versions-policy
-https://www.djangoproject.com/download/#supported-versions
-https://docs.djangoproject.com/en/2.2/releases/
-https://docs.djangoproject.com/en/2.2/releases/2.2/
-https://docs.djangoproject.com/en/2.2/releases/2.1/
-https://docs.djangoproject.com/en/2.2/releases/2.0/
-https://docs.djangoproject.com/en/2.2/releases/1.11/
-
-https://docs.djangoproject.com/en/2.2/howto/upgrade-version/
-https://docs.djangoproject.com/en/2.2/internals/release-process/
-https://docs.djangoproject.com/en/2.2/internals/deprecation/
--->
 
 ## Structuring Your Python Project
 
@@ -1457,11 +1430,6 @@ YAML
 Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
-<!--
-salt, ansible
-http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
--->
-
 ### Django Testing Tools
 
 Django
@@ -1528,12 +1496,11 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
+https://github.com/python/black | python/black: The uncompromising Python code formatter
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
 
 https://en.wikipedia.org/wiki/Code_coverage
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-
-https://github.com/python/black | python/black: The uncompromising Python code formatter
 
 Eldarion
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
@@ -1924,15 +1891,6 @@ https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simula
 https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
-
-WSGI HTTP Server for UNIX
-http://gunicorn.org
-
-https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
-https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
 -->
 
 ### Important Concepts
@@ -1992,10 +1950,12 @@ Machine Code and Assembly Language
 * [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
 <!--
+http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
+https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
 https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
+https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions | Instruction set architecture - Wikipedia
 https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture | Computer architecture - Wikipedia
-https://en.wikipedia.org/wiki/Opcode | Opcode - Wikipedia
-https://en.wikipedia.org/wiki/Opcode_table | Opcode table - Wikipedia
+https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
 
 https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
 -->
@@ -2028,6 +1988,10 @@ Unix File System
 * [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
+https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
 https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
 https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
 -->
@@ -2067,11 +2031,6 @@ https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-pyt
 	
 https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
 
-http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
-https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
-https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions | Instruction set architecture - Wikipedia
-https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
-
 https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
 https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
 https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
@@ -2092,6 +2051,7 @@ https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
 https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia
 https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
 
+https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
 https://en.wikipedia.org/wiki/Execution_(computing)		
 https://simple.wikipedia.org/wiki/Thread_(computer_science) | Thread (computer science) - Simple English Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Thread_(computing)
@@ -2117,16 +2077,12 @@ https://en.wikipedia.org/wiki/Parallel_computing
 
 https://en.wikipedia.org/wiki/HTTP_persistent_connection
 
-https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
 https://en.wikipedia.org/wiki/Scheduling_(computing)
 
 https://en.wikipedia.org/wiki/Webhook
 
 https://en.wikipedia.org/wiki/WebSocket
 https://en.wikipedia.org/wiki/Network_socket
-
-https://en.wikipedia.org/wiki/Race_condition#Software | Race condition - Wikipedia
-https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 -->
 
 <!--
