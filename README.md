@@ -1,27 +1,7 @@
 # The List 2019
 
 <!--
-salt, ansible
-http://www.fabfile.org/ | Welcome to Fabric! — Fabric documentation
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
-
-WSGI HTTP Server for UNIX
-http://gunicorn.org
-
-https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html | Setting up Django and your web server with uWSGI and nginx — uWSGI 2.0 documentation
-https://wsgi.readthedocs.io/en/latest/ | WSGI — WSGI.org
-
-https://letsencrypt.status.io
-https://www.terraform.io/docs/modules/usage.html | Using Modules - Terraform by HashiCorp
-
-https://www.splunk.com/ | SIEM, AIOps, Application Management, Log Management, Machine Learning, and Compliance | Splunk
-https://docs.emmet.io/ | Emmet Documentation
-
 https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
@@ -186,8 +166,6 @@ Checklists
 https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
 
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-Software development tools
 
 https://m.signalvnoise.com
 
@@ -629,8 +607,6 @@ DataCamp
 <!--
 Trey Hunner
 https://treyhunner.com
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/treyhunner/status/1130862509362171905
 
 https://realpython.com
 https://www.geeksforgeeks.org/
@@ -668,6 +644,10 @@ Abstract Data Type and Data Structures
 * [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
 * [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
 
+Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
@@ -685,14 +665,6 @@ https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
 https://en.wikipedia.org/wiki/Category:Algorithms
 https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 https://en.wikipedia.org/wiki/List_of_algorithms
--->
-
-<!--
-## Data Types and Data Structures
- 
-Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
-* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
-* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
 -->
 
 ### Django Learning Resources
@@ -1496,14 +1468,12 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
-https://github.com/python/black | python/black: The uncompromising Python code formatter
+Eldarion
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
 
 https://en.wikipedia.org/wiki/Code_coverage
 https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-
-Eldarion
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 
 https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
 https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
@@ -2018,7 +1988,6 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
-https://en.wikipedia.org/wiki/Common_Gateway_Interface | Common Gateway Interface - Wikipedia
 https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
 https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
 
@@ -2029,8 +1998,6 @@ https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating syst
 
 https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
 	
-https://github.com/RobertoPrevato/BlackSheep | RobertoPrevato/BlackSheep: HTTP Server/Client microframework for Python asyncio, using Cython, uvloop, and httptools.
-
 https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
 https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
 https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
