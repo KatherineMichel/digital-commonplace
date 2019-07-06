@@ -4,6 +4,12 @@
 https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 -->
 
 <!--
@@ -78,6 +84,42 @@ https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/sa
 https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
+<!--
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+
+https://en.wikipedia.org/wiki/HTTP_persistent_connection
+
+https://en.wikipedia.org/wiki/Webhook
+
+https://en.wikipedia.org/wiki/WebSocket
+https://en.wikipedia.org/wiki/Network_socket
+
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+http://libuv.org/
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+-->
+
 ## Priorities
 
 <!--
@@ -87,12 +129,6 @@ value effort matrix
 
 Eisenhower Matrix
 * [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 ## Project-Based Learning
 
@@ -108,6 +144,23 @@ App Ideas
 <!--
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
+https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
+
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
+https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+-->
+
+<!--
 https://frontendmasters.com
 https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
 https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
@@ -120,25 +173,6 @@ https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on
 https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
 https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
 http://takingnot.es/
--->
-
-<!--
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
-https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
-
-https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
-
-https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
-https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
 ## Competitive Programming
@@ -184,23 +218,23 @@ Netlify
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 
-[Micro](https://github.com/zeit/micro)
 https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
 
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 https://zeit.co/blog/github
-* [now](https://zeit.co/now)
-* [Next.js](https://github.com/zeit/next.js)      
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 
-https://blog.airtable.com/ | For The Record
+* [Zeit now](https://zeit.co/now)
+* [Zeit next.js](https://github.com/zeit/next.js) 
+* [Zeit micro](https://github.com/zeit/micro)
+
+* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
+* [Zapier GitHub](https://github.com/zapier)
+
 https://airtable.com/blocks
-https://airtable.com
 https://airtable.com/templates | Templates - Airtable
 https://guide.airtable.com/
-
-https://github.com/zapier | Zapier
 -->
 
 ## Languages and Frameworks
@@ -457,6 +491,20 @@ Google Open Source
 * [Google Open Source Docs](https://opensource.google.com/docs)
 * [Why Open Source?](https://opensource.google.com/docs/why)
 
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+
+Mozilla Metrics
+* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
+* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
+* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
+* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
+
+Maturity Models
+* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
+
 <!--
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
@@ -468,24 +516,7 @@ https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
 https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
 
-https://todogroup.org/guides
-https://todogroup.org/ | // TODO: Talk openly, develop openly
-https://github.com/todogroup
-
-Capability Maturity Model Integrated (CMMI®) 
-https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
-https://community.apache.org/apache-way/apache-project-maturity-model.html
-
-Mozilla Metrics
-https://github.com/chaoss/metrics
-https://github.com/chaoss | CHAOSS
-https://wiki.linuxfoundation.org/chaoss/metrics
-https://chaoss.community/ | Home - CHAOSS
-https://github.com/chaoss/wg-diversity-inclusion
-https://medium.com/@sunnydeveloper/
-https://github.com/emmairwin | emmairwin (Emma)
-https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/ | If You Can't Measure It, You Can't Improve It: CHAOSS Project Creates Tools to Analyze Software Development and Measure Open Source Community Health - The Linux Foundation
-http://tiptoes.ca/ | Emma Irwin – Learning in the open
+https://wiki.linuxfoundation.org/chaoss/
 
 https://martinfowler.com/bliki/MaturityModel.html
 
@@ -852,8 +883,6 @@ https://twitter.com/carltongibson/status/1072951282502172678 | Carlton Gibson on
 https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_continue=10&v=0Bk0dw2Ktbg | Python on Azure: Part 1—Building Django apps with Visual Studio Code | Azure Friday - YouTube
 https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
 -->
-
-
 
 ## Python and Django- General
 
@@ -1268,12 +1297,12 @@ Eldarion
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
 
+https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
+
 https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
 https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
 https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
 https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
-
-https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
 https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 
@@ -1334,9 +1363,7 @@ Django Testing- Official
 * [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
-## Time Complexity and Optimization- General
-
-## Improvement Methods
+## Time Complexity and Optimization-Improvement Methods
 
 Improvement Methods
 * [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
@@ -1411,8 +1438,6 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
 -->
-
-## Python Time Complexity and Optimization
 
 ## Python Benchmarking and Profiling
 
@@ -1640,6 +1665,7 @@ http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
 https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
 https://en.wikipedia.org/wiki/Bandwidth_throttling
@@ -1956,12 +1982,9 @@ Computer Architecture
 https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
 -->
 
-CPU and Instruction Set
+CPU
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 Types of CPUs
 * [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
@@ -1971,19 +1994,23 @@ Microprocessor
 * [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
 * [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
 
-Machine Code and Assembly Language
+Low-Level Programming Language, Machine Code, Assembly Language
+* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
 * [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
 * [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
+Instruction Set (CPU)
+* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
+* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
+* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
 <!--
 http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
-https://en.wikipedia.org/wiki/Instruction_register | Instruction register - Wikipedia
-https://en.wikipedia.org/wiki/Instruction_set_architecture | Instruction set architecture - Wikipedia
-https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions | Instruction set architecture - Wikipedia
-https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture | Computer architecture - Wikipedia
-https://en.wikipedia.org/wiki/Machine_code#Instruction_set | Machine code - Wikipedia
-
-https://en.wikipedia.org/wiki/Low-level_programming_language | Low-level programming language - Wikipedia
 -->
 
 Binary
@@ -2058,48 +2085,12 @@ CPU versus IO
 * [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
 * [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
 
-<!--
-https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
-https://en.wikipedia.org/wiki/Execution_(computing)		
-https://simple.wikipedia.org/wiki/Thread_(computer_science) | Thread (computer science) - Simple English Wikipedia, the free encyclopedia
-https://en.wikipedia.org/wiki/Thread_(computing)
-https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
-https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP_persistent_connection
-
-https://en.wikipedia.org/wiki/Webhook
-
-https://en.wikipedia.org/wiki/WebSocket
-https://en.wikipedia.org/wiki/Network_socket
--->
-
-<!--
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
-http://libuv.org/
-
-Node.js
-Event-driven, asynchronous IO
-
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
--->
+Runtime System, Execution, Thread, Process
+* [Runtime System Wikipedia](https://en.wikipedia.org/wiki/Runtime_system)
+* [Execution Wikipedia](https://en.wikipedia.org/wiki/Execution_(computing))
+* [Thread Wikipedia](https://simple.wikipedia.org/wiki/Thread_(computer_science))
+* [Thread Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))
+* [Process Wikipedia](https://en.wikipedia.org/wiki/Process_(computing))
 
 CAP Theorem
 * [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
@@ -2129,8 +2120,6 @@ https://en.wikipedia.org/wiki/Representational_state_transfer | Representational
 https://en.wikipedia.org/wiki/Application_programming_interface | Application programming interface - Wikipedia
 https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
 https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 
 
 AP, CP or CA Databases
