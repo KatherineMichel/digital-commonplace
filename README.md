@@ -4,8 +4,78 @@
 https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+-->
 
-* Mariatta's talks and workshops
+<!--
+https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
+https://urllib3.readthedocs.io/en/latest/
+https://python-requests.org/
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
+https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
+
+Message and Task Queues
+http://mqtt.org/ | MQTT
+http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+http://python-rq.org/
+https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
+https://www.fullstackpython.com/task-queues.html
+https://redis.io/ | Redis
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+See also: Data Science
+https://github.com/keen/cohorts
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+
+https://elixir-lang.org/ | Elixir
+
+Datasette- Glitch
+https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
+https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
+
+Datasette
+https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
+https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
+https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
+https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 ## Priorities
@@ -28,6 +98,13 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 
 * [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
 
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
 <!--
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
@@ -45,7 +122,43 @@ https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to
 http://takingnot.es/
 -->
 
-### Useful Tools
+<!--
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
+https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
+
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
+https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
+
+https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+-->
+
+## Competitive Programming
+
+Coding Competitions
+* Kaggle
+* Hackathons
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+* Project-Based Learning
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+## Useful Tools
 
 Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
@@ -90,7 +203,7 @@ https://guide.airtable.com/
 https://github.com/zapier | Zapier
 -->
 
-### Languages and Frameworks
+## Languages and Frameworks
 
 Python and Django Docs
 * [Python Docs](https://docs.python.org)
@@ -135,7 +248,7 @@ https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Insta
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 -->
 
-### High Performance Developers and Blogs
+## High Performance Developers and Blogs
 
 * [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
 
@@ -153,7 +266,7 @@ https://techyaks.com/top-python-talks.html
 https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
 -->
 
-### Authorities
+## Authorities
 
 Authorities
 * [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
@@ -175,7 +288,7 @@ https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart an
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 -->
 
-### Hosting, GitLab, and GitHub
+## Hosting, GitLab, and GitHub
 
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
@@ -334,7 +447,7 @@ http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
 https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
 -->
 
-### Open Source Guides
+## Open Source Guides
 
 GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
@@ -512,7 +625,7 @@ https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 -->
 
-### Engineering Management Resources
+## Engineering Management Resources
 
 JavaScript Scene
 * ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
@@ -521,12 +634,12 @@ JavaScript Scene
 
 * [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
-### Trending
+## Trending
 
 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
 
-### Python
+## Python
 
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
@@ -543,7 +656,7 @@ Python Articles
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
 
-### JavaScript
+## JavaScript
 
 <!--
 https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
@@ -584,26 +697,6 @@ Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
-### Coding Practice
-
-Math/Programming Problems and Projects
-* [Project Euler Problems](http://projecteuler.net/problems) 
-
-Practice
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-
-<!--
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
-https://guide.freecodecamp.org/ | freeCodeCamp Guide
-https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
--->
-
 <!--
 Trey Hunner
 https://treyhunner.com
@@ -623,7 +716,27 @@ Tutorial
 * [Tutorials Point](https://www.tutorialspoint.com)
 -->
 
-### Python- Coding Practice
+## Coding Practice
+
+Math/Programming Problems and Projects
+* [Project Euler Problems](http://projecteuler.net/problems) 
+
+Practice
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com)
+* [100 Days of Code](http://www.100daysofcode.com)
+
+<!--
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://t.co/rzvAPV1wXl | https://glitch.com/@python
+https://guide.freecodecamp.org/ | freeCodeCamp Guide
+https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
+
+DataCamp
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+-->
+
+## Python- Coding Practice
 
 Python Challenges
 * [Exercism Python](https://exercism.io/tracks/python)
@@ -632,42 +745,7 @@ Python Challenges
 * [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
 
-### Data Types, Data Structures, and Algorithms
-
-Data Type
-* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type)
-
-Abstract Data Type and Data Structures
-* [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
-* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
-* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
-* [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
-
-Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
-* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
-* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
-<!--
-https://en.wikipedia.org/wiki/Algorithmic_paradigm
-https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
-
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-https://en.wikipedia.org/wiki/Dynamic_programming
-https://www.geeksforgeeks.org/dynamic-programming/
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
-
-https://en.wikipedia.org/wiki/Category:Algorithms
-https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
-https://en.wikipedia.org/wiki/List_of_algorithms
--->
-
-### Django Learning Resources
+## Django Learning Resources
 
 Django Learning Resources
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com) and [Simple is Better than Complex GitHub](https://github.com/sibtc)
@@ -719,58 +797,7 @@ https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: mak
 https://djangobook.com/build-a-website-with-django-2/ | Build a Website with Django 2 - Python Django Tutorials
 -->
 
-### High Performance Python
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-High Performance Python- Engineering Blogs
-* [Dropbox](https://blogs.dropbox.com)
-* [Google](https://developers.googleblog.com)
-* [Instagram](https://engineering.instagram.com)
-* [Netflix](https://medium.com/netflix-techblog)
-* [Quora](https://engineering.quora.com)
-* [Reddit](https://redditblog.com)
-* [Spotify](https://labs.spotify.com)
-* [Uber](https://eng.uber.com)
-* [Zapier](https://zapier.com/engineering)
-
-<!--
-Carl Meyer talk
-
-https://www.google.com/search?q=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&oq=Stephen+Simmons%2C+Neil+Slinger+python+at+massive+scale&aqs=chrome..69i57j33l2.3499j0j7&sourceid=chrome&ie=UTF-8 | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
--->
-
-Major Organizations and Projects that Use Django
-* [18F GitHub](https://github.com/18F)  
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Disqus](https://github.com/disqus)
-* [Instagram GitHub](https://github.com/instagram)  
-* [Knight Foundation](http://www.knightfoundation.org/apps)  
-* [Mozilla GitHub](https://github.com/mozilla)
-* [National Geographic GitHub](https://github.com/natgeo)  
-* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-* [PBS GitHub](https://github.com/pbs)  
-* [Pinterest GitHub](https://github.com/pinterest)  
-* [Rdio GitHub](https://github.com/rdio)  
-* [Reddit GitHub](https://github.com/reddit)  
-* [Rover GitHub](https://github.com/roverdotcom)
-* [StyleSeat GitHub](https://github.com/styleseat) 
-* [The Spokesman Review](http://www.spokesman.com)
-* [Wharton GitHub](https://github.com/wharton)
-* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
-
-<!--
-http://www.spokesman.com/staff/
-http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
--->
+## Django Consulting Forms
 
 Django Consulting Firm GitHub Accounts
 * [Caktus Group GitHub](https://github.com/caktus)
@@ -799,7 +826,7 @@ https://github.com/caktus/django-project-template
 https://github.com/cfpb/django-flags | cfpb/django-flags: Feature flags for Django projects
 -->
 
-### Django Rest Framework
+## Django Rest Framework
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
@@ -826,59 +853,829 @@ https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_conti
 https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
 -->
 
-### CPython
+
+
+## Python and Django- General
+
+Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
+* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
+
+## Editors
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
-https://github.com/python/cpython/pulls | Pull Requests · python/cpython
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 -->
 
-Python Language Summits
-* [The 2019 Python Language Summit](http://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html)
+## Django Style
 
-CPython
-* [CPython GitHub](https://github.com/python/cpython)
-* [CPython Dev Guide](https://devguide.python.org)
-* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-* [Bugs](http://bugs.python.org)
+Django Coding Style Guide
+* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
 
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
+Django JavaScript Style Guide
+* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
 
-Django Contributing
-* [Django Internals](https://docs.djangoproject.com/en/dev/internals)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
+## Python Style
 
-### Python Internals
+Python Style
+* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 
-Python Internals
-* [Stack Overflow Python Internals Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python-internals?sort=votes)
+## Python Non-Official Styleguides and Code Formatting
 
-### Python and Django Packages
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+Code Formatting
+* [Black GitHub](https://github.com/python/black)
+* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
+* [Black Out GitHub](https://github.com/mariatta/black_out)
+* [White GitHub](https://github.com/kennethreitz/white)
+* [Google YAPF](https://github.com/google/yapf)
+
+<!--
+https://github.com/bots-for-humanity/black-out
+
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
+## Python and Django Official Style Guides
+
+Python- PEP 8
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+
+<!--
+https://github.com/amontalenti/elements-of-python-style
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+-->
+
+## Django Performance, Optimization, Deployment, Architecture
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
+## Structuring Your Python Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+## Common Django Features
+
+Django Views
+* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
+
+Django ORM
+* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
+
+<!--
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
+
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+https://docs.djangoproject.com/en/2.2/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+
+https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
+
+https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
+-->
+
+## Django Performance, Optimization, Deployment, Architecture
+
+Django Architecture and Scaling
+* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
+* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
+* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
+
+<!--
+https://djangobook.com/deploying-django/
+-->
+
+## Django Classy
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+## Django Twelve Factor
+
+<!--
+https://12factor.net/config | The Twelve-Factor App
+
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
+-->
+
+## Additional Django Things
+
+<!--
+Lincoln Loop Stack
+High Performance Django Stack
+
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
+-->
+
+## Django Debugging
+
+## Python Debugging
+
+Debugging
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+
+Python and Django Debugging
+* [bdb](https://docs.python.org/3/library/bdb.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+* [profile](https://docs.python.org/3/library/profile.html)
+* [timeit](https://docs.python.org/3/library/timeit.html)
+
+## Software Testing
+
+Software Testing
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+Common for Python
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+
+Other
+* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
+* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
+* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
+
+TDD and BDD
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+
+https://en.wikipedia.org/wiki/Test_case
+
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
+https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/ | EGAD! How Do We Start Writing (Better) Tests? | Automation Panda
+
+https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Knight on Twitter: "Cool! Thanks. Let me know if you have questions.… "
+
+* [Automation Panda](https://automationpanda.com)
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+
+https://martinfowler.com/articles/practical-test-pyramid.html
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+https://automationpanda.com/bdd/
+https://automationpanda.com/python/
+
+https://twitter.com/AutomationPanda/status/1097140065577431041
+https://twitter.com/AutomationPanda/status/1048275359303708673
+https://twitter.com/AutomationPanda/status/1023346925771345920
+https://twitter.com/AutomationPanda/status/1061393338165837825
+
+https://en.wikipedia.org/wiki/Return_on_investment
+
+https://www.tutorialspoint.com/software_testing_dictionary
+https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
+
+https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
+-->
+
+## Python and Django Debugging and Testing
+
+Testing
+* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
+
+Django Testing
+* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
+
+<!--
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+
+https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
+https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+http://pythontesting.net/start-here/
+-->
+
+<!--
+DjangoCon Keynote by Ana
+http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
+-->
+
+<!--
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+-->
+
+## Release Management
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Release Management
+* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
+* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
+* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
+* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+
+Software Versioning and Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+* [CalVer](https://calver.org)
+* [ZeroVer](https://0ver.org)
+
+<!--
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release/semantic-release
+-->
+
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
+Other Stuff
+* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
+* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
+
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+## Django Testing Tools
 
 Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+Pylint Django
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
 
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
-Python- Wheel (versus Egg!)
-* [Python Packaging Wheel vs. Egg](http://python-packaging-user-guide.readthedocs.io/discussions/wheel-vs-egg)
+<!--
+https://docs.djangoproject.com/en/2.2/topics/testing/overview/
 
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
 
- Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
 
-### X Driven Development
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
+tox can be used with Flask
+https://github.com/pallets/flask/blob/master/tox.ini
+
+https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+
+Django Debug Toolbar
+https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
+https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
+-->
+
+## Python Testing Tools
+
+Python Testing Built-In Tools
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+* [doctest](https://docs.python.org/3/library/doctest.html)
+* [mock](https://docs.python.org/dev/library/unittest.mock.html)
+
+Continuous Integration and Delivery
+* [CircleCI](https://circleci.com)
+* [Codecov](https://codecov.io)
+
+Tox and Nox
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
+* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+
+Testing Tools
+* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+
+pytest 
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
+
+<!--
+Eldarion
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+
+https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
+https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
+https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
+https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
+
+https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
+https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+
+https://coverage.readthedocs.io/en/latest/ | Coverage.py — Coverage.py 5.0a5 documentation
+https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
+
+http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
+
+https://docs.codecov.io/docs/python
+https://codecov.io/#features | Codecov
+
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+https://pytest-cov.readthedocs.io/en/latest/ | Welcome to pytest-cov’s documentation! — pytest-cov 2.7.1 documentation
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+https://github.com/openstack/doc8
+https://github.com/PyCQA/pydocstyle
+https://github.com/PyCQA/mccabe
+
+https://www.youtube.com/watch?v=-BHverY7IwU
+http://www.pyinvoke.org/
+https://github.com/pypa/pip/blob/master/tasks/generate.py
+
+http://mypy-lang.org/
+
+flake8 
+noqa: E501
+https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
+
+Package Tools
+* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
+
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
+
+https://github.com/behave/behave | behave/behave: BDD, Python style.
+https://hypothesis.readthedocs.io/en/latest/
+https://github.com/cucumber/gherkin-python
+
+pytz
+https://pypi.org/project/pytz/ | pytz · PyPI
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Python 2
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+-->
+
+## Django Testing
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+## Time Complexity and Optimization- General
+
+## Improvement Methods
+
+Improvement Methods
+* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
+* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
+* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
+
+<!--
+lines of code (loc) versus complexity
+
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
+https://en.wikipedia.org/wiki/Mathematical_optimization
+
+https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
+
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
+https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
+-->
+
+## General Big O Rules
+
+Big O Notation
+* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
+* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
+Linear versus Constant Time
+* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
+* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
+
+Big O Notation- Terminology
+* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
+* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+
+<!--
+https://www.youtube.com/watch?v=duvZ-2UK0fc
+
+https://nedbatchelder.com/text/bigo.html
+Python Complexities
+https://nedbatchelder.com/text/bigo/bigo.html#13
+The Graph
+https://nedbatchelder.com/text/bigo/bigo.html#12
+Small Numbers
+https://nedbatchelder.com/text/bigo/bigo.html#17
+
+Trade-Offs
+https://nedbatchelder.com/text/bigo/bigo.html#14
+Slow/Fast
+https://nedbatchelder.com/text/bigo/bigo.html#15
+More Possibilities
+https://nedbatchelder.com/text/bigo/bigo.html#16
+
+https://nedbatchelder.com/text/slowsgrows.html
+https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
+
+https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
+https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
+https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
+
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
+-->
+
+## Python Time Complexity and Optimization
+
+## Python Benchmarking and Profiling
+
+Diagnostic tools
+* hotshot module?
+* cProfile module
+* profile module
+* timeit module
+
+<!--
+http://scipy.github.io/old-wiki/pages/PerformancePython
+
+27.4. The Python Profilers
+https://docs.python.org/3/library/profile.html#module-pstats
+
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
+https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
+https://docs.python.org/3/library/profile.html#limitations
+https://docs.python.org/3/library/profile.html#calibration
+https://docs.python.org/3/library/profile.html#using-a-custom-timer
+
+27.5. timeit — Measure execution time of small code snippets
+https://docs.python.org/3/library/timeit.html#basic-examples
+https://docs.python.org/3/library/timeit.html#python-interface
+https://docs.python.org/3/library/timeit.html#command-line-interface
+https://docs.python.org/3/library/timeit.html#examples
+
+https://wiki.python.org/moin/PythonSpeed/Profiling
+http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+https://numba.pydata.org/
+
+https://en.wikipedia.org/wiki/Schwartzian_transform
+https://wiki.python.org/moin/DecorateSortUndecorate
+
+https://wiki.python.org/moin/ConcatenationTestCode
+
+https://docs.python.org/3/library/sys.html#sys.setcheckinterval
+-->
+
+## Python Time Complexity and Optimization
+
+Python Performance
+* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
+* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+
+## Python Profiling
+
+<!--
+Python Profiling 
+
+Third Party Testing and Profiling
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+-->
+
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
+
+## Clean Architecture
+
+<!--
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
+-->
+
+## Clean Architecture in Python and Django
+
+<!--
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+
+Brandon Rhodes
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+-->
+
+## Python Patterns
+
+Python Design Patterns and Algorithms
+* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
+
+* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
+* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
+
+<!--
+https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
+
+https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
+http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
+http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
+
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
+https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
+
+Pluralsight Python Design Patterns course author
+https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
+
+https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
+-->
+
+<!--
+Django Design patterns
+
+* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
+
+https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
+https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
+https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
+https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
+
+https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
+
+https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
+
+https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
+https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
+
+https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
+-->
+
+## Django Security
+
+<!--
+https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
+-->
+
+<!--
+## Security- General
+    
+Same Origin
+* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://developers.google.com/web/fundamentals/security/
+
+https://github.com/OWASP
+https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+
+https://www.owasp.org/index.php/Main_Page
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+
+https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
+
+https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
+https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
+    
+https://en.wikipedia.org/wiki/Code_injection
+https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
+
+https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
+
+https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
+
+https://en.wikipedia.org/wiki/Threat_model
+-->
+
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Throttling_process_(computing)
+https://en.wikipedia.org/wiki/Bandwidth_throttling
+https://en.wikipedia.org/wiki/Throughput
+https://en.wikipedia.org/wiki/Rate_limiting
+
+https://en.wikipedia.org/wiki/CPU_cache
+https://en.wikipedia.org/wiki/Cache_(computing)
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
+https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
+https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
+https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
+
+https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+-->
+
+## X Driven Development
 
 Fear
 * [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
@@ -989,36 +1786,7 @@ Life Cycles
 * [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 * [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
-Software Release Life Cycle
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-
-Release Management
-* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
-* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
-* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
-* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
-* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
-
-Software Versioning and Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-* [CalVer](https://calver.org)
-* [ZeroVer](https://0ver.org)
-
-<!--
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release/semantic-release
--->
-
-Continuousness
-* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
-
-Continuous Integration Software
-* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
-
-### Programming Paradigms
+## Programming Paradigms
 
 Programming Paradigms
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
@@ -1094,638 +1862,7 @@ https://en.wikipedia.org/wiki/Immutable_object
 https://en.wikipedia.org/wiki/Memoization
 -->
 
-### Python and Django- General
-
-Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
-* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
-
-### Editors
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
--->
-
-### Django Style
-
-Django Coding Style Guide
-* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
-
-Django JavaScript Style Guide
-* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
-
-### Python Style
-
-Python Style
-* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-
-### Python Non-Official Styleguides and Code Formatting
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-Code Formatting
-* [Black GitHub](https://github.com/python/black)
-* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
-* [Black Out GitHub](https://github.com/mariatta/black_out)
-* [White GitHub](https://github.com/kennethreitz/white)
-* [Google YAPF](https://github.com/google/yapf)
-
-<!--
-https://github.com/bots-for-humanity/black-out
-
-https://docs.python-guide.org/#writing-great-python-code
--->
-
-### Python and Django Official Style Guides
-
-Python- PEP 8
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-
-<!--
-https://github.com/amontalenti/elements-of-python-style
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
--->
-
-### Django Performance, Optimization, Deployment, Architecture
-
-Django Performance and Optimization
-* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
-* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
-
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
-
-## Structuring Your Python Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Common Django Features
-
-Django Views
-* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
-
-Django ORM
-* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
-
-<!--
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
-https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
-
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-https://docs.djangoproject.com/en/2.2/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
-
-Django Request and Response Cycle
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
-
-https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
-https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
-
-https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
--->
-
-## Django Performance, Optimization, Deployment, Architecture
-
-Django Architecture and Scaling
-* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
-* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
-* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
-
-<!--
-https://djangobook.com/deploying-django/
--->
-
-## Django Classy
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-## Django Twelve Factor
-
-<!--
-https://12factor.net/config | The Twelve-Factor App
-
-https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
--->
-
-## Additional Django Things
-
-<!--
-Lincoln Loop Stack
-High Performance Django Stack
-
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-model-utils
--->
-
-### Django Debugging
-
-### Python Debugging
-
-Debugging
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-
-Python and Django Debugging
-* [bdb](https://docs.python.org/3/library/bdb.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-* [profile](https://docs.python.org/3/library/profile.html)
-* [timeit](https://docs.python.org/3/library/timeit.html)
-
-### Software Testing
-
-Software Testing
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-
-Common for Python
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-
-Other
-* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
-* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
-* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
-
-TDD and BDD
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-
-https://en.wikipedia.org/wiki/Test_case
-
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
-
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
-https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
-https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/ | EGAD! How Do We Start Writing (Better) Tests? | Automation Panda
-
-https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Knight on Twitter: "Cool! Thanks. Let me know if you have questions.… "
-
-* [Automation Panda](https://automationpanda.com)
-https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
-https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
-
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-
-https://martinfowler.com/articles/practical-test-pyramid.html
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-https://automationpanda.com/bdd/
-https://automationpanda.com/python/
-
-https://twitter.com/AutomationPanda/status/1097140065577431041
-https://twitter.com/AutomationPanda/status/1048275359303708673
-https://twitter.com/AutomationPanda/status/1023346925771345920
-https://twitter.com/AutomationPanda/status/1061393338165837825
-
-https://en.wikipedia.org/wiki/Return_on_investment
-
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
-
-https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
--->
-
-### Python and Django Debugging and Testing
-
-Testing
-* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
-
-Django Testing
-* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
-
-<!--
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
-
-https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
-https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
-
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-http://pythontesting.net/start-here/
--->
-
-<!--
-DjangoCon Keynote by Ana
-http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
--->
-
-<!--
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
--->
-
-### Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Files
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-### Django Testing Tools
-
-Django
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
-Pylint Django
-* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
-
-Django Nose
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-
-<!--
-https://docs.djangoproject.com/en/2.2/topics/testing/overview/
-
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/ | Advanced testing topics | Django documentation | Django
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
-tox can be used with Flask
-https://github.com/pallets/flask/blob/master/tox.ini
-
-https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
-
-Django Debug Toolbar
-https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
-https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
--->
-
-### Python Testing Tools
-
-Python Testing Built-In Tools
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-* [doctest](https://docs.python.org/3/library/doctest.html)
-* [mock](https://docs.python.org/dev/library/unittest.mock.html)
-
-Continuous Integration and Delivery
-* [CircleCI](https://circleci.com)
-* [Codecov](https://codecov.io)
-
-Tox and Nox
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
-* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
-
-Testing Tools
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
-
-pytest 
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-
-PyLint
-* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
-
-Nose (Unit Test Extension)
-* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
-
-<!--
-Eldarion
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
-https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
-
-https://en.wikipedia.org/wiki/Code_coverage
-https://en.wikipedia.org/wiki/Traceability_matrix | Traceability matrix - Wikipedia
-
-https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
-https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
-https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
-https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
-
-https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
-https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
-https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
-
-https://coverage.readthedocs.io/en/latest/ | Coverage.py — Coverage.py 5.0a5 documentation
-https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
-
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
-
-https://docs.codecov.io/docs/python
-https://codecov.io/#features | Codecov
-
-https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
-
-https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
-https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-https://pytest-cov.readthedocs.io/en/latest/ | Welcome to pytest-cov’s documentation! — pytest-cov 2.7.1 documentation
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
-https://github.com/openstack/doc8
-https://github.com/PyCQA/pydocstyle
-https://github.com/PyCQA/mccabe
-
-https://www.youtube.com/watch?v=-BHverY7IwU
-http://www.pyinvoke.org/
-https://github.com/pypa/pip/blob/master/tasks/generate.py
-
-http://mypy-lang.org/
-
-flake8 
-noqa: E501
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
-
-Package Tools
-* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
-
-https://pypi.org/project/selenium/ | selenium · PyPI
-https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
-
-https://github.com/behave/behave | behave/behave: BDD, Python style.
-https://hypothesis.readthedocs.io/en/latest/
-https://github.com/cucumber/gherkin-python
-
-pytz
-https://pypi.org/project/pytz/ | pytz · PyPI
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-Python 2
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
--->
-
-### Django Testing
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-### Time Complexity and Optimization- General
-
-### Improvement Methods
-
-Improvement Methods
-* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
-* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
-* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
-* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
-* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
-* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
-* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
-* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
-
-<!--
-lines of code (loc) versus complexity
-
-https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
-
-https://en.wikipedia.org/wiki/Mathematical_optimization
-
-https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
-
-https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
--->
-
-### General Big O Rules
-
-Big O Notation
-* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
-* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
-* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
-* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
-* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
-
-Linear versus Constant Time
-* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
-* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
-* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
-
-Big O Notation- Terminology
-* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
-* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
-* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-
-<!--
-https://www.youtube.com/watch?v=duvZ-2UK0fc
-
-https://nedbatchelder.com/text/bigo.html
-Python Complexities
-https://nedbatchelder.com/text/bigo/bigo.html#13
-The Graph
-https://nedbatchelder.com/text/bigo/bigo.html#12
-Small Numbers
-https://nedbatchelder.com/text/bigo/bigo.html#17
-
-Trade-Offs
-https://nedbatchelder.com/text/bigo/bigo.html#14
-Slow/Fast
-https://nedbatchelder.com/text/bigo/bigo.html#15
-More Possibilities
-https://nedbatchelder.com/text/bigo/bigo.html#16
-
-https://nedbatchelder.com/text/slowsgrows.html
-https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
-
-https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
-https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
-https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
-
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
--->
-
-### Python Time Complexity and Optimization
-
-### Python Benchmarking and Profiling
-
-Diagnostic tools
-* hotshot module?
-* cProfile module
-* profile module
-* timeit module
-
-<!--
-http://scipy.github.io/old-wiki/pages/PerformancePython
-
-27.4. The Python Profilers
-https://docs.python.org/3/library/profile.html#module-pstats
-
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
-https://docs.python.org/3/library/profile.html#limitations
-https://docs.python.org/3/library/profile.html#calibration
-https://docs.python.org/3/library/profile.html#using-a-custom-timer
-
-27.5. timeit — Measure execution time of small code snippets
-https://docs.python.org/3/library/timeit.html#basic-examples
-https://docs.python.org/3/library/timeit.html#python-interface
-https://docs.python.org/3/library/timeit.html#command-line-interface
-https://docs.python.org/3/library/timeit.html#examples
-
-https://wiki.python.org/moin/PythonSpeed/Profiling
-http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-https://numba.pydata.org/
-
-https://en.wikipedia.org/wiki/Schwartzian_transform
-https://wiki.python.org/moin/DecorateSortUndecorate
-
-https://wiki.python.org/moin/ConcatenationTestCode
-
-https://docs.python.org/3/library/sys.html#sys.setcheckinterval
--->
-
-### Python Time Complexity and Optimization
-
-Python Performance
-* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
-* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
-* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
-
-### Python Profiling
-
-<!--
-Python Profiling 
-
-Third Party Testing and Profiling
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
--->
-
-<!--
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
--->
-
-### Clean Architecture
-
-<!--
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
--->
-
-### Clean Architecture in Python and Django
-
-<!--
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-
-Brandon Rhodes
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
-
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
-
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
--->
-
-### Software Design Patterns
+## Software Design Patterns
 
 Design Patterns- General
 * [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
@@ -1748,7 +1885,7 @@ https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Componen
 https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
 -->
 
-### General Software Design Patterns
+## General Software Design Patterns
 
 Creational Patterns
 * [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
@@ -1782,88 +1919,7 @@ Behavioral Patterns
 * [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
 * [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
 
-### Python Patterns
-
-Python Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
-* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
-
-<!--
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
-
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
-https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
-https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
-
-Pluralsight Python Design Patterns course author
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
--->
-
-<!--
-Django Design patterns
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
-
-https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
-
-https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
-
-https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
-https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
-
-https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
--->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Throttling_process_(computing)
-https://en.wikipedia.org/wiki/Bandwidth_throttling
-https://en.wikipedia.org/wiki/Throughput
-https://en.wikipedia.org/wiki/Rate_limiting
-
-https://en.wikipedia.org/wiki/Cache_(computing)
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
-https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
-http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
-https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
-https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
-http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
-https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
-https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
-
-https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
--->
-
-### Important Concepts
+## Important Concepts
 
 Network Protocols
 * [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
@@ -1947,7 +2003,8 @@ Comparison of File Systems
 
 Unix
 * [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg) 
+* [Unix Wars Wikipedia](https://en.wikipedia.org/wiki/Unix_wars) 
 * [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
 * [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
 * [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
@@ -1958,8 +2015,6 @@ Unix File System
 * [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
-https://en.wikipedia.org/wiki/Unix_wars | Unix wars - Wikipedia
-https://en.wikipedia.org/wiki/Unix_philosophy | Unix philosophy - Wikipedia
 https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
 
 https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
@@ -1988,36 +2043,22 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
-https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
-https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
-
 Apple
 https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
 https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
 https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
 
 https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
-	
-https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
-https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
-https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
-https://en.wikipedia.org/wiki/Memory_address_register
-https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
-https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
-https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
-https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
-https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
 -->
 
 CPU versus IO
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [Input/Output Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
+* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
+* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
 
 <!--
-https://en.wikipedia.org/wiki/I/O_bound | I/O bound - Wikipedia
-https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia
-https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound | I/O bound - Wikipedia
-
 https://en.wikipedia.org/wiki/Runtime_system | Runtime system - Wikipedia
 https://en.wikipedia.org/wiki/Execution_(computing)		
 https://simple.wikipedia.org/wiki/Thread_(computer_science) | Thread (computer science) - Simple English Wikipedia, the free encyclopedia
@@ -2025,26 +2066,7 @@ https://en.wikipedia.org/wiki/Thread_(computing)
 https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems
 https://en.wikipedia.org/wiki/Process_(computing) | Process (computing) - Wikipedia
 
-https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
-https://en.wikipedia.org/wiki/Multiprocessing
-
-https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
-https://en.wikipedia.org/wiki/Async/await
-https://en.wikipedia.org/wiki/Subroutine
-https://en.wikipedia.org/wiki/Coroutine
-https://en.wikipedia.org/wiki/Futures_and_promises
-https://en.wikipedia.org/wiki/Asynchronous_I/O
-https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
-https://en.wikipedia.org/wiki/Asynchronous_system
-https://en.wikipedia.org/wiki/Asynchronous_communication
-
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)
-https://en.wikipedia.org/wiki/Concurrent_computing
-https://en.wikipedia.org/wiki/Parallel_computing
-
 https://en.wikipedia.org/wiki/HTTP_persistent_connection
-
-https://en.wikipedia.org/wiki/Scheduling_(computing)
 
 https://en.wikipedia.org/wiki/Webhook
 
@@ -2131,140 +2153,6 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 https://en.wikipedia.org/wiki/Scheduling_(computing)
 -->
 
-<!--
-https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
-https://urllib3.readthedocs.io/en/latest/
-https://python-requests.org/
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
-https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
-
-Message and Task Queues
-http://mqtt.org/ | MQTT
-http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-http://python-rq.org/
-https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
-https://www.fullstackpython.com/task-queues.html
-https://redis.io/ | Redis
-
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-See also: Data Science
-https://github.com/keen/cohorts
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-
-https://elixir-lang.org/ | Elixir
-
-Datasette- Glitch
-https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
-https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
-https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
-
-Datasette
-https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
-https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-http://datasette.readthedocs.io
-https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
-http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
-https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
-https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
--->
-
-## Django Security
-
-<!--
-https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
--->
-
-<!--
-## Security- General
-    
-Same Origin
-* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
-  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
-https://developers.google.com/web/fundamentals/security/
-
-https://github.com/OWASP
-https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
-
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-
-https://www.owasp.org/index.php/Main_Page
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
-
-https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
-
-https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
-https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
-    
-https://en.wikipedia.org/wiki/Code_injection
-https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
-
-https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
-
-https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
-https://en.wikipedia.org/wiki/Threat_model
--->
-
 ## Trends
 
 Look at Daily
@@ -2296,51 +2184,6 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 
 https://24hrstartup.com/ | The 24 Hour Startup Challenge
--->
-
-## Project-Based Learning
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
-<!--
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
-https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://twitter.com/chrisalbon/status/957951573413347328 | Chris Albon on Twitter: "Get it working. Get it working at scale. Get it working fast at scale."
-
-https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
-
-https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
-https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
--->
-
-## Competitive Programming
-
-Coding Competitions
-* Kaggle
-* Hackathons
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-* Project-Based Learning
-
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
 ## People and Case Studies
