@@ -685,30 +685,6 @@ https://en.wikipedia.org/wiki/List_of_algorithms
 Linear (Sequential) Data Structures (array, linked list, doubly linked list, stack, queue)
 * [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
 * [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
-
-Dynamic Data Structures
-
-https://en.wikipedia.org/wiki/Address_space
-https://en.wikipedia.org/wiki/Memory_address
-
-https://en.wikipedia.org/wiki/Recursion_(computer_science)
-https://en.wikipedia.org/wiki/Recursion | Recursion - Wikipedia
-https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers | Call stack - Wikipedia
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-https://en.wikipedia.org/wiki/Stack-based_memory_allocation
-
-https://en.wikipedia.org/wiki/Pointer_(computer_programming)
-https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-
-Sequential Access List
-Random (Direct) Access List
 -->
 
 ### Django Learning Resources
