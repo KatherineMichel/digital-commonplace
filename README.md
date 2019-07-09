@@ -16,6 +16,7 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
 https://urllib3.readthedocs.io/en/latest/
 https://python-requests.org/
+http://docs.python-requests.org/en/master/user/quickstart/
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
 https://httpie.org/ | HTTPie – command line HTTP client
 https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
