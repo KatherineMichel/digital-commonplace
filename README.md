@@ -780,6 +780,14 @@ Python Challenges
 * [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
 
+## Python and Django- Official Tutorials
+
+Python Official Tutorial
+* [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
+
+Django Install
+* [Django Install](https://docs.djangoproject.com/en/dev/topics/install)
+
 ## Django Learning Resources
 
 Django Learning Resources
