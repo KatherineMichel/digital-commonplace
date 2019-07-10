@@ -912,6 +912,8 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
+https://codewith.mu/ | Code With Mu
+
 https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
 
 https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
@@ -927,6 +929,21 @@ https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-mi
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
 https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+-->
+
+## Command Line
+
+* [Click GitHub](https://github.com/pallets/click)
+* [Chalk GitHub](https://github.com/chalk/chalk)
+
+<!--
+https://github.com/google/python-fire
+
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 -->
 
 ## Django Style
