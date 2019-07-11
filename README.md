@@ -52,20 +52,6 @@ https://github.com/kennethreitz/homebrew-pythons
 https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 
-Message and Task Queues
-http://mqtt.org/ | MQTT
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-http://python-rq.org/
-https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
-https://www.fullstackpython.com/task-queues.html
-https://redis.io/ | Redis
-memcached
-
-Python- Django and Celery (Asynchronicity) (Also Example code)
-* [Celery](http://www.celeryproject.org)  
-* [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-
 https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
 https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
 
@@ -1359,6 +1345,8 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
+salt, ansible
+
 Python- Fabric
 * [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
 
