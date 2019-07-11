@@ -13,44 +13,7 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 -->
 
 <!--
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
-https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://urllib3.readthedocs.io/en/latest/
-
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
-
-Python- Django- DJ Static, DJ Database URL
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Python- Django- Records, Requests (HTTP for Humans)
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
-
-https://python-requests.org/
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-http://docs.python-requests.org/en/master/user/quickstart/
-
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-https://github.com/kennethreitz/requests-html | kennethreitz/requests-html: HTML Parsing for Humans™
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://github.com/kennethreitz/pip-purge
-
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-
-https://github.com/kennethreitz/homebrew-pythons
-
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 
 https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
 https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
@@ -86,21 +49,6 @@ https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & Dev
 https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
 
 https://elixir-lang.org/ | Elixir
-
-Datasette- Glitch
-https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
-https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
-https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
-
-Datasette
-https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
-https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-http://datasette.readthedocs.io
-https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
-http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
-https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
-https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 <!--
@@ -287,6 +235,12 @@ Express
 * [Express](https://expressjs.com)
 
 <!--
+Elm
+
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
+https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
+
 https://nodejs.org/en/docs/guides/getting-started-guide/
 https://expressjs.com/en/starter/generator.html
 
@@ -3671,21 +3625,6 @@ SpatiaLite (Spatial Database Extender for SQLite)
 * [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
 * [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
 * [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-### Newer Stuff
-
-<!--
-https://groups.google.com/forum/#!topic/django-developers/Kw7-xV6TrSM | A Django Async Roadmap - Google Groups
-
-ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
-
-https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
-
-https://github.com/django/channels/commit/fb6b467c7a7bdd203e25851684742dc48ec1ea42 | Add auth and session support · django/channels@fb6b467
-
-https://github.com/jacobian/demo-thing
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
--->
 
 ## Well Being
 
