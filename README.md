@@ -13,26 +13,52 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 -->
 
 <!--
-https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
-https://urllib3.readthedocs.io/en/latest/
-https://python-requests.org/
-http://docs.python-requests.org/en/master/user/quickstart/
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
 https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
 
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://urllib3.readthedocs.io/en/latest/
+
+https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
+https://python-requests.org/
+http://docs.python-requests.org/en/master/user/quickstart/
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+
+https://github.com/kennethreitz/pip-purge
+
+Python- Django- Records, Requests (HTTP for Humans)
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/requests-html | kennethreitz/requests-html: HTML Parsing for Humans™
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+
+https://github.com/kennethreitz/homebrew-pythons
+http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
 Message and Task Queues
 http://mqtt.org/ | MQTT
-http://www.celeryproject.org/ | Homepage | Celery: Distributed Task Queue
 https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
 http://python-rq.org/
 https://www.rabbitmq.com/ | Messaging that just works — RabbitMQ
 https://www.fullstackpython.com/task-queues.html
 https://redis.io/ | Redis
+memcached
+
+Python- Django and Celery (Asynchronicity) (Also Example code)
+* [Celery](http://www.celeryproject.org)  
+* [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
 
 https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
 https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
@@ -1285,7 +1311,12 @@ https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support
 
 Django Debug Toolbar
 https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
-https://github.com/recamshak/django-debug-panel | recamshak/django-debug-panel: django-debug-toolbar in WebKit DevTools. Works fine with background Ajax requests and non-HTML responses.
+
+Python- Django- Debug Toolbar
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+
+Python- Django- Debug Panel
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
 -->
 
 ## Python Testing Tools
@@ -1322,6 +1353,17 @@ Nose (Unit Test Extension)
 * [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
 <!--
+Python- Fabric
+* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
+
+http://docs.fabfile.org/en/1.13/api/contrib/django.html
+
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
+
+Selenium
+* [Selenium](http://www.seleniumhq.org)
+
+
 Eldarion
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
