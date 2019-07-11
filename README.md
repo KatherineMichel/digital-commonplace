@@ -22,26 +22,32 @@ https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpi
 
 https://urllib3.readthedocs.io/en/latest/
 
-https://github.com/kennethreitz/dj-database-url | kennethreitz/dh-database-url: Use Database URLs in your Django Application.
-https://python-requests.org/
-http://docs.python-requests.org/en/master/user/quickstart/
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 
-https://github.com/kennethreitz/pip-purge
+Python- Django- DJ Static, DJ Database URL
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
 Python- Django- Records, Requests (HTTP for Humans)
 * [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
 * [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
 
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://python-requests.org/
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+http://docs.python-requests.org/en/master/user/quickstart/
+
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
 https://github.com/kennethreitz/requests-html | kennethreitz/requests-html: HTML Parsing for Humans™
 http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+https://github.com/kennethreitz/pip-purge
+
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 
 https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
 
 https://github.com/kennethreitz/homebrew-pythons
-http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
 https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
