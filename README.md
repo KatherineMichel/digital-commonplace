@@ -502,7 +502,7 @@ https://github.com/showcases/projects-with-great-wikis
 https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
 
 https://wiki.linuxfoundation.org/chaoss/
-
+https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
 https://martinfowler.com/bliki/MaturityModel.html
 
 https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
