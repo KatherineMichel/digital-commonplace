@@ -276,11 +276,16 @@ V8 (JavaScript Engine)
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
+<!--
+https://nodejs.org/api/
+-->
+
 Express
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 
 <!--
 https://expressjs.com/en/4x/api.html | Express 4.x - API Reference
+https://expressjs.com/en/starter/generator.html
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 -->
@@ -295,6 +300,8 @@ https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaSc
 https://github.com/facebook/react/wiki/Sites-Using-React | Sites Using React · facebook/react Wiki
 
 https://en.wikipedia.org/wiki/React_Fiber | React Fiber - Wikipedia
+
+https://reactjs.org/docs/glossary.html
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
 
 Comparison with Other Frameworks — Vue.js
