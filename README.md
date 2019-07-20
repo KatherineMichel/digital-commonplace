@@ -429,10 +429,7 @@ Flux
 
 Redux
 * [Redux](http://redux.js.org) and [Redux GitHub](https://github.com/reactjs/redux)
-
-<!--
-http://redux.js.org/docs/basics/UsageWithReact.html
--->
+* [Redux Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
 
 Preact
 * [Preact](https://preactjs.com)
@@ -442,10 +439,7 @@ RxJS
 
 Flow
 * [Flow](https://flow.org), [Flow Docs](https://flow.org/en/docs), and [Flow GitHub](https://github.com/facebook/flow)
-
-<!--
-https://flow.org/en/docs/react | Flow + React | Flow
--->
+* [Flow and React](https://flow.org/en/docs/react)
 
 Next
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
@@ -546,7 +540,10 @@ WebAssembly
 * [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
 <!--
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+
 https://www.rust-lang.org/ | Rust programming language
+https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
 
 https://webassembly.org/ | WebAssembly
 https://en.wikipedia.org/wiki/WebAssembly | WebAssembly - Wikipedia
