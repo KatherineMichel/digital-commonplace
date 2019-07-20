@@ -38,6 +38,14 @@ https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Tw
 Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
 Bazel
 https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
 https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
@@ -52,6 +60,9 @@ https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
@@ -1371,9 +1382,7 @@ Django Performance and Optimization
 Django Deployment
 * [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
 
-## Django Debugging
-
-## Python Debugging
+## Python and Django Debugging
 
 Debugging
 * [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
@@ -1444,6 +1453,9 @@ Django Testing- Official
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
 <!--
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+
 https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
@@ -1489,6 +1501,7 @@ https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Kni
 * [Automation Panda](https://automationpanda.com)
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
 https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
+https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
 
 https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
@@ -2370,9 +2383,12 @@ https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 * [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
 
 <!--
+https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+
 https://about.gitlab.com/developer-survey/
 https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
 http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 -->
 
