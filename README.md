@@ -1,7 +1,21 @@
 # The List 2019
 
 <!--
+https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
+https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
+
+https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
+Testing
+https://www.tutorialspoint.com/software_testing_dictionary
+https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
+https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
+https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
+
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
+
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable/
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
 
 https://twitter.com/jtauber/status/1150040617080090624 | James Tauber on Twitter: "I’ve hired engineers that are easily 10x better than others at some things. But the key is *some*. Others will be good at other things. That’s why you need a diverse team. Software development isn’t a unidimensional skill."
 
@@ -27,9 +41,6 @@ https://twitter.com/veronica_hanus/status/1133091358636486657 | Veronica Hanus @
 https://noti.st/aaronbassett#map | Aaron Bassett’s presentations on Notist
 
 http://www.astrokatie.com/faq/ | FAQ — Katie Mack, Astrophysicist
-
-https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
-https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
 
@@ -277,12 +288,33 @@ V8 (JavaScript Engine)
 Express
 * [Express](https://expressjs.com)
 
+Svelte
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+
 <!--
-Elm
+https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
+
+https://developer.apple.com/ | Apple Developer
+https://developer.apple.com/develop/ | Develop - Apple Developer
+https://developer.apple.com/swift/ | Swift - Apple Developer
+https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
+
+https://www.android.com/ | Android | The World's Most Popular Mobile Platform
+https://developer.android.com/ | Android Developers
+https://www.java.com/en/ | Java | Oracle
+
+https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
+https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
+https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
+https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
+https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
+https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
+https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
+
+https://elm-lang.org/ | Elm - A delightful language for reliable webapps
+https://guide.elm-lang.org/ | https://guide.elm-lang.org
 
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-https://svelte.dev/ | Svelte • Cybernetically enhanced web apps
-https://github.com/sveltejs/svelte | sveltejs/svelte: Cybernetically enhanced web apps
 
 https://nodejs.org/en/docs/guides/getting-started-guide/
 https://expressjs.com/en/starter/generator.html
@@ -310,6 +342,8 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
+https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites | Programming languages used in most popular websites - Wikipedia
+
 Speaker Twitter Lists
 https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
 https://twitter.com/djangocon/lists/speakers-2017
@@ -1293,17 +1327,21 @@ Behavioral Patterns
 * [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 
-## Django Security
-
-<!--
-https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
--->
+## Security
 
 <!--
 ## Security- General
     
+https://en.wikipedia.org/wiki/Penetration_test | Penetration test - Wikipedia
+https://en.wikipedia.org/wiki/Security#Computer_security | Security - Wikipedia
+https://en.wikipedia.org/wiki/Computer_security | Computer security - Wikipedia
+
+https://www.owasp.org/index.php/Main_Page | OWASP
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+
 Same Origin
 * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
 * [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
@@ -1355,6 +1393,15 @@ https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified doma
 https://en.wikipedia.org/wiki/Threat_model
 -->
 
+
+## Django Security
+
+<!--
+https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
+-->
+
 ## Django Performance, Optimization, Deployment, Architecture
 
 Django Performance and Optimization
@@ -1363,6 +1410,7 @@ Django Performance and Optimization
 
 Django Deployment
 * [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
 
 ## Python and Django Debugging
 
@@ -1373,52 +1421,6 @@ Debugging
 Python and Django Debugging
 * [bdb](https://docs.python.org/3/library/bdb.html)
 * [pdb](https://docs.python.org/3/library/pdb.html)
-
-## Python Benchmarking and Profiling
-
-* [profile](https://docs.python.org/3/library/profile.html)
-* [timeit](https://docs.python.org/3/library/timeit.html)
-
-Diagnostic tools
-* hotshot module?
-* cProfile module
-
-<!--
-http://scipy.github.io/old-wiki/pages/PerformancePython
-
-27.4. The Python Profilers
-https://docs.python.org/3/library/profile.html#module-pstats
-
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
-https://docs.python.org/3/library/profile.html#limitations
-https://docs.python.org/3/library/profile.html#calibration
-https://docs.python.org/3/library/profile.html#using-a-custom-timer
-
-27.5. timeit — Measure execution time of small code snippets
-https://docs.python.org/3/library/timeit.html#basic-examples
-https://docs.python.org/3/library/timeit.html#python-interface
-https://docs.python.org/3/library/timeit.html#command-line-interface
-https://docs.python.org/3/library/timeit.html#examples
-
-https://wiki.python.org/moin/PythonSpeed/Profiling
-http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-https://numba.pydata.org/
-
-https://en.wikipedia.org/wiki/Schwartzian_transform
-https://wiki.python.org/moin/DecorateSortUndecorate
-
-https://wiki.python.org/moin/ConcatenationTestCode
-
-https://docs.python.org/3/library/sys.html#sys.setcheckinterval
--->
 
 ## Python and Django Testing
 
@@ -1502,9 +1504,6 @@ https://twitter.com/AutomationPanda/status/1061393338165837825
 
 https://en.wikipedia.org/wiki/Return_on_investment
 
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
-
 https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
 -->
 
@@ -1532,7 +1531,6 @@ http://pythontesting.net/start-here/
 
 <!--
 DjangoCon Keynote by Ana
-http://ana-balica.github.io/2017/11/11/python-mutable-vs-immutable/ | Ana Balica - Python: mutable vs immutable
 -->
 
 ## Most Relevant Third Party Testing Tools
@@ -1578,6 +1576,7 @@ https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selen
 
 https://github.com/behave/behave | behave/behave: BDD, Python style.
 https://hypothesis.readthedocs.io/en/latest/
+https://cucumber.io/ | Cucumber
 https://github.com/cucumber/gherkin-python
 
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
@@ -1600,11 +1599,11 @@ Pylint Django
 Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
-<!--
-salt, ansible
-
 Python- Fabric
 * [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
+
+<!--
+salt, ansible
 
 http://docs.fabfile.org/en/1.13/api/contrib/django.html
 
@@ -1756,6 +1755,52 @@ YAML
 
 Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+## Python Benchmarking and Profiling
+
+* [profile](https://docs.python.org/3/library/profile.html)
+* [timeit](https://docs.python.org/3/library/timeit.html)
+
+Diagnostic tools
+* hotshot module?
+* cProfile module
+
+<!--
+http://scipy.github.io/old-wiki/pages/PerformancePython
+
+27.4. The Python Profilers
+https://docs.python.org/3/library/profile.html#module-pstats
+
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
+https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
+https://docs.python.org/3/library/profile.html#limitations
+https://docs.python.org/3/library/profile.html#calibration
+https://docs.python.org/3/library/profile.html#using-a-custom-timer
+
+27.5. timeit — Measure execution time of small code snippets
+https://docs.python.org/3/library/timeit.html#basic-examples
+https://docs.python.org/3/library/timeit.html#python-interface
+https://docs.python.org/3/library/timeit.html#command-line-interface
+https://docs.python.org/3/library/timeit.html#examples
+
+https://wiki.python.org/moin/PythonSpeed/Profiling
+http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+https://numba.pydata.org/
+
+https://en.wikipedia.org/wiki/Schwartzian_transform
+https://wiki.python.org/moin/DecorateSortUndecorate
+
+https://wiki.python.org/moin/ConcatenationTestCode
+
+https://docs.python.org/3/library/sys.html#sys.setcheckinterval
+-->
 
 ## Time Complexity and Optimization-Improvement Methods
 
@@ -2508,6 +2553,8 @@ https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github S
 https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
 https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
 https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
+https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
+https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
 https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
 
 https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
