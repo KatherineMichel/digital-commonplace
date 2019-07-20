@@ -1,6 +1,8 @@
 # The List 2019
 
 <!--
+https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
+
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
 
