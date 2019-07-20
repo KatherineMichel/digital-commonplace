@@ -133,7 +133,6 @@ https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
 https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
 https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
-http://libuv.org/
 
 Node.js
 Event-driven, asynchronous IO
@@ -230,8 +229,6 @@ Hawt
 https://tailwindcss.com/docs/what-is-tailwind/ | Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development
 https://github.com/garygreen/tsg | garygreen/tsg: Tailwind Style Guide - Generate your own personalized style guide for your tailwind configs.
 
-https://www.gatsbyjs.org | GatsbyJS
-
 https://glitch.com
 https://handbook.glitch.me/ | Glitch Employee Handbook
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
@@ -303,6 +300,8 @@ https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Makin
 Comparison with Other Frameworks — Vue.js
 https://vuejs.org/v2/guide/comparison.html#React
 
+https://www.gatsbyjs.org | GatsbyJS
+https://github.com/gatsbyjs/gatsby
 https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
 -->
 
@@ -414,6 +413,64 @@ https://vuex.vuejs.org/
 https://es.vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
+-->
+
+## Python Versus JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+## JavaScript- General
+
+<!--
+* [GitHub Trending: JavaScript](https://github.com/trending/javascript)
+* [GitHub Topic: JavaScript](https://github.com/topics/javascript)
+
+https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
+
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+-->
+
+JavaScript Articles
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
+* [Medium JavaScript](https://medium.com/tag/javascript)
+* [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+
+JavaScript Styleguides
+* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
+
+<!--
+https://google.github.io/styleguide/javascriptguide.xml
+-->
+
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
+
+<!--
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
 -->
 
 ## High Performance Developers and Blogs
@@ -821,47 +878,6 @@ Python Articles
 <!--
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
-
-## JavaScript
-
-<!--
-https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
--->
-
-JavaScript Articles
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
-* [Medium JavaScript](https://medium.com/tag/javascript)
-* [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-
-JavaScript Styleguides
-* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
-
-<!--
-https://google.github.io/styleguide/javascriptguide.xml
--->
-
-## Python Versus JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 <!--
 Trey Hunner
