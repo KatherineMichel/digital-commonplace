@@ -4,6 +4,10 @@
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
 
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable/
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
+
 https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
 Testing
 https://www.tutorialspoint.com/software_testing_dictionary
@@ -11,11 +15,10 @@ https://www.tutorialspoint.com/software_testing_dictionary/test_driven_developme
 https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
 https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
 
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable/
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 
 https://twitter.com/jtauber/status/1150040617080090624 | James Tauber on Twitter: "I’ve hired engineers that are easily 10x better than others at some things. But the key is *some*. Others will be good at other things. That’s why you need a diverse team. Software development isn’t a unidimensional skill."
 
