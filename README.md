@@ -385,6 +385,11 @@ Svelte
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
 
 <!--
+Modules
+https://www.typescriptlang.org/docs/handbook/modules.html
+
+https://parceljs.org
+
 https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
 
 https://developer.apple.com/ | Apple Developer
