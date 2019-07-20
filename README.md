@@ -260,6 +260,41 @@ https://airtable.com/templates | Templates - Airtable
 https://guide.airtable.com/
 -->
 
+## Google Chrome Dev Tools
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+
+<!--
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+-->
+
 ## Languages and Frameworks
 
 Python and Django Docs
@@ -276,18 +311,14 @@ V8 (JavaScript Engine)
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
-<!--
-https://nodejs.org/api/
--->
-
-Express
+Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+
 https://expressjs.com/en/4x/api.html | Express 4.x - API Reference
 https://expressjs.com/en/starter/generator.html
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 -->
 
 React and Vue
@@ -309,6 +340,8 @@ https://vuejs.org/v2/guide/comparison.html#React
 
 https://www.gatsbyjs.org | GatsbyJS
 https://github.com/gatsbyjs/gatsby
+
+https://vuex.vuejs.org/
 https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
 -->
 
@@ -386,6 +419,20 @@ https://flow.org/en/docs/react | Flow + React | Flow
 Next
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
 
+Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
+* [Mocha GitHub](https://github.com/visionmedia/mocha)  
+* [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
+
+JS Testing frameworks
+https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
+https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+
+jasmine mocha qunit
+-->
 
 
 Svelte
@@ -403,12 +450,6 @@ https://developer.apple.com/ | Apple Developer
 https://developer.apple.com/develop/ | Develop - Apple Developer
 https://developer.apple.com/swift/ | Swift - Apple Developer
 https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
-
-JS Testing frameworks
-https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
-https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
-
-jasmine mocha qunit
 
 https://www.android.com/ | Android | The World's Most Popular Mobile Platform
 https://developer.android.com/ | Android Developers
@@ -428,7 +469,6 @@ https://guide.elm-lang.org/ | https://guide.elm-lang.org
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 
 https://nodejs.org/en/docs/guides/getting-started-guide/
-https://expressjs.com/en/starter/generator.html
 
 https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
 https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
@@ -436,8 +476,6 @@ https://cli.vuejs.org/
 https://vuejs.org/v2/guide/instance.html
 https://vuejs.org/v2/examples/
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
-
-https://vuex.vuejs.org/
 
 https://es.vuejs.org/ | Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
@@ -462,8 +500,6 @@ https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive 
 https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
 https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
 https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-https://pwa.rocks/ | A selection of Progressive Web Apps
-https://www.pwabuilder.com/ | PWABuilder
 
 https://developers.google.com/web/showcase
 
