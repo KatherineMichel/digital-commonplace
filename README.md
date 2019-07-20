@@ -415,6 +415,130 @@ https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Insta
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 -->
 
+## Google Web Fundamentals and Progressive Web Apps (PWA)
+
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
+* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+https://pwa.rocks/ | A selection of Progressive Web Apps
+https://www.pwabuilder.com/ | PWABuilder
+
+https://developers.google.com/web/showcase
+
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+-->
+
+## Cutting Edge
+
+WebAssembly
+* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
+<!--
+https://www.rust-lang.org/ | Rust programming language
+
+https://webassembly.org/ | WebAssembly
+https://en.wikipedia.org/wiki/WebAssembly | WebAssembly - Wikipedia
+https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
+
+WebAssembly
+https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
+-->
+
+## Functionality of Note
+
+Mobile-y Kinds of Things
+* [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
+* [Google Push Notifications](https://developers.google.com/web/fundamentals/push-notifications)
+* [Mozilla Permissions](https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API)
+* [Mozilla Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+* [Mozilla Web Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) 
+* [Mozilla Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+
+Web Workers
+* [Mozilla Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
+
+Service Workers (Offline)
+* [Mozilla Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) and [Mozilla Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+* [Google Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers) and [Google The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
+
+<!--
+https://developers.google.com/web/ilt/pwa/introduction-to-service-worker
+-->
+
+Application Shell Architecture (PWA and Service Workers)
+* [Instant Loading Web Apps with an Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)
+
+WebSockets and Server-Sent Events
+* [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+
+Mozilla WebRTC
+* [Mozilla WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) and [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
+
+<!--
+* [Service Workers Explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
+
+https://github.com/w3c/payment-request | w3c/payment-request: W3C Web Payments Browser API
+https://github.com/w3c/webpayments | w3c/webpayments: The document repo for the Web Payments Working Group
+https://github.com/w3c/webauthn | w3c/webauthn: Web Authentication WG: https://www.w3.org/Webauthn Editors' Draft:
+
+https://www.w3.org/TR/push-api
+https://www.w3.org/TR/notifications
+
+Offline
+* [Mozilla Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+* [Mozilla IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API#database_connection)
+* [Mozilla FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
+* [Mozilla File](https://developer.mozilla.org/en-US/docs/Web/API/File)
+* [Mozilla Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+  
+* Access
+  * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+
+Performance
+* [Google HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) and [Mozilla HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+
+* [Google Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+    
+* [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
+    
+* [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
+
+* [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+
+HTTP/2
+* [Google Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+* UDP
+  * [QUIC](https://www.chromium.org/quic)
+  
+* HTML / DOM
+  * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
+* Appearance
+  * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
+    * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+  * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+-->
+
 ## Python Versus JavaScript
 
 One Pic
