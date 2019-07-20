@@ -230,6 +230,8 @@ Hawt
 https://tailwindcss.com/docs/what-is-tailwind/ | Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development
 https://github.com/garygreen/tsg | garygreen/tsg: Tailwind Style Guide - Generate your own personalized style guide for your tailwind configs.
 
+https://www.gatsbyjs.org | GatsbyJS
+
 https://glitch.com
 https://handbook.glitch.me/ | Glitch Employee Handbook
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
@@ -270,26 +272,98 @@ Python and Django Docs
 Languages and Frameworks (Other than Python and Django)
 * [Golang Docs](https://golang.org/doc)
 
+V8 (JavaScript Engine)
+* [V8 Dev](https://v8.dev) and [V8 Dev GitHub](https://github.com/v8/v8.dev)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) and [V8 GitHub](https://github.com/v8/v8)
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+
+<!--
+https://expressjs.com/en/4x/api.html | Express 4.x - API Reference
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+-->
+
 React and Vue
-* [React Docs](https://reactjs.org/docs)
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), and [Facebook React GitHub](https://github.com/facebook/react) 
 * [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+
+<!--
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+https://github.com/facebook/react/wiki/Sites-Using-React | Sites Using React · facebook/react Wiki
+
+https://en.wikipedia.org/wiki/React_Fiber | React Fiber - Wikipedia
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
+
+Comparison with Other Frameworks — Vue.js
+https://vuejs.org/v2/guide/comparison.html#React
+
+https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
+-->
+
+React Profiler
+* [React Performance Tools](https://reactjs.org/docs/perf.html)
+
+<!--
+https://reactjs.org/docs/optimizing-performance.html#profiling-components-with-the-chrome-performance-tab
+https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html | Introducing the React Profiler – React Blog
+https://github.com/facebook/prop-types | facebook/prop-types: Runtime type checking for React props and similar objects
+-->
+
+Create React App
+* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
 Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
-React Profiler
-* [React Performance Tools](https://reactjs.org/docs/perf.html)
+JSX (Syntax Extension)
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
+* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+ESLint
+* [ESLint](http://eslint.org)
 
-V8 (JavaScript Engine)
-* [V8 Dev](https://v8.dev) and [V8 Dev GitHub](https://github.com/v8/v8.dev)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) and [V8 GitHub](https://github.com/v8/v8)
+Compiling/Transpiling
+* [TypeScript](https://www.typescriptlang.org), [TypeScript Playground](http://www.typescriptlang.org/play), [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript), and [TypeScript Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
+* [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
 
-Express
-* [Express](https://expressjs.com)
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!--
+https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
+-->
+
+Flux
+* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html)
+
+Redux
+* [Redux](http://redux.js.org) and [Redux GitHub](https://github.com/reactjs/redux)
+
+Preact
+* [Preact](https://preactjs.com)
+
+RxJS
+* [RxJS](https://rxjs.dev) and [RxJS GitHub](https://github.com/ReactiveX/rxjs)
+
+Flow
+* [Flow](https://flow.org), [Flow Docs](https://flow.org/en/docs), and [Flow GitHub](https://github.com/facebook/flow)
+
+<!--
+https://flow.org/en/docs/react | Flow + React | Flow
+-->
+
+Next
+* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
+
+
 
 Svelte
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
@@ -301,6 +375,12 @@ https://developer.apple.com/ | Apple Developer
 https://developer.apple.com/develop/ | Develop - Apple Developer
 https://developer.apple.com/swift/ | Swift - Apple Developer
 https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
+
+JS Testing frameworks
+https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
+https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+
+jasmine mocha qunit
 
 https://www.android.com/ | Android | The World's Most Popular Mobile Platform
 https://developer.android.com/ | Android Developers
