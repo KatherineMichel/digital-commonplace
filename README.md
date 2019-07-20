@@ -321,6 +321,11 @@ Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
+<!--
+https://facebook.github.io/react-native/docs/tutorial | Learn the Basics · React Native
+https://facebook.github.io/react-native/docs/debugging.html
+-->
+
 JSX (Syntax Extension)
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
 * [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
@@ -333,6 +338,11 @@ Compiling/Transpiling
 * [TypeScript](https://www.typescriptlang.org), [TypeScript Playground](http://www.typescriptlang.org/play), [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript), and [TypeScript Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
 
+<!--
+https://github.com/Microsoft/TypeScript-Handbook | Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language
+https://github.com/Microsoft/TypeScript-React-Starter
+-->
+
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
@@ -340,11 +350,18 @@ Webpack (Bundler)
 https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
 -->
 
+React-Router (React Stack)
+* [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
+
 Flux
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html)
 
 Redux
 * [Redux](http://redux.js.org) and [Redux GitHub](https://github.com/reactjs/redux)
+
+<!--
+http://redux.js.org/docs/basics/UsageWithReact.html
+-->
 
 Preact
 * [Preact](https://preactjs.com)
