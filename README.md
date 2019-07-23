@@ -104,41 +104,6 @@ https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem
 https://elixir-lang.org/ | Elixir
 -->
 
-<!--
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP_persistent_connection
-
-https://en.wikipedia.org/wiki/Webhook
-
-https://en.wikipedia.org/wiki/WebSocket
-https://en.wikipedia.org/wiki/Network_socket
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
-
-Node.js
-Event-driven, asynchronous IO
-
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
--->
-
 ## Priorities
 
 <!--
@@ -164,90 +129,6 @@ https://twitter.com/jtauber/status/1150040617080090624 | James Tauber on Twitter
 https://twitter.com/andrewgodwin/status/1149875609969090565 | Andrew Godwin on Twitter: "The only "10x engineers" I know are those that are able to empower a team of ten people thanks to great documentation, good interpersonal communication, and the realisation that the best code is the standard, non-shiny code that everyone can understand and work on."
 https://twitter.com/pydanny/status/1149915265854873605 | Daniel Roy Greenfeld on Twitter: "This quote brought to the universe by a person who actually is a 10x engineer. I've seen him empower hundreds if not thousands of people, including myself… https://t.co/R5TpFeEta5"
 -->
-
-## High Performance Developers and Blogs
-
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites | Programming languages used in most popular websites - Wikipedia
-
-Speaker Twitter Lists
-https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
-https://twitter.com/djangocon/lists/speakers-2017
-
-https://techyaks.com/top-python-talks.html
-
-https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
--->
-
-## Stack and Built With
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-## Useful Tools
-
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
-Hawt
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Repl.it](https://repl.it)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-
-<!--
-https://glitch.com
-https://handbook.glitch.me/ | Glitch Employee Handbook
-https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
-https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
-course
-
-https://repl.it/site/blog/packager
-
-Netlify
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
-
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-https://zeit.co/blog/github
-
-* [Zeit now](https://zeit.co/now)
-* [Zeit next.js](https://github.com/zeit/next.js) 
-* [Zeit micro](https://github.com/zeit/micro)
-
-* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
-* [Zapier GitHub](https://github.com/zapier)
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
--->
-
-Svelte
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
 
 ## Trends
 
@@ -500,6 +381,124 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instruc
 Comparison of programming languages (mapping)
 -->
 
+## Languages and Frameworks
+
+Python and Django Docs
+* [Python Docs](https://docs.python.org)
+* [Django Docs](https://docs.djangoproject.com)  
+
+Languages and Frameworks (Other than Python and Django)
+* [Golang Docs](https://golang.org/doc)
+
+
+
+## High Performance Developers and Blogs
+
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites | Programming languages used in most popular websites - Wikipedia
+
+Speaker Twitter Lists
+https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
+https://twitter.com/djangocon/lists/speakers-2017
+
+https://techyaks.com/top-python-talks.html
+
+https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
+-->
+
+## Stack and Built With
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+## Useful Tools
+
+Makers
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
+
+Hawt
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Repl.it](https://repl.it)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+
+<!--
+https://glitch.com
+https://handbook.glitch.me/ | Glitch Employee Handbook
+https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
+course
+
+https://repl.it/site/blog/packager
+
+Netlify
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+https://zeit.co/blog/github
+
+* [Zeit now](https://zeit.co/now)
+* [Zeit next.js](https://github.com/zeit/next.js) 
+* [Zeit micro](https://github.com/zeit/micro)
+
+* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
+* [Zapier GitHub](https://github.com/zapier)
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+-->
+
+Svelte
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+
+<!--
+https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
+
+https://developer.apple.com/ | Apple Developer
+https://developer.apple.com/develop/ | Develop - Apple Developer
+https://developer.apple.com/swift/ | Swift - Apple Developer
+https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
+
+https://www.android.com/ | Android | The World's Most Popular Mobile Platform
+https://developer.android.com/ | Android Developers
+https://www.java.com/en/ | Java | Oracle
+
+https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
+https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
+https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
+https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
+https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
+https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
+https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
+
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+-->
+
 ## Trending
 
 Articles
@@ -580,67 +579,6 @@ Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
-## Languages and Frameworks
-
-Python and Django Docs
-* [Python Docs](https://docs.python.org)
-* [Django Docs](https://docs.djangoproject.com)  
-
-Languages and Frameworks (Other than Python and Django)
-* [Golang Docs](https://golang.org/doc)
-
-<!--
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-
-JS Testing frameworks
-https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
-https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
-
-jasmine mocha qunit
--->
-
-<!--
-Modules
-https://www.typescriptlang.org/docs/handbook/modules.html
-
-https://parceljs.org
-
-https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
-
-https://developer.apple.com/ | Apple Developer
-https://developer.apple.com/develop/ | Develop - Apple Developer
-https://developer.apple.com/swift/ | Swift - Apple Developer
-https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
-
-https://www.android.com/ | Android | The World's Most Popular Mobile Platform
-https://developer.android.com/ | Android Developers
-https://www.java.com/en/ | Java | Oracle
-
-https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
-https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
-https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
-https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
-https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
-https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
-https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
-
-https://elm-lang.org/ | Elm - A delightful language for reliable webapps
-https://guide.elm-lang.org/ | https://guide.elm-lang.org
-
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-
-https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
-https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
-https://cli.vuejs.org/
-https://vuejs.org/v2/guide/instance.html
-https://vuejs.org/v2/examples/
-https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
-
-https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
-https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
--->
-
 ## JavaScript Frameworks
 
 V8 (JavaScript Engine)
@@ -662,27 +600,15 @@ https://expressjs.com/en/starter/generator.html
 
 React and Vue
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), and [Facebook React GitHub](https://github.com/facebook/react) 
+* [React Fiber Wikipedia](https://en.wikipedia.org/wiki/React_Fiber)
 * [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 <!--
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
-https://github.com/facebook/react/wiki/Sites-Using-React | Sites Using React · facebook/react Wiki
-
-https://en.wikipedia.org/wiki/React_Fiber | React Fiber - Wikipedia
-
-* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-
-* [Expo](https://expo.io)
-
 https://reactjs.org/docs/glossary.html
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
-
-Comparison with Other Frameworks — Vue.js
-https://vuejs.org/v2/guide/comparison.html#React
-
-https://www.gatsbyjs.org | GatsbyJS
-https://github.com/gatsbyjs/gatsby
 
 https://vuex.vuejs.org/
 https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
@@ -697,17 +623,19 @@ https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html | Introd
 https://github.com/facebook/prop-types | facebook/prop-types: Runtime type checking for React props and similar objects
 -->
 
+Gatsby
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
 Create React App
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
 Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
-<!--
-https://facebook.github.io/react-native/docs/tutorial | Learn the Basics · React Native
-https://facebook.github.io/react-native/docs/debugging.html
--->
+Expo
+* [Expo](https://expo.io)
 
 JSX (Syntax Extension)
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
@@ -720,6 +648,9 @@ ESLint
 Compiling/Transpiling
 * [TypeScript](https://www.typescriptlang.org), [TypeScript Playground](http://www.typescriptlang.org/play), [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript), and [TypeScript Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
+
+Elm
+* [Elm](https://elm-lang.org/)
 
 <!--
 https://github.com/Microsoft/TypeScript-Handbook | Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language
@@ -759,6 +690,67 @@ Next
 Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
+
+JS Testing frameworks
+https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
+https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+
+jasmine mocha qunit
+
+Modules
+https://www.typescriptlang.org/docs/handbook/modules.html
+
+https://parceljs.org
+
+https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
+https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
+https://cli.vuejs.org/
+https://vuejs.org/v2/guide/instance.html
+https://vuejs.org/v2/examples/
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+
+https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
+https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
+-->
+
+<!--
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+
+https://en.wikipedia.org/wiki/HTTP_persistent_connection
+
+https://en.wikipedia.org/wiki/Webhook
+
+https://en.wikipedia.org/wiki/WebSocket
+https://en.wikipedia.org/wiki/Network_socket
+
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+-->
 
 ## Editors
 
@@ -804,7 +796,6 @@ https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
 -->
-
 
 <!--
 https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
