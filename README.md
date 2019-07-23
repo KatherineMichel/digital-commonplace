@@ -24,7 +24,7 @@ https://github.com/KatherineMichel/goals | KatherineMichel/goals: Goals
 https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
 https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
 
-Updates
+Updates examples
 http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
 https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
 https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
