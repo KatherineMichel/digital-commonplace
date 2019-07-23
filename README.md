@@ -1,8 +1,6 @@
 # The List 2019
 
 <!--
-https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
 
@@ -14,30 +12,13 @@ https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
 
 https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
-
-Updates examples
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
-https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
-https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
-https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
-https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
-
-https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
-https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
-
-https://twitter.com/veronica_hanus/status/1133091358636486657 | Veronica Hanus @ 💖HomeSweetHome💖 on Twitter: "#emoji's in a bio?!? #goals! I really like how you included the html/markdown as well! It looks like you've made bio-gathering about as pleasant as it can be!… https://t.co/c3Jwhu6MI9"
-https://noti.st/aaronbassett#map | Aaron Bassett’s presentations on Notist
-
-http://www.astrokatie.com/faq/ | FAQ — Katie Mack, Astrophysicist
-
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
 
 https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
 
 Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
 
 Debugging
 https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
@@ -100,8 +81,6 @@ https://github.com/ovh | OVH
 https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
 https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-
-https://elixir-lang.org/ | Elixir
 -->
 
 ## Priorities
@@ -124,10 +103,7 @@ JavaScript Scene
 * [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
 <!--
-https://twitter.com/jtauber/status/1150040617080090624 | James Tauber on Twitter: "I’ve hired engineers that are easily 10x better than others at some things. But the key is *some*. Others will be good at other things. That’s why you need a diverse team. Software development isn’t a unidimensional skill."
-
 https://twitter.com/andrewgodwin/status/1149875609969090565 | Andrew Godwin on Twitter: "The only "10x engineers" I know are those that are able to empower a team of ten people thanks to great documentation, good interpersonal communication, and the realisation that the best code is the standard, non-shiny code that everyone can understand and work on."
-https://twitter.com/pydanny/status/1149915265854873605 | Daniel Roy Greenfeld on Twitter: "This quote brought to the universe by a person who actually is a 10x engineer. I've seen him empower hundreds if not thousands of people, including myself… https://t.co/R5TpFeEta5"
 -->
 
 ## Trends
@@ -223,138 +199,6 @@ https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Ben
 https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
--->
-
-## Software Design Tools
-
-<!--
-http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
--->
-
-Robustness
-* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
-
-<!--
-Robustness Analysis
--->
-
-Pseudocode
-* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
-* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
-
-<!--
-https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
-https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-state machine diagram
--->
-
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
-UML Books
-* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
-* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
-
-<!--
-Three ways to use UML: sketch, blueprint, and programming language
-Most common: sketch
-Blueprints or sketch: forward-engineering or reverse-engineering direction
-"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
-
-https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
-Figure 1.3, a screen flow diagram
-
-Diagrams: page 10-13
-Table 1.1 Official Diagram Types of the UML
-Table 1.2 Decision Table
-waterfall vs. iterative
-Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
-Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
-
-Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
-
-Chapter 5
-class diagrams
-
-Chapters 6 through 8
-structure of a system: object diagrams, package diagrams, and deployment diagrams.
-
-Chapters 9 through 11 
-behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
-
-https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
--->
-
-<!--
-https://en.wikipedia.org/wiki/Platform-independent_model
-https://en.wikipedia.org/wiki/Executable_UML
-https://en.wikipedia.org/wiki/Rational_Unified_Process
-
-https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
-
-http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
--->
-
-UML Diagrams
-* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
-
-<!--
-https://twitter.com/KatiMichel/status/995797396461207553
-https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
-https://django-extensions.readthedocs.io/en/latest/graph_models.html
-http://pydotplus.readthedocs.io/
-http://www.graphviz.org/
-https://graphviz.gitlab.io/documentation/
-https://graphviz.gitlab.io/download/
--->
-
-Use Case Books
-* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
-
-TLA+
-* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
-
-
-## Software Construction Tools
-
-<!--
-https://www.dabeaz.com/tla.html | An Introduction to TLA+
--->
-
-<!--
-UML
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-
-
-https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
-
-Modeling
-* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
--->
-
-<!--
-Software patterns and paradigms
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
-
-http://www-03.ibm.com/software/products/en/rosemod
-http://www-03.ibm.com/software/products/en/enterprise
-https://en.wikipedia.org/wiki/IBM_Rational_Rose_XDE
-https://en.wikipedia.org/wiki/Rational_Software
-
-Robustness Analysis
-https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
-Robustness Diagrams: An Agile Introduction
-http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
 -->
 
 ## Programming Language Comparisons
@@ -703,6 +547,8 @@ jasmine mocha qunit
 
 Modules
 https://www.typescriptlang.org/docs/handbook/modules.html
+
+https://elixir-lang.org/ | Elixir
 
 https://parceljs.org
 
@@ -1522,147 +1368,6 @@ http://pythontesting.net/start-here/
 DjangoCon Keynote by Ana
 -->
 
-## Most Relevant Third Party Testing Tools
-
-pytest 
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
-<!--
-https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
-
-https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
-
-https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
-https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-https://pytest-cov.readthedocs.io/en/latest/ | Welcome to pytest-cov’s documentation! — pytest-cov 2.7.1 documentation
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
-
-Django Debug Toolbar
-https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn | Django Debug Panel - Chrome Web Store
-
-Python- Django- Debug Toolbar
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-
-Python- Django- Debug Panel
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
-
-https://github.com/openstack/doc8
-https://github.com/PyCQA/pydocstyle
-https://github.com/PyCQA/mccabe
-
-http://mypy-lang.org/
-
-Selenium
-* [Selenium](http://www.seleniumhq.org)
-
-https://pypi.org/project/selenium/ | selenium · PyPI
-https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
-
-https://github.com/behave/behave | behave/behave: BDD, Python style.
-https://hypothesis.readthedocs.io/en/latest/
-https://cucumber.io/ | Cucumber
-https://github.com/cucumber/gherkin-python
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
--->
-
-## Less Relevant Third Party Testing Tools
-
-PyLint
-* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
-
-Nose (Unit Test Extension)
-* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
-
-Django
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
-Pylint Django
-* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
-
-Django Nose
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-
-Python- Fabric
-* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
-
-<!--
-salt, ansible
-
-http://docs.fabfile.org/en/1.13/api/contrib/django.html
-
-https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
--->
-
-## Continuous Integration Tools
-
-Continuous Integration and Delivery
-* [CircleCI](https://circleci.com)
-* [Codecov](https://codecov.io)
-
-Tox and Nox
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
-* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
-
-Testing Tools
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
-
-Code Formatting
-* [Black GitHub](https://github.com/python/black)
-* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
-* [Black Out GitHub](https://github.com/mariatta/black_out)
-* [White GitHub](https://github.com/kennethreitz/white)
-* [Google YAPF](https://github.com/google/yapf)
-
-<!--
-Package Tools
-* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
-
-https://www.youtube.com/watch?v=-BHverY7IwU
-http://www.pyinvoke.org/
-https://github.com/pypa/pip/blob/master/tasks/generate.py
-
-pytz
-https://pypi.org/project/pytz/ | pytz · PyPI
-
-Eldarion
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
-https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
-
-https://github.com/bots-for-humanity/black-out
-
-https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
-
-https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
-https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
-https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
-https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
-https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
-https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
-
-https://coverage.readthedocs.io/en/latest/ | Coverage.py — Coverage.py 5.0a5 documentation
-https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
-
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
-
-flake8 
-noqa: E501
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
-
-https://docs.codecov.io/docs/python
-https://codecov.io/#features | Codecov
--->
-
 <!--
 Feature Toggles
 https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
@@ -2025,6 +1730,138 @@ https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 -->
 
 
+
+## Software Design Tools
+
+<!--
+http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
+-->
+
+Robustness
+* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
+
+<!--
+Robustness Analysis
+-->
+
+Pseudocode
+* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
+* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
+
+<!--
+https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
+https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+state machine diagram
+-->
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+UML Books
+* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
+* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+
+<!--
+Three ways to use UML: sketch, blueprint, and programming language
+Most common: sketch
+Blueprints or sketch: forward-engineering or reverse-engineering direction
+"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
+
+https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
+Figure 1.3, a screen flow diagram
+
+Diagrams: page 10-13
+Table 1.1 Official Diagram Types of the UML
+Table 1.2 Decision Table
+waterfall vs. iterative
+Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
+Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
+
+Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
+
+Chapter 5
+class diagrams
+
+Chapters 6 through 8
+structure of a system: object diagrams, package diagrams, and deployment diagrams.
+
+Chapters 9 through 11 
+behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
+
+https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Platform-independent_model
+https://en.wikipedia.org/wiki/Executable_UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process
+
+https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+-->
+
+UML Diagrams
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+
+<!--
+https://twitter.com/KatiMichel/status/995797396461207553
+https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+http://pydotplus.readthedocs.io/
+http://www.graphviz.org/
+https://graphviz.gitlab.io/documentation/
+https://graphviz.gitlab.io/download/
+-->
+
+Use Case Books
+* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
+
+TLA+
+* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+
+
+## Software Construction Tools
+
+<!--
+https://www.dabeaz.com/tla.html | An Introduction to TLA+
+-->
+
+<!--
+UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+
+
+https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
+
+Modeling
+* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+-->
+
+<!--
+Software patterns and paradigms
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+
+http://www-03.ibm.com/software/products/en/rosemod
+http://www-03.ibm.com/software/products/en/enterprise
+https://en.wikipedia.org/wiki/IBM_Rational_Rose_XDE
+https://en.wikipedia.org/wiki/Rational_Software
+
+Robustness Analysis
+https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
+Robustness Diagrams: An Agile Introduction
+http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
+-->
 
 ## Programming Paradigms
 
