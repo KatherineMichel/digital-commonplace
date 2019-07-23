@@ -11,14 +11,6 @@ https://treyhunner.com/2019/05/python-builtins-worth-learning/
 https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
 
 https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
-Testing
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
-https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
-
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 
 https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 
@@ -60,7 +52,16 @@ https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twi
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 
+Testing
+https://www.tutorialspoint.com/software_testing_dictionary
+https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
+https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
+https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
+
 https://twitter.com/andrewgodwin/status/1147272951118483457
+
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 
 Bazel
 https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
