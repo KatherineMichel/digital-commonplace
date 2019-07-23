@@ -289,6 +289,30 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+<!--
+Programming Language Comparisons
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (mapping)
+-->
+
 ## Trending
 
 Articles
@@ -377,6 +401,67 @@ Python and Django Docs
 
 Languages and Frameworks (Other than Python and Django)
 * [Golang Docs](https://golang.org/doc)
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
+
+JS Testing frameworks
+https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
+https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+
+jasmine mocha qunit
+-->
+
+
+Svelte
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+
+<!--
+Modules
+https://www.typescriptlang.org/docs/handbook/modules.html
+
+https://parceljs.org
+
+https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
+
+https://developer.apple.com/ | Apple Developer
+https://developer.apple.com/develop/ | Develop - Apple Developer
+https://developer.apple.com/swift/ | Swift - Apple Developer
+https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
+
+https://www.android.com/ | Android | The World's Most Popular Mobile Platform
+https://developer.android.com/ | Android Developers
+https://www.java.com/en/ | Java | Oracle
+
+https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
+https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
+https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
+https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
+https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
+https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
+https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
+
+https://elm-lang.org/ | Elm - A delightful language for reliable webapps
+https://guide.elm-lang.org/ | https://guide.elm-lang.org
+
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+
+https://nodejs.org/en/docs/guides/getting-started-guide/
+
+https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
+https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
+https://cli.vuejs.org/
+https://vuejs.org/v2/guide/instance.html
+https://vuejs.org/v2/examples/
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+
+https://es.vuejs.org/ | Vue.js
+https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
+https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
+-->
+
+## JavaScript Frameworks
 
 V8 (JavaScript Engine)
 * [V8 Dev](https://v8.dev) and [V8 Dev GitHub](https://github.com/v8/v8.dev)
@@ -495,63 +580,81 @@ Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, J
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
 
+## Editors
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
 <!--
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
+https://codewith.mu/ | Code With Mu
 
-JS Testing frameworks
-https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
-https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
 
-jasmine mocha qunit
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+-->
+
+## JavaScript
+
+<!--
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+
+https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
+https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
+
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
 -->
 
 
-Svelte
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-
 <!--
-Modules
-https://www.typescriptlang.org/docs/handbook/modules.html
+https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
 
-https://parceljs.org
 
-https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
+https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
 
-https://developer.apple.com/ | Apple Developer
-https://developer.apple.com/develop/ | Develop - Apple Developer
-https://developer.apple.com/swift/ | Swift - Apple Developer
-https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
 
-https://www.android.com/ | Android | The World's Most Popular Mobile Platform
-https://developer.android.com/ | Android Developers
-https://www.java.com/en/ | Java | Oracle
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
 
-https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
-https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
-https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
-https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
-https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
-https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
-https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
-https://elm-lang.org/ | Elm - A delightful language for reliable webapps
-https://guide.elm-lang.org/ | https://guide.elm-lang.org
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
 
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
 
-https://nodejs.org/en/docs/guides/getting-started-guide/
+https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
+https://tylermcginnis.com/courses/advanced-javascript/
 
-https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
-https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
-https://cli.vuejs.org/
-https://vuejs.org/v2/guide/instance.html
-https://vuejs.org/v2/examples/
-https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
 
-https://es.vuejs.org/ | Vue.js
-https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
-https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
+https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
+
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+
+https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
+https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 -->
 
 ## JavaScript- General
@@ -689,26 +792,6 @@ https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twi
 https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 
 https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
--->
-
-## Cutting Edge
-
-WebAssembly
-* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-
-<!--
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-
-https://www.rust-lang.org/ | Rust programming language
-https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html | Announcing Rust 1.36.0 | Rust Blog
-
-https://webassembly.org/ | WebAssembly
-https://en.wikipedia.org/wiki/WebAssembly | WebAssembly - Wikipedia
-https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
-
-WebAssembly
-https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
-https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
 -->
 
 ## Functionality of Note
@@ -849,114 +932,6 @@ https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 
 
 
-## Editors
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://codewith.mu/ | Code With Mu
-
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
--->
-
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparison Sites
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (mapping)
--->
-
-## Browser Object Model (BOM) and Document Object Model (DOM)
-
-## JavaScript
-
-<!--
-https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-
-https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
-
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
--->
-
-
-<!--
-https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
-
-
-https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
-
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-
-https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
-https://tylermcginnis.com/courses/advanced-javascript/
-
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
-
-https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
-
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
-
-https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
-https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
--->
-
-## Ajax and JSON
-
-<!--
-https://www.json.org/
--->
 
 ## Learning Resources- Priority Right now
 
@@ -965,18 +940,6 @@ Harvey Mudd
 https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
--->
-
-## Installation and Editors
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
-
-<!--
-Plugins
-
-https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
-https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
 -->
 
 <!--
