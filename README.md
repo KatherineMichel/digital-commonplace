@@ -33,29 +33,7 @@ https://en.wikipedia.org/wiki/Operational_transformation | Operational transform
 
 https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
-
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
--->
-
-<!--
-http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
-
-See also: Data Science
-https://github.com/keen/cohorts
-
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
 -->
 
 ## Priorities
@@ -116,8 +94,6 @@ https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
 https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
 
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
-https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 
 https://24hrstartup.com/ | The 24 Hour Startup Challenge
 -->
@@ -188,7 +164,9 @@ https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Sci
 
 Programming Language Comparisons
 * [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
 * [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 
 Programming Language Leveling Up and Comparison Sites
@@ -197,16 +175,6 @@ Programming Language Leveling Up and Comparison Sites
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-<!--
-Programming Language Comparisons
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (mapping)
--->
 
 ## High Performance Developers and Blogs
 
@@ -217,8 +185,6 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
-https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites | Programming languages used in most popular websites - Wikipedia
-
 Speaker Twitter Lists
 https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
 https://twitter.com/djangocon/lists/speakers-2017
@@ -229,6 +195,8 @@ https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks
 -->
 
 ## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
 
 Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
@@ -263,7 +231,6 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
-https://handbook.glitch.me/ | Glitch Employee Handbook
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
 
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
@@ -366,12 +333,7 @@ Practice
 * [HackerRank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com)
 * [100 Days of Code](http://www.100daysofcode.com)
-
-<!--
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
-https://guide.freecodecamp.org/ | freeCodeCamp Guide
-https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
--->
+* [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
 
 ## Python- Coding Practice
 
@@ -381,6 +343,11 @@ Python Challenges
 * [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
 * [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
+
+<!--
+Python projects
+https://t.co/rzvAPV1wXl | https://glitch.com/@python
+-->
 
 DataCamp
 * [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
@@ -611,6 +578,8 @@ https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-j
 ## JavaScript- General
 
 <!--
+https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
+
 * [GitHub Trending: JavaScript](https://github.com/trending/javascript)
 * [GitHub Topic: JavaScript](https://github.com/topics/javascript)
 
@@ -2750,6 +2719,8 @@ https://www.openchainproject.org/ | Home - OpenChain
 <!--
 ## Playbooks
 
+https://handbook.glitch.me/ | Glitch Employee Handbook
+
 GitLab
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
 
@@ -3461,6 +3432,8 @@ Pieter Levels
 * [Make Book](https://makebook.io)
 
 <!--
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+
 https://nomadlist.com/open | Open Startups - Nomad List
 
 https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
