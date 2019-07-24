@@ -31,9 +31,9 @@ https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on
 https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
 https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 
-https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
-
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 -->
 
 ## Priorities
@@ -249,6 +249,36 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 Svelte
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
 
+## Editors
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://codewith.mu/ | Code With Mu
+
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+-->
+
 ## Languages and Frameworks (Other than Python and Django)
 
 Object-Oriented Programming Languages
@@ -265,6 +295,16 @@ Mobile
 * [Java](https://www.java.com/en/)
 
 <!--
+Testing 
+
+* [Comparison of Unite Testing Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
+
+JS Testing frameworks
+https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
+https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+
+jasmine mocha qunit
+
 https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
 https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
 https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
@@ -294,6 +334,11 @@ Python Articles
 * [Medium Python](https://medium.com/tag/python)
 * [Mybridge Python](https://medium.mybridge.co/tagged/python)
 
+Tutorials
+* [Code Tuts+](https://code.tutsplus.com)
+* [Site Point](https://www.sitepoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+
 <!--
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
@@ -317,11 +362,6 @@ https://www.programiz.com/c-programming
 https://www.w3schools.com/python
 https://www.programiz.com/python-programming
 https://www.tutorialspoint.com/python
-
-Tutorial
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
 -->
 
 ## Coding Practice
@@ -364,6 +404,8 @@ Python vs. JavaScript
 
 ## JavaScript Frameworks
 
+* [Comparison of Web Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript)
+
 V8 (JavaScript Engine)
 * [V8 Dev](https://v8.dev) and [V8 Dev GitHub](https://github.com/v8/v8.dev)
 * [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) and [V8 GitHub](https://github.com/v8/v8)
@@ -394,6 +436,16 @@ https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Makin
 
 https://vuex.vuejs.org/
 https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
+
+https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
+https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
+https://cli.vuejs.org/
+https://vuejs.org/v2/guide/instance.html
+https://vuejs.org/v2/examples/
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+
+https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
+https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
 -->
 
 React Profiler
@@ -468,67 +520,6 @@ Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, J
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
 
-<!--
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-
-JS Testing frameworks
-https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
-https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
-
-jasmine mocha qunit
-
-https://github.com/Microsoft/TypeScript-Handbook | Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language
-https://github.com/Microsoft/TypeScript-React-Starter
-
-Modules
-https://www.typescriptlang.org/docs/handbook/modules.html
-
-https://elixir-lang.org/ | Elixir
-
-https://parceljs.org
-
-https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
-https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
-https://cli.vuejs.org/
-https://vuejs.org/v2/guide/instance.html
-https://vuejs.org/v2/examples/
-https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
-
-https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
-https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
--->
-
-## Editors
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://codewith.mu/ | Code With Mu
-
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
--->
-
 ## JavaScript
 
 <!--
@@ -577,23 +568,13 @@ https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-j
 
 ## JavaScript- General
 
-<!--
-https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
-
 * [GitHub Trending: JavaScript](https://github.com/trending/javascript)
 * [GitHub Topic: JavaScript](https://github.com/topics/javascript)
 
-https://github.com/trending/javascript?since=daily | Trending JavaScript repositories on GitHub today
-
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
--->
-
 JavaScript Articles
 * [JavaScript Scene](https://medium.com/javascript-scene)
-* [Free Code Camp JavaScript](https://medium.freecodecamp.org/tagged/javascript)
+* [Free Code Camp JavaScript](https://guide.freecodecamp.org/javascript/)
+* [Free Code Camp Medium JavaScript](https://medium.freecodecamp.org/tagged/javascript)
 * [Medium JavaScript](https://medium.com/tag/javascript)
 * [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
 
@@ -606,6 +587,13 @@ Mozilla JavaScript Tutorials
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
 * [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+
+<!--
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+-->
 
 JavaScript Styleguides
 * [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
@@ -662,29 +650,27 @@ https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom 
 
 ## JavaScript Performance
 
+Lighthouse
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
+
+Rendering
+* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+Offline
+* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+
+Measure
+* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+
+Semantics/SEO/Accessibility
+* Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
 <!--
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
-
-https://github.com/GoogleChrome/lighthouse
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-
-* Performance
-  * Rendering
-    * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
-    * [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
-    
-    * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
-
-    * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-    * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
-    
-  * Offline
-    * [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
-  * Measure
-    * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-    * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
-* Semantics / SEO / Accessibility
-  * Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 -->
 
 <!--
@@ -720,9 +706,11 @@ setTimeout, setInterval, and setImmediate (Node.js only)
 
 ## Asynchronicity
 
-* [Network Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+Sockets
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 * [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 
+TCP
 * [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
 WebSockets and Server-Sent Events
@@ -852,6 +840,15 @@ Security- General
 
 OWASP
 * [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
+* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
+
+Top Ten
+* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
+
+Types
+* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
+* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
 
 Same Origin
 * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
@@ -864,30 +861,28 @@ Mixed Content
 * [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
 
 <!--
+https://en.wikipedia.org/wiki/Computer_security_model
+https://en.wikipedia.org/wiki/Clickjacking
 https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
 
 https://en.wikipedia.org/wiki/Code_injection
 https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
-https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
 https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
 
 ## Security- General
       
 https://developers.google.com/web/fundamentals/security/
 
-https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
 https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
 https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+
 https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-
-* [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
-
-https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
 https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+
+Application Security Verification Standard
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+
 https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
 
 https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
