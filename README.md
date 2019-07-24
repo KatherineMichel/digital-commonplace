@@ -32,8 +32,6 @@ https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free
 https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
-https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 -->
 
 ## Priorities
@@ -652,6 +650,7 @@ https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom 
 
 Lighthouse
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
 Rendering
 * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
@@ -667,18 +666,13 @@ Measure
 * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
 
 Semantics/SEO/Accessibility
-* Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 <!--
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
 -->
 
 <!--
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-https://en.wikipedia.org/wiki/HTTP_persistent_connection
-
-https://en.wikipedia.org/wiki/Webhook
-
 https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 
@@ -686,25 +680,40 @@ Sockets
 https://realpython.com/python-sockets
 https://www.geeksforgeeks.org/socket-programming-python
 
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
 https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
 https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 
 Node.js
 Event-driven, asynchronous IO
 
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
 JavaScript
 Promises
 EcmaScript 2017- async and await keyword
 setTimeout, setInterval, and setImmediate (Node.js only) 
+
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 -->
 
-## Asynchronicity
+## Node, JavaScript Standards, Asynchronicity
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+## Asynchronicity- General
+
+Webhooks and Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
+* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
 Sockets
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
@@ -712,6 +721,7 @@ Sockets
 
 TCP
 * [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
 WebSockets and Server-Sent Events
 * [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
