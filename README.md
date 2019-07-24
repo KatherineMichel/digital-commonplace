@@ -4,18 +4,6 @@
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
 
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable/
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
-
-https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
-
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-
 Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
@@ -45,20 +33,10 @@ https://en.wikipedia.org/wiki/Operational_transformation | Operational transform
 
 https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
-
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 -->
 
 <!--
@@ -89,6 +67,14 @@ value effort matrix
 
 Eisenhower Matrix
 * [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 ## Engineering Management Resources
 
@@ -124,10 +110,10 @@ Product Hunt Leader Boards
 * [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
 <!-- 
+https://repl.it/leaders | Repl.it - Leaderboard
+
 https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
 https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://repl.it/leaders | Repl.it - Leaderboard
 
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 
@@ -264,17 +250,23 @@ Built With
 Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
 
-Hawt
+Hawt- Web
 * [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
 * [Repl.it](https://repl.it)
 * [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
 
+Hawt- Helpers
+* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
+* [Zapier GitHub](https://github.com/zapier)
+
+CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
-https://glitch.com
 https://handbook.glitch.me/ | Glitch Employee Handbook
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
 https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
 course
 
@@ -285,42 +277,27 @@ https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
-
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-https://zeit.co/blog/github
-
-* [Zeit now](https://zeit.co/now)
-* [Zeit next.js](https://github.com/zeit/next.js) 
-* [Zeit micro](https://github.com/zeit/micro)
-
-* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
-* [Zapier GitHub](https://github.com/zapier)
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
 -->
 
 Svelte
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
 
-<!--
-Languages and Frameworks (Other than Python and Django)
+## Languages and Frameworks (Other than Python and Django)
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+Golang
 * [Golang Docs](https://golang.org/doc)
 
-https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
+Mobile
+* [Apple Developer Docs](https://developer.apple.com/develop/)
+* [Swift Developer](https://developer.apple.com/swift/)
+* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [Android Developer](https://developer.android.com/)
+* [Java](https://www.java.com/en/)
 
-https://developer.apple.com/ | Apple Developer
-https://developer.apple.com/develop/ | Develop - Apple Developer
-https://developer.apple.com/swift/ | Swift - Apple Developer
-https://en.wikipedia.org/wiki/Objective-C | Objective-C - Wikipedia
-
-https://www.android.com/ | Android | The World's Most Popular Mobile Platform
-https://developer.android.com/ | Android Developers
-https://www.java.com/en/ | Java | Oracle
-
+<!--
 https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
 https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
 https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
@@ -357,6 +334,13 @@ https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 <!--
 Trey Hunner
 https://treyhunner.com
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable/
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
+
+https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
+
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 
 https://realpython.com
 https://www.geeksforgeeks.org/
@@ -384,13 +368,9 @@ Practice
 * [100 Days of Code](http://www.100daysofcode.com)
 
 <!--
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
 https://t.co/rzvAPV1wXl | https://glitch.com/@python
 https://guide.freecodecamp.org/ | freeCodeCamp Guide
 https://guide.freecodecamp.org/javascript/ | JavaScript | freeCodeCamp Guide
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 -->
 
 ## Python- Coding Practice
@@ -401,6 +381,9 @@ Python Challenges
 * [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
 * [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
 * [Python Morsels](https://www.pythonmorsels.com)
+
+DataCamp
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
 ## Python Versus JavaScript
 
@@ -423,12 +406,11 @@ Node
 
 Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
 
 <!--
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
-
 https://expressjs.com/en/4x/api.html | Express 4.x - API Reference
-https://expressjs.com/en/starter/generator.html
 -->
 
 React and Vue
@@ -548,41 +530,6 @@ https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
--->
-
-<!--
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP_persistent_connection
-
-https://en.wikipedia.org/wiki/Webhook
-
-https://en.wikipedia.org/wiki/WebSocket
-https://en.wikipedia.org/wiki/Network_socket
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
-https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
-
-Node.js
-Event-driven, asynchronous IO
-
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
 -->
 
 ## Editors
@@ -771,32 +718,47 @@ https://github.com/GoogleChrome/lighthouse
   * Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 -->
 
-## Google Web Fundamentals and Progressive Web Apps (PWA)
-
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
-* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
-* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
-* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
-
 <!--
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+https://en.wikipedia.org/wiki/HTTP_persistent_connection
 
-https://developers.google.com/web/showcase
+https://en.wikipedia.org/wiki/Webhook
 
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://en.wikipedia.org/wiki/Callback_(computer_programming) | Callback (computer programming) - Wikipedia
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+
+Node.js
+Event-driven, asynchronous IO
+
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
 -->
+
+## Asynchronicity
+
+* [Network Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+
+* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+
+WebSockets and Server-Sent Events
+* [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
 
 ## Functionality of Note
 
@@ -808,26 +770,34 @@ Mobile-y Kinds of Things
 * [Mozilla Web Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) 
 * [Mozilla Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
 
+Application Shell Architecture (PWA and Service Workers)
+* [Instant Loading Web Apps with an Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)
+
 Web Workers
 * [Mozilla Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
 
 Service Workers (Offline)
 * [Mozilla Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) and [Mozilla Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 * [Google Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers) and [Google The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
+* [Google Introduction to Service Worker](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker)
 
-<!--
-https://developers.google.com/web/ilt/pwa/introduction-to-service-worker
--->
-
-Application Shell Architecture (PWA and Service Workers)
-* [Instant Loading Web Apps with an Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)
-
-WebSockets and Server-Sent Events
-* [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-* [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
-
+Offline
+* [Mozilla Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+* [Mozilla IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API#database_connection)
+* [Mozilla FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
+* [Mozilla File](https://developer.mozilla.org/en-US/docs/Web/API/File)
+* [Mozilla Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+  
 Mozilla WebRTC
 * [Mozilla WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) and [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
+
+WebAssembly
+* [WebAssembly](https://webassembly.org/) and [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
+* [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+
+Rust
+* [Rust](https://www.rust-lang.org/)
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
 
 <!--
 * [Service Workers Explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
@@ -839,21 +809,13 @@ https://github.com/w3c/webauthn | w3c/webauthn: Web Authentication WG: https://w
 https://www.w3.org/TR/push-api
 https://www.w3.org/TR/notifications
 
-Offline
-* [Mozilla Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
-* [Mozilla IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API#database_connection)
-* [Mozilla FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
-* [Mozilla File](https://developer.mozilla.org/en-US/docs/Web/API/File)
-* [Mozilla Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
-  
 * Access
   * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
 
 Performance
 * [Google HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) and [Mozilla HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 
-* [Google Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-    
+* [Google Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)  
 * [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
     
 * [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
@@ -876,20 +838,51 @@ HTTP/2
   * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
 -->
 
-## Security
+<!--
+https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
+
+WebAssembly
+https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/ | Sneak Peek at WebAssembly Studio – Mozilla Hacks – the Web developer blog
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/ | Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog
+-->
+
+## Google Web Fundamentals and Progressive Web Apps (PWA)
+
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
+* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
 
 <!--
-## Security- General
-    
-https://en.wikipedia.org/wiki/Penetration_test | Penetration test - Wikipedia
-https://en.wikipedia.org/wiki/Security#Computer_security | Security - Wikipedia
-https://en.wikipedia.org/wiki/Computer_security | Computer security - Wikipedia
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
 
-https://www.owasp.org/index.php/Main_Page | OWASP
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
-https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
-https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+https://developers.google.com/web/showcase
+
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+-->
+
+## Security
+
+Security- General
+* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
+* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
+* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
+* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
+
+OWASP
+* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
 
 Same Origin
 * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
@@ -901,28 +894,40 @@ Content Security Policy (CSP)
 Mixed Content
 * [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
 
-  * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+<!--
+https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
 
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+https://en.wikipedia.org/wiki/Code_injection
+https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
+https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
 
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
+## Security- General
+      
 https://developers.google.com/web/fundamentals/security/
 
-https://github.com/OWASP
 https://github.com/OWASP/Top10/issues | Issues · OWASP/Top10
-
 https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
 https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
 https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
 
-https://www.owasp.org/index.php/Main_Page
+* [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+
+https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
 https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
 https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
 https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
-
-https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
 
 https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
 https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
@@ -930,16 +935,6 @@ https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Che
 
 https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
 https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
-    
-https://en.wikipedia.org/wiki/Code_injection
-https://en.wikipedia.org/wiki/SQL_injection | SQL injection - Wikipedia
-
-https://en.wikipedia.org/wiki/Cross-site_scripting | Cross-site scripting - Wikipedia
-
-https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
-https://en.wikipedia.org/wiki/Threat_model
 -->
 
 ## Debugging
