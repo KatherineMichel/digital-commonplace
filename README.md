@@ -247,6 +247,10 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 Svelte
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
 
+<!--
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+-->
+
 ## Editors
 
 Visual Studio Code
@@ -398,30 +402,86 @@ https://expressjs.com/en/4x/api.html | Express 4.x - API Reference
 -->
 
 React and Vue
-* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), and [Facebook React GitHub](https://github.com/facebook/react) 
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 * [React Fiber Wikipedia](https://en.wikipedia.org/wiki/React_Fiber)
 * [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 <!--
+React Components	createClass	createClass/ES6	ES6/Function
+
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
-https://reactjs.org/docs/glossary.html
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
 
-https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
-https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
-
-https://cli.vuejs.org/
 https://vuejs.org/v2/guide/instance.html
 https://vuejs.org/v2/examples/
+https://cli.vuejs.org/
 https://vuex.vuejs.org/
 https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
 
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
-https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
+-->
+
+JSX (Syntax Extension)
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
+* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+React-Router (React Stack)
+* [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
+
+Jest
+* [Jest]()
+
+Yarn
+
+ESLint
+* [ESLint](http://eslint.org)
+
+ESLint- Airbnb
+
+<!--
+Code Splitting
+Code Coverage
+-->
+
+Enzyme
+
+Redux
+* [Redux](http://redux.js.org) and [Redux GitHub](https://github.com/reactjs/redux)
+* [Redux Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
+
+<!--
+Server Side Rendering
+React Dev Tools
+Redux Dev Tools
+Redux Thunks
+Snapshot Testing
+-->
+
+Preact
+* [Preact](https://preactjs.com)
+
+<!--
+Redux Autogenereated Tests
+Hot Module Reload
+-->
+
+Prettier
+
+Flow
+* [Flow](https://flow.org), [Flow Docs](https://flow.org/en/docs), and [Flow GitHub](https://github.com/facebook/flow)
+* [Flow and React](https://flow.org/en/docs/react)
+
+<!--
+styled-components
+React Performance Optimizations
 -->
 
 Gatsby
@@ -438,14 +498,6 @@ Facebook- React Native
 Expo
 * [Expo](https://expo.io)
 
-JSX (Syntax Extension)
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
-* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-
-ESLint
-* [ESLint](http://eslint.org)
-
 Compiling/Transpiling
 * [TypeScript](https://www.typescriptlang.org), [TypeScript Playground](http://www.typescriptlang.org/play), [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript), and [TypeScript Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
@@ -453,28 +505,11 @@ Compiling/Transpiling
 Elm
 * [Elm](https://elm-lang.org/)
 
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-React-Router (React Stack)
-* [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
-
 Flux
 * [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html)
 
-Redux
-* [Redux](http://redux.js.org) and [Redux GitHub](https://github.com/reactjs/redux)
-* [Redux Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
-
-Preact
-* [Preact](https://preactjs.com)
-
 RxJS
 * [RxJS](https://rxjs.dev) and [RxJS GitHub](https://github.com/ReactiveX/rxjs)
-
-Flow
-* [Flow](https://flow.org), [Flow Docs](https://flow.org/en/docs), and [Flow GitHub](https://github.com/facebook/flow)
-* [Flow and React](https://flow.org/en/docs/react)
 
 Next
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
@@ -498,15 +533,18 @@ https://github.com/facebook/prop-types | facebook/prop-types: Runtime type check
 
 ## Testing
 
+* [SUnit Wikipedia](https://en.wikipedia.org/wiki/SUnit)
+* [xUnit Wikipedia](https://en.wikipedia.org/wiki/XUnit)
+* [JUnit](https://en.wikipedia.org/wiki/JUnit)
+
+Comparison of Unit Testing Frameworks- JavaScript
+* [Comparison of Unit Testing Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
+
 Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
 
 <!--
-Testing 
-
-* [Comparison of Unit Testing Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
-
 JS Testing frameworks
 https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
 https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
@@ -516,58 +554,10 @@ jasmine mocha qunit
 https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
 https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
 https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
-https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
-https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
+
+React and Vue
 https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
 https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
-
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
--->
-
-## JavaScript
-
-<!--
-https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-
-https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
-
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
--->
-
-<!--
-https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
-
-
-https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
-
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-
-https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
-https://tylermcginnis.com/courses/advanced-javascript/
-
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
-
-https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
-
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
-
-https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
-https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
 -->
 
 ## JavaScript- General
