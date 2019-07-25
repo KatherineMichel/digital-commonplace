@@ -274,7 +274,6 @@ https://code.visualstudio.com/docs/languages/python#_install-python-and-the-pyth
 https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 -->
 
 ## Languages and Frameworks (Other than Python and Django)
@@ -291,28 +290,6 @@ Mobile
 * [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
 * [Android Developer](https://developer.android.com/)
 * [Java](https://www.java.com/en/)
-
-<!--
-Testing 
-
-* [Comparison of Unite Testing Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
-
-JS Testing frameworks
-https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
-https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
-
-jasmine mocha qunit
-
-https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
-https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
-https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
-https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
-https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
-https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
-https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
-
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
--->
 
 ## Trending
 
@@ -432,27 +409,19 @@ https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaSc
 https://reactjs.org/docs/glossary.html
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
 
-https://vuex.vuejs.org/
-https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
-
 https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0
 https://github.com/vuejs/rfcs/pull/42#issuecomment-504963168
+
 https://cli.vuejs.org/
 https://vuejs.org/v2/guide/instance.html
 https://vuejs.org/v2/examples/
+https://vuex.vuejs.org/
+https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
+
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md | rfcs/0000-function-api.md at function-apis · vuejs/rfcs
--->
-
-React Profiler
-* [React Performance Tools](https://reactjs.org/docs/perf.html)
-
-<!--
-https://reactjs.org/docs/optimizing-performance.html#profiling-components-with-the-chrome-performance-tab
-https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html | Introducing the React Profiler – React Blog
-https://github.com/facebook/prop-types | facebook/prop-types: Runtime type checking for React props and similar objects
 -->
 
 Gatsby
@@ -487,10 +456,6 @@ Elm
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
-<!--
-https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
--->
-
 React-Router (React Stack)
 * [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
 
@@ -514,9 +479,50 @@ Flow
 Next
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
 
+## Performance
+
+React Profiler
+* [React Performance Tools](https://reactjs.org/docs/perf.html)
+
+<!--
+Performance
+
+https://web.dev/react
+https://web.dev/angular
+https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
+
+https://reactjs.org/docs/optimizing-performance.html#profiling-components-with-the-chrome-performance-tab
+https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html | Introducing the React Profiler – React Blog
+https://github.com/facebook/prop-types | facebook/prop-types: Runtime type checking for React props and similar objects
+-->
+
+## Testing
+
 Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
 * [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
+
+<!--
+Testing 
+
+* [Comparison of Unit Testing Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
+
+JS Testing frameworks
+https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
+https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
+
+jasmine mocha qunit
+
+https://developer.android.com/training/testing/fundamentals | Fundamentals of Testing  |  Android Developers
+https://developer.android.com/training/testing/unit-testing | Build effective unit tests  |  Android Developers
+https://developer.android.com/training/testing/unit-testing/local-unit-tests | Build local unit tests  |  Android Developers
+https://en.wikipedia.org/wiki/XUnit | xUnit - Wikipedia
+https://en.wikipedia.org/wiki/JUnit | JUnit - Wikipedia
+https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
+https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
+
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+-->
 
 ## JavaScript
 
@@ -684,21 +690,37 @@ https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
 https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
 https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
 https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
 
 Node.js
 Event-driven, asynchronous IO
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop
+https://en.wikipedia.org/wiki/Asynchronous_I/O
 
-https://www.quora.com/Which-programming-languages-are-asynchronous | (4) Which programming languages are asynchronous? - Quora
+https://www.quora.com/Which-programming-languages-are-asynchronous
 JavaScript
 Promises
 EcmaScript 2017- async and await keyword
 setTimeout, setInterval, and setImmediate (Node.js only) 
-
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+https://nodejs.org/api/timers.html
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
+https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
 -->
 
-## Node, JavaScript Standards, Asynchronicity
+## ECMAScript, JavaScript Standards, Node, Asynchronicity
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+Node: CommonJS
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
 
 <!--
 https://flaviocopes.com/node-difference-browser/
@@ -709,15 +731,52 @@ https://flaviocopes.com/es-modules/
 Mozilla docs are ECMAScript Standard
 -->
 
+<!--
+https://nodejs.org/en/docs/es6
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standard/standard
+-->
+
 ## Asynchronicity- General
 
-Webhooks and Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
-* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
-* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
+<!--
+chat protocols, IoT protocols
+https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
+https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
+
+https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+https://en.wikipedia.org/wiki/Push_technology
+
+Real time
+Websockets, SSE, long polling
+https://en.wikipedia.org/wiki/Server-sent_events
+non-blocking http requests
+light-weight parallelization
+explicit i/o
+-->
 
 Sockets
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 * [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+
+Webhooks and Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
+* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
 TCP
 * [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
