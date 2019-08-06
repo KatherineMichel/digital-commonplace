@@ -487,6 +487,12 @@ React Performance Optimizations
 Gatsby
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 
+<!--
+JAMstack
+https://github.com/hammerframework/hammer
+https://twitter.com/mojombo/status/1156561637450457089
+-->
+
 Create React App
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
