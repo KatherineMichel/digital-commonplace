@@ -329,9 +329,6 @@ https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 <!--
 Trey Hunner
 https://treyhunner.com
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable/
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2019/06/loop-better-a-deeper-look-at-iteration-in-python | Loop Better: a deeper look at iteration in Python - Trey Hunner
 
 https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
 
