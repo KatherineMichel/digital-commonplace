@@ -1514,6 +1514,10 @@ Use Case Books
 TLA+
 * [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
 
+<!--
+https://conf.tlapl.us/home/
+https://lamport.azurewebsites.net/tla/toolbox.html
+-->
 
 ## Software Construction Tools
 
