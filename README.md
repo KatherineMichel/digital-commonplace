@@ -409,6 +409,8 @@ React and Vue
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 <!--
+http://vueconf.us/
+
 React Components	createClass	createClass/ES6	ES6/Function
 
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
