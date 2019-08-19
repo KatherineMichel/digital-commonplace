@@ -1,6 +1,14 @@
 # The List 2019
 
 <!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+
+https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
+https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
+https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
+https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
+
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
 
