@@ -323,6 +323,8 @@ Tutorials
 * [Tutorials Point](https://www.tutorialspoint.com)
 
 <!--
+https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c | Learn Python from Top 50 Articles for the Past Year (v.2019)
+
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
 
