@@ -384,10 +384,48 @@ Python vs. JavaScript
 
 ## JavaScript Frameworks
 
+<!--
+https://github.com/standard | Standard JS
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+Stacks
+
+JAMstack
+https://github.com/hammerframework/hammer
+https://twitter.com/mojombo/status/1156561637450457089
+https://jamstack.org/
+Mern Stack
+MEAN
+https://en.wikipedia.org/wiki/MEAN_(software_bundle) | MEAN (software bundle) - Wikipedia
+https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
+
+Eric Elliott
+https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0 | 
+https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f | Rethinking Unit Test Assertions - JavaScript Scene - Medium
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way - JavaScript Scene - Medium
+
+https://twitter.com/js_tut/status/1141698543712972801 | JavaScript Teacher on Twitter: "console.log("good morning"); vanilla #JavaScript let morning:good = true; #TypeScript $(good).morning(); #jQuery <GoodMorning /> #ReactJS <p v-good="morning"> #VueJS { good { morning } } #GraphQL print "good morning" #Python echo "good morning"; #PHP Good morning. #Human"
+https://twitter.com/js_tut/status/1141838103763701760 | JavaScript Teacher on Twitter: "If you've never spoken JavaScript, here's a good start: 1. class / import / new 2. () => {} arrow functions 3. understanding === operator 4. Learn Array.* higher-order functions (.filter, .map & .reduce) 5. async / await 6. import / export 7. [] is iterable 8. {} is enumerable"
+https://twitter.com/_ericelliott/status/1141405592294219782 | Eric Elliott on Twitter: "Every JS app developer needs to know: -FP basics: pure functions, curry, function composition -objects: composition vs inheritance -async patterns: callbacks, promises, events, streams"
+https://twitter.com/rwieruch/status/1150796165702660096 | Robin Wieruch on Twitter: "Enough JavaScript to learn React 👇🏽 ✅ Classes ✅ Arrow Functions ✅ Template Literals ✅ Map, Filter, Reduce ✅ Conditionals ✅ Import/Export ✅ Libraries ✅ Async/Await ✅ Higher-Order Functions and much more. Revamped from last year 🎉 https://t.co/rB9ouzYrzj"
+
+https://v8.dev/docs/source-code
+https://v8.dev/blog/cost-of-javascript-2019 | The cost of JavaScript in 2019 · V8
+https://v8.dev/features/stable-sort | Stable Array.prototype.sort · V8
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals | SpiderMonkey Internals - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Bytecodes | Bytecodes - Mozilla | MDN
+https://www.chromium.org/ | The Chromium Projects
+https://www.geeksforgeeks.org/implementation-stack-javascript/ | Implementation of Stack in JavaScript - GeeksforGeeks
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
+-->
+
 * [Comparison of Web Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript)
 
 V8 (JavaScript Engine)
-* [V8 Dev](https://v8.dev) and [V8 Dev GitHub](https://github.com/v8/v8.dev)
+* [V8 Dev](https://v8.dev), [V8 Dev Docs](https://v8.dev/docs), and [V8 Dev GitHub](https://github.com/v8/v8.dev)
 * [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) and [V8 GitHub](https://github.com/v8/v8)
 
 Node
@@ -409,6 +447,10 @@ React and Vue
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 <!--
+https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
+
+https://reactjs.org/docs/getting-started.html | Getting Started – React
+
 http://vueconf.us/
 
 React Components	createClass	createClass/ES6	ES6/Function
@@ -417,6 +459,8 @@ https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaSc
 
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
 
+https://scrimba.com/playlist/pXKqta | Vue.js Tutorials From The Official Vue Docs - Scrimba Playlist
+https://www.tutorialspoint.com/vuejs/vuejs_instances.htm | VueJS Instances
 https://vuejs.org/v2/guide/instance.html
 https://vuejs.org/v2/examples/
 https://cli.vuejs.org/
@@ -489,12 +533,6 @@ React Performance Optimizations
 
 Gatsby
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-
-<!--
-JAMstack
-https://github.com/hammerframework/hammer
-https://twitter.com/mojombo/status/1156561637450457089
--->
 
 Create React App
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
