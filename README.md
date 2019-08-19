@@ -406,6 +406,21 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-func
 https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f | Rethinking Unit Test Assertions - JavaScript Scene - Medium
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way - JavaScript Scene - Medium
 
+JS Scene and Free Code Camp
+https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7 | Fundamental design principles for non-designers – freeCodeCamp.org
+https://medium.freecodecamp.org/data-structures-101-graphs-a-visual-introduction-for-beginners-6d88f36ec768 | Data Structures 101: Graphs — A Visual Introduction for Beginners
+https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell – JavaScript Scene – Medium
+https://medium.freecodecamp.org/how-i-built-an-app-with-vulcan-js-in-four-days-6368814077b1 | How I built an app with Vulcan.js in four days – freeCodeCamp.org
+https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b | How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter
+https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2 | Node.js: what it is, when and how to use it, and why 
+you should
+https://t.co/NNCadAt0ZY | https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
+https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e | The Definitive JavaScript Handbook for your next developer interview
+https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528 | Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code
+https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda | How to improve your asynchronous Javascript code with async and await
+https://medium.freecodecamp.org/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3 | A definitive guide to conditional logic in JavaScript
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e | 10 Priceless Resources for JavaScript Learners – JavaScript Scene – Medium
+
 https://twitter.com/js_tut/status/1141698543712972801 | JavaScript Teacher on Twitter: "console.log("good morning"); vanilla #JavaScript let morning:good = true; #TypeScript $(good).morning(); #jQuery <GoodMorning /> #ReactJS <p v-good="morning"> #VueJS { good { morning } } #GraphQL print "good morning" #Python echo "good morning"; #PHP Good morning. #Human"
 https://twitter.com/js_tut/status/1141838103763701760 | JavaScript Teacher on Twitter: "If you've never spoken JavaScript, here's a good start: 1. class / import / new 2. () => {} arrow functions 3. understanding === operator 4. Learn Array.* higher-order functions (.filter, .map & .reduce) 5. async / await 6. import / export 7. [] is iterable 8. {} is enumerable"
 https://twitter.com/_ericelliott/status/1141405592294219782 | Eric Elliott on Twitter: "Every JS app developer needs to know: -FP basics: pure functions, curry, function composition -objects: composition vs inheritance -async patterns: callbacks, promises, events, streams"
