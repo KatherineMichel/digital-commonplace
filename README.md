@@ -182,24 +182,6 @@ Programming Language Leveling Up and Comparison Sites
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
-## High Performance Developers and Blogs
-
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-Speaker Twitter Lists
-https://twitter.com/europython/lists/europython-2018-speakers | @europython/EuroPython 2018 Speakers on Twitter
-https://twitter.com/djangocon/lists/speakers-2017
-
-https://techyaks.com/top-python-talks.html
-
-https://github.com/jhermann/awesome-python-talks | jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.
--->
-
 ## Stack and Built With
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
@@ -311,86 +293,6 @@ Mobile
 
 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
-## Python Forums and Articles
-
-Python Trending, Topics, Forums
-* [GitHub Trending: Python](https://github.com/trending/python)
-* [GitHub Topic: Python](https://github.com/topics/python)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
-
-Python Articles
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-* [Mybridge Python](https://medium.mybridge.co/tagged/python)
-
-Tutorials
-* [Code Tuts+](https://code.tutsplus.com)
-* [Site Point](https://www.sitepoint.com)
-* [Tutorials Point](https://www.tutorialspoint.com)
-
-<!--
-https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c | Learn Python from Top 50 Articles for the Past Year (v.2019)
-
-https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
--->
-
-<!--
-Trey Hunner
-https://treyhunner.com
-
-https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
-
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
-
-https://realpython.com
-https://www.geeksforgeeks.org/
-https://www.programiz.com
-https://www.programiz.com/c-programming
-
-https://www.w3schools.com/python
-https://www.programiz.com/python-programming
-https://www.tutorialspoint.com/python
--->
-
-## Coding Practice
-
-Math/Programming Problems and Projects
-* [Project Euler Problems](http://projecteuler.net/problems) 
-
-Practice
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-* [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
-
-## Python- Coding Practice
-
-Python Challenges
-* [Exercism Python](https://exercism.io/tracks/python)
-* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
-* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
-* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
-* [Python Morsels](https://www.pythonmorsels.com)
-
-<!--
-Python projects
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
--->
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
-
-## Python Versus JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 ## JavaScript Frameworks
 
