@@ -2349,6 +2349,11 @@ GitHub- Notable Features
 * [GitHub Actions](https://github.com/features/actions)
 * [GitHub Package Registry](https://github.com/features/package-registry)
 
+<!--
+https://twitter.com/natfriedman/status/1159511728704483329
+https://twitter.com/kelseyhightower/status/1159517721068916736
+-->
+
 GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
 
