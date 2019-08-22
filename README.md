@@ -22,12 +22,6 @@ https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twi
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 
-Testing
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
-https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
-
 https://twitter.com/andrewgodwin/status/1147272951118483457
 
 Bazel
@@ -40,6 +34,19 @@ https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free
 https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+https://elixir-lang.org/ | Elixir
 -->
 
 ## Priorities
@@ -953,6 +960,14 @@ Unit Testing
 TDD and BDD
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+
+<!--
+Testing
+https://www.tutorialspoint.com/software_testing_dictionary
+https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
+https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
+https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
+-->
 
 ## Other Types of Testing
 
