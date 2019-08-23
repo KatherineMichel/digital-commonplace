@@ -80,6 +80,9 @@ Scaling Engineering
 10x Engineer
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
 ## Trends
 
 Look at Daily
@@ -2170,9 +2173,6 @@ CodePen
 ## People and Case Studies
 
 <!--
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
 https://awards.acm.org/about/2017-technical-awards | 2017 Technical Awards
 
 https://www.top500.org/ | Home | TOP500 Supercomputer Sites
