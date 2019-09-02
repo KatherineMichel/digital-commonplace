@@ -3197,6 +3197,10 @@ Personal MBA
 * [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
 * [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
 
+<!--
+https://twitter.com/naval/status/1129483486081966080 | Naval on Twitter: "https://t.co/xcRc8wegWX"
+-->
+
 Tim Ferris Blueprints
 * ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
 * ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
