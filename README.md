@@ -1,6 +1,38 @@
 # The List 2019
 
 <!--
+https://masonegger.com/talks/ci-docs/ | Building Docs like Code: Continuous Integration for Documentation | Mason Egger
+https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+https://hynek.me/talks/python-foss/ | Maintaining a Python Project When It’s Not Your Job · Homepage of Hynek Schlawack
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job | Maintaining a Python Project When It’s Not Your Job - Speaker Deck
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
+https://pypi.org/project/attrs/ | attrs · PyPI
+
+WASM
+emscripten
+https://webassembly.studio/ | WebAssembly Studio
+
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+Important!
+https://google.github.io/eng-practices/review/reviewer/ | How to do a code review | eng-practices
+https://github.com/google/eng-practices | google/eng-practices: Google's Engineering Practices documentation
+https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
+https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+Bazel
+https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+
 Important!
 https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
 https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
@@ -26,12 +58,7 @@ https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twi
 https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-
 https://twitter.com/andrewgodwin/status/1147272951118483457
-
-Bazel
-https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
 
 https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
@@ -87,6 +114,468 @@ Scaling Engineering
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+## Open Source Guides
+
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+
+Mozilla Metrics
+* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
+* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
+* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
+* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
+
+Maturity Models
+* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
+
+<!--
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
+
+https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
+
+https://wiki.linuxfoundation.org/chaoss/
+https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
+https://martinfowler.com/bliki/MaturityModel.html
+
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+-->
+
+## Hosting, GitLab, and GitHub
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+
+* [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab- Notable Features
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitHub
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Package Registry](https://github.com/features/package-registry)
+
+<!--
+https://twitter.com/natfriedman/status/1159511728704483329
+https://twitter.com/kelseyhightower/status/1159517721068916736
+-->
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
+<!--
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
+
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+
+https://about.gitlab.com/
+
+GitLab Docs- Overview
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+
+GitLab General
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://docs.gitlab.com/ee/install/README.html
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
+https://developer.atlassian.com
+
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/devops | What is DevOps? | Atlassian
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+-->
+
+
+GitHub
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
+
+GitHub Web Hooks
+* [Service Hooks GitHub](https://github.com/github/github-services)   
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+OS and Software Practices by Company
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
+* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
+* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
+* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
+* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
+* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
+
+<!--
+https://github.com/erikbern/git-of-theseus
+
+https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
+https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
+
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://live-stream.github.com/ | GitHub Live Events
+
+https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
+
+Sponsors
+https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
+https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
+https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
+https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
+https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
+https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
+https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
+https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
+
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+
+Packages
+https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
+https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
+https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-enterprise/
+
+* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://github.com/blog/2123-more-code-review-tools
+https://github.com/marketplace/category/code-review
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
+https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
+https://github.com/actions | GitHub Actions
+
+https://github.community/| Home - GitHub Community Forum
+https://hub.github.com/ | hub · the command-line wrapper for git
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://github.com/primer | Primer
+
+https://developer.github.com/apps
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v4/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+
+https://github.com/blog/2226-build-an-integration-for-github
+https://developer.github.com/integrations-directory/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
+
+https://github.com/github/github-services/tree/master/docs
+
+https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+
+https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
+
+Facebook Open Source
+https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
+https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
+
+## Open Source Software
+
+<!--
+https://dependabot.com/ | Dependabot
+
+https://www.linuxfoundation.org/
+https://www.apache.org/foundation/
+https://foundation.mozilla.org/en/
+https://foundation.nodejs.org/
+https://opensource.org/
+
+Diversity Study
+https://www.atlassian.com
+https://www.atlassian.com/diversity/survey/2018 | 2018 State of Diversity Report | Atlassian
+https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c | Diversity fatigue is real: Atlassian's State of Diversity Report 2018
+
+https://medium.com/@nodejs/take-our-node-js-2018-user-survey-965011560edb | Take Our Node.js 2018 User Survey! – Node.js Foundation – Medium
+Node
+https://foundation.nodejs.org/about/leadership
+https://github.com/nodejs/board | nodejs/board: The Node Foundation Board of Directors
+https://www.slideshare.net/NodejsFoundation | Nodejsfoundation presentations
+
+https://github.com/nodejs/TSC/issues/179 | Result of Request to migrate Inclusivity Working Group responsibilities to the Node.js Foundation and TSC · Issue #179 · nodejs/TSC
+https://github.com/nodejs/summit/ | nodejs/summit: Organizing a Collaborator Summit
+https://github.com/nodejs/summit/issues/35 | Collaboration Summit at Node Interactive Austin · Issue #35 · nodejs/summit
+https://github.com/nodejs/community-committee | nodejs/community-committee: The Node.js Foundation Community Committee (aka CommComm)
+https://en.wikipedia.org/wiki/Capacity_building | Capacity building - Wikipedia
+https://blog.npmjs.org/post/164575965335/values-inclusion-and-the-nodejs-foundation | The npm Blog — Values, Inclusion, and the Node.js Foundation
+https://github.com/nodejs/board/blob/38a7a3065613e04a259c23ea02bb6e787d9ea839/minutes/2016-09-15.md | board/2016-09-15.md at 38a7a3065613e04a259c23ea02bb6e787d9ea839 · nodejs/board
+Node.js Foundation’s membership levels - Google Search
+https://github.com/nodejs/outreach | nodejs/outreach: A Node.js community growth and support initiative
+
+http://www.devtalk.tv/keynote-the-road-forward-by-tracy-hinds-nodejs-foundation_a01f763e9.html | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation
+https://www.youtube.com/watch?v=pyEQRjU1SZQ | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation - YouTube
+http://www.devtalk.tv/keynote-contributing-to-nodejs-coding-not-required-by-william-kapke-kap-co-llc_fd62a5d2f.html | KEYNOTE: Contributing to Node.js: Coding Not Required by William Kapke, Kap Co, LLC
+
+https://chaoss.community/chaosscon-2018-na/ | CHAOSScon-2018-NA - CHAOSS
+https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/ | Open Source Summit 2018 - Linux Foundation Events
+https://www.youtube.com/playlist?list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth | Open Source Summit North America 2017 - YouTube
+https://ossna2017.sched.com/event/BJ4v/time-for-action-innovating-for-di-in-open-source-communities-emma-irwin-larissa-shapiro-mozilla | Open Source Summit North America 2017: Time for Action - Innovating for D&I in...
+
+Mozilla
+https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e | A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities
+https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy#Long_Term_Vision | Diversity and Inclusion Strategy - MozillaWiki
+https://wiki.mozilla.org/Diversity_and_Inclusion_for_Communities_and_Contributors/DI_Call_08_01_2018 | Diversity and Inclusion for Communities and Contributors/DI Call 08 01 2018 - MozillaWiki
+https://github.com/mozilla/diversity | mozilla/diversity: Our repository for Diversity & Inclusion work at Mozilla
+https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
+https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
+https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425 | We See You! Reaching Diverse Audiences in FOSS – Mozilla Open Innovation – Medium
+https://discourse.mozilla.org/t/diversity-inclusion-in-open-source-survey/23733 | Diversity & Inclusion in Open Source - Survey - Mozillians - Mozilla Discourse
+https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html | Increasing Rust’s Reach - The Rust Programming Language Blog
+https://medium.com/mozilla-open-innovation | Mozilla Open Innovation – Medium
+https://twitter.com/aschapi/status/987106493618044928 | Amy Schapiro on Twitter: "The state of diversity and inclusion at @mozilla is now available: Mozilla Corporation: https://t.co/XZK5uDv7Pp Mozilla Foundation: https://t.co/81cBZck2rP"
+https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
+Mozilla open leaders programme - Google Search
+https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
+https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
+
+https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
+https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
+
+
+NumFOCUS
+https://numfocus.org/blog/discover-cookbook | Diverse & Inclusive Events and Conferences Cookbook — #DISCunconf
+https://github.com/numfocus/DISCOVER-Cookbook | numfocus/DISCOVER-Cookbook: The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
+https://github.com/numfocus/diversity-and-inclusion-conversation-kit | numfocus/diversity-and-inclusion-conversation-kit: Quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
+
+Disc
+https://numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/ | Page not found - NumFOCUS
+https://numfocus.org/blog/diversity-and-metrics-in-software-communities-notes-from-the-disc-unconference | Diversity and Metrics in Software Communities — Notes from the DISC Unconference - NumFOCUS
+https://numfocus.org/blog/starting-di-conversations-work-notes-disc-unconference | Starting D&I Conversations at Work — Notes from the DISC Unconference - NumFOCUS
+
+https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
+
+https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
+https://www.openchainproject.org/ | Home - OpenChain
+-->
+
+<!--
+## Playbooks
+
+https://handbook.glitch.me/ | Glitch Employee Handbook
+
+GitLab
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
+
+## Digital Agencies and Code Philosophies
+## Open Companies
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+https://github.com/Paperwell?tab=repositories
+https://github.com/danluu/post-mortems
+
+https://github.com/nmsanchez?tab=repositories
+
+https://afonsopacifer.github.io/open-source-checklist/
+https://github.com/18F/bpa-identity-management
+https://github.com/bocoup/opendesignkit
+
+https://github.com/zincmade/employee-handbook
+https://github.com/rosarior/Code-of-Merit
+https://github.com/FormidableLabs/formidable-playbook
+https://github.com/goinvo/InvoPlaybook
+https://github.com/18F/partnership-playbook
+https://github.com/sprintly/sprint.ly-culture
+https://github.com/bonusly/un-handbook
+https://corner.squareup.com/2016/02/womeng-handbook-launch.html
+https://github.com/digitalocean/engineering-code-of-conduct
+
+https://github.com/Prismatic/eng-practices
+
+https://github.com/opengovfoundation/hr-manual
+-->
+
+<!--
+https://code.gov/#/policy-guide/docs/compliance/measuring-code
+https://github.com/isobar-idev/code-standards
+http://isobar-idev.github.io/code-standards
+
+https://github.com/babel/babel.github.io/issues
+
+https://github.com/DockYard/styleguides
+http://kafka.apache.org/coding-guide.html
+
+http://accessibility.voxmedia.com/
+https://github.com/voxmedia/accessibility
+https://www.w3.org/TR/WCAG/
+https://github.com/ascott1/accessibility-policy
+https://github.com/ascott1/ethical-web-dev
+https://ethicalweb.org/
+
+http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
+
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+
+http://jtleek.com/modules/01_DataScientistToolbox
+
+http://schacon.github.io/git/user-manual
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+-->
+
+<!--
+## Website Project Management
+See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
+
+https://github.com/red-hat-people-team | Red Hat People team
+
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/guides
+
+https://github.com/thoughtbot/guides/tree/master/protocol
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+
+https://github.com/hypenotic/hypelabs
+
+https://www.thoughtworks.com/
+https://robots.thoughtbot.com/running-acceptance-with-review-apps
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+-->
 
 ## Trends
 
@@ -2226,468 +2715,6 @@ https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Devel
 https://about.gitlab.com/developer-survey/
 https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
 http://stateofjs.com/2016/frontend/ | Front-End Frameworks
--->
-
-## Open Source Guides
-
-GitHub Open Source Guide
-* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-
-Mozilla Metrics
-* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
-* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
-* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
-* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
-
-Maturity Models
-* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
-* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
-
-<!--
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
-
-https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
-
-https://wiki.linuxfoundation.org/chaoss/
-https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
-https://martinfowler.com/bliki/MaturityModel.html
-
-https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
-
-http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
--->
-
-## Hosting, GitLab, and GitHub
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-
-* [GitLab Docs](http://docs.gitlab.com)
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitLab- Notable Features
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitHub
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-* [GitHub Package Registry](https://github.com/features/package-registry)
-
-<!--
-https://twitter.com/natfriedman/status/1159511728704483329
-https://twitter.com/kelseyhightower/status/1159517721068916736
--->
-
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-
-<!--
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
-
-https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
-https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
-
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-
-https://about.gitlab.com/
-
-GitLab Docs- Overview
-https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
-
-GitLab General
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://docs.gitlab.com/ee/install/README.html
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-
-https://developer.atlassian.com
-
-https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
-
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/devops | What is DevOps? | Atlassian
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
--->
-
-
-GitHub
-* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
-
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
-
-GitHub Web Hooks
-* [Service Hooks GitHub](https://github.com/github/github-services)   
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-OS and Software Practices by Company
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
-* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
-* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
-* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
-* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
-* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
-* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
-
-<!--
-https://github.com/erikbern/git-of-theseus
-
-https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
-https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
-
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2401-the-github-diversity-report	
-
-https://live-stream.github.com/ | GitHub Live Events
-
-https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
-
-Sponsors
-https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
-https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
-https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
-https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
-https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
-https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
-https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
-https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
-
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
-
-Packages
-https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
-
-https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
-https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-enterprise/
-
-* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
-
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-https://github.com/blog/2123-more-code-review-tools
-https://github.com/marketplace/category/code-review
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
-https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
-https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
-
-https://github.com/actions | GitHub Actions
-
-https://github.community/| Home - GitHub Community Forum
-https://hub.github.com/ | hub · the command-line wrapper for git
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://github.com/primer | Primer
-
-https://developer.github.com/apps
-
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v4/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
-
-https://github.com/blog/2226-build-an-integration-for-github
-https://developer.github.com/integrations-directory/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
-
-https://github.com/github/github-services/tree/master/docs
-
-https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-
-https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
-
-Facebook Open Source
-https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
-https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
-
-## Open Source Software
-
-<!--
-https://dependabot.com/ | Dependabot
-
-https://www.linuxfoundation.org/
-https://www.apache.org/foundation/
-https://foundation.mozilla.org/en/
-https://foundation.nodejs.org/
-https://opensource.org/
-
-Diversity Study
-https://www.atlassian.com
-https://www.atlassian.com/diversity/survey/2018 | 2018 State of Diversity Report | Atlassian
-https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c | Diversity fatigue is real: Atlassian's State of Diversity Report 2018
-
-https://medium.com/@nodejs/take-our-node-js-2018-user-survey-965011560edb | Take Our Node.js 2018 User Survey! – Node.js Foundation – Medium
-Node
-https://foundation.nodejs.org/about/leadership
-https://github.com/nodejs/board | nodejs/board: The Node Foundation Board of Directors
-https://www.slideshare.net/NodejsFoundation | Nodejsfoundation presentations
-
-https://github.com/nodejs/TSC/issues/179 | Result of Request to migrate Inclusivity Working Group responsibilities to the Node.js Foundation and TSC · Issue #179 · nodejs/TSC
-https://github.com/nodejs/summit/ | nodejs/summit: Organizing a Collaborator Summit
-https://github.com/nodejs/summit/issues/35 | Collaboration Summit at Node Interactive Austin · Issue #35 · nodejs/summit
-https://github.com/nodejs/community-committee | nodejs/community-committee: The Node.js Foundation Community Committee (aka CommComm)
-https://en.wikipedia.org/wiki/Capacity_building | Capacity building - Wikipedia
-https://blog.npmjs.org/post/164575965335/values-inclusion-and-the-nodejs-foundation | The npm Blog — Values, Inclusion, and the Node.js Foundation
-https://github.com/nodejs/board/blob/38a7a3065613e04a259c23ea02bb6e787d9ea839/minutes/2016-09-15.md | board/2016-09-15.md at 38a7a3065613e04a259c23ea02bb6e787d9ea839 · nodejs/board
-Node.js Foundation’s membership levels - Google Search
-https://github.com/nodejs/outreach | nodejs/outreach: A Node.js community growth and support initiative
-
-http://www.devtalk.tv/keynote-the-road-forward-by-tracy-hinds-nodejs-foundation_a01f763e9.html | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation
-https://www.youtube.com/watch?v=pyEQRjU1SZQ | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation - YouTube
-http://www.devtalk.tv/keynote-contributing-to-nodejs-coding-not-required-by-william-kapke-kap-co-llc_fd62a5d2f.html | KEYNOTE: Contributing to Node.js: Coding Not Required by William Kapke, Kap Co, LLC
-
-https://chaoss.community/chaosscon-2018-na/ | CHAOSScon-2018-NA - CHAOSS
-https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/ | Open Source Summit 2018 - Linux Foundation Events
-https://www.youtube.com/playlist?list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth | Open Source Summit North America 2017 - YouTube
-https://ossna2017.sched.com/event/BJ4v/time-for-action-innovating-for-di-in-open-source-communities-emma-irwin-larissa-shapiro-mozilla | Open Source Summit North America 2017: Time for Action - Innovating for D&I in...
-
-Mozilla
-https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e | A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities
-https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy#Long_Term_Vision | Diversity and Inclusion Strategy - MozillaWiki
-https://wiki.mozilla.org/Diversity_and_Inclusion_for_Communities_and_Contributors/DI_Call_08_01_2018 | Diversity and Inclusion for Communities and Contributors/DI Call 08 01 2018 - MozillaWiki
-https://github.com/mozilla/diversity | mozilla/diversity: Our repository for Diversity & Inclusion work at Mozilla
-https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
-https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
-https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425 | We See You! Reaching Diverse Audiences in FOSS – Mozilla Open Innovation – Medium
-https://discourse.mozilla.org/t/diversity-inclusion-in-open-source-survey/23733 | Diversity & Inclusion in Open Source - Survey - Mozillians - Mozilla Discourse
-https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html | Increasing Rust’s Reach - The Rust Programming Language Blog
-https://medium.com/mozilla-open-innovation | Mozilla Open Innovation – Medium
-https://twitter.com/aschapi/status/987106493618044928 | Amy Schapiro on Twitter: "The state of diversity and inclusion at @mozilla is now available: Mozilla Corporation: https://t.co/XZK5uDv7Pp Mozilla Foundation: https://t.co/81cBZck2rP"
-https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
-Mozilla open leaders programme - Google Search
-https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
-https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
-
-https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
-https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
-
-
-NumFOCUS
-https://numfocus.org/blog/discover-cookbook | Diverse & Inclusive Events and Conferences Cookbook — #DISCunconf
-https://github.com/numfocus/DISCOVER-Cookbook | numfocus/DISCOVER-Cookbook: The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
-https://github.com/numfocus/diversity-and-inclusion-conversation-kit | numfocus/diversity-and-inclusion-conversation-kit: Quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
-
-Disc
-https://numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/ | Page not found - NumFOCUS
-https://numfocus.org/blog/diversity-and-metrics-in-software-communities-notes-from-the-disc-unconference | Diversity and Metrics in Software Communities — Notes from the DISC Unconference - NumFOCUS
-https://numfocus.org/blog/starting-di-conversations-work-notes-disc-unconference | Starting D&I Conversations at Work — Notes from the DISC Unconference - NumFOCUS
-
-https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
-
-https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
-https://www.openchainproject.org/ | Home - OpenChain
--->
-
-<!--
-## Playbooks
-
-https://handbook.glitch.me/ | Glitch Employee Handbook
-
-GitLab
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
-
-## Digital Agencies and Code Philosophies
-## Open Companies
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
-https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
-
-http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
-https://www.subscribewithamazon.com
-https://www.amazon.jobs/principles
-https://github.com/basecamp/handbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
-
-https://github.com/Paperwell?tab=repositories
-https://github.com/danluu/post-mortems
-
-https://github.com/nmsanchez?tab=repositories
-
-https://afonsopacifer.github.io/open-source-checklist/
-https://github.com/18F/bpa-identity-management
-https://github.com/bocoup/opendesignkit
-
-https://github.com/zincmade/employee-handbook
-https://github.com/rosarior/Code-of-Merit
-https://github.com/FormidableLabs/formidable-playbook
-https://github.com/goinvo/InvoPlaybook
-https://github.com/18F/partnership-playbook
-https://github.com/sprintly/sprint.ly-culture
-https://github.com/bonusly/un-handbook
-https://corner.squareup.com/2016/02/womeng-handbook-launch.html
-https://github.com/digitalocean/engineering-code-of-conduct
-
-https://github.com/Prismatic/eng-practices
-
-https://github.com/opengovfoundation/hr-manual
--->
-
-<!--
-https://code.gov/#/policy-guide/docs/compliance/measuring-code
-https://github.com/isobar-idev/code-standards
-http://isobar-idev.github.io/code-standards
-
-https://github.com/babel/babel.github.io/issues
-
-https://github.com/DockYard/styleguides
-http://kafka.apache.org/coding-guide.html
-
-http://accessibility.voxmedia.com/
-https://github.com/voxmedia/accessibility
-https://www.w3.org/TR/WCAG/
-https://github.com/ascott1/accessibility-policy
-https://github.com/ascott1/ethical-web-dev
-https://ethicalweb.org/
-
-http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
-
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
-
-http://jtleek.com/modules/01_DataScientistToolbox
-
-http://schacon.github.io/git/user-manual
-
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
--->
-
-<!--
-## Website Project Management
-See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
-
-https://github.com/red-hat-people-team | Red Hat People team
-
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/guides
-
-https://github.com/thoughtbot/guides/tree/master/protocol
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
-
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-
-https://github.com/hypenotic/hypelabs
-
-https://www.thoughtworks.com/
-https://robots.thoughtbot.com/running-acceptance-with-review-apps
-
-https://github.com/18F/development-guide
-https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 -->
 
 ## Philosophies
