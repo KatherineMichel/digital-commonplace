@@ -9,39 +9,23 @@ https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
 https://pypi.org/project/attrs/ | attrs · PyPI
 
-WASM
-emscripten
-https://webassembly.studio/ | WebAssembly Studio
-
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
 https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-Important!
-https://google.github.io/eng-practices/review/reviewer/ | How to do a code review | eng-practices
-https://github.com/google/eng-practices | google/eng-practices: Google's Engineering Practices documentation
-https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
-
-https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
-https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
-
-Bazel
-https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
-https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+Non-Python async
+https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
+https://v8.dev/features/top-level-await | Top-level await · V8
 
 Important!
 https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
 https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
 https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
 
 https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
 http://behaviormodel.org/ | BJ Fogg's Behavior Model
@@ -86,6 +70,54 @@ https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem
 https://elixir-lang.org/ | Elixir
 -->
 
+<!--
+### Third Party Helpers
+
+Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
+
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://urllib3.readthedocs.io/en/latest/
+
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
+https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
+See also: Data Science
+https://github.com/keen/cohorts
+-->
+
 ## Priorities
 
 <!--
@@ -104,23 +136,28 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
-## Engineering Management Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-Scaling Engineering
-* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
 ## Open Source Guides
+
+<!--
+Important!
+https://google.github.io/eng-practices/review/reviewer/ | How to do a code review | eng-practices
+https://github.com/google/eng-practices | google/eng-practices: Google's Engineering Practices documentation
+https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
+
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
+https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+Bazel
+https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+-->
 
 GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
@@ -581,6 +618,22 @@ https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 
 https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 -->
+
+## Engineering Management Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+Scaling Engineering
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 ## Trends
 
