@@ -9,6 +9,14 @@ https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
 https://pypi.org/project/attrs/ | attrs · PyPI
 
+Python apps
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
 https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
