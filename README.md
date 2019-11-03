@@ -160,15 +160,6 @@ Hosting Blogs
 * [Amazon Web Services New](https://aws.amazon.com/new)
 * [AWS Blog](https://aws.amazon.com/blogs)
 
-* [GitLab Docs](http://docs.gitlab.com)
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitLab- Notable Features
-* [GitLab Packages](http://packages.gitlab.com)
-
 GitHub
 * [GitHub Features (Code Review, ect.)](https://github.com/features) 
 * [GitHub Blog](https://github.blog)  
@@ -186,28 +177,25 @@ https://twitter.com/kelseyhightower/status/1159517721068916736
 GitHub Integrations
 * [GitHub Marketplace](https://github.com/marketplace)
 
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+GitHub
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+GitHub Web Hooks
+* [Service Hooks GitHub](https://github.com/github/github-services)   
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab- Notable Features
+* [GitLab Packages](http://packages.gitlab.com)
 
 <!--
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
@@ -239,7 +227,34 @@ https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
 
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+-->
 
+## Heroku and Bitbucket
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+
+<!--
 https://developer.atlassian.com
 
 https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
@@ -252,34 +267,15 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 -->
 
 
-GitHub
-* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
 Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
 
-GitHub Web Hooks
-* [Service Hooks GitHub](https://github.com/github/github-services)   
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-OS and Software Practices by Company
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
-* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
-* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
-* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
-* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
-* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
-* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
 
 <!--
 https://github.com/erikbern/git-of-theseus
@@ -287,17 +283,15 @@ https://github.com/erikbern/git-of-theseus
 https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
 https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
 
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
 
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
 https://github.com/ten | Thank you for making 10 years of GitHub possible
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2401-the-github-diversity-report	
-
-https://live-stream.github.com/ | GitHub Live Events
 
 https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
 
@@ -352,7 +346,20 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
 
 https://github.com/github/github-services/tree/master/docs
+-->
 
+
+OS and Software Practices by Company
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
+* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
+* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
+* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
+* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
+* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
+
+<!--
 https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
@@ -360,6 +367,7 @@ https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approa
 Facebook Open Source
 https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
 https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
+-->
 
 ## Open Source Software
 
@@ -439,154 +447,10 @@ https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenCha
 https://www.openchainproject.org/ | Home - OpenChain
 -->
 
-<!--
-## Playbooks
-
-https://handbook.glitch.me/ | Glitch Employee Handbook
-
-GitLab
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
-
-## Digital Agencies and Code Philosophies
-## Open Companies
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
-https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
-
-http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
-https://www.subscribewithamazon.com
-https://www.amazon.jobs/principles
-https://github.com/basecamp/handbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
-
-https://github.com/Paperwell?tab=repositories
-https://github.com/danluu/post-mortems
-
-https://github.com/nmsanchez?tab=repositories
-
-https://afonsopacifer.github.io/open-source-checklist/
-https://github.com/18F/bpa-identity-management
-https://github.com/bocoup/opendesignkit
-
-https://github.com/zincmade/employee-handbook
-https://github.com/rosarior/Code-of-Merit
-https://github.com/FormidableLabs/formidable-playbook
-https://github.com/goinvo/InvoPlaybook
-https://github.com/18F/partnership-playbook
-https://github.com/sprintly/sprint.ly-culture
-https://github.com/bonusly/un-handbook
-https://corner.squareup.com/2016/02/womeng-handbook-launch.html
-https://github.com/digitalocean/engineering-code-of-conduct
-
-https://github.com/Prismatic/eng-practices
-
-https://github.com/opengovfoundation/hr-manual
--->
-
-<!--
-https://code.gov/#/policy-guide/docs/compliance/measuring-code
-https://github.com/isobar-idev/code-standards
-http://isobar-idev.github.io/code-standards
-
-https://github.com/babel/babel.github.io/issues
-
-https://github.com/DockYard/styleguides
-http://kafka.apache.org/coding-guide.html
-
-http://accessibility.voxmedia.com/
-https://github.com/voxmedia/accessibility
-https://www.w3.org/TR/WCAG/
-https://github.com/ascott1/accessibility-policy
-https://github.com/ascott1/ethical-web-dev
-https://ethicalweb.org/
-
-http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
-
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
-
-http://jtleek.com/modules/01_DataScientistToolbox
-
-http://schacon.github.io/git/user-manual
-
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
--->
-
-<!--
-## Website Project Management
-See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
-
-https://github.com/red-hat-people-team | Red Hat People team
-
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/guides
-
-https://github.com/thoughtbot/guides/tree/master/protocol
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
-
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-
-https://github.com/hypenotic/hypelabs
-
-https://www.thoughtworks.com/
-https://robots.thoughtbot.com/running-acceptance-with-review-apps
-
-https://github.com/18F/development-guide
-https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
--->
-
-## Engineering Management Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-Scaling Engineering
-* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+## Trends
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-## Trends
 
 Look at Daily
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
@@ -717,6 +581,7 @@ Built With
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 * [Made with React](http://madewithreact.com)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
 
 ## Useful Tools
 
@@ -1017,6 +882,7 @@ React and Vue
 https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
 https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
 -->
+
 
 ## JavaScript- General
 
@@ -1884,14 +1750,31 @@ Examples of Popular Relational Databases
 * [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
 * [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
 
-Relational and Object
+Relational
 * [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system) 
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+
+Object-Relational Database
 * [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
 * [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
 
 Architecture
 * [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+
+<!--
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+-->
+
+More Database Stuff
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
 <!--
 ORM, MRO
@@ -1912,25 +1795,6 @@ http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 -->
-
-## Databases
-
-<!--
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
--->
-
-Relational Database Management Systems
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-
-More Database Stuff
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
 ## Database Architectures and Principles
 
@@ -1974,6 +1838,150 @@ https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on
 https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
 https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 -->
+
+<!--
+## Playbooks
+
+https://handbook.glitch.me/ | Glitch Employee Handbook
+
+GitLab
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
+
+## Digital Agencies and Code Philosophies
+## Open Companies
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+https://github.com/Paperwell?tab=repositories
+https://github.com/danluu/post-mortems
+
+https://github.com/nmsanchez?tab=repositories
+
+https://afonsopacifer.github.io/open-source-checklist/
+https://github.com/18F/bpa-identity-management
+https://github.com/bocoup/opendesignkit
+
+https://github.com/zincmade/employee-handbook
+https://github.com/rosarior/Code-of-Merit
+https://github.com/FormidableLabs/formidable-playbook
+https://github.com/goinvo/InvoPlaybook
+https://github.com/18F/partnership-playbook
+https://github.com/sprintly/sprint.ly-culture
+https://github.com/bonusly/un-handbook
+https://corner.squareup.com/2016/02/womeng-handbook-launch.html
+https://github.com/digitalocean/engineering-code-of-conduct
+
+https://github.com/Prismatic/eng-practices
+
+https://github.com/opengovfoundation/hr-manual
+-->
+
+<!--
+https://code.gov/#/policy-guide/docs/compliance/measuring-code
+https://github.com/isobar-idev/code-standards
+http://isobar-idev.github.io/code-standards
+
+https://github.com/babel/babel.github.io/issues
+
+https://github.com/DockYard/styleguides
+http://kafka.apache.org/coding-guide.html
+
+http://accessibility.voxmedia.com/
+https://github.com/voxmedia/accessibility
+https://www.w3.org/TR/WCAG/
+https://github.com/ascott1/accessibility-policy
+https://github.com/ascott1/ethical-web-dev
+https://ethicalweb.org/
+
+http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
+
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+
+http://jtleek.com/modules/01_DataScientistToolbox
+
+http://schacon.github.io/git/user-manual
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+-->
+
+<!--
+## Website Project Management
+See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
+
+https://github.com/red-hat-people-team | Red Hat People team
+
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/guides
+
+https://github.com/thoughtbot/guides/tree/master/protocol
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+
+https://github.com/hypenotic/hypelabs
+
+https://www.thoughtworks.com/
+https://robots.thoughtbot.com/running-acceptance-with-review-apps
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+-->
+
+## Engineering Management Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+Scaling Engineering
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 ## Engineering Management
 
