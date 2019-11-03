@@ -1,14 +1,6 @@
 # The List 2019
 
 <!--
-https://masonegger.com/talks/ci-docs/ | Building Docs like Code: Continuous Integration for Documentation | Mason Egger
-https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
-https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
-https://hynek.me/talks/python-foss/ | Maintaining a Python Project When It’s Not Your Job · Homepage of Hynek Schlawack
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job | Maintaining a Python Project When It’s Not Your Job - Speaker Deck
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
-https://pypi.org/project/attrs/ | attrs · PyPI
-
 Python apps
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
 https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
