@@ -1,11 +1,6 @@
 # The List 2019
 
 <!--
-Python apps
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
@@ -13,17 +8,6 @@ Important!
 https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
 https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
 https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
-https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
-
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
-
-https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
-https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
-https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
-https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
 
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
@@ -38,11 +22,6 @@ https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twi
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
-
-https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
-https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
-https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
@@ -64,6 +43,11 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+-->
 
 ## Productivity
 
@@ -645,6 +629,10 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
@@ -1966,6 +1954,27 @@ Distributed and Parallel Computing
 Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
+<!--
+AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+
+https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
+https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
+https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
+-->
+
 ## Engineering Management
 
 <!--
@@ -2755,6 +2764,11 @@ Spaced Repetition
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 <!--
+https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
+https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
+https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
+https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
+
 https://ncase.me/remember/ | How To Remember Anything Forever-ish
 https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
 https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
