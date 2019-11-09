@@ -26,61 +26,6 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
 
-## Programming Paradigms
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Paradigm Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-<!--
-React?
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
--->
-
-## Useful Terminology
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-<!--
-https://realpython.com/modeling-polymorphism-django-python/
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
-
-https://en.wikipedia.org/wiki/Object_composition
-https://en.wikipedia.org/wiki/State_(computer_science)
-https://en.wikipedia.org/wiki/Stateless_protocol
-https://en.wikipedia.org/wiki/State_diagram
-https://en.wikipedia.org/wiki/Interface_(computing)
-
-https://en.wikipedia.org/wiki/Persistence_(computer_science)
-https://en.wikipedia.org/wiki/Persistent_data_structure
-https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
-
-https://en.wikipedia.org/wiki/Immutable_object
-
-https://en.wikipedia.org/wiki/Memoization
--->
-
 ## Priorities
 
 <!--
@@ -888,275 +833,59 @@ YAML
 Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
-## X Driven Development
+## Programming Paradigms
 
-Fear
-* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
-Docs
-* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
-* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-
-Test Driven Development (TDD)
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-More Software Planning
-* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
-* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
 
 <!--
-* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
-
-Paradigm
-* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
-
-https://domainlanguage.com/ddd/reference/
-http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
-
-https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
-https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
 -->
 
-## Cost
+## Useful Terminology
 
-* [List of Failed and Overbudget Custom Software Projects Wikipedia](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
 
 <!--
-https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+functional programming- immutability/immutable data structures
 
-https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
-
-https://en.wikipedia.org/wiki/Continuous_integration#References | Continuous integration - Wikipedia
-
-https://en.wikipedia.org/wiki/COCOMO
-https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering
-https://www.youtube.com/watch?v=meB_SWzZm8M | (1) Trunk-Based Development economics (Paul Hammant) - YouTube
-https://en.wikipedia.org/wiki/Barry_Boehm
-https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227 | Software Engineering Economics: Barry W. Boehm: 0076092033097: Amazon.com: Books
-
-https://scottwambler.wordpress.com/courses/amdd/
-http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
-http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
-Cost of Software Change
--->
-
-## Software Engineering
-
-Software Project Management
-* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-
-Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-
-## Requirements and Planning
-
-Requirements
-* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
-* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
-
-<!--
-Requirements baseline
-https://en.wikipedia.org/wiki/Baseline_(configuration_management)
--->
-
-Technical
-* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
-* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
-* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
-* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-* Objective, Assumption, Constraint
-
-## Software Life Cycle and Release Management
-
-Software Development Philosophies and Process
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-
-Life Cycles
-* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
-* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
-
-
-## Authorities
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-<!--
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-https://m.signalvnoise.com
-
-Joel, Jeff blogs
-https://www.joelonsoftware.com/ | Joel on Software
-https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
--->
-
-
-## Software Design Tools
-
-<!--
-http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
--->
-
-Robustness
-* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
-
-<!--
-Robustness Analysis
--->
-
-Pseudocode
-* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
-* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
-
-<!--
-https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
-https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-state machine diagram
--->
-
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
-UML Books
-* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
-* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
-
-<!--
-Three ways to use UML: sketch, blueprint, and programming language
-Most common: sketch
-Blueprints or sketch: forward-engineering or reverse-engineering direction
-"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
-
-https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
-Figure 1.3, a screen flow diagram
-
-Diagrams: page 10-13
-Table 1.1 Official Diagram Types of the UML
-Table 1.2 Decision Table
-waterfall vs. iterative
-Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
-Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
-
-Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
-
-Chapter 5
-class diagrams
-
-Chapters 6 through 8
-structure of a system: object diagrams, package diagrams, and deployment diagrams.
-
-Chapters 9 through 11 
-behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
-
-https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
 <!--
-https://en.wikipedia.org/wiki/Platform-independent_model
-https://en.wikipedia.org/wiki/Executable_UML
-https://en.wikipedia.org/wiki/Rational_Unified_Process
+https://realpython.com/modeling-polymorphism-django-python/
 
-https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 
-http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
--->
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/Stateless_protocol
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
 
-UML Diagrams
-* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+https://en.wikipedia.org/wiki/Persistence_(computer_science)
+https://en.wikipedia.org/wiki/Persistent_data_structure
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
 
-<!--
-https://twitter.com/KatiMichel/status/995797396461207553
-https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
-https://django-extensions.readthedocs.io/en/latest/graph_models.html
-http://pydotplus.readthedocs.io/
-http://www.graphviz.org/
-https://graphviz.gitlab.io/documentation/
-https://graphviz.gitlab.io/download/
--->
+https://en.wikipedia.org/wiki/Immutable_object
 
-Use Case Books
-* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
-
-TLA+
-* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
-
-<!--
-https://conf.tlapl.us/home/
-https://lamport.azurewebsites.net/tla/toolbox.html
--->
-
-## Software Construction Tools
-
-<!--
-https://www.dabeaz.com/tla.html | An Introduction to TLA+
--->
-
-<!--
-UML
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-
-
-https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
-
-Modeling
-* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
--->
-
-<!--
-Software patterns and paradigms
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
-
-http://www-03.ibm.com/software/products/en/rosemod
-http://www-03.ibm.com/software/products/en/enterprise
-https://en.wikipedia.org/wiki/IBM_Rational_Rose_XDE
-https://en.wikipedia.org/wiki/Rational_Software
-
-Robustness Analysis
-https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
-Robustness Diagrams: An Agile Introduction
-http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
+https://en.wikipedia.org/wiki/Memoization
 -->
 
 ## Object Oriented Software
@@ -1357,8 +1086,6 @@ https://en.wikipedia.org/wiki/Architectural_pattern
 https://en.wikipedia.org/wiki/Messaging_pattern
 https://en.wikipedia.org/wiki/Request%E2%80%93response
 
-https://en.wikipedia.org/wiki/Representational_state_transfer
-
 https://en.wikipedia.org/wiki/Remote_Procedure_Call
 -->
 
@@ -1489,6 +1216,275 @@ http://en.wikipedia.org/wiki/SQL#Queries
 
 Stanford Open Classroom- Introduction to Databases
 * [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+## X Driven Development
+
+Fear
+* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+
+Docs
+* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
+* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+
+Test Driven Development (TDD)
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+More Software Planning
+* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+
+<!--
+* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
+
+Paradigm
+* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+
+https://domainlanguage.com/ddd/reference/
+http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
+
+https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
+https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
+-->
+
+## Cost
+
+* [List of Failed and Overbudget Custom Software Projects Wikipedia](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
+
+<!--
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+
+https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
+
+https://en.wikipedia.org/wiki/Continuous_integration#References | Continuous integration - Wikipedia
+
+https://en.wikipedia.org/wiki/COCOMO
+https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering
+https://www.youtube.com/watch?v=meB_SWzZm8M | (1) Trunk-Based Development economics (Paul Hammant) - YouTube
+https://en.wikipedia.org/wiki/Barry_Boehm
+https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227 | Software Engineering Economics: Barry W. Boehm: 0076092033097: Amazon.com: Books
+
+https://scottwambler.wordpress.com/courses/amdd/
+http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
+http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
+Cost of Software Change
+-->
+
+## Software Engineering
+
+Software Project Management
+* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+
+## Requirements and Planning
+
+Requirements
+* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
+* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
+* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
+* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
+* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
+* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
+* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
+* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+
+<!--
+Requirements baseline
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+-->
+
+Technical
+* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
+* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
+* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+* Objective, Assumption, Constraint
+
+## Software Life Cycle and Release Management
+
+Software Development Philosophies and Process
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+
+Life Cycles
+* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
+* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
+
+## Authorities
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+<!--
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+https://m.signalvnoise.com
+
+Joel, Jeff blogs
+https://www.joelonsoftware.com/ | Joel on Software
+https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+-->
+
+## Software Design Tools
+
+<!--
+http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
+-->
+
+Robustness
+* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
+
+<!--
+Robustness Analysis
+-->
+
+Pseudocode
+* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
+* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
+
+<!--
+https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
+https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+state machine diagram
+-->
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+UML Books
+* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
+* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+
+<!--
+Three ways to use UML: sketch, blueprint, and programming language
+Most common: sketch
+Blueprints or sketch: forward-engineering or reverse-engineering direction
+"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
+
+https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
+Figure 1.3, a screen flow diagram
+
+Diagrams: page 10-13
+Table 1.1 Official Diagram Types of the UML
+Table 1.2 Decision Table
+waterfall vs. iterative
+Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
+Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
+
+Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
+
+Chapter 5
+class diagrams
+
+Chapters 6 through 8
+structure of a system: object diagrams, package diagrams, and deployment diagrams.
+
+Chapters 9 through 11 
+behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
+
+https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Platform-independent_model
+https://en.wikipedia.org/wiki/Executable_UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process
+
+https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+-->
+
+UML Diagrams
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+
+<!--
+https://twitter.com/KatiMichel/status/995797396461207553
+https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+http://pydotplus.readthedocs.io/
+http://www.graphviz.org/
+https://graphviz.gitlab.io/documentation/
+https://graphviz.gitlab.io/download/
+-->
+
+Use Case Books
+* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
+
+TLA+
+* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+
+<!--
+https://conf.tlapl.us/home/
+https://lamport.azurewebsites.net/tla/toolbox.html
+-->
+
+## Software Construction Tools
+
+<!--
+https://www.dabeaz.com/tla.html | An Introduction to TLA+
+-->
+
+<!--
+UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+
+
+https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
+
+Modeling
+* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+-->
+
+<!--
+Software patterns and paradigms
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+
+http://www-03.ibm.com/software/products/en/rosemod
+http://www-03.ibm.com/software/products/en/enterprise
+https://en.wikipedia.org/wiki/IBM_Rational_Rose_XDE
+https://en.wikipedia.org/wiki/Rational_Software
+
+Robustness Analysis
+https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
+Robustness Diagrams: An Agile Introduction
+http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
+-->
 
 <!--
 ## Playbooks
