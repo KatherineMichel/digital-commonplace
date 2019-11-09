@@ -26,6 +26,61 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
 
+## Programming Paradigms
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+<!--
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+-->
+
+## Useful Terminology
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+<!--
+https://realpython.com/modeling-polymorphism-django-python/
+
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/Stateless_protocol
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+https://en.wikipedia.org/wiki/Persistence_(computer_science)
+https://en.wikipedia.org/wiki/Persistent_data_structure
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
+
+https://en.wikipedia.org/wiki/Immutable_object
+
+https://en.wikipedia.org/wiki/Memoization
+-->
+
 ## Priorities
 
 <!--
@@ -1294,24 +1349,63 @@ Architectures
 <!--
 https://en.wikipedia.org/wiki/Multitenancy
 
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Messaging_pattern
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+
 https://en.wikipedia.org/wiki/Representational_state_transfer
+
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
 -->
 
-## Database
+## Database Architectures and Principles
 
-SQL
-* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+
+Database Principles
+* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
+* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
+* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 <!--
-http://en.wikipedia.org/wiki/SQL#Queries
+AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+
+https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
+https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
+https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 -->
 
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+## Database Options
 
 Databases
 * [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
@@ -1381,48 +1475,20 @@ http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_system
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 -->
 
-## Database Architectures and Principles
+## SQL
 
-CAP Theorem
-* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
-* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
-
-Database Principles
-* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
-* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
-* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
-* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+SQL
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
 <!--
-AP, CP or CA Databases
-
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/Atomic_commit
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
-
-OOP
-https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
-
-System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
-
-https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
-https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
-https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
+http://en.wikipedia.org/wiki/SQL#Queries
 -->
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
 <!--
 ## Playbooks
