@@ -89,6 +89,7 @@ https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellico
 
 <!--
 https://rework.withgoogle.com/
+https://twitter.com/skimbrel/status/1190734445952659456
 
 Important!
 https://google.github.io/eng-practices/review/reviewer/ | How to do a code review | eng-practices
@@ -642,129 +643,6 @@ Mobile
 
 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
-## Debugging
-
-Debugging
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-
-## Software Testing
-
-Software Testing
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-
-Unit Testing
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
-
-TDD and BDD
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-
-<!--
-Testing
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
-https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
--->
-
-General
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-
-## Other Types of Testing
-
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
-* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
-* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
-
-<!--
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
-
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
-https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
-https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/ | EGAD! How Do We Start Writing (Better) Tests? | Automation Panda
-https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
-
-https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Knight on Twitter: "Cool! Thanks. Let me know if you have questions.… "
-
-* [Automation Panda](https://automationpanda.com)
-https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
-https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
-https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
-
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-
-https://martinfowler.com/articles/practical-test-pyramid.html
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-https://automationpanda.com/bdd/
-https://automationpanda.com/python/
-
-https://twitter.com/AutomationPanda/status/1097140065577431041
-https://twitter.com/AutomationPanda/status/1048275359303708673
-https://twitter.com/AutomationPanda/status/1023346925771345920
-https://twitter.com/AutomationPanda/status/1061393338165837825
-
-https://en.wikipedia.org/wiki/Return_on_investment
-
-https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
--->
-
-## Python and Django Debugging and Testing
-
-Testing
-* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
-
-Django Testing
-* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
-
-<!--
-Python- Books- O'Reilly Test-Driven Development with Python and Selenium
-
-https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
-https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
-
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-http://pythontesting.net/start-here/
--->
-
-<!--
-DjangoCon Keynote by Ana
--->
-
-<!--
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
--->
 
 ## Release Management
 
