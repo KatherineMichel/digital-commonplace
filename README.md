@@ -69,9 +69,12 @@ https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
 
 https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
 https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
+https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
 
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
 https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
 https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
 https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
