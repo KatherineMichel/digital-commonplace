@@ -64,6 +64,9 @@ GitHub Developer
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
 
+https://www.conventionalcommits.org/en/v1.0.0/ | Conventional Commits
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+
 https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
 https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
 
