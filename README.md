@@ -65,20 +65,60 @@ GitHub Developer
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
 https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
+
+https://github.blog/changelog/ | Changelog - The GitHub Blog
+https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
+
+https://github.blog/2019-11-13-universe-day-one/ | New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more - The GitHub Blog
+https://githubuniverse.com/schedule/#exemplars-laggards-and-the-cautious-crew-58-a-data-driven-look-at-practices-behind-exemplar-open-source-projects | GitHub Universe 2019 Schedule | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
+
+https://www.youtube.com/user/github/videos | GitHub - YouTube
 https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
 https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
 https://github.com/ten | Thank you for making 10 years of GitHub possible
 https://github.com/blog/2401-the-github-diversity-report	
 
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+https://github.com/semantic-release
+https://github.com/marketplace/actions/action-for-semantic-release
+
 https://github.com/actions | GitHub Actions
+https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
+
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+Probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+Packages
+https://github.com/features/packages | GitHub Packages: Your packages, at home with their code
+https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
 https://developer.github.com/apps
+https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
 
 https://help.github.com/articles/about-webhooks/
 https://developer.github.com/v4/
@@ -92,26 +132,11 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 
 https://github.com/github/github-services/tree/master/docs
 
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
 
-
-
-
-https://dependabot.com/ | Dependabot
-
-https://github.com/erikbern/git-of-theseus
-
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
-
-Packages
-https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
-
-https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
-https://github.blog/2019-05-23-build-like-an-open-source-community-with-github-enterprise/
-
-* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 https://github.com/blog/2123-more-code-review-tools
@@ -119,12 +144,21 @@ https://github.com/marketplace/category/code-review
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
 
-https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
+https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
 
-https://github.community/ | Home - GitHub Community Forum
-https://hub.github.com/ | hub · the command-line wrapper for git
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://github.com/primer | Primer
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+
+https://dependabot.com/ | Dependabot
+https://dependabot.com/#how-it-works | Dependabot
+https://dependabot.com/github-actions/ | Dependabot
+
+https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
+https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
+https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+
+https://github.com/erikbern/git-of-theseus
+
+* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
 -->
 
 ## OS and Software Offices, Foundations, and Practices by Company
@@ -147,25 +181,32 @@ Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 
-OS and Software Practices by Company
+Google
 * [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
 * [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+
+Facebook
 * [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
+
+Microsoft
 * [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
 * [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
 * [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
 * [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
+
+Uber
 * [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
 
 <!--
 https://rework.withgoogle.com/
 https://twitter.com/skimbrel/status/1190734445952659456
 
+https://google.github.io/eng-practices/review/reviewer/speed.html | Speed of Code Reviews | eng-practices
+https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
+
 Important!
 https://google.github.io/eng-practices/review/reviewer/ | How to do a code review | eng-practices
 https://github.com/google/eng-practices | google/eng-practices: Google's Engineering Practices documentation
-https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
 
 Bazel
 https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
@@ -218,6 +259,21 @@ Maturity Models
 * [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
 
 <!--
+https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
+https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
+
+https://twitter.com/Bitergia | Bitergia (@Bitergia) / Twitter
+https://twitter.com/CHAOSSproj | Profile / Twitter
+
+https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
+https://chaoss.github.io/grimoirelab-tutorial/ | GrimoireLab Tutorial | GrimoireLab Tutorial
+https://chaoss.community/blog-post/2019/10/08/simplifying-how-to-install-grimoirelab/ | GrimoireLab Install - CHAOSS
+
+https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
+https://speakerdeck.com/bitergia/your-organization-needs-an-ospo-or-be-ready-to-fail?slide=14 | Your organization needs an OSPO, or be ready to fail! - Speaker Deck
+https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/ | What can InnerSource learn from the CHAOSS Project? – Bitergia Software Development Analytics
+
+
 https://wiki.linuxfoundation.org/chaoss/
 https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
 
@@ -299,6 +355,11 @@ Git Ignore and Licenses
 <!--
 https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
 https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
+
+https://github.community/ | Home - GitHub Community Forum
+https://hub.github.com/ | hub · the command-line wrapper for git
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://github.com/primer | Primer
 
 https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
 
