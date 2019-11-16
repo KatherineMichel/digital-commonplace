@@ -26,65 +26,6 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
 
-## Priorities
-
-<!--
-Effort vs. Impact Matrix
-value effort matrix
--->
-
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-## Interesting
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
--->
-
-## Productivity
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-VC Studio Code
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-
-https://codewith.mu/ | Code With Mu
-
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
-
 ## Hosting and GitHub
 
 Hosting Blogs
@@ -378,6 +319,42 @@ https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-sof
 https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
 -->
 
+## Productivity
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://codewith.mu/ | Code With Mu
+
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+VC Studio Code
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+-->
+
 ## Heroku and Bitbucket
 
 Heroku- Deployment
@@ -458,6 +435,29 @@ https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
 
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+-->
+
+## Priorities
+
+<!--
+Effort vs. Impact Matrix
+value effort matrix
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
 -->
 
 ## Trends
