@@ -62,29 +62,46 @@ GitHub Developer
 
 
 <!--
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
-
-https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
-
-https://github.com/actions | GitHub Actions
-
-
-
-https://dependabot.com/ | Dependabot
-
-https://github.com/erikbern/git-of-theseus
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 https://live-stream.github.com/ | GitHub Live Events
 
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
 https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2401-the-github-diversity-report	
+
+https://github.com/actions | GitHub Actions
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
+https://developer.github.com/apps
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v4/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+
+https://github.com/blog/2226-build-an-integration-for-github
+https://developer.github.com/integrations-directory/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
+
+https://github.com/github/github-services/tree/master/docs
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
+
+
+
+
+https://dependabot.com/ | Dependabot
+
+https://github.com/erikbern/git-of-theseus
 
 https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
 
@@ -101,28 +118,13 @@ https://github.com/blog/2123-more-code-review-tools
 https://github.com/marketplace/category/code-review
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
 https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
-https://github.community/| Home - GitHub Community Forum
+https://github.community/ | Home - GitHub Community Forum
 https://hub.github.com/ | hub · the command-line wrapper for git
 https://github.com/maintainers | Open Source Maintainers on GitHub
 https://github.com/primer | Primer
-
-https://developer.github.com/apps
-
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v4/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
-
-https://github.com/blog/2226-build-an-integration-for-github
-https://developer.github.com/integrations-directory/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
-
-https://github.com/github/github-services/tree/master/docs
 -->
 
 ## OS and Software Offices, Foundations, and Practices by Company
@@ -173,6 +175,8 @@ https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelb
 -->
 
 <!--
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
 https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
@@ -216,8 +220,8 @@ Maturity Models
 <!--
 https://wiki.linuxfoundation.org/chaoss/
 https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
-https://martinfowler.com/bliki/MaturityModel.html
 
+https://martinfowler.com/bliki/MaturityModel.html
 https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
 
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
@@ -331,9 +335,6 @@ Python and Visual Studio Code
 
 <!--
 https://codewith.mu/ | Code With Mu
-
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
 VC Studio Code
 https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
