@@ -60,10 +60,21 @@ GitHub Web Hooks
 GitHub Developer 
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
-
 <!--
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+
+https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
+https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
+
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
 https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
+https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
+https://lab.github.com/
+https://lab.github.com/githubtraining/ | GitHub Learning Lab
+https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 
 https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
@@ -92,6 +103,18 @@ https://github.com/marketplace/actions/action-for-semantic-release
 
 https://github.com/actions | GitHub Actions
 https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
+
+Actions
+https://github.com/marketplace/actions/action-for-semantic-release | Action For Semantic Release · Actions · GitHub Marketplace
+https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
+https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
+https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
+https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
+https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
+https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
 
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
@@ -138,6 +161,7 @@ https://github.com/showcases/projects-with-great-wikis
 
 https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github | Navigating code on GitHub - GitHub Help
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 https://github.com/blog/2123-more-code-review-tools
 https://github.com/marketplace/category/code-review
