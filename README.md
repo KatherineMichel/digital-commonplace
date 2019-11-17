@@ -1,6 +1,22 @@
 # The List 2019
 
 <!--
+https://github.com/devict/devict-hubot
+https://github.com/github/hubot
+https://hubot.github.com/
+
+https://web.dev/ | web.dev  |  web.dev
+https://glitch.com/ | Glitch
+https://glitch.dev/ | Using Glitch for Developer Relations
+
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+JAMStackConf
+
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
@@ -61,6 +77,18 @@ GitHub Developer
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
+https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitter: "Announced at #GitHubUniverse: You can now direct issue creators to visit your @SlackHQ group or forum https://t.co/ONTR4VdLBV" / Twitter
+
+GitHub Security
+https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
+https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
+https://securitylab.github.com/ | GitHub Security Lab
+https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
+https://github.com/advisories | GitHub Advisory Database
+request cve - Google Search
+https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
+https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
+
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
 
@@ -1984,6 +2012,8 @@ High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
 <!--
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+
 https://microservice.guide/ | Open Microservice Guide
 
 http://stevesouders.com/hpws
