@@ -193,6 +193,11 @@ https://github.com/erikbern/git-of-theseus
 
 ## OS and Software Offices, Foundations, and Practices by Company
 
+<!--
+https://twitter.com/skimbrel/status/1190734445952659456
+https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
+-->
+
 (Case studies versus documentation)
 
 TODO
@@ -206,6 +211,23 @@ Google Open Source
 * [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
 * [Google Open Source Docs](https://opensource.google.com/docs)
 * [Why Open Source?](https://opensource.google.com/docs/why)
+
+Google Engineering Practices
+* [Google Engineering Practices](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
+<!--
+Bazel
+https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+-->
+
+Google re:Work
+* [Google re:Work](https://rework.withgoogle.com/)
+* [Google re:Work Psychological Safety](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
@@ -226,24 +248,6 @@ Microsoft
 
 Uber
 * [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
-
-<!--
-https://rework.withgoogle.com/
-https://twitter.com/skimbrel/status/1190734445952659456
-
-https://google.github.io/eng-practices/review/reviewer/speed.html | Speed of Code Reviews | eng-practices
-https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
-
-Important!
-https://google.github.io/eng-practices/review/reviewer/ | How to do a code review | eng-practices
-https://github.com/google/eng-practices | google/eng-practices: Google's Engineering Practices documentation
-
-Bazel
-https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
-https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
--->
 
 <!--
 https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
