@@ -1,6 +1,42 @@
 # The List 2019
 
 <!--
+http://google-engtools.blogspot.com/ | Google Engineering Tools
+https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+https://agilemanifesto.org/ | Manifesto for Agile Software Development
+
+https://todogroup.org/blog/survey-2019/
+
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
+
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+
+Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+
+https://github.com/open-source/stories | Open Source Stories · GitHub
+https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
+https://github.blog/changelog/ | Changelog - The GitHub Blog
+https://github.blog/ | The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
+https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
+https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
+
+https://opensource.salesforce.com/ | Salesforce Open Source
+https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
+
+https://zapier.com/blog/the-checklist-manifesto/
+
+Engineering Management
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+
+https://basecamp.com/shapeup
+
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
