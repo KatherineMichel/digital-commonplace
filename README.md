@@ -1,6 +1,43 @@
 # The List 2019
 
 <!--
+https://asciinema.org asciinema
+
+https://github.com/adobe/open-development-template
+
+https://www.netlify.com/features/ | Features | Netlify
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
+https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
+https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
+https://glitch.com/culture/website-starter-kit/
+
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
+
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+
+Runbook
+https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
+https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
+https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
+https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
+https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
+https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
+
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+
+Driven Dev
+https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
+https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
+
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 
 https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
@@ -14,8 +51,6 @@ https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 https://agilemanifesto.org/ | Manifesto for Agile Software Development
 
 https://todogroup.org/blog/survey-2019/
-
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
 
 https://www.conventionalcommits.org/en/v1.0.0-beta.4/
 https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
@@ -52,7 +87,8 @@ Engineering Management
 https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
 https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
 
-https://basecamp.com/shapeup
+https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
+https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
 
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
