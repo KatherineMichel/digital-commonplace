@@ -9,6 +9,7 @@ https://www.netlify.com/features/ | Features | Netlify
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
 https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
 https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://glitch.com/culture/website-starter-kit/
 
 https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
@@ -80,6 +81,7 @@ https://github.blog/2019-06-06-generate-new-repositories-with-repository-templat
 
 https://opensource.salesforce.com/ | Salesforce Open Source
 https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
+https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
 
 https://zapier.com/blog/the-checklist-manifesto/
 
@@ -103,8 +105,6 @@ https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | N
 JAMStackConf
 
 https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-
-https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
