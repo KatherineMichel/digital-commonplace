@@ -1,6 +1,11 @@
 # The List 2019
 
 <!--
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
+https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
+
 http://google-engtools.blogspot.com/ | Google Engineering Tools
 https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
 
@@ -18,13 +23,25 @@ https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests
 Silent Meeting
 https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
 
-https://github.com/open-source/stories | Open Source Stories · GitHub
-https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
-https://github.blog/changelog/ | Changelog - The GitHub Blog
+Semantic Release and Merge Release
+https://github.com/semantic-release/semantic-release
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+
 https://github.blog/ | The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
+https://github.blog/changelog/ | Changelog - The GitHub Blog
+https://github.com/sponsors | GitHub Sponsors
+https://pages.github.com/versions/ | Dependency versions | GitHub Pages
+https://github.com/open-source/stories | Open Source Stories · GitHub
+https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
+https://github.com/githubtraining/introduction-to-github | githubtraining/introduction-to-github: Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
+
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
+https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
+https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
+https://github.blog/2019-02-07-user-owned-projects-your-personal-workspace/ | User owned projects—your personal workspace - The GitHub Blog
 https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
 https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
-https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
+https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
 
 https://opensource.salesforce.com/ | Salesforce Open Source
 https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
