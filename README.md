@@ -1,7 +1,73 @@
 # The List 2019
 
 <!--
+https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+https://jamesclear.com/atomic-habits
+https://twitter.com/JamesClear
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+
+https://twitter.com/carltongibson/status/1174328979236499457 | Carlton Gibson on Twitter: "There are secrets to having super-powers: &gt; I have a calendar reminder to check the specs every 3 months... — says @AdamChainz 💪 https://t.co/Vs0UCRPLmi" / Twitter
+
+https://zapier.com/blog/the-checklist-manifesto/
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+Engineering Management
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
+https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
+https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
+
+Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
+https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
+https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
+
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+
+Runbook
+https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
+https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
+https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
+https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+
+
+https://twitter.com/housecor/status/1142153344179429378 | Cory House on Twitter: "When someone new joins the team, I try to avoid verbal training. I believe processes should be documented. So I link to the relevant doc. If one doesn't exist, we create it together. Outdated? We fix it. This fosters solid docs, exposes holes, and avoids "tribal knowledge"."
 
 https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
@@ -11,25 +77,7 @@ calvin protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-
-https://twitter.com/carltongibson/status/1174328979236499457 | Carlton Gibson on Twitter: "There are secrets to having super-powers: &gt; I have a calendar reminder to check the specs every 3 months... — says @AdamChainz 💪 https://t.co/Vs0UCRPLmi" / Twitter
-
-https://jamesclear.com/atomic-habits
-https://twitter.com/JamesClear
-
 http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 
@@ -44,45 +92,13 @@ https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://glitch.com/culture/website-starter-kit/
 
-Runbook
-https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
-https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
-https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
-https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
-https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
-https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
-
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
-
-https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
-
 https://agilemanifesto.org/ | Manifesto for Agile Software Development
 
 https://todogroup.org/blog/survey-2019/
 
-Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-
 https://opensource.salesforce.com/ | Salesforce Open Source
 https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
 https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
-
-https://zapier.com/blog/the-checklist-manifesto/
-
-Engineering Management
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-
-https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
-https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
 
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
@@ -101,24 +117,12 @@ https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett �
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
-Important!
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
 https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
 https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
 
 Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
@@ -353,6 +357,8 @@ https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Com
 ## OS and Software Offices, Foundations, and Practices by Company
 
 <!--
+https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
+
 https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
 
 https://twitter.com/skimbrel/status/1190734445952659456
@@ -716,6 +722,9 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 <!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
 https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
 http://behaviormodel.org/ | BJ Fogg's Behavior Model
 -->
