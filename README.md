@@ -1,6 +1,38 @@
 # The List 2019
 
 <!--
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+
+https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+Database
+calvin protocol - Google Search
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+
+https://twitter.com/carltongibson/status/1174328979236499457 | Carlton Gibson on Twitter: "There are secrets to having super-powers: &gt; I have a calendar reminder to check the specs every 3 months... — says @AdamChainz 💪 https://t.co/Vs0UCRPLmi" / Twitter
+
+https://jamesclear.com/atomic-habits
+https://twitter.com/JamesClear
+
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
 https://asciinema.org asciinema
 
 https://github.com/adobe/open-development-template
@@ -11,10 +43,6 @@ https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managin
 https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://glitch.com/culture/website-starter-kit/
-
-https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
-
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
 
 Runbook
 https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
@@ -31,53 +59,17 @@ https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter
 
 https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
 https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
 https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
 
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
-
-Driven Dev
-https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
-https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
-
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
-
-https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
-https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
-
-http://google-engtools.blogspot.com/ | Google Engineering Tools
-https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 https://agilemanifesto.org/ | Manifesto for Agile Software Development
 
 https://todogroup.org/blog/survey-2019/
 
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-
 Silent Meeting
 https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-
-Semantic Release and Merge Release
-https://github.com/semantic-release/semantic-release
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
-
-https://github.blog/ | The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
-https://github.blog/changelog/ | Changelog - The GitHub Blog
-https://github.com/sponsors | GitHub Sponsors
-https://pages.github.com/versions/ | Dependency versions | GitHub Pages
-https://github.com/open-source/stories | Open Source Stories · GitHub
-https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
-https://github.com/githubtraining/introduction-to-github | githubtraining/introduction-to-github: Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
-
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
-https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
-https://github.blog/2019-02-07-user-owned-projects-your-personal-workspace/ | User owned projects—your personal workspace - The GitHub Blog
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
-https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
-https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
 
 https://opensource.salesforce.com/ | Salesforce Open Source
 https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
@@ -166,30 +158,28 @@ GitHub Developer
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
-https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitter: "Announced at #GitHubUniverse: You can now direct issue creators to visit your @SlackHQ group or forum https://t.co/ONTR4VdLBV" / Twitter
+https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
+https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
+https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
+https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
+https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
 
-GitHub Security
-https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
-https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
-https://securitylab.github.com/ | GitHub Security Lab
-https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
-https://github.com/advisories | GitHub Advisory Database
-request cve - Google Search
-https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
-https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
+
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
+
+https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
+https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
 
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
 
-https://www.conventionalcommits.org/en/v1.0.0/ | Conventional Commits
 https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
 
+GitHub Universe
 https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
 https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
 https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
 
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
@@ -199,8 +189,7 @@ https://lab.github.com/
 https://lab.github.com/githubtraining/ | GitHub Learning Lab
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 
-https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
-
+https://github.blog/ | The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
 https://github.blog/changelog/ | Changelog - The GitHub Blog
 https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
 
@@ -219,35 +208,52 @@ https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's
 https://github.com/ten | Thank you for making 10 years of GitHub possible
 https://github.com/blog/2401-the-github-diversity-report	
 
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+Hacktoberfest
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+https://github.com/githubtraining/introduction-to-github | githubtraining/introduction-to-github: Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
+https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
+
+GitHub Security
+https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
+https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
+https://securitylab.github.com/ | GitHub Security Lab
+https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
+https://github.com/advisories | GitHub Advisory Database
+request cve - Google Search
+https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
+https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
+
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+
+https://dependabot.com/ | Dependabot
+https://dependabot.com/#how-it-works | Dependabot
+https://dependabot.com/github-actions/ | Dependabot
+
+https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitter: "Announced at #GitHubUniverse: You can now direct issue creators to visit your @SlackHQ group or forum https://t.co/ONTR4VdLBV" / Twitter
+
+https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
+
+https://github.com/sponsors | GitHub Sponsors
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+
+Semantic Release and Merge Release
 https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
 https://github.com/marketplace/actions/action-for-semantic-release
 
-https://github.com/actions | GitHub Actions
-https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
 
-Actions
-https://github.com/marketplace/actions/action-for-semantic-release | Action For Semantic Release · Actions · GitHub Marketplace
+Create a release
 https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
-https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
-https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
-https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
-https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
-https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
-
-https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
 
 Probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
@@ -258,7 +264,43 @@ https://probot.github.io/apps/no-response/ | No Response | Probot
 
 https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
 
+https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
+https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
+https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+
+https://github.com/actions | GitHub Actions
+
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
+Actions innovations
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
+https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
+https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
+https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
+
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+
+Corporate actions
+https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
+https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
+https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
+https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+
+Example actions
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+
 Packages
+https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
 https://github.com/features/packages | GitHub Packages: Your packages, at home with their code
 https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
 
@@ -278,11 +320,11 @@ https://developer.github.com/apps/building-integrations/setting-up-a-new-integra
 
 https://github.com/github/github-services/tree/master/docs
 
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | Organization-wide community health files - The GitHub Blog
+https://pages.github.com/versions/ | Dependency versions | GitHub Pages
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 https://github.com/showcases/projects-with-great-wikis
 
-https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
 https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github | Navigating code on GitHub - GitHub Help
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
@@ -291,26 +333,28 @@ https://github.com/marketplace/category/code-review
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
 
+https://github.blog/2019-02-07-user-owned-projects-your-personal-workspace/ | User owned projects—your personal workspace - The GitHub Blog
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
+https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
+https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
+
+
 https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
-
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
-
-https://dependabot.com/ | Dependabot
-https://dependabot.com/#how-it-works | Dependabot
-https://dependabot.com/github-actions/ | Dependabot
-
-https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
-https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
-https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
 
 https://github.com/erikbern/git-of-theseus
 
 * [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+
+Open source stories and profiles
+https://github.com/open-source/stories | Open Source Stories · GitHub
+https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
 -->
 
 ## OS and Software Offices, Foundations, and Practices by Company
 
 <!--
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+
 https://twitter.com/skimbrel/status/1190734445952659456
 https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
 -->
@@ -335,6 +379,9 @@ Google Engineering Practices
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
 <!--
+http://google-engtools.blogspot.com/ | Google Engineering Tools
+https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
+
 Bazel
 https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
 https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
@@ -1346,6 +1393,10 @@ More Software Planning
 * [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
 
 <!--
+Driven Dev
+https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
+https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
+
 * [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
 
 Paradigm
