@@ -7,6 +7,10 @@ https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown,
 https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
 https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
 
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
 https://jamesclear.com/atomic-habits
 https://twitter.com/JamesClear
 
@@ -28,6 +32,40 @@ https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
 
 Silent Meeting
 https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+https://opensource.salesforce.com/ | Salesforce Open Source
+https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
+https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
+
+https://github.com/NationalSecurityAgency
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://asciinema.org asciinema
+https://www.asciiart.eu/ | ASCII Art Archive
+
+https://agilemanifesto.org/ | Manifesto for Agile Software Development
+
+https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
+https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
+
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
+https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
+
+Ansible
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+
+https://twitter.com/housecor/status/1142153344179429378 | Cory House on Twitter: "When someone new joins the team, I try to avoid verbal training. I believe processes should be documented. So I link to the relevant doc. If one doesn't exist, we create it together. Outdated? We fix it. This fosters solid docs, exposes holes, and avoids "tribal knowledge"."
+
+https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
 https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
@@ -53,6 +91,11 @@ https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on co
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
+https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
+
+https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
+https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
+
 Runbook
 https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
 https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
@@ -61,70 +104,45 @@ https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-i
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
 
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-
-
-https://twitter.com/housecor/status/1142153344179429378 | Cory House on Twitter: "When someone new joins the team, I try to avoid verbal training. I believe processes should be documented. So I link to the relevant doc. If one doesn't exist, we create it together. Outdated? We fix it. This fosters solid docs, exposes holes, and avoids "tribal knowledge"."
-
-https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
 Database
 calvin protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+GraphQL
+https://docs.sqlalchemy.org
 
-https://asciinema.org asciinema
+JAMStackConf
 
-https://github.com/adobe/open-development-template
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
 https://www.netlify.com/features/ | Features | Netlify
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
 https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
 https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://glitch.com/culture/website-starter-kit/
-
-https://agilemanifesto.org/ | Manifesto for Agile Software Development
-
-https://todogroup.org/blog/survey-2019/
-
-https://opensource.salesforce.com/ | Salesforce Open Source
-https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
-https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
-
-https://github.com/devict/devict-hubot
-https://github.com/github/hubot
-https://hubot.github.com/
 
 https://web.dev/ | web.dev  |  web.dev
 https://glitch.com/ | Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
 
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+Google Cloud Django/Python
+https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
-JAMStackConf
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
 
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
-https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/devict/devict-hubot
+https://github.com/github/hubot
+https://hubot.github.com/
 -->
 
 ## Hosting and GitHub
@@ -357,9 +375,23 @@ https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Com
 ## OS and Software Offices, Foundations, and Practices by Company
 
 <!--
+https://github.com/adobe/open-development-template
+
+https://content-guide.18f.gov/inclusive-language/ | 18F Content Guide - Inclusive language
+
+https://github.com/18F | 18F
+https://github.com/18F/technology-budgeting | 18F/technology-budgeting: 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
+https://github.com/18F/development-guide | 18F/development-guide: A set of guidelines and best practices for an awesome engineering team
+https://github.com/18F/eng-hiring | 18F/eng-hiring: 18F Engineering's guide to candidate selection, from resume screen to offer.
+https://github.com/18F/ux-guide | 18F/ux-guide: Resources, norms, and practices for doing user experience research and design work at 18F.
+
+https://github.com/uswds/uswds | uswds/uswds: The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
 https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
 
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
 
 https://twitter.com/skimbrel/status/1190734445952659456
 https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
@@ -420,9 +452,9 @@ Uber
 * [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
 
 <!--
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+https://todogroup.org/blog/survey-2019/
 
-https://docs.microsoft.com/en-us/contribute | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
 https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
 
@@ -438,6 +470,7 @@ https://foundation.mozilla.org/en/
 https://foundation.nodejs.org/
 https://opensource.org/
 
+https://cloudblogs.microsoft.com/opensource/2019/02/06/microsoft-joins-openchain-community/ | Microsoft joins the OpenChain community to help drive open source compliance - Open Source blog
 https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
 https://www.openchainproject.org/ | Home - OpenChain
 
@@ -449,6 +482,8 @@ https://www.slideshare.net/NodejsFoundation | Nodejsfoundation presentations
 ## Open Source Assessment
 
 <!--
+https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
+
 https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
 -->
 
@@ -621,6 +656,40 @@ https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-mi
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
 -->
 
+<!--
+GitOps
+https://www.atlassian.com/devops
+https://www.gremlin.com
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
+https://response.pagerduty.com/ | PagerDuty Incident Response Documentation
+https://devcenter.heroku.com/articles/chatops?preview=1
+https://en.wikipedia.org/wiki/Chaos_engineering
+https://www.redhat.com/en/topics/devops/what-is-devsecops
+
+Release phases, CI/CD
+https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
+https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes/?utm_source=t.co&utm_medium=referral | How to automate your release notes
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
+https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
+
+VS Code Testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+
+API
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+-->
+
 ## Heroku and Bitbucket
 
 Heroku- Deployment
@@ -647,6 +716,10 @@ Atlassian Agile
 * [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
 <!--
+Digital Ocean
+https://marketplace.digitalocean.com | DigitalOcean Marketplace
+https://blog.digitalocean.com/introducing-digitalocean-marketplace/ | Introducing DigitalOcean Marketplace: Our Platform for Preconfigured 1-Click Apps and Tools
+
 https://developer.atlassian.com
 
 https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
@@ -671,18 +744,6 @@ GitLab- Notable Features
 * [GitLab Packages](http://packages.gitlab.com)
 
 <!--
-https://about.gitlab.com/
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
-
-https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
-https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
-
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
@@ -701,6 +762,19 @@ https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
 
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
+
+https://about.gitlab.com/
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
 -->
 
 ## Priorities
