@@ -1,6 +1,28 @@
 # The List 2019
 
 <!--
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
+
+https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
+
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+https://github.com/actions/checkout | actions/checkout
+
+Important
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+
+https://testautomationu.applitools.com/unit-testing/ | Overview
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
+
+code.gov issue pr templates - Google Search
+create issue and template prs in repo settings - Google Search
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+department of veterans affairs product lines - Google Search
+
+
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
 
 https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
