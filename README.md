@@ -17,11 +17,6 @@ https://testautomationu.applitools.com/unit-testing/ | Overview
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 
-code.gov issue pr templates - Google Search
-create issue and template prs in repo settings - Google Search
-https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
-department of veterans affairs product lines - Google Search
-
 
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
 
@@ -408,6 +403,12 @@ https://github.com/18F/eng-hiring | 18F/eng-hiring: 18F Engineering's guide to c
 https://github.com/18F/ux-guide | 18F/ux-guide: Resources, norms, and practices for doing user experience research and design work at 18F.
 
 https://github.com/uswds/uswds | uswds/uswds: The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
+code.gov issue pr templates - Google Search
+create issue and template prs in repo settings - Google Search
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+
+department of veterans affairs product lines - Google Search
 
 https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
 
