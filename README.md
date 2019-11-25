@@ -1,6 +1,8 @@
 # The List 2019
 
 <!--
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
 
@@ -210,6 +212,98 @@ See also: Data Science
 https://github.com/keen/cohorts
 -->
 
+## Advanced Workflows- Collaborative Development
+
+Collaborative Development Models
+* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
+* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
+* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
+* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
+* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
+
+Pros and Cons
+* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
+
+Gitflow Considered Harmful
+* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
+* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
+
+Atlassian Workflow
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
+
+GitHub Flow
+* [GitHub Flow](https://help.github.com/articles/github-flow)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+GitLab Flow
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
+* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+
+Other Company Blogs
+* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
+* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
+
+Company or Organization Specific Git Workflows
+* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
+
+## Release Management
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Release Management
+* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
+* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
+* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
+* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+
+Software Versioning and Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+* [CalVer](https://calver.org)
+* [ZeroVer](https://0ver.org)
+
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
+Other Stuff
+* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
+* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
+
+<!--
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+https://github.com/marketplace/actions/action-for-semantic-release
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+
+Create a release
+https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
+https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+-->
+
 ## Hosting and GitHub
 
 Hosting Blogs
@@ -217,10 +311,19 @@ Hosting Blogs
 * [Amazon Web Services New](https://aws.amazon.com/new)
 * [AWS Blog](https://aws.amazon.com/blogs)
 
-GitHub
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+GitHub Blogs
 * [GitHub Blog](https://github.blog)  
 * [GitHub Engineering](https://githubengineering.com) 
+
+<!--
+Digital Ocean, GitHub
+
+https://github.blog/changelog/ | Changelog - The GitHub Blog
+https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
+-->
+
+GitHub Features
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
 
 GitHub- Notable Features
 * [GitHub Actions](https://github.com/features/actions)
@@ -254,19 +357,29 @@ https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twi
 
 https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
 
+https://nadiaeghbal.com/tragedy-of-the-commons
 https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
 https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
 
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
 
+
+GitHub Apps/GitHub Actions
+Gidget library
+polling versus webhooks, JSON, REST, HTTP, API
+https://github.com/marketplace
+https://github.com/marketplace?type=apps
+https://github.com/marketplace?type=actions
+https://github.com/features/actions
+https://developer.github.com/webhooks/creating/
 https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+
 
 GitHub Universe
 https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
 https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
 https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
-
 
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
@@ -275,10 +388,6 @@ https://github.com/universeworkshops/general/blob/master/prereqs.md | general/pr
 https://lab.github.com/
 https://lab.github.com/githubtraining/ | GitHub Learning Lab
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-
-https://github.blog/ | The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
-https://github.blog/changelog/ | Changelog - The GitHub Blog
-https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
 
 https://github.blog/2019-11-13-universe-day-one/ | New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more - The GitHub Blog
 https://githubuniverse.com/schedule/#exemplars-laggards-and-the-cautious-crew-58-a-data-driven-look-at-practices-behind-exemplar-open-source-projects | GitHub Universe 2019 Schedule | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
@@ -328,19 +437,7 @@ https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-
-Semantic Release and Merge Release
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-https://github.com/marketplace/actions/action-for-semantic-release
-
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
-
-Create a release
-https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
-https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://github.com/jlord/reporobot
 
 Probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
@@ -440,6 +537,22 @@ https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Com
 ## OS and Software Offices, Foundations, and Practices by Company
 
 <!--
+https://github.com/presidential-innovation-fellows
+
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+
+https://opensource.salesforce.com/
+
+https://guides.github.com/introduction/flow/
+
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
 https://github.com/adobe/open-development-template
 
 https://content-guide.18f.gov/inclusive-language/ | 18F Content Guide - Inclusive language
@@ -459,10 +572,6 @@ https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templ
 department of veterans affairs product lines - Google Search
 
 https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
-
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
 
 https://twitter.com/skimbrel/status/1190734445952659456
 https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
@@ -488,6 +597,14 @@ Google Engineering Practices
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
 <!--
+https://todogroup.org/members/
+https://github.com/facebook/fbshipit
+https://github.com/facebookarchive/mention-bot
+
+https://opensource.guide/best-practices/
+
+http://google.github.io/styleguide/
+
 http://google-engtools.blogspot.com/ | Google Engineering Tools
 https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
 
@@ -535,6 +652,9 @@ https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in re
 -->
 
 <!--
+https://www.cncf.io/
+https://www.openapis.org/
+
 https://www.linuxfoundation.org/
 https://www.apache.org/foundation/
 https://foundation.mozilla.org/en/
@@ -1069,41 +1189,6 @@ Mobile
 
 Articles
 * [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
-## Release Management
-
-Software Release Life Cycle
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-
-Release Management
-* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
-* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
-* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
-* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
-* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
-
-Software Versioning and Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-* [CalVer](https://calver.org)
-* [ZeroVer](https://0ver.org)
-
-<!--
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release/semantic-release
--->
-
-Continuousness
-* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
-
-Continuous Integration Software
-* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
-
-Other Stuff
-* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
-* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
 
 ## Useful Files
 
