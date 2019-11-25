@@ -314,12 +314,10 @@ Hosting Blogs
 GitHub Blogs
 * [GitHub Blog](https://github.blog)  
 * [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
 <!--
-Digital Ocean, GitHub
-
-https://github.blog/changelog/ | Changelog - The GitHub Blog
-https://twitter.com/GHchangelog | GitHub Changelog (@GHchangelog) / Twitter
+Digital Ocean
 -->
 
 GitHub Features
@@ -327,7 +325,7 @@ GitHub Features
 
 GitHub- Notable Features
 * [GitHub Actions](https://github.com/features/actions)
-* [GitHub Package Registry](https://github.com/features/package-registry)
+* [GitHub Package Registry](https://github.com/features/packages)
 
 <!--
 https://twitter.com/natfriedman/status/1159511728704483329
@@ -340,9 +338,11 @@ GitHub Integrations
 GitHub
 * [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
-GitHub Web Hooks
-* [Service Hooks GitHub](https://github.com/github/github-services)   
+GitHub Web Hooks  
 * [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+GitHub Services- Deprecated
+* [Service GitHub](https://github.com/github/github-services) 
 
 GitHub Developer 
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
@@ -485,7 +485,6 @@ https://github.com/jefftriplett/example-python-actions | jefftriplett/example-py
 
 Packages
 https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
-https://github.com/features/packages | GitHub Packages: Your packages, at home with their code
 https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
 
 https://developer.github.com/apps
@@ -502,7 +501,7 @@ https://developer.github.com/integrations-directory/
 https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
 https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
 
-https://github.com/github/github-services/tree/master/docs
+https://help.github.com/articles/securing-your-github-pages-site-with-https/
 
 https://pages.github.com/versions/ | Dependency versions | GitHub Pages
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
