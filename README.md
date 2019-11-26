@@ -320,32 +320,32 @@ GitHub Blogs
 Digital Ocean
 -->
 
+GitHub
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+
 GitHub Features
 * [GitHub Features (Code Review, ect.)](https://github.com/features) 
 
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
 GitHub- Notable Features
 * [GitHub Actions](https://github.com/features/actions)
-* [GitHub Package Registry](https://github.com/features/packages)
+* [GitHub Packages](https://github.com/features/packages)
+
+GitHub Web Hooks  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
 <!--
 https://twitter.com/natfriedman/status/1159511728704483329
 https://twitter.com/kelseyhightower/status/1159517721068916736
 -->
 
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-GitHub
-* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
-
-GitHub Web Hooks  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 GitHub Services- Deprecated
 * [Service GitHub](https://github.com/github/github-services) 
-
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
 <!--
 https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
@@ -574,9 +574,9 @@ https://github.com/department-of-veterans-affairs/va-digital-service-handbook | 
 
 https://twitter.com/skimbrel/status/1190734445952659456
 https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
--->
 
 (Case studies versus documentation)
+-->
 
 TODO
 * [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
