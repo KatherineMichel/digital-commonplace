@@ -4,8 +4,6 @@
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
-https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
-
 https://github.com/github/site-policy
 
 
@@ -14,8 +12,6 @@ https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-
-https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 
 
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
@@ -648,6 +644,8 @@ https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with
 https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
 https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
 https://about.gitlab.com/2016/11/22/introducing-review-apps/
+
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
 -->
 
 ## Agile, CI, and Ops
@@ -717,41 +715,13 @@ Git Ignore and Licenses
 * [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
 
 <!--
-https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
-https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
-https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
-https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
-https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
-
-https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
-https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
-
 https://github.com/githubtraining/introduction-to-github | githubtraining/introduction-to-github: Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
 https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
 
-https://github.community/ | Home - GitHub Community Forum
 https://hub.github.com/ | hub · the command-line wrapper for git
-https://github.com/maintainers | Open Source Maintainers on GitHub
-
-Open source stories and profiles
-https://github.com/open-source/stories | Open Source Stories · GitHub
-https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
-
-https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
-
-Sponsors
-https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
-https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
-https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
-https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
-https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
-https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
-https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
-https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
 
 https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
 https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
 
 Digital Ocean
 https://marketplace.digitalocean.com | DigitalOcean Marketplace
@@ -761,18 +731,6 @@ https://blog.digitalocean.com/introducing-digitalocean-marketplace/ | Introducin
 ## OS and Software Offices, Foundations, and Practices by Company
 
 <!--
-https://github.com/presidential-innovation-fellows
-
-https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
-
-https://opensource.salesforce.com/
-https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
-https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
-
-https://github.com/NationalSecurityAgency
-
-https://guides.github.com/introduction/flow/
-
 https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
 https://opensource.microsoft.com/explore
@@ -885,31 +843,14 @@ https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in re
 -->
 
 <!--
-https://www.cncf.io/
-https://www.openapis.org/
+https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
+https://www.facebook.com/notes/kent-beck/fresh-work-80155/1186004658099063
 
-https://www.linuxfoundation.org/
-https://www.apache.org/foundation/
-https://foundation.mozilla.org/en/
-https://foundation.nodejs.org/
-https://opensource.org/
-
-https://cloudblogs.microsoft.com/opensource/2019/02/06/microsoft-joins-openchain-community/ | Microsoft joins the OpenChain community to help drive open source compliance - Open Source blog
-https://eng.uber.com/uber-openchain/ | Uber Joins the Linux Foundation's OpenChain Project as a Platinum Member | Uber Engineering Blog
-https://www.openchainproject.org/ | Home - OpenChain
-
-https://foundation.nodejs.org/about/leadership
-https://github.com/nodejs/board | nodejs/board: The Node Foundation Board of Directors
-https://www.slideshare.net/NodejsFoundation | Nodejsfoundation presentations
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 -->
 
-## Open Source Assessment
 
-<!--
-https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
-
-https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
--->
+## Open Source and Assessment
 
 Mozilla Metrics
 * [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
@@ -917,9 +858,29 @@ Mozilla Metrics
 * [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
 * [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
 
-Maturity Models
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+Maturity Models and Frameworks
+* [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
+* [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
 * [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+* [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
 * [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
+* [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
+* [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
+<!--
+https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
+
+https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
+
+https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
+https://github.com/opensourceway/open-decision-framework
+https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
+https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
+-->
 
 <!--
 https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
@@ -946,66 +907,10 @@ https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
-
-Diversity Study
-https://www.atlassian.com
-https://www.atlassian.com/diversity/survey/2018 | 2018 State of Diversity Report | Atlassian
-https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c | Diversity fatigue is real: Atlassian's State of Diversity Report 2018
-
-https://medium.com/@nodejs/take-our-node-js-2018-user-survey-965011560edb | Take Our Node.js 2018 User Survey! – Node.js Foundation – Medium
-Node
-
-https://github.com/nodejs/TSC/issues/179 | Result of Request to migrate Inclusivity Working Group responsibilities to the Node.js Foundation and TSC · Issue #179 · nodejs/TSC
-https://github.com/nodejs/summit/ | nodejs/summit: Organizing a Collaborator Summit
-https://github.com/nodejs/summit/issues/35 | Collaboration Summit at Node Interactive Austin · Issue #35 · nodejs/summit
-https://github.com/nodejs/community-committee | nodejs/community-committee: The Node.js Foundation Community Committee (aka CommComm)
-https://en.wikipedia.org/wiki/Capacity_building | Capacity building - Wikipedia
-https://blog.npmjs.org/post/164575965335/values-inclusion-and-the-nodejs-foundation | The npm Blog — Values, Inclusion, and the Node.js Foundation
-https://github.com/nodejs/board/blob/38a7a3065613e04a259c23ea02bb6e787d9ea839/minutes/2016-09-15.md | board/2016-09-15.md at 38a7a3065613e04a259c23ea02bb6e787d9ea839 · nodejs/board
-Node.js Foundation’s membership levels - Google Search
-https://github.com/nodejs/outreach | nodejs/outreach: A Node.js community growth and support initiative
-
-http://www.devtalk.tv/keynote-the-road-forward-by-tracy-hinds-nodejs-foundation_a01f763e9.html | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation
-https://www.youtube.com/watch?v=pyEQRjU1SZQ | KEYNOTE: The Road Forward by Tracy Hinds, Node.js Foundation - YouTube
-http://www.devtalk.tv/keynote-contributing-to-nodejs-coding-not-required-by-william-kapke-kap-co-llc_fd62a5d2f.html | KEYNOTE: Contributing to Node.js: Coding Not Required by William Kapke, Kap Co, LLC
-
-https://chaoss.community/chaosscon-2018-na/ | CHAOSScon-2018-NA - CHAOSS
-https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/ | Open Source Summit 2018 - Linux Foundation Events
-https://www.youtube.com/playlist?list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth | Open Source Summit North America 2017 - YouTube
-https://ossna2017.sched.com/event/BJ4v/time-for-action-innovating-for-di-in-open-source-communities-emma-irwin-larissa-shapiro-mozilla | Open Source Summit North America 2017: Time for Action - Innovating for D&I in...
-
-Mozilla
-https://medium.com/mozilla-open-innovation/a-time-for-action-innovating-for-diversity-inclusion-in-open-source-communities-6922fef4675e | A Time for Action — Innovating for Diversity & Inclusion in Open Source Communities
-https://wiki.mozilla.org/Diversity_and_Inclusion_Strategy#Long_Term_Vision | Diversity and Inclusion Strategy - MozillaWiki
-https://wiki.mozilla.org/Diversity_and_Inclusion_for_Communities_and_Contributors/DI_Call_08_01_2018 | Diversity and Inclusion for Communities and Contributors/DI Call 08 01 2018 - MozillaWiki
-https://github.com/mozilla/diversity | mozilla/diversity: Our repository for Diversity & Inclusion work at Mozilla
-https://schd.ws/hosted_files/ossna2017/4b/MZ_Time_for_Action_D%26I_deck_v2%20copy.pdf | MZ_Time_for_Action_D&I_deck_v2 copy
-https://www.mozilla.org/en-US/about/governance/policies/participation/ | Community Participation Guidelines — Mozilla
-https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425 | We See You! Reaching Diverse Audiences in FOSS – Mozilla Open Innovation – Medium
-https://discourse.mozilla.org/t/diversity-inclusion-in-open-source-survey/23733 | Diversity & Inclusion in Open Source - Survey - Mozillians - Mozilla Discourse
-https://blog.rust-lang.org/2017/06/27/Increasing-Rusts-Reach.html | Increasing Rust’s Reach - The Rust Programming Language Blog
-https://medium.com/mozilla-open-innovation | Mozilla Open Innovation – Medium
-https://twitter.com/aschapi/status/987106493618044928 | Amy Schapiro on Twitter: "The state of diversity and inclusion at @mozilla is now available: Mozilla Corporation: https://t.co/XZK5uDv7Pp Mozilla Foundation: https://t.co/81cBZck2rP"
-https://groups.google.com/forum/#!msg/mozilla.governance/OQlS6-gUBLQ/u0Em5XKjCAAJ | Proposal: Addressing the term “meritocracy” in the governance statement - Google Groups
-Mozilla open leaders programme - Google Search
-https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
-https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
-
-https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
-https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
-
-
-NumFOCUS
-https://numfocus.org/blog/discover-cookbook | Diverse & Inclusive Events and Conferences Cookbook — #DISCunconf
-https://github.com/numfocus/DISCOVER-Cookbook | numfocus/DISCOVER-Cookbook: The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources). A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
-https://github.com/numfocus/diversity-and-inclusion-conversation-kit | numfocus/diversity-and-inclusion-conversation-kit: Quick start guide to raise awareness and promote conversations about diversity and inclusion in your workplace
-
-Disc
-https://numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/ | Page not found - NumFOCUS
-https://numfocus.org/blog/diversity-and-metrics-in-software-communities-notes-from-the-disc-unconference | Diversity and Metrics in Software Communities — Notes from the DISC Unconference - NumFOCUS
-https://numfocus.org/blog/starting-di-conversations-work-notes-disc-unconference | Starting D&I Conversations at Work — Notes from the DISC Unconference - NumFOCUS
-
-https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
+Google Open Source Report Card
+https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
+Groupon Open Source Report Card
+https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
 -->
 
 ## Productivity
