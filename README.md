@@ -7,13 +7,14 @@ https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
 
 https://github.com/github/site-policy
--->
 
-<!--
+
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 
 https://testautomationu.applitools.com/unit-testing/ | Overview
+
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+
 https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 
 
@@ -50,12 +51,6 @@ Silent Meeting
 https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
 
 http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-https://opensource.salesforce.com/ | Salesforce Open Source
-https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
-https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
-
-https://github.com/NationalSecurityAgency
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
@@ -409,10 +404,7 @@ https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · mic
 Example actions
 https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
 
-Packages
-https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
-https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
-
+requests library
 
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
@@ -426,9 +418,10 @@ https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 
 https://github.com/blog/2226-build-an-integration-for-github
-https://developer.github.com/integrations-directory/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
+
+Packages
+https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
+https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
 -->
 
 <!--
@@ -773,6 +766,10 @@ https://github.com/presidential-innovation-fellows
 https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 
 https://opensource.salesforce.com/
+https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
+https://developer.capitalone.com/open-source/ | Open Source | Capital One DevExchange
+
+https://github.com/NationalSecurityAgency
 
 https://guides.github.com/introduction/flow/
 
