@@ -1,6 +1,41 @@
 # The List 2019
 
 <!--
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+Feature Toggles
+https://dzone.com/articles/feature-toggles-are-one-worst | Feature Toggles are one of the Worst kinds of Technical Debt - DZone DevOps
+https://abhishek-tiwari.com/decoupling-deployment-and-release-feature-toggles/ | Decoupling Deployment and Release- Feature Toggles
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+http://blog.launchdarkly.com/feature-branching-using-feature-flags/ | Feature Branching Using Feature Flags
+http://blog.launchdarkly.com/feature-flag-driven-products/ | Feature Flag-Driven Products
+http://blog.launchdarkly.com/tag/multivariate-feature-flags/ | Multivariate Feature Flags | LaunchDarkly Blog
+https://featureflags.io/2016/01/14/trunk-based-development/ | Trunk Based Development – Feature Flags, Toggles, Controls
+https://featureflags.io/feature-flag-uses/ | Uses – Feature Flags, Toggles, Controls
+https://featureflags.io/python-feature-flags/ | Python Feature Flags – Feature Flags, Toggles, Controls
+python feature flags
+https://stackoverflow.com/questions/24615921/beginners-guide-to-feature-flags-django | python 2.7 - Beginner's guide to Feature flags - Django - Stack Overflow
+
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://puppet.com/resources/whitepaper/state-of-devops-report/thank-you | 2017 State of DevOps Report – Thank you | Puppet
+https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
+
+https://github.com/github/site-policy
+
+https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
+https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
+
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+https://about.gitlab.com/2017/11/01/gitlab-switches-to-dco-license/ | We're switching to a DCO for source code contributions | GitLab
+-->
+
+<!--
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
@@ -212,6 +247,260 @@ See also: Data Science
 https://github.com/keen/cohorts
 -->
 
+## Hosting and GitHub
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+GitLab- Notable Features
+* [GitLab Blog](https://about.gitlab.com/blog/)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+<!--
+https://about.gitlab.com/
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+https://docs.gitlab.com/ee/install/README.html
+-->
+
+GitHub Blogs
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitHub
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+
+GitHub Features
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Packages](https://github.com/features/packages)
+
+GitHub Web Hooks  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+<!--
+https://twitter.com/natfriedman/status/1159511728704483329
+https://twitter.com/kelseyhightower/status/1159517721068916736
+-->
+
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+GitHub Services- Deprecated
+* [Service GitHub](https://github.com/github/github-services) 
+
+<!--
+3 methods
+https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
+Metrics
+https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
+https://nadiaeghbal.com/tragedy-of-the-commons
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+
+
+GitHub Apps/GitHub Actions
+Gidget library
+polling versus webhooks, JSON, REST, HTTP, API
+https://github.com/marketplace
+https://github.com/marketplace?type=apps
+https://github.com/marketplace?type=actions
+https://github.com/features/actions
+https://developer.github.com/webhooks/creating/
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
+
+https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
+https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
+https://lab.github.com/
+https://lab.github.com/githubtraining/ | GitHub Learning Lab
+https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
+
+https://github.blog/2019-11-13-universe-day-one/ | New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more - The GitHub Blog
+https://githubuniverse.com/schedule/#exemplars-laggards-and-the-cautious-crew-58-a-data-driven-look-at-practices-behind-exemplar-open-source-projects | GitHub Universe 2019 Schedule | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
+
+https://www.youtube.com/user/github/videos | GitHub - YouTube
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+GitHub Security
+https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
+https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
+https://securitylab.github.com/ | GitHub Security Lab
+https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
+https://github.com/advisories | GitHub Advisory Database
+request cve - Google Search
+https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
+https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
+
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+
+https://dependabot.com/ | Dependabot
+https://dependabot.com/#how-it-works | Dependabot
+https://dependabot.com/github-actions/ | Dependabot
+
+https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitter: "Announced at #GitHubUniverse: You can now direct issue creators to visit your @SlackHQ group or forum https://t.co/ONTR4VdLBV" / Twitter
+
+https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
+
+https://github.com/sponsors | GitHub Sponsors
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://github.com/jlord/reporobot
+
+Probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
+https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
+https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+
+https://github.com/actions | GitHub Actions
+
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
+Actions innovations
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
+https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
+https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
+https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
+
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+https://github.com/marketplace/actions/action-for-semantic-release
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+
+Create a release
+https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
+https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+
+
+Corporate actions
+https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
+https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
+https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
+https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+
+Example actions
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+
+Packages
+https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
+https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
+https://developer.github.com/apps
+https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v4/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+
+https://github.com/blog/2226-build-an-integration-for-github
+https://developer.github.com/integrations-directory/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
+https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
+-->
+
+<!--
+VS Code Testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+
+API
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+-->
+
+<!--
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
+
+https://pages.github.com/versions/ | Dependency versions | GitHub Pages
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
+https://github.com/showcases/projects-with-great-wikis
+
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github | Navigating code on GitHub - GitHub Help
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://github.com/blog/2123-more-code-review-tools
+https://github.com/marketplace/category/code-review
+https://github.com/blog/2392-introducing-code-owners
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+
+https://github.blog/2019-02-07-user-owned-projects-your-personal-workspace/ | User owned projects—your personal workspace - The GitHub Blog
+https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
+https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
+https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
+
+Permissions: triage and maintain
+
+https://help.github.com/articles/securing-your-github-pages-site-with-https/
+
+* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
+
+https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
+
+https://github.com/erikbern/git-of-theseus
+
+https://github.com/primer | Primer
+-->
+
 ## Advanced Workflows- Collaborative Development
 
 Collaborative Development Models
@@ -288,64 +577,118 @@ Other Stuff
 * [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
 
 <!--
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+CI/CD
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
 
-Semantic Release and Merge Release
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-https://github.com/marketplace/actions/action-for-semantic-release
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
+https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
 
-Create a release
-https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
-https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
+
+https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
+
+https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
 -->
 
-## Hosting and GitHub
+## Workflows
 
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 
-GitHub Blogs
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
 <!--
-Digital Ocean
+Release Phase
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
 -->
 
-GitHub
-* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+## Agile, CI, and Ops
 
-GitHub Features
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
 
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-* [GitHub Packages](https://github.com/features/packages)
-
-GitHub Web Hooks  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+Atlassian DevOps
+* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
 
 <!--
-https://twitter.com/natfriedman/status/1159511728704483329
-https://twitter.com/kelseyhightower/status/1159517721068916736
+https://developer.atlassian.com
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+DevOps
+https://www.atlassian.com/devops
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+https://www.redhat.com/en/topics/devops/what-is-devsecops
+
+GitOps
+https://devcenter.heroku.com/articles/chatops?preview=1
+
+https://response.pagerduty.com/ | PagerDuty Incident Response Documentation
+
+https://en.wikipedia.org/wiki/Chaos_engineering
+https://www.gremlin.com
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 -->
 
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+## Company Manuals
 
-GitHub Services- Deprecated
-* [Service GitHub](https://github.com/github/github-services) 
+<!--
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
+-->
+
+## More Open Source Tools and Blogs
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
 
 <!--
 https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
@@ -354,183 +697,39 @@ https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna 
 https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
 https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
 
-
-https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
-
-https://nadiaeghbal.com/tragedy-of-the-commons
-https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
-https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-
-
-GitHub Apps/GitHub Actions
-Gidget library
-polling versus webhooks, JSON, REST, HTTP, API
-https://github.com/marketplace
-https://github.com/marketplace?type=apps
-https://github.com/marketplace?type=actions
-https://github.com/features/actions
-https://developer.github.com/webhooks/creating/
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
-
-
-GitHub Universe
-https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
-https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
-https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
-
-https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
-https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
-https://lab.github.com/
-https://lab.github.com/githubtraining/ | GitHub Learning Lab
-https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-
-https://github.blog/2019-11-13-universe-day-one/ | New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more - The GitHub Blog
-https://githubuniverse.com/schedule/#exemplars-laggards-and-the-cautious-crew-58-a-data-driven-look-at-practices-behind-exemplar-open-source-projects | GitHub Universe 2019 Schedule | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
-
-https://www.youtube.com/user/github/videos | GitHub - YouTube
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2401-the-github-diversity-report	
-
-Hacktoberfest
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
+https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
 
 https://github.com/githubtraining/introduction-to-github | githubtraining/introduction-to-github: Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
 https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
 
-GitHub Security
-https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
-https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
-https://securitylab.github.com/ | GitHub Security Lab
-https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
-https://github.com/advisories | GitHub Advisory Database
-request cve - Google Search
-https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
-https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
-
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
-
-https://dependabot.com/ | Dependabot
-https://dependabot.com/#how-it-works | Dependabot
-https://dependabot.com/github-actions/ | Dependabot
-
-https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitter: "Announced at #GitHubUniverse: You can now direct issue creators to visit your @SlackHQ group or forum https://t.co/ONTR4VdLBV" / Twitter
-
-https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
-
-https://github.com/sponsors | GitHub Sponsors
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
-
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
-
-https://github.com/jlord/reporobot
-
-Probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-https://probot.github.io/apps/ | Featured Apps | Probot
-https://probot.github.io/docs/hello-world/ | Hello world | Probot
-https://probot.github.io/apps/polls/ | Polls | Probot
-https://probot.github.io/apps/no-response/ | No Response | Probot
-
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-
-https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
-https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
-https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
-
-https://github.com/actions | GitHub Actions
-
-https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
-
-Actions innovations
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
-https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
-
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
-
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
-
-
-Corporate actions
-https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
-https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
-https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
-https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
-
-Example actions
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
-
-Packages
-https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
-https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
-
-https://developer.github.com/apps
-https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
-
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v4/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
-
-https://github.com/blog/2226-build-an-integration-for-github
-https://developer.github.com/integrations-directory/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-integrations/
-https://developer.github.com/apps/building-integrations/setting-up-a-new-integration/about-choosing-an-integration-type/
-
-https://help.github.com/articles/securing-your-github-pages-site-with-https/
-
-https://pages.github.com/versions/ | Dependency versions | GitHub Pages
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
-https://github.com/showcases/projects-with-great-wikis
-
-
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github | Navigating code on GitHub - GitHub Help
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-https://github.com/blog/2123-more-code-review-tools
-https://github.com/marketplace/category/code-review
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-
-https://github.blog/2019-02-07-user-owned-projects-your-personal-workspace/ | User owned projects—your personal workspace - The GitHub Blog
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
-https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
-https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
-
-
-https://twitter.com/jessfraz/status/1131617156674850817 | jessie frazelle 👩🏼‍🚀 on Twitter: "Another huge win for open source projects is hidden in the enterprise blog post. Two new granular permissions: Triage and Maintain!!! Open source projects can now designate certain users to just garden issues without write access to code. THIS IS HUGE! https://t.co/Q4kc5iuJop"
-
-https://github.com/erikbern/git-of-theseus
-
-* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
+https://github.community/ | Home - GitHub Community Forum
+https://hub.github.com/ | hub · the command-line wrapper for git
+https://github.com/maintainers | Open Source Maintainers on GitHub
 
 Open source stories and profiles
 https://github.com/open-source/stories | Open Source Stories · GitHub
 https://github.community/t5/GitHub-Community-Profiles/bg-p/profiles | GitHub Community Profiles - GitHub Community Forum
+
+https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
+
+Sponsors
+https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
+https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
+https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
+https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
+https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
+https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
+https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
+https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
+
+https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
+https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+Digital Ocean
+https://marketplace.digitalocean.com | DigitalOcean Marketplace
+https://blog.digitalocean.com/introducing-digitalocean-marketplace/ | Introducing DigitalOcean Marketplace: Our Platform for Preconfigured 1-Click Apps and Tools
 -->
 
 ## OS and Software Offices, Foundations, and Practices by Company
@@ -606,6 +805,11 @@ http://google.github.io/styleguide/
 
 http://google-engtools.blogspot.com/ | Google Engineering Tools
 https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
+
+GitHub Universe
+https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
+https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
+https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
 
 Bazel
 https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
@@ -774,45 +978,6 @@ https://numfocus.org/blog/starting-di-conversations-work-notes-disc-unconference
 https://github.com/mischah/awesome-open-source-supporting | mischah/awesome-open-source-supporting: An awesome list about possibilities to support Open Source
 -->
 
-## More Open Source Tools and Blogs
-
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
-
-<!--
-https://twitter.com/natfriedman/status/1103921562661511174 | Nat Friedman on Twitter: "What would be a good grant size?… "
-https://twitter.com/natfriedman/status/1103919494894772226 | Nat Friedman on Twitter: "We're considering opening applications for desk space in the GitHub HQ in SF to open source contributors who want a place to work. You'd need to sign an NDA, and we might occasionally ask for your feedback on things we're building. What do people think?"
-
-https://github.community/ | Home - GitHub Community Forum
-https://hub.github.com/ | hub · the command-line wrapper for git
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://github.com/primer | Primer
-
-https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/ | Let's talk about open source sustainability - The GitHub Blog
-
-Sponsors
-https://nadiaeghbal.com/github-sponsors | Nadia Eghbal | The Twitch argument for GitHub Sponsors
-https://medium.com/open-collective/on-github-sponsors-5450b63caf7d | On Github Sponsors – Open Collective – Medium
-https://medium.com/open-collective/funding-open-source-how-webpack-reached-400k-year-dfb6d8384e19 | Funding Open Source: How Webpack Reached $400k+/year
-https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift | $1m to pay open source maintainers on Tidelift
-https://blog.tidelift.com/is-your-package-eligible-for-income-on-tidelift-heres-the-complete-list-may-2019#PyPI | Is your package eligible for income on Tidelift? Here's the complete list.
-https://github.com/pypa/gh-action-pypi-publish/blob/master/.github/FUNDING.yml | gh-action-pypi-publish/FUNDING.yml at master · pypa/gh-action-pypi-publish
-https://tidelift.com/subscription/how-to-connect-tidelift-with-github | Tidelift + GitHub
-https://nedbatchelder.com/blog/201905/tidelift.html | Ned Batchelder: Tidelift
-
-https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
-https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
-
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
-
-https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
--->
-
 ## Productivity
 
 Visual Studio Code
@@ -844,127 +1009,6 @@ https://code.visualstudio.com/docs/languages/python#_install-python-and-the-pyth
 https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
-
-<!--
-GitOps
-https://www.atlassian.com/devops
-https://www.gremlin.com
-https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
-https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
-https://response.pagerduty.com/ | PagerDuty Incident Response Documentation
-https://devcenter.heroku.com/articles/chatops?preview=1
-https://en.wikipedia.org/wiki/Chaos_engineering
-https://www.redhat.com/en/topics/devops/what-is-devsecops
-
-Release phases, CI/CD
-https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
-https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
-https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
-https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
-https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
-https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes/?utm_source=t.co&utm_medium=referral | How to automate your release notes
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
-https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
-https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
-https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
-
-VS Code Testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-
-API
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
--->
-
-## Heroku and Bitbucket
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-
-<!--
-Digital Ocean
-https://marketplace.digitalocean.com | DigitalOcean Marketplace
-https://blog.digitalocean.com/introducing-digitalocean-marketplace/ | Introducing DigitalOcean Marketplace: Our Platform for Preconfigured 1-Click Apps and Tools
-
-https://developer.atlassian.com
-
-https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
-
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/devops | What is DevOps? | Atlassian
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
--->
-
-## GitLab
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitLab- Notable Features
-* [GitLab Packages](http://packages.gitlab.com)
-
-<!--
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-
-GitLab Docs- Overview
-https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
-
-GitLab General
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://docs.gitlab.com/ee/install/README.html
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-https://docs.gitlab.com/ee/README.html | GitLab Documentation | GitLab
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-
-
-https://about.gitlab.com/
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
-
-https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
-https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
 -->
 
 ## Priorities
