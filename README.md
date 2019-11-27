@@ -287,6 +287,9 @@ https://realpython.com/modeling-polymorphism-django-python/
 
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
 
+Python/Django state
+JavaScript state
+
 https://en.wikipedia.org/wiki/Object_composition
 https://en.wikipedia.org/wiki/State_(computer_science)
 https://en.wikipedia.org/wiki/Stateless_protocol
