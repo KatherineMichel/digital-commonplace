@@ -90,8 +90,6 @@ https://twitter.com/JamesClear
 
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
 
-https://twitter.com/carltongibson/status/1174328979236499457 | Carlton Gibson on Twitter: "There are secrets to having super-powers: &gt; I have a calendar reminder to check the specs every 3 months... — says @AdamChainz 💪 https://t.co/Vs0UCRPLmi" / Twitter
-
 https://zapier.com/blog/the-checklist-manifesto/
 
 https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
@@ -118,20 +116,7 @@ https://www.asciiart.eu/ | ASCII Art Archive
 
 https://agilemanifesto.org/ | Manifesto for Agile Software Development
 
-https://www.youtube.com/watch?v=nL-YqmEbjK8 | GitLab 10.8 Kickoff - YouTube
-https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit | GitLab Kickoff - Google Docs
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
 https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
-Ansible
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-
-https://twitter.com/housecor/status/1142153344179429378 | Cory House on Twitter: "When someone new joins the team, I try to avoid verbal training. I believe processes should be documented. So I link to the relevant doc. If one doesn't exist, we create it together. Outdated? We fix it. This fosters solid docs, exposes holes, and avoids "tribal knowledge"."
 
 https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
@@ -245,6 +230,126 @@ See also: Data Science
 https://github.com/keen/cohorts
 -->
 
+## Programming Paradigms
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+<!--
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+-->
+
+## Useful Terminology
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+
+<!--
+functional programming- immutability/immutable data structures
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+<!--
+https://realpython.com/modeling-polymorphism-django-python/
+
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Object_composition
+https://en.wikipedia.org/wiki/State_(computer_science)
+https://en.wikipedia.org/wiki/Stateless_protocol
+https://en.wikipedia.org/wiki/State_diagram
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+https://en.wikipedia.org/wiki/Persistence_(computer_science)
+https://en.wikipedia.org/wiki/Persistent_data_structure
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
+
+https://en.wikipedia.org/wiki/Immutable_object
+
+https://en.wikipedia.org/wiki/Memoization
+-->
+
+## General Software Design Patterns
+
+Creational Patterns (object creation)
+* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
+* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
+
+Creational Patterns- Can use Singleton in Implementation
+* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
+* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
+
+Structural Patterns (relationships among entities)
+* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
+* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
+* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
+* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
+
+Behavioral Patterns
+* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
+* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
+* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
+* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
+
+Behavioral Patterns- Built into Python
+* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
+
+<!--
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+-->
+
+## Authorities
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+<!--
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+https://m.signalvnoise.com
+
+Joel, Jeff blogs
+https://www.joelonsoftware.com/ | Joel on Software
+https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+-->
+
 ## Hosting and GitHub
 
 Hosting Blogs
@@ -309,6 +414,8 @@ Jekyll Themes
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
+https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
+
 https://github.com/erikbern/git-of-theseus
 
 https://github.com/primer | Primer
@@ -365,6 +472,7 @@ https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
 
+Packaging checklist
 https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
@@ -476,6 +584,9 @@ https://github.com/blog/2226-build-an-integration-for-github
 Packages
 https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
 https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
+https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
+https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
 -->
 
 <!--
@@ -821,40 +932,6 @@ https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Fre
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 -->
 
-## Company Manuals
-
-<!--
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
-
-https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
-https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
-https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
--->
-
-## More Open Source Tools and Blogs
-
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
-
-<!--
-https://github.com/githubtraining/introduction-to-github | githubtraining/introduction-to-github: Course repo for Learning Lab course "Introduction to GitHub". Template repo ➡️
-https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
-
-https://hub.github.com/ | hub · the command-line wrapper for git
-
-https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
-https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
-
-Digital Ocean
-https://marketplace.digitalocean.com | DigitalOcean Marketplace
-https://blog.digitalocean.com/introducing-digitalocean-marketplace/ | Introducing DigitalOcean Marketplace: Our Platform for Preconfigured 1-Click Apps and Tools
--->
-
 ## OS and Software Offices, Foundations, and Practices by Company
 
 <!--
@@ -976,7 +1053,6 @@ https://www.facebook.com/notes/kent-beck/fresh-work-80155/1186004658099063
 https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 -->
 
-
 ## Open Source and Assessment
 
 Mozilla Metrics
@@ -1038,6 +1114,19 @@ Google Open Source Report Card
 https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
 Groupon Open Source Report Card
 https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
+-->
+
+## Company Manuals
+
+<!--
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+https://about.gitlab.com/2018/03/15/working-at-gitlab-affects-my-life/ | How working at GitLab has changed my view on work and life | GitLab
+https://about.gitlab.com/2017/12/01/support-engineering-at-gitlab/ | At your service: Support Engineering at GitLab | GitLab
+https://work.qz.com/1147877/remote-work-why-we-put-virtual-coffee-breaks-in-our-company-handbook/ | Remote work: Why we put "virtual coffee breaks" in our company handbook — Quartz at Work
 -->
 
 ## Stack and Built With
@@ -1341,61 +1430,6 @@ YAML
 Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
-## Programming Paradigms
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Paradigm Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-<!--
-React?
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
--->
-
-## Useful Terminology
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-
-<!--
-functional programming- immutability/immutable data structures
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-<!--
-https://realpython.com/modeling-polymorphism-django-python/
-
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python | Constructor (object-oriented programming) - Wikipedia
-
-https://en.wikipedia.org/wiki/Object_composition
-https://en.wikipedia.org/wiki/State_(computer_science)
-https://en.wikipedia.org/wiki/Stateless_protocol
-https://en.wikipedia.org/wiki/State_diagram
-https://en.wikipedia.org/wiki/Interface_(computing)
-
-https://en.wikipedia.org/wiki/Persistence_(computer_science)
-https://en.wikipedia.org/wiki/Persistent_data_structure
-https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
-
-https://en.wikipedia.org/wiki/Immutable_object
-
-https://en.wikipedia.org/wiki/Memoization
--->
-
 ## Object Oriented Software
 
 Object-Oriented Programming
@@ -1523,40 +1557,6 @@ https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusa
 https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
 https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
 -->
-
-## General Software Design Patterns
-
-Creational Patterns
-* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
-* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
-* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
-* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
-
-Structural Patterns
-* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
-* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
-* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
-* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
-* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
-
-Behavioral Patterns
-* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
-* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
-* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
-* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
-* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
-* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 ## Programming Concepts and Tools
 
@@ -1839,28 +1839,6 @@ Life Cycles
 * [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
 * [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 * [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
-
-## Authorities
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-<!--
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-https://m.signalvnoise.com
-
-Joel, Jeff blogs
-https://www.joelonsoftware.com/ | Joel on Software
-https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
--->
 
 ## Software Design Tools
 
