@@ -68,8 +68,6 @@ https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
-
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
@@ -250,6 +248,23 @@ React?
 * [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
 -->
 
+## GRASP and Clean Architecture (Follows SOLID Principles)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+
+<!--
+https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
+https://en.wikipedia.org/wiki/Interface_segregation_principle
+https://en.wikipedia.org/wiki/Dependency_inversion_principle
+-->
+
 ## Useful Terminology
 
 Object Oriented Software Characteristics
@@ -260,6 +275,8 @@ Object Oriented Software Characteristics
 
 
 <!--
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+
 functional programming- immutability/immutable data structures
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
@@ -338,17 +355,26 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
+https://refactoring.com/catalog/
 
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-https://m.signalvnoise.com
-
-Joel, Jeff blogs
-https://www.joelonsoftware.com/ | Joel on Software
-https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 -->
+
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Hosting and GitHub
 
@@ -1119,6 +1145,13 @@ https://github.com/groupon/report-card | groupon/report-card: An Open Source Rep
 ## Company Manuals
 
 <!--
+https://m.signalvnoise.com
+
+Joel, Jeff blogs
+https://www.joelonsoftware.com/ | Joel on Software
+https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385 | Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent: Avram Joel Spolsky: 9788184894677: Amazon.com: Books
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
 https://about.gitlab.com/handbook/ | Handbook | GitLab
 
 https://about.gitlab.com/2015/04/08/the-remote-manifesto
@@ -1382,22 +1415,6 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparison Sites
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
 ## Useful Files
 
 Shells
@@ -1438,23 +1455,6 @@ Object-Oriented Programming
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
 * [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
-## Clean Architecture (Follows SOLID Principles)
-
-Software Principles (SOLID)
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-
-<!--
-https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
-https://en.wikipedia.org/wiki/Liskov_substitution_principle
-https://en.wikipedia.org/wiki/Interface_segregation_principle
-https://en.wikipedia.org/wiki/Dependency_inversion_principle
--->
 
 <!--
 Robert C. Martin
@@ -1556,6 +1556,8 @@ https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
 https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
 https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
 https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
+
+https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
 -->
 
 ## Programming Concepts and Tools
