@@ -1,51 +1,8 @@
 # The List 2019
 
 <!--
-### Bots
-
-https://github.com/Mariatta/gh_app_starter
-https://twitter.com/mariatta/status/1191534648205037569
-https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-New- Bots
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-https://sans-io.readthedocs.io/ | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
-https://pypi.org/project/gidgethub/
-https://gidgethub.readthedocs.io/en/latest/ | gidgethub — An async library for calling GitHub’s API — gidgethub documentation
-https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://github.com/berkerpeksag/cpython-merge-bot
--->
-
-<!--
-OS
-https://twitter.com/carltongibson/status/1149596554191179777 | Carlton Gibson on Twitter: "This may be the smallest of negative gradients, but negative it is! @MariuszFelisiak is on 🔥 (Inbox Zero here we come?)… https://t.co/jnJKg7nQlo"
-https://github.com/encode/httpx/labels/good%20first%20issue | Issues · encode/httpx
-
 https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
 https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
-
-Maintainer's Summit
-https://twitter.com/JackieKazil/status/1191796784399572993
 
 https://treyhunner.com/2018/04/keyword-arguments-in-python/
 https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
@@ -68,8 +25,6 @@ https://www.youtube.com/watch?v=YUIPcXduR8E | Jessica Garson - Making Music with
 
 https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 The Perils of Inheritance
 https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
@@ -109,9 +64,8 @@ https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
 
 Katie
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
--->
 
-https://github.com/github/site-policy
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
@@ -149,6 +103,7 @@ https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's gu
 
 https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
 https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
 
 Silent Meeting
 https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
@@ -524,6 +479,42 @@ https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twi
 -->
 
 <!--
+### Bots
+
+https://github.com/Mariatta/gh_app_starter
+https://twitter.com/mariatta/status/1191534648205037569
+https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
+
+Mariatta- Bots
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
+* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+New- Bots
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+
+https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
+https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+
+https://zapier.com/ | Zapier | The easiest way to automate your work
+https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
+
+https://sans-io.readthedocs.io/ | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
+https://pypi.org/project/gidgethub/
+https://gidgethub.readthedocs.io/en/latest/ | gidgethub — An async library for calling GitHub’s API — gidgethub documentation
+https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://github.com/berkerpeksag/cpython-merge-bot
+-->
+
+<!--
 VS Code Testing
 https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
 
@@ -668,6 +659,40 @@ https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
 -->
 
+## Heroku
+
+Heroku Hosting Docs
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
+
+Container Registries and Tools
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
 ## Workflows
 
 GitLab
@@ -710,7 +735,6 @@ https://devcenter.heroku.com/articles/pipelines
 https://devcenter.heroku.com/articles/pipelines#github-sync
 https://devcenter.heroku.com/articles/git
 
-https://devcenter.heroku.com/articles/how-heroku-works | How Heroku Works | Heroku Dev Center
 https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
 https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
 https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
