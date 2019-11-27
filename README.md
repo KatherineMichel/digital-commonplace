@@ -1,35 +1,16 @@
 # The List 2019
 
 <!--
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
 
 https://github.com/github/site-policy
-
-https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
-https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
 -->
 
 <!--
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
-
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
-
-https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
-https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
-
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-https://github.com/actions/checkout | actions/checkout
-
-Important
-https://github.com/pypa/gh-action-pypi-publish/issues/2
 
 https://testautomationu.applitools.com/unit-testing/ | Overview
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
@@ -280,28 +261,15 @@ GitHub Services- Deprecated
 * [Service GitHub](https://github.com/github/github-services) 
 
 <!--
+https://github.com/erikbern/git-of-theseus
+
+https://github.com/primer | Primer
+
 3 methods
 https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
 Metrics
 https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
 https://nadiaeghbal.com/tragedy-of-the-commons
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-
-
-GitHub Apps/GitHub Actions
-Gidget library
-polling versus webhooks, JSON, REST, HTTP, API
-https://github.com/marketplace
-https://github.com/marketplace?type=apps
-https://github.com/marketplace?type=actions
-https://github.com/features/actions
-https://developer.github.com/webhooks/creating/
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
-
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
 https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
 https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
@@ -368,27 +336,6 @@ https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework f
 https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
 https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
 
-https://github.com/actions | GitHub Actions
-
-https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
-
-Actions innovations
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
-https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
-
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
-
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
-
 
 https://www.conventionalcommits.org/en/v1.0.0-beta.4/
 https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
@@ -406,6 +353,53 @@ https://github.com/actions/create-release | actions/create-release: An Action to
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
 
 
+https://github.com/actions | GitHub Actions
+
+https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
+
+Actions innovations
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
+https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
+https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
+https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
+
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+
+https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
+
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+https://github.com/actions/checkout | actions/checkout
+
+Important
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+
+
+GitHub Apps/GitHub Actions
+Gidget library
+polling versus webhooks, JSON, REST, HTTP, API
+https://github.com/marketplace
+https://github.com/marketplace?type=apps
+https://github.com/marketplace?type=actions
+https://github.com/features/actions
+https://developer.github.com/webhooks/creating/
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+
+
+https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
+
 Corporate actions
 https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
 https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
@@ -418,6 +412,9 @@ https://github.com/jefftriplett/example-python-actions | jefftriplett/example-py
 Packages
 https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
 https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
+
+
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
 https://developer.github.com/apps
 https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
@@ -446,7 +443,7 @@ https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Goo
 -->
 
 <!--
-https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
 https://pages.github.com/versions/ | Dependency versions | GitHub Pages
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
@@ -471,15 +468,13 @@ https://help.github.com/articles/securing-your-github-pages-site-with-https/
 
 * [Github Development (Example Website)](https://github.com/github/developer.github.com) 
 
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
+
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
 https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
-
-https://github.com/erikbern/git-of-theseus
-
-https://github.com/primer | Primer
 -->
 
 ## Advanced Workflows- Collaborative Development
