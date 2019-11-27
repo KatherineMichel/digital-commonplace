@@ -111,10 +111,6 @@ Katie
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 -->
 
-<!--
-https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
-https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
 https://github.com/github/site-policy
 
 
@@ -229,24 +225,7 @@ https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
-JAMStackConf
-
 https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://www.netlify.com/features/ | Features | Netlify
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
-https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
-https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
-https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://glitch.com/culture/website-starter-kit/
-
-https://web.dev/ | web.dev  |  web.dev
-https://glitch.com/ | Glitch
-https://glitch.dev/ | Using Glitch for Developer Relations
 
 Google Cloud Django/Python
 https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
@@ -362,7 +341,19 @@ GitHub Developer
 GitHub Services- Deprecated
 * [Service GitHub](https://github.com/github/github-services) 
 
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
 <!--
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
 https://github.com/erikbern/git-of-theseus
 
 https://github.com/primer | Primer
@@ -1025,6 +1016,100 @@ Groupon Open Source Report Card
 https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
 -->
 
+## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+## Useful Tools
+
+Makers
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Repl.it](https://repl.it)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+
+Hawt- Helpers
+* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
+* [Zapier GitHub](https://github.com/zapier)
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+
+<!--
+JAMStackConf
+
+https://web.dev/ | web.dev  |  web.dev
+
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+
+https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+
+https://repl.it/site/blog/packager
+
+https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+
+https://www.netlify.com/features/ | Features | Netlify
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
+https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+-->
+
+Svelte
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+
+<!--
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+-->
+
+## Languages and Frameworks (Other than Python and Django)
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+Golang
+* [Golang Docs](https://golang.org/doc)
+
+Mobile
+* [Apple Developer Docs](https://developer.apple.com/develop/)
+* [Swift Developer](https://developer.apple.com/swift/)
+* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [Android Developer](https://developer.android.com/)
+* [Java](https://www.java.com/en/)
+
+## Trending
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+
 ## Productivity
 
 Visual Studio Code
@@ -1199,86 +1284,6 @@ Programming Language Leveling Up and Comparison Sites
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-
-## Useful Tools
-
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Repl.it](https://repl.it)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-
-Hawt- Helpers
-* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
-* [Zapier GitHub](https://github.com/zapier)
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-
-<!--
-https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
-
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://glitch.com/website-starter-kit | Website Starter Kit - Learn how to create a website with this free interactive 
-course
-
-https://repl.it/site/blog/packager
-
-Netlify
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
--->
-
-Svelte
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-
-<!--
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
--->
-
-## Languages and Frameworks (Other than Python and Django)
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
-Golang
-* [Golang Docs](https://golang.org/doc)
-
-Mobile
-* [Apple Developer Docs](https://developer.apple.com/develop/)
-* [Swift Developer](https://developer.apple.com/swift/)
-* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [Android Developer](https://developer.android.com/)
-* [Java](https://www.java.com/en/)
-
-## Trending
-
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
 
 ## Useful Files
 
