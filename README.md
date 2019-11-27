@@ -3,36 +3,17 @@
 <!--
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
-Feature Toggles
-https://dzone.com/articles/feature-toggles-are-one-worst | Feature Toggles are one of the Worst kinds of Technical Debt - DZone DevOps
-https://abhishek-tiwari.com/decoupling-deployment-and-release-feature-toggles/ | Decoupling Deployment and Release- Feature Toggles
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
-http://blog.launchdarkly.com/feature-branching-using-feature-flags/ | Feature Branching Using Feature Flags
-http://blog.launchdarkly.com/feature-flag-driven-products/ | Feature Flag-Driven Products
-http://blog.launchdarkly.com/tag/multivariate-feature-flags/ | Multivariate Feature Flags | LaunchDarkly Blog
-https://featureflags.io/2016/01/14/trunk-based-development/ | Trunk Based Development – Feature Flags, Toggles, Controls
-https://featureflags.io/feature-flag-uses/ | Uses – Feature Flags, Toggles, Controls
-https://featureflags.io/python-feature-flags/ | Python Feature Flags – Feature Flags, Toggles, Controls
-python feature flags
-https://stackoverflow.com/questions/24615921/beginners-guide-to-feature-flags-django | python 2.7 - Beginner's guide to Feature flags - Django - Stack Overflow
-
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-https://puppet.com/resources/whitepaper/state-of-devops-report/thank-you | 2017 State of DevOps Report – Thank you | Puppet
-https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
+https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
 
 https://github.com/github/site-policy
 
 https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
 https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
-
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-https://about.gitlab.com/2017/11/01/gitlab-switches-to-dco-license/ | We're switching to a DCO for source code contributions | GitLab
 -->
 
 <!--
@@ -580,6 +561,9 @@ Other Stuff
 CI/CD
 https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
 https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
 
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
@@ -591,6 +575,10 @@ https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: De
 https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
 
 https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
+
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
 -->
 
 ## Workflows
@@ -618,6 +606,30 @@ Heroku Multiple Environments and Site Staging
 * [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
 
 <!--
+https://www.npmjs.com/package/git-flow-deploy
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/articles/how-heroku-works | How Heroku Works | Heroku Dev Center
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
 Release Phase
 https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
 
@@ -626,6 +638,28 @@ https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and job
 https://docs.gitlab.com/ee/workflow/
 https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
 https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
+https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
 -->
 
 ## Agile, CI, and Ops
@@ -655,12 +689,16 @@ https://www.atlassian.com/devops
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
 https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
 https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+https://puppet.com/resources/whitepaper/state-of-devops-report
+https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
 
 https://www.redhat.com/en/topics/devops/what-is-devsecops
 
 GitOps
-https://devcenter.heroku.com/articles/chatops?preview=1
+https://devcenter.heroku.com/articles/chatops | ChatOps | Heroku Dev Center
 
 https://response.pagerduty.com/ | PagerDuty Incident Response Documentation
 
