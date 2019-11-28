@@ -259,6 +259,9 @@ Software Principles (SOLID)
 * [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 
 <!--
+Clean Architectures in Python - Leonardo Giordani - PyLondinium19
+https://www.youtube.com/watch?v=wtCQalq7L-E
+
 https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
 https://en.wikipedia.org/wiki/Liskov_substitution_principle
 https://en.wikipedia.org/wiki/Interface_segregation_principle
