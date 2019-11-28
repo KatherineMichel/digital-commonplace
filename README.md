@@ -1,7 +1,28 @@
 # The List 2019
 
 <!--
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. https://t.co/IfmaQr0Oog" / Twitter
+https://www.pyohio.org/
+
+https://www.djangoproject.com/weblog/2019/nov/18/introducing-djangocon-africa/
+procida python and pycons across africa
+https://github.com/pyladies/project-admin-logisitics
+
+https://github.com/sdispater/poetry
+https://github.com/python/bedevere
+
+https://traversymedia.com/
+https://github.com/dwmkerr/hacker-laws#goodharts-law
+https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+https://github.com/nice-boys/product-boilerplate
+
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://kk.org/thetechnium/1000-true-fans/
+
+https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+
+https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
+https://t.co/IfmaQr0Oog" / Twitter
 https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
 
 https://treyhunner.com/2018/04/keyword-arguments-in-python/
@@ -45,6 +66,8 @@ https://github.com/carljm/dotfiles
 
 https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
 
+https://en.wikipedia.org/wiki/Software_rot
+
 Hynek
 https://hynek.me/talks/
 https://hynek.me/talks/python-foss/
@@ -53,8 +76,13 @@ https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your
 https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
 https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
-https://pypi.org/project/attrs/ | attrs · PyPI
 https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
+
+https://www.twitch.tv/anthonywritescode
+https://twitter.com/codewithanthony/status/1198774749473558528
+https://github.com/pre-commit/action
 
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
@@ -109,6 +137,7 @@ http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
+https://shellshare.net/
 https://asciinema.org asciinema
 https://www.asciiart.eu/ | ASCII Art Archive
 
@@ -156,13 +185,6 @@ https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-i
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
 
-Database
-calvin protocol - Google Search
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
 https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
 
 Google Cloud Django/Python
@@ -178,54 +200,37 @@ https://hubot.github.com/
 -->
 
 <!--
-### Third Party Helpers
+GitHub
+https://help.github.com/en
 
-Third Party Task Queue/Job Queue, Distributed Message Passing, Caching
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
+https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
+https://developers.google.com/identity/protocols/OAuth2
+https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/OAuth
 
-https://en.wikipedia.org/wiki/CURL | cURL - Wikipedia
-https://www.gnu.org/software/wget/ | Wget - GNU Project - Free Software Foundation
 
-https://www.nginx.com/ | NGINX | High Performance Load Balancer, Web Server, & Reverse Proxy
+requests library
 
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+GitHub Apps/GitHub Actions
+https://gidgethub.readthedocs.io/en/latest/
 
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
+polling versus webhooks
+http://restcookbook.com/Miscellaneous/rest-and-http/
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
 
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+https://en.wikipedia.org/wiki/Headless_browser
+https://en.wikipedia.org/wiki/Microservices
+Real time services
 
-https://urllib3.readthedocs.io/en/latest/
+MERN Stack
+https://en.wikipedia.org/wiki/MEAN_(software_bundle)
 
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+Database
+Google Spanner versus Calvin Protocol - Google Search
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-https://www.sqlalchemy.org/ | SQLAlchemy - The Database Toolkit for Python
-https://docs.sqlalchemy.org/en/latest/core/ | SQLAlchemy Core — SQLAlchemy 1.3 Documentation
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
 
 ## Programming Paradigms
@@ -276,8 +281,8 @@ Object Oriented Software Characteristics
 * [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
 * [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
-
 <!--
+https://twitter.com/js_tut/status/1199735352392650754
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 
 functional programming- immutability/immutable data structures
@@ -362,6 +367,11 @@ Checklists
 
 <!--
 https://refactoring.com/catalog/
+https://refactoring.com/
+https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
+https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
+
+https://python-patterns.guide/
 
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 
@@ -595,17 +605,17 @@ https://github.com/erikbern/git-of-theseus
 
 https://github.com/primer | Primer
 
-3 methods
-https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
-Metrics
-https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
-https://nadiaeghbal.com/tragedy-of-the-commons
-
 https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
 https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
 https://lab.github.com/
 https://lab.github.com/githubtraining/ | GitHub Learning Lab
+
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
+https://github.com/KatherineMichel/todo
+https://github.com/universeworkshops/scrabblescore-template
+https://github.com/swinton/scrabblescore
+https://github.com/swinton/example-deploy-to-amazon-ecs-with-github-actions
+https://github.com/swinton/playlists
 
 https://github.blog/2019-11-13-universe-day-one/ | New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more - The GitHub Blog
 https://githubuniverse.com/schedule/#exemplars-laggards-and-the-cautious-crew-58-a-data-driven-look-at-practices-behind-exemplar-open-source-projects | GitHub Universe 2019 Schedule | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
@@ -626,15 +636,16 @@ https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hack
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
 GitHub Security
+https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
+https://github.com/Semmle
+http://github.com/Semmle/qlc
+https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
 https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
 https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
 https://securitylab.github.com/ | GitHub Security Lab
 https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
 https://github.com/advisories | GitHub Advisory Database
 request cve - Google Search
-https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
-https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
-
 https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
 
 https://dependabot.com/ | Dependabot
@@ -653,6 +664,8 @@ https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 
 https://github.com/jlord/reporobot
+
+https://github.com/gr2m/
 
 Probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
@@ -683,8 +696,14 @@ Create a release
 https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
 
-
 https://github.com/actions | GitHub Actions
+
+https://github.com/features/actions
+
+https://github.com/marketplace
+https://github.com/marketplace?type=apps
+https://github.com/marketplace?type=actions
+https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
 
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
@@ -704,30 +723,7 @@ https://help.github.com/en/actions/automating-your-workflow-with-github-actions/
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
 
-
-https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
-
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
 https://github.com/actions/checkout | actions/checkout
-
-Important
-https://github.com/pypa/gh-action-pypi-publish/issues/2
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-
-
-GitHub Apps/GitHub Actions
-Gidget library
-polling versus webhooks, JSON, REST, HTTP, API
-https://github.com/marketplace
-https://github.com/marketplace?type=apps
-https://github.com/marketplace?type=actions
-https://github.com/features/actions
-https://developer.github.com/webhooks/creating/
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
-
 
 https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
 https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
@@ -738,23 +734,42 @@ https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to
 https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
 https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
 
-Example actions
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
 
-requests library
+Important
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+
+Example actions
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/bdougie/github-actions-continuous-delivery
+https://github.com/paulirish/lighthouse-ci-action
+https://twitter.com/webology/status/1195412423936753670
+https://twitter.com/jacobian/status/1192500227078529026
+https://github.com/boyney123/github-actions
+https://twitter.com/simonw/status/1199851134564884480
 
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
+https://developer.github.com/v4/
+
 https://developer.github.com/apps
+https://developer.github.com/apps/about-apps/
 https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
 https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
 
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v4/
+https://developer.github.com/webhooks/
+https://developer.github.com/webhooks/creating/
+https://help.github.com/en/github/extending-github/about-webhooks
+
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 
-https://github.com/blog/2226-build-an-integration-for-github
+https://twitter.com/maxibanki/status/1192060430241415168
 
 Packages
 https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
@@ -814,6 +829,8 @@ https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Goo
 <!--
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
+https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/
+
 https://pages.github.com/versions/ | Dependency versions | GitHub Pages
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -844,6 +861,202 @@ https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-s
 https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
 https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
+-->
+
+## OS and Software Offices, Foundations, and Practices by Company
+
+<!--
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+https://github.com/adobe/open-development-template
+
+https://content-guide.18f.gov/inclusive-language/ | 18F Content Guide - Inclusive language
+
+https://github.com/18F | 18F
+https://github.com/18F/technology-budgeting | 18F/technology-budgeting: 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
+https://github.com/18F/development-guide | 18F/development-guide: A set of guidelines and best practices for an awesome engineering team
+https://github.com/18F/eng-hiring | 18F/eng-hiring: 18F Engineering's guide to candidate selection, from resume screen to offer.
+https://github.com/18F/ux-guide | 18F/ux-guide: Resources, norms, and practices for doing user experience research and design work at 18F.
+
+https://github.com/uswds/uswds | uswds/uswds: The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+
+code.gov issue pr templates - Google Search
+create issue and template prs in repo settings - Google Search
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+
+department of veterans affairs product lines - Google Search
+
+https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
+
+https://twitter.com/skimbrel/status/1190734445952659456
+https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
+
+(Case studies versus documentation)
+-->
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+
+GitHub Open Source Guide
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Google Engineering Practices
+* [Google Engineering Practices](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
+<!--
+https://todogroup.org/members/
+https://github.com/facebook/fbshipit
+https://github.com/facebookarchive/mention-bot
+
+https://opensource.guide/best-practices/
+
+http://google.github.io/styleguide/
+
+http://google-engtools.blogspot.com/ | Google Engineering Tools
+https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
+
+GitHub Universe
+https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
+https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
+https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
+
+Bazel
+https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+-->
+
+Google re:Work
+* [Google re:Work](https://rework.withgoogle.com/)
+* [Google re:Work Psychological Safety](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
+
+Facebook
+* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
+
+Microsoft
+* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
+* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
+* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
+* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
+
+Uber
+* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
+
+<!--
+https://todogroup.org/blog/survey-2019/
+https://twitter.com/todogroup/status/1188738278360530944
+
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
+https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
+
+Facebook Open Source
+https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
+https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
+-->
+
+<!--
+https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
+https://www.facebook.com/notes/kent-beck/fresh-work-80155/1186004658099063
+
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
+-->
+
+## Open Source and Assessment
+
+Mozilla Metrics
+* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
+* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
+* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
+* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
+
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+Maturity Models and Frameworks
+* [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
+* [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+* [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
+* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
+* [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
+* [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
+<!--
+https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
+
+https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
+https://github.com/opensourceway/open-decision-framework
+https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
+https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
+-->
+
+<!--
+3 methods
+https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
+Metrics
+https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
+https://nadiaeghbal.com/tragedy-of-the-commons
+
+https://opensource.guide/best-practices/
+https://opensource.guide/metrics/
+
+https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
+
+https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
+https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
+
+https://bitergia.com/
+https://twitter.com/Bitergia | Bitergia (@Bitergia) / Twitter
+https://twitter.com/CHAOSSproj | Profile / Twitter
+https://chaoss.community/chaosscon-2020-eu/
+
+https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
+https://chaoss.github.io/grimoirelab-tutorial/ | GrimoireLab Tutorial | GrimoireLab Tutorial
+https://chaoss.community/blog-post/2019/10/08/simplifying-how-to-install-grimoirelab/ | GrimoireLab Install - CHAOSS
+
+https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
+https://speakerdeck.com/bitergia/your-organization-needs-an-ospo-or-be-ready-to-fail?slide=14 | Your organization needs an OSPO, or be ready to fail! - Speaker Deck
+https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/ | What can InnerSource learn from the CHAOSS Project? – Bitergia Software Development Analytics
+
+
+https://wiki.linuxfoundation.org/chaoss/
+https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
+
+https://martinfowler.com/bliki/MaturityModel.html
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+
+Google Open Source Report Card
+https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
+Groupon Open Source Report Card
+https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
 -->
 
 ## Advanced Workflows- Collaborative Development
@@ -1105,190 +1318,6 @@ https://en.wikipedia.org/wiki/Chaos_engineering
 https://www.gremlin.com
 https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
--->
-
-## OS and Software Offices, Foundations, and Practices by Company
-
-<!--
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-https://github.com/adobe/open-development-template
-
-https://content-guide.18f.gov/inclusive-language/ | 18F Content Guide - Inclusive language
-
-https://github.com/18F | 18F
-https://github.com/18F/technology-budgeting | 18F/technology-budgeting: 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
-https://github.com/18F/development-guide | 18F/development-guide: A set of guidelines and best practices for an awesome engineering team
-https://github.com/18F/eng-hiring | 18F/eng-hiring: 18F Engineering's guide to candidate selection, from resume screen to offer.
-https://github.com/18F/ux-guide | 18F/ux-guide: Resources, norms, and practices for doing user experience research and design work at 18F.
-
-https://github.com/uswds/uswds | uswds/uswds: The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-
-code.gov issue pr templates - Google Search
-create issue and template prs in repo settings - Google Search
-https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
-
-department of veterans affairs product lines - Google Search
-
-https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
-
-https://twitter.com/skimbrel/status/1190734445952659456
-https://twitter.com/rauchg/status/1194680245233696768 | Guillermo ▲ on Twitter: "Earlier this year Google open-sourced their engineering practices. One of the things that stood out to me, that strongly resonates with my team, is prioritizing speedy code review."
-
-(Case studies versus documentation)
--->
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-
-GitHub Open Source Guide
-* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Google Engineering Practices
-* [Google Engineering Practices](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
-<!--
-https://todogroup.org/members/
-https://github.com/facebook/fbshipit
-https://github.com/facebookarchive/mention-bot
-
-https://opensource.guide/best-practices/
-
-http://google.github.io/styleguide/
-
-http://google-engtools.blogspot.com/ | Google Engineering Tools
-https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
-
-GitHub Universe
-https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
-https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
-https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
-
-Bazel
-https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
-https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
--->
-
-Google re:Work
-* [Google re:Work](https://rework.withgoogle.com/)
-* [Google re:Work Psychological Safety](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-Google
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
-
-Facebook
-* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
-
-Microsoft
-* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
-* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
-* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
-* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
-
-Uber
-* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
-
-<!--
-https://todogroup.org/blog/survey-2019/
-
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
-https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
-
-Facebook Open Source
-https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
-https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
--->
-
-<!--
-https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
-https://www.facebook.com/notes/kent-beck/fresh-work-80155/1186004658099063
-
-https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
--->
-
-## Open Source and Assessment
-
-Mozilla Metrics
-* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
-* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
-* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
-* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
-
-Open Source
-* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
-* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
-
-Maturity Models and Frameworks
-* [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
-* [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
-* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
-* [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
-* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
-* [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
-* [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
-
-<!--
-https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
-
-https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
-
-https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
-https://github.com/opensourceway/open-decision-framework
-https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
-https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
--->
-
-<!--
-https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
-https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
-
-https://twitter.com/Bitergia | Bitergia (@Bitergia) / Twitter
-https://twitter.com/CHAOSSproj | Profile / Twitter
-
-https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
-https://chaoss.github.io/grimoirelab-tutorial/ | GrimoireLab Tutorial | GrimoireLab Tutorial
-https://chaoss.community/blog-post/2019/10/08/simplifying-how-to-install-grimoirelab/ | GrimoireLab Install - CHAOSS
-
-https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
-https://speakerdeck.com/bitergia/your-organization-needs-an-ospo-or-be-ready-to-fail?slide=14 | Your organization needs an OSPO, or be ready to fail! - Speaker Deck
-https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/ | What can InnerSource learn from the CHAOSS Project? – Bitergia Software Development Analytics
-
-
-https://wiki.linuxfoundation.org/chaoss/
-https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
-
-https://martinfowler.com/bliki/MaturityModel.html
-https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
-
-http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
-
-Google Open Source Report Card
-https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
-Groupon Open Source Report Card
-https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
 -->
 
 ## Company Manuals
@@ -2125,137 +2154,6 @@ Robustness Analysis
 https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
 Robustness Diagrams: An Agile Introduction
 http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
--->
-
-<!--
-## Playbooks
-
-https://handbook.glitch.me/ | Glitch Employee Handbook
-
-GitLab
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About](https://about.gitlab.com/about), and [GitLab Culture](https://about.gitlab.com/culture)
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-* [Vinta Playbook](https://www.vinta.com.br/playbook) and [Playbook Vinta GitHub](https://github.com/vintasoftware/playbook)
-
-## Digital Agencies and Code Philosophies
-## Open Companies
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
-https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
-
-http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
-https://www.subscribewithamazon.com
-https://www.amazon.jobs/principles
-https://github.com/basecamp/handbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
-
-https://github.com/Paperwell?tab=repositories
-https://github.com/danluu/post-mortems
-
-https://github.com/nmsanchez?tab=repositories
-
-https://afonsopacifer.github.io/open-source-checklist/
-https://github.com/18F/bpa-identity-management
-https://github.com/bocoup/opendesignkit
-
-https://github.com/zincmade/employee-handbook
-https://github.com/rosarior/Code-of-Merit
-https://github.com/FormidableLabs/formidable-playbook
-https://github.com/goinvo/InvoPlaybook
-https://github.com/18F/partnership-playbook
-https://github.com/sprintly/sprint.ly-culture
-https://github.com/bonusly/un-handbook
-https://corner.squareup.com/2016/02/womeng-handbook-launch.html
-https://github.com/digitalocean/engineering-code-of-conduct
-
-https://github.com/Prismatic/eng-practices
-
-https://github.com/opengovfoundation/hr-manual
--->
-
-<!--
-https://code.gov/#/policy-guide/docs/compliance/measuring-code
-https://github.com/isobar-idev/code-standards
-http://isobar-idev.github.io/code-standards
-
-https://github.com/babel/babel.github.io/issues
-
-https://github.com/DockYard/styleguides
-http://kafka.apache.org/coding-guide.html
-
-http://accessibility.voxmedia.com/
-https://github.com/voxmedia/accessibility
-https://www.w3.org/TR/WCAG/
-https://github.com/ascott1/accessibility-policy
-https://github.com/ascott1/ethical-web-dev
-https://ethicalweb.org/
-
-http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
-
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
-
-http://jtleek.com/modules/01_DataScientistToolbox
-
-http://schacon.github.io/git/user-manual
-
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
--->
-
-<!--
-## Website Project Management
-See Git Workflow, DevOps, Dotfiles, Code Review, Release Management
-
-https://github.com/red-hat-people-team | Red Hat People team
-
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/guides
-
-https://github.com/thoughtbot/guides/tree/master/protocol
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
-
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-
-https://github.com/hypenotic/hypelabs
-
-https://www.thoughtworks.com/
-https://robots.thoughtbot.com/running-acceptance-with-review-apps
-
-https://github.com/18F/development-guide
-https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 -->
 
 ## Engineering Management Resources
