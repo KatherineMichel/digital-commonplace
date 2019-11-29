@@ -109,27 +109,6 @@ AirTable
 https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
 https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
 
-https://jamesclear.com/atomic-habits
-https://twitter.com/JamesClear
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-
-https://zapier.com/blog/the-checklist-manifesto/
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-Engineering Management
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
-https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
-https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
-
-Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-
 http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
 github users with the most followers - Google Search
@@ -197,6 +176,22 @@ https://github.com/github/hubot
 https://hubot.github.com/
 -->
 
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+<!--
+https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+
+https://about.gitlab.com/developer-survey/
+https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
+http://stateofjs.com/2016/frontend/ | Front-End Frameworks
+-->
 
 <!--
 GitHub
@@ -251,8 +246,6 @@ https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
 https://en.wikipedia.org/wiki/Dependency_injection
 
 https://en.wikipedia.org/wiki/Headless_browser
-
-https://en.wikipedia.org/wiki/Microservices
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
@@ -1811,6 +1804,77 @@ https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Fre
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 -->
 
+
+## Philosophies
+
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Principles of Chaos Engineering](http://principlesofchaos.org)
+
+Site Reliability Engineering
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+<!--
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+
+https://microservice.guide/ | Open Microservice Guide
+https://en.wikipedia.org/wiki/Microservices
+
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+http://highscalability.com/ | High Scalability -
+
+https://github.com/dastergon/awesome-sre
+
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+
+http://users.ece.utexas.edu/~adnan/pike.html
+-->
+
+## DevOps
+
+DevOps, Ops School and DevOps Bootcamp
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+<!--
+https://devops.com
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
+
+
 ## Stack and Built With
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
@@ -2630,6 +2694,20 @@ Scaling Engineering
 ## Engineering Management
 
 <!--
+https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
+https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+
+Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+Engineering Management
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
 https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
 
 https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
@@ -2682,6 +2760,51 @@ https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplicat
 https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+## Books
+
+<!--
+Books!
+http://www.dev-books.com
+https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
+https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
+
+Clean Architecture
+Clean Code
+Code Complete
+Compilers
+Computer Architecture
+Design Patterns
+Design Patterns Explained
+Domain Driven Design- Tackling
+Domain Driven Design Reference
+Extreme Programming Explained
+Head First Design Patterns
+Head First Object Oriented Analysis and Design
+Lean Software Development
+Patterns of Enterprise Application Architecture
+Programming Pearls
+Refactoring
+Release It
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+Test Driven Development by Example
+The Architecture of Open Source Applications
+The Mythical Man Month
+The Programmatic Programmer
+Working Effectively with Legacy Code
+
+https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
+https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
+
+https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
+
+https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
+https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 -->
 
 ## Curated Resources
@@ -2962,136 +3085,6 @@ https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepren
 https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
 
-## Surveys
-
-* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
-* [The State Of JavaScript](http://stateofjs.com)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
-
-<!--
-https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
-
-https://about.gitlab.com/developer-survey/
-https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
-http://stateofjs.com/2016/frontend/ | Front-End Frameworks
--->
-
-## Philosophies
-
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Principles of Chaos Engineering](http://principlesofchaos.org)
-
-Site Reliability Engineering
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-<!--
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
-
-https://microservice.guide/ | Open Microservice Guide
-
-http://stevesouders.com/hpws
-https://www.enterpriseready.io
-https://github.com/enterpriseready/enterpriseready
-http://highscalability.com/ | High Scalability -
-
-https://github.com/dastergon/awesome-sre
-
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
--->
-
-<!--
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
-
-http://users.ece.utexas.edu/~adnan/pike.html
--->
-
-## DevOps
-
-DevOps, Ops School and DevOps Bootcamp
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-<!--
-https://devops.com
-
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-  
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
--->
-
-## Books
-
-<!--
-Books!
-http://www.dev-books.com
-https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
-https://www.amazon.com/Best-Sellers-Books-Computer-Science/zgbs/books/3508
-
-Clean Architecture
-Clean Code
-Code Complete
-Compilers
-Computer Architecture
-Design Patterns
-Design Patterns Explained
-Domain Driven Design- Tackling
-Domain Driven Design Reference
-Extreme Programming Explained
-Head First Design Patterns
-Head First Object Oriented Analysis and Design
-Lean Software Development
-Patterns of Enterprise Application Architecture
-Programming Pearls
-Refactoring
-Release It
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-Test Driven Development by Example
-The Architecture of Open Source Applications
-The Mythical Man Month
-The Programmatic Programmer
-Working Effectively with Legacy Code
-
-https://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X
-https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X
-
-https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Refactoring to Patterns: Joshua Kerievsky: 0785342213355: Amazon.com: Books
-
-https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
-https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
--->
-
 ## Well Being
 
 Habits with a High Rate of Return in Life
@@ -3283,6 +3276,8 @@ https://fs.blog/2015/03/carol-dweck-mindset/
 ## Goal Setting and Prioritization
 
 <!--
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+
 https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
 https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
@@ -3329,6 +3324,7 @@ Deliberate Practice
 <!--
 https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
 
+https://jamesclear.com/atomic-habits
 https://twitter.com/JamesClear
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
@@ -3437,6 +3433,8 @@ http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 Checklists
 
 <!--
+https://zapier.com/blog/the-checklist-manifesto/
+
 The Checklist Manifesto: How to Get Things Right, Atul Gawande
 https://www.amazon.com/dp/B0030V0PEW
 
