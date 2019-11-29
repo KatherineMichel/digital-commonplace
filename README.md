@@ -1,18 +1,24 @@
 # The List 2019
 
 <!--
-https://www.pyohio.org/
-https://2019.pycon.ca/schedule-day-1/
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
-
 https://www.djangoproject.com/weblog/2019/nov/18/introducing-djangocon-africa/
 procida python and pycons across africa
 https://github.com/pyladies/project-admin-logisitics
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://testautomationu.applitools.com/unit-testing/ | Overview
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 
 https://traversymedia.com/
 https://github.com/dwmkerr/hacker-laws#goodharts-law
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
 https://github.com/nice-boys/product-boilerplate
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
 
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
@@ -91,13 +97,6 @@ https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
 
 Katie
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
-
-https://testautomationu.applitools.com/unit-testing/ | Overview
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 
 
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
@@ -208,6 +207,14 @@ https://developers.google.com/identity/protocols/OAuth2
 https://en.wikipedia.org/wiki/OpenID
 https://en.wikipedia.org/wiki/OAuth
 
+Database
+Google Spanner versus Calvin Protocol - Google Search
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+
+https://en.wikipedia.org/wiki/5G
+https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
+
 https://en.wikipedia.org/wiki/HTTP/3
 https://en.wikipedia.org/wiki/HTTP/2
 https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
@@ -216,9 +223,16 @@ https://grpc.io/
 https://grpc.io/docs/guides/
 https://en.wikipedia.org/wiki/Remote_procedure_call
 https://developers.google.com/protocol-buffers/docs/overview
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+* [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
+* [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
+* [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
 
 
-
+Real time services
 chat protocols, IoT protocols
 https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
 https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
@@ -227,7 +241,6 @@ https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging
 https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
 
 https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-https://en.wikipedia.org/wiki/Push_technology
 
 requests library
 
@@ -239,12 +252,6 @@ https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Headless_browser
 
 https://en.wikipedia.org/wiki/Microservices
-Real time services
-
-Database
-Google Spanner versus Calvin Protocol - Google Search
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
@@ -318,6 +325,10 @@ https://en.wikipedia.org/wiki/Parallel_computing
 explicit i/o
 -->
 
+* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
+* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+
 <!--
 What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 https://gist.github.com/jboner/2841832
@@ -327,10 +338,7 @@ http://static.googleusercontent.com/media/research.google.com/en//people/jeff/st
 http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
-https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
 https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Throughput
 
 https://en.wikipedia.org/wiki/Throttling_process_(computing)
 https://en.wikipedia.org/wiki/Bandwidth_throttling
