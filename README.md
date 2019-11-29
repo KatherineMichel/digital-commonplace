@@ -1333,19 +1333,49 @@ https://github.blog/changelog/2019-10-28-new-issue-template-configuration-option
 https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
 
 Permissions: triage and maintain
-
-https://help.github.com/articles/securing-your-github-pages-site-with-https/
-
-* [Github Development (Example Website)](https://github.com/github/developer.github.com) 
-
-https://github.com/github/linguist/blob/master/lib/linguist/languages.yml#L1894 | linguist/languages.yml at master · github/linguist
-
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
-
-https://twitter.com/manekinekko/status/1096882312795615241 | Wassim Chegham on Twitter: "I can't stress this enough: Anyone can contribute anything to the open source community. It doesn't have to be code only.… https://t.co/hMvrBTl0xT"
 -->
+
+
+## Gov
+
+<!--
+https://githubuniverse.com/schedule/#shaping-the-contributor-experience
+https://github.com/saracope/shaping-the-contributor-experience
+https://github.com/saracope/boilerplate-repo
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://github.com/18F/transformation-research
+-->
+
+U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.
+* [C.I.O. Playbook GitHub](https://github.com/whitehouse/playbook) 
+
+U.S. Gov.- Presidential Innovation Fellows
+* [Presidential Innovation Fellows Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
+
+U.S. Gov- 18F
+* [18F Pages GitHub](https://github.com/18F/pages)
+* [18F Frontend GitHub](https://github.com/18F/frontend)
+* [18F Guides Template GitHub](https://github.com/18F/guides-template)
+
+U.S. Gov- Code for America
+* [Code for America GitHub](https://github.com/codeforamerica/codeforamerica.org)
+
+U.S. Gov- Consumer Financial Protection Bureau
+* [Consumer Financial Protection Bureau GitHub](https://github.com/cfpb/cfpb.github.io)
+* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
+* [Consumer Financial Protection Bureau Jekyll Documentation Template (DOCter) GitHub](https://github.com/cfpb/DOCter)
+
+U.S. Gov- Department of Veterans Affairs
+* [Department of Veterans Affairs GitHub](https://github.com/department-of-veterans-affairs/dsva)
+
+U.K. Gov.
+* [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
+* [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
+* [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
+
 
 ## OS and Software Offices, Foundations, and Practices by Company
 
