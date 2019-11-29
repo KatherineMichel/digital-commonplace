@@ -216,16 +216,16 @@ https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
 
 https://grpc.io/
 https://grpc.io/docs/guides/
-https://en.wikipedia.org/wiki/Remote_procedure_call
 https://developers.google.com/protocol-buffers/docs/overview
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 
+Innovations
+* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
+* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
 * [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 * [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
 * [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
 * [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
-
 
 Real time services
 chat protocols, IoT protocols
@@ -239,13 +239,12 @@ https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedi
 
 requests library
 
-polling versus webhooks
 http://restcookbook.com/Miscellaneous/rest-and-http/
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
 
+Pattern
 https://en.wikipedia.org/wiki/Dependency_injection
-
-https://en.wikipedia.org/wiki/Headless_browser
+https://en.wikipedia.org/wiki/Separation_of_concerns
+https://en.wikipedia.org/wiki/Inversion_of_control
 
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
@@ -272,6 +271,7 @@ Rust Async
 * [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
 
 <!--
+HTTP
 https://nodejs.org/api/http.html
 https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
 
@@ -299,29 +299,17 @@ Node.js
 Event-driven, asynchronous IO
 https://www.tutorialspoint.com/nodejs/nodejs_event_loop
 https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
-https://en.wikipedia.org/wiki/Event_loop
 -->
 
-## Benefits
-
-<!--
-See Tom's Talk
-
-https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-Also, Ajax Polling explained
-
-Real time
-Websockets, SSE, long polling
-https://en.wikipedia.org/wiki/Server-sent_events
-non-blocking http requests
-light-weight parallelization
-https://en.wikipedia.org/wiki/Parallel_computing
-explicit i/o
--->
-
+Performance
 * [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
 * [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
 * [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+
+Throttling and Rate Limiting
+* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
+* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
+* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
 
 <!--
 What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
@@ -333,10 +321,6 @@ http://norvig.com/21-days.html#answers
 https://dzone.com/articles/every-programmer-should-know
 
 https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
-
-https://en.wikipedia.org/wiki/Throttling_process_(computing)
-https://en.wikipedia.org/wiki/Bandwidth_throttling
-https://en.wikipedia.org/wiki/Rate_limiting
 
 https://en.wikipedia.org/wiki/CPU_cache
 https://en.wikipedia.org/wiki/Cache_(computing)
@@ -372,7 +356,6 @@ https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
 -->
 
 
-
 ## Architecture- Important Concepts
 
 Computer Architecture
@@ -401,10 +384,22 @@ Low-Level Programming Language, Machine Code, Assembly Language
 * [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
 * [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
+<!--
+https://en.wikipedia.org/wiki/Instruction_set_architecture
+https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
+https://en.wikipedia.org/wiki/X86_instruction_listings
+
+https://leanpub.com/insidethepythonvirtualmachine/read
+
+https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-and-what-are-its-advantages
+"Machine code is the low-level binary 1s and 0s that make up the instructions to the processor.  These are processed directly by the CPU and are the final output of a compiler for given CPU and operating system combination."
+"Byte code is a virtualized machine code."
+-->
+
 Instruction Set (CPU)
 * [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
 * [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 * [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 * [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
 * [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
@@ -412,6 +407,9 @@ Instruction Set (CPU)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 <!--
+https://en.wikipedia.org/wiki/Opcode
+https://en.wikipedia.org/wiki/Opcode_table
+
 http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
 -->
 
@@ -650,35 +648,29 @@ Asynchrony
 Async/Await, Futures, Promises
 * [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
 * [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
+* [Event Loop](https://en.wikipedia.org/wiki/Event_loop)
 
-## HTTP, Request and Response Cycle- General
+Benefits
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
+* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
 
-Web Browsers and Servers
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
-* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+<!--
+See Tom's Talk
+Real time
+non-blocking http requests
+light-weight parallelization
+https://en.wikipedia.org/wiki/Parallel_computing
+explicit i/o
 
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+Also, Ajax Polling explained
 
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+polling versus webhooks
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+-->
 
-Client-Side
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-
-Server-Side
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Scripting, Client-Side and Server-Side
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
-* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
+## Request and Response Cycle, HTTP
 
 Request and Response Cycle
 * [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
@@ -716,6 +708,35 @@ https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
 
 https://en.wikipedia.org/wiki/Server_log
 -->
+
+## Web Browser, Client/Server
+
+Web Browsers and Servers
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Client-Side
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+
+Server-Side
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Scripting, Client-Side and Server-Side
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
+* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
 
 ## Programming Paradigms
 
