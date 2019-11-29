@@ -2,13 +2,12 @@
 
 <!--
 https://www.pyohio.org/
+https://2019.pycon.ca/schedule-day-1/
+https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
 
 https://www.djangoproject.com/weblog/2019/nov/18/introducing-djangocon-africa/
 procida python and pycons across africa
 https://github.com/pyladies/project-admin-logisitics
-
-https://github.com/sdispater/poetry
-https://github.com/python/bedevere
 
 https://traversymedia.com/
 https://github.com/dwmkerr/hacker-laws#goodharts-law
@@ -199,6 +198,7 @@ https://github.com/github/hubot
 https://hubot.github.com/
 -->
 
+
 <!--
 GitHub
 https://help.github.com/en
@@ -208,17 +208,36 @@ https://developers.google.com/identity/protocols/OAuth2
 https://en.wikipedia.org/wiki/OpenID
 https://en.wikipedia.org/wiki/OAuth
 
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
+
+https://grpc.io/
+https://grpc.io/docs/guides/
+https://en.wikipedia.org/wiki/Remote_procedure_call
+https://developers.google.com/protocol-buffers/docs/overview
+
+
+
+chat protocols, IoT protocols
+https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
+https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
+
+https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+https://en.wikipedia.org/wiki/Push_technology
 
 requests library
-
-GitHub Apps/GitHub Actions
-https://gidgethub.readthedocs.io/en/latest/
 
 polling versus webhooks
 http://restcookbook.com/Miscellaneous/rest-and-http/
 https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
 
+https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Headless_browser
+
 https://en.wikipedia.org/wiki/Microservices
 Real time services
 
@@ -230,9 +249,129 @@ https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
 
-# Architecture, Sync, and Async
+<!--
+https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
+https://www.tutorialspoint.com/html5/html5_websocket.htm
 
-## Important Concepts
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+-->
+
+## Async- Other Languages
+
+Rust
+* [Rust](https://www.rust-lang.org/)
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+
+Rust Async
+* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
+
+<!--
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://github.com/tc39/proposal-top-level-await
+https://v8.dev/features/top-level-await | Top-level await · V8
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+
+https://www.quora.com/Which-programming-languages-are-asynchronous
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+https://nodejs.org/api/timers.html
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
+https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+
+Node.js
+Event-driven, asynchronous IO
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop
+https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+https://en.wikipedia.org/wiki/Event_loop
+-->
+
+## Benefits
+
+<!--
+See Tom's Talk
+
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+Also, Ajax Polling explained
+
+Real time
+Websockets, SSE, long polling
+https://en.wikipedia.org/wiki/Server-sent_events
+non-blocking http requests
+light-weight parallelization
+https://en.wikipedia.org/wiki/Parallel_computing
+explicit i/o
+-->
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Throughput
+
+https://en.wikipedia.org/wiki/Throttling_process_(computing)
+https://en.wikipedia.org/wiki/Bandwidth_throttling
+https://en.wikipedia.org/wiki/Rate_limiting
+
+https://en.wikipedia.org/wiki/CPU_cache
+https://en.wikipedia.org/wiki/Cache_(computing)
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
+https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
+https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
+https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
+https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
+
+https://en.wikipedia.org/wiki/Intel
+https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+
+https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+-->
+
+
+
+## Architecture- Important Concepts
 
 Computer Architecture
 * [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
@@ -399,71 +538,6 @@ TCP
 * [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 * [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
-<!--
-https://en.wikipedia.org/wiki/HTTP/3
-https://en.wikipedia.org/wiki/HTTP/2
-https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
--->
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://en.wikipedia.org/wiki/Latency_(engineering) | Latency (engineering) - Wikipedia
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Throughput
-
-https://en.wikipedia.org/wiki/Throttling_process_(computing)
-https://en.wikipedia.org/wiki/Bandwidth_throttling
-https://en.wikipedia.org/wiki/Rate_limiting
-
-https://en.wikipedia.org/wiki/CPU_cache
-https://en.wikipedia.org/wiki/Cache_(computing)
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
-https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
-http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
-https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
-https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
-http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
-https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
-https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
-https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
-
-https://en.wikipedia.org/wiki/Intel
-https://en.wikipedia.org/wiki/Advanced_Micro_Devices
-
-https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
-
-https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
-https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
-https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
-https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
-https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
-https://en.wikipedia.org/wiki/Memory_address_register
-https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
-https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
-https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
-https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
-https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
--->
-
-<!--
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
--->
-
 ## Computer Architecture
 
 CPU versus IO
@@ -520,6 +594,8 @@ https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
 
 https://en.wikipedia.org/wiki/Memory_bound_function
 
+Cron
+
 Interesting!
 https://en.wikipedia.org/wiki/Execution_model
 https://en.wikipedia.org/wiki/Scheduling_(computing)
@@ -569,82 +645,11 @@ Asynchrony
 * [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
 * [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
 
-
-<!--
-https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
-https://www.tutorialspoint.com/html5/html5_websocket.htm
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
--->
-
-## Async- Other Languages
-
+Async/Await, Futures, Promises
 * [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
 * [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
 
-WebSockets and Server-Sent Events
-* [Mozilla WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Mozilla WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), [Mozilla Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers), and [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-* [Mozilla Server-Sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
-
-Non-Python async
-* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
-
-<!--
-https://github.com/tc39/proposal-top-level-await
-https://v8.dev/features/top-level-await | Top-level await · V8
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
-https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
-
-https://www.quora.com/Which-programming-languages-are-asynchronous
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
-https://nodejs.org/api/timers.html
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
-https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
-
-Node.js
-Event-driven, asynchronous IO
-https://www.tutorialspoint.com/nodejs/nodejs_event_loop
-https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
-https://en.wikipedia.org/wiki/Event_loop
--->
-
-## Benefits
-
-<!--
-See Tom's Talk
-
-https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-Also, Ajax Polling explained
-
-Real time
-Websockets, SSE, long polling
-https://en.wikipedia.org/wiki/Server-sent_events
-non-blocking http requests
-light-weight parallelization
-https://en.wikipedia.org/wiki/Parallel_computing
-explicit i/o
--->
-
 ## HTTP, Request and Response Cycle- General
-
-<!--
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
--->
 
 Web Browsers and Servers
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
