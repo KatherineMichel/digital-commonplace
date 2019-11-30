@@ -30,6 +30,7 @@ https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ 
 https://t.co/IfmaQr0Oog" / Twitter
 https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
 
+
 https://treyhunner.com/2018/04/keyword-arguments-in-python/
 https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
 https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
@@ -136,16 +137,6 @@ https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twi
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
-https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
-https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
-
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
@@ -341,18 +332,6 @@ https://en.wikipedia.org/wiki/Intel
 https://en.wikipedia.org/wiki/Advanced_Micro_Devices
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
-
-https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
-https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
-https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
-https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
-https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
-https://en.wikipedia.org/wiki/Memory_address_register
-https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
-https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
-https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
-https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
-https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
 -->
 
 
@@ -397,7 +376,6 @@ https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-
 -->
 
 Instruction Set (CPU)
-* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
 * [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 * [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
@@ -406,7 +384,20 @@ Instruction Set (CPU)
 * [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
+Components
+* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
+
 <!--
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+
 https://en.wikipedia.org/wiki/Opcode
 https://en.wikipedia.org/wiki/Opcode_table
 
@@ -420,6 +411,9 @@ Binary
 * [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
 
 <!--
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+
 https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
 http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
 https://en.wikipedia.org/wiki/ASCII
@@ -465,10 +459,40 @@ https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a
 
 https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
 
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
+https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+https://stackoverflow.com/questions/34149013/what-does-it-mean-that-python-is-stack-based
+https://en.wikipedia.org/wiki/Stack_machine
+https://en.wikipedia.org/wiki/Virtual_memory
+
+https://en.wikipedia.org/wiki/Cron
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://en.wikipedia.org/wiki/Shell_script
+https://en.wikipedia.org/wiki/Shebang_(Unix)
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
+https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
+https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
+
+https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
 https://twitter.com/brendangregg/status/1150796412931600384/photo/2
 https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
 http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
 https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
+
+Commands
 http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
 https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
 http://man7.org/linux/man-pages/ | Linux man pages online
