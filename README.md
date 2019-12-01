@@ -1139,6 +1139,7 @@ https://github.com/universeworkshops/general/blob/master/prereqs.md | general/pr
 https://lab.github.com/
 https://lab.github.com/githubtraining/ | GitHub Learning Lab
 
+https://todo.jasonet.co/ | todo | GitHub App
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 https://github.com/KatherineMichel/todo
 https://github.com/universeworkshops/scrabblescore-template
