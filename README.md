@@ -1,6 +1,27 @@
 # The List 2019
 
 <!--
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
+https://btholt.github.io/four-semesters-of-cs/
+https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
+https://www.khanacademy.org/computing/computer-programming/programming#good-practices
+
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+
 https://www.djangoproject.com/weblog/2019/nov/18/introducing-djangocon-africa/
 procida python and pycons across africa
 https://github.com/pyladies/project-admin-logisitics
