@@ -1187,7 +1187,7 @@ https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
 
-Packaging checklist
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
 https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
