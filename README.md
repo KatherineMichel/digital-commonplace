@@ -82,14 +82,15 @@ http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 
 
 <!--
+Twitter Roadmap
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
 
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
-https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
@@ -150,6 +151,8 @@ https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quali
 
 https://en.wikipedia.org/wiki/Software_rot
 
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
 Hynek
 https://hynek.me/talks/
 https://hynek.me/talks/python-foss/
@@ -185,6 +188,10 @@ GitHub
 https://help.github.com/en
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+
+Postman
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 
 https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
 https://developers.google.com/identity/protocols/OAuth2
