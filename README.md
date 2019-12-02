@@ -89,7 +89,26 @@ https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Devel
 
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
 
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+
+https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
+
+Algorithm Design Manual
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
+
+SICP
+https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
+National Vulnerability Database
+https://nvd.nist.gov/ | NVD - Home
+
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
 
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
@@ -173,7 +192,11 @@ https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
 https://www.twitch.tv/anthonywritescode
 https://twitter.com/codewithanthony/status/1198774749473558528
 https://github.com/pre-commit/action
+
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
+https://www.twitch.tv/bletchleypunk/ | (2) bletchleypunk - Twitch
+https://www.twitch.tv/theacodes | (2) theacodes - Twitch
+https://www.twitch.tv/alsweigart/ | (2) AlSweigart - Twitch
 
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
@@ -836,8 +859,9 @@ React?
 * [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
 
 <!--
-https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming Paradigms for Dummies: What Every Programmer Should Know
 https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
 Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
 state.
 Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
@@ -1274,6 +1298,13 @@ https://github.com/universeworkshops/general/blob/master/prereqs.md | general/pr
 https://lab.github.com/
 https://lab.github.com/githubtraining/ | GitHub Learning Lab
 
+Workshops
+https://lab.github.com/githubtraining/innersource-fundamentals
+https://lab.github.com/github/hello-github-actions!
+https://lab.github.com/githubtraining/github-actions:-continuous-integration
+https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages
+https://lab.github.com/githubtraining/github-actions:-continuous-delivery
+
 https://todo.jasonet.co/ | todo | GitHub App
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 https://github.com/universeworkshops/todo-template | universeworkshops/todo-template: GitHub App that creates new issues from actionable comments in your code.
@@ -1530,6 +1561,7 @@ Permissions: triage and maintain
 ## Gov
 
 <!--
+sara cope- very beginner mindset
 https://githubuniverse.com/schedule/#shaping-the-contributor-experience
 https://github.com/saracope/shaping-the-contributor-experience
 https://github.com/saracope/boilerplate-repo
