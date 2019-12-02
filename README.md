@@ -1,6 +1,6 @@
 # Digital Commonplace
 
-Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). 
+Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
@@ -321,6 +321,163 @@ https://realpython.com/python-sockets
 https://www.geeksforgeeks.org/socket-programming-python
 -->
 
+## Curated Resources
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+
+Interesting Curated Learning Resources
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Front End Guide](https://github.com/grab/front-end-guide)
+* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+
+<!--
+how probability distributions are related
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+software development competency framework
+
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+https://github.com/dwmkerr/hacker-laws#goodharts-law
+
+https://btholt.github.io/four-semesters-of-cs/
+
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+-->
+
+<!--
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+
+https://github.com/CyC2018/CS-Notes
+
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+
+https://github.com/in28minutes/first-steps-to-software-architect
+
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/Droogans/unmaintainable-code
+-->
+
+<!--
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+-->
+
+<!--
+https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
+https://t.co/BEhKVo5t3R"
+https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
+https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
+https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
+https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+
+
+https://github.com/asciimoo/ListOfGithubLists
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
+
+https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
+
+https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+-->
+
+## Interviewing
+
+<!--
+https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+-->
+
+<!--
+http://blog.interviewing.io
+http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
+http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
+
+
+https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
+
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
+
+https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
+http://blog.triplebyte.com/how-to-interview-engineers
+https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
+
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
+
+https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
+
+https://github.com/donnemartin/interactive-coding-challenges
+-->
+
 ## Async- Other Languages
 
 Rust
@@ -402,7 +559,6 @@ https://en.wikipedia.org/wiki/Advanced_Micro_Devices
 
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
 -->
-
 
 ## Architecture- Important Concepts
 
@@ -2999,165 +3155,6 @@ https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twi
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
--->
-
-## Curated Resources
-
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
-
-
-Interesting Curated Learning Resources
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
-* [Front End Guide](https://github.com/grab/front-end-guide)
-* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-* [Open Source Society University](https://github.com/ossu/computer-science)
-* [Skill Map](https://github.com/TeamStuQ/skill-map)
-
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-
-<!--
-https://github.com/dwmkerr/hacker-laws#goodharts-law
-
-https://btholt.github.io/four-semesters-of-cs/
-
-https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
-
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
--->
-
-<!--
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
-
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-
-https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-
-https://github.com/CyC2018/CS-Notes
-
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-
-https://github.com/in28minutes/first-steps-to-software-architect
-
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/Droogans/unmaintainable-code
--->
-
-
-<!--
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
--->
-
-<!--
-https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
-https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
-https://t.co/BEhKVo5t3R"
-https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
-https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
-https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
-https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-
-
-https://github.com/asciimoo/ListOfGithubLists
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
-
-https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
-
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-how probability distributions are related
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-software development competency framework
-
-https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
-
-http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
--->
-
-## Interviewing
-
-<!--
-https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
--->
-
-<!--
-http://blog.interviewing.io
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
-
-
-https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
-
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
-http://blog.triplebyte.com/how-to-interview-engineers
-https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
-https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
-
-https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
-
-https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
-
-https://github.com/trimstray/sysadmin-interview-questions
-
-https://github.com/donnemartin/interactive-coding-challenges
 -->
 
 ## Web Development- General
