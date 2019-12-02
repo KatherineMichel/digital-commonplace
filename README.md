@@ -1,30 +1,91 @@
 # The List 2019
 
 <!--
+https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://kk.org/thetechnium/1000-true-fans/
+
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://shellshare.net/
+https://asciinema.org asciinema
+https://www.asciiart.eu/ | ASCII Art Archive
+
+https://agilemanifesto.org/ | Manifesto for Agile Software Development
+
+https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
+
+https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+
+https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
+
+https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
+https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
+
+Runbook
+https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
+https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
+https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
+https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
+
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+-->
+
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+<!--
+https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+
+https://about.gitlab.com/developer-survey/
+https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
+http://stateofjs.com/2016/frontend/ | Front-End Frameworks
+-->
+
+
+<!--
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
 
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
-http://aosabook.org/en/index.html | The Architecture of Open Source Applications
-https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
-https://btholt.github.io/four-semesters-of-cs/
-https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
-
-https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
-state.
-Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
-data types are the two most popular, but there exist two others, declarative objects and
-stateful abstract data types.
-
-https://www.djangoproject.com/weblog/2019/nov/18/introducing-djangocon-africa/
-procida python and pycons across africa
-https://github.com/pyladies/project-admin-logisitics
 
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
@@ -33,23 +94,15 @@ https://testautomationu.applitools.com/unit-testing/ | Overview
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 
 https://traversymedia.com/
-https://github.com/dwmkerr/hacker-laws#goodharts-law
+
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
 https://github.com/nice-boys/product-boilerplate
 
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
-https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
-https://kk.org/thetechnium/1000-true-fans/
-
 https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
-https://t.co/IfmaQr0Oog" / Twitter
-https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
+Google Cloud Django/Python
+https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
 
 https://treyhunner.com/2018/04/keyword-arguments-in-python/
@@ -105,6 +158,9 @@ https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
 https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
 https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
 
 https://www.twitch.tv/anthonywritescode
@@ -119,102 +175,46 @@ https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
 
 Katie
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-
-
-https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
-
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://shellshare.net/
-https://asciinema.org asciinema
-https://www.asciiart.eu/ | ASCII Art Archive
-
-https://agilemanifesto.org/ | Manifesto for Agile Software Development
-
-https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
-https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
-
-https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
-
-https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
-https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
-
-Runbook
-https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
-https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
-https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
-https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
-
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-
-Google Cloud Django/Python
-https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
-https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
-
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-https://github.com/devict/devict-hubot
-https://github.com/github/hubot
-https://hubot.github.com/
 -->
 
-## Surveys
-
-* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
-* [The State Of JavaScript](http://stateofjs.com)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
-
-<!--
-https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
-
-https://about.gitlab.com/developer-survey/
-https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
-http://stateofjs.com/2016/frontend/ | Front-End Frameworks
--->
 
 <!--
 GitHub
 https://help.github.com/en
 
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+
 https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
 https://developers.google.com/identity/protocols/OAuth2
-https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/Basic_access_authentication
 https://en.wikipedia.org/wiki/OAuth
+https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
+https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/OpenID_Connect
+https://openid.net/ | OpenID Foundation website
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
+Social Auth
+https://oauth.net/2/ | OAuth 2.0 — OAuth
+https://oauth.net/ | OAuth Community Site
+https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
+https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
+https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
+https://twofactorauth.org/ | 502 Bad Gateway
+https://twofactorauth.org/#banking | Two Factor Auth List
+
+http://json-schema.org/ | JSON Schema | The home of JSON Schema
+https://jwt.io/ | JSON Web Tokens - jwt.io
+
+https://chmodcommand.com
+https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 
 Database
+https://en.wikipedia.org/wiki/Federated_database_system
+delegated database
 Google Spanner versus Calvin Protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
@@ -602,10 +602,22 @@ HTTP versus Websocket
 
 Application Programming Interface (API)
 * [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
+* [Web API Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
+* [Web API Endpoints Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
 
 REST (API architecture style; versus SOAP or GraphQL)
 * [Representational State Transfer Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
 * [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+
+REST Alternatives
+* [GraphQL](http://graphql.org/)
+* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
+
+<!--
+https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+https://github.com/graphql-python | GraphQL Python
+-->
 
 REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
@@ -635,11 +647,9 @@ https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port
 https://en.wikipedia.org/wiki/Application_programming_interface
 "When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
 
-https://en.wikipedia.org/wiki/Web_API#Endpoints | Web API - Wikipedia
-
 https://en.wikipedia.org/wiki/Memory_bound_function
 
-Cron
+https://en.wikipedia.org/wiki/Cron
 
 Interesting!
 https://en.wikipedia.org/wiki/Execution_model
@@ -721,6 +731,7 @@ Request and Response Cycle
 * [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
 
 HTTP and HTTPS
+* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
 * [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
 
@@ -743,8 +754,6 @@ Cookies
 * [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
 
 <!--
-https://en.wikipedia.org/wiki/Hypertext | Hypertext - Wikipedia
-
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
 https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
@@ -796,11 +805,23 @@ Software Paradigm Types
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 * [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
 
-<!--
 React?
 * [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
 * [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
 * [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+
+<!--
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+https://en.wikipedia.org/wiki/Abstract_data_type
+
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 -->
 
 ## GRASP and Clean Architecture (Follows SOLID Principles)
@@ -906,6 +927,38 @@ https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
 -->
 
+
+## Architectures
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+Architectures
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+
+<!--
+https://en.wikipedia.org/wiki/Multitenancy
+
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Messaging_pattern
+
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+-->
+
+
 ## Authorities
 
 Authorities
@@ -916,15 +969,50 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+
+http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
 https://refactoring.com/catalog/
 https://refactoring.com/
 https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
 https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
 https://python-patterns.guide/
 
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 
+https://www.kentbeck.com/ | KentBeck.com
+
+http://stevemcconnell.com/books/
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://martinfowler.com/articles/products-over-projects.html
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+<!--
 Tags
 basic
 encapsulation
@@ -1364,6 +1452,10 @@ https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHu
 https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
 https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
 https://github.com/berkerpeksag/cpython-merge-bot
+
+https://github.com/devict/devict-hubot
+https://github.com/github/hubot
+https://hubot.github.com/
 -->
 
 <!--
@@ -2343,9 +2435,6 @@ Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 <!--
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
-
 https://sourcemaking.com
 https://sourcemaking.com/antipatterns/ | AntiPatterns
 https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
@@ -2366,35 +2455,6 @@ Concepts
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-## Architectures
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
-
-Architectures
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-
-<!--
-https://en.wikipedia.org/wiki/Multitenancy
-
-Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
-https://en.wikipedia.org/wiki/Software_architecture
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Messaging_pattern
-https://en.wikipedia.org/wiki/Request%E2%80%93response
-
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
--->
 
 ## Database Architectures and Principles
 
@@ -2832,33 +2892,6 @@ Authorities
 * [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
-<!--
-https://www.kentbeck.com/ | KentBeck.com
-
-http://stevemcconnell.com/books/
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
--->
-
-<!--
-https://martinfowler.com/articles/products-over-projects.html
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
--->
-
 ## Books
 
 <!--
@@ -2935,6 +2968,12 @@ Stellar Programming Learning Resources
 
 
 <!--
+https://github.com/dwmkerr/hacker-laws#goodharts-law
+
+https://btholt.github.io/four-semesters-of-cs/
+
+https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
+
 https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
 -->
 
