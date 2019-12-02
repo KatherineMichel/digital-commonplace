@@ -47,6 +47,8 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+
 https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
 
 https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
@@ -89,8 +91,10 @@ https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstr
 
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
-https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
+https://www.khanacademy.org/computing/computer-programming/programming#good-practices
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
@@ -171,6 +175,7 @@ https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
 https://www.twitch.tv/anthonywritescode
 https://twitter.com/codewithanthony/status/1198774749473558528
 https://github.com/pre-commit/action
+https://www.twitch.tv/noopkat | (2) noopkat - Twitch
 
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
@@ -189,8 +194,12 @@ https://help.github.com/en
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 
-Postman
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
+Dark Language
+https://twitter.com/rauchg/status/1196968841554751488 | Guillermo ▲ on Twitter: "CodeSandbox CI looks so. freaking. good https://t.co/DN3SInzwoc https://t.co/vl6EHgEWp6" / Twitter
+https://ci.codesandbox.io/status/facebook/react/pr/17398/builds/1930 | facebook/react #1930 - CodeSandbox CI
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 
 https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
@@ -1250,6 +1259,7 @@ https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducin
 
 https://github.com/erikbern/git-of-theseus
 
+https://primer.style/css/ | Primer CSS
 https://github.com/primer | Primer
 
 https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
@@ -1259,6 +1269,7 @@ https://lab.github.com/githubtraining/ | GitHub Learning Lab
 
 https://todo.jasonet.co/ | todo | GitHub App
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
+https://github.com/universeworkshops/todo-template | universeworkshops/todo-template: GitHub App that creates new issues from actionable comments in your code.
 https://github.com/KatherineMichel/todo
 https://github.com/universeworkshops/scrabblescore-template
 https://github.com/swinton/scrabblescore
@@ -1314,6 +1325,7 @@ https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 https://github.com/jlord/reporobot
 
 https://github.com/gr2m/
+https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
 
 Probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
@@ -1413,6 +1425,11 @@ https://developer.github.com/apps/building-github-apps/creating-github-apps-from
 https://developer.github.com/webhooks/
 https://developer.github.com/webhooks/creating/
 https://help.github.com/en/github/extending-github/about-webhooks
+
+https://github.com/settings/tokens | Personal Access Tokens
+https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
+https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
+https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
 
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
