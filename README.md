@@ -94,8 +94,6 @@ https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
@@ -198,6 +196,9 @@ Dark Language
 https://twitter.com/rauchg/status/1196968841554751488 | Guillermo ▲ on Twitter: "CodeSandbox CI looks so. freaking. good https://t.co/DN3SInzwoc https://t.co/vl6EHgEWp6" / Twitter
 https://ci.codesandbox.io/status/facebook/react/pr/17398/builds/1930 | facebook/react #1930 - CodeSandbox CI
 
+VS Code Testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+
 Postman	
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
@@ -226,6 +227,12 @@ https://twofactorauth.org/#banking | Two Factor Auth List
 
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
 https://jwt.io/ | JSON Web Tokens - jwt.io
+
+API
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
@@ -1271,6 +1278,8 @@ https://todo.jasonet.co/ | todo | GitHub App
 https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 https://github.com/universeworkshops/todo-template | universeworkshops/todo-template: GitHub App that creates new issues from actionable comments in your code.
 https://github.com/KatherineMichel/todo
+https://github.com/KatherineMichel/todo/blob/release/.github/workflows/prepare-release-branch.yml | todo/prepare-release-branch.yml at release · KatherineMichel/todo
+https://github.com/KatherineMichel/todo/releases/tag/v1.0.0 | Release todo[bot] release 1.0.0 · KatherineMichel/todo
 https://github.com/universeworkshops/scrabblescore-template
 https://github.com/swinton/scrabblescore
 https://github.com/swinton/example-deploy-to-amazon-ecs-with-github-actions
@@ -1373,6 +1382,9 @@ https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-
 https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
 https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
 
+Runners
+https://twitter.com/github/status/1191828955734724608 | GitHub on Twitter: "Looking for more choice and flexibility with GitHub Actions? Take full control over the configuration and environment your workflows run on with self-hosted runners for GitHub Actions, available in beta today. https://t.co/KsJYLEPEPw" / Twitter
+
 https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
 
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
@@ -1403,13 +1415,16 @@ https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: Gi
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
 
+https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
+https://twitter.com/bitandbang/status/1159514802596777984
+
 Example actions
 https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
 https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
 https://github.com/bdougie/github-actions-continuous-delivery
 https://github.com/paulirish/lighthouse-ci-action
 https://twitter.com/webology/status/1195412423936753670
-https://twitter.com/jacobian/status/1192500227078529026
+https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
 https://github.com/boyney123/github-actions
 https://twitter.com/simonw/status/1199851134564884480
 
@@ -1444,15 +1459,17 @@ https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ |
 https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
 -->
 
+## Bots
+
+Mariatta- Bot Tutorials
+* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+
 <!--
-### Bots
+https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
 
 https://github.com/Mariatta/gh_app_starter
 https://twitter.com/mariatta/status/1191534648205037569
 https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
-
-Mariatta- Bots
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
 
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
@@ -1482,17 +1499,6 @@ https://github.com/berkerpeksag/cpython-merge-bot
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
--->
-
-<!--
-VS Code Testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-
-API
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
 -->
 
 <!--
