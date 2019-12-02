@@ -726,6 +726,43 @@ See also: Data Science
 https://github.com/keen/cohorts
 -->
 
+### Kenneth
+
+pipenv
+* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
+
+DJ Static, DJ Database URL
+* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
+* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records, Requests (HTTP for Humans), Requests HTML
+* [Records GitHub](https://github.com/kennethreitz/records)
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
+
+<!--
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
+
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+https://github.com/kennethreitz/homebrew-pythons
+-->
+
 ## Python and Django Debugging and Testing
 
 Testing
