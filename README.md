@@ -113,6 +113,7 @@ https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 
+https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
@@ -488,6 +489,11 @@ Rust Async
 * [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
 
 <!--
+https://github.com/remy/nodemon#nodemon
+https://docs.npmjs.com/files/package.json
+https://jestjs.io/
+https://github.com/nock/nock
+
 HTTP
 https://nodejs.org/api/http.html
 https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
@@ -1534,6 +1540,10 @@ https://probot.github.io/apps/no-response/ | No Response | Probot
 https://github.com/probot/create-probot-app
 https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
 
+https://octokit.github.io/rest.js/
+https://github.com/octokit/rest.js
+https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
+
 https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
 https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
 https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
@@ -1681,6 +1691,7 @@ https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitt
 
 Mariatta- Bot Tutorials
 * [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
 * [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
 * [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
 
@@ -1696,18 +1707,19 @@ https://twitter.com/mariatta/status/1191534648205037569
 Mariatta and Andrew
 https://github.com/asvetlov/us-pycon-2019-tutorial
 https://us-pycon-2019-tutorial.readthedocs.io/index.html
+https://docs.python.org/3/library/abc.html
 https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
 https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+https://cz.pycon.org/2019/programme/workshops/9/#main
+
+https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
 
 https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
 https://github.com/berkerpeksag/cpython-merge-bot
 
-https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
-
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
 
 https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
 https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
 https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
 
