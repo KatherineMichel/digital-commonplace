@@ -1524,12 +1524,14 @@ https://github.com/gr2m/
 https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
 
 Probot
+https://github.com/probot/probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
 https://probot.github.io/apps/ | Featured Apps | Probot
 https://probot.github.io/docs/hello-world/ | Hello world | Probot
 https://probot.github.io/apps/polls/ | Polls | Probot
 https://probot.github.io/apps/no-response/ | No Response | Probot
 
+https://github.com/probot/create-probot-app
 https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
 
 https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
@@ -1617,22 +1619,51 @@ https://twitter.com/simonw/status/1199851134564884480
 
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
+GitHub API
+https://developer.github.com/v3/
+GitHub GraphQL API
 https://developer.github.com/v4/
 
+Settings
+https://github.com/settings/apps
+https://github.com/settings/installations
+
+Apps
 https://developer.github.com/apps
 https://developer.github.com/apps/about-apps/
 https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
 https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
 
+Endpoints
+https://developer.github.com/v3/apps/available-endpoints/
+
+Webhooks
 https://developer.github.com/webhooks/
 https://developer.github.com/webhooks/creating/
 https://help.github.com/en/github/extending-github/about-webhooks
 
-https://github.com/settings/tokens | Personal Access Tokens
+Events!
 https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
-https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
-https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
 
+Event examples
+https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
+https://developer.github.com/v3/activity/events/types/#issuesevent
+https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
+
+Payloads
+https://developer.github.com/webhooks/#payloads
+
+https://developer.github.com/v3/issues/comments/#create-a-comment
+https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://developer.github.com/v3/repos/statuses/#create-a-status
+
+Auth
+https://github.com/settings/tokens | Personal Access Tokens
+https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
+
+Hooks
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 
@@ -1649,19 +1680,31 @@ https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitt
 ## Bots
 
 Mariatta- Bot Tutorials
-* [Mariatta's Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
+* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
+
+Tools
+* [aiohttp](https://aiohttp.readthedocs.io)
+* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
+* [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
+Mariatta community automation talk
+https://twitter.com/mariatta/status/1191534648205037569
+
+Mariatta and Andrew
+https://github.com/asvetlov/us-pycon-2019-tutorial
+https://us-pycon-2019-tutorial.readthedocs.io/index.html
+https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://github.com/berkerpeksag/cpython-merge-bot
+
 https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
 
-https://github.com/Mariatta/gh_app_starter
-https://twitter.com/mariatta/status/1191534648205037569
-https://github.com/Mariatta/gh_app_demo | Mariatta/gh_app_demo: GitHub App demo, with gidgethub, aiohttp, and Python 3.7
-
 * [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-New- Bots
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
 
 https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
 https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html | Hall of Fame: Bots By Students — github-bot-tutorial documentation
@@ -1672,16 +1715,6 @@ https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Tw
 
 https://zapier.com/ | Zapier | The easiest way to automate your work
 https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-https://sans-io.readthedocs.io/ | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://aiohttp.readthedocs.io/en/stable/ | Welcome to AIOHTTP — aiohttp 3.4.4 documentation
-https://pypi.org/project/gidgethub/
-https://gidgethub.readthedocs.io/en/latest/ | gidgethub — An async library for calling GitHub’s API — gidgethub documentation
-https://github.com/brettcannon/gidgethub | brettcannon/gidgethub: An async GitHub API library for Python
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://github.com/berkerpeksag/cpython-merge-bot
 
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
