@@ -17,6 +17,8 @@ https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
 https://kk.org/thetechnium/1000-true-fans/
 
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+
 http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
 github users with the most followers - Google Search
@@ -26,17 +28,7 @@ https://shellshare.net/
 https://asciinema.org asciinema
 https://www.asciiart.eu/ | ASCII Art Archive
 
-https://agilemanifesto.org/ | Manifesto for Agile Software Development
-
-https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
-https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 
 Debugging
 https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
@@ -45,95 +37,78 @@ https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
 
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
-
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
-
-https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
-
-https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
-https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
-
-Runbook
-https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
-https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
-https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
-https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
-
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
--->
-
-## Surveys
-
-* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
-* [The State Of JavaScript](http://stateofjs.com)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
-
-<!--
-https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
-
-https://about.gitlab.com/developer-survey/
-https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
-http://stateofjs.com/2016/frontend/ | Front-End Frameworks
--->
-
-
-<!--
-Twitter Roadmap
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-
-https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
-
-Algorithm Design Manual
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
+https://agilemanifesto.org/ | Manifesto for Agile Software Development
 
 SICP
 https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
-https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 
-National Vulnerability Database
-https://nvd.nist.gov/ | NVD - Home
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+software development competency framework
+
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
 
 https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
 
-https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
 
-https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
-https://www.khanacademy.org/computing/computer-programming/programming#good-practices
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
+https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
+https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
 
 https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+Computer Architecture
+https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+
+National Vulnerability Database
+https://nvd.nist.gov/ | NVD - Home
+
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+-->
+
+<!--
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
+https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 
 https://traversymedia.com/
-
-https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
 
-https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+https://en.wikipedia.org/wiki/Software_rot
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
 Google Cloud Django/Python
 https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
+https://www.twitch.tv/anthonywritescode
+https://twitter.com/codewithanthony/status/1198774749473558528
+https://github.com/pre-commit/action
 
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+https://www.twitch.tv/noopkat | (2) noopkat - Twitch
+https://www.twitch.tv/bletchleypunk/ | (2) bletchleypunk - Twitch
+https://www.twitch.tv/theacodes | (2) theacodes - Twitch
+https://www.twitch.tv/alsweigart/ | (2) AlSweigart - Twitch
+
+Twitter Roadmap
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
 
 https://twitter.com/jessicagarson/status/1188194831765594113 | Jessica Garson on Twitter: "My talk from @PyGotham on how I solved my NYC parking problem with Python is now up. Check it out and let me know if it inspires you to build anything https://t.co/kxDv20YA8B" / Twitter
 https://pyvideo.org/speaker/jessica-garson.html | PyVideo.org · Jessica Garson
@@ -149,12 +124,19 @@ https://foxdot.org/ | FoxDot: Live coding with Python – Make music with Python
 https://livecode.nyc/ | livecode.nyc | LiveCode.NYC
 https://www.youtube.com/watch?v=YUIPcXduR8E | Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon 2019 - YouTube
 
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
 The Perils of Inheritance
 https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
 https://docs.google.com/presentation/d/e/2PACX-1vRNv4rLHUdM03wPOfe8GuqZQWjrVKfaDtULV2K_qVa4oHkR4WPfjsYaQy22sCuZcoAO26WToGcI7HME/pub
+
+https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
+
+Katie
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 
 https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
 
@@ -171,10 +153,6 @@ https://github.com/carljm/dotfiles
 
 https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
 
-https://en.wikipedia.org/wiki/Software_rot
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
 Hynek
 https://hynek.me/talks/
 https://hynek.me/talks/python-foss/
@@ -188,33 +166,31 @@ https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Dep
 https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
 https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
 
-https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
-
-https://www.twitch.tv/anthonywritescode
-https://twitter.com/codewithanthony/status/1198774749473558528
-https://github.com/pre-commit/action
-
-https://www.twitch.tv/noopkat | (2) noopkat - Twitch
-https://www.twitch.tv/bletchleypunk/ | (2) bletchleypunk - Twitch
-https://www.twitch.tv/theacodes | (2) theacodes - Twitch
-https://www.twitch.tv/alsweigart/ | (2) AlSweigart - Twitch
-
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
 https://masonegger.com/talks/
 https://masonegger.com/talks/ci-docs/
 https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
 
-Katie
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
--->
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
 
+https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
+
+https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
+https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
+
+Runbook
+https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
+https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
+https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
+https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
+-->
 
 <!--
 GitHub
 https://help.github.com/en
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 
 Dark Language
 https://twitter.com/rauchg/status/1196968841554751488 | Guillermo ▲ on Twitter: "CodeSandbox CI looks so. freaking. good https://t.co/DN3SInzwoc https://t.co/vl6EHgEWp6" / Twitter
@@ -322,6 +298,23 @@ https://realpython.com/python-sockets
 https://www.geeksforgeeks.org/socket-programming-python
 -->
 
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+<!--
+https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+
+https://about.gitlab.com/developer-survey/
+https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
+http://stateofjs.com/2016/frontend/ | Front-End Frameworks
+-->
+
 ## Curated Resources
 
 Awesome Tools
@@ -350,36 +343,9 @@ Stellar Programming Learning Resources
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
-
 <!--
-how probability distributions are related
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-software development competency framework
-
-https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-https://github.com/dwmkerr/hacker-laws#goodharts-law
-
-https://btholt.github.io/four-semesters-of-cs/
-
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
--->
-
-<!--
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 
 https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
 https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
@@ -393,32 +359,25 @@ https://github.com/jwasham/coding-interview-university#object-oriented-programmi
 https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
 https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 
+https://github.com/asciimoo/ListOfGithubLists
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
 
-https://github.com/CyC2018/CS-Notes
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
 
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
 
 https://github.com/in28minutes/first-steps-to-software-architect
-
 https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
 
 https://github.com/Droogans/unmaintainable-code
--->
 
-<!--
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
--->
-
-<!--
+https://github.com/CyC2018/CS-Notes
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+https://github.com/dwmkerr/hacker-laws#goodharts-law
+https://btholt.github.io/four-semesters-of-cs/
 https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
 https://t.co/BEhKVo5t3R"
@@ -428,22 +387,30 @@ https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: 
 https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
-
-
-https://github.com/asciimoo/ListOfGithubLists
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
-
-https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
-
 https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
 https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
 
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 -->
 
 ## Interviewing
@@ -694,8 +661,6 @@ https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
 https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
 https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
 https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
 https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
@@ -1258,6 +1223,11 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
@@ -1332,6 +1302,7 @@ https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
 
+https://devchecklists.com/vintas-high-quality-standards/
 * [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
 https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
@@ -1419,6 +1390,11 @@ https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A 
 https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
 
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+
+GitHub Actions Matrix Demo
+https://twitter.com/webology/status/1201887760413528065
+https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
 
 Important
 https://github.com/pypa/gh-action-pypi-publish/issues/2
@@ -1548,6 +1524,8 @@ https://hubot.github.com/
 
 <!--
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
+
+https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
 
 https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/
 
