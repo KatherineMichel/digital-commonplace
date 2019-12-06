@@ -291,90 +291,6 @@ https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
 Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
-## Algorithmic Design Patterns
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
-<!--
-https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
-
-https://en.wikipedia.org/wiki/Category:Algorithms
-https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
-
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-https://en.wikipedia.org/wiki/Algorithmic_paradigm
-List of Algorithm Design Paradigms
-https://en.wikipedia.org/wiki/Algorithmic_paradigm#General
-Greedy algorithm in optimization problems
-https://en.wikipedia.org/wiki/Greedy_algorithm
-https://en.wikipedia.org/wiki/Optimization_problem
-https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
-https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
-https://en.wikipedia.org/wiki/Dynamic_programming
-https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
-https://en.wikipedia.org/wiki/Prune_and_search
-https://en.wikipedia.org/wiki/Brute-force_search
-Graph and Tree Search Algorithms list
-https://en.wikipedia.org/wiki/Backtracking
-https://en.wikipedia.org/wiki/Branch_and_bound
-
-https://www.geeksforgeeks.org/decrease-and-conquer/
-
-https://www.geeksforgeeks.org/dynamic-programming-vs-divide-and-conquer/
-https://www.geeksforgeeks.org/dynamic-programming/
-https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/
-https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/
-https://www.geeksforgeeks.org/tabulation-vs-memoization/
-https://ide.geeksforgeeks.org/vHt6ly
-https://ide.geeksforgeeks.org/Z94jYR
-https://ide.geeksforgeeks.org/12C5bP
-
-https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
-
-Subsequence and substring
-https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
-https://en.wikipedia.org/wiki/Longest_increasing_subsequence
-https://en.wikipedia.org/wiki/Longest_common_substring_problem
-https://en.wikipedia.org/wiki/N-gram
-
-Patterns
-https://en.wikipedia.org/wiki/Template_method_pattern
-https://en.wikipedia.org/wiki/Decorator_pattern
-
-Algorithms
-https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-https://en.wikipedia.org/wiki/Euclidean_algorithm
-https://en.wikipedia.org/wiki/Division_algorithm
-https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
-
-https://en.wikipedia.org/wiki/Mathematical_optimization
-https://en.wikipedia.org/wiki/Computational_complexity_theory
-
-* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-https://www.geeksforgeeks.org/recursion/
-
-https://en.wikipedia.org/wiki/Control_flow
--->
-
-
-## Algorithms
-
-<!--
-https://en.wikipedia.org/wiki/Order_statistic
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm#Python
-
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
--->
-
 <!--
 Memory
 * [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
@@ -401,6 +317,208 @@ Sequential Versus Random (Direct) Access
 * Random (Direct) Access List
 -->
 
+## Time Complexity and Optimization-Improvement Methods
+
+Improvement Methods
+* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
+* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
+
+Improvement Methods
+* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
+* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+
+<!--
+lines of code (loc) versus complexity
+
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Computational_complexity_theory
+
+https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
+
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
+https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
+-->
+
+## General Big O Rules
+
+Big O Notation
+* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
+* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
+Linear versus Constant Time
+* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
+* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
+
+Big O Notation- Terminology
+* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
+* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+
+<!--
+https://www.youtube.com/watch?v=duvZ-2UK0fc
+
+https://nedbatchelder.com/text/bigo.html
+Python Complexities
+https://nedbatchelder.com/text/bigo/bigo.html#13
+The Graph
+https://nedbatchelder.com/text/bigo/bigo.html#12
+Small Numbers
+https://nedbatchelder.com/text/bigo/bigo.html#17
+
+Trade-Offs
+https://nedbatchelder.com/text/bigo/bigo.html#14
+Slow/Fast
+https://nedbatchelder.com/text/bigo/bigo.html#15
+More Possibilities
+https://nedbatchelder.com/text/bigo/bigo.html#16
+
+https://nedbatchelder.com/text/slowsgrows.html
+https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
+
+https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
+https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
+https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
+
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
+-->
+
+
+## Algorithmic Design Patterns
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+<!--
+https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
+
+https://www.geeksforgeeks.org/abstract-data-types/
+
+* [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
+
+Advanced Data Structures
+https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
+
+Data Structures
+https://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/
+https://www.geeksforgeeks.org/array-data-structure/
+https://www.geeksforgeeks.org/data-structures/linked-list/
+https://www.geeksforgeeks.org/stack-data-structure/
+https://www.geeksforgeeks.org/queue-data-structure/
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/
+https://www.geeksforgeeks.org/binary-tree-data-structure/
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+https://www.geeksforgeeks.org/heap-data-structure/
+https://www.geeksforgeeks.org/hashing-data-structure/
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+Types of Algorithms
+https://www.geeksforgeeks.org/searching-algorithms/
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/bitwise-algorithms/
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.geeksforgeeks.org/geometric-algorithms/
+https://www.geeksforgeeks.org/mathematical-algorithms/
+https://www.geeksforgeeks.org/randomized-algorithms/
+https://www.geeksforgeeks.org/game-theory/
+
+https://en.wikipedia.org/wiki/Algorithmic_paradigm
+List of Algorithm Design Paradigms
+https://en.wikipedia.org/wiki/Algorithmic_paradigm#General
+Greedy algorithm in optimization problems
+https://en.wikipedia.org/wiki/Greedy_algorithm
+https://en.wikipedia.org/wiki/Optimization_problem
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
+https://en.wikipedia.org/wiki/Dynamic_programming
+https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+https://en.wikipedia.org/wiki/Prune_and_search
+https://en.wikipedia.org/wiki/Brute-force_search
+Graph and Tree Search Algorithms list
+https://en.wikipedia.org/wiki/Backtracking
+https://en.wikipedia.org/wiki/Branch_and_bound
+
+Algorithm Paradigms
+https://www.geeksforgeeks.org/greedy-algorithms/
+https://www.geeksforgeeks.org/divide-and-conquer/
+https://www.geeksforgeeks.org/decrease-and-conquer/
+https://www.geeksforgeeks.org/backtracking-algorithms/
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#BranchandBound
+
+https://www.geeksforgeeks.org/dynamic-programming-vs-divide-and-conquer/
+https://www.geeksforgeeks.org/dynamic-programming/
+https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/
+https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/
+https://www.geeksforgeeks.org/tabulation-vs-memoization/
+https://ide.geeksforgeeks.org/vHt6ly
+https://ide.geeksforgeeks.org/Z94jYR
+https://ide.geeksforgeeks.org/12C5bP
+
+Analysis of Algorithms
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+
+https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
+
+Subsequence and substring
+https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+https://en.wikipedia.org/wiki/Longest_increasing_subsequence
+https://en.wikipedia.org/wiki/Longest_common_substring_problem
+https://en.wikipedia.org/wiki/N-gram
+
+Patterns
+https://en.wikipedia.org/wiki/Template_method_pattern
+https://en.wikipedia.org/wiki/Decorator_pattern
+
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+https://www.geeksforgeeks.org/recursion/
+
+https://en.wikipedia.org/wiki/Control_flow
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+Algorithms
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+https://en.wikipedia.org/wiki/Euclidean_algorithm
+https://en.wikipedia.org/wiki/Division_algorithm
+https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
+-->
+
+
+## Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/Order_statistic
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm#Python
+
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+-->
+
 
 ## Algorithms
 
@@ -419,53 +537,15 @@ https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
 
 https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 
-https://www.geeksforgeeks.org/abstract-data-types/
-
 https://www.cdn.geeksforgeeks.org/data-structures/#Misc
-
-* [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
-
-Data Structures
-https://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/
-https://www.geeksforgeeks.org/array-data-structure/
-https://www.geeksforgeeks.org/data-structures/linked-list/
-https://www.geeksforgeeks.org/stack-data-structure/
-https://www.geeksforgeeks.org/queue-data-structure/
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/
-https://www.geeksforgeeks.org/binary-tree-data-structure/
-https://www.geeksforgeeks.org/binary-search-tree-data-structure/
-https://www.geeksforgeeks.org/heap-data-structure/
-https://www.geeksforgeeks.org/hashing-data-structure/
 
 https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
 https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 https://www.geeksforgeeks.org/matrix/
+-->
 
-Advanced Data Structures
-https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
-
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-
-Types of Algorithms
-https://www.geeksforgeeks.org/searching-algorithms/
-https://www.geeksforgeeks.org/sorting-algorithms/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/bitwise-algorithms/
-https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
-https://www.geeksforgeeks.org/geometric-algorithms/
-https://www.geeksforgeeks.org/mathematical-algorithms/
-https://www.geeksforgeeks.org/randomized-algorithms/
-https://www.geeksforgeeks.org/game-theory/
-
-Algorithm Paradigms
-https://www.geeksforgeeks.org/greedy-algorithms/
-https://www.geeksforgeeks.org/divide-and-conquer/
-https://www.geeksforgeeks.org/backtracking-algorithms/
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#BranchandBound
-
-Analysis of Algorithms
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+<!--
+Resources
 
 * [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
 
