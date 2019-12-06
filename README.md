@@ -44,13 +44,10 @@ https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.h
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
+software development competency framework
+
 https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-software development competency framework
 
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
 
@@ -59,9 +56,6 @@ https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
 
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
-
-https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
-https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
 
 https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
@@ -986,6 +980,9 @@ React?
 * [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
 
 <!--
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
 Programming Paradigms for Dummies: What Every Programmer Should Know
 https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
@@ -994,7 +991,6 @@ state.
 Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
 data types are the two most popular, but there exist two others, declarative objects and
 stateful abstract data types.
-https://en.wikipedia.org/wiki/Abstract_data_type
 
 https://famicol.in/language_checklist.html | Programming Language Checklist
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
@@ -1035,6 +1031,8 @@ https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 functional programming- immutability/immutable data structures
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
+https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
 -->
 
 <!--
