@@ -190,7 +190,219 @@ Split Variable
 Substitute Algorithm
 -->
 
-## List of Data Structures and Algorithms
+## Data
+
+### Data Types
+
+Data Type
+* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type)
+
+Abstract Data Type
+* [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
+
+### Data Structures
+
+Data Structure
+* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+
+List of Data Structures and Comparison of Data Structures
+* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
+
+<!--
+https://en.wikibooks.org/wiki/Data_Structures
+-->
+
+### Sequences
+
+Sequence
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+
+Types of order
+* [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
+* [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
+* [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
+
+<!--
+String
+https://en.wikipedia.org/wiki/String_(computer_science) | String (computer science) - Wikipedia
+
+Also, examples of sequences
+https://en.wikipedia.org/wiki/Sequence
+http://oeis.org/wiki/Welcome#Some_Famous_Sequences
+-->
+
+### Linear Data Structures
+
+Linear (Sequential) Data Structures
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
+Linear Data Structure Examples (left to right, top to bottom)
+* list (including linked list, doubly linked list), stack, queue, deque, array
+
+### Lists- Linear and Non-Linear Implementations
+
+List (Sequence)
+* Linear: stack and queue
+* Non-Linear: graph and tree
+
+### Arrays and Lists
+
+Contiguous versus Linked Data Structures
+* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
+* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
+* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
+
+Singly-Linked and Doubly-Linked Lists
+* [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+* [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+
+Hash Table (Python Dictionary, "implements an associative array abstract data type")
+* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+* [Associative Array Wikipedia](https://en.wikipedia.org/wiki/Associative_array)
+
+<!--
+https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+
+"Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
+-->
+
+### Stacks and Queues
+
+Stacks
+* [LIFO Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+
+Queues
+* [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
+* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
+
+<!--
+https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
+-->
+
+### Trees and Graphs
+
+Heaps (Specialized tree data structure)
+* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+## Algorithmic Design Patterns
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+<!--
+https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+https://en.wikipedia.org/wiki/Algorithmic_paradigm
+List of Algorithm Design Paradigms
+https://en.wikipedia.org/wiki/Algorithmic_paradigm#General
+Greedy algorithm in optimization problems
+https://en.wikipedia.org/wiki/Greedy_algorithm
+https://en.wikipedia.org/wiki/Optimization_problem
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
+https://en.wikipedia.org/wiki/Dynamic_programming
+https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+https://en.wikipedia.org/wiki/Prune_and_search
+https://en.wikipedia.org/wiki/Brute-force_search
+Graph and Tree Search Algorithms list
+https://en.wikipedia.org/wiki/Backtracking
+https://en.wikipedia.org/wiki/Branch_and_bound
+
+https://www.geeksforgeeks.org/decrease-and-conquer/
+
+https://www.geeksforgeeks.org/dynamic-programming-vs-divide-and-conquer/
+https://www.geeksforgeeks.org/dynamic-programming/
+https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/
+https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/
+https://www.geeksforgeeks.org/tabulation-vs-memoization/
+https://ide.geeksforgeeks.org/vHt6ly
+https://ide.geeksforgeeks.org/Z94jYR
+https://ide.geeksforgeeks.org/12C5bP
+
+https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
+
+Subsequence and substring
+https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+https://en.wikipedia.org/wiki/Longest_increasing_subsequence
+https://en.wikipedia.org/wiki/Longest_common_substring_problem
+https://en.wikipedia.org/wiki/N-gram
+
+Patterns
+https://en.wikipedia.org/wiki/Template_method_pattern
+https://en.wikipedia.org/wiki/Decorator_pattern
+
+Algorithms
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+https://en.wikipedia.org/wiki/Euclidean_algorithm
+https://en.wikipedia.org/wiki/Division_algorithm
+https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
+
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Computational_complexity_theory
+
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+https://www.geeksforgeeks.org/recursion/
+
+https://en.wikipedia.org/wiki/Control_flow
+-->
+
+
+## Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/Order_statistic
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm#Python
+
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+-->
+
+<!--
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
+Stack
+* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
+* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
+
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+
+* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
+* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
+
+Dynamic Data Structures
+https://en.wikipedia.org/wiki/Dynamization
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+* Sequential Access List
+* Random (Direct) Access List
+-->
+
+
+## Algorithms
 
 <!--
 https://www.hackerrank.com/leaderboard
@@ -373,106 +585,6 @@ http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.htm
 http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
 -->
 
-## Data Types
-
-Data Type
-* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type)
-
-Abstract Data Type
-* [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
-
-## Data Structures
-
-Data Structure
-* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-
-List of Data Structures and Comparison of Data Structures
-* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
-* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
-
-<!--
-https://en.wikibooks.org/wiki/Data_Structures
--->
-
-## Sequences
-
-Sequence
-* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
-
-Types of order
-* [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
-* [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
-* [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
-
-<!--
-String
-https://en.wikipedia.org/wiki/String_(computer_science) | String (computer science) - Wikipedia
-
-Also, examples of sequences
-https://en.wikipedia.org/wiki/Sequence
-http://oeis.org/wiki/Welcome#Some_Famous_Sequences
--->
-
-## Linear Data Structures
-
-Linear (Sequential) Data Structures
-* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Linear Data Structure Examples (left to right, top to bottom)
-* list (including linked list, doubly linked list), stack, queue, deque, array
-
-## Lists- Linear and Non-Linear Implementations
-
-List (Sequence)
-* Linear: stack and queue
-* Non-Linear: graph and tree
-
-## Arrays and Lists
-
-Contiguous versus Linked Data Structures
-* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
-* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
-* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
-* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
-* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
-* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
-
-Singly-Linked and Doubly-Linked Lists
-* [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-* [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
-
-Hash Table (Python Dictionary, "implements an associative array abstract data type")
-* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
-* [Associative Array Wikipedia](https://en.wikipedia.org/wiki/Associative_array)
-
-<!--
-https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
-
-"Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
--->
-
-## Stacks and Queues
-
-Stacks
-* [LIFO Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
-* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-
-Queues
-* [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
-* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
-* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
-
-<!--
-https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
--->
-
-## Trees and Graphs
-
-Heaps (Specialized tree data structure)
-* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-
-
 ## Common Data Structure Operations
 
 <!--
@@ -615,63 +727,6 @@ heap
    priority_queue
      leftist_tree
    soft_heap
--->
-
-## Algorithms
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
-<!--
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-https://en.wikipedia.org/wiki/Order_statistic
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm#Python
-
-https://en.wikipedia.org/wiki/Algorithmic_paradigm
-https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
-
-https://en.wikipedia.org/wiki/Dynamic_programming
-https://www.geeksforgeeks.org/dynamic-programming/
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
-
-https://en.wikipedia.org/wiki/Category:Algorithms
-https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
--->
-
-<!--
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
-
-Stack
-* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
-* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
-* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
-* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
-* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
-
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-
-* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
-* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
-
-Dynamic Data Structures
-https://en.wikipedia.org/wiki/Dynamization
-
-* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-* Sequential Access List
-* Random (Direct) Access List
 -->
 
 ## Algorithms List
