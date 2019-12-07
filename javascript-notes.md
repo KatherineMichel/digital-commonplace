@@ -1,5 +1,151 @@
 # JavaScript Notes
 
+## JavaScript People
+
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook) and [Eric Elliot Programming JavaScript Applications GitHub](https://github.com/learn-javascript-courses/programming-javascript-applications)
+* [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
+* [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
+* [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+* [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
+
+JavaScript- People
+* [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+* [Dan Abramov](https://overreacted.io) and [Dan Abramov Medium](https://medium.com/@dan_abramov)
+* [Dmitry Soshnikov](http://dmitrysoshnikov.com)
+* [Dmitri Pavlutin](https://dmitripavlutin.com)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest) and [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+* [Paul Irish](https://www.paulirish.com) and [Paul Irish Medium](https://medium.com/@paul_irish)
+* [Tyler McGinnis](https://tylermcginnis.com)
+
+Node and React- People
+* [Brian Holt](https://frontendmasters.com/teachers/brian-holt) and [Brian Holt GitHub](https://github.com/btholt)
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
+* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
+
+Recommended by Addy Osmani and Eric Elliot
+* [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net), [Eloquent JavaScript PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf), and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+* [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+* [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
+* [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+* [Nicholas Zakas: Writing Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
+
+<!--
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+
+https://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=as_li_ss_tl | High Performance JavaScript: Build Faster Web Application Interfaces: Nicholas C. Zakas: 9780596802790: Amazon.com: Books
+
+Programming JavaScript Applications
+by Eric Elliott
+https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
+-->
+
+Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+<!--
+https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+-->
+
+<!--
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+
+https://devhub.io/repos/ericelliott-essential-javascript-links
+https://gist.github.com/ericelliott/d576f72441fc1b27dace
+https://github.com/rsperberg/essential-javascript-links
+https://github.com/LewisJEllis/essential-javascript-links
+
+https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
+
+https://devanywhere.io/ | DevAnywhere
+
+http://chimera.labs.oreilly.com/books/1234000000262
+
+https://github.com/ericelliott/tinyapp
+https://github.com/stampit-org/stampit
+-->
+
+<!--
+Eric Elliott
+https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
+
+https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f | Rethinking Unit Test Assertions - JavaScript Scene - Medium
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way - JavaScript Scene - Medium
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+
+https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
+https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
+
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
+
+https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
+
+https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
+https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd#.cvgz0q29z | Introduction to Node & Express – JavaScript Scene – Medium
+
+https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
+
+
+
+https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
+https://tylermcginnis.com/courses/advanced-javascript/
+
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
+
+https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
+
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+
+https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
+https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+-->
+
+<!--
+https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925 | Must See JavaScript Dev Tools That Put Other Dev Tools to Shame
+https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f | The Forgotten History of OOP – JavaScript Scene – Medium
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381 | The Hidden Treasures of Object Composition – JavaScript Scene – Medium
+https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e | JavaScript Factory Functions vs Constructor Functions vs Classes
+
+https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
+-->
+
+<!--
+JS Scene and Free Code Camp
+https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7 | Fundamental design principles for non-designers – freeCodeCamp.org
+https://medium.freecodecamp.org/data-structures-101-graphs-a-visual-introduction-for-beginners-6d88f36ec768 | Data Structures 101: Graphs — A Visual Introduction for Beginners
+https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell – JavaScript Scene – Medium
+https://medium.freecodecamp.org/how-i-built-an-app-with-vulcan-js-in-four-days-6368814077b1 | How I built an app with Vulcan.js in four days – freeCodeCamp.org
+https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b | How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter
+https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2 | Node.js: what it is, when and how to use it, and why 
+you should
+https://t.co/NNCadAt0ZY | https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
+https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e | The Definitive JavaScript Handbook for your next developer interview
+https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528 | Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code
+https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda | How to improve your asynchronous Javascript code with async and await
+https://medium.freecodecamp.org/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3 | A definitive guide to conditional logic in JavaScript
+https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e | 10 Priceless Resources for JavaScript Learners – JavaScript Scene – Medium
+-->
+
 ## What To Learn Before A JavaScript Framework
 
 <!--
@@ -95,112 +241,138 @@ map()
 filter()
 -->
 
-## Eric Elliott and JS Scene/Free Code Camp
+## Google Chrome Dev Tools
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
 
 <!--
-Eric Elliott
-https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0 | 
-https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f | Rethinking Unit Test Assertions - JavaScript Scene - Medium
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way - JavaScript Scene - Medium
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
 
-JS Scene and Free Code Camp
-https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7 | Fundamental design principles for non-designers – freeCodeCamp.org
-https://medium.freecodecamp.org/data-structures-101-graphs-a-visual-introduction-for-beginners-6d88f36ec768 | Data Structures 101: Graphs — A Visual Introduction for Beginners
-https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell – JavaScript Scene – Medium
-https://medium.freecodecamp.org/how-i-built-an-app-with-vulcan-js-in-four-days-6368814077b1 | How I built an app with Vulcan.js in four days – freeCodeCamp.org
-https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b | How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter
-https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2 | Node.js: what it is, when and how to use it, and why 
-you should
-https://t.co/NNCadAt0ZY | https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
-https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e | The Definitive JavaScript Handbook for your next developer interview
-https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528 | Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code
-https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda | How to improve your asynchronous Javascript code with async and await
-https://medium.freecodecamp.org/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3 | A definitive guide to conditional logic in JavaScript
-https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e | 10 Priceless Resources for JavaScript Learners – JavaScript Scene – Medium
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+-->
+
+## JavaScript Performance
+
+Lighthouse
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+Rendering
+* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+Offline
+* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+
+Measure
+* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+
+Semantics/SEO/Accessibility
+* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+-->
+
+## Browser Object Model (BOM) and Document Object Model (DOM)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+## ECMA
+
+<!--
+http://www.ecma-international.org/ecma-262
+-->
+
+## ECMAScript, JavaScript Standards, Node, Asynchronicity
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+Node: CommonJS
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
 -->
 
 <!--
-https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+https://nodejs.org/en/docs/es6
 
-https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e | The definitive Node.js handbook – freeCodeCamp.org
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
 
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
 
-https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b | Google publishes a JavaScript style guide. Here are some key lessons.
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
 -->
 
-<!--
-https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553 | JavaScript essentials: why you should know how the engine works
-
-
-https://impythonist.wordpress.com/2015/06/16/django-with-ajax-a-modern-client-server-communication-practise/
-
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3#.59dms4l69
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-
-https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34 | A Beginner’s Guide to JavaScript’s Prototype – freeCodeCamp.org
-https://tylermcginnis.com/courses/advanced-javascript/
-
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9 | 3 Different Kinds of Prototypal Inheritance: ES6+ Edition
-
-https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26 | When (and why) you should use ES6 arrow functions — and when you shouldn’t
-
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
-
-https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd
-https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
--->
+## Types of JavaScript
 
 <!--
-Good info
-https://twitter.com/_ericelliott/status/1060701030852317185 | Eric Elliott on Twitter: "JavaScript Interview Prep: https://t.co/4XR9mWrjme https://t.co/O4Wp5MQBDK https://t.co/ELvBrNbUwi https://t.co/qhDFVMioTf #JavaScript"
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+https://github.com/mjavascript/practical-es6
 
-Interview Series
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
 
-Composition Series
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
-https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
-https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
-https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
-https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
-https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
-https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
-https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
-https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
-
-
-https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2
-https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd#.cvgz0q29z | Introduction to Node & Express – JavaScript Scene – Medium
-
-https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925 | Must See JavaScript Dev Tools That Put Other Dev Tools to Shame
-https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f | The Forgotten History of OOP – JavaScript Scene – Medium
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381 | The Hidden Treasures of Object Composition – JavaScript Scene – Medium
-https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e | JavaScript Factory Functions vs Constructor Functions vs Classes
-
-https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
 -->
 
 ## JavaScript- General
@@ -298,88 +470,6 @@ https://www.npmjs.com/package/eslint-plugin-node
 https://www.npmjs.com/package/eslint-plugin-angular
 -->
 
-## JavaScript People
-
-JavaScript- People
-* [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-* [Dan Abramov](https://overreacted.io) and [Dan Abramov Medium](https://medium.com/@dan_abramov)
-* [Dmitry Soshnikov](http://dmitrysoshnikov.com)
-* [Dmitri Pavlutin](https://dmitripavlutin.com)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest) and [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-* [Paul Irish](https://www.paulirish.com) and [Paul Irish Medium](https://medium.com/@paul_irish)
-* [Tyler McGinnis](https://tylermcginnis.com)
-
-Node and React- People
-* [Brian Holt](https://frontendmasters.com/teachers/brian-holt) and [Brian Holt GitHub](https://github.com/btholt)
-* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-* [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
-
-## JavaScript Resources
-
-Recommended by Addy Osmani and Eric Elliot
-* [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net), [Eloquent JavaScript PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf), and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-* [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-* [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
-* [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-* [Nicholas Zakas: Writing Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
-
-<!--
-http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
-
-https://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=as_li_ss_tl | High Performance JavaScript: Build Faster Web Application Interfaces: Nicholas C. Zakas: 9780596802790: Amazon.com: Books
-
-Programming JavaScript Applications
-by Eric Elliott
-https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
--->
-
-Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
--->
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook) and [Eric Elliot Programming JavaScript Applications GitHub](https://github.com/learn-javascript-courses/programming-javascript-applications)
-* [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
-* [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
-* [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
-* [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
-
-<!--
-https://devhub.io/repos/ericelliott-essential-javascript-links
-[Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
-Essential JavaScript Links
-https://gist.github.com/ericelliott/d576f72441fc1b27dace
-https://github.com/rsperberg/essential-javascript-links
-https://github.com/LewisJEllis/essential-javascript-links
-https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
-view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-
-https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
-
-https://devanywhere.io/ | DevAnywhere
-
-http://chimera.labs.oreilly.com/books/1234000000262
-
-https://github.com/ericelliott/tinyapp
-https://github.com/stampit-org/stampit
--->
-
 ## Web Architecture, How Browsers work
 
 Preethi Kasireddy: How The Web Works
@@ -393,140 +483,6 @@ Explainers
 * [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 * [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
-## Google Chrome Dev Tools
-
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
-
-<!--
-https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
-
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
-https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
--->
-
-## JavaScript Performance
-
-Lighthouse
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
-* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-
-Rendering
-* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
-* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
-* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
-Offline
-* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
-
-Measure
-* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
-
-Semantics/SEO/Accessibility
-* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
--->
-
-
-## Browser Object Model (BOM) and Document Object Model (DOM)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-## ECMA
-
-<!--
-http://www.ecma-international.org/ecma-262
--->
-
-## ECMAScript, JavaScript Standards, Node, Asynchronicity
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-Node: CommonJS
-* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://flaviocopes.com/node-difference-browser/
-node.js uses CommonJS modules
-https://flaviocopes.com/commonjs/
-browsers use ES modules
-https://flaviocopes.com/es-modules/
-Mozilla docs are ECMAScript Standard
--->
-
-<!--
-https://nodejs.org/en/docs/es6
-
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
-CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
-
-webpack CommonJS Explanation
-https://github.com/webpack/docs/wiki/commonjs
-https://webpack.js.org/api/module-methods/#commonjs
-
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
--->
-
-## Types of JavaScript
-
-<!--
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-https://github.com/mjavascript/practical-es6
-
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
--->
 
 ## Web and JavaScript Engines, Google Chrome
 
