@@ -91,6 +91,9 @@ Functional Programming
 Python/Django state
 JavaScript state
 
+Stateless
+"Examples of stateless protocols include the Internet Protocol (IP), which is the foundation for the Internet, and the Hypertext Transfer Protocol (HTTP), which is the foundation of data communication for the World Wide Web."
+
 https://en.wikipedia.org/wiki/First-class_function
 https://en.wikipedia.org/wiki/Higher-order_function
 
@@ -109,6 +112,29 @@ https://realpython.com/modeling-polymorphism-django-python/
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
 https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
+
+https://en.wikipedia.org/wiki/Functional_programming
+Closure
+https://en.wikipedia.org/wiki/Closure_(computer_programming)
+Currying
+https://en.wikipedia.org/wiki/Currying
+Idempotent
+https://en.wikipedia.org/wiki/Idempotence
+Functor
+https://en.wikipedia.org/wiki/Functor
+Lambda
+https://en.wikipedia.org/wiki/Lambda
+Lambda Calculus
+https://en.wikipedia.org/wiki/Lambda_calculus
+Lazy evaluation
+https://en.wikipedia.org/wiki/Lazy_evaluation
+Monoid
+https://en.wikipedia.org/wiki/Monoid
+Monad
+https://en.wikipedia.org/wiki/Monad_(functional_programming)
+Isomorphism
+Function
+Partial function
 -->
 
 ## GRASP and Clean Architecture (Follows SOLID Principles)
