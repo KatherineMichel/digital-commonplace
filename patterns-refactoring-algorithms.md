@@ -1,5 +1,137 @@
 # Lists
 
+## Programming Paradigms
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+
+<!--
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+-->
+
+<!--
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+Interview Series
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+
+Composition Series
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
+https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
+-->
+
+## Useful Terminology
+
+Object
+* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
+* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+State
+* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
+* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
+
+Functional Programming
+* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
+<!--
+Python/Django state
+JavaScript state
+
+https://en.wikipedia.org/wiki/First-class_function
+https://en.wikipedia.org/wiki/Higher-order_function
+
+https://en.wikipedia.org/wiki/State_diagram
+
+https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
+
+https://en.wikipedia.org/wiki/Memoization
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+
+functional programming- immutability/immutable data structures
+
+https://realpython.com/modeling-polymorphism-django-python/
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
+https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
+-->
+
+## GRASP and Clean Architecture (Follows SOLID Principles)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Open-Closed Principle Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+* [Interface Segregation Principle Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+<!--
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+Clean Architectures in Python - Leonardo Giordani - PyLondinium19
+https://www.youtube.com/watch?v=wtCQalq7L-E
+-->
+
 ## General Software Design Patterns
 
 Types of Patterns
@@ -41,9 +173,6 @@ Behavioral Patterns- Built into Python
 * [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
 
 <!--
-https://en.wikipedia.org/wiki/First-class_function
-https://en.wikipedia.org/wiki/Higher-order_function
-
 https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
 -->
