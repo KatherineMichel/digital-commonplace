@@ -2,43 +2,48 @@
 
 ## General Software Design Patterns
 
+Types of Patterns
+* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
+
 Creational Patterns (object creation)
-* [Creational Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Singleton Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Singleton_pattern)
-* [Factory Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* [Singleton Pattern Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
+* [Factory Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Factory_method_pattern)
 
 Creational Patterns- Can use Singleton in Implementation
-* [Abstract Factory Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Builder_pattern)
-* [Prototype Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Prototype_pattern)
+* [Abstract Factory Pattern Wikipedia](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [Builder Pattern Wikipedia](https://en.wikipedia.org/wiki/Builder_pattern)
+* [Prototype Pattern Wikipedia](https://en.wikipedia.org/wiki/Prototype_pattern)
 
 Structural Patterns (relationships among entities)
-* [Structural Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Adapter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Bridge_pattern)
-* [Composite Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Decorator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Decorator_pattern)
-* [Facade Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Facade_pattern)
-* [Flyweight Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Flyweight_pattern)
-* [Proxy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Proxy_pattern)
+* [Adapter Pattern Wikipedia](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [Bridge Pattern Wikipedia](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite Pattern Wikipedia](https://en.wikipedia.org/wiki/Composite_pattern)
+* [Decorator Pattern (similar to Chain of Responsibility Pattern; implements Single Responsibility Principal) Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
+* [Facade Pattern Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight Pattern Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)
+* [Proxy Pattern Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)
 
 Behavioral Patterns
-* [Behavioral Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Behavioral_pattern)
-* [Observer Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Chain-of-Responsibility Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-* [Command Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Command_pattern)
-* [Interpreter Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Interpreter_pattern)
-* [Mediator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Memento_pattern)
-* [State Pattern Wikipedia Article](https://en.wikipedia.org/wiki/State_pattern)
-* [Strategy Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Template Method Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Visitor_pattern)
+* [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Chain-of-Responsibility Pattern (similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+* [Command Pattern Wikipedia](https://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter Pattern Wikipedia](https://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Mediator Pattern Wikipedia](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento Pattern Wikipedia](https://en.wikipedia.org/wiki/Memento_pattern)
+* [State Pattern Wikipedia](https://en.wikipedia.org/wiki/State_pattern)
+* [Strategy Pattern Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Template Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 Behavioral Patterns- Built into Python
 * [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
 
 <!--
+https://en.wikipedia.org/wiki/First-class_function
+https://en.wikipedia.org/wiki/Higher-order_function
+
 https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
 -->
