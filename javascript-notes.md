@@ -43,26 +43,16 @@ by Eric Elliott
 https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
 -->
 
-Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
 <!--
 https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
   * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
   * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 -->
 
 <!--
-Important
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-
 https://devhub.io/repos/ericelliott-essential-javascript-links
 https://gist.github.com/ericelliott/d576f72441fc1b27dace
 https://github.com/rsperberg/essential-javascript-links
