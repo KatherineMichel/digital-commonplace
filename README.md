@@ -3,7 +3,25 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Important!
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
+
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+
+https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
+
+https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+
+https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
+
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
+
+https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
+
+
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+
+https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
 https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
 https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
