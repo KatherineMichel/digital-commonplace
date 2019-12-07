@@ -1,6 +1,7 @@
 # JavaScript- Google and Mozilla Notes
 
 <!--
+https://twitter.com/js_tut/status/1199735352392650754
 https://twitter.com/js_tut/status/1141698543712972801 | JavaScript Teacher on Twitter: "console.log("good morning"); vanilla #JavaScript let morning:good = true; #TypeScript $(good).morning(); #jQuery <GoodMorning /> #ReactJS <p v-good="morning"> #VueJS { good { morning } } #GraphQL print "good morning" #Python echo "good morning"; #PHP Good morning. #Human"
 https://twitter.com/js_tut/status/1141838103763701760 | JavaScript Teacher on Twitter: "If you've never spoken JavaScript, here's a good start: 1. class / import / new 2. () => {} arrow functions 3. understanding === operator 4. Learn Array.* higher-order functions (.filter, .map & .reduce) 5. async / await 6. import / export 7. [] is iterable 8. {} is enumerable"
 https://twitter.com/_ericelliott/status/1141405592294219782 | Eric Elliott on Twitter: "Every JS app developer needs to know: -FP basics: pure functions, curry, function composition -objects: composition vs inheritance -async patterns: callbacks, promises, events, streams"
@@ -64,15 +65,14 @@ https://www.w3.org/TR/notifications
 * Access
   * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
 
-Performance
-* [Google HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) and [Mozilla HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+HTTP
+* [Google HTTP Caching (Performance)](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) and [Mozilla HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+* [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
+* [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
 
 * [Google Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)  
-* [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
-    
+   
 * [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
-
-* [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
 
 HTTP/2
 * [Google Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
@@ -80,9 +80,10 @@ HTTP/2
 * UDP
   * [QUIC](https://www.chromium.org/quic)
   
-* HTML / DOM
-  * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
-* Appearance
+Mutation Observers
+* [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
+
+Appearance
   * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
     * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
   * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
