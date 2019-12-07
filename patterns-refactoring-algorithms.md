@@ -558,6 +558,7 @@ https://en.wikipedia.org/wiki/Bellman_equation#Bellman's_Principle_of_Optimality
 https://en.wikipedia.org/wiki/Prune_and_search
 
 https://en.wikipedia.org/wiki/Brute-force_search
+https://xlinux.nist.gov/dads/HTML/pruneNsearch.html
 
 Graph and Tree Search Algorithms list
 https://en.wikipedia.org/wiki/Backtracking
@@ -567,8 +568,6 @@ https://xlinux.nist.gov/dads/HTML/backtrack.html
 https://en.wikipedia.org/wiki/Branch_and_bound
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#BranchandBound
 https://xlinux.nist.gov/dads/HTML/branchNbound.html
-
-https://xlinux.nist.gov/dads/HTML/optimalsoltn.html
 
 https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/
 https://www.geeksforgeeks.org/dynamic-programming-vs-divide-and-conquer/
@@ -580,6 +579,9 @@ https://ide.geeksforgeeks.org/vHt6ly
 https://ide.geeksforgeeks.org/Z94jYR
 https://ide.geeksforgeeks.org/12C5bP
 https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+
+https://xlinux.nist.gov/dads/HTML/optimization.html
+https://xlinux.nist.gov/dads/HTML/optimalsoltn.html
 
 Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
