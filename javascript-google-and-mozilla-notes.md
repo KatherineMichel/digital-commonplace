@@ -1,7 +1,9 @@
 # JavaScript- Google and Mozilla Notes
 
 <!--
-https://twitter.com/js_tut/status/1199735352392650754
+https://twitter.com/_ericelliott/status/1200868362517176322 | Eric Elliott on Twitter: "My favorite modern JS features: * Arrow functions * Array/object destructuring * Rest/Spread * Async/await * [Symbol.iterator]" / Twitter
+https://twitter.com/dabeaz/status/1200526542532698112 | David Beazley on Twitter: "I see a lot of "advanced Python" tutorials that talk about using map, filter, and reduce. Confession: I never use map, filter, or reduce. The first two are easily performed using list comprehensions or generator expressions. Common reductions are already there (sum, min, max)." / Twitter
+https://twitter.com/js_tut/status/1190317017276002307 | JavaScript Teacher on Twitter: "Coding is all about: 1. Looping 2. Defining 3. Calling 4. Listing 5. Merging 6. Deleting 7. Removing 8. Erasing 9. Updating 10. Calculating 11. Rendering 12. Requesting 13. Returning 14. Invoking 15. Submitting 16. Accepting 17. Rejecting 18. Applying 19. Filtering 20. Mapping" / Twitter
 https://twitter.com/js_tut/status/1141698543712972801 | JavaScript Teacher on Twitter: "console.log("good morning"); vanilla #JavaScript let morning:good = true; #TypeScript $(good).morning(); #jQuery <GoodMorning /> #ReactJS <p v-good="morning"> #VueJS { good { morning } } #GraphQL print "good morning" #Python echo "good morning"; #PHP Good morning. #Human"
 https://twitter.com/js_tut/status/1141838103763701760 | JavaScript Teacher on Twitter: "If you've never spoken JavaScript, here's a good start: 1. class / import / new 2. () => {} arrow functions 3. understanding === operator 4. Learn Array.* higher-order functions (.filter, .map & .reduce) 5. async / await 6. import / export 7. [] is iterable 8. {} is enumerable"
 https://twitter.com/_ericelliott/status/1141405592294219782 | Eric Elliott on Twitter: "Every JS app developer needs to know: -FP basics: pure functions, curry, function composition -objects: composition vs inheritance -async patterns: callbacks, promises, events, streams"
