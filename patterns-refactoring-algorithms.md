@@ -450,6 +450,11 @@ Data Type
 Abstract Data Type
 * [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
 
+<!--
+https://en.wikipedia.org/wiki/Container_(abstract_data_type) | Container (abstract data type) - Wikipedia
+-->
+
+
 ### Data Structures
 
 Data Structure
