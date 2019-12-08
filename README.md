@@ -3,6 +3,16 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Callback_function | Callback function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in | in operator - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval | eval() - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Global_object | Global object - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index | JavaScript methods index - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index | JavaScript properties index - JavaScript | MDN
+
 Important!
 https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
 
@@ -30,6 +40,10 @@ https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Fi
 AirTable
 https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
 https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
 
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
@@ -2096,6 +2110,16 @@ https://repl.it/site/blog/packager
 
 https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+https://zeit.co/blog/github
+https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
+
+* [Zeit now](https://zeit.co/now)
+* [Zeit next.js](https://github.com/zeit/next.js) 
+* [Zeit micro](https://github.com/zeit/micro)
+
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
 
 https://www.netlify.com/features/ | Features | Netlify
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
