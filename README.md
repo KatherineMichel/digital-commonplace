@@ -28,6 +28,8 @@ https://www.python.org/dev/peps/pep-0257/
 https://realpython.com/courses/functional-programming-python/
 https://realpython.com/lessons/immutable-data-structures-namedtuple/
 
+https://www.youtube.com/watch?v=cSSpnq362Bk
+
 https://docs.python.org/3/howto/pyporting.html
 http://python-future.org/compatible_idioms.html
 https://www.youtube.com/watch?v=klaGx9Q_SOA
