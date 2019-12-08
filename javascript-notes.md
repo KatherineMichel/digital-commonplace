@@ -120,6 +120,8 @@ https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-develop
 -->
 
 <!--
+https://t.co/NNCadAt0ZY | https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
+
 JS Scene and Free Code Camp
 https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7 | Fundamental design principles for non-designers – freeCodeCamp.org
 https://medium.freecodecamp.org/data-structures-101-graphs-a-visual-introduction-for-beginners-6d88f36ec768 | Data Structures 101: Graphs — A Visual Introduction for Beginners
@@ -128,7 +130,6 @@ https://medium.freecodecamp.org/how-i-built-an-app-with-vulcan-js-in-four-days-6
 https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b | How One Jira Ticket Made My Employer $1MM/Month: 7 Metrics that Actually Matter
 https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2 | Node.js: what it is, when and how to use it, and why 
 you should
-https://t.co/NNCadAt0ZY | https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf
 https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e | The Definitive JavaScript Handbook for your next developer interview
 https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528 | Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code
 https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda | How to improve your asynchronous Javascript code with async and await
