@@ -3,6 +3,42 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://help.github.com/en
+https://guides.github.com/
+
+https://github.com/features
+
+https://help.github.com/en/actions
+
+GitHub.com Help Documentation
+Getting started with GitHub
+Setting up and managing your GitHub user account
+Setting up and managing your GitHub profile
+Authenticating to GitHub
+Managing subscriptions and notifications on GitHub
+Receiving notifications about activity on GitHub
+Setting up and managing organizations and teams
+Writing on GitHub
+Creating, cloning, and archiving repositories
+Using Git
+Committing changes to your project
+Collaborating with issues and pull requests
+Managing your work on GitHub
+Building a strong community
+Searching for information on GitHub
+Importing your projects to GitHub
+Administering a repository
+Visualizing repository data with graphs
+Managing security vulnerabilities
+Managing files in a repository
+Managing large files
+Managing packages with GitHub Packages
+Customizing your GitHub workflow
+Extending GitHub
+Working with GitHub Pages
+Supporting the open source community with GitHub Sponsors
+Teaching and learning with GitHub Education
+
 https://www.freecodecamp.org/news/web-development-2020/
 
 https://en.wikipedia.org/wiki/Bash_(Unix_shell)
@@ -18,9 +54,6 @@ https://docs.pytest.org/en/latest/
 https://www.django-rest-framework.org/
 
 https://techyaks.com/python-year-tytop.html
-
-https://help.github.com/en
-https://guides.github.com/
 
 https://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0257/
