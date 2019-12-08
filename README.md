@@ -237,14 +237,21 @@ https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Auth
 https://twofactorauth.org/ | 502 Bad Gateway
 https://twofactorauth.org/#banking | Two Factor Auth List
 
+www.json.org
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
 https://jwt.io/ | JSON Web Tokens - jwt.io
+
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+http://youmightnotneedjquery.com/ | You Might Not Need jQuery
 
 API
 https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
 https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
 https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+
+Google Auth
+https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
