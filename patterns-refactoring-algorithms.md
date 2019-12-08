@@ -94,8 +94,13 @@ JavaScript state
 Stateless
 "Examples of stateless protocols include the Internet Protocol (IP), which is the foundation for the Internet, and the Hypertext Transfer Protocol (HTTP), which is the foundation of data communication for the World Wide Web."
 
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+
+https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function | First-class Function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 https://en.wikipedia.org/wiki/First-class_function
 https://en.wikipedia.org/wiki/Higher-order_function
+https://en.wikipedia.org/wiki/Anonymous_function | Anonymous function - Wikipedia
+https://en.wikipedia.org/wiki/Map_(higher-order_function) | Map (higher-order function) - Wikipedia
 
 https://en.wikipedia.org/wiki/State_diagram
 
