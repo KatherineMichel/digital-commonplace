@@ -112,6 +112,9 @@ https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 
 functional programming- immutability/immutable data structures
 
+https://realpython.com/courses/functional-programming-python/
+https://realpython.com/lessons/immutable-data-structures-namedtuple/
+
 https://realpython.com/modeling-polymorphism-django-python/
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
