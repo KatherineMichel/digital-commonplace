@@ -10,35 +10,6 @@ https://github.com/features
 
 https://help.github.com/en/actions
 
-GitHub.com Help Documentation
-Getting started with GitHub
-Setting up and managing your GitHub user account
-Setting up and managing your GitHub profile
-Authenticating to GitHub
-Managing subscriptions and notifications on GitHub
-Receiving notifications about activity on GitHub
-Setting up and managing organizations and teams
-Writing on GitHub
-Creating, cloning, and archiving repositories
-Using Git
-Committing changes to your project
-Collaborating with issues and pull requests
-Managing your work on GitHub
-Building a strong community
-Searching for information on GitHub
-Importing your projects to GitHub
-Administering a repository
-Visualizing repository data with graphs
-Managing security vulnerabilities
-Managing files in a repository
-Managing large files
-Managing packages with GitHub Packages
-Customizing your GitHub workflow
-Extending GitHub
-Working with GitHub Pages
-Supporting the open source community with GitHub Sponsors
-Teaching and learning with GitHub Education
-
 Important!
 https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
 
