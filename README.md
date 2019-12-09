@@ -84,6 +84,9 @@ https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enha
 -->
 
 <!--
+A Bit About Bytes
+https://www.youtube.com/watch?v=cSSpnq362Bk
+
 https://www.youtube.com/user/github/videos
 
 https://help.github.com/en
@@ -131,6 +134,8 @@ https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guid
 Katie
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 
+https://en.wikipedia.org/wiki/Software_rot
+
 https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
 
 Carl Meyer: Set your code free
@@ -150,6 +155,8 @@ https://www.python.org/dev/peps/pep-0257/
 
 https://docs.pytest.org/en/latest/
 https://www.django-rest-framework.org/
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
 https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
 https://pyvideo.org/speaker/kyle-knapp.html
@@ -337,6 +344,12 @@ https://en.wikipedia.org/wiki/SQL
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
 
+https://traversymedia.com/
+https://www.freecodecamp.org/news/web-development-2020/
+
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
+https://www.khanacademy.org/computing/computer-programming/programming#good-practices
+
 https://github.com/jpadilla/
 https://github.com/jpadilla/django-rest-framework-jwt
 https://github.com/jpadilla/django-project-template
@@ -353,30 +366,6 @@ https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
 https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
-
-
-
-
-
-
-
-https://realpython.com/courses/functional-programming-python/
-https://realpython.com/lessons/immutable-data-structures-namedtuple/
-
-https://www.youtube.com/watch?v=cSSpnq362Bk
--->
-
-
-<!--
-https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
-https://www.khanacademy.org/computing/computer-programming/programming#good-practices
-
-https://traversymedia.com/
-https://www.freecodecamp.org/news/web-development-2020/
-
-https://en.wikipedia.org/wiki/Software_rot
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
 -->
 
 <!--
