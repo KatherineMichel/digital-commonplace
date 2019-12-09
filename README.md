@@ -84,9 +84,6 @@ https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enha
 -->
 
 <!--
-A Bit About Bytes
-https://www.youtube.com/watch?v=cSSpnq362Bk
-
 https://www.youtube.com/user/github/videos
 
 https://help.github.com/en
@@ -283,6 +280,14 @@ https://www.youtube.com/watch?v=MYucYon2-lk
 https://en.wikipedia.org/wiki/Mutation_testing
 https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
+
+A Bit About Bytes
+https://www.youtube.com/watch?v=cSSpnq362Bk
+https://docs.python.org/3/library/dis.html
+https://github.com/python/cpython/blob/master/Python/ceval.c
+
+Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
+https://www.youtube.com/watch?v=XhWvz4dK4ng
 
 https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
