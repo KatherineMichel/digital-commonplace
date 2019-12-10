@@ -10,19 +10,6 @@ https://github.com/features
 
 https://help.github.com/en/actions
 
-Important!
-https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
-
-Contributing to Open Source: A Guide
-https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
-
-Katie
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-
-https://en.wikipedia.org/wiki/Software_rot
-
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-
 Carl Meyer: Set your code free
 https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
 https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
@@ -31,15 +18,25 @@ https://www.oddbird.net/talks/set-your-code-free/
 https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 
-https://docs.python.org/3/howto/pyporting.html
-http://python-future.org/compatible_idioms.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
+https://docs.pytest.org/en/latest/
+https://www.django-rest-framework.org/
 
 https://www.python.org/dev/peps/pep-0008/
 https://www.python.org/dev/peps/pep-0257/
 
-https://docs.pytest.org/en/latest/
-https://www.django-rest-framework.org/
+Python 2 to 3
+https://docs.python.org/3/howto/pyporting.html
+http://python-future.org/compatible_idioms.html
+https://www.youtube.com/watch?v=klaGx9Q_SOA
+
+https://www.python.org/dev/peps/pep-0373/
+https://python3statement.org/
+https://wiki.python.org/moin/Python2orPython3
+https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
+https://docs.python.org/3/howto/pyporting.html
+https://docs.python.org/2/library/2to3.html
+https://aws.amazon.com/support
+https://forums.aws.amazon.com/forum.jspa?forumID=186
 
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
 
@@ -49,19 +46,37 @@ https://www.youtube.com/watch?v=iKAaNaVpJFM
 https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
 https://pyvideo.org/pycon-us-2018/automating-code-quality.html
 
+Hynek
+https://github.com/hynek
+https://hynek.me/talks/
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
 https://github.com/python-attrs/attrs
 
-https://github.com/hynek
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-https://hynek.me/talks/python-foss/
-https://www.youtube.com/watch?v=iKAaNaVpJFM
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Contributing
 https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
 https://github.blog/2012-09-17-contributing-guidelines/
 https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
+
 https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
+
+Code of Conduct
 https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
 https://www.contributor-covenant.org/
-https://snarky.ca/setting-expectations-for-open-source-participation/
+
+Expectations
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+
+Tests/Automation
 https://tox.readthedocs.io/en/latest/
 https://nox.thea.codes/
 https://www.youtube.com/watch?v=-BHverY7IwU
@@ -72,6 +87,8 @@ https://pypi.org/project/check-manifest/
 https://pypi.org/project/twine/
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
 http://mypy-lang.org/
+
+Formatting and Stuff
 https://github.com/psf/black
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
 https://treyhunner.com/2017/07/craft-your-python-like-poetry/
@@ -81,7 +98,8 @@ https://github.com/asottile/seed-isort-config
 https://prettier.io/
 https://pre-commit.com/
 https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
-https://www.youtube.com/watch?v=iKAaNaVpJFM
+
+Docs
 https://www.sphinx-doc.org/en/master/
 https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
 https://readthedocs.org/
@@ -98,16 +116,24 @@ https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d
 https://docs.python.org/3/library/logging.html#logging.getLogger
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
 https://jml.io/pages/test-docstrings.html
+
 https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
 https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
 https://github.com/nayafia/awesome-maintainers
+
+Mariatta
 https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
+Azure Piplines
 https://azure.microsoft.com/en-us/services/devops/pipelines/
 https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
 https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
 https://github.com/asottile/azure-pipeline-templates
+
 https://lukasa.co.uk/2016/04/One_Of_The_Team/
 https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+Packaging
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
 https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
 https://www.youtube.com/watch?v=btqFjNDdTlE
@@ -126,20 +152,8 @@ https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc128
 https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
 https://pypi.org/project/twine/
 https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
+
 http://calver.org/
-
-Hynek
-https://hynek.me/talks/
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/ | Sharing Your Labor of Love: PyPI Quick and Dirty · Homepage of Hynek Schlawack
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
-
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
 
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
