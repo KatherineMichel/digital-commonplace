@@ -1552,8 +1552,6 @@ https://todogroup.org/members/
 https://github.com/facebook/fbshipit
 https://github.com/facebookarchive/mention-bot
 
-https://opensource.guide/best-practices/
-
 http://google.github.io/styleguide/
 
 http://google-engtools.blogspot.com/ | Google Engineering Tools
@@ -1646,14 +1644,32 @@ https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedi
 -->
 
 <!--
+https://opensource.guide/best-practices/
+https://opensource.guide/metrics/
+
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
+
+Important!
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
+
+Contributing to Open Source: A Guide
+https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
+
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+Katie
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+
+https://en.wikipedia.org/wiki/Software_rot
+
+
 3 methods
 https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
 Metrics
 https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
 https://nadiaeghbal.com/tragedy-of-the-commons
-
-https://opensource.guide/best-practices/
-https://opensource.guide/metrics/
 
 https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
 
