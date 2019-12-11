@@ -1,11 +1,6 @@
 # Pinax
 
 <!--
-https://www.youtube.com/user/github/videos
-
-https://help.github.com/en
-https://guides.github.com/
-
 https://github.com/features
 
 https://help.github.com/en/actions
