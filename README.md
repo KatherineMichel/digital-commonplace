@@ -1101,7 +1101,7 @@ GitHub- Notable Features
 * [GitHub Packages](https://github.com/features/packages)
 
 GitHub Web Hooks  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
 
 <!--
 https://twitter.com/natfriedman/status/1159511728704483329
@@ -1339,9 +1339,7 @@ Endpoints
 https://developer.github.com/v3/apps/available-endpoints/
 
 Webhooks
-https://developer.github.com/webhooks/
 https://developer.github.com/webhooks/creating/
-https://help.github.com/en/github/extending-github/about-webhooks
 
 Events!
 https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
