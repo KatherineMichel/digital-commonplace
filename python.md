@@ -501,16 +501,20 @@ Package Tools
 
 Continuous Integration and Delivery
 * [CircleCI](https://circleci.com)
+
 * [Codecov](https://codecov.io)
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
 
 Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
 * [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
 * [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+
 * [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
+Not used?
 * [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
 
 Kubernetes
