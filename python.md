@@ -499,11 +499,21 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 Package Tools
 * [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
 
+<!--
+https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
+-->
+
 Continuous Integration and Delivery
 * [CircleCI](https://circleci.com)
 
+Coverage
 * [Codecov](https://codecov.io)
 * [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+
+<!--
+https://github.com/codecov/example-python#how-to-generate-coverage-reports
+"coverage.py is required to collect coverage metrics."
+-->
 
 Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
@@ -538,8 +548,6 @@ https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form
 
 pytz
 https://pypi.org/project/pytz/ | pytz · PyPI
-
-https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
 
 https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
 https://pypi.org/simple/markdown/ | Links for Markdown
