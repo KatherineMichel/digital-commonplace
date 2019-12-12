@@ -1088,7 +1088,7 @@ GitHub Blogs
 * [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
 GitHub
-* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+* [GitHub YouTube](https://www.youtube.com/user/github/videos)
 
 GitHub Features
 * [GitHub Features (Code Review, ect.)](https://github.com/features) 
