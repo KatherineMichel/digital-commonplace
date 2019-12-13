@@ -1426,8 +1426,6 @@ https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want
 
 https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
 
-https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/
-
 https://pages.github.com/versions/ | Dependency versions | GitHub Pages
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -1440,8 +1438,6 @@ https://github.com/marketplace/category/code-review
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
 
-https://github.blog/2019-02-07-user-owned-projects-your-personal-workspace/ | User owned projects—your personal workspace - The GitHub Blog
-https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/ | The GitHub Changelog
 https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
 https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
 
