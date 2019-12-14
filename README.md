@@ -3,16 +3,14 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+
 https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
 
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
-https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
-
-https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
-
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
-
+https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
 
@@ -30,31 +28,30 @@ https://airtable.com/blocks
 https://airtable.com/templates | Templates - Airtable
 https://guide.airtable.com/
 
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
 https://kk.org/thetechnium/1000-true-fans/
 
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
-
 http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+https://techyaks.com/python-year-tytop.html
 
-https://shellshare.net/
-https://asciinema.org asciinema
-https://www.asciiart.eu/ | ASCII Art Archive
+PyCanada
+https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
 
-https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+The Perils of Inheritance
+https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
+https://docs.google.com/presentation/d/e/2PACX-1vRNv4rLHUdM03wPOfe8GuqZQWjrVKfaDtULV2K_qVa4oHkR4WPfjsYaQy22sCuZcoAO26WToGcI7HME/pub
 
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
+https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
 
-https://agilemanifesto.org/ | Manifesto for Agile Software Development
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
 SICP
 https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
@@ -68,43 +65,44 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
 
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
-
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
 Computer Architecture
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
 
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
+
 National Vulnerability Database
 https://nvd.nist.gov/ | NVD - Home
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+
+
+
+
+https://shellshare.net/
+https://asciinema.org asciinema
+https://www.asciiart.eu/ | ASCII Art Archive
+
+https://agilemanifesto.org/ | Manifesto for Agile Software Development
+
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+VS Code Testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
 -->
 
 <!--
-A Bit About Bytes
-https://www.youtube.com/watch?v=cSSpnq362Bk
-https://docs.python.org/3/library/dis.html
-https://github.com/python/cpython/blob/master/Python/ceval.c
-
-Emily Morehouse-Valcarcel - The AST and Me - PyCon 2018
-https://www.youtube.com/watch?v=XhWvz4dK4ng
-
-https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Glossary/Callback_function | Callback function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in | in operator - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval | eval() - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Glossary/Global_object | Global object - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index | JavaScript methods index - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index | JavaScript properties index - JavaScript | MDN
+Projects
 
 https://www.twitch.tv/anthonywritescode
-https://twitter.com/codewithanthony/status/1198774749473558528
-https://github.com/pre-commit/action
 
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
 https://www.twitch.tv/bletchleypunk/ | (2) bletchleypunk - Twitch
@@ -127,27 +125,6 @@ https://github.com/JessicaGarson | JessicaGarson (Jessica Garson)
 https://foxdot.org/ | FoxDot: Live coding with Python – Make music with Python and SuperCollider
 https://livecode.nyc/ | livecode.nyc | LiveCode.NYC
 https://www.youtube.com/watch?v=YUIPcXduR8E | Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon 2019 - YouTube
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
-The Perils of Inheritance
-https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
-https://docs.google.com/presentation/d/e/2PACX-1vRNv4rLHUdM03wPOfe8GuqZQWjrVKfaDtULV2K_qVa4oHkR4WPfjsYaQy22sCuZcoAO26WToGcI7HME/pub
-
-https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
-
-https://techyaks.com/python-year-tytop.html
-
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
-
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-https://en.wikipedia.org/wiki/SQL
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
@@ -172,122 +149,256 @@ https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-de
 Google Cloud Django/Python
 https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+-->
 
-https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+## Priorities
+
+<!--
+Effort vs. Impact Matrix
+value effort matrix
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+## Useful Tools
+
+Makers
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Repl.it](https://repl.it)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+
+Hawt- Helpers
+* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
+* [Zapier GitHub](https://github.com/zapier)
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+
+https://repl.it/site/blog/packager
+
+https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+https://zeit.co/blog/github
+https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
+
+* [Zeit now](https://zeit.co/now)
+* [Zeit next.js](https://github.com/zeit/next.js) 
+* [Zeit micro](https://github.com/zeit/micro)
+
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/features/ | Features | Netlify
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
+https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+-->
+
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+## Languages and Frameworks (Other than Python and Django)
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+Golang
+* [Golang Docs](https://golang.org/doc)
+
+Mobile
+* [Apple Developer Docs](https://developer.apple.com/develop/)
+* [Swift Developer](https://developer.apple.com/swift/)
+* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [Android Developer](https://developer.android.com/)
+* [Java](https://www.java.com/en/)
+
+## Trending
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+
+## Productivity
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://codewith.mu/ | Code With Mu
+
+VC Studio Code
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+-->
+
+## Trends
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+Look at Daily
+* [Hacker News Current Best](https://news.ycombinator.com/best), 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+* [Lobsters](https://lobste.rs)
+
+Look at Often
+* [Product Hunt](https://www.producthunt.com)
+
+Product Hunt Leader Boards
+* [Hunts.xyz](https://hunts.xyz)
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Products](http://500products.com)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!-- 
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+-->
+
+## Project-Based Learning
+
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
+https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
+
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
+https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
 <!--
-Dark Language
-https://twitter.com/rauchg/status/1196968841554751488 | Guillermo ▲ on Twitter: "CodeSandbox CI looks so. freaking. good https://t.co/DN3SInzwoc https://t.co/vl6EHgEWp6" / Twitter
-https://ci.codesandbox.io/status/facebook/react/pr/17398/builds/1930 | facebook/react #1930 - CodeSandbox CI
+https://frontendmasters.com
+https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
+https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
 
-VS Code Testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
 
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
-
-https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
-https://developers.google.com/identity/protocols/OAuth2
-https://en.wikipedia.org/wiki/Basic_access_authentication
-https://en.wikipedia.org/wiki/OAuth
-https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
-https://en.wikipedia.org/wiki/OpenID
-https://en.wikipedia.org/wiki/OpenID_Connect
-https://openid.net/ | OpenID Foundation website
-https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
-
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
-Social Auth
-https://oauth.net/2/ | OAuth 2.0 — OAuth
-https://oauth.net/ | OAuth Community Site
-https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
-https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
-https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
-https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
-https://twofactorauth.org/ | 502 Bad Gateway
-https://twofactorauth.org/#banking | Two Factor Auth List
-
-www.json.org
-http://json-schema.org/ | JSON Schema | The home of JSON Schema
-https://jwt.io/ | JSON Web Tokens - jwt.io
-
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-http://youmightnotneedjquery.com/ | You Might Not Need jQuery
-
-API
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-
-Google Auth
-https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
-
-https://chmodcommand.com
-https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
-
-Database
-https://en.wikipedia.org/wiki/Federated_database_system
-delegated database
-Google Spanner versus Calvin Protocol - Google Search
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-https://en.wikipedia.org/wiki/5G
-https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP/3
-https://en.wikipedia.org/wiki/HTTP/2
-https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
-
-https://grpc.io/
-https://grpc.io/docs/guides/
-https://developers.google.com/protocol-buffers/docs/overview
-* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
-
-Innovations
-* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
-* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
-* [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
-* [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
-* [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
-* [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
-
-Real time services
-chat protocols, IoT protocols
-https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
-https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
-
-https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-
-requests library
-
-http://restcookbook.com/Miscellaneous/rest-and-http/
-
-Pattern
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Separation_of_concerns
-https://en.wikipedia.org/wiki/Inversion_of_control
-
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+Nina
+https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
+https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
+http://takingnot.es/
 -->
 
+## Competitive Programming
+
+Coding Competitions
+* Kaggle
+* Hackathons
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+* Project-Based Learning
+
 <!--
-https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
-https://www.tutorialspoint.com/html5/html5_websocket.htm
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
 ## Surveys
@@ -305,6 +416,22 @@ https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Devel
 https://about.gitlab.com/developer-survey/
 https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
 http://stateofjs.com/2016/frontend/ | Front-End Frameworks
+-->
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
 -->
 
 ## Curated Resources
@@ -336,6 +463,8 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 
@@ -438,630 +567,43 @@ https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to
 https://github.com/donnemartin/interactive-coding-challenges
 -->
 
-## Async- Other Languages
+## Useful Files
 
-Rust
-* [Rust](https://www.rust-lang.org/)
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 
-Rust Async
-* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
 
-<!--
-https://github.com/remy/nodemon#nodemon
-https://docs.npmjs.com/files/package.json
-https://jestjs.io/
-https://github.com/nock/nock
+Files
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
 
-HTTP
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
 
-https://github.com/tc39/proposal-top-level-await
-https://v8.dev/features/top-level-await | Top-level await · V8
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
-https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
-https://www.quora.com/Which-programming-languages-are-asynchronous
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
-https://nodejs.org/api/timers.html
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
-https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
-Node.js
-Event-driven, asynchronous IO
-https://www.tutorialspoint.com/nodejs/nodejs_event_loop
-https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
--->
-
-Performance
-* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
-* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
-* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
-
-Throttling and Rate Limiting
-* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
-* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
-* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
-
-https://en.wikipedia.org/wiki/CPU_cache
-https://en.wikipedia.org/wiki/Cache_(computing)
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
-https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
-http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
-https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
-https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
-http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
-https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
-https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
-https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
-
-https://en.wikipedia.org/wiki/Intel
-https://en.wikipedia.org/wiki/Advanced_Micro_Devices
-
-https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
--->
-
-## Architecture- Important Concepts
-
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-<!--
-https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
--->
-
-CPU
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-Low-Level Programming Language, Machine Code, Assembly Language
-* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
-* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
-* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-
-<!--
-https://en.wikipedia.org/wiki/Instruction_set_architecture
-https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
-https://en.wikipedia.org/wiki/X86_instruction_listings
-
-https://leanpub.com/insidethepythonvirtualmachine/read
-
-https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-and-what-are-its-advantages
-"Machine code is the low-level binary 1s and 0s that make up the instructions to the processor.  These are processed directly by the CPU and are the final output of a compiler for given CPU and operating system combination."
-"Byte code is a virtualized machine code."
--->
-
-Instruction Set (CPU)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
-* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
-* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
-* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
-* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Components
-* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
-
-<!--
-https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
-https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
-https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
-https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
-https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
-https://en.wikipedia.org/wiki/Memory_address_register
-https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
-https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
-https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
-
-https://en.wikipedia.org/wiki/Opcode
-https://en.wikipedia.org/wiki/Opcode_table
-
-http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
--->
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-
-<!--
-https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
-https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
-
-https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
-http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
-https://en.wikipedia.org/wiki/ASCII
-https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
--->
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg) 
-* [Unix Wars Wikipedia](https://en.wikipedia.org/wiki/Unix_wars) 
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
-* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-<!--
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
-https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
-https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
--->
-
-Linux
-* [Linux GitHub](https://github.com/torvalds/linux)
-
-<!--
-https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
-
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
-
-https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
-
-https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
-
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
-
-https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
-https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
-http://pages.cs.wisc.edu/~remzi/OSTEP/
-
-https://stackoverflow.com/questions/34149013/what-does-it-mean-that-python-is-stack-based
-https://en.wikipedia.org/wiki/Stack_machine
-https://en.wikipedia.org/wiki/Virtual_memory
-
-https://en.wikipedia.org/wiki/Cron
-
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 https://en.wikipedia.org/wiki/Shell_script
-https://en.wikipedia.org/wiki/Shebang_(Unix)
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-https://www.python.org/dev/peps/pep-0394/#recommendation
 
-https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
-https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
-
-https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
-https://twitter.com/brendangregg/status/1150796412931600384/photo/2
-https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
-http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
-https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
-
-Commands
-http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
-https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
-http://man7.org/linux/man-pages/ | Linux man pages online
-https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+https://en.wikipedia.org/wiki/SQL
 -->
-
-Compiler
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
-* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
-* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
-
-<!--	
-Apple
-https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
-https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
-https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
-
-https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
--->
-
-<!--
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-https://elixir-lang.org/ | Elixir
--->
-
-## Protocols
-
-Network Protocols
-* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
-
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-
-<!--
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Application_layer
-https://en.wikipedia.org/wiki/Presentation_layer
-https://en.wikipedia.org/wiki/Session_layer
-https://en.wikipedia.org/wiki/Transport_layer
-https://en.wikipedia.org/wiki/Network_layer
-https://en.wikipedia.org/wiki/Data_link_layer
-https://en.wikipedia.org/wiki/Physical_layer
-
-https://en.wikipedia.org/wiki/Internet_Protocol
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-https://en.wikipedia.org/wiki/Internet_layer
-https://en.wikipedia.org/wiki/Link_layer
--->
-
-TCP
-* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
-* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
-
-## Computer Architecture
-
-CPU versus IO
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
-* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
-* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
-* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
-
-Ports
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-
-HTTP versus Websocket
-* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-
-Application Programming Interface (API)
-* [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
-* [Web API Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
-* [Web API Endpoints Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
-
-REST (API architecture style; versus SOAP or GraphQL)
-* [Representational State Transfer Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
-* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
-
-REST Alternatives
-* [GraphQL](http://graphql.org/)
-* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
-
-<!--
-https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-https://github.com/graphql-python | GraphQL Python
--->
-
-REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
-* [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
-
-Webhooks (The format is usually JSON. The request is done as a HTTP POST request.)
-* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
-
-Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
-* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
-
-Ajax
-* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [List of Ajax Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript)
-
-<!--
-https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URI_and_HTTP_methods
-https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
-
-https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
-
-Important
-https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
-https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
-
-https://en.wikipedia.org/wiki/Application_programming_interface
-"When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
-
-https://en.wikipedia.org/wiki/Memory_bound_function
-
-https://en.wikipedia.org/wiki/Cron
-
-Interesting!
-https://en.wikipedia.org/wiki/Execution_model
-https://en.wikipedia.org/wiki/Scheduling_(computing)
-
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Event-driven_messaging
-
-https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
--->
-
-## Sync and Async
-
-Runtime System, Execution, Thread, Process
-* [Runtime System Wikipedia](https://en.wikipedia.org/wiki/Runtime_system)
-* [Execution Wikipedia](https://en.wikipedia.org/wiki/Execution_(computing))
-* [Thread Wikipedia](https://simple.wikipedia.org/wiki/Thread_(computer_science))
-* [Thread Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))
-* [Process Wikipedia](https://en.wikipedia.org/wiki/Process_(computing))
-
-Threads and Multiprocessing
-* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
-* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
-* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
-
-Avoiding Race Condition, Mutex or Semaphore, Global Interpreter Lock (GIL)
-* [Race Condition- Software Wikipedia](https://en.wikipedia.org/wiki/Race_condition#Software)
-* [Mutual Exclusion (Mutex) Wikipedia](https://en.wikipedia.org/wiki/Mutual_exclusion)
-* [Semaphore Wikipedia](https://en.wikipedia.org/wiki/Semaphore_(programming))
-* [Global Interpreter Lock (GIL) Wikipedia](https://en.wikipedia.org/wiki/Global_interpreter_lock)
-
-Non-Blocking
-* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
-
-Concurrency
-* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
-* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
-
-Subroutine and Coroutine
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
-
-Asynchrony
-* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
-* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
-* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
-* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
-
-Async/Await, Futures, Promises
-* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
-* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
-* [Event Loop](https://en.wikipedia.org/wiki/Event_loop)
-
-Benefits
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
-* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
-
-<!--
-See Tom's Talk
-Real time
-non-blocking http requests
-light-weight parallelization
-https://en.wikipedia.org/wiki/Parallel_computing
-explicit i/o
-
-https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-Also, Ajax Polling explained
-
-polling versus webhooks
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
--->
-
-## Request and Response Cycle, HTTP
-
-Request and Response Cycle
-* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
-
-HTTP and HTTPS
-* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
-* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
-
-Request and Response Cycle- HTTP
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
-
-Sessions
-* [Web Browing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
-* [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
-* [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
-
-Cookies
-* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
-
-<!--
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
-https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
-https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
-https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
-
-https://en.wikipedia.org/wiki/Server_log
--->
-
-## Web Browser, Client/Server
-
-Web Browsers and Servers
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
-* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
-
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
-
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-
-Client-Side
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-
-Server-Side
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Scripting, Client-Side and Server-Side
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
-* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
-
-## General Software Design Patterns
-
-## Architectures
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
-
-Architectures
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-
-<!--
-https://en.wikipedia.org/wiki/Multitenancy
-
-Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
-https://en.wikipedia.org/wiki/Software_architecture
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Messaging_pattern
-
-https://en.wikipedia.org/wiki/Request%E2%80%93response
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
--->
-
-
-## Authorities
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-<!--
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-http://aosabook.org/en/index.html | The Architecture of Open Source Applications
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-https://refactoring.com/catalog/
-https://refactoring.com/
-https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
-https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://python-patterns.guide/
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-https://www.kentbeck.com/ | KentBeck.com
-
-http://stevemcconnell.com/books/
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
-
-https://martinfowler.com/articles/products-over-projects.html
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
--->
-
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparison Sites
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Hosting and GitHub
 
@@ -1124,6 +666,8 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://resources.github.com/whitepapers/
+
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
 https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
@@ -1262,12 +806,7 @@ https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's 
 
 Actions innovations
 https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://github.blog/2019-11-05-self-hosted-runners-for-github-actions-is-now-in-beta/ | Self-hosted runners for GitHub Actions is now in beta - The GitHub Blog
 https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/ | GitHub Actions—scheduled jobs maximum frequency is changing - The GitHub Blog
-
-Runners
-https://twitter.com/github/status/1191828955734724608 | GitHub on Twitter: "Looking for more choice and flexibility with GitHub Actions? Take full control over the configuration and environment your workflows run on with self-hosted runners for GitHub Actions, available in beta today. https://t.co/KsJYLEPEPw" / Twitter
 
 https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
 
@@ -1306,6 +845,10 @@ https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/pub
 
 https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
 https://twitter.com/bitandbang/status/1159514802596777984
+
+pre-commit action
+https://twitter.com/codewithanthony/status/1198774749473558528
+https://github.com/pre-commit/action
 
 Example actions
 https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
@@ -1431,10 +974,11 @@ https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
 https://github.com/showcases/projects-with-great-wikis
 
+https://github.com/marketplace/category/code-review
+
 https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github | Navigating code on GitHub - GitHub Help
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 https://github.com/blog/2123-more-code-review-tools
-https://github.com/marketplace/category/code-review
 https://github.com/blog/2392-introducing-code-owners
 https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
 
@@ -1531,20 +1075,20 @@ TODO
 GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+Google Open Source Docs
 * [Google Open Source Docs](https://opensource.google.com/docs)
-* [Why Open Source?](https://opensource.google.com/docs/why)
 
 Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
 * [Google Engineering Practices](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
 * [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
-<!--
-Really good- Bazel?
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+* [Why Open Source?](https://opensource.google.com/docs/why)
 
+<!--
 https://todogroup.org/members/
 https://github.com/facebook/fbshipit
 https://github.com/facebookarchive/mention-bot
@@ -1574,7 +1118,6 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
 
 Google
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
 * [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
 
 Facebook
@@ -1962,7 +1505,6 @@ https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Fre
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 -->
 
-
 ## Philosophies
 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -2033,287 +1575,729 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 -->
 
 
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-## Useful Tools
-
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Repl.it](https://repl.it)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-
-Hawt- Helpers
-* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
-* [Zapier GitHub](https://github.com/zapier)
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-
 <!--
-https://web.dev/ | web.dev  |  web.dev
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
 
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Callback_function | Callback function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in | in operator - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval | eval() - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Global_object | Global object - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index | JavaScript methods index - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index | JavaScript properties index - JavaScript | MDN
 
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+Dark Language
+https://twitter.com/rauchg/status/1196968841554751488 | Guillermo ▲ on Twitter: "CodeSandbox CI looks so. freaking. good https://t.co/DN3SInzwoc https://t.co/vl6EHgEWp6" / Twitter
+https://ci.codesandbox.io/status/facebook/react/pr/17398/builds/1930 | facebook/react #1930 - CodeSandbox CI
 
-https://repl.it/site/blog/packager
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 
-https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
-https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
+https://developers.google.com/identity/protocols/OAuth2
+https://en.wikipedia.org/wiki/Basic_access_authentication
+https://en.wikipedia.org/wiki/OAuth
+https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
+https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/OpenID_Connect
+https://openid.net/ | OpenID Foundation website
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-https://zeit.co/blog/github
-https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
+Social Auth
+https://oauth.net/2/ | OAuth 2.0 — OAuth
+https://oauth.net/ | OAuth Community Site
+https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
+https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
+https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
+https://twofactorauth.org/ | 502 Bad Gateway
+https://twofactorauth.org/#banking | Two Factor Auth List
 
-* [Zeit now](https://zeit.co/now)
-* [Zeit next.js](https://github.com/zeit/next.js) 
-* [Zeit micro](https://github.com/zeit/micro)
+www.json.org
+http://json-schema.org/ | JSON Schema | The home of JSON Schema
+https://jwt.io/ | JSON Web Tokens - jwt.io
 
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+http://youmightnotneedjquery.com/ | You Might Not Need jQuery
 
-https://www.netlify.com/features/ | Features | Netlify
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
-https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
+API
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
 
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
--->
+Google Auth
+https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
 
-## Languages and Frameworks (Other than Python and Django)
+https://chmodcommand.com
+https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+Database
+https://en.wikipedia.org/wiki/Federated_database_system
+delegated database
+Google Spanner versus Calvin Protocol - Google Search
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-Golang
-* [Golang Docs](https://golang.org/doc)
+https://en.wikipedia.org/wiki/5G
+https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
 
-Mobile
-* [Apple Developer Docs](https://developer.apple.com/develop/)
-* [Swift Developer](https://developer.apple.com/swift/)
-* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [Android Developer](https://developer.android.com/)
-* [Java](https://www.java.com/en/)
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
 
-## Trending
+https://grpc.io/
+https://grpc.io/docs/guides/
+https://developers.google.com/protocol-buffers/docs/overview
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+Innovations
+* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
+* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
+* [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
+* [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
+* [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
+* [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
 
-## Productivity
+Real time services
+chat protocols, IoT protocols
+https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
+https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
 
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 
-<!--
-https://codewith.mu/ | Code With Mu
+requests library
 
-VC Studio Code
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+http://restcookbook.com/Miscellaneous/rest-and-http/
 
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+Pattern
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Separation_of_concerns
+https://en.wikipedia.org/wiki/Inversion_of_control
 
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
-
-## Priorities
-
-<!--
-Effort vs. Impact Matrix
-value effort matrix
--->
-
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-## Interesting
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
--->
-
-## Trends
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-Look at Daily
-* [Hacker News Current Best](https://news.ycombinator.com/best), 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-* [Lobsters](https://lobste.rs)
-
-Look at Often
-* [Product Hunt](https://www.producthunt.com)
-
-Product Hunt Leader Boards
-* [Hunts.xyz](https://hunts.xyz)
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Products](http://500products.com)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
-
-<!-- 
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
--->
-
-## Project-Based Learning
-
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
-<!--
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
-https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
-
-https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
-https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 -->
 
 <!--
-https://frontendmasters.com
-https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
-https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
+https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
+https://www.tutorialspoint.com/html5/html5_websocket.htm
 
-https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
-Nina
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 
-Nina
-https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
-https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
-https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
-http://takingnot.es/
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
 -->
 
-## Competitive Programming
+## Async- Other Languages
 
-Coding Competitions
-* Kaggle
-* Hackathons
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-* Project-Based Learning
+Rust
+* [Rust](https://www.rust-lang.org/)
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+
+Rust Async
+* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
 
 <!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+https://github.com/remy/nodemon#nodemon
+https://docs.npmjs.com/files/package.json
+https://jestjs.io/
+https://github.com/nock/nock
 
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+HTTP
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://github.com/tc39/proposal-top-level-await
+https://v8.dev/features/top-level-await | Top-level await · V8
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+
+https://www.quora.com/Which-programming-languages-are-asynchronous
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+https://nodejs.org/api/timers.html
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
+https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+
+Node.js
+Event-driven, asynchronous IO
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop
+https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
 -->
 
-## Useful Files
+Performance
+* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
+* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
 
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+Throttling and Rate Limiting
+* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
+* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
+* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
 
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
 
-Files
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
+https://en.wikipedia.org/wiki/CPU_cache
+https://en.wikipedia.org/wiki/Cache_(computing)
 
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
+https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
+https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
+https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
+https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
 
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+https://en.wikipedia.org/wiki/Intel
+https://en.wikipedia.org/wiki/Advanced_Micro_Devices
 
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+-->
 
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+## Architecture- Important Concepts
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+<!--
+https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
+-->
+
+CPU
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+Low-Level Programming Language, Machine Code, Assembly Language
+* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+<!--
+https://en.wikipedia.org/wiki/Instruction_set_architecture
+https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
+https://en.wikipedia.org/wiki/X86_instruction_listings
+
+https://leanpub.com/insidethepythonvirtualmachine/read
+
+https://www.quora.com/What-is-the-difference-between-byte-code-and-machine-code-and-what-are-its-advantages
+"Machine code is the low-level binary 1s and 0s that make up the instructions to the processor.  These are processed directly by the CPU and are the final output of a compiler for given CPU and operating system combination."
+"Byte code is a virtualized machine code."
+-->
+
+Instruction Set (CPU)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
+* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
+* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Components
+* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
+
+<!--
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+
+https://en.wikipedia.org/wiki/Opcode
+https://en.wikipedia.org/wiki/Opcode_table
+
+http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
+-->
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+<!--
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+
+https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
+-->
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg) 
+* [Unix Wars Wikipedia](https://en.wikipedia.org/wiki/Unix_wars) 
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+<!--
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
+https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
+https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
+-->
+
+Linux
+* [Linux GitHub](https://github.com/torvalds/linux)
+
+<!--
+https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
+
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
+https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
+
+https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
+
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
+https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+https://stackoverflow.com/questions/34149013/what-does-it-mean-that-python-is-stack-based
+https://en.wikipedia.org/wiki/Stack_machine
+https://en.wikipedia.org/wiki/Virtual_memory
+
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
+https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
+https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
+
+https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
+https://twitter.com/brendangregg/status/1150796412931600384/photo/2
+https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
+https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
+
+Commands
+http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
+https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
+http://man7.org/linux/man-pages/ | Linux man pages online
+https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+-->
+
+Compiler
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
+* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
+* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
+* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
+
+<!--	
+Apple
+https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
+https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
+https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
+
+https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
+-->
+
+<!--
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+https://elixir-lang.org/ | Elixir
+-->
+
+## Protocols
+
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+
+<!--
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
+
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
+-->
+
+TCP
+* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
+* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
+
+## Computer Architecture
+
+CPU versus IO
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
+* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
+* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
+
+Ports
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+
+HTTP versus Websocket
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+
+Application Programming Interface (API)
+* [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
+* [Web API Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
+* [Web API Endpoints Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
+
+REST (API architecture style; versus SOAP or GraphQL)
+* [Representational State Transfer Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+
+REST Alternatives
+* [GraphQL](http://graphql.org/)
+* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
+
+<!--
+https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+https://github.com/graphql-python | GraphQL Python
+-->
+
+REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
+* [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
+
+Webhooks (The format is usually JSON. The request is done as a HTTP POST request.)
+* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
+
+Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
+* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+
+Ajax
+* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [List of Ajax Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript)
+
+<!--
+https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URI_and_HTTP_methods
+https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
+
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
+
+Important
+https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
+https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+
+https://en.wikipedia.org/wiki/Application_programming_interface
+"When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
+
+https://en.wikipedia.org/wiki/Memory_bound_function
+
+Interesting!
+https://en.wikipedia.org/wiki/Execution_model
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Event-driven_messaging
+
+https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
+-->
+
+## Sync and Async
+
+Runtime System, Execution, Thread, Process
+* [Runtime System Wikipedia](https://en.wikipedia.org/wiki/Runtime_system)
+* [Execution Wikipedia](https://en.wikipedia.org/wiki/Execution_(computing))
+* [Thread Wikipedia](https://simple.wikipedia.org/wiki/Thread_(computer_science))
+* [Thread Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing))
+* [Process Wikipedia](https://en.wikipedia.org/wiki/Process_(computing))
+
+Threads and Multiprocessing
+* [Multithreading Wikipedia](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+* [Thread Single vs. Multiprocessor System Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing)#Single_vs_multiprocessor_systems)
+* [Multiprocessing Wikipedia](https://en.wikipedia.org/wiki/Multiprocessing)
+
+Avoiding Race Condition, Mutex or Semaphore, Global Interpreter Lock (GIL)
+* [Race Condition- Software Wikipedia](https://en.wikipedia.org/wiki/Race_condition#Software)
+* [Mutual Exclusion (Mutex) Wikipedia](https://en.wikipedia.org/wiki/Mutual_exclusion)
+* [Semaphore Wikipedia](https://en.wikipedia.org/wiki/Semaphore_(programming))
+* [Global Interpreter Lock (GIL) Wikipedia](https://en.wikipedia.org/wiki/Global_interpreter_lock)
+
+Non-Blocking
+* [Non-Blocking Algorithm Wikipedia](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
+
+Concurrency
+* [Concurrency Wikipedia](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+* [Concurrent Computing Wikipedia](https://en.wikipedia.org/wiki/Concurrent_computing)
+
+Subroutine and Coroutine
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+* [Coroutine Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+
+Asynchrony
+* [Asynchronous I/O Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_I/O)
+* [Asynchrony Wikipedia](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming))
+* [Asynchronous System Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_system)
+* [Asynchronous Communication Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_communication)
+
+Async/Await, Futures, Promises
+* [Async/Await Wikipedia](https://en.wikipedia.org/wiki/Async/await)
+* [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
+* [Event Loop](https://en.wikipedia.org/wiki/Event_loop)
+
+Benefits
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
+* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
+
+<!--
+See Tom's Talk
+Real time
+non-blocking http requests
+light-weight parallelization
+https://en.wikipedia.org/wiki/Parallel_computing
+explicit i/o
+
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+Also, Ajax Polling explained
+
+polling versus webhooks
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+-->
+
+## Request and Response Cycle, HTTP
+
+Request and Response Cycle
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+
+HTTP and HTTPS
+* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+
+Request and Response Cycle- HTTP
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
+
+Sessions
+* [Web Browing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
+* [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
+* [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
+
+Cookies
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
+
+<!--
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
+https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
+https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
+https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
+
+https://en.wikipedia.org/wiki/Server_log
+-->
+
+## Web Browser, Client/Server
+
+Web Browsers and Servers
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Client-Side
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+
+Server-Side
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Scripting, Client-Side and Server-Side
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
+* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
+
+## General Software Design Patterns
+
+## Architectures
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+Architectures
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+
+<!--
+https://en.wikipedia.org/wiki/Multitenancy
+
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Messaging_pattern
+
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+-->
+
+## Authorities
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+<!--
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+
+http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+
+https://martinfowler.com/articles/products-over-projects.html
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+https://refactoring.com/catalog/
+https://refactoring.com/
+https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
+https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://python-patterns.guide/
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+https://www.kentbeck.com/ | KentBeck.com
+
+http://stevemcconnell.com/books/
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
 
 ## Object Oriented Software
 
@@ -3063,6 +3047,8 @@ Sleep
 * [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
 
 <!--
+https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+
 https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
 https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
 
@@ -3083,6 +3069,10 @@ https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 
 Sapiens
 * [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
+
+<!--
+https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
+-->
 
 ## Articles and Blog Posts
 
