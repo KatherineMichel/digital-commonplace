@@ -3,6 +3,9 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://docs.pytest.org/en/latest/
+https://www.django-rest-framework.org/
+
 https://daedtech.com/dont-learn-to-code-learn-to-automate/
 https://blog.codinghorror.com/please-dont-learn-to-code/
 
@@ -436,6 +439,31 @@ http://behaviormodel.org/ | BJ Fogg's Behavior Model
 
 ## Curated Resources
 
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/Droogans/unmaintainable-code
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+-->
+
+## Curated Resources
+
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
@@ -448,9 +476,6 @@ Interesting Curated Learning Resources
 * [Front End Guide](https://github.com/grab/front-end-guide)
 * [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 * [Skill Map](https://github.com/TeamStuQ/skill-map)
 
@@ -483,16 +508,6 @@ https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-scien
 https://github.com/asciimoo/ListOfGithubLists
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
 
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/Droogans/unmaintainable-code
-
 https://github.com/CyC2018/CS-Notes
 https://github.com/InterviewMap/CS-Interview-Knowledge-Map
 https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
@@ -521,9 +536,6 @@ https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwom
 https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
 
 http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
-
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
@@ -1174,6 +1186,9 @@ Maturity Models and Frameworks
 * [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
 <!--
+https://en.wikipedia.org/wiki/Capability_Maturity_Model#Maturity_models
+https://community.apache.org/apache-way/apache-project-maturity-model.html#other-open-source-project-models
+
 https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
 
 https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
@@ -2254,6 +2269,18 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+https://refactoring.com/catalog/
+
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+https://martinfowler.com/articles/products-over-projects.html
+-->
+
+<!--
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
@@ -2264,20 +2291,12 @@ http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of
 
 http://aosabook.org/en/index.html | The Architecture of Open Source Applications
 
-https://martinfowler.com/articles/products-over-projects.html
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-https://refactoring.com/catalog/
 https://refactoring.com/
 https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
 https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
 https://python-patterns.guide/
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 
 https://www.kentbeck.com/ | KentBeck.com
 
