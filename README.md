@@ -1542,6 +1542,9 @@ Google Engineering Practices
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
 <!--
+Really good- Bazel?
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
+
 https://todogroup.org/members/
 https://github.com/facebook/fbshipit
 https://github.com/facebookarchive/mention-bot
@@ -1558,7 +1561,6 @@ https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 
 
 Bazel
 https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf | 1702.01715.pdf
 https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
 https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
 -->
