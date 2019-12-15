@@ -417,6 +417,160 @@ https://en.wikipedia.org/wiki/Return_on_investment
 https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
 -->
 
+
+## Talks
+
+<!--
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+https://www.youtube.com/watch?v=iKAaNaVpJFM
+
+Hynek
+https://github.com/hynek
+https://hynek.me/talks/
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+https://github.com/python-attrs/attrs
+
+Azure Pipelines
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Contributing- Important
+https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
+
+Contributing
+https://github.blog/2012-09-17-contributing-guidelines/
+https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
+
+Not sure...
+https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
+
+Code of Conduct
+https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
+https://www.contributor-covenant.org/
+
+Expectations
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+
+Tests/Automation
+
+Not needed?
+https://tox.readthedocs.io/en/latest/
+https://nox.thea.codes/
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+https://realpython.com/intro-to-pyenv/
+
+General
+https://twitter.com/jacobian/status/1115362291099283456
+
+I know about these
+https://pypi.org/project/flake8/
+https://pypi.org/project/check-manifest/
+https://pypi.org/project/twine/
+
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
+http://mypy-lang.org/
+
+Formatting and Stuff
+https://github.com/psf/black
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
+https://treyhunner.com/2017/07/craft-your-python-like-poetry/
+
+I know about this
+https://github.com/timothycrosley/isort
+
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
+https://github.com/asottile/seed-isort-config
+https://prettier.io/
+https://pre-commit.com/
+https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
+
+Docs
+https://www.sphinx-doc.org/en/master/
+https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
+https://readthedocs.org/
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+https://readthedocs.org/accounts/login/?next=/accounts/gold/
+https://pypi.org/project/towncrier/
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
+https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
+https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
+https://docs.python.org/3/library/doctest.html
+https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
+https://docs.python.org/3/library/logging.html#logging.getLogger
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
+https://jml.io/pages/test-docstrings.html
+
+https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
+https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
+
+General
+https://github.com/nayafia/awesome-maintainers
+
+Mariatta
+https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+https://lukasa.co.uk/2016/04/One_Of_The_Team/
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+Packaging
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
+https://www.youtube.com/watch?v=btqFjNDdTlE
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+https://github.com/joerick/cibuildwheel
+https://github.com/explosion/wheelwright
+https://github.com/python-attrs/attrs/blob/master/setup.py
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
+https://github.com/sdispater/poetry/issues/1036
+https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
+https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
+https://pypi.org/project/attrs/
+https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
+https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
+https://pypi.org/project/twine/
+https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
+
+http://calver.org/
+
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+-->
+
+
 ## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
 
 pytest 
