@@ -3,54 +3,31 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://github.com/wemake-services/wemake-python-styleguide
-
-https://www.youtube.com/watch?v=qt7TboNJGJg
-
-https://github.com/jazzband/pip-tools
-
-https://python-poetry.org/docs/pyproject/
-https://black.readthedocs.io/en/stable/pyproject_toml.html
-https://snarky.ca/clarifying-pep-518/
-https://www.python.org/dev/peps/pep-0518/
-
-
-https://twitter.com/KatiMichel/status/1204246112049123329
+https://docs.djangoproject.com/en/dev/internals/contributing/
+https://devguide.python.org/
+https://docs.pytest.org/en/latest/
+https://www.django-rest-framework.org/
 
 https://en.wikipedia.org/wiki/Test-driven_development
 
+https://twitter.com/kennethreitz/status/1204348890721456128
+https://docs.python.org/3/howto/pyporting.html
+
+https://twitter.com/KatiMichel/status/1204246112049123329
+
 Panel: Open Source in Africa
 https://www.youtube.com/watch?v=CFvwIX-gjSI
+
+https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
 
 https://cs144.github.io/
 
 https://en.m.wikipedia.org/wiki/Five_whys
 
-https://adventofcode.com/2019/day/1
-https://www.twitch.tv/lizthegrey?referrer=raid
-
 https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
 
-https://twitter.com/kennethreitz/status/1204348890721456128
-https://docs.python.org/3/howto/pyporting.html
-https://docs.djangoproject.com/en/dev/internals/contributing/
-https://devguide.python.org/
-
 https://en.wikipedia.org/wiki/ISC_license
-
-https://stevedower.id.au/blog/python-a-great-language/
-https://twitter.com/llanga/status/1204332674992791552
-
-https://treyhunner.com/2019/03/python-deep-comparisons-and-code-readability/
-
-https://twitter.com/webology/status/1205503566745493505
-https://django-news.com/
-
-http://py3readiness.org/
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-https://snarky.ca/why-you-should-use-python-m-pip/
 
 https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
 
@@ -153,31 +130,9 @@ https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
 https://en.wikipedia.org/wiki/Application-release_automation
 https://developer.github.com/v3/repos/releases/#get-a-single-release
 
-https://github.com/asottile/
-https://github.com/anthonywritescode
-
-https://pre-commit.com/#python
-https://pre-commit.com/hooks.html
-
-https://github.com/python-poetry
-
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
 
-https://github.com/sdras/awesome-actions
-https://github.com/actions/starter-workflows/tree/master/automation
-https://github.com/actions/setup-python
-https://github.com/actions/cache/blob/master/examples.md#python---pip
-https://github.com/marketplace/actions/pypi-publish
-https://github.com/marketplace/actions/codecov
-https://github.com/marketplace?before=Y3Vyc29yOjIx&query=python&type=actions&utf8=%E2%9C%93
-https://github.com/marketplace/actions/pypi-publish
-https://github.com/actions/starter-workflows/blob/master/ci/python-package.yml
-https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
-https://github.com/kaylangan/calculator/tree/kaylangan-pkg
-https://github.com/marketplace?utf8=%E2%9C%93&query=django
-
-https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
-
+Example
 https://github.com/python-poetry/poetry/releases/tag/1.0.0
 
 https://twitter.com/SemanticRelease
@@ -193,30 +148,7 @@ https://erons.me/
 https://github.com/gr2m/twitter-together/issues/new?labels=feature&template=04_thanks.md
 https://github.com/gr2m/twitter-together#contribute
 
-https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
-https://pypi.org/project/flake8-quotes/
-https://github.com/zheller/flake8-quotes
-https://pypi.org/project/pydocstyle/
-https://github.com/asottile/seed-isort-config
-https://black.readthedocs.io/en/stable/installation_and_usage.html#usage
-https://flake8.pycqa.org/en/latest/user/options.html
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html#in-line-ignoring-errors
-http://www.blog.pythonlibrary.org/2012/06/13/pyflakes-the-passive-checker-of-python-programs/
-https://pydigger.com/pypi/flake8-quotes
-https://github.com/cclauss/GitHub-Action-for-Flake8/blob/master/.github/workflows/push.yml
-https://pypi.org/project/pyflakes/
-https://github.com/PyCQA/pyflakes
-https://twitter.com/FlipperPA/status/1204428589560582144
-
-https://pypi.org/project/tox-factor/
-https://tox.readthedocs.io/en/latest/config.html
-https://github.com/pytest-dev/pytest/issues/5778
-https://github.com/tox-dev/gh-action-tox
-https://github.com/ymyzk/tox-gh-actions
-
 https://circleci.com/docs/2.0/migrating-from-github/
-
-https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
 
 https://github.com/nodejs/changelog-maker
 https://github.com/nodejs/modules
@@ -227,8 +159,6 @@ https://graphql.org/learn/best-practices/
 https://developer.github.com/v4/guides/migrating-from-rest/
 
 
-https://docs.pytest.org/en/latest/
-https://www.django-rest-framework.org/
 
 https://daedtech.com/dont-learn-to-code-learn-to-automate/
 https://blog.codinghorror.com/please-dont-learn-to-code/
@@ -329,8 +259,13 @@ https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Tes
 <!--
 Projects
 
+https://adventofcode.com/2019/day/1
+
+https://github.com/asottile/
+https://github.com/anthonywritescode
 https://www.twitch.tv/anthonywritescode
 
+https://www.twitch.tv/lizthegrey
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
 https://www.twitch.tv/bletchleypunk/ | (2) bletchleypunk - Twitch
 https://www.twitch.tv/theacodes | (2) theacodes - Twitch
