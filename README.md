@@ -161,20 +161,6 @@ http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
 https://techyaks.com/python-year-tytop.html
 
-PyCanada
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
-
-The Perils of Inheritance
-https://www.youtube.com/watch?v=YXiaWtc0cgE&t=278s
-https://docs.google.com/presentation/d/e/2PACX-1vRNv4rLHUdM03wPOfe8GuqZQWjrVKfaDtULV2K_qVa4oHkR4WPfjsYaQy22sCuZcoAO26WToGcI7HME/pub
-
-https://pyvideo.org/pybay-2016/good-enough-is-good-enough.html
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
 SICP
 https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
 https://xuanji.appspot.com/isicp/ | Interactive SICP
