@@ -657,9 +657,6 @@ Python- Django- Debug Toolbar an dPanel
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 <!--
-https://pypi.org/project/pytest-cov/
-https://pytest-cov.readthedocs.io/en/latest/ | Welcome to pytest-cov’s documentation! — pytest-cov 2.7.1 documentation
-
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
@@ -693,20 +690,12 @@ https://github.com/cucumber/gherkin-python
 
 ## Also Recommended
 
-attrs
 * [attrs GitHub](https://github.com/python-attrs/attrs)
-
-pre-commit
 * [pre-commit](https://pre-commit.com)
-
-Formatting
 * [Black GitHub](https://github.com/psf/black)
-
-Import Sorting
 * [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
-
-Tox and Nox
 * [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
 
 <!--
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
