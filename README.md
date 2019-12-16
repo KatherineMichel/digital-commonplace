@@ -9,7 +9,15 @@ https://www.youtube.com/watch?v=qt7TboNJGJg
 
 https://github.com/jazzband/pip-tools
 
+https://python-poetry.org/docs/pyproject/
+https://black.readthedocs.io/en/stable/pyproject_toml.html
+https://snarky.ca/clarifying-pep-518/
+https://www.python.org/dev/peps/pep-0518/
 
+
+https://twitter.com/KatiMichel/status/1204246112049123329
+
+https://en.wikipedia.org/wiki/Test-driven_development
 
 Panel: Open Source in Africa
 https://www.youtube.com/watch?v=CFvwIX-gjSI
@@ -24,12 +32,15 @@ https://www.twitch.tv/lizthegrey?referrer=raid
 https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
 
+https://twitter.com/kennethreitz/status/1204348890721456128
+https://docs.python.org/3/howto/pyporting.html
 https://docs.djangoproject.com/en/dev/internals/contributing/
 https://devguide.python.org/
 
 https://en.wikipedia.org/wiki/ISC_license
 
 https://stevedower.id.au/blog/python-a-great-language/
+https://twitter.com/llanga/status/1204332674992791552
 
 https://treyhunner.com/2019/03/python-deep-comparisons-and-code-readability/
 
@@ -84,6 +95,8 @@ https://github.com/joelparkerhenderson/maturity_models
 
 https://github.com/LappleApple/feedmereadmes
 
+https://devchecklists.com/django-apps-checklist/
+
 https://github.com/kamranahmedse/developer-roadmap
 https://roadmap.sh/
 
@@ -91,6 +104,8 @@ https://ourmachinery.com/files/guidebook.md.html
 https://en.wikipedia.org/wiki/Data-oriented_design
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+https://www.talater.com/open-source-templates/#/
 
 https://pullpanda.com/
 https://github.com/pullreminders
@@ -107,6 +122,12 @@ https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
 
+https://www.youtube.com/watch?v=5bvafq4zSUo
+https://www.youtube.com/watch?v=0ahRkhrOePo
+
+https://github.blog/2016-06-30-email-updates-about-your-own-activity/
+https://github.blog/2013-01-09-task-lists-in-gfm-issues-pulls-comments/
+
 https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates#pull-request-templates
 https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
 https://github.com/stevemao/github-issue-templates
@@ -115,7 +136,10 @@ https://github.com/chaoss/metrics/blob/master/.github/CONTRIBUTING.md
 https://github.com/chaoss/metrics/blob/master/.github/FUNDING.yml
 https://github.com/chaoss/metrics/blob/master/RELEASING.md
 
+https://www.youtube.com/watch?v=cRJZldsHS3c
 https://queue.acm.org/detail.cfm?id=3341158
+
+https://twitter.com/mjambon/status/1204444405026807809
 
 https://labs.spotify.com/2019/10/01/solving-documentation-for-monoliths-and-monorepos/
 
@@ -147,6 +171,10 @@ https://github.com/marketplace/actions/pypi-publish
 https://github.com/marketplace/actions/codecov
 https://github.com/marketplace?before=Y3Vyc29yOjIx&query=python&type=actions&utf8=%E2%9C%93
 https://github.com/marketplace/actions/pypi-publish
+https://github.com/actions/starter-workflows/blob/master/ci/python-package.yml
+https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
+https://github.com/kaylangan/calculator/tree/kaylangan-pkg
+https://github.com/marketplace?utf8=%E2%9C%93&query=django
 
 https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
 
@@ -161,6 +189,10 @@ https://github.com/semantic-release/npm
 https://github.com/semantic-release/semantic-release/issues/1194
 https://github.com/semantic-release/git/issues/172#issuecomment-557203217
 
+https://erons.me/
+https://github.com/gr2m/twitter-together/issues/new?labels=feature&template=04_thanks.md
+https://github.com/gr2m/twitter-together#contribute
+
 https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
 https://pypi.org/project/flake8-quotes/
 https://github.com/zheller/flake8-quotes
@@ -172,6 +204,9 @@ http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html#in-line-ignoring-erro
 http://www.blog.pythonlibrary.org/2012/06/13/pyflakes-the-passive-checker-of-python-programs/
 https://pydigger.com/pypi/flake8-quotes
 https://github.com/cclauss/GitHub-Action-for-Flake8/blob/master/.github/workflows/push.yml
+https://pypi.org/project/pyflakes/
+https://github.com/PyCQA/pyflakes
+https://twitter.com/FlipperPA/status/1204428589560582144
 
 https://pypi.org/project/tox-factor/
 https://tox.readthedocs.io/en/latest/config.html
@@ -190,7 +225,6 @@ https://github.com/jsdom/jsdom
 
 https://graphql.org/learn/best-practices/
 https://developer.github.com/v4/guides/migrating-from-rest/
-
 
 
 https://docs.pytest.org/en/latest/
