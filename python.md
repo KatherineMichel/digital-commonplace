@@ -598,6 +598,8 @@ https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
 * [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+
 https://snarky.ca/why-you-should-use-python-m-pip/
 
 https://github.com/jazzband/pip-tools
@@ -657,7 +659,6 @@ Python- Django- Debug Toolbar an dPanel
 <!--
 https://pypi.org/project/pytest-cov/
 https://pytest-cov.readthedocs.io/en/latest/ | Welcome to pytest-cov’s documentation! — pytest-cov 2.7.1 documentation
-https://pytest-django.readthedocs.io/en/latest/
 
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
@@ -692,6 +693,9 @@ https://github.com/cucumber/gherkin-python
 
 ## Also Recommended
 
+attrs
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+
 pre-commit
 * [pre-commit](https://pre-commit.com)
 
@@ -705,13 +709,10 @@ Tox and Nox
 * [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
 
 <!--
-pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
 
 https://pre-commit.com/#python
 https://pre-commit.com/hooks.html
-
-https://pypi.org/project/attrs/ | attrs · PyPI
-https://github.com/python-attrs/attrs
 -->
 
 ## Eldarion
@@ -754,14 +755,13 @@ Import Sorting
 
 Formatting
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [doc8 GitHub](https://github.com/openstack/doc8)
+* [pydocstyle GitHub](https://github.com/PyCQA/pydocstyle)
+* [mccabe GitHub](https://github.com/PyCQA/mccabe)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
 <!--
-https://github.com/openstack/doc8
-https://github.com/PyCQA/pydocstyle
-https://github.com/PyCQA/mccabe
-
-https://pydigger.com/pypi/flake8-quotes
+?
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
 -->
