@@ -267,16 +267,6 @@ https://wiki.python.org/moin/ConcatenationTestCode
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 -->
 
-
-<!--
-https://www.hillelwayne.com/talks/beyond-unit-tests/
-https://www.youtube.com/watch?v=MYucYon2-lk
-
-https://en.wikipedia.org/wiki/Mutation_testing
-https://martinfowler.com/testing/
-https://testautomationu.applitools.com/unit-testing/ | Overview
--->
-
 ## Django Testing
 
 Django Testing- Official
@@ -417,6 +407,14 @@ https://en.wikipedia.org/wiki/Return_on_investment
 https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
 -->
 
+<!--
+https://www.hillelwayne.com/talks/beyond-unit-tests/
+https://www.youtube.com/watch?v=MYucYon2-lk
+
+https://en.wikipedia.org/wiki/Mutation_testing
+https://martinfowler.com/testing/
+https://testautomationu.applitools.com/unit-testing/ | Overview
+-->
 
 ## Talks
 
@@ -773,7 +771,6 @@ http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
 https://pypi.org/project/Pillow/ | Pillow · PyPI
-https://pypi.org/project/six/ | six · PyPI
 
 https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
 
