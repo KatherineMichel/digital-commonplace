@@ -450,8 +450,6 @@ https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+
 https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
 https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 
-https://github.com/python-attrs/attrs
-
 Azure Pipelines
 https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
 https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
@@ -475,10 +473,6 @@ https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting 
 
 Tests/Automation
 
-Not needed?
-https://tox.readthedocs.io/en/latest/
-https://nox.thea.codes/
-
 Thea's talk
 https://www.youtube.com/watch?v=-BHverY7IwU
 
@@ -487,26 +481,15 @@ https://realpython.com/intro-to-pyenv/
 General
 https://twitter.com/jacobian/status/1115362291099283456
 
-I know about these
-https://pypi.org/project/flake8/
-https://pypi.org/project/check-manifest/
-https://pypi.org/project/twine/
-
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
 http://mypy-lang.org/
 
 Formatting and Stuff
-https://github.com/psf/black
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
 https://treyhunner.com/2017/07/craft-your-python-like-poetry/
 
-I know about this
-https://github.com/timothycrosley/isort
-
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
-https://github.com/asottile/seed-isort-config
 https://prettier.io/
-https://pre-commit.com/
 https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
 
 Docs
@@ -550,8 +533,10 @@ https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
 https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
 https://www.youtube.com/watch?v=btqFjNDdTlE
 https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+
 https://github.com/joerick/cibuildwheel
 https://github.com/explosion/wheelwright
+
 https://github.com/python-attrs/attrs/blob/master/setup.py
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
@@ -562,7 +547,6 @@ https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d
 https://pypi.org/project/attrs/
 https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
 https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
-https://pypi.org/project/twine/
 https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
 
 http://calver.org/
@@ -570,6 +554,79 @@ http://calver.org/
 https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
 -->
 
+<!--
+https://github.com/wemake-services/wemake-python-styleguide
+
+https://www.youtube.com/watch?v=qt7TboNJGJg
+
+https://github.com/sdras/awesome-actions
+https://github.com/actions/starter-workflows/blob/master/ci/python-package.yml
+https://github.com/actions/starter-workflows/tree/master/automation
+https://github.com/actions/setup-python
+https://github.com/actions/cache
+https://github.com/actions/cache/blob/master/examples.md#python---pip
+https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
+https://github.com/kaylangan/calculator/tree/kaylangan-pkg
+
+https://github.com/marketplace?before=Y3Vyc29yOjIx&query=python&type=actions&utf8=%E2%9C%93
+https://github.com/marketplace?utf8=%E2%9C%93&query=django
+https://github.com/marketplace/actions/pypi-publish
+https://github.com/marketplace/actions/codecov
+
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
+
+https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
+https://black.readthedocs.io/en/stable/installation_and_usage.html#usage
+https://flake8.pycqa.org/en/latest/user/options.html
+http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html#in-line-ignoring-errors
+https://github.com/cclauss/GitHub-Action-for-Flake8/blob/master/.github/workflows/push.yml
+https://twitter.com/FlipperPA/status/1204428589560582144
+
+https://pypi.org/project/tox-factor/
+https://tox.readthedocs.io/en/latest/config.html
+https://github.com/pytest-dev/pytest/issues/5778
+https://github.com/tox-dev/gh-action-tox
+https://github.com/ymyzk/tox-gh-actions
+
+https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
+-->
+
+## Python and Django Dependency Management
+
+* [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
+* [pipx](https://pipxproject.github.io/pipx/)
+* [Dephell GitHub](https://github.com/dephell/dephell)
+
+<!--
+https://snarky.ca/why-you-should-use-python-m-pip/
+
+https://github.com/jazzband/pip-tools
+
+https://python-poetry.org/docs/pyproject/
+https://black.readthedocs.io/en/stable/pyproject_toml.html
+https://snarky.ca/clarifying-pep-518/
+https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
+
+Pyenv and Pipenv
+https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
+https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
+
+The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
+https://github.com/pypa/pipfile/issues/27
+
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/#requirements-files
+
+https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
+
+https://github.com/pypa/pipfile
+https://github.com/pypa/pipfile#the-concept
+
+https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+-->
 
 ## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
 
@@ -611,8 +668,6 @@ http://pythontesting.net/start-here/
 
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
 
-https://pypi.org/project/pyflakes/
-
 https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
 https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 
@@ -629,14 +684,34 @@ https://docs.pytest.org/en/latest/parametrize.html
 https://pypi.org/project/selenium/ | selenium · PyPI
 https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 
-https://github.com/openstack/doc8
-https://github.com/PyCQA/pydocstyle
-https://github.com/PyCQA/mccabe
-
 https://github.com/behave/behave | behave/behave: BDD, Python style.
 https://hypothesis.readthedocs.io/en/latest/
 https://cucumber.io/ | Cucumber
 https://github.com/cucumber/gherkin-python
+-->
+
+## Also Recommended
+
+pre-commit
+* [pre-commit](https://pre-commit.com)
+
+Formatting
+* [Black GitHub](https://github.com/psf/black)
+
+Import Sorting
+* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
+
+Tox and Nox
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+
+<!--
+pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
+
+https://pre-commit.com/#python
+https://pre-commit.com/hooks.html
+
+https://pypi.org/project/attrs/ | attrs · PyPI
+https://github.com/python-attrs/attrs
 -->
 
 ## Eldarion
@@ -674,9 +749,22 @@ Testing Tools
 * [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
 * [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
 
+Import Sorting
 * [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
+
+Formatting
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
+<!--
+https://github.com/openstack/doc8
+https://github.com/PyCQA/pydocstyle
+https://github.com/PyCQA/mccabe
+
+https://pydigger.com/pypi/flake8-quotes
+https://pypi.org/project/pyflakes/
+https://github.com/PyCQA/pyflakes
+-->
 
 Not used?
 * [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
@@ -736,27 +824,13 @@ https://codecov.io/#features | Codecov
 
 ## Continuous Integration Tools
 
-Tox and Nox
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
-
 Code Formatting
-* [Black GitHub](https://github.com/psf/black)
 * [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
 * [Black Out GitHub](https://github.com/mariatta/black_out)
 * [White GitHub](https://github.com/kennethreitz/white)
 * [Google YAPF](https://github.com/google/yapf)
 
 <!--
-GitHub Actions/CI
-
-https://pre-commit.com/ | pre-commit
-
-https://pypi.org/project/attrs/ | attrs · PyPI
-https://github.com/python-attrs/attrs
-
-https://pypi.org/project/check-manifest/ | check-manifest · PyPI
-twine checks readme - Google Search
-
 https://github.com/bots-for-humanity/black-out
 
 https://black.now.sh/ | Black Playground
