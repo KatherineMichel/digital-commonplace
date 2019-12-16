@@ -3,57 +3,36 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
- Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+https://github.com/djangocon/2019.djangocon.us/actions/new
+https://github.com/pinax/pinax/community
+
+https://twitter.com/KatiMichel/status/1204246112049123329
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
 https://devguide.python.org/
 https://docs.pytest.org/en/latest/
 https://www.django-rest-framework.org/
 
-https://en.wikipedia.org/wiki/Test-driven_development
-
 https://twitter.com/kennethreitz/status/1204348890721456128
 https://docs.python.org/3/howto/pyporting.html
 
-https://twitter.com/KatiMichel/status/1204246112049123329
+https://en.wikipedia.org/wiki/Test-driven_development
 
 Panel: Open Source in Africa
 https://www.youtube.com/watch?v=CFvwIX-gjSI
 
-https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
 
 https://cs144.github.io/
 
 https://en.m.wikipedia.org/wiki/Five_whys
 
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
 https://en.wikipedia.org/wiki/ISC_license
 
 https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
 
-https://github.com/djangocon/2019.djangocon.us/actions/new
-https://github.com/pinax/pinax/community
-
-https://github.com/pyladies/pyladies-bot
-
-https://twitter.com/joshsimmons/status/1204588565537050629
-https://twitter.com/ewa_jodlowska/status/1204424407915077632
-https://twitter.com/_sagesharp_/status/1202616094327881734
-https://twitter.com/pycon/status/1205573168846557184
-https://twitter.com/aidanfeldman/status/1204579466896384001
-
 https://twitter.com/froidotdev/status/1206273232799698947
 
 https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
-
-Eisenhower Matrix
-https://twitter.com/airtable/status/1205241906759794689
-https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
-
-https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 
 https://developers.google.com/machine-learning/crash-course
 
@@ -66,17 +45,6 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-
 
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
-Repl
-https://repl.it/site/blog/github
-https://twitter.com/amasad/status/1204843691682091008
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-https://github.com/LappleApple/feedmereadmes
-
-https://devchecklists.com/django-apps-checklist/
-
 https://github.com/kamranahmedse/developer-roadmap
 https://roadmap.sh/
 
@@ -84,6 +52,12 @@ https://ourmachinery.com/files/guidebook.md.html
 https://en.wikipedia.org/wiki/Data-oriented_design
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+
+https://github.com/LappleApple/feedmereadmes
 
 https://www.talater.com/open-source-templates/#/
 
@@ -176,18 +150,6 @@ https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.
 
 https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
-
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
@@ -261,6 +223,7 @@ https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Tes
 
 <!--
 Projects
+https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 
 https://adventofcode.com/2019/day/1
 
@@ -316,6 +279,85 @@ https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 -->
 
+
+## Django
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+## Django Rest Framework
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+## JavaScript
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React and Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code") EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+## Vinta Django Apps and API Checklists
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
+
+DjangoCon Europe 2017 Vinta
+https://www.youtube.com/watch?v=AMg4Iind90Q | (1) "Qualities of great reusable Django apps" by Flávio Juvenal da Silva Junior - YouTube
+https://docs.google.com/presentation/d/1yapK1hYt8f64ztLCc7yFpCI4RG1vTMLhqwZ6cUBZIvI/edit#slide=id.p | Qualities of great reusable Django apps - DjangoCon Europe 2017 - Google Slides
+https://www.vinta.com.br/blog/2017/djangocon-europe-2017-was-awesome/ | DjangoCon Europe 2017 was awesome! – Vinta Software
+-->
+
+## Coding Practice
+
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com)
+* [100 Days of Code](http://www.100daysofcode.com)
+
+Project-Based and Competitive Programming
+* Project-based learning
+* Competitive Programming
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+## Python
+
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
+
+Checklists
+* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+
 ## Priorities
 
 <!--
@@ -325,6 +367,12 @@ value effort matrix
 
 Eisenhower Matrix
 * [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+<!--
+Eisenhower Matrix
+https://twitter.com/airtable/status/1205241906759794689
+https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
+-->
 
 ## Stack and Built With
 
@@ -363,6 +411,17 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
 https://web.dev/ | web.dev  |  web.dev
 
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
@@ -371,6 +430,9 @@ https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
+
+https://repl.it/site/blog/github
+https://twitter.com/amasad/status/1204843691682091008
 
 https://repl.it/site/blog/packager
 
@@ -840,6 +902,24 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://github.com/features/security
+https://github.com/features/code-review/
+https://github.com/personal
+Productivity
+https://visualstudio.github.com/
+https://github.com/enterprise#administration
+https://github.com/features/project-management/
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
+
 https://resources.github.com/whitepapers/
 
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
