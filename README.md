@@ -3,6 +3,19 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+
+https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
+
+https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
+
+https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+
+https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+
+https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
+
 https://github.com/djangocon/2019.djangocon.us/actions/new
 https://github.com/pinax/pinax/community
 
@@ -18,8 +31,24 @@ https://docs.python.org/3/howto/pyporting.html
 
 https://en.wikipedia.org/wiki/Test-driven_development
 
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+https://techyaks.com/python-year-tytop.html
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
 Panel: Open Source in Africa
 https://www.youtube.com/watch?v=CFvwIX-gjSI
+
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
+
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://kk.org/thetechnium/1000-true-fans/
+
+
+
 
 
 https://cs144.github.io/
@@ -31,8 +60,6 @@ https://en.wikipedia.org/wiki/ISC_license
 https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
 
 https://twitter.com/froidotdev/status/1206273232799698947
-
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 
 https://developers.google.com/machine-learning/crash-course
 
@@ -137,29 +164,6 @@ https://developer.github.com/v4/guides/migrating-from-rest/
 
 
 
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-
-https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
-
-https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
-
-https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
-
-https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
-
-https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
-https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
-https://kk.org/thetechnium/1000-true-fans/
-
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-https://techyaks.com/python-year-tytop.html
 
 SICP
 https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
