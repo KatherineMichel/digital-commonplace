@@ -382,6 +382,8 @@ Algorithmic Paradigms
 * [Branch and Bound Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
 
 Recursion
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+* [Base Case Wikipedia](https://en.wikipedia.org/wiki/Recursion#base_case)
 
 Dynamic Programming
 * [Optimal Substructure Wikipedia](https://en.wikipedia.org/wiki/Optimal_substructure)
@@ -392,6 +394,10 @@ Three Types of Problems in Backtracking
 * [Optimization Problem Wikipedia](https://en.wikipedia.org/wiki/Optimization_problem)
 * Enumeration Problem
 
+Strings
+* [String Algorithm Wikipedia](https://en.wikipedia.org/wiki/String_algorithm)
+* [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
+
 <!--
 Fibonnaci
 https://en.wikipedia.org/wiki/Time_complexity#Exponential_time
@@ -399,11 +405,9 @@ https://en.wikipedia.org/wiki/Time_complexity#Exponential_time
 Divide and Conquer Algorithms
 * [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
 
-Dynamic
+Dynamic/Recursion
 https://en.wikipedia.org/wiki/Evaluation_strategy
-* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
 https://www.geeksforgeeks.org/recursion/
-https://en.wikipedia.org/wiki/Recursion#base_case
 
 https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/
 https://www.geeksforgeeks.org/dynamic-programming-vs-divide-and-conquer/
@@ -522,37 +526,36 @@ https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
 -->
 
-### Divide and Conquer
+### Divide and Conquer Algorithms
 
 Examples
 * [Closest Pair of Points Problem Wikipedia](https://en.wikipedia.org/wiki/Closest_pair_problem)
 * Inversion Count
 * [Karatsuba Algorithm Wikipedia](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
 * Maximum Contiguous Subsequence Sum
-* Merge Sort Using Divide and Conquer
 * [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
 * [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
 * Tournament Method to Find Min Max
 * [Warnock Algorithm Wikipedia](https://en.wikipedia.org/wiki/Warnock_algorithm)
 * X Power Y
 
-### More Greedy Algorithms
+### Greedy Algorithms
 
-Examples
-* Activity Selection
-* [Egyptian Fraction Wikipedia](https://en.wikipedia.org/wiki/Egyptian_fraction)
-* Fractional Knapsack
-* Hillclimber
-* [Huffman Coding Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
-* Job Sequencing
-* K Centers
-* Minimum Coins
+Examples	
+* Activity Selection	
+* [Dijkstra's Algorithm (Shortest Path) Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)	
+* [Egyptian Fraction Wikipedia](https://en.wikipedia.org/wiki/Egyptian_fraction)	
+* Fractional Knapsack	
+* Hillclimber	
+* [Huffman Coding Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)	
+* Job Sequencing	
+* K Centers	
+* Kruskal Minimum Spanning Tree	
+* Minimum Coins	
+* Prim Minimum Spanning Tree	
 * Warshall
 
 ### String Algorithms
-
-* [String Algorithm Wikipedia](https://en.wikipedia.org/wiki/String_algorithm)
-* [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
 
 Approximate Sequence Matching- General
 * [Bitap Algorithm Wikipedia](https://en.wikipedia.org/wiki/Bitap_algorithm)
@@ -616,13 +619,13 @@ Longest increasing subsequence problem: Find the longest increasing subsequence 
 Shortest common supersequence problem: Find the shortest supersequence that contains two or more sequences as subsequences
 
 Subsequence and substring
-https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
-https://en.wikipedia.org/wiki/Longest_increasing_subsequence
-https://en.wikipedia.org/wiki/Longest_common_substring_problem
+* [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
+* [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
+* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
 https://en.wikipedia.org/wiki/N-gram
 
 Substrings
-Longest common substring problem
+* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
 Substring search
 Aho–Corasick string matching algorithm
 * [Boyer Moore Algorithm Wikipedia](https://en.wikipedia.org/wiki/Boyer_moore)
@@ -757,13 +760,12 @@ Routing for graphs- General?
 * [Euclidean Shortest Path Problem](https://en.wikipedia.org/wiki/Euclidean_shortest_path)
 * [Longest Path Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem)
 
-Minimum spanning tree
-https://en.wikipedia.org/wiki/Minimum_spanning_tree
 https://en.wikipedia.org/wiki/Minimum_spanning_tree#Algorithms
 Prim
 https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms#weighted_graph
 
 Minimum Spanning Tree
+* [Minimum Spanning Tree Wikipedia](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 * [Borůvka's Algorithm Wikipedia](https://en.wikipedia.org/wiki/Bor%C5%AFvka%27s_algorithm)
 * [Kruskal's Algorithm (Greedy Algorithm) Wikipedia](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 * [Prim's Algorithm (Greedy Algorithm) Wikipedia](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
@@ -774,16 +776,15 @@ https://en.wikipedia.org/wiki/Nonblocking_minimal_spanning_switch
 
 Shortest path problem
 Bellman–Ford algorithm: computes shortest paths in a weighted graph (where some of the edge weights may be negative)
-SPFA (optimization of Bellman-Ford algorithm)
-https://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm
 Dijkstra's algorithm: A special case of A* for which no heuristic function is used
 Dijkstra's algorithm: computes shortest paths in a graph with non-negative edge weights
 Floyd–Warshall algorithm: solves the all pairs shortest path problem in a weighted, directed graph
 Johnson's algorithm: All pairs shortest path algorithm in sparse weighted directed graph
 
-Routing for Graphs- Shortest Path Problem
+Shortest Path Problem
 * [Shortest Path Problem Wikipedia](https://en.wikipedia.org/wiki/Shortest_path_problem)
 * [Bellman Ford Algorithm Wikipedia](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+* [Shortest Path Faster Algorithm (SPFA) (Optimization of Bellman-Ford Algorithm Wikipedia](https://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm)
 * [Dijkstra's Algorithm (Greedy Algorithm)) Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * [Floyd-Warshall Algorithm Wikipedia](https://en.wikipedia.org/wiki/Floyd_Warshall)
 * [Johnson's Algorithm Shortest Path Wikipedia](https://en.wikipedia.org/wiki/Johnson%27s_algorithm)
@@ -795,7 +796,7 @@ Warnsdorff's rule: A heuristic method for solving the Knight's tour problem.
 * [Transitive Closure Wikipedia](https://en.wikipedia.org/wiki/Transitive_closure)
 * [Warnsdorff's Algorithm Wikipedia](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff's_algorithm)
 
-Routing for Graphs- Travelling Salesman Problem
+Travelling Salesman Problem
 * [Travelling Salesman Problem Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 * [Christofides Algorithm Wikipedia](https://en.wikipedia.org/wiki/Christofides_algorithm)
 * [Nearest Neighbour Algorithm Wikipedia](https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm)
