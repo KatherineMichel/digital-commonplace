@@ -399,11 +399,16 @@ Strings
 * [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
 
 <!--
-Fibonnaci
-https://en.wikipedia.org/wiki/Time_complexity#Exponential_time
-
 Divide and Conquer Algorithms
 * [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
+
+https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
+
+Fibonnaci
+https://en.wikipedia.org/wiki/Time_complexity#Exponential_time
 
 Dynamic/Recursion
 https://en.wikipedia.org/wiki/Evaluation_strategy
@@ -460,11 +465,6 @@ Unclassified 👻
 <!--
 Greedy algorithm in optimization problems
 
-https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
-https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
-https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
-
 https://www.geeksforgeeks.org/greedy-algorithms/
 https://xlinux.nist.gov/dads/HTML/greedyalgo.html
 
@@ -512,18 +512,15 @@ https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
 Uncle Bob Martin: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration."
 https://en.wikipedia.org/wiki/Control_flow
 
+https://en.wikipedia.org/wiki/Order_statistic
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
 Algorithms
 https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 https://en.wikipedia.org/wiki/Euclidean_algorithm
 https://en.wikipedia.org/wiki/Division_algorithm
 https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
--->
-
-<!--
-https://en.wikipedia.org/wiki/Order_statistic
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm#Python
 -->
 
 ### Divide and Conquer Algorithms
