@@ -202,6 +202,28 @@ https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 -->
 
+<!--
+https://www.hackerrank.com/leaderboard
+https://www.hackerrank.com/jobs/search
+https://practice.geeksforgeeks.org/company-tags
+https://www.hackerrank.com/contests/w1/challenges
+https://www.hackerrank.com/challenges/challenges/problem
+
+https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
+https://www.geeksforgeeks.org/competitive-programming-conquering-a-given-problem/
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+https://www.geeksforgeeks.org/problem-solving-methodologies/
+https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
+
+https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
+
+https://www.cdn.geeksforgeeks.org/data-structures/#Misc
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/matrix/
+-->
+
 ## Data
 
 ### Data Types
@@ -264,13 +286,15 @@ Sequence
 
 Types of order
 * [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
+* [Lexicographical Order (Alphabetical Order) Wikipedia](https://en.wikipedia.org/wiki/Lexicographical_order)
 * [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
+* [Numerical Order Wikipedia](https://en.wikipedia.org/wiki/Numerical_order)
 * [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
 
-<!--
 String
-https://en.wikipedia.org/wiki/String_(computer_science) | String (computer science) - Wikipedia
+* [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
 
+<!--
 Also, examples of sequences
 https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/Sequence#Analysis
@@ -357,12 +381,30 @@ Algorithmic Paradigms
 * [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
 * [Branch and Bound Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
 
+Recursion
+
+Dynamic Programming
+* [Optimal Substructure Wikipedia](https://en.wikipedia.org/wiki/Optimal_substructure)
+* [Overlapping Subproblems Wikipedia](https://en.wikipedia.org/wiki/Overlapping_subproblems)
+
 Three Types of Problems in Backtracking
 * [Decision Problem Wikipedia](https://en.wikipedia.org/wiki/Decision_problem)
-* [Optimizatio Problem Wikipedia](https://en.wikipedia.org/wiki/Optimization_problem)
+* [Optimization Problem Wikipedia](https://en.wikipedia.org/wiki/Optimization_problem)
 * Enumeration Problem
 
 <!--
+Fibonnaci
+https://en.wikipedia.org/wiki/Time_complexity#Exponential_time
+
+Divide and Conquer Algorithms
+* [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
+
+Dynamic
+https://en.wikipedia.org/wiki/Evaluation_strategy
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
+https://www.geeksforgeeks.org/recursion/
+https://en.wikipedia.org/wiki/Recursion#base_case
+
 https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/
 https://www.geeksforgeeks.org/dynamic-programming-vs-divide-and-conquer/
 
@@ -415,20 +457,21 @@ Unclassified 👻
 Greedy algorithm in optimization problems
 
 https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
+
 https://www.geeksforgeeks.org/greedy-algorithms/
 https://xlinux.nist.gov/dads/HTML/greedyalgo.html
 
+Divide and Conquer
 https://en.wikipedia.org/wiki/Optimization_problem
-https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
 https://www.geeksforgeeks.org/divide-and-conquer/
 https://xlinux.nist.gov/dads/HTML/divideAndConquer.html
 
 https://www.geeksforgeeks.org/decrease-and-conquer/
 
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
-https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
-https://en.wikipedia.org/wiki/Optimal_substructure
-https://en.wikipedia.org/wiki/Overlapping_subproblems
+Dynamic Programming
 https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
 bottom-up- a benefit is code reuse
 https://en.wikipedia.org/wiki/Code_reuse
@@ -436,7 +479,6 @@ https://en.wikipedia.org/wiki/Memoization
 Interesting
 https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_name
 https://en.wikipedia.org/wiki/Bellman_equation#Bellman's_Principle_of_Optimality
-
 
 https://xlinux.nist.gov/dads/HTML/pruneNsearch.html
 
@@ -454,7 +496,6 @@ https://www.geeksforgeeks.org/tabulation-vs-memoization/
 https://ide.geeksforgeeks.org/vHt6ly
 https://ide.geeksforgeeks.org/Z94jYR
 https://ide.geeksforgeeks.org/12C5bP
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
 
 https://xlinux.nist.gov/dads/HTML/optimization.html
 https://xlinux.nist.gov/dads/HTML/optimalsoltn.html
@@ -463,17 +504,6 @@ Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
-
-Subsequence and substring
-https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
-https://en.wikipedia.org/wiki/Longest_increasing_subsequence
-https://en.wikipedia.org/wiki/Longest_common_substring_problem
-https://en.wikipedia.org/wiki/N-gram
-
-https://en.wikipedia.org/wiki/Evaluation_strategy
-* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-https://www.geeksforgeeks.org/recursion/
-https://en.wikipedia.org/wiki/Recursion#base_case
 
 Uncle Bob Martin: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration."
 https://en.wikipedia.org/wiki/Control_flow
@@ -492,6 +522,120 @@ https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
 -->
 
+### Divide and Conquer
+
+Examples
+* [Closest Pair of Points Problem Wikipedia](https://en.wikipedia.org/wiki/Closest_pair_problem)
+* Inversion Count
+* [Karatsuba Algorithm Wikipedia](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
+* Maximum Contiguous Subsequence Sum
+* Merge Sort Using Divide and Conquer
+* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
+* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
+* Tournament Method to Find Min Max
+* [Warnock Algorithm Wikipedia](https://en.wikipedia.org/wiki/Warnock_algorithm)
+* X Power Y
+
+### More Greedy Algorithms
+
+Examples
+* Activity Selection
+* [Egyptian Fraction Wikipedia](https://en.wikipedia.org/wiki/Egyptian_fraction)
+* Fractional Knapsack
+* Hillclimber
+* [Huffman Coding Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
+* Job Sequencing
+* K Centers
+* Minimum Coins
+* Warshall
+
+### String Algorithms
+
+* [String Algorithm Wikipedia](https://en.wikipedia.org/wiki/String_algorithm)
+* [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
+
+Approximate Sequence Matching- General
+* [Bitap Algorithm Wikipedia](https://en.wikipedia.org/wiki/Bitap_algorithm)
+* [Trigram Search Wikipedia](https://en.wikipedia.org/wiki/Trigram_search)
+
+Approximate Sequence Matching- Phonetic Algorithms
+* [Phonetic Algorithms Wikipedia](https://en.wikipedia.org/wiki/Phonetic_algorithm)
+* [Daitch–Mokotoff Soundex Wikipedia](https://en.wikipedia.org/wiki/Daitch%E2%80%93Mokotoff_Soundex)
+* [Double Metaphone Wikipedia](https://en.wikipedia.org/wiki/Metaphone#Double_Metaphone)
+* [Match Rating Approach Wikipedia]()
+* [Metaphone Wikipedia](https://en.wikipedia.org/wiki/Match_rating_approach)
+* [New York State Identification and Intelligence System (NYSIIS) Wikipedia](https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System)
+* [Soundex Wikipedia](https://en.wikipedia.org/wiki/Soundex)
+
+Approximate Sequence Matching- String Metrics
+* [String Metrics Wikipedia](https://en.wikipedia.org/wiki/String_metrics)
+* [Damerau–Levenshtein Distance Wikipedia](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
+* [Dice's Coefficient Wikipedia](https://en.wikipedia.org/wiki/Dice%27s_coefficient)
+* [Hamming Distance Wikipedia](https://en.wikipedia.org/wiki/Hamming_distance)
+* [Jaro–Winkler Distance Wikipedia](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
+* [Levenshtein Edit Distance Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance)
+
+Sequence Search
+* [Linear Search Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+* [Selection Algorithm Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
+* [Ternary Search Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
+
+Sequence Search- Sorted lists
+* [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
+* [Binary Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+* [Fibonacci Search Technique Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
+* [Jump Search (or Block Search) Wikipedia](https://en.wikipedia.org/wiki/Jump_search)
+* [Predictive Search Wikipedia](https://en.wikipedia.org/wiki/Interpolation_search)
+* [Uniform Binary Search Wikipedia](https://en.wikipedia.org/wiki/Uniform_binary_search)
+
+Sequence Merging
+* Simple Merge Algorithm
+* k-way Merge algorithm
+* Union (merge, with elements on the output not repeated)
+
+
+<!--
+https://en.wikipedia.org/wiki/Merge_algorithm
+
+Sequence permutations
+Fisher–Yates shuffle (also known as the Knuth shuffle): randomly shuffle a finite set
+Schensted algorithm: constructs a pair of Young tableaux from a permutation
+Steinhaus–Johnson–Trotter algorithm (also known as the Johnson–Trotter algorithm): generate permutations by transposing elements
+Heap's permutation generation algorithm: interchange elements to generate next permutation
+
+Sequence alignment
+Dynamic time warping: measure similarity between two sequences which may vary in time or speed
+Hirschberg's algorithm: finds the least cost sequence alignment between two sequences, as measured by their Levenshtein distance
+Needleman–Wunsch algorithm: find global alignment between two sequences
+Smith–Waterman algorithm: find local sequence alignment
+
+Subsequences
+Kadane's algorithm: finds maximum sub-array of any size
+Longest common subsequence problem: Find the longest subsequence common to all sequences in a set of sequences
+Longest increasing subsequence problem: Find the longest increasing subsequence of a given sequence
+Shortest common supersequence problem: Find the shortest supersequence that contains two or more sequences as subsequences
+
+Subsequence and substring
+https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+https://en.wikipedia.org/wiki/Longest_increasing_subsequence
+https://en.wikipedia.org/wiki/Longest_common_substring_problem
+https://en.wikipedia.org/wiki/N-gram
+
+Substrings
+Longest common substring problem
+Substring search
+Aho–Corasick string matching algorithm
+* [Boyer Moore Algorithm Wikipedia](https://en.wikipedia.org/wiki/Boyer_moore)
+Boyer–Moore–Horspool algorithm
+* [Knuth–Morris–Pratt (KMP) Algorithm Wikipedia](https://en.wikipedia.org/wiki/KMP_algorithm)
+* [Rabin-Karp Algorithm Wikipedia](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
+Zhu–Takaoka string matching algorithm
+Ukkonen's algorithm
+Matching wildcards
+Rich Salz' wildmat
+Krauss matching wildcards algorithm
+-->
+
 ### Graph Algorithms
 
 <!--
@@ -504,7 +648,7 @@ https://en.wikipedia.org/wiki/Graph_traversal
 https://en.wikipedia.org/wiki/Tree_traversal
 -->
 
-#### Graph search
+#### Graph Search
 
 <!--
 https://en.wikipedia.org/wiki/State_space_search
@@ -629,7 +773,6 @@ Nonblocking minimal spanning switch say, for a telephone exchange
 https://en.wikipedia.org/wiki/Nonblocking_minimal_spanning_switch
 
 Shortest path problem
-https://en.wikipedia.org/wiki/Shortest_path_problem
 Bellman–Ford algorithm: computes shortest paths in a weighted graph (where some of the edge weights may be negative)
 SPFA (optimization of Bellman-Ford algorithm)
 https://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm
@@ -639,6 +782,7 @@ Floyd–Warshall algorithm: solves the all pairs shortest path problem in a weig
 Johnson's algorithm: All pairs shortest path algorithm in sparse weighted directed graph
 
 Routing for Graphs- Shortest Path Problem
+* [Shortest Path Problem Wikipedia](https://en.wikipedia.org/wiki/Shortest_path_problem)
 * [Bellman Ford Algorithm Wikipedia](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 * [Dijkstra's Algorithm (Greedy Algorithm)) Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * [Floyd-Warshall Algorithm Wikipedia](https://en.wikipedia.org/wiki/Floyd_Warshall)
@@ -680,23 +824,7 @@ https://en.wikipedia.org/wiki/Hamiltonian_path_problem
 -->
 
 
-
-### More Greedy Algorithms
-
-Examples
-* Activity Selection
-* [Egyptian Fraction Wikipedia](https://en.wikipedia.org/wiki/Egyptian_fraction)
-* Fractional Knapsack
-* Hillclimber
-* [Huffman Coding Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
-* Job Sequencing
-* K Centers
-* Minimum Coins
-* Warshall
-
 ### Graph Algorithms
-
-
 
 Graph Algorithms
 * [Graph Coloring Wikipedia](https://en.wikipedia.org/wiki/Graph_coloring)
@@ -772,149 +900,111 @@ Not from Wikipedia
 * [Vertex Cover Wikipedia](https://en.wikipedia.org/wiki/Vertex_cover)
 -->
 
+### Sorting Algorithms
 
 <!--
-https://www.hackerrank.com/leaderboard
-https://www.hackerrank.com/jobs/search
-https://practice.geeksforgeeks.org/company-tags
-https://www.hackerrank.com/contests/w1/challenges
-https://www.hackerrank.com/challenges/challenges/problem
+http://bigocheatsheet.com/
 
-https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
-https://www.geeksforgeeks.org/competitive-programming-conquering-a-given-problem/
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
-https://www.geeksforgeeks.org/problem-solving-methodologies/
-https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
+Array Sorting Algorithms
 
-https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
+http://rosettacode.org/wiki/Category:Sorting_Algorithms
 
-https://www.cdn.geeksforgeeks.org/data-structures/#Misc
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/matrix/
+https://en.wikipedia.org/wiki/Category:Sorting_algorithms
 -->
 
 <!--
-Resources
-
-* [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
-
-https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
-https://www.tutorialspoint.com/python/python_searching_algorithms.htm
-https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
-https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
-
-Data Structures & Algorithms
-DSA - Home
-DSA - Overview
-DSA - Environment Setup
-
-Algorithm
-DSA - Algorithms Basics
-DSA - Asymptotic Analysis
-DSA - Greedy Algorithms
-DSA - Divide and Conquer
-DSA - Dynamic Programming
-http://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm
-
-Data Structures
-DSA - Data Structure Basics
-DSA - Array Data Structure
-
-Linked Lists
-DSA - Linked List Basics
-http://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm
-DSA - Doubly Linked List
-http://www.tutorialspoint.com/data_structures_algorithms/doubly_linked_list_algorithm.htm
-DSA - Circular Linked List
-http://www.tutorialspoint.com/data_structures_algorithms/circular_linked_list_algorithm.htm
-
-Stack & Queue
-DSA - Stack (LIFO)
-http://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm
-DSA - Expression Parsing
-DSA - Queue (FIFO)
-http://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
-
-Searching Techniques
-DSA - Linear Search
-http://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm
-DSA - Binary Search (Divide and Conquer)
-http://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
-DSA - Interpolation Search ("improved variant of binary search")
-http://www.tutorialspoint.com/data_structures_algorithms/interpolation_search_algorithm.htm
-DSA - Hash Table
-http://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm
-
-Sorting Techniques
-DSA - Sorting Algorithms
-DSA - Bubble Sort
-DSA - Insertion Sort
-DSA - Selection Sort
-DSA - Merge Sort
-DSA - Shell Sort
-DSA - Quick Sort
-
-Graph Data Structure
-DSA - Graph Data Structure
-http://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm
-DSA - Depth First Traversal
-DSA - Breadth First Traversal
-
-Tree Data Structure
-DSA - Tree Data Structure
-http://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm
-DSA - Tree Traversal
-DSA - Binary Search Tree
-http://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm
-DSA - AVL Tree
-http://www.tutorialspoint.com/data_structures_algorithms/avl_tree_algorithm.htm
-DSA - Spanning Tree
-DSA - Heap
-http://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm
-
-Recursion
-DSA - Recursion Basics
-DSA - Tower of Hanoi
-DSA - Fibonacci Series
-
-DSA Useful Resources
-DSA - Questions and Answers
-DSA - Quick Guide
-DSA - Useful Resources
-DSA - Discussion
-
-Selected Reading
-UPSC IAS Exams Notes
-Developer's Best Practices
-Questions and Answers
-Effective Resume Writing
-HR Interview Questions
-Computer Glossary
-Who is Who
-Data Structures & Algorithms (DSA) Tutorial
-Data Structure and Algorithms Tutorial
-    
-https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
-https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
-https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
-
-https://www.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning/a/where-to-go-from-here | (2) Where to go from here (article) | Algorithms | Khan Academy
-
-https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
-
-http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
-
-Python Sort Search
-Problem Solving with Algorithms and Data Structures Using Python
-https://runestone.academy/runestone/static/pythonds/index.html
-http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/KeyTerms.html | 2.9. Key Terms — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.html | 1.15. Key Terms — Problem Solving with Algorithms and Data Structures
-http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
+Merge Sort, Quick Sort and Heap Sort
+https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04
 -->
+
+<!--
+Explanations
+* Quicksort: divide list into two, with all items on the first list coming before all items on the second list.; then sort the two lists. Often the method of choice
+* Merge sort: sort the first and second half of the list separately, then merge the sorted lists
+* Heapsort: convert the list into a heap, keep removing the largest element from the heap and adding it to the end of the list
+* Selection sort: pick the smallest of the remaining elements, add it to the end of the sorted list
+* Bubble sort: for each pair of indices, swap the items if out of order
+* Cocktail shaker sort or bidirectional bubble sort, a bubble sort traversing the list alternately from front to back and back to front
+* Introsort: begin with quicksort and switch to heapsort when the recursion depth exceeds a certain level
+* Timsort: adaptative algorithm derived from merge sort and insertion sort. Used in Python 2.3 and up, and Java SE 7.
+* Insertion sort: determine where the current item belongs in the list of sorted ones, and insert it there
+* Shell sort: an attempt to improve insertion sort
+* Tree sort (binary tree sort): build binary tree, then traverse it to create sorted list
+* Cycle sort: in-place with theoretically optimal number of writes
+* Burstsort: build a compact, cache efficient burst trie and then traverse it to create sorted output
+* Postman sort: variant of Bucket sort which takes advantage of hierarchical structure
+* Radix sort: sorts strings letter by letter
+-->
+
+Sorting
+* [Sorting Wikipedia](https://en.wikipedia.org/wiki/Sorting)
+* [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
+Most Commonly Used
+* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
+* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
+* [Heapsort Wikipedia](http://en.wikipedia.org/wiki/Heapsort)
+
+Merge Sorts
+* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
+* [Strand Sort Wikipedia](https://en.wikipedia.org/wiki/Strand_sort)
+
+Selection Sorts
+* [Heapsort Wikipedia](http://en.wikipedia.org/wiki/Heapsort)
+* [Selection Sort Wikipedia](http://en.wikipedia.org/wiki/Selection_sort)
+* [Smoothsort Wikipedia](https://en.wikipedia.org/wiki/Smoothsort)
+
+Exchange Sorts
+* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
+* [Bubble Sort Wikipedia](http://en.wikipedia.org/wiki/Bubble_sort)
+* [Cocktail Shaker Sort (a.k.a. Shaker Sort) Wikipedia](https://en.wikipedia.org/wiki/Cocktail_shaker_sort)
+* [Comb Sort Wikipedia](https://en.wikipedia.org/wiki/Comb_sort)
+* [Gnome Sort Wikipedia](https://en.wikipedia.org/wiki/Gnome_sort)
+* [Odd–Even Sort](https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort)
+
+Insertion Sorts
+* [Insertion Sort Wikipedia](http://en.wikipedia.org/wiki/Insertion_sort)
+* [Library Sort Wikipedia](https://en.wikipedia.org/wiki/Library_sort)
+* [Patience Sort Wikipedia](https://en.wikipedia.org/wiki/Patience_sorting)
+* [Shellsort Wikipedia](http://en.wikipedia.org/wiki/Shellsort)
+* [Tree Sort Wikipedia](https://en.wikipedia.org/wiki/Tree_sort)
+* [Cycle Sort Wikipedia](https://en.wikipedia.org/wiki/Cycle_sort)
+
+Hybrid
+* [Timsort Wikipedia](http://en.wikipedia.org/wiki/Timsort)
+* [Flash Sort Wikipedia](https://en.wikipedia.org/wiki/Flashsort)
+* [Introsort Wikipedia](https://en.wikipedia.org/wiki/Introsort)
+
+Non-comparison Sorts
+* [Bead Sort Wikipedia](https://en.wikipedia.org/wiki/Bead_sort)
+* [Bucket Sort Wikipedia](http://en.wikipedia.org/wiki/Bucket_sort)
+* [Burst Sort Wikipedia](https://en.wikipedia.org/wiki/Burstsort)
+* [Counting Sort Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
+* [Pigeonhole Sort Wikipedia](https://en.wikipedia.org/wiki/Pigeonhole_sort)
+* [Postman Sort Wikipedia](https://en.wikipedia.org/wiki/Postman_sort)
+* [Radix Sort Wikipedia](http://en.wikipedia.org/wiki/Radix_sort)
+
+Unknown class
+* [Sample Sort Wikipedia](https://en.wikipedia.org/wiki/Samplesort)
+
+Other
+* [Bitonic Sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
+* [Pancake Sorting](https://en.wikipedia.org/wiki/Pancake_sorting)
+* [Spaghetti Sort](https://en.wikipedia.org/wiki/Spaghetti_sort)
+* [Topological Sort Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
+
+More Examples
+* [Counting Sort Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
+* [Cubesort Wikipedia](https://en.wikipedia.org/wiki/Cubesort)
+* Circle Sort
+* Median Sort
+* Sleep Sort
+
+Humorous/Ineffective
+* Bogo Sort
+* Stooge Sort
+
+
 
 ## Common Data Structure Operations
 
@@ -1087,113 +1177,39 @@ Sorted Lists
 * [Jump Search Wikipedia](https://en.wikipedia.org/wiki/Jump_search)
 * [Ternary Search Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
 
-### Sorting Algorithms
+
+### Selection Algorithms
+
+* [Selection Algorithm Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
+
+From Wikipedia
+* [Quick Select Wikipedia](https://en.wikipedia.org/wiki/Quickselect)
+* [Intro Select Wikipedia](https://en.wikipedia.org/wiki/Introselect)
+
+Examples
+* [Median of Medians Wikipedia](https://en.wikipedia.org/wiki/Median_of_medians)
 
 <!--
-http://bigocheatsheet.com/
+Not from Wikipedia
 
-Array Sorting Algorithms
-
-http://rosettacode.org/wiki/Category:Sorting_Algorithms
-
-https://en.wikipedia.org/wiki/Category:Sorting_algorithms
+* [Aho Corasick Algorithm Wikipedia](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+* Anagram Search
+* Arithmetic on Large Numbers
+* [Finite Automata (State Machine) Wikipedia](https://en.wikipedia.org/wiki/Finite_Automata)
+* Kasai Algorithm
+* Lipogram Checker
+* Manachar Algorithm
+* [Morse Code Wikipedia](https://en.wikipedia.org/wiki/Morse_code)
+* Naive Pattern Search
+* Palindrome Checker
+* Palindrome Substring
+* Pangram Checker
+* Password Strength Checker
+* Remove Dups
+* [Suffix Array Wikipedia](https://en.wikipedia.org/wiki/Suffix_array)
+* Trie Pattern Search
+* Z Algorithm
 -->
-
-<!--
-Merge Sort, Quick Sort and Heap Sort
-https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04
--->
-
-<!--
-Explanations
-* Quicksort: divide list into two, with all items on the first list coming before all items on the second list.; then sort the two lists. Often the method of choice
-* Merge sort: sort the first and second half of the list separately, then merge the sorted lists
-* Heapsort: convert the list into a heap, keep removing the largest element from the heap and adding it to the end of the list
-* Selection sort: pick the smallest of the remaining elements, add it to the end of the sorted list
-* Bubble sort: for each pair of indices, swap the items if out of order
-* Cocktail shaker sort or bidirectional bubble sort, a bubble sort traversing the list alternately from front to back and back to front
-* Introsort: begin with quicksort and switch to heapsort when the recursion depth exceeds a certain level
-* Timsort: adaptative algorithm derived from merge sort and insertion sort. Used in Python 2.3 and up, and Java SE 7.
-* Insertion sort: determine where the current item belongs in the list of sorted ones, and insert it there
-* Shell sort: an attempt to improve insertion sort
-* Tree sort (binary tree sort): build binary tree, then traverse it to create sorted list
-* Cycle sort: in-place with theoretically optimal number of writes
-* Burstsort: build a compact, cache efficient burst trie and then traverse it to create sorted output
-* Postman sort: variant of Bucket sort which takes advantage of hierarchical structure
-* Radix sort: sorts strings letter by letter
--->
-
-Sorting
-* [Sorting Wikipedia](https://en.wikipedia.org/wiki/Sorting)
-* [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
-
-Order
-* [Numerical Order Wikipedia](https://en.wikipedia.org/wiki/Numerical_order)
-* [Lexicographical Order (Alphabetical Order) Wikipedia](https://en.wikipedia.org/wiki/Lexicographical_order)
-
-Most Commonly Used
-* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
-* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
-* [Heapsort Wikipedia](http://en.wikipedia.org/wiki/Heapsort)
-
-Merge Sorts
-* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
-* [Strand Sort Wikipedia](https://en.wikipedia.org/wiki/Strand_sort)
-
-Selection Sorts
-* [Heapsort Wikipedia](http://en.wikipedia.org/wiki/Heapsort)
-* [Selection Sort Wikipedia](http://en.wikipedia.org/wiki/Selection_sort)
-* [Smoothsort Wikipedia](https://en.wikipedia.org/wiki/Smoothsort)
-
-Exchange Sorts
-* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
-* [Bubble Sort Wikipedia](http://en.wikipedia.org/wiki/Bubble_sort)
-* [Cocktail Shaker Sort (a.k.a. Shaker Sort) Wikipedia](https://en.wikipedia.org/wiki/Cocktail_shaker_sort)
-* [Comb Sort Wikipedia](https://en.wikipedia.org/wiki/Comb_sort)
-* [Gnome Sort Wikipedia](https://en.wikipedia.org/wiki/Gnome_sort)
-* [Odd–Even Sort](https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort)
-
-Insertion Sorts
-* [Insertion Sort Wikipedia](http://en.wikipedia.org/wiki/Insertion_sort)
-* [Library Sort Wikipedia](https://en.wikipedia.org/wiki/Library_sort)
-* [Patience Sort Wikipedia](https://en.wikipedia.org/wiki/Patience_sorting)
-* [Shellsort Wikipedia](http://en.wikipedia.org/wiki/Shellsort)
-* [Tree Sort Wikipedia](https://en.wikipedia.org/wiki/Tree_sort)
-* [Cycle Sort Wikipedia](https://en.wikipedia.org/wiki/Cycle_sort)
-
-Hybrid
-* [Timsort Wikipedia](http://en.wikipedia.org/wiki/Timsort)
-* [Flash Sort Wikipedia](https://en.wikipedia.org/wiki/Flashsort)
-* [Introsort Wikipedia](https://en.wikipedia.org/wiki/Introsort)
-
-Non-comparison Sorts
-* [Bead Sort Wikipedia](https://en.wikipedia.org/wiki/Bead_sort)
-* [Bucket Sort Wikipedia](http://en.wikipedia.org/wiki/Bucket_sort)
-* [Burst Sort Wikipedia](https://en.wikipedia.org/wiki/Burstsort)
-* [Counting Sort Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
-* [Pigeonhole Sort Wikipedia](https://en.wikipedia.org/wiki/Pigeonhole_sort)
-* [Postman Sort Wikipedia](https://en.wikipedia.org/wiki/Postman_sort)
-* [Radix Sort Wikipedia](http://en.wikipedia.org/wiki/Radix_sort)
-
-Unknown class
-* [Sample Sort Wikipedia](https://en.wikipedia.org/wiki/Samplesort)
-
-Other
-* [Bitonic Sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
-* [Pancake Sorting](https://en.wikipedia.org/wiki/Pancake_sorting)
-* [Spaghetti Sort](https://en.wikipedia.org/wiki/Spaghetti_sort)
-* [Topological Sort Wikipedia](https://en.wikipedia.org/wiki/Topological_sorting)
-
-More Examples
-* [Counting Sort Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
-* [Cubesort Wikipedia](https://en.wikipedia.org/wiki/Cubesort)
-* Circle Sort
-* Median Sort
-* Sleep Sort
-
-Humorous/Ineffective
-* Bogo Sort
-* Stooge Sort
 
 ### Mathematical Algorithms
 
@@ -1280,136 +1296,123 @@ https://en.wikipedia.org/wiki/Category:Mathematical_problems
 * Tribonacci Numbers
 * Tridiagonal Matrix
 
-### Selection Algorithms
-
-* [Selection Algorithm Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
-
-From Wikipedia
-* [Quick Select Wikipedia](https://en.wikipedia.org/wiki/Quickselect)
-* [Intro Select Wikipedia](https://en.wikipedia.org/wiki/Introselect)
-
-Examples
-* [Median of Medians Wikipedia](https://en.wikipedia.org/wiki/Median_of_medians)
-
-### Divide and Conquer
-
-* [Divide and Conquer Algorithm Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm)
-
-Divide and Conquer Algorithms
-* [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
-
-Examples
-* [Closest Pair of Points Problem Wikipedia](https://en.wikipedia.org/wiki/Closest_pair_problem)
-* Inversion Count
-* [Karatsuba Algorithm Wikipedia](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
-* Maximum Contiguous Subsequence Sum
-* Merge Sort Using Divide and Conquer
-* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
-* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
-* Tournament Method to Find Min Max
-* [Warnock Algorithm Wikipedia](https://en.wikipedia.org/wiki/Warnock_algorithm)
-* X Power Y
-
-### String Algorithms
-
-* [String Algorithm Wikipedia](https://en.wikipedia.org/wiki/String_algorithm)
-* [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
-
-Approximate Sequence Matching- General
-* [Bitap Algorithm Wikipedia](https://en.wikipedia.org/wiki/Bitap_algorithm)
-* [Trigram Search Wikipedia](https://en.wikipedia.org/wiki/Trigram_search)
-
-Approximate Sequence Matching- Phonetic Algorithms
-* [Phonetic Algorithms Wikipedia](https://en.wikipedia.org/wiki/Phonetic_algorithm)
-* [Daitch–Mokotoff Soundex Wikipedia](https://en.wikipedia.org/wiki/Daitch%E2%80%93Mokotoff_Soundex)
-* [Double Metaphone Wikipedia](https://en.wikipedia.org/wiki/Metaphone#Double_Metaphone)
-* [Match Rating Approach Wikipedia]()
-* [Metaphone Wikipedia](https://en.wikipedia.org/wiki/Match_rating_approach)
-* [New York State Identification and Intelligence System (NYSIIS) Wikipedia](https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System)
-* [Soundex Wikipedia](https://en.wikipedia.org/wiki/Soundex)
-
-Approximate Sequence Matching- String Metrics
-* [String Metrics Wikipedia](https://en.wikipedia.org/wiki/String_metrics)
-* [Damerau–Levenshtein Distance Wikipedia](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
-* [Dice's Coefficient Wikipedia](https://en.wikipedia.org/wiki/Dice%27s_coefficient)
-* [Hamming Distance Wikipedia](https://en.wikipedia.org/wiki/Hamming_distance)
-* [Jaro–Winkler Distance Wikipedia](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
-* [Levenshtein Edit Distance Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance)
-
-Sequence Search
-* [Linear Search Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
-* [Selection Algorithm Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
-* [Ternary Search Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
-
-Sequence Search- Sorted lists
-* [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
-* [Binary Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-* [Fibonacci Search Technique Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
-* [Jump Search (or Block Search) Wikipedia](https://en.wikipedia.org/wiki/Jump_search)
-* [Predictive Search Wikipedia](https://en.wikipedia.org/wiki/Interpolation_search)
-* [Uniform Binary Search Wikipedia](https://en.wikipedia.org/wiki/Uniform_binary_search)
-
-Sequence Merging
-* Simple Merge Algorithm
-* k-way Merge algorithm
-* Union (merge, with elements on the output not repeated)
-
-
 <!--
-https://en.wikipedia.org/wiki/Merge_algorithm
+Resources
 
-Sequence permutations
-Fisher–Yates shuffle (also known as the Knuth shuffle): randomly shuffle a finite set
-Schensted algorithm: constructs a pair of Young tableaux from a permutation
-Steinhaus–Johnson–Trotter algorithm (also known as the Johnson–Trotter algorithm): generate permutations by transposing elements
-Heap's permutation generation algorithm: interchange elements to generate next permutation
+* [Tutorials Point Design and Analysis of Algorithms](https://www.tutorialspoint.com/design_and_analysis_of_algorithms)
 
-Sequence alignment
-Dynamic time warping: measure similarity between two sequences which may vary in time or speed
-Hirschberg's algorithm: finds the least cost sequence alignment between two sequences, as measured by their Levenshtein distance
-Needleman–Wunsch algorithm: find global alignment between two sequences
-Smith–Waterman algorithm: find local sequence alignment
+https://www.tutorialspoint.com/python/python_data_structure.htm | Python - Data Structure Tutorial
+https://www.tutorialspoint.com/python/python_searching_algorithms.htm
+https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm | Data Structures Asymptotic Analysis
+https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm | Computer Programming Data Types
 
-Subsequences
-Kadane's algorithm: finds maximum sub-array of any size
-Longest common subsequence problem: Find the longest subsequence common to all sequences in a set of sequences
-Longest increasing subsequence problem: Find the longest increasing subsequence of a given sequence
-Shortest common supersequence problem: Find the shortest supersequence that contains two or more sequences as subsequences
+Data Structures & Algorithms
+DSA - Home
+DSA - Overview
+DSA - Environment Setup
 
-Substrings
-Longest common substring problem
-Substring search
-Aho–Corasick string matching algorithm
-* [Boyer Moore Algorithm Wikipedia](https://en.wikipedia.org/wiki/Boyer_moore)
-Boyer–Moore–Horspool algorithm
-* [Knuth–Morris–Pratt (KMP) Algorithm Wikipedia](https://en.wikipedia.org/wiki/KMP_algorithm)
-* [Rabin-Karp Algorithm Wikipedia](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
-Zhu–Takaoka string matching algorithm
-Ukkonen's algorithm
-Matching wildcards
-Rich Salz' wildmat
-Krauss matching wildcards algorithm
+Algorithm
+DSA - Algorithms Basics
+DSA - Asymptotic Analysis
+DSA - Greedy Algorithms
+DSA - Divide and Conquer
+DSA - Dynamic Programming
+http://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm
+
+Data Structures
+DSA - Data Structure Basics
+DSA - Array Data Structure
+
+Linked Lists
+DSA - Linked List Basics
+http://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm
+DSA - Doubly Linked List
+http://www.tutorialspoint.com/data_structures_algorithms/doubly_linked_list_algorithm.htm
+DSA - Circular Linked List
+http://www.tutorialspoint.com/data_structures_algorithms/circular_linked_list_algorithm.htm
+
+Stack & Queue
+DSA - Stack (LIFO)
+http://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm
+DSA - Expression Parsing
+DSA - Queue (FIFO)
+http://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
+
+Searching Techniques
+DSA - Linear Search
+http://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm
+DSA - Binary Search (Divide and Conquer)
+http://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
+DSA - Interpolation Search ("improved variant of binary search")
+http://www.tutorialspoint.com/data_structures_algorithms/interpolation_search_algorithm.htm
+DSA - Hash Table
+http://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm
+
+Sorting Techniques
+DSA - Sorting Algorithms
+DSA - Bubble Sort
+DSA - Insertion Sort
+DSA - Selection Sort
+DSA - Merge Sort
+DSA - Shell Sort
+DSA - Quick Sort
+
+Graph Data Structure
+DSA - Graph Data Structure
+http://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm
+DSA - Depth First Traversal
+DSA - Breadth First Traversal
+
+Tree Data Structure
+DSA - Tree Data Structure
+http://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm
+DSA - Tree Traversal
+DSA - Binary Search Tree
+http://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm
+DSA - AVL Tree
+http://www.tutorialspoint.com/data_structures_algorithms/avl_tree_algorithm.htm
+DSA - Spanning Tree
+DSA - Heap
+http://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm
+
+Recursion
+DSA - Recursion Basics
+DSA - Tower of Hanoi
+DSA - Fibonacci Series
+
+DSA Useful Resources
+DSA - Questions and Answers
+DSA - Quick Guide
+DSA - Useful Resources
+DSA - Discussion
+
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Structures & Algorithms (DSA) Tutorial
+Data Structure and Algorithms Tutorial
+    
+https://www.khanacademy.org/computing/computer-science/algorithms | Algorithms | Computer science | Computing | Khan Academy
+https://www.khanacademy.org/partner-content/dartmouth-college/dartmouth-algorithms | Learn Algorithms with Dartmouth College | Partner content | Khan Academy
+https://www.youtube.com/watch?v=CvSOaYi89B4 | What is an algorithm and why should you care? | Algorithms | Computer Science | Khan Academy - YouTube
+
+https://www.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning/a/where-to-go-from-here | (2) Where to go from here (article) | Algorithms | Khan Academy
+
+https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
+
+http://www.pythonworks.org/pythonds | pythonds - pythonworks.org
+
+Python Sort Search
+Problem Solving with Algorithms and Data Structures Using Python
+https://runestone.academy/runestone/static/pythonds/index.html
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/ProgrammingExercises.html | 1.17. Programming Exercises — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/KeyTerms.html | 2.9. Key Terms — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/Introduction/KeyTerms.html | 1.15. Key Terms — Problem Solving with Algorithms and Data Structures
+http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/BigONotation.html | 2.3. Big-O Notation — Problem Solving with Algorithms and Data Structures
 -->
-
-<!--
-Not from Wikipedia
-
-* [Aho Corasick Algorithm Wikipedia](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
-* Anagram Search
-* Arithmetic on Large Numbers
-* [Finite Automata (State Machine) Wikipedia](https://en.wikipedia.org/wiki/Finite_Automata)
-* Kasai Algorithm
-* Lipogram Checker
-* Manachar Algorithm
-* [Morse Code Wikipedia](https://en.wikipedia.org/wiki/Morse_code)
-* Naive Pattern Search
-* Palindrome Checker
-* Palindrome Substring
-* Pangram Checker
-* Password Strength Checker
-* Remove Dups
-* [Suffix Array Wikipedia](https://en.wikipedia.org/wiki/Suffix_array)
-* Trie Pattern Search
-* Z Algorithm
--->
-
