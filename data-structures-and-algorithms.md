@@ -336,7 +336,9 @@ Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 
-### Types of Algorithms
+## Types of Algorithms
+
+## Algorithms List
 
 Lists of Algorithms
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
@@ -388,6 +390,28 @@ https://www.geeksforgeeks.org/game-theory/
 -->
 
 <!--
+https://www.scriptol.com/programming/list-algorithms.php
+https://github.com/OpenGenus/cosmos
+
+Artificial intelligence 🤖
+Backtracking
+Bit manipulation
+Cellular automaton 🐚
+Compression algorithms
+Computational geometry ⚙️
+Cryptography
+Design pattern
+Dynamic programming
+Networking 🌐
+Numerical analysis 📈
+Online challenges
+Operating system 💻
+Randomized algorithms 🎰
+Square root decomposition
+Unclassified 👻
+-->
+
+<!--
 Greedy algorithm in optimization problems
 
 https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
@@ -401,6 +425,7 @@ https://xlinux.nist.gov/dads/HTML/divideAndConquer.html
 
 https://www.geeksforgeeks.org/decrease-and-conquer/
 
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
 https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
 https://en.wikipedia.org/wiki/Optimal_substructure
 https://en.wikipedia.org/wiki/Overlapping_subproblems
@@ -465,8 +490,6 @@ https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
 https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
-
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
 -->
 
 ### Graph Algorithms
@@ -484,16 +507,6 @@ https://en.wikipedia.org/wiki/Tree_traversal
 #### Graph search
 
 <!--
-Graph Search
-* [Bloom Filter Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
-* [Brute-Force Search Wikipedia](https://en.wikipedia.org/wiki/Brute-force_search)
-* [D* Wikipedia](https://en.wikipedia.org/wiki/D*)
-* [Dijkstra's Algorithm (Shortest Path) Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-* [General Problem Solver Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
-* [Uniform-Cost Search Wikipedia](https://en.wikipedia.org/wiki/Uniform-cost_search)
-* [SSS* Wikipedia](https://en.wikipedia.org/wiki/SSS*)
-
-
 https://en.wikipedia.org/wiki/State_space_search
 https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
 Further information: State space search and Graph search algorithm
@@ -546,11 +559,17 @@ https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
 
 
 
+Graph Search
+* [Bloom Filter Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
+* [Dijkstra's Algorithm (Shortest Path) Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
 Brute-force search: An exhaustive and reliable search method, but computationally inefficient in many applications.
-https://en.wikipedia.org/wiki/Brute-force_search
+
+* [Brute-Force Search Wikipedia](https://en.wikipedia.org/wiki/Brute-force_search)
 
 D*: an incremental heuristic search algorithm
-https://en.wikipedia.org/wiki/D*
+
+* [D* Wikipedia](https://en.wikipedia.org/wiki/D*)
 
 https://en.wikipedia.org/wiki/Minimax
 
@@ -564,11 +583,15 @@ https://en.wikipedia.org/wiki/Branch_and_bound
 https://en.wikipedia.org/wiki/Combinatorial_optimization
 British Museum
 https://en.wikipedia.org/wiki/British_Museum_algorithm
-Hill climbing
+Hill climbing (Greedy Algorithm?)
 https://en.wikipedia.org/wiki/Hill_climbing
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Local_search_(optimization)
 https://en.wikipedia.org/wiki/Iterative_method
+
+Types of Optimization
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Combinatorial_optimization
 
 A*
 SMA*
@@ -635,13 +658,14 @@ Routing for Graphs- Travelling Salesman Problem
 
 
 General Problem Solver: a seminal theorem-proving algorithm intended to work as a universal problem solver machine.
-https://en.wikipedia.org/wiki/General_Problem_Solver
+* [General Problem Solver Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
 Jump point search: An optimization to A* which may reduce computation time by an order of magnitude using further heuristics.
 https://en.wikipedia.org/wiki/Jump_point_search
 Uniform-cost search: a tree search that finds the lowest-cost route where costs vary
+* [Uniform-Cost Search Wikipedia](https://en.wikipedia.org/wiki/Uniform-cost_search)
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
 SSS*: state space search traversing a game tree in a best-first fashion similar to that of the A* search algorithm
-https://en.wikipedia.org/wiki/SSS*
+* [SSS* Wikipedia](https://en.wikipedia.org/wiki/SSS*)
 F*: Special algorithm to merge the two arrays
 https://en.wikipedia.org/wiki/F*_Merge_Algorithm
 
@@ -1036,29 +1060,6 @@ heap
    soft_heap
 -->
 
-## Algorithms List
-
-<!--
-https://www.scriptol.com/programming/list-algorithms.php
-https://github.com/OpenGenus/cosmos
-
-Artificial intelligence 🤖
-Backtracking
-Bit manipulation
-Cellular automaton 🐚
-Compression algorithms
-Computational geometry ⚙️
-Cryptography
-Design pattern
-Dynamic programming
-Networking 🌐
-Numerical analysis 📈
-Online challenges
-Operating system 💻
-Randomized algorithms 🎰
-Square root decomposition
-Unclassified 👻
--->
 
 ## Searching Techniques
 
