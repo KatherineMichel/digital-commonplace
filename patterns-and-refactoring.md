@@ -1,4 +1,4 @@
-# Lists
+# Patterns and Refactoring
 
 ## Programming Paradigms
 
