@@ -10,6 +10,18 @@ https://www.django-rest-framework.org/
 https://en.wikipedia.org/wiki/Test-driven_development
 https://docs.python.org/3/howto/pyporting.html
 
+https://guides.github.com/ | GitHub Guides
+https://opensource.google/docs/ | Docs – opensource.google.com
+
+https://google.github.io/opencasebook/ | Open Source Casebook
+https://github.com/github/balanced-employee-ip-agreement/blob/master/Balanced_Employee_IP_Agreement.md | balanced-employee-ip-agreement/Balanced_Employee_IP_Agreement.md at master · github/balanced-employee-ip-agreement
+
+Research
+https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
+https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
+
+https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
+
 https://techyaks.com/python-year-tytop.html
 
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team - JavaScript Scene - Medium
@@ -107,9 +119,8 @@ https://www.twitch.tv/anthonywritescode
 https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://github.com/asottile/babi | asottile/babi
-https://github.com/anthonywritescode/aoc2019/blob/master/day02/part1.sqlite.sql | aoc2019/part1.sqlite.sql at master · anthonywritescode/aoc2019
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
-https://github.com/anthonywritescode/aoc2019/blob/master/day03/part2.sh | aoc2019/part2.sh at master · anthonywritescode/aoc2019
+https://github.com/anthonywritescode/aoc2019/
 
 https://www.twitch.tv/lizthegrey
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
@@ -139,6 +150,9 @@ https://github.com/nice-boys/product-boilerplate
 
 https://traversymedia.com/
 https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
