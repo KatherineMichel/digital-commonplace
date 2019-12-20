@@ -24,8 +24,13 @@ https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
 
 https://techyaks.com/python-year-tytop.html
 
+https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
+https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
+
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team - JavaScript Scene - Medium
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
+https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
 
 https://daedtech.com/dont-learn-to-code-learn-to-automate/
 https://blog.codinghorror.com/please-dont-learn-to-code/
