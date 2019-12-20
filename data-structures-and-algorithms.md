@@ -298,6 +298,7 @@ String
 Also, examples of sequences
 https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/Sequence#Analysis
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
 -->
 
 ### Linear Data Structures
@@ -614,6 +615,8 @@ Kadane's algorithm: finds maximum sub-array of any size
 Longest common subsequence problem: Find the longest subsequence common to all sequences in a set of sequences
 Longest increasing subsequence problem: Find the longest increasing subsequence of a given sequence
 Shortest common supersequence problem: Find the shortest supersequence that contains two or more sequences as subsequences
+
+https://en.wikipedia.org/wiki/Subsequence | Subsequence - Wikipedia
 
 Subsequence and substring
 * [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
