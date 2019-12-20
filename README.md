@@ -5,6 +5,7 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://daedtech.com/dont-learn-to-code-learn-to-automate/
 https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
 https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
 
@@ -16,50 +17,23 @@ https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.
 
 https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
-https://github.com/djangocon/2019.djangocon.us/actions/new
-https://github.com/pinax/pinax/community
-
-https://twitter.com/KatiMichel/status/1204246112049123329
-
-https://docs.djangoproject.com/en/dev/internals/contributing/
-https://devguide.python.org/
-https://docs.pytest.org/en/latest/
-https://www.django-rest-framework.org/
-
-https://twitter.com/kennethreitz/status/1204348890721456128
-https://docs.python.org/3/howto/pyporting.html
-
-https://en.wikipedia.org/wiki/Test-driven_development
-
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-https://techyaks.com/python-year-tytop.html
-
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
-Panel: Open Source in Africa
-https://www.youtube.com/watch?v=CFvwIX-gjSI
-
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
+https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
+https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
 
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
 https://kk.org/thetechnium/1000-true-fans/
 
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 
-
-
+https://shellshare.net/
+https://asciinema.org asciinema
+https://www.asciiart.eu/ | ASCII Art Archive
 
 https://cs144.github.io/
-
-https://en.m.wikipedia.org/wiki/Five_whys
-
-https://en.wikipedia.org/wiki/ISC_license
-
-https://www.mapsofmind.com/publicmaps/f6a78a4cbb7a895048781a88303f72be
-
-https://twitter.com/froidotdev/status/1206273232799698947
 
 https://developers.google.com/machine-learning/crash-course
 
@@ -69,101 +43,6 @@ https://github.com/palashmon/awesome-js-posts
 https://github.com/andyttran/guide_to_algorithms
 https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
-
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-
-https://github.com/kamranahmedse/developer-roadmap
-https://roadmap.sh/
-
-https://ourmachinery.com/files/guidebook.md.html
-https://en.wikipedia.org/wiki/Data-oriented_design
-
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages
-
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-https://github.com/LappleApple/feedmereadmes
-
-https://www.talater.com/open-source-templates/#/
-
-https://pullpanda.com/
-https://github.com/pullreminders
-
-https://queue.acm.org/detail.cfm?id=3309571
-
-https://snarky.ca/setting-expectations-for-open-source-participation/
-
-https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
-http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
-https://stackoverflow.com/help/minimal-reproducible-example
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
-
-https://www.youtube.com/watch?v=5bvafq4zSUo
-https://www.youtube.com/watch?v=0ahRkhrOePo
-
-https://github.blog/2016-06-30-email-updates-about-your-own-activity/
-https://github.blog/2013-01-09-task-lists-in-gfm-issues-pulls-comments/
-
-https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates#pull-request-templates
-https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
-https://github.com/stevemao/github-issue-templates
-
-https://github.com/chaoss/metrics/blob/master/.github/CONTRIBUTING.md
-https://github.com/chaoss/metrics/blob/master/.github/FUNDING.yml
-https://github.com/chaoss/metrics/blob/master/RELEASING.md
-
-https://www.youtube.com/watch?v=cRJZldsHS3c
-https://queue.acm.org/detail.cfm?id=3341158
-
-https://twitter.com/mjambon/status/1204444405026807809
-
-https://labs.spotify.com/2019/10/01/solving-documentation-for-monoliths-and-monorepos/
-
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://www.mkdocs.org/user-guide/writing-your-docs/
-https://www.mkdocs.org/user-guide/deploying-your-docs/
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-https://squidfunk.github.io/mkdocs-material/getting-started/
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
-
-https://en.wikipedia.org/wiki/Application-release_automation
-https://developer.github.com/v3/repos/releases/#get-a-single-release
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
-
-Example
-https://github.com/python-poetry/poetry/releases/tag/1.0.0
-
-https://twitter.com/SemanticRelease
-https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
-https://github.com/commitizen/conventional-commit-types/
-https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-https://github.com/semantic-release/npm
-
-https://github.com/semantic-release/semantic-release/issues/1194
-https://github.com/semantic-release/git/issues/172#issuecomment-557203217
-
-https://erons.me/
-https://github.com/gr2m/twitter-together/issues/new?labels=feature&template=04_thanks.md
-https://github.com/gr2m/twitter-together#contribute
-
-https://circleci.com/docs/2.0/migrating-from-github/
-
-https://github.com/nodejs/changelog-maker
-https://github.com/nodejs/modules
-https://github.com/vuejs/vue-loader
-https://github.com/jsdom/jsdom
-
-https://graphql.org/learn/best-practices/
-https://developer.github.com/v4/guides/migrating-from-rest/
-
-
-
 
 SICP
 https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
@@ -188,13 +67,6 @@ National Vulnerability Database
 https://nvd.nist.gov/ | NVD - Home
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
-
-
-
-
-https://shellshare.net/
-https://asciinema.org asciinema
-https://www.asciiart.eu/ | ASCII Art Archive
 
 https://agilemanifesto.org/ | Manifesto for Agile Software Development
 
@@ -722,6 +594,9 @@ https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-scien
 
 https://github.com/asciimoo/ListOfGithubLists
 https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+
+https://github.com/kamranahmedse/developer-roadmap
+https://roadmap.sh/
 
 https://github.com/CyC2018/CS-Notes
 https://github.com/InterviewMap/CS-Interview-Knowledge-Map
