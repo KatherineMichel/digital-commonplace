@@ -3,6 +3,18 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://docs.djangoproject.com/en/dev/internals/contributing/
+https://devguide.python.org/
+https://docs.pytest.org/en/latest/
+https://www.django-rest-framework.org/
+https://en.wikipedia.org/wiki/Test-driven_development
+https://docs.python.org/3/howto/pyporting.html
+
+https://techyaks.com/python-year-tytop.html
+
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team - JavaScript Scene - Medium
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
 https://daedtech.com/dont-learn-to-code-learn-to-automate/
 https://blog.codinghorror.com/please-dont-learn-to-code/
 http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
@@ -987,6 +999,9 @@ https://developer.github.com/v3/
 GitHub GraphQL API
 https://developer.github.com/v4/
 
+https://graphql.org/learn/best-practices/
+https://developer.github.com/v4/guides/migrating-from-rest/
+
 Settings
 https://github.com/settings/apps
 https://github.com/settings/installations
@@ -1700,6 +1715,11 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 
 <!--
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
+
+https://github.com/nodejs/changelog-maker
+https://github.com/nodejs/modules
+https://github.com/vuejs/vue-loader
+https://github.com/jsdom/jsdom
 
 https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
@@ -2436,6 +2456,9 @@ Object Oriented Software Construction
 * [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
 
 <!--
+https://ourmachinery.com/files/guidebook.md.html
+https://en.wikipedia.org/wiki/Data-oriented_design
+
 Robert C. Martin
 https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
 
