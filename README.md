@@ -3,6 +3,10 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
+https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
+https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
+
 https://docs.djangoproject.com/en/dev/internals/contributing/
 https://devguide.python.org/
 https://docs.pytest.org/en/latest/
