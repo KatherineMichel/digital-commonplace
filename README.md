@@ -9,6 +9,11 @@ https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
 https://devguide.python.org/
+https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/devcycle/#devcycle | 17. Development Cycle — Python Developer's Guide
+https://devguide.python.org/devcycle/#indevbranch | 17. Development Cycle — Python Developer's Guide
+https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Python Developer's Guide
+
 https://docs.pytest.org/en/latest/
 https://www.django-rest-framework.org/
 https://en.wikipedia.org/wiki/Test-driven_development
@@ -66,7 +71,9 @@ https://shellshare.net/
 https://asciinema.org asciinema
 https://www.asciiart.eu/ | ASCII Art Archive
 
-https://cs144.github.io/
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
 https://developers.google.com/machine-learning/crash-course
 
@@ -913,6 +920,8 @@ https://github.com/jlord/reporobot
 https://github.com/gr2m/
 https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
 
+https://github.com/gr2m/twitter-together
+
 Probot
 https://github.com/probot/probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
@@ -992,8 +1001,10 @@ https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.g
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
 
 Important
+https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
 https://github.com/pypa/gh-action-pypi-publish/issues/2
 https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
 
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
