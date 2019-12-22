@@ -1063,6 +1063,7 @@ https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
 
 Payloads
 https://developer.github.com/webhooks/#payloads
+https://en.wikipedia.org/wiki/Payload_(computing)
 
 https://developer.github.com/v3/issues/comments/#create-a-comment
 https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
