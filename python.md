@@ -728,6 +728,8 @@ Coverage
 * [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
 
 <!--
+Pinax
+https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
 https://github.com/codecov/example-python#how-to-generate-coverage-reports
 "coverage.py is required to collect coverage metrics."
 -->
