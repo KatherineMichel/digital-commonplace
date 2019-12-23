@@ -19,6 +19,8 @@ https://www.django-rest-framework.org/
 https://en.wikipedia.org/wiki/Test-driven_development
 https://docs.python.org/3/howto/pyporting.html
 
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
+
 https://guides.github.com/ | GitHub Guides
 https://opensource.google/docs/ | Docs – opensource.google.com
 
@@ -968,6 +970,8 @@ https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketpl
 
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
+https://circleci.com/docs/2.0/migrating-from-github/
+
 Actions innovations
 https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
 https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
@@ -999,6 +1003,10 @@ GitHub Actions Matrix Demo
 https://twitter.com/webology/status/1201887760413528065
 https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
+
+GitHub Action CI Example from Jeff
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
 
 Important
 https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
@@ -1396,6 +1404,7 @@ https://chaoss.community/chaosscon-2020-eu/
 
 https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
 https://chaoss.github.io/grimoirelab-tutorial/ | GrimoireLab Tutorial | GrimoireLab Tutorial
+https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 https://chaoss.community/blog-post/2019/10/08/simplifying-how-to-install-grimoirelab/ | GrimoireLab Install - CHAOSS
 
 https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
