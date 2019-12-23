@@ -29,6 +29,16 @@ https://glasnt.com/talks/2017_08_PyConAU/#/
 https://guides.github.com/ | GitHub Guides
 https://opensource.google/docs/ | Docs – opensource.google.com
 
+https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
+
+https://opensource.guide/
+https://opensource.guide/best-practices/
+https://github.com/github/opensource.guide/tree/master/_articles
+https://opensource.guide/starting-a-project/
+https://opensource.guide/finding-users/
+https://opensource.guide/building-community/
+https://opensource.guide/leadership-and-governance/
+
 * [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
 
 https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
