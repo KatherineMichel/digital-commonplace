@@ -596,6 +596,11 @@ https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
 * [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
+https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
+
+https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
+https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
+
 https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
 
 https://snarky.ca/why-you-should-use-python-m-pip/
@@ -604,8 +609,14 @@ https://github.com/jazzband/pip-tools
 
 https://python-poetry.org/docs/pyproject/
 https://black.readthedocs.io/en/stable/pyproject_toml.html
-https://snarky.ca/clarifying-pep-518/
+
+pyproject.toml
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
+https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
+https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
+https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
+https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
+https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
 
 Pyenv and Pipenv
 https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
@@ -696,6 +707,11 @@ https://github.com/cucumber/gherkin-python
 * [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
 
 <!--
+https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
+https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
+https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
+https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
+
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
 
 https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
