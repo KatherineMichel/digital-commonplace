@@ -963,7 +963,6 @@ Semantic Release and Merge Release
 https://semantic-release.gitbook.io/semantic-release/
 https://github.com/semantic-release
 https://github.com/semantic-release/semantic-release
-https://github.com/marketplace/actions/action-for-semantic-release
 
 https://probot.github.io/apps/release-drafter/
 
