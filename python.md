@@ -698,6 +698,9 @@ https://github.com/cucumber/gherkin-python
 <!--
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
 
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+https://pypi.org/project/flake8-black/ | flake8-black · PyPI
+
 https://pre-commit.com/#python
 https://pre-commit.com/hooks.html
 
