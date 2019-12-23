@@ -931,9 +931,17 @@ https://probot.github.io/apps/ | Featured Apps | Probot
 https://probot.github.io/docs/hello-world/ | Hello world | Probot
 https://probot.github.io/apps/polls/ | Polls | Probot
 https://probot.github.io/apps/no-response/ | No Response | Probot
+https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+
+Make semantic-release compatible with GitHub Actions
+https://github.com/semantic-release/semantic-release/issues/1194
+Python Plugin
+https://github.com/semantic-release/git/issues/172#issuecomment-557203217
 
 https://github.com/probot/create-probot-app
 https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/JasonEtco/jasonet.co/pull/46/files
 
 https://octokit.github.io/rest.js/
 https://github.com/octokit/rest.js
@@ -943,15 +951,21 @@ https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework f
 https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
 https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
 
-
+https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
 https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/commitizen/conventional-commit-types/
+https://github.com/commitizen/conventional-commit-types/blob/master/index.json
 https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+https://github.com/semantic-release/npm
+https://twitter.com/SemanticRelease
 
 Semantic Release and Merge Release
 https://semantic-release.gitbook.io/semantic-release/
 https://github.com/semantic-release
 https://github.com/semantic-release/semantic-release
 https://github.com/marketplace/actions/action-for-semantic-release
+
+https://probot.github.io/apps/release-drafter/
 
 https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
 
@@ -1007,6 +1021,8 @@ https://help.github.com/en/actions/automating-your-workflow-with-github-actions/
 GitHub Action CI Example from Jeff
 https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
 https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
+
+https://developer.github.com/v3/repos/releases/#get-a-single-release
 
 Important
 https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
@@ -1283,9 +1299,15 @@ https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | 
 https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
 
 Bazel
-https://docs.bazel.build/versions/0.27.0/be/overview.html | Build Encyclopedia - Bazel 0.27.0
+https://docs.bazel.build/versions/master/bazel-overview.html | Bazel Overview - Bazel
 https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
 https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+https://bazel.build/ | Bazel - a fast, scalable, multi-language and extensible build system" - Bazel
+https://github.com/protocolbuffers/protobuf | protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format
+https://en.wikipedia.org/wiki/Remote_procedure_call | Remote procedure call - Wikipedia
+https://developers.google.com/protocol-buffers | Protocol Buffers  |  Google Developers
+https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protocol Buffers Instead of JSON for Your Next Service - Code Climate
+https://en.wikipedia.org/wiki/Protocol_Buffers | Protocol Buffers - Wikipedia
 -->
 
 Google re:Work
