@@ -1008,6 +1008,7 @@ https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/
 
 Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
 
 https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
 https://twitter.com/bitandbang/status/1159514802596777984
