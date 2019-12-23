@@ -19,6 +19,8 @@ https://www.django-rest-framework.org/
 https://en.wikipedia.org/wiki/Test-driven_development
 https://docs.python.org/3/howto/pyporting.html
 
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 
 https://guides.github.com/ | GitHub Guides
