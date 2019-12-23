@@ -23,17 +23,49 @@ https://www.quora.com/What-are-some-common-trade-offs-in-software-development | 
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+https://glasnt.com/talks/2017_08_PyConAU/#/
+
 https://guides.github.com/ | GitHub Guides
 https://opensource.google/docs/ | Docs – opensource.google.com
 
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://github.com/google | Google
+https://landing.google.com/sre/books/ | Google - Site Reliability Engineering
+https://landing.google.com/sre/sre-book/toc/index.html | Google - Site Reliability Engineering
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://opensource.org/approval | The License Review Process | Open Source Initiative
+
+https://en.wikipedia.org/wiki/Transitive_dependency | Transitive dependency - Wikipedia
+https://producingoss.com/ | Producing Open Source Software
+https://producingoss.com/en/producingoss-letter.pdf | Producing Open Source Software - How to Run a Successful Free Software Project
+http://www.hyrumwright.org/papers/icse2012.pdf | Release Engineering Practices and Pitfalls
+
 https://google.github.io/opencasebook/ | Open Source Casebook
 https://github.com/github/balanced-employee-ip-agreement/blob/master/Balanced_Employee_IP_Agreement.md | balanced-employee-ip-agreement/Balanced_Employee_IP_Agreement.md at master · github/balanced-employee-ip-agreement
+
+Contributing to Open Source: A Guide
+https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
+http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
+https://stackoverflow.com/help/minimal-reproducible-example
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
 
 Research
 https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
 https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
 
 https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://twitter.com/jackdied/status/1208057936007892994 | Jack Diederich on Twitter: "I've been saying this since before class decorators were a thing! see also https://t.co/vAeThtrnkg https://t.co/YXzi3ZpYx4" / Twitter
 
 https://techyaks.com/python-year-tytop.html
 
@@ -191,8 +223,9 @@ https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-de
 Google Cloud Django/Python
 https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
--->
 
+https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
+-->
 
 ## Django
 
@@ -344,6 +377,8 @@ https://repl.it/site/blog/github
 https://twitter.com/amasad/status/1204843691682091008
 
 https://repl.it/site/blog/packager
+
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
 
 https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -577,6 +612,9 @@ http://behaviormodel.org/ | BJ Fogg's Behavior Model
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
 
@@ -646,8 +684,6 @@ https://roadmap.sh/
 
 https://github.com/CyC2018/CS-Notes
 https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 https://github.com/dwmkerr/hacker-laws#goodharts-law
 https://btholt.github.io/four-semesters-of-cs/
 https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
@@ -657,8 +693,6 @@ https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipa
 https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
 https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
 https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
 https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
 https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
@@ -921,6 +955,8 @@ https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 
 https://github.com/jlord/reporobot
 
+https://github.com/muan/paint-github | muan/paint-github: [WebExtension] Draw your GitHub comment.
+
 https://github.com/gr2m/
 https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
 
@@ -987,12 +1023,15 @@ https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's 
 
 https://circleci.com/docs/2.0/migrating-from-github/
 
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
+
 Actions innovations
 https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
 https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
 
 https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
 
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
@@ -1719,14 +1758,15 @@ https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide f
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 * [Principles of Chaos Engineering](http://principlesofchaos.org)
 
-Site Reliability Engineering
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
 High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
 <!--
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+Systems
+
 https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
 
 https://microservice.guide/ | Open Microservice Guide
