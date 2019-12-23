@@ -700,6 +700,11 @@ attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-co
 
 https://pre-commit.com/#python
 https://pre-commit.com/hooks.html
+
+http://linter-runner.com
+https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 -->
 
 ## Eldarion
