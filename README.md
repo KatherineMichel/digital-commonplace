@@ -759,6 +759,9 @@ TODO
 GitHub Open Source Guide
 * [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
+GitHub Guides
+* [GitHub Guides](https://guides.github.com/)
+
 Google Open Source Docs
 * [Google Open Source Docs](https://opensource.google.com/docs)
 * [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
