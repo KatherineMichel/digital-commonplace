@@ -21,6 +21,16 @@ https://www.django-rest-framework.org/
 https://en.wikipedia.org/wiki/Test-driven_development
 https://docs.python.org/3/howto/pyporting.html
 
+Important!
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+http://pythontesting.net/start-here/
+
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
