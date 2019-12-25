@@ -852,7 +852,7 @@ https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
 https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 
-https://coverage.readthedocs.io/en/coverage-4.4.2/config.html | Configuration files — Coverage.py 4.4.2 documentation
+https://coverage.readthedocs.io/en/coverage-5.0/config.html | Configuration files — Coverage.py 4.4.2 documentation
 
 http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
 
