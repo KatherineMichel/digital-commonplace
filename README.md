@@ -11,6 +11,7 @@ default dict counter sets - Google Search
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
 https://devguide.python.org/
+https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle/#devcycle | 17. Development Cycle — Python Developer's Guide
 https://devguide.python.org/devcycle/#indevbranch | 17. Development Cycle — Python Developer's Guide
