@@ -94,7 +94,6 @@ https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-
 https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
 
 SICP
-https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/toc.html | Structure and Interpretation of Classical Mechanics: Table of Contents
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
