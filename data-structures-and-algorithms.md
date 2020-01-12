@@ -361,7 +361,15 @@ Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 
-## Types of Algorithms
+<!--
+Analysis of Algorithms
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+
+Uncle Bob Martin: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration."
+https://en.wikipedia.org/wiki/Control_flow
+
+https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
+-->
 
 ## Algorithms List
 
@@ -400,14 +408,6 @@ Strings
 * [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
 
 <!--
-Divide and Conquer Algorithms
-* [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
-
-https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
-https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
-https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
-https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
-
 Fibonnaci
 https://en.wikipedia.org/wiki/Time_complexity#Exponential_time
 
@@ -422,46 +422,8 @@ Backtracking
 Decision Problem – In this, we search for a feasible solution.
 Optimization Problem – In this, we search for the best solution.
 Enumeration Problem – In this, we find all feasible solutions.
-
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-Types of Algorithms
-https://www.geeksforgeeks.org/searching-algorithms/
-https://www.geeksforgeeks.org/sorting-algorithms/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/bitwise-algorithms/
-https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
-https://www.geeksforgeeks.org/geometric-algorithms/
-https://www.geeksforgeeks.org/mathematical-algorithms/
-https://www.geeksforgeeks.org/randomized-algorithms/
-https://www.geeksforgeeks.org/game-theory/
 -->
 
-<!--
-https://www.scriptol.com/programming/list-algorithms.php
-https://github.com/OpenGenus/cosmos
-
-Artificial intelligence 🤖
-Backtracking
-Bit manipulation
-Cellular automaton 🐚
-Compression algorithms
-Computational geometry ⚙️
-Cryptography
-Design pattern
-Dynamic programming
-Networking 🌐
-Numerical analysis 📈
-Online challenges
-Operating system 💻
-Randomized algorithms 🎰
-Square root decomposition
-Unclassified 👻
--->
 
 <!--
 Greedy algorithm in optimization problems
@@ -505,13 +467,6 @@ https://ide.geeksforgeeks.org/12C5bP
 https://xlinux.nist.gov/dads/HTML/optimization.html
 https://xlinux.nist.gov/dads/HTML/optimalsoltn.html
 
-Analysis of Algorithms
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
-
-https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
-
-Uncle Bob Martin: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration."
-https://en.wikipedia.org/wiki/Control_flow
 
 https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
@@ -524,20 +479,59 @@ https://en.wikipedia.org/wiki/Division_algorithm
 https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
 -->
 
+
+## Types of Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+Types of Algorithms
+https://www.geeksforgeeks.org/searching-algorithms/
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/bitwise-algorithms/
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.geeksforgeeks.org/geometric-algorithms/
+https://www.geeksforgeeks.org/mathematical-algorithms/
+https://www.geeksforgeeks.org/randomized-algorithms/
+https://www.geeksforgeeks.org/game-theory/
+
+https://www.scriptol.com/programming/list-algorithms.php
+https://github.com/OpenGenus/cosmos
+https://github.com/OpenGenus/cosmos#cosmic-structure
+-->
+
 ### Divide and Conquer Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
+-->
+
+Divide and Conquer Algorithms
+* [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
+
+Sorts
+* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
+* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
 
 Examples
 * [Closest Pair of Points Problem Wikipedia](https://en.wikipedia.org/wiki/Closest_pair_problem)
 * Inversion Count
 * [Karatsuba Algorithm Wikipedia](https://en.wikipedia.org/wiki/Karatsuba_algorithm)
 * Maximum Contiguous Subsequence Sum
-* [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
-* [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
 * Tournament Method to Find Min Max
 * [Warnock Algorithm Wikipedia](https://en.wikipedia.org/wiki/Warnock_algorithm)
 * X Power Y
 
 ### Greedy Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
+-->
 
 Examples	
 * Activity Selection	
@@ -552,6 +546,23 @@ Examples
 * Minimum Coins	
 * Prim Minimum Spanning Tree	
 * Warshall
+
+### Dynamic Programming
+
+<!--
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+-->
+
+### Prune and Search
+
+### Brute Force Search
+
+### Backtracking
+
+### Branch and Bound
+
+
 
 ### String Algorithms
 
