@@ -138,13 +138,15 @@ https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 https://adventofcode.com/2019/day/1
 
 https://github.com/asottile/
-https://github.com/anthonywritescode
-https://www.twitch.tv/anthonywritescode
+https://github.com/asottile-archive
 https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
-https://github.com/asottile/babi | asottile/babi
+https://www.twitch.tv/anthonywritescode
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
+https://github.com/anthonywritescode
+https://github.com/asottile/babi | asottile/babi
 https://github.com/anthonywritescode/aoc2019/
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+https://github.com/pre-commit/pre-commit/issues/1260
 
 https://www.twitch.tv/lizthegrey
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
