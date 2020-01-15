@@ -3,11 +3,25 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Problem solving
 https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
 https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
 https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
 
 default dict counter sets - Google Search
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
+
+Release
+https://twitter.com/brettsky/status/1216051044095946752
+https://twitter.com/VictorStinner/status/1216061972543868929
+https://github.com/vstinner/pyperf/blob/master/setup.py
+
+https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
 https://devguide.python.org/
@@ -20,7 +34,11 @@ https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Py
 https://docs.pytest.org/en/latest/
 https://www.django-rest-framework.org/
 https://en.wikipedia.org/wiki/Test-driven_development
+
+Porting
 https://docs.python.org/3/howto/pyporting.html
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+
 
 Important!
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
@@ -36,6 +54,8 @@ https://www.quora.com/What-are-some-common-trade-offs-in-software-development | 
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 
+
+
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 https://twitter.com/jackdied/status/1208057936007892994 | Jack Diederich on Twitter: "I've been saying this since before class decorators were a thing! see also https://t.co/vAeThtrnkg https://t.co/YXzi3ZpYx4" / Twitter
@@ -45,7 +65,11 @@ https://techyaks.com/python-year-tytop.html
 https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
 https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
 
+https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef | Getting to 10x (Results): What Any Developer Can Learn from the Best
 https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team - JavaScript Scene - Medium
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
