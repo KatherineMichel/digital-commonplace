@@ -21,8 +21,9 @@
 ## Request and Response Cycle, HTTP
 ## Web Browser, Client/Server
 
-
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
 
 https://docs.python.org/3/howto/pyporting.html
 
@@ -37,10 +38,6 @@ https://traversymedia.com/
 <!--
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-The 39 most powerful female engineers of 2018
-https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
-https://www.forbes.com/top-tech-women/#17ee38b74df0
 
 
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
@@ -383,12 +380,7 @@ https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
 
 https://zeit.co/github | ZEIT Now for GitHub - ZEIT
 
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
 https://web.dev/ | web.dev  |  web.dev
-
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
@@ -502,9 +494,6 @@ Databases
 ## Software Design Patterns
 
 ## Clean Architecture in Python and Django
-
-Object-Oriented Programming
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
 
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
