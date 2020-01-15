@@ -24,17 +24,9 @@
 
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 
-https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
-
 https://docs.python.org/3/howto/pyporting.html
 
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-
-https://devchecklists.com/vintas-high-quality-standards/
-
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 http://en.wikipedia.org/wiki/Technology_roadmap
 
@@ -46,23 +38,10 @@ https://traversymedia.com/
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
-https://fourminutebooks.com/the-courage-to-be-disliked-summary/
-
 The 39 most powerful female engineers of 2018
 https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
 https://www.forbes.com/top-tech-women/#17ee38b74df0
 
-* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-
-https://www.django-rest-framework.org/
-
-
-## Languages and Frameworks (Other than Python and Django)
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
 
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
@@ -87,19 +66,11 @@ https://github.com/andyttran/guide_to_algorithms
 https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
 
-https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
-
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
 https://techyaks.com/python-year-tytop.html
-
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-http://pythontesting.net/start-here/
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
@@ -117,9 +88,6 @@ Meditation
 https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
 
 https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
-
-Mind-Body Connection
-* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
 
 Fear Setting
 * [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
@@ -142,8 +110,6 @@ benjamin franklin habits - Google Search
 -->
 
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
 Personal Advice
 * [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
@@ -176,35 +142,16 @@ Memory Methods
 A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
-https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
-
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
 
 http://www.camilletalk.com/ | Camille Fournier
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-Engineering Management
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
 https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-Scaling Engineering
-* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef | Getting to 10x (Results): What Any Developer Can Learn from the Best
-https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021 | How to Build a High Velocity Development Team - JavaScript Scene - Medium
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 
 Problem solving
 https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
@@ -238,9 +185,20 @@ https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Py
 
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
 
+Python Environment
+* [xkcd: Python Environment](https://xkcd.com/1987)
+* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
+* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
+
 [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) and [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development) are two approaches.
 
 * [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+http://pythontesting.net/start-here/
 
 https://docs.pytest.org/en/latest/
 
@@ -263,6 +221,12 @@ https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.Transact
 
 "[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
 "[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
+
+https://devchecklists.com/vintas-high-quality-standards/
+
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 ## Coding Practice
 
