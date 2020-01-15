@@ -44,6 +44,8 @@ Python Profiling
 
 Third Party Testing and Profiling
 
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
 https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
 
 https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
@@ -626,6 +628,23 @@ https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
 * [Dephell GitHub](https://github.com/dephell/dephell)
 
 <!--
+pip
+https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
+https://pypi.org/project/pip/ | pip · PyPI
+
+Options
+The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
+https://github.com/pypa/pipfile/issues/27
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/#requirements-files
+https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
+https://github.com/pypa/pipfile
+https://github.com/pypa/pipfile#the-concept
+
+Virtualenv and Pyenv
+https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 
 https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
@@ -637,9 +656,6 @@ https://snarky.ca/why-you-should-use-python-m-pip/
 
 https://github.com/jazzband/pip-tools
 
-https://python-poetry.org/docs/pyproject/
-https://black.readthedocs.io/en/stable/pyproject_toml.html
-
 pyproject.toml
 https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
 https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
@@ -648,25 +664,16 @@ https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 
 https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
 https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
 
-Pyenv and Pipenv
-https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
-https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
-
-The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
-https://github.com/pypa/pipfile/issues/27
-
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
+https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
 
 https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
 http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
+https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
+https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
 
-https://github.com/pypa/pipfile
-https://github.com/pypa/pipfile#the-concept
-
-https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://github.com/sdispater/poetry
+https://python-poetry.org/docs/pyproject/
+https://black.readthedocs.io/en/stable/pyproject_toml.html
 -->
 
 ## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
