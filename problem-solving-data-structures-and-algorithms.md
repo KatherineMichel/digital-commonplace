@@ -1,6 +1,9 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
+Anthony
+default dict counter sets - Google Search
+
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
 
 Problem solving
