@@ -25,6 +25,10 @@ Practice
 
 <!--
 https://adventofcode.com/2019/day/1
+
+https://www.geeksforgeeks.org/category/program-output/
+https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/
+https://www.youtube.com/geeksforgeeksvideos/
 -->
 
 ## Python- Coding Practice
