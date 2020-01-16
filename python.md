@@ -1,6 +1,23 @@
 # Python
 
 <!--
+https://github.com/jakevdp/WhirlwindTourOfPython
+https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
+
+https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
+
+Wagtail
+https://www.accordbox.com/blog/wagtail-tutorials/ | Wagtail Tutorial Series | AccordBox
+https://madewithwagtail.org/ | Made with Wagtail
+https://github.com/springload/awesome-wagtail | GitHub - springload/awesome-wagtail: A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+https://www.youtube.com/watch?v=ICKYMO0YoFI&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV | Wagtail Space US 2018: Tom Dyson, 'Wagtail in 2018' - YouTube
+￼https://control.divio.com/demo/get-new/wagtail/ | Divio - Divio wagtail website
+https://github.com/wagtail/wagtail | wagtail/wagtail: A Django content management system focused on flexibility and user experience
+
 https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
