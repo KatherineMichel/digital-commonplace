@@ -64,11 +64,6 @@ value effort matrix
 Eisenhower Matrix
 * [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
 
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
-
 https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
 
 Fear Setting
@@ -252,7 +247,7 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 ## Python and JavaScript
 
 One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic)
 * [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
 
 Python vs. JavaScript
@@ -643,7 +638,6 @@ https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipa
 https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
 https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
 https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
 https://github.com/imposters-handbook | Imposter's Handbook
 https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
 
@@ -654,8 +648,6 @@ https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Ski
 https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
 https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
 https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
 
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
