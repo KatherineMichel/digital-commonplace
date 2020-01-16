@@ -1,11 +1,15 @@
 # Problem Solving, Data Structures, and Algorithms
 
+<!--
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
+
 Problem solving
 https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
 https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
 https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+-->
 
 ## Coding Practice
 
