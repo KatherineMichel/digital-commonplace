@@ -13,9 +13,6 @@ https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.
 
 https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
-https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
-https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
-
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
 https://kk.org/thetechnium/1000-true-fans/
@@ -28,6 +25,10 @@ https://www.asciiart.eu/ | ASCII Art Archive
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 
 
 Anthony
@@ -46,23 +47,20 @@ https://github.com/vstinner/pyperf/blob/master/setup.py
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
 
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
 https://techyaks.com/python-year-tytop.html
-
-https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
-https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
 
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
+https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
 https://developers.google.com/machine-learning/crash-course
 
+https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
 https://github.com/sohamkamani/javascript-design-patterns-for-humans
 https://github.com/trekhleb/javascript-algorithms
 https://github.com/palashmon/awesome-js-posts
@@ -74,14 +72,10 @@ SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
-https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
-
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
 Computer Architecture
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
-
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
 
 National Vulnerability Database
 https://nvd.nist.gov/ | NVD - Home
@@ -89,35 +83,13 @@ https://nvd.nist.gov/ | NVD - Home
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
 https://agilemanifesto.org/ | Manifesto for Agile Software Development
-
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-VS Code Testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
 -->
 
 <!--
 Projects
 https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 
-https://github.com/asottile/
-https://github.com/asottile-archive
-https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
-https://www.twitch.tv/anthonywritescode
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
-https://github.com/anthonywritescode
-https://github.com/asottile/babi | asottile/babi
-https://github.com/anthonywritescode/aoc2019/
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
-https://github.com/pre-commit/pre-commit/issues/1260
+Anthony Sottile
 
 https://www.twitch.tv/lizthegrey
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
@@ -170,6 +142,15 @@ https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
 https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
+-->
+
+## Health
+
+<!--
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
 -->
 
 ## Priorities
@@ -306,6 +287,12 @@ Programming Language Leveling Up and Comparison Sites
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
+<!--
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+-->
+
 ## Languages and Frameworks (Other than Python and Django)
 
 Object-Oriented Programming Languages
@@ -419,19 +406,31 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
 https://codewith.mu/ | Code With Mu
-
-https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
-
-VC Studio Code
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
 
 https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
 
 https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
 
+VS Code Testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+
+https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
+
 https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+
+
+VC Studio Code
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+
 https://marketplace.visualstudio.com/vscode
 
 https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
@@ -629,51 +628,11 @@ https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live S
 
 http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
 
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
--->
-
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Files
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-<!--
-https://en.wikipedia.org/wiki/Shell_script
-
-https://en.wikipedia.org/wiki/SQL
 -->
 
 ## Open Source in Orgs
@@ -826,7 +785,6 @@ Data-Driven OS
 https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 https://muse.dev/reports/software-supply-chain-report-2019.pdf | software-supply-chain-report-2019.pdf
 https://www.youtube.com/watch?v=YoWkuFzEYFs | A data-driven look at practices behind exemplar open source projects - GitHub Universe 2019 - YouTube
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
 https://www.amazon.com/gp/product/B078Y98RG8/ref=as_li_tl?ie=UTF8&tag=itrevpre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078Y98RG8&linkId=deec657dd0b2215d33db7c148a712446 | Amazon.com: The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win eBook: Gene Kim, Kevin Behr, George Spafford: Kindle Store
 https://www.amazon.com/Gene-Kim/e/B00AERCJ9E/ref=dp_byline_cont_ebooks_3 | https://www.amazon.com/Gene-Kim/e/B00AERCJ9E/ref=dp_byline_cont_ebooks_3
 https://www.sonatype.com/en-us/2019ssc | State of Software Supply Chain 2019 Report | Download
@@ -2472,40 +2430,35 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+https://refactoring.com/
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
 https://refactoring.com/catalog/
+
+https://python-patterns.guide/
+https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
+https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
 
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
 https://martinfowler.com/articles/products-over-projects.html
--->
-
-<!--
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-http://aosabook.org/en/index.html | The Architecture of Open Source Applications
-
-https://refactoring.com/
-https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
-https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://python-patterns.guide/
 
 https://www.kentbeck.com/ | KentBeck.com
 
 http://stevemcconnell.com/books/
 http://www.cc2e.com
 https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
 
 ???
 http://wiki.c2.com/ | Welcome Visitors
@@ -3042,30 +2995,25 @@ software development competency framework
 https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 -->
 
 ## Engineering Management
 
 <!--
+Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+
 https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
 https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
 https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
 
-Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-Engineering Management
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
-https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
-
 https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
 https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
+
+https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
 
 https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
 
@@ -3073,7 +3021,13 @@ https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engin
 
 http://www.camilletalk.com/ | Camille Fournier
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
 
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
@@ -3130,8 +3084,6 @@ https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Ref
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 -->
 
 ## Web Development- General
@@ -3247,6 +3199,7 @@ The 39 most powerful female engineers of 2018
 https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
 https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+https://www.forbes.com/top-tech-women/#17ee38b74df0
 
 * [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 
@@ -3254,7 +3207,6 @@ https://en.wikipedia.org/wiki/Alan_Turing
 https://en.wikipedia.org/wiki/Alonzo_Church
 https://en.wikipedia.org/wiki/Claude_Shannon
 
-https://www.forbes.com/top-tech-women/#17ee38b74df0
 https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepreneurs | Inc.com
 https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
@@ -3273,7 +3225,6 @@ Mind-Body Connection
 * [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
 
 Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 * [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
 
 Sleep
@@ -3283,7 +3234,6 @@ Sleep
 <!--
 https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
 
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
 https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
 
 https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
