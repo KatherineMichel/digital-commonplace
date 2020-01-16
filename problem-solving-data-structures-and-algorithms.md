@@ -13,12 +13,33 @@ https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin
 
 ## Coding Practice
 
-https://adventofcode.com/2019/day/1
+Math/Programming Problems and Projects
+* [Project Euler Problems](http://projecteuler.net/problems) 
 
+Practice
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com)
 * [100 Days of Code](http://www.100daysofcode.com)
+* [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
+
+<!--
+https://adventofcode.com/2019/day/1
+-->
+
+## Python- Coding Practice
+
+Python Challenges
+* [Exercism Python](https://exercism.io/tracks/python)
+* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
+* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
+* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
+* [Python Morsels](https://www.pythonmorsels.com)
+
+<!--
+Python projects
+https://t.co/rzvAPV1wXl | https://glitch.com/@python
+-->
 
 ## Interviewing
 
