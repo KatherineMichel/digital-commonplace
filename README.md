@@ -3478,7 +3478,7 @@ Marshall Goldsmith
 
 Habit Engineering
 * [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816 )
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
 
 <!--
 https://threader.app/thread/1078647576201703427 | A thread written by @ali01
