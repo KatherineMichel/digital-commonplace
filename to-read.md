@@ -21,9 +21,6 @@
 ## Request and Response Cycle, HTTP
 ## Web Browser, Client/Server
 
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
 
 https://docs.python.org/3/howto/pyporting.html
 
@@ -31,27 +28,19 @@ http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 
 http://en.wikipedia.org/wiki/Technology_roadmap
 
-https://traversymedia.com/
-
 
 
 <!--
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 
-https://github.com/asottile/
-https://github.com/asottile-archive
-https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
-https://www.twitch.tv/anthonywritescode
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
-https://github.com/anthonywritescode
-https://github.com/asottile/babi | asottile/babi
-https://github.com/anthonywritescode/aoc2019/
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+https://traversymedia.com/
+
+Anthony Sottile
 https://github.com/pre-commit/pre-commit/issues/1260
 
 https://github.com/sohamkamani/javascript-design-patterns-for-humans
@@ -64,8 +53,6 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
-https://techyaks.com/python-year-tytop.html
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
@@ -132,8 +119,10 @@ Memory Methods
 
 * [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
 A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
 
@@ -183,6 +172,9 @@ Python Environment
 
 * [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
 
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
@@ -219,19 +211,11 @@ https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 ## Competitive Programming
 
-Coding Competitions
-* Kaggle
-* Hackathons
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 * Project-Based Learning
 
 <!--
 https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
 ## Project-Based Learning
@@ -315,9 +299,9 @@ React and Vue
 https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
-* [Zeit next.js](https://github.com/zeit/next.js) 
-
 https://www.netlify.com/features/ | Features | Netlify
+
+* [Zeit next.js](https://github.com/zeit/next.js) 
 
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
@@ -340,9 +324,9 @@ Makers
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
 
 Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify GitHub](https://github.com/netlify)
 * [Repl.it](https://repl.it)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+* [Zeit GitHub](https://github.com/zeit)
 
 ## Productivity
 
@@ -356,11 +340,6 @@ Python and Visual Studio Code
 
 <!--
 Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
 
 VS Code Testing
 https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
@@ -397,8 +376,6 @@ Software Engineering/Development
 Requirements
 
 Technical
-* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
-* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
 * [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
 * [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
 * Objective, Assumption, Constraint
@@ -455,25 +432,20 @@ Checklists
 * [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 <!--
+https://refactoring.com/
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
 https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
 https://refactoring.com/catalog/
 
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 
-https://martinfowler.com/articles/products-over-projects.html
--->
-
-<!--
-https://refactoring.com/
 https://github.com/faif/python-patterns/
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
 https://python-patterns.guide/
 
 https://www.kentbeck.com/ | KentBeck.com
+
+https://martinfowler.com/articles/products-over-projects.html
 -->
 
 <!--
@@ -639,8 +611,6 @@ Stellar Programming Learning Resources
 * [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
 
 <!--
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
-
 https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
 https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
 
@@ -689,6 +659,4 @@ http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
 
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 -->
