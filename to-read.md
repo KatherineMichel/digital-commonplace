@@ -118,7 +118,7 @@ https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/
 https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
 -->
 
-https://twitter.com/kathleencodes/status/1212945670849490945 | Kathleen Vignos on Twitter: "I’m finding Deep Work by Cal Newport an excellent new year’s read. 4 approaches for deep concentration: 1/Monastic: only deep work 2/Bimodal: short retreats or seasons 3/Rhythmic: daily regular habit 4/Journalistic: alternating betw deep &amp; shallow thru the day. I use # 2; you?" / Twitter
+Deep Work by Cal Newport
 
 https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
 
@@ -322,12 +322,11 @@ https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-de
 https://www.netlify.com/features/ | Features | Netlify
 
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 https://zeit.co/blog/github
-https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
-
 https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+
+https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
 
 https://web.dev/ | web.dev  |  web.dev
 
