@@ -31,9 +31,6 @@ https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 
 
-Anthony
-default dict counter sets - Google Search
-
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
@@ -52,9 +49,6 @@ https://techyaks.com/python-year-tytop.html
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
-https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
@@ -76,9 +70,6 @@ https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
 Computer Architecture
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
-
-National Vulnerability Database
-https://nvd.nist.gov/ | NVD - Home
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
@@ -664,9 +655,6 @@ Research
 https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
 https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
 
-https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
-
-
 http://google.github.io/styleguide/
 
 Bazel
@@ -1061,6 +1049,9 @@ https://github.com/blog/2401-the-github-diversity-report
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+National Vulnerability Database
+https://nvd.nist.gov/ | NVD - Home
+
 GitHub Security
 https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
 https://github.com/Semmle
@@ -1438,6 +1429,11 @@ Other Stuff
 * [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
 
 <!--
+https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
+
+https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
+https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
+
 CI/CD
 https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
 https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
