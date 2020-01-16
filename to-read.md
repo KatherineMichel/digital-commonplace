@@ -43,8 +43,6 @@ http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 
-https://adventofcode.com/2019/day/1
-
 https://github.com/asottile/
 https://github.com/asottile-archive
 https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
@@ -150,27 +148,23 @@ https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/
 
 https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 
-Problem solving
-https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
-https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
-https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
-
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-
 software development competency framework
 
 https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 
+SICP
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 
-https://wsvincent.com/how-django-works-behind-the-scenes/ | How Django Works Behind the Scenes - William Vincent
-
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
+
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
 
 https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/
@@ -225,13 +219,6 @@ https://devchecklists.com/vintas-high-quality-standards/
 
 https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
-## Coding Practice
-
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-
 ## Competitive Programming
 
 Coding Competitions
@@ -280,34 +267,6 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
-## Interviewing
-
-<!--
-https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
--->
-
-<!--
-http://blog.interviewing.io
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
-
-
-https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
-
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
-https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
-
-https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
-
-https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
-
-https://github.com/donnemartin/interactive-coding-challenges
--->
-
 ## Python and JavaScript
 
 One Pic
@@ -333,11 +292,6 @@ Programming Language Leveling Up and Comparison Sites
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-## Django
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
 
 ## Django Rest Framework
 
@@ -516,8 +470,6 @@ https://martinfowler.com/articles/products-over-projects.html
 -->
 
 <!--
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-
 https://refactoring.com/
 https://github.com/faif/python-patterns/
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
