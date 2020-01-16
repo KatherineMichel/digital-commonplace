@@ -29,11 +29,6 @@ https://www.asciiart.eu/ | ASCII Art Archive
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
-Problem solving
-https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
-https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
-https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
-
 
 Anthony
 default dict counter sets - Google Search
@@ -113,8 +108,6 @@ https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Tes
 Projects
 https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 
-https://adventofcode.com/2019/day/1
-
 https://github.com/asottile/
 https://github.com/asottile-archive
 https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
@@ -193,46 +186,6 @@ Eisenhower Matrix
 Eisenhower Matrix
 https://twitter.com/airtable/status/1205241906759794689
 https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
--->
-
-## Coding Practice
-
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-
-## Interviewing
-
-<!--
-https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
--->
-
-<!--
-http://blog.interviewing.io
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
-
-
-https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
-
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
-http://blog.triplebyte.com/how-to-interview-engineers
-https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
-https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
-
-https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
-
-https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
-
-https://github.com/donnemartin/interactive-coding-challenges
 -->
 
 ## Project-Based Learning
