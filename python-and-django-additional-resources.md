@@ -1,16 +1,20 @@
 # Python and Django- Additional Resources
 
 <!--
-Wagtail
-https://www.accordbox.com/blog/wagtail-tutorials/ | Wagtail Tutorial Series | AccordBox
-https://madewithwagtail.org/ | Made with Wagtail
-https://github.com/springload/awesome-wagtail | GitHub - springload/awesome-wagtail: A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
-https://www.youtube.com/watch?v=ICKYMO0YoFI&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV | Wagtail Space US 2018: Tom Dyson, 'Wagtail in 2018' - YouTube
-￼https://control.divio.com/demo/get-new/wagtail/ | Divio - Divio wagtail website
-https://github.com/wagtail/wagtail | wagtail/wagtail: A Django content management system focused on flexibility and user experience
+People
 
-Carlton Gibson and William S. Vincent
-https://djangochat.com/ | Django Chat Podcast
+https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
+
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
+
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
+https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
 
 Michael
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
@@ -33,152 +37,11 @@ https://twitter.com/jackdied | Jack Diederich (@jackdied) | Twitter
 
 https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
 https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
--->
-
-## Python and Django- Specific Learning Resources
-
-<!--
-https://www.geeksforgeeks.org/category/program-output/
-https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/
-https://www.youtube.com/geeksforgeeksvideos/
-
-https://realpython.com/python-data-types/ | Basic Data Types in Python – Real Python
-
-https://www.datacamp.com/community/tutorials/data-structures-python
-
-https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
-
-https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
-
-Python Data Structures
-http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
-
-
-https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
 
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
 -->
 
-<!--
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
-
-http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
-
-Harvey Mudd
-https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://www.digitalocean.com/community/tutorial_series/django-development
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
-https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
-https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
-How To Use the Python Debugger
-
-https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
-https://realpython.com/python-code-quality
-https://realpython.com/resources
-https://realpython.com/python-basics
-https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Python Programming – Real Python
-https://realpython.com/intermediate-python
-https://realpython.com/tutorials/intermediate/
-https://realpython.com/tutorials/advanced/
-https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-
-https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
-
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
-
-https://www.datacamp.com/community/tutorials?tag=python
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
--->
-
-<!--
-https://github.com/jakevdp/WhirlwindTourOfPython
-https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
--->
-
-<!--
-Dan Bader OO Recommendations
-https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
-
-https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
-https://docs.python.org/3/tutorial/classes.html
-https://learnpythonthehardway.org/book/
-https://www.toptal.com/python/python-design-patterns
-https://www.packtpub.com/application-development/python-3-object-oriented-programming
-http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
--->
-
-<!--
-https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
-https://www.edx.org/course/subject/computer-science/python
-https://www.youtube.com/user/khanacademy/search?query=python
-https://nostarch.com/search/node/python | Search | No Starch Press
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
-https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
--->
-
-<!--
-https://learncodethehardway.org/more-python/
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
-
-https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
-https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
-https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
-
-https://realpython.com/switching-to-python
-https://twitter.com/realpython
-
-https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
-
-https://realpython.com/python-data-classes/
-
-https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
-https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
-
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
-https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
-How To Apply Polymorphism to Classes in Python 3
-https://www.digitalocean.com/community/tutorials/how-to-apply-polymorphism-to-classes-in-python-3
-
-How To Define Functions in Python 3
-https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3
-How To Use *args and **kwargs in Python 3
-https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3
-
-https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger
-How To Debug Python with an Interactive Console
-https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
-How To Use Logging in Python 3
-https://www.digitalocean.com/community/tutorials/how-to-use-logging-in-python-3
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-http://www.fullstackpython.com/deployment.html
-
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-
-https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
-https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
--->
-
+## Python and Django- Specific Learning Resources
 
 <!--
 https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
@@ -189,49 +52,27 @@ Kenneth Love
 https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
 http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
 
-https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm | NumPy Sort, Search and Counting Functions
 
-https://www.datacamp.com/community/tutorials/tensorflow-tutorial | TensorFlow Tutorial For Beginners (article) - DataCamp
 
-http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
-https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
 
-http://www.pythonforbeginners.com/basics/list-comprehensions-in-python | List Comprehensions in Python
-http://www.pythonforbeginners.com/argparse/argparse-tutorial | Argparse Tutorial
+https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
 
-https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
 
-https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
-https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
+-->
 
-https://python.swaroopch.com
-http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
-https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
-
-https://github.com/RafeKettler
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
-http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
-
-* [Interactive Python](http://www.interactivepython.org)
-
-Runestone Interactive Tools Library of Titles
-http://runestoneinteractive.org/library.html
-
-http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/TherangeFunction.html | 4.7. The range Function — How to Think like a Computer Scientist: Interactive Edition
-
-Everyday Python
-http://interactivepython.org/runestone/static/everyday/2016/05/groupby.html
-
-CS Principles: Big Ideas in Programming¶
-https://runestone.academy/runestone/static/StudentCSP/index.html
-
-How to Think like a Computer Scientist
-https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
-https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
-
-Course Reader - CS160
-http://computerscience.chemeketa.edu/cs160Reader/index.html
+<!--
+https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
+https://www.edx.org/course/subject/computer-science/python
+https://www.youtube.com/user/khanacademy/search?query=python
+https://nostarch.com/search/node/python | Search | No Starch Press
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 -->
 
 
@@ -271,35 +112,21 @@ https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
 
-## Coding Practice
-
-Math/Programming Problems and Projects
-* [Project Euler Problems](http://projecteuler.net/problems) 
-
-Practice
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
-* [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
-
-## Python- Coding Practice
-
-Python Challenges
-* [Exercism Python](https://exercism.io/tracks/python)
-* [Free Code Camp Pythonic Challenges](https://freecodecamp.github.io/python-coding-challenges) and [Free Code Camp Pythonic Challenges GitHub](https://github.com/freeCodeCamp/python-coding-challenges)
-* [PyBites Coding Challenges GitHub](https://github.com/pybites/challenges)
-* [PyBites 100 Days of Code GitHub](https://github.com/pybites/100DaysOfCode)
-* [Python Morsels](https://www.pythonmorsels.com)
+## Tutorials and Learning Platforms
 
 <!--
-Python projects
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
+https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
+https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
+
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
+
+Nina
+https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
+https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
+http://takingnot.es/
 -->
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
-
-## Tutorials and Learning Platforms
 
 Python Official Resources
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
@@ -317,7 +144,6 @@ MOOCs
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence) 
 
 Python
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [Real Python](https://realpython.com)
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
 * [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
@@ -329,38 +155,159 @@ Python
 Other Tutorials
 * [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
 
+DataCamp
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
 <!--
+http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
+
 https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
 
 https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 
+Harvey Mudd
+https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
+
+https://www.datacamp.com/community/tutorials?tag=python
+
+https://twitter.com/realpython
+https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
+https://realpython.com/python-code-quality
+https://realpython.com/resources
+https://realpython.com/python-basics
+https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Python Programming – Real Python
+https://realpython.com/intermediate-python
+https://realpython.com/tutorials/intermediate/
+https://realpython.com/tutorials/advanced/
+https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
+
+https://realpython.com/switching-to-python
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
+https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
+
+https://realpython.com/python-data-classes/
+
+https://www.digitalocean.com/community/tutorial_series/django-development
+
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python | Free Educational eBook — Learn How To Program in Python 3 | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+https://www.digitalocean.com/community/tutorial_series/debugging-python-programs
+How To Use the Python Debugger
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3 | Object Oriented Programming in Pyth: Class and Instance Variables | DigitalOcean
+https://www.digitalocean.com/community/tutorials/understanding-inheritance-in-python-3 | Understanding Inheritance in Python 3 | DigitalOcean
+How To Apply Polymorphism to Classes in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-apply-polymorphism-to-classes-in-python-3
+
+How To Define Functions in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3
+How To Use *args and **kwargs in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger
+How To Debug Python with an Interactive Console
+https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-interactive-console
+How To Use Logging in Python 3
+https://www.digitalocean.com/community/tutorials/how-to-use-logging-in-python-3
+
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+http://www.fullstackpython.com/deployment.html
+
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+
+https://www.learnpython.org/en/Loops | Loops - Learn Python - Free Interactive Python Tutorial
+https://www.learnpython.org/en/Modules_and_Packages | Modules and Packages - Learn Python - Free Interactive Python Tutorial
+
+https://learncodethehardway.org/more-python/
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-python3-thw-code | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions | zedshaw/learn-more-python-the-hard-way-solutions
+
+https://www.quora.com/What-makes-Learn-Python-The-Hard-Way-so-popular/answer/Aaron-Hall-8?share=4336c450
+https://tv.learncodethehardway.com/videos/trending?sort=-views&page=1 | Trending videos - LCTHW:TV
+https://github.com/zedshaw/learn-python3-thw-code#paintings-for-bugs-bounty | zedshaw/learn-python3-thw-code: The code to Learn Python3 The Hard Way
+
+http://blog.teamtreehouse.com/operator-overloading-python | Operator Overloading in Python - Treehouse Blog
+
+http://www.pythonforbeginners.com/basics/list-comprehensions-in-python | List Comprehensions in Python
+http://www.pythonforbeginners.com/argparse/argparse-tutorial | Argparse Tutorial
+
+https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+
 https://www.programiz.com
 https://www.programiz.com/c-programming
 https://www.programiz.com/python-programming
+
+https://www.programiz.com/python-programming/modules | Python Modules: Learn to Create and Import Custom and Built-in Modules
+
+https://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
+https://inventwithpython.com/blog/2018/08/24/pyohio-2018-recursion-tutorial/
+
+https://python.swaroopch.com
+http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
+https://python.swaroopch.com/oop.html | Object Oriented Programming · A Byte of Python
+
+https://github.com/RafeKettler
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
+
+* [Interactive Python](http://www.interactivepython.org)
+
+Runestone Interactive Tools Library of Titles
+http://runestoneinteractive.org/library.html
+
+http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/TherangeFunction.html | 4.7. The range Function — How to Think like a Computer Scientist: Interactive Edition
+
+Everyday Python
+http://interactivepython.org/runestone/static/everyday/2016/05/groupby.html
+
+CS Principles: Big Ideas in Programming¶
+https://runestone.academy/runestone/static/StudentCSP/index.html
+
+How to Think like a Computer Scientist
+https://runestone.academy/runestone/static/thinkcspy/index.html | Table of Contents — How to Think like a Computer Scientist: Interactive Edition
+https://runestone.academy/runestone/static/thinkcspy/GeneralIntro/Glossary.html | 1.14. Glossary — How to Think like a Computer Scientist: Interactive Edition
+
+Course Reader - CS160
+http://computerscience.chemeketa.edu/cs160Reader/index.html
 -->
 
-## Python Syntax and Python Versus JavaScript
+<!--
+Data Types and Structures
 
-Programming Language Leveling Up and Comparisons- Python
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+https://realpython.com/python-data-types/ | Basic Data Types in Python – Real Python
 
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
+https://www.datacamp.com/community/tutorials/data-structures-python
 
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+https://python.swaroopch.com/data_structures.html | Data Structures · A Byte of Python
+
+Python Data Structures
+http://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png
+
+OOP
+
+Dan Bader OO Recommendations
+https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-resources.pdf
+
+https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
+https://docs.python.org/3/tutorial/classes.html
+https://learnpythonthehardway.org/book/
+https://www.toptal.com/python/python-design-patterns
+https://www.packtpub.com/application-development/python-3-object-oriented-programming
+http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+-->
 
 ## Python and Django Teachers
 
