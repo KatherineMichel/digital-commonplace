@@ -297,11 +297,6 @@ https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-
 https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
 https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
 
-https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
-http://blog.triplebyte.com/how-to-interview-engineers
-https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
 http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
 https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
@@ -447,28 +442,8 @@ Software Project Management
 * [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
 Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
 
 Requirements
-* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
-* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
-
-<!--
-Requirements baseline
-https://en.wikipedia.org/wiki/Baseline_(configuration_management)
--->
 
 Technical
 * [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
@@ -541,28 +516,15 @@ https://martinfowler.com/articles/products-over-projects.html
 -->
 
 <!--
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle
-
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
 
 https://refactoring.com/
-https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
-https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
+https://github.com/faif/python-patterns/
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
 https://python-patterns.guide/
 
 https://www.kentbeck.com/ | KentBeck.com
-
-http://stevemcconnell.com/books/
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-https://martinfowler.com/
 -->
 
 <!--
@@ -671,7 +633,6 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
 http://behaviormodel.org/ | BJ Fogg's Behavior Model
 -->
 
@@ -777,11 +738,8 @@ https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live S
 
 http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
 
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
 http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 -->
