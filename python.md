@@ -5,7 +5,193 @@ https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-py
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+-->
 
+<!--
+https://github.com/asottile/
+https://github.com/asottile-archive
+https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
+https://www.twitch.tv/anthonywritescode
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
+https://github.com/anthonywritescode
+https://github.com/asottile/babi | asottile/babi
+https://github.com/anthonywritescode/aoc2019/
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+https://github.com/pre-commit/pre-commit/issues/1260
+
+## Talks
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+https://www.youtube.com/watch?v=iKAaNaVpJFM
+
+Hynek
+https://github.com/hynek
+https://hynek.me/talks/
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+Azure Pipelines
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Contributing- Important
+https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
+
+Contributing
+https://github.blog/2012-09-17-contributing-guidelines/
+https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
+
+Not sure...
+https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
+
+Code of Conduct
+https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
+https://www.contributor-covenant.org/
+
+Expectations
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+
+Tests/Automation
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+https://realpython.com/intro-to-pyenv/
+
+General
+https://twitter.com/jacobian/status/1115362291099283456
+
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
+http://mypy-lang.org/
+
+Formatting and Stuff
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
+https://treyhunner.com/2017/07/craft-your-python-like-poetry/
+
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
+https://prettier.io/
+https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
+
+Docs
+https://www.sphinx-doc.org/en/master/
+https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
+https://readthedocs.org/
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+https://readthedocs.org/accounts/login/?next=/accounts/gold/
+https://pypi.org/project/towncrier/
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
+https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
+https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
+https://docs.python.org/3/library/doctest.html
+https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
+https://docs.python.org/3/library/logging.html#logging.getLogger
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
+https://jml.io/pages/test-docstrings.html
+
+https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
+https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
+
+General
+https://github.com/nayafia/awesome-maintainers
+
+Mariatta
+https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+https://lukasa.co.uk/2016/04/One_Of_The_Team/
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+Packaging
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
+https://www.youtube.com/watch?v=btqFjNDdTlE
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+
+https://github.com/joerick/cibuildwheel
+https://github.com/explosion/wheelwright
+
+https://github.com/python-attrs/attrs/blob/master/setup.py
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
+https://github.com/sdispater/poetry/issues/1036
+https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
+https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
+https://pypi.org/project/attrs/
+https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
+https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
+https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
+
+http://calver.org/
+
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+-->
+
+<!--
+https://github.com/wemake-services/wemake-python-styleguide
+
+https://www.youtube.com/watch?v=qt7TboNJGJg
+
+https://github.com/sdras/awesome-actions
+https://github.com/actions/starter-workflows/blob/master/ci/python-package.yml
+https://github.com/actions/starter-workflows/tree/master/automation
+https://github.com/actions/setup-python
+https://github.com/actions/cache
+https://github.com/actions/cache/blob/master/examples.md#python---pip
+https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
+https://github.com/kaylangan/calculator/tree/kaylangan-pkg
+
+https://github.com/marketplace?before=Y3Vyc29yOjIx&query=python&type=actions&utf8=%E2%9C%93
+https://github.com/marketplace?utf8=%E2%9C%93&query=django
+https://github.com/marketplace/actions/pypi-publish
+https://github.com/marketplace/actions/codecov
+
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
+
+https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
+https://black.readthedocs.io/en/stable/installation_and_usage.html#usage
+https://flake8.pycqa.org/en/latest/user/options.html
+http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html#in-line-ignoring-errors
+https://github.com/cclauss/GitHub-Action-for-Flake8/blob/master/.github/workflows/push.yml
+https://twitter.com/FlipperPA/status/1204428589560582144
+
+https://pypi.org/project/tox-factor/
+https://tox.readthedocs.io/en/latest/config.html
+https://github.com/pytest-dev/pytest/issues/5778
+https://github.com/tox-dev/gh-action-tox
+https://github.com/ymyzk/tox-gh-actions
+
+https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
+-->
+
+<!--
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
 https://masonegger.com/talks/
@@ -448,179 +634,6 @@ https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
 -->
 
-## Talks
-
-<!--
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-https://www.youtube.com/watch?v=iKAaNaVpJFM
-
-Hynek
-https://github.com/hynek
-https://hynek.me/talks/
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
-
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
-
-Azure Pipelines
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Contributing- Important
-https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
-
-Contributing
-https://github.blog/2012-09-17-contributing-guidelines/
-https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
-
-Not sure...
-https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
-
-Code of Conduct
-https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-https://www.contributor-covenant.org/
-
-Expectations
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-
-Tests/Automation
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-https://realpython.com/intro-to-pyenv/
-
-General
-https://twitter.com/jacobian/status/1115362291099283456
-
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
-http://mypy-lang.org/
-
-Formatting and Stuff
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
-https://treyhunner.com/2017/07/craft-your-python-like-poetry/
-
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
-https://prettier.io/
-https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
-
-Docs
-https://www.sphinx-doc.org/en/master/
-https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
-https://readthedocs.org/
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://readthedocs.org/accounts/login/?next=/accounts/gold/
-https://pypi.org/project/towncrier/
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
-https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
-https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
-https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
-https://docs.python.org/3/library/doctest.html
-https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
-https://docs.python.org/3/library/logging.html#logging.getLogger
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
-https://jml.io/pages/test-docstrings.html
-
-https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
-https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
-
-General
-https://github.com/nayafia/awesome-maintainers
-
-Mariatta
-https://www.youtube.com/watch?v=_xdEAxLuj9Y
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
-https://lukasa.co.uk/2016/04/One_Of_The_Team/
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
-
-Packaging
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
-https://www.youtube.com/watch?v=btqFjNDdTlE
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
-
-https://github.com/joerick/cibuildwheel
-https://github.com/explosion/wheelwright
-
-https://github.com/python-attrs/attrs/blob/master/setup.py
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
-https://github.com/sdispater/poetry/issues/1036
-https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
-https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
-https://pypi.org/project/attrs/
-https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
-https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
-https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
-
-http://calver.org/
-
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
--->
-
-<!--
-https://github.com/wemake-services/wemake-python-styleguide
-
-https://www.youtube.com/watch?v=qt7TboNJGJg
-
-https://github.com/sdras/awesome-actions
-https://github.com/actions/starter-workflows/blob/master/ci/python-package.yml
-https://github.com/actions/starter-workflows/tree/master/automation
-https://github.com/actions/setup-python
-https://github.com/actions/cache
-https://github.com/actions/cache/blob/master/examples.md#python---pip
-https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
-https://github.com/kaylangan/calculator/tree/kaylangan-pkg
-
-https://github.com/marketplace?before=Y3Vyc29yOjIx&query=python&type=actions&utf8=%E2%9C%93
-https://github.com/marketplace?utf8=%E2%9C%93&query=django
-https://github.com/marketplace/actions/pypi-publish
-https://github.com/marketplace/actions/codecov
-
-https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
-
-https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
-https://black.readthedocs.io/en/stable/installation_and_usage.html#usage
-https://flake8.pycqa.org/en/latest/user/options.html
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html#in-line-ignoring-errors
-https://github.com/cclauss/GitHub-Action-for-Flake8/blob/master/.github/workflows/push.yml
-https://twitter.com/FlipperPA/status/1204428589560582144
-
-https://pypi.org/project/tox-factor/
-https://tox.readthedocs.io/en/latest/config.html
-https://github.com/pytest-dev/pytest/issues/5778
-https://github.com/tox-dev/gh-action-tox
-https://github.com/ymyzk/tox-gh-actions
-
-https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
--->
-
 ## Python and Django Dependency Management
 
 * [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
@@ -761,6 +774,44 @@ http://linter-runner.com
 https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+-->
+
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Files
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+https://en.wikipedia.org/wiki/Shell_script
+
+https://en.wikipedia.org/wiki/SQL
 -->
 
 ## Eldarion
