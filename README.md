@@ -666,13 +666,9 @@ Google Open Source
 * [Why Open Source?](https://opensource.google.com/docs/why)
 
 <!--
-https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
-
 Important!
 https://opensourcesurvey.org/2017/
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-https://guides.github.com/ | GitHub Guides
 
 https://github.com/google/new-project | google/new-project: This repository contains a template you can use to seed a repository for a new open source project.
 
