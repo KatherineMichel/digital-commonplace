@@ -323,11 +323,28 @@ https://twitter.com/kennethreitz/status/1204348890721456128
 https://www.python.org/doc/sunset-python-2/
 https://twitter.com/brainwane/status/1176517084890750981
 
+PEP 373 -- Python 2.7 Release Schedule
+https://www.python.org/dev/peps/pep-0373/
+https://wiki.python.org/moin/Python2orPython3
 https://twitter.com/webology/status/1212552867225198592 | 🎊 Jeff Triplett 🎉 on Twitter: "🐍 Active development of Python 2.7 has ended, but there will be one final 2.7 release this April. ⛑ It's time to use Python 3 though if you haven't switched yet. https://t.co/wRu728dVrI" / Twitter
 https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
 
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+
+Python 2 to 3
+https://docs.python.org/3/howto/pyporting.html
+http://python-future.org/compatible_idioms.html
+https://pypi.org/project/six/ | six · PyPI
+https://six.readthedocs.io/
+https://github.com/benjaminp/six
 https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
 https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/releases/2.0/
+
+https://docs.python.org/2/library/2to3.html
+https://www.youtube.com/watch?v=klaGx9Q_SOA
+https://snarky.ca/my-experience-creating-caniusepython3/
+https://pypi.org/project/caniusepython3/
 
 Packages for upgrading
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
@@ -338,20 +355,6 @@ https://python-future.org/quickstart.html | Quick-start guide — Python-Future 
 http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
 https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
 https://pypi.org/project/modernize/ | modernize · PyPI
-
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
-
-Python 2 to 3
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-https://pypi.org/project/six/ | six · PyPI
-https://docs.python.org/3/howto/pyporting.html
-https://docs.python.org/2/library/2to3.html
-http://python-future.org/compatible_idioms.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
-
-https://www.python.org/dev/peps/pep-0373/
-https://wiki.python.org/moin/Python2orPython3
 
 https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
 
