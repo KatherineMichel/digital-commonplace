@@ -22,12 +22,8 @@
 ## Web Browser, Client/Server
 
 
-https://docs.python.org/3/howto/pyporting.html
-
+Static typing
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-
-http://en.wikipedia.org/wiki/Technology_roadmap
-
 
 
 <!--
