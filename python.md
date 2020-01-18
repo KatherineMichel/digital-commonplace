@@ -982,75 +982,40 @@ Nose (Unit Test Extension)
 Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
-
-## Python and Django Dependency Management
-
-* [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
-* [pipx](https://pipxproject.github.io/pipx/)
-* [Dephell GitHub](https://github.com/dephell/dephell)
-
-pipenv
-* [pipenv as The PyPA recommended tool for installing Python packages](https://packaging.python.org/guides/tool-recommendations/) and [Python Packaging User Guide: Managing Application Dependencies](https://packaging.python.org/tutorials/managing-dependencies/#managing-dependencies)
-
-<!--
-pip
-https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
-https://pypi.org/project/pip/ | pip · PyPI
-
-Options
-The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
-https://github.com/pypa/pipfile/issues/27
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
-https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
-https://github.com/pypa/pipfile
-https://github.com/pypa/pipfile#the-concept
-
-Virtualenv and Pyenv
-https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
-https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-
-https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-
-https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
-https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
-
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
-
-https://snarky.ca/why-you-should-use-python-m-pip/
-
-https://github.com/jazzband/pip-tools
-
-pyproject.toml
-https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
-https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
-https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
-https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
-https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
-https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
-
-https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
-
-https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
-https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
-
-https://github.com/sdispater/poetry
-https://python-poetry.org/docs/pyproject/
-https://black.readthedocs.io/en/stable/pyproject_toml.html
--->
-
 ## Anthony
 
+Builds lots of productivity tools, linters, and code formatters
+
+Creator
+* [pre-commit](https://pre-commit.com)
+
+Core Developer
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+
+Maintainer
+
+* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
+
 <!--
+https://pypi.org/project/pyflakes/
+https://github.com/PyCQA/pyflakes
+
 Anthony Sottile
 https://github.com/sponsors/asottile
 Created @pre-commit
 Core developer on @pytest-dev, and @tox-dev
 Maintains flake8 and helps maintain pyflakes as a member of the @PyCQA
 Builds backported/forwardported pythons for ubuntu with @deadsnakes
-Builds lots of productivity tools, linters, and code formatters
+
+https://pre-commit.com/#python
+https://pre-commit.com/hooks.html
+
+http://linter-runner.com
+https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 
 https://github.com/asottile/
 https://github.com/asottile-archive
@@ -1080,25 +1045,13 @@ https://github.com/nedbat/coveragepy/issues/
 ## Also Recommended
 
 * [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pre-commit](https://pre-commit.com)
-* [Black GitHub](https://github.com/psf/black)
-* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
 * [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
 
 <!--
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
 
 https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
 https://pypi.org/project/flake8-black/ | flake8-black · PyPI
-
-https://pre-commit.com/#python
-https://pre-commit.com/hooks.html
-
-http://linter-runner.com
-https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
-https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 -->
 
 ## Eldarion
@@ -1137,6 +1090,9 @@ Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
 * [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
 * [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+
+tox Alternative (not used)
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
 
 Import Sorting
 * [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
@@ -1209,9 +1165,10 @@ https://docs.codecov.io/docs/python
 https://codecov.io/#features | Codecov
 -->
 
-## Continuous Integration Tools
+## Code Formatting Tools
 
 Code Formatting
+* [Black GitHub](https://github.com/psf/black)
 * [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
 * [Black Out GitHub](https://github.com/mariatta/black_out)
 * [White GitHub](https://github.com/kennethreitz/white)
