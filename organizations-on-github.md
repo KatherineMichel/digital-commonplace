@@ -421,6 +421,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Quantopian](https://github.com/quantopian) 
 * [Patreon](https://github.com/patreon)  
 * [PayPal](https://github.com/paypal) 
+* [Plaid](https://github.com/plaid)
 * [Robinhood](https://github.com/robinhood) 
 * [Square](https://github.com/square)
 * [Stripe](https://github.com/stripe) 
