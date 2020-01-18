@@ -1,4 +1,27 @@
-# Organizations on GitHub
+# Organizations
+
+## Engineering Blogs
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+## Companies that Use Python
+
+Companies that Use Python
+* PyCon Slide
+
+High Performance Python- Engineering Blogs
+* [Bloomberg](https://www.techatbloomberg.com/)
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
 
 ## Major Organizations and Projects that Use Python or Django
 
@@ -215,11 +238,12 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Google TensorFlow](https://github.com/tensorflow)
 * [OpenAI](https://github.com/openai)
 
-## Quantum Computing
+### Quantum Computing
 
 * [Rigetti Computing](https://github.com/rigetti)
 
-## Major Tech Companies
+
+## Organizations on GitHub
 
 ### Amazon
 
