@@ -334,21 +334,38 @@ https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Pytho
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
 http://python-future.org/compatible_idioms.html
+
+six
 https://pypi.org/project/six/ | six · PyPI
 https://six.readthedocs.io/
 https://github.com/benjaminp/six
+
+django.utils.six
 https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
+https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
+
+Django
 https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
 https://docs.djangoproject.com/en/3.0/releases/2.0/
 
+`from __future__ import`
+
+New features
+f-strings
+type checking
+
+https://django.readthedocs.io/en/1.7.x/topics/python3.html
 https://docs.python.org/2/library/2to3.html
 https://www.youtube.com/watch?v=klaGx9Q_SOA
 https://snarky.ca/my-experience-creating-caniusepython3/
 https://pypi.org/project/caniusepython3/
 
 Packages for upgrading
+https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
+
+Not sure
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
 http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
 https://python-future.org/quickstart.html | Quick-start guide — Python-Future documentation
