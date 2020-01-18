@@ -3,6 +3,8 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://freestateforge.com/map
+
 https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
 
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
@@ -31,6 +33,17 @@ https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 
 
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+https://github.com/pypa/pypi-support
+
+https://github.com/pypa/setuptools/issues/931
+https://github.com/pytest-dev/pytest/issues/5534
+https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
+https://github.com/pypa/setuptools/issues/1684
+
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
@@ -44,11 +57,42 @@ https://github.com/vstinner/pyperf/blob/master/setup.py
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
 
+https://www.hackerrank.com/home
+
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://github.com/saracope/shaping-the-contributor-experience
+https://saracope.github.io/shaping-the-contributor-experience/
+
+https://martinfowler.com/bliki/OpportunisticRefactoring.html
+
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
 https://techyaks.com/python-year-tytop.html
 
+https://www.python.org/
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://opensource.com/article/19/4/bash-vs-python
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+
+https://packaging.python.org/tutorials/installing-packages/
+https://packaging.python.org/tutorials/packaging-projects/
+
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png
+https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png
+
+https://realpython.com/inheritance-composition-python/
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://www.atlassian.com/agile/product-management/product-roadmaps
+
+https://www.canada.ca/en/government/system/digital-government/open-source-software.html
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
@@ -72,15 +116,11 @@ Computer Architecture
 https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
 
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
-
-https://agilemanifesto.org/ | Manifesto for Agile Software Development
 -->
 
 <!--
 Projects
 https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
-
-Anthony Sottile
 
 https://www.twitch.tv/lizthegrey
 https://www.twitch.tv/noopkat | (2) noopkat - Twitch
@@ -2389,9 +2429,6 @@ https://refactoring.com/catalog/
 https://python-patterns.guide/
 https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
 https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
-
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
 
 https://martinfowler.com/articles/products-over-projects.html
 
