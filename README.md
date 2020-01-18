@@ -13,6 +13,10 @@ https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 
 https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
 
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
 https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
@@ -34,15 +38,25 @@ https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance O
 
 
 
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+Also Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
 
-https://github.com/pypa/pypi-support
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
 
+Testing
 https://github.com/pypa/setuptools/issues/931
 https://github.com/pytest-dev/pytest/issues/5534
 https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
 https://github.com/pypa/setuptools/issues/1684
+
+https://github.com/pypa/pypi-support
+
+https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 
 cross linter - Google Search
 
@@ -57,15 +71,9 @@ https://github.com/vstinner/pyperf/blob/master/setup.py
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
 
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
 https://www.hackerrank.com/home
-
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://github.com/saracope/shaping-the-contributor-experience
-https://saracope.github.io/shaping-the-contributor-experience/
-
-https://martinfowler.com/bliki/OpportunisticRefactoring.html
 
 https://treyhunner.com/2020/01/passing-functions-as-arguments/
 https://twitter.com/__mharrison__/status/1217626019038760960
@@ -77,13 +85,7 @@ https://www.python.org/
 https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 https://opensource.com/article/19/4/bash-vs-python
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
-
-https://packaging.python.org/tutorials/installing-packages/
-https://packaging.python.org/tutorials/packaging-projects/
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
-https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png
-https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
 https://realpython.com/inheritance-composition-python/
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
@@ -106,10 +108,6 @@ https://github.com/andyttran/guide_to_algorithms
 https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
 
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
 Computer Architecture
@@ -119,35 +117,6 @@ https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enha
 -->
 
 <!--
-Projects
-https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
-
-https://www.twitch.tv/lizthegrey
-https://www.twitch.tv/noopkat | (2) noopkat - Twitch
-https://www.twitch.tv/bletchleypunk/ | (2) bletchleypunk - Twitch
-https://www.twitch.tv/theacodes | (2) theacodes - Twitch
-https://www.twitch.tv/alsweigart/ | (2) AlSweigart - Twitch
-
-Twitter Roadmap
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
-
-https://twitter.com/jessicagarson/status/1188194831765594113 | Jessica Garson on Twitter: "My talk from @PyGotham on how I solved my NYC parking problem with Python is now up. Check it out and let me know if it inspires you to build anything https://t.co/kxDv20YA8B" / Twitter
-https://pyvideo.org/speaker/jessica-garson.html | PyVideo.org · Jessica Garson
-https://www.youtube.com/watch?v=pgDu37WtDhk | How I Solved my NYC Parking Problem with Python - YouTube
-https://www.slideshare.net/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-178892380
-https://dev.to/twitterdev/how-i-solved-my-nyc-parking-problem-with-python-the-search-tweets-api-and-twilio-1chp
-https://github.com/twitterdev/parking | twitterdev/parking
-https://twitter.com/jessicagarson/status/1180184635931856896
-https://messicaarson.bandcamp.com/ | Music | Messica Arson
-http://pycon-making-music.glitch.me/#/ | PyCon
-https://github.com/JessicaGarson | JessicaGarson (Jessica Garson)
-https://foxdot.org/ | FoxDot: Live coding with Python – Make music with Python and SuperCollider
-https://livecode.nyc/ | livecode.nyc | LiveCode.NYC
-https://www.youtube.com/watch?v=YUIPcXduR8E | Jessica Garson - Making Music with Python, SuperCollider and FoxDot - PyCon 2019 - YouTube
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
-
 https://traversymedia.com/
 https://www.freecodecamp.org/news/web-development-2020/
 https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
@@ -182,6 +151,96 @@ Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+-->
+
+## Authority Figures and Books
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Refactoring](https://refactoring.com/)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Refactoring Catalogs
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+Authorities
+* [Kent Beck](https://www.kentbeck.com/) and [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
+* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
+* [Steven C. McConnell](http://stevemcconnell.com) and [Steven C. McConnell Books](http://stevemcconnell.com/books/)
+* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
+* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+<!--
+SICP
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+
+http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://martinfowler.com/articles/products-over-projects.html
+
+CI/CD
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
+High-level structure
+https://martinfowler.com/testing/
+https://en.wikipedia.org/wiki/High-level_design
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/bliki/UnitTest.html
+https://martinfowler.com/articles/nonDeterminism.html
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
 ## Priorities
@@ -1474,13 +1533,6 @@ https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
 https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
 https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
 
-CI/CD
-https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
-https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
-https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
-https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
-https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
-
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
 https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
@@ -2087,10 +2139,6 @@ https://stackoverflow.com/questions/34149013/what-does-it-mean-that-python-is-st
 https://en.wikipedia.org/wiki/Stack_machine
 https://en.wikipedia.org/wiki/Virtual_memory
 
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-https://www.python.org/dev/peps/pep-0394/#recommendation
-
 https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
 https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
 
@@ -2407,57 +2455,6 @@ https://en.wikipedia.org/wiki/Messaging_pattern
 https://en.wikipedia.org/wiki/Request%E2%80%93response
 https://en.wikipedia.org/wiki/Post/Redirect/Get
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
--->
-
-## Authorities
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-<!--
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-https://refactoring.com/
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-https://refactoring.com/catalog/
-
-https://python-patterns.guide/
-https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py
-https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py
-
-https://martinfowler.com/articles/products-over-projects.html
-
-https://www.kentbeck.com/ | KentBeck.com
-
-http://stevemcconnell.com/books/
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-http://aosabook.org/en/index.html | The Architecture of Open Source Applications
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
 ## Object Oriented Software
@@ -3019,16 +3016,6 @@ https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesom
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
-## Authority Figures and Books
-
-Authorities
-* [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
-* [Steven C. McConnell](http://stevemcconnell.com)
-* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
-* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
-
 ## Books
 
 <!--
@@ -3091,45 +3078,6 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 ## People and Case Studies
-
-<!--
-https://awards.acm.org/about/2017-technical-awards | 2017 Technical Awards
-
-https://www.top500.org/ | Home | TOP500 Supercomputer Sites
-
-http://www.pulitzer.org/ | The Pulitzer Prizes
-
-Mozilla
-https://blog.mozilla.org/blog/2019/03/12/apply-for-a-mozilla-fellowship/ | Apply for a Mozilla Fellowship - The Mozilla Blog
-https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
-https://mozilla.fluxx.io/apply/MOSS | https://mozilla.fluxx.io/apply/MOSS
-
-Awards and Rewards
-https://opensource.com/article/19/2/community-awards-2019 | Announcing the 2019 Opensource.com Community Awards winners | Opensource.com
-https://opensource.com/article/18/2/community-awards-2018 | Announcing the 2018 Opensource.com Community Awards winners | Opensource.com
-https://opensource.googleblog.com/2018/03/congratulating-open-source-peer-bonus-winners.html | Congratulating the latest Open Source Peer Bonus winners | Google Open Source Blog
-https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.html | Announcing more Open Source Peer Bonus winners | Google Open Source Blog
-https://opensource.googleblog.com/2018/03/celebrating-open-source-mentorship.html | Celebrating open source mentorship with Joomla | Google Open Source Blog
-
-https://blog.sourced.tech/post/100-awesome-women-in-the-open-source-community-you-should-know/ | 100 Awesome Women In The Open-Source Community You Should Know · source{d} blog
-https://www.redhat.com/en/about/women-in-open-source | Women in Open Source Award
-http://opensourceawards.org/ | UK Open Source Awards
-https://www.fossjobs.net
-https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
-https://www.google.com/search?q=ACM+Turing+Award&oq=ACM+Turing+Award&aqs=chrome..69i57j0l5.254j0j7&sourceid=chrome&ie=UTF-8 | ACM Turing Award - Google Search
-
-https://foss.training/ | DGPLUG Summer Training
-
-https://www.techrepublic.com/article/acm-updates-computing-ethics-code-for-first-time-in-16-years-heres-whats-new/?platform=hootsuite | ACM updates computing ethics code for first time in 26 years, here's what's new - TechRepublic
-https://ethics.acm.org/2018-code-draft-3/
-http://www.wfeo.org/ethics/ | Code of Ethics | WFEO
-
-https://www.ncwit.org/ | National Center for Women & Information Technology |
-Society of Women Engineers
-
-https://twitter.com/@usnistgov | NIST (@usnistgov) | Twitter
-https://twitter.com/theNAEng | Nat'l Aced of Eng. (@theNAEng) | Twitter
--->
 
 Philosphers and Psychologists
 * [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
