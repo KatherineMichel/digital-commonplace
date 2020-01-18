@@ -1,5 +1,25 @@
 # Python Doc Notes
 
+## General Links
+
+https://docs.python.org/3/glossary.html
+
+https://docs.python.org/3/contents.html
+https://docs.python.org/3/genindex.html
+https://docs.python.org/3/py-modindex.html
+
+https://docs.python.org/2/howto/doanddont.html
+
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/reference/introduction.html
+
+https://docs.python.org/3/library
+https://docs.python.org/3/library/index.html
+https://docs.python.org/3/library/intro.html
+
+13. What Now?
+https://docs.python.org/3/tutorial/whatnow.html#what-now
+
 ## Tutorial
 
 3. An Informal Introduction to Python
