@@ -1,6 +1,28 @@
 # Python
 
 <!--
+Also Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
+
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
+
+Testing
+https://github.com/pypa/setuptools/issues/931
+https://github.com/pytest-dev/pytest/issues/5534
+https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
+https://github.com/pypa/setuptools/issues/1684
+
+
+https://github.com/pypa/pypi-support
+
+https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
@@ -27,142 +49,6 @@ https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-py
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
--->
-
-<!--
-## Talks
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
-
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-https://www.youtube.com/watch?v=iKAaNaVpJFM
-
-Hynek
-https://github.com/hynek
-https://hynek.me/talks/
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
-
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
-
-Azure Pipelines
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Contributing- Important
-https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
-
-Contributing
-https://github.blog/2012-09-17-contributing-guidelines/
-https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
-
-Not sure...
-https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
-
-Code of Conduct
-https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-https://www.contributor-covenant.org/
-
-Expectations
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-
-Tests/Automation
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-https://realpython.com/intro-to-pyenv/
-
-General
-https://twitter.com/jacobian/status/1115362291099283456
-
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
-http://mypy-lang.org/
-
-Formatting and Stuff
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
-https://treyhunner.com/2017/07/craft-your-python-like-poetry/
-
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
-https://prettier.io/
-https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
-
-Docs
-https://www.sphinx-doc.org/en/master/
-https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
-https://readthedocs.org/
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://readthedocs.org/accounts/login/?next=/accounts/gold/
-https://pypi.org/project/towncrier/
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
-https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
-https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
-https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
-https://docs.python.org/3/library/doctest.html
-https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
-https://docs.python.org/3/library/logging.html#logging.getLogger
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
-https://jml.io/pages/test-docstrings.html
-
-https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
-https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
-
-General
-https://github.com/nayafia/awesome-maintainers
-
-Mariatta
-https://www.youtube.com/watch?v=_xdEAxLuj9Y
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
-https://lukasa.co.uk/2016/04/One_Of_The_Team/
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
-
-Packaging
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
-https://www.youtube.com/watch?v=btqFjNDdTlE
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
-
-https://github.com/joerick/cibuildwheel
-https://github.com/explosion/wheelwright
-
-https://github.com/python-attrs/attrs/blob/master/setup.py
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
-https://github.com/sdispater/poetry/issues/1036
-https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
-https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
-https://pypi.org/project/attrs/
-https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
-https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
-https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
-
-http://calver.org/
-
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
 -->
 
 <!--
@@ -318,26 +204,6 @@ http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark
 <!--
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 -->
-
-## General Links
-
-https://docs.python.org/3/glossary.html
-
-https://docs.python.org/3/contents.html
-https://docs.python.org/3/genindex.html
-https://docs.python.org/3/py-modindex.html
-
-https://docs.python.org/2/howto/doanddont.html
-
-https://docs.python.org/3/reference/index.html
-https://docs.python.org/3/reference/introduction.html
-
-https://docs.python.org/3/library
-https://docs.python.org/3/library/index.html
-https://docs.python.org/3/library/intro.html
-
-13. What Now?
-https://docs.python.org/3/tutorial/whatnow.html#what-now
 
 ## General Python and Django Links
 
@@ -713,28 +579,9 @@ http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — Th
 
 http://pythontesting.net/start-here/
 
-
 DjangoCon Keynote by Ana
 
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-High-level structure
-https://en.wikipedia.org/wiki/High-level_design
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/bliki/UnitTest.html
-https://martinfowler.com/articles/nonDeterminism.html
+Testing pyramid
 https://automationpanda.com/2018/08/01/the-testing-pyramid/
 https://automationpanda.com/bdd/
 https://automationpanda.com/python/
@@ -743,6 +590,7 @@ Test automation
 https://en.wikipedia.org/wiki/Headless_browser
 
 https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
+
 
 https://github.com/HelloMelanieC/FiveUp
 
@@ -794,34 +642,7 @@ https://www.hillelwayne.com/talks/beyond-unit-tests/
 https://www.youtube.com/watch?v=MYucYon2-lk
 
 https://en.wikipedia.org/wiki/Mutation_testing
-https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
--->
-
-<!--
-Also Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
-
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
-
-https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
-
-https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
-
-Pinax
-https://dependabot.com/docs/config-file/ | Dependabot
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-https://github.com/pypa/pypi-support
-
-https://github.com/pypa/setuptools/issues/931
-https://github.com/pytest-dev/pytest/issues/5534
-https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
-https://github.com/pypa/setuptools/issues/1684
 -->
 
 
@@ -854,29 +675,17 @@ Django Nose
 Python 2 or 3
 * [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
 
-Python 2 End of Life (EOL)
-* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
-
 Python 2 EOL Websites
-* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
-* [Python Clock](https://pythonclock.org)
-* [Python 3 Statement](http://python3statement.org)
 * [Python 3 Readiness](https://tiran.github.io/py3readiness)
 * [Python Readiness](https://pyreadiness.org)
 * [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
 * [Python 3 Porting](http://python3porting.com)
 * [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
-Django and Python 3
-* [Django Packages Python 3](https://www.djangopackages.com/python3)
-
-Changeset Python 2 Sunsetting Initiative
-* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
-
 <!--
-https://www.python.org/doc/sunset-python-2/
-https://twitter.com/brainwane/status/1176517084890750981
+## General Links
 
+https://docs.python.org/3/whatsnew/
 https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
 https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
 
@@ -909,47 +718,175 @@ New features
 f-strings
 type checking
 
-https://django.readthedocs.io/en/1.7.x/topics/python3.html
-https://docs.python.org/3.8/library/2to3.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-
 Packages for upgrading
 https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
+-->
 
-Not sure
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-https://python-future.org/quickstart.html | Quick-start guide — Python-Future documentation
-http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
-https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
-https://pypi.org/project/modernize/ | modernize · PyPI
+<!--
+## Talks
 
-https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
 
-Dropping Support
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
-https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
-https://aws.amazon.com/support
-https://forums.aws.amazon.com/forum.jspa?forumID=186
-https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
-https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
-https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
-https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
-https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
+OS
+
+Contributing- Important
+https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
+
+Contributing
+https://github.blog/2012-09-17-contributing-guidelines/
+https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
+
+Code of Conduct
+https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
+https://www.contributor-covenant.org/
+
+Expectations
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+
+General
+https://github.com/nayafia/awesome-maintainers
+
+https://lukasa.co.uk/2016/04/One_Of_The_Team/
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
+https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
+
+
+Not sure...
+https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
+
+Tests/Automation
+
+https://realpython.com/intro-to-pyenv/
+
+General
+https://twitter.com/jacobian/status/1115362291099283456
+
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
+http://mypy-lang.org/
+
+Formatting and Stuff
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
+https://treyhunner.com/2017/07/craft-your-python-like-poetry/
+
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
+https://prettier.io/
+https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
+
+Docs
+https://www.sphinx-doc.org/en/master/
+https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
+https://readthedocs.org/
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+https://readthedocs.org/accounts/login/?next=/accounts/gold/
+https://pypi.org/project/towncrier/
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
+https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
+https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
+https://docs.python.org/3/library/doctest.html
+https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
+https://docs.python.org/3/library/logging.html#logging.getLogger
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
+https://jml.io/pages/test-docstrings.html
+
+Mariatta- build the bot
+https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
+Hynek
+Azure Pipelines
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+Packaging
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
+https://www.youtube.com/watch?v=btqFjNDdTlE
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+
+https://github.com/joerick/cibuildwheel
+https://github.com/explosion/wheelwright
+
+https://github.com/python-attrs/attrs/blob/master/setup.py
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
+https://github.com/sdispater/poetry/issues/1036
+https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
+https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
+https://pypi.org/project/attrs/
+https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
+https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
+https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
+
+http://calver.org/
 -->
 
 ## Great Release Managers
 
-### Hynek
+### General Talks
+
+<!--
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+https://www.youtube.com/watch?v=iKAaNaVpJFM
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+-->
+
+### Ned Batchelder
+
+* [coverage.py GitHub](https://github.com/nedbat/coveragepy/)
+
+### Hynek Schlawack
+
+* [Hynek GitHub](https://github.com/hynek)
+* [Hynek Talks](https://hynek.me/talks/)
+
+<!--
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+-->
 
 ### Paul Ganssle
+
+<!--
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+-->
 
 ### Anthony Sottile
 
 Builds lots of productivity tools, linters, and code formatters
+
+Sponsor Bio
+* [Anthony Sponsor Bio](https://github.com/sponsors/asottile)
 
 Regular Accounts
 * [Anthony Sottile GitHub](https://github.com/asottile/)
@@ -970,21 +907,22 @@ Creator
 Core Developer
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/)
 * [Tox Read the Docs](https://tox.readthedocs.org)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 
-Maintainer
+Maintainer (maintain pyflakes as a member of the @PyCQA)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 
 * [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
 
+Special Projects
+* [babi](https://github.com/asottile/babi)
+
 <!--
+https://github.com/nedbat/coveragepy/issues/
+
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
 
 Anthony Sottile
-https://github.com/sponsors/asottile
-Created @pre-commit
-Core developer on @pytest-dev, and @tox-dev
-Maintains flake8 and helps maintain pyflakes as a member of the @PyCQA
 Builds backported/forwardported pythons for ubuntu with @deadsnakes
 
 https://pre-commit.com/#python
@@ -993,9 +931,6 @@ https://pre-commit.com/hooks.html
 http://linter-runner.com
 https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
-
-https://github.com/asottile/babi | asottile/babi
 
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://github.com/pre-commit/pre-commit/issues/1260
@@ -1010,13 +945,13 @@ https://github.com/pre-commit/pre-commit/pull/1277
 
 https://github.com/asottile/pyupgrade
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
-
-https://github.com/nedbat/coveragepy/issues/
 -->
 
 ## Eldarion
 
 <!--
+https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
+
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
 
 Not used- but could be?
