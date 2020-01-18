@@ -1,54 +1,6 @@
 # Python
 
 <!--
-Interesting links
-https://www.python.org/dev/peps/pep-0602/#the-testing-matrix | PEP 602 -- Annual Release Cycle for Python | Python.org
-
-Test
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
-https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
-
-https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
-
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
-https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/internals/release-process/#internal-release-cadence | Django’s release process | Django documentation | Django
-
-Also Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
-
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
-
-Pinax- setup and testing
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
-https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-
-https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
-
-Pinax
-https://dependabot.com/docs/config-file/ | Dependabot
-
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-https://github.com/pypa/pypi-support
-
-https://github.com/pypa/setuptools/issues/931
-https://github.com/pytest-dev/pytest/issues/5534
-https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
-https://github.com/pypa/setuptools/issues/1684
-
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
@@ -70,16 +22,6 @@ https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehens
 
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
-
-https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248754.html | An Introduction to "Big O" Notation and How to Analyze the "Runtime Performance" of Algorithms - Intermediate Python Programming [Video]
-
-Wagtail
-https://www.accordbox.com/blog/wagtail-tutorials/ | Wagtail Tutorial Series | AccordBox
-https://madewithwagtail.org/ | Made with Wagtail
-https://github.com/springload/awesome-wagtail | GitHub - springload/awesome-wagtail: A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
-https://www.youtube.com/watch?v=ICKYMO0YoFI&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV | Wagtail Space US 2018: Tom Dyson, 'Wagtail in 2018' - YouTube
-￼https://control.divio.com/demo/get-new/wagtail/ | Divio - Divio wagtail website
-https://github.com/wagtail/wagtail | wagtail/wagtail: A Django content management system focused on flexibility and user experience
 
 https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 https://microsoft.github.io/language-server-protocol/specification
@@ -336,112 +278,6 @@ Programming Language Leveling Up and Comparison Sites
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
--->
-
-## Python 2 or 3, Python 2 EoL
-
-Python 2 or 3
-* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
-
-Python 2 End of Life (EOL)
-* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
-
-Python 2 EOL Websites
-* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
-* [Python Clock](https://pythonclock.org)
-* [Python 3 Statement](http://python3statement.org)
-* [Python 3 Readiness](https://tiran.github.io/py3readiness)
-* [Python Readiness](https://pyreadiness.org)
-* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
-* [Python 3 Porting](http://python3porting.com)
-* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
-
-Django and Python 3
-* [Django Packages Python 3](https://www.djangopackages.com/python3)
-
-Changeset Python 2 Sunsetting Initiative
-* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
-
-<!--
-https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/
-https://twitter.com/andrewgodwin/status/1201518717588234240
-
-https://twitter.com/webology/status/1196469384253972482 | 🍂 Jeff Triplett 🍂 on Twitter: "🚀 Django 3.0 is expected to launch in December 2019, and RC 1 was released today for anyone who wants to try it out or update your test suites to start testing against it. I recommend updating your projects to note what's changed. https://t.co/nx7QvsUy4R" / Twitter
-https://twitter.com/webology/status/1161660263269052422 | ✨ Jeff Triplett ✨ on Twitter: "👇 Keep in mind, that having support for Django 2.0, 2.1, etc does not mean that you have to lose support for Django 1.11. So getting your project ready for Django 2.x does not mean you have to switch from 1.11 until you are ready. You can have both. 
-https://t.co/IfmaQr0Oog" / Twitter
-https://twitter.com/webology/status/1161644230277828613 | ✨ Jeff Triplett ✨ on Twitter: "🎉 Yesterday, I had the pleasure of upgrading @simplworld's Games API to Django 2.2 and Python 3.7 from Django 1.11 for @WhartonLearning. Since the project is open source, I can share my pull request and you can see what it took. https://t.co/H0yesMbjjC" / Twitter
-https://twitter.com/kennethreitz/status/1204348890721456128
-
-https://www.python.org/doc/sunset-python-2/
-https://twitter.com/brainwane/status/1176517084890750981
-
-PEP 373 -- Python 2.7 Release Schedule
-https://www.python.org/dev/peps/pep-0373/
-https://wiki.python.org/moin/Python2orPython3
-https://twitter.com/webology/status/1212552867225198592 | 🎊 Jeff Triplett 🎉 on Twitter: "🐍 Active development of Python 2.7 has ended, but there will be one final 2.7 release this April. ⛑ It's time to use Python 3 though if you haven't switched yet. https://t.co/wRu728dVrI" / Twitter
-https://twitter.com/webology/status/1208057706625548288 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "It's confusing, but the FINAL Python 2.7 release will be in April 2020. EOL, in this context, means that the 2.7 code will no longer accept changes unless it blocks the final April 2020 release from being released otherwise. https://t.co/dTLA2JmFIs" / Twitter
-
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
-
-Python 2 to 3
-https://docs.python.org/3/howto/pyporting.html
-
-Cheat Sheets
-http://python-future.org/compatible_idioms.html
-Python 3.1
-http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
-https://pybit.es/python-porting.html
-http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
-
-six
-https://pypi.org/project/six/ | six · PyPI
-https://six.readthedocs.io/
-https://github.com/benjaminp/six
-
-django.utils.six
-https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
-https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
-
-Django
-https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/releases/2.0/
-
-`from __future__ import`
-
-New features
-f-strings
-type checking
-
-https://django.readthedocs.io/en/1.7.x/topics/python3.html
-https://docs.python.org/3.8/library/2to3.html
-https://www.youtube.com/watch?v=klaGx9Q_SOA
-https://snarky.ca/my-experience-creating-caniusepython3/
-https://pypi.org/project/caniusepython3/
-
-Packages for upgrading
-https://github.com/asottile/pyupgrade
-https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
-
-Not sure
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-https://python-future.org/quickstart.html | Quick-start guide — Python-Future documentation
-http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
-https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
-https://pypi.org/project/modernize/ | modernize · PyPI
-
-https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
-
-Dropping Support
-https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
-https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
-https://aws.amazon.com/support
-https://forums.aws.amazon.com/forum.jspa?forumID=186
-https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
-https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
-https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
-https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
-https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
 -->
 
 ## Python Docs Themes
@@ -723,44 +559,11 @@ https://wiki.python.org/moin/ConcatenationTestCode
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 -->
 
-## Django Testing
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-<!--
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
-tox can be used with Flask
-https://github.com/pallets/flask/blob/master/tox.ini
--->
-
 ## Debugging
 
 Debugging
 * [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
 * [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-
-## Python Testing
-
-Python and Django Debugging
-* [bdb](https://docs.python.org/3/library/bdb.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-
-Python Testing Built-In Tools
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-* [doctest](https://docs.python.org/3/library/doctest.html)
-* [mock](https://docs.python.org/dev/library/unittest.mock.html)
 
 ## Types of Software Testing
 
@@ -803,8 +606,129 @@ Other Types of Testing
 * [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
 * [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
+## Django Testing
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
 <!--
+https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
+https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
+tox can be used with Flask
+https://github.com/pallets/flask/blob/master/tox.ini
+-->
+
+## Python Testing
+
+Python and Django Debugging
+* [bdb](https://docs.python.org/3/library/bdb.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+
+Python Testing Built-In Tools
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+* [doctest](https://docs.python.org/3/library/doctest.html)
+* [mock](https://docs.python.org/dev/library/unittest.mock.html)
+
+## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
+
+pytest 
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+
+Django
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+
+Selenium
+* [Selenium](http://www.seleniumhq.org)
+* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
+
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Pylint Django
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
+
+Django Test Plus
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
+Python- Django- Debug Toolbar an dPanel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+https://docs.pytest.org/en/latest/assert.html#assert
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
+https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+
+https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
+
+https://github.com/behave/behave | behave/behave: BDD, Python style.
+https://hypothesis.readthedocs.io/en/latest/
+https://cucumber.io/ | Cucumber
+https://github.com/cucumber/gherkin-python
+-->
+
+
+<!--
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
+
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+http://pythontesting.net/start-here/
+
+
+DjangoCon Keynote by Ana
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
 High-level structure
 https://en.wikipedia.org/wiki/High-level_design
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
@@ -817,11 +741,6 @@ https://automationpanda.com/python/
 
 Test automation
 https://en.wikipedia.org/wiki/Headless_browser
-
-https://docs.pytest.org/en/latest/assert.html#assert
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
 
 https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
 
@@ -880,83 +799,31 @@ https://testautomationu.applitools.com/unit-testing/ | Overview
 -->
 
 <!--
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+Also Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
 
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
 
-http://pythontesting.net/start-here/
+https://pip.pypa.io/en/stable/reference/pip_install/ | pip install — pip 19.3.1 documentation
 
+https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
 
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+Pinax
+https://dependabot.com/docs/config-file/ | Dependabot
 
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 
-https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+https://github.com/pypa/pypi-support
 
-https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
-
-https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
-https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
-
-https://pypi.org/project/selenium/ | selenium · PyPI
-https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
-
-https://github.com/behave/behave | behave/behave: BDD, Python style.
-https://hypothesis.readthedocs.io/en/latest/
-https://cucumber.io/ | Cucumber
-https://github.com/cucumber/gherkin-python
+https://github.com/pypa/setuptools/issues/931
+https://github.com/pytest-dev/pytest/issues/5534
+https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
+https://github.com/pypa/setuptools/issues/1684
 -->
 
-
-<!--
-DjangoCon Keynote by Ana
--->
-
-<!--
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
--->
-
-
-## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
-
-pytest 
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-
-Django
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
-Selenium
-* [Selenium](http://www.seleniumhq.org)
-* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
-
-PyLint
-* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
-
-Pylint Django
-* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
-
-Django Test Plus
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-
-Python- Django- Debug Toolbar an dPanel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 ## Python and Django Debugging and Testing
 
@@ -982,9 +849,120 @@ Nose (Unit Test Extension)
 Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
-## Anthony
+## Python 2 or 3, Python 2 EoL
+
+Python 2 or 3
+* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
+
+Python 2 End of Life (EOL)
+* [Python 2 End of Life (EOL) Python Developer email](https://mail.python.org/pipermail/python-dev/2018-March/152348.html)
+
+Python 2 EOL Websites
+* [Guido van Rossum: "Cool sites about the Python 3 transition"](https://twitter.com/gvanrossum/status/1012462042094002176)
+* [Python Clock](https://pythonclock.org)
+* [Python 3 Statement](http://python3statement.org)
+* [Python 3 Readiness](https://tiran.github.io/py3readiness)
+* [Python Readiness](https://pyreadiness.org)
+* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
+* [Python 3 Porting](http://python3porting.com)
+* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
+
+Django and Python 3
+* [Django Packages Python 3](https://www.djangopackages.com/python3)
+
+Changeset Python 2 Sunsetting Initiative
+* [Kickoff for Communications Work on the Python 2 Sunsetting](https://www.harihareswara.net/sumana/2019/08/05/0)
+
+<!--
+https://www.python.org/doc/sunset-python-2/
+https://twitter.com/brainwane/status/1176517084890750981
+
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+
+Python 2 to 3
+https://docs.python.org/3/howto/pyporting.html
+
+Cheat Sheets
+http://python-future.org/compatible_idioms.html
+Python 3.1
+http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
+https://pybit.es/python-porting.html
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+six
+https://pypi.org/project/six/ | six · PyPI
+https://six.readthedocs.io/
+https://github.com/benjaminp/six
+
+django.utils.six
+https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
+https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
+
+Django
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+
+`from __future__ import`
+
+New features
+f-strings
+type checking
+
+https://django.readthedocs.io/en/1.7.x/topics/python3.html
+https://docs.python.org/3.8/library/2to3.html
+https://www.youtube.com/watch?v=klaGx9Q_SOA
+https://snarky.ca/my-experience-creating-caniusepython3/
+https://pypi.org/project/caniusepython3/
+
+Packages for upgrading
+https://github.com/asottile/pyupgrade
+https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
+
+Not sure
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+https://python-future.org/quickstart.html | Quick-start guide — Python-Future documentation
+http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
+https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
+https://pypi.org/project/modernize/ | modernize · PyPI
+
+https://twitter.com/ncoghlan_dev/status/1137520803283529728 | Nick Coghlan on Twitter: "This is an excellent post from @hawkieowl on the trade-offs of dropping support for older language versions. Controversial opinion though: if you have a service that has had stable requirements for years, trading runtime inefficiency for ease of code changes is a bad trade-off.… https://t.co/e3xKksW7bq"
+
+Dropping Support
+https://docs.pytest.org/en/latest/py27-py34-deprecation.html | Python 2.7 and 3.4 support plan — pytest documentation
+https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-now-supports-python-3-8/
+https://aws.amazon.com/support
+https://forums.aws.amazon.com/forum.jspa?forumID=186
+https://palletsprojects.com/blog/ending-python2-support/ | Ending Python 2 Support | The Pallets Projects
+https://www.anaconda.com/end-of-life-eol-for-python-2-7-is-coming-are-you-ready/ | End of Life (EOL) for Python 2.7 is coming. Are you ready? - Anaconda
+https://twitter.com/pganssle/status/978256523909623809 | Paul Ganssle on Twitter: "For any #python folks who may use python-dateutil in your projects, I'm working out the schedule for dropping Python 2.7 support now. The issue for discussion is here: https://t.co/sWRIhe85qp RT appreciated for visibility (don't want anyone blindsided)"
+https://github.com/dateutil/dateutil/issues/653 | Python 2 deprecation schedule · Issue #653 · dateutil/dateutil
+https://twitter.com/BokehPlots/status/1138961281480704000 | Bokeh Plot Library on Twitter: "It's a few months out, but the preparations for a Bokeh 2.0 release are already apace. Besides dropping Pyhon 2 support, there will be some other small changes made at the same time. We will lay out everything to expect in this major number bump in a blog post soon.… https://t.co/8KThwKBqtS"
+-->
+
+## Great Release Managers
+
+### Hynek
+
+### Paul Ganssle
+
+### Anthony Sottile
 
 Builds lots of productivity tools, linters, and code formatters
+
+Regular Accounts
+* [Anthony Sottile GitHub](https://github.com/asottile/)
+* [Anthony Sottile Archive GitHub](https://github.com/asottile-archive)
+
+Twitch-Related
+* [Twitch](https://www.twitch.tv/anthonywritescode)
+* [Twitch GitHub](https://github.com/anthonywritescode)
+* [Twitch YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos)
+* [Anthony Sottile Twitter](https://twitter.com/codewithanthony)
+
+Advent of Code
+* [Advent of Code GitHub](https://github.com/anthonywritescode/aoc2019/)
 
 Creator
 * [pre-commit](https://pre-commit.com)
@@ -1017,14 +995,8 @@ https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 
-https://github.com/asottile/
-https://github.com/asottile-archive
-https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
-https://www.twitch.tv/anthonywritescode
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
-https://github.com/anthonywritescode
 https://github.com/asottile/babi | asottile/babi
-https://github.com/anthonywritescode/aoc2019/
+
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://github.com/pre-commit/pre-commit/issues/1260
 
@@ -1042,19 +1014,18 @@ https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitte
 https://github.com/nedbat/coveragepy/issues/
 -->
 
-## Also Recommended
-
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+## Eldarion
 
 <!--
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
 
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
 https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
 https://pypi.org/project/flake8-black/ | flake8-black · PyPI
 -->
-
-## Eldarion
 
 Tags and Releases
 * [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
@@ -1124,6 +1095,9 @@ Webpack Versus Browserify
 * [Browsersync](https://www.browsersync.io/)
 
 <!--
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
