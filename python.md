@@ -25,17 +25,6 @@ https://github.com/palantir/python-language-server | palantir/python-language-se
 -->
 
 <!--
-https://github.com/asottile/
-https://github.com/asottile-archive
-https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
-https://www.twitch.tv/anthonywritescode
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
-https://github.com/anthonywritescode
-https://github.com/asottile/babi | asottile/babi
-https://github.com/anthonywritescode/aoc2019/
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
-https://github.com/pre-commit/pre-commit/issues/1260
-
 ## Talks
 
 Carl Meyer: Set your code free
@@ -333,7 +322,13 @@ https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Pytho
 
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
+
+Cheat Sheets
 http://python-future.org/compatible_idioms.html
+Python 3.1
+http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
+https://pybit.es/python-porting.html
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
 
 six
 https://pypi.org/project/six/ | six · PyPI
@@ -355,7 +350,7 @@ f-strings
 type checking
 
 https://django.readthedocs.io/en/1.7.x/topics/python3.html
-https://docs.python.org/2/library/2to3.html
+https://docs.python.org/3.8/library/2to3.html
 https://www.youtube.com/watch?v=klaGx9Q_SOA
 https://snarky.ca/my-experience-creating-caniusepython3/
 https://pypi.org/project/caniusepython3/
@@ -363,7 +358,6 @@ https://pypi.org/project/caniusepython3/
 Packages for upgrading
 https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
-https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
 
 Not sure
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
@@ -730,6 +724,16 @@ Other Types of Testing
 * [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
 <!--
+High-level structure
+https://en.wikipedia.org/wiki/High-level_design
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/bliki/UnitTest.html
+https://martinfowler.com/articles/nonDeterminism.html
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+https://automationpanda.com/bdd/
+https://automationpanda.com/python/
+
 Test automation
 https://en.wikipedia.org/wiki/Headless_browser
 
@@ -774,11 +778,6 @@ https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing w
 
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
-https://martinfowler.com/articles/practical-test-pyramid.html
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-https://automationpanda.com/bdd/
-https://automationpanda.com/python/
-
 https://twitter.com/AutomationPanda/status/1097140065577431041
 https://twitter.com/AutomationPanda/status/1048275359303708673
 https://twitter.com/AutomationPanda/status/1023346925771345920
@@ -796,61 +795,6 @@ https://www.youtube.com/watch?v=MYucYon2-lk
 https://en.wikipedia.org/wiki/Mutation_testing
 https://martinfowler.com/testing/
 https://testautomationu.applitools.com/unit-testing/ | Overview
--->
-
-## Python and Django Dependency Management
-
-* [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
-* [pipx](https://pipxproject.github.io/pipx/)
-* [Dephell GitHub](https://github.com/dephell/dephell)
-
-<!--
-pip
-https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
-https://pypi.org/project/pip/ | pip · PyPI
-
-Options
-The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
-https://github.com/pypa/pipfile/issues/27
-https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/#requirements-files
-https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
-https://github.com/pypa/pipfile
-https://github.com/pypa/pipfile#the-concept
-
-Virtualenv and Pyenv
-https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
-https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-
-https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-
-https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
-https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
-
-https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
-
-https://snarky.ca/why-you-should-use-python-m-pip/
-
-https://github.com/jazzband/pip-tools
-
-pyproject.toml
-https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
-https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
-https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
-https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
-https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
-https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
-
-https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
-
-https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
-https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
-
-https://github.com/sdispater/poetry
-https://python-poetry.org/docs/pyproject/
-https://black.readthedocs.io/en/stable/pyproject_toml.html
 -->
 
 ## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
@@ -911,6 +855,97 @@ https://cucumber.io/ | Cucumber
 https://github.com/cucumber/gherkin-python
 -->
 
+## Python and Django Dependency Management
+
+* [Poetry Docs](https://python-poetry.org/docs/) and [Poetry GitHub](https://github.com/python-poetry)
+* [pipx](https://pipxproject.github.io/pipx/)
+* [Dephell GitHub](https://github.com/dephell/dephell)
+
+<!--
+pip
+https://pip.readthedocs.io/en/latest/user_guide/#user-installs | User Guide — pip 19.1.dev0 documentation
+https://pypi.org/project/pip/ | pip · PyPI
+
+Options
+The difference between setup.py (pyproject.toml) and requirements.txt (Pipfile) #27
+https://github.com/pypa/pipfile/issues/27
+https://packaging.python.org/discussions/install-requires-vs-requirements/ | install_requires vs requirements files — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/#requirements-files
+https://docs.pipenv.org/advanced/#pipfile-vs-setup-py
+https://github.com/pypa/pipfile
+https://github.com/pypa/pipfile#the-concept
+
+Virtualenv and Pyenv
+https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
+https://github.com/pyenv/pyenv-virtualenv | pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+
+https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
+
+https://docs.python.org/3/distutils/configfile.html | 3. Writing the Setup Configuration File — Python 3.8.1rc1 documentation
+https://docs.python.org/3/install/index.html#inst-config-syntax | Installing Python Modules (Legacy version) — Python 3.8.1rc1 documentation
+
+https://hynek.me/articles/python-app-deps-2018/ | Python Application Dependency Management in 2018 · Homepage of Hynek Schlawack
+
+https://snarky.ca/why-you-should-use-python-m-pip/
+
+https://github.com/jazzband/pip-tools
+
+pyproject.toml
+https://www.python.org/dev/peps/pep-0518/ | PEP 518 -- Specifying Minimum Build System Requirements for Python Projects | Python.org
+https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
+https://en.wikipedia.org/wiki/TOML | TOML - Wikipedia
+https://gitlab.com/pycqa/flake8/issues/428#note_154743215 | pyproject.toml (PEP 518) support (#428) · Issues · PyCQA / flake8 · GitLab
+https://news.ycombinator.com/item?id=17110882 | pyproject.toml isn't another way to specify dependencies for Python code. The l... | Hacker News
+https://github.com/psf/black/blob/master/pyproject.toml | black/pyproject.toml at master · psf/black
+
+https://github.com/pypa/pipenv/issues/4058 | If this project is dead, just tell us · Issue #4058 · pypa/pipenv
+
+https://www.youtube.com/watch?v=GBQAKldqgZs | Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube
+http://www.kennethreitz.org/essays/a-better-pip-workflow
+https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.3.2 documentation
+https://github.com/pypa/pipenv | kennethreitz/pipenv: Python Development Workflow for Humans.
+
+https://github.com/sdispater/poetry
+https://python-poetry.org/docs/pyproject/
+https://black.readthedocs.io/en/stable/pyproject_toml.html
+-->
+
+## Anthony
+
+<!--
+Anthony Sottile
+https://github.com/sponsors/asottile
+Created @pre-commit
+Core developer on @pytest-dev, and @tox-dev
+Maintains flake8 and helps maintain pyflakes as a member of the @PyCQA
+Builds backported/forwardported pythons for ubuntu with @deadsnakes
+Builds lots of productivity tools, linters, and code formatters
+
+https://github.com/asottile/
+https://github.com/asottile-archive
+https://twitter.com/codewithanthony?lang=en | Anthony Sottile (@codewithanthony) / Twitter
+https://www.twitch.tv/anthonywritescode
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
+https://github.com/anthonywritescode
+https://github.com/asottile/babi | asottile/babi
+https://github.com/anthonywritescode/aoc2019/
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+https://github.com/pre-commit/pre-commit/issues/1260
+
+https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
+https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
+https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
+https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
+
+Drop python 2 / python3.5 support in pre-commit
+https://github.com/pre-commit/pre-commit/pull/1277
+
+https://github.com/asottile/pyupgrade
+https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
+
+https://github.com/nedbat/coveragepy/issues/
+-->
+
 ## Also Recommended
 
 * [attrs GitHub](https://github.com/python-attrs/attrs)
@@ -921,11 +956,6 @@ https://github.com/cucumber/gherkin-python
 * [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
 
 <!--
-https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
-https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
-https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
-https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
-
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black
 
 https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
