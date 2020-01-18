@@ -242,7 +242,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [Rigetti Computing](https://github.com/rigetti)
 
-
 ## Organizations on GitHub
 
 ### Amazon
