@@ -52,6 +52,8 @@ https://twitter.com/brettsky/status/1216051044095946752
 https://twitter.com/VictorStinner/status/1216061972543868929
 https://github.com/vstinner/pyperf/blob/master/setup.py
 
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
