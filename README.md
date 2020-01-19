@@ -73,14 +73,10 @@ https://www.quora.com/What-are-some-common-trade-offs-in-software-development | 
 
 https://www.python.org/dev/peps/pep-0394/#recommendation
 
-https://www.hackerrank.com/home
-
 https://treyhunner.com/2020/01/passing-functions-as-arguments/
 https://twitter.com/__mharrison__/status/1217626019038760960
 
 https://techyaks.com/python-year-tytop.html
-
-https://www.python.org/
 
 https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 https://opensource.com/article/19/4/bash-vs-python
