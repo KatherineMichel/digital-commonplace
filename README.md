@@ -38,21 +38,6 @@ https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance O
 
 
 
-Also Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
-
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
-
-Testing
-https://github.com/pypa/setuptools/issues/931
-https://github.com/pytest-dev/pytest/issues/5534
-https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
-https://github.com/pypa/setuptools/issues/1684
-
-https://github.com/pypa/pypi-support
-
 https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
 
 Roadmap example
@@ -70,6 +55,10 @@ https://github.com/vstinner/pyperf/blob/master/setup.py
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
+
+https://packaging.python.org/glossary/#term-requirement-specifier
+https://www.python.org/dev/peps/pep-0440/
+https://www.python.org/dev/peps/pep-0440/#version-specifiers
 
 https://www.python.org/dev/peps/pep-0394/#recommendation
 
@@ -121,23 +110,6 @@ https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_j
 
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
-
-https://github.com/jpadilla/
-https://github.com/jpadilla/django-rest-framework-jwt
-https://github.com/jpadilla/django-project-template
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
-Google Cloud Django/Python
-https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
-https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
-
-https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
 -->
 
 ## Health
