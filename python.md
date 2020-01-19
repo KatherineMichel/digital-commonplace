@@ -797,6 +797,13 @@ http://calver.org/
 
 ## Great Release Managers
 
+### Projects
+
+<!--
+Includes issues links
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+-->
+
 ### General Talks
 
 <!--
@@ -883,6 +890,9 @@ Special Projects
 <!--
 https://github.com/nedbat/coveragepy/issues/
 
+Python 2/3
+https://github.com/pre-commit/pre-commit/issues/1260
+
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
 
@@ -897,7 +907,6 @@ https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
 
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
-https://github.com/pre-commit/pre-commit/issues/1260
 
 https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
 https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
