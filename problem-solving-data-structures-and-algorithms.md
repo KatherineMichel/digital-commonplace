@@ -1,6 +1,9 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
+
 Anthony
 default dict counter sets - Google Search
 
