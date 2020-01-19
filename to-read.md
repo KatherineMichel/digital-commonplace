@@ -109,7 +109,7 @@ https://threader.app/thread/1078647576201703427 | A thread written by @ali01
 benjamin franklin habits - Google Search
 -->
 
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
 
 Personal Advice
 * [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
@@ -166,11 +166,16 @@ https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Compu
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 
+https://www.hackerrank.com/home
+
+https://www.python.org/
+
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
 https://docs.djangoproject.com/en/dev/internals/contributing/
 
+Working through
 https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
 
 https://www.python.org/dev/peps/pep-0602/
@@ -195,6 +200,8 @@ Python- Official Packaging Info
 * [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
 * [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
+
+Includes issues links
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 
 Python Environment
@@ -202,14 +209,11 @@ Python Environment
 * [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
 * [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
 
-[README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) and [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development) are two approaches.
+Test Driven Development (TDD)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
+README and Documentation Driven Development
 * [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Refactoring](https://refactoring.com/)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 
 Refactoring Catalogs
 * [Refactoring Catalog](https://refactoring.com/catalog/)
@@ -223,12 +227,7 @@ Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
-https://www.hackerrank.com/home
-
-https://www.python.org/
-
 Authorities
-* [Kent Beck](https://www.kentbeck.com/) and [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
 * [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
@@ -241,9 +240,6 @@ http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — Th
 http://pythontesting.net/start-here/
 
 https://docs.pytest.org/en/latest/
-
-Test Driven Development (TDD)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
 * [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
 
