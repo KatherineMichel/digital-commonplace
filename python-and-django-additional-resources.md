@@ -1,6 +1,20 @@
 # Python and Django- Additional Resources
 
 <!--
+Tools
+
+https://github.com/jpadilla/
+https://github.com/jpadilla/django-rest-framework-jwt
+https://github.com/jpadilla/django-project-template
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+
+Google Cloud Django/Python
+https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+
+https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
+
 People
 
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
@@ -525,9 +539,6 @@ Python- Style Guides
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
 * [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-Code Formatting
-* [Black GitHub](https://github.com/python/black)
 
 <!--
 https://docs.python-guide.org/#writing-great-python-code
