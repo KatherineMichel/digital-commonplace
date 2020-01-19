@@ -914,6 +914,21 @@ https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitte
 ## Eldarion
 
 <!--
+Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
+
+https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
+
+Testing
+https://github.com/pypa/setuptools/issues/931
+https://github.com/pytest-dev/pytest/issues/5534
+https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
+https://github.com/pypa/setuptools/issues/1684
+-->
+
+<!--
 https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
 
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
