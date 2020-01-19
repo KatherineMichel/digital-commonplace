@@ -47,6 +47,9 @@ cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
 
+Python 2/3
+https://github.com/pre-commit/pre-commit/issues/1260
+
 Release
 https://twitter.com/brettsky/status/1216051044095946752
 https://twitter.com/VictorStinner/status/1216061972543868929
@@ -121,6 +124,110 @@ Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+-->
+
+## Priorities
+
+<!--
+https://gamestorming.com/impact-effort-matrix-2/
+https://www.mindtools.com/pages/article/newHTE_95.htm
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+<!--
+Eisenhower Matrix
+https://twitter.com/airtable/status/1205241906759794689
+https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
+-->
+
+Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+## Goal Setting and Productivity
+
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+Marshall Goldsmith
+* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
+
+<!--
+https://threader.app/thread/1078647576201703427 | A thread written by @ali01
+https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
+
+benjamin franklin habits - Google Search
+
+Deep Work by Cal Newport
+
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+
+https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
+-->
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+<!--
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+<!--
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
+-->
+
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+Test Driven Development (TDD)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+
+README and Documentation Driven Development
+* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+
+https://devchecklists.com/vintas-high-quality-standards/
+
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/
+
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+Links change log lines to PRs
+
+Types of changes
+Added for new features.
+Changed for changes in existing functionality.
+Deprecated for soon-to-be removed features.
+Removed for now removed features.
+Fixed for any bug fixes.
+Security in case of vulnerabilities.
 -->
 
 ## Authority Figures and Books
@@ -213,22 +320,6 @@ https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
-## Priorities
-
-<!--
-Effort vs. Impact Matrix
-value effort matrix
--->
-
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-<!--
-Eisenhower Matrix
-https://twitter.com/airtable/status/1205241906759794689
-https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
--->
-
 ## Project-Based Learning
 
 * [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
@@ -255,9 +346,6 @@ https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on
 https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
 
 https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
-
-https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
-https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
@@ -513,18 +601,6 @@ https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Devel
 https://about.gitlab.com/developer-survey/
 https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
 http://stateofjs.com/2016/frontend/ | Front-End Frameworks
--->
-
-## Vinta Django Apps and API Checklists
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
 -->
 
 ## Interesting
@@ -1143,12 +1219,6 @@ https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitte
 https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
-
-https://devchecklists.com/vintas-high-quality-standards/
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
-
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 
 https://github.com/jlord/reporobot
 
@@ -3240,18 +3310,6 @@ https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 -->
 
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-<!--
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
-https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
--->
-
 ## Mental Models
 
 Mental Models
@@ -3321,31 +3379,8 @@ https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Pro
 https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
 -->
 
-Fear Setting
-* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
-* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
-
-Goal Setting
-
-Marshall Goldsmith
-* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Habit Engineering
-* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
-
-<!--
-https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
-
-benjamin franklin habits - Google Search
--->
-
 Effort and Results
 * [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
-
-Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
 
 Practice
 * [Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method))
@@ -3377,8 +3412,6 @@ https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
 
 https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
 -->
 
 Pocket
@@ -3436,9 +3469,6 @@ https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Mich
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
 -->
 
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
 <!--
 https://en.wikipedia.org/wiki/Mnemonic
 https://en.wikipedia.org/wiki/Memory_sport
@@ -3460,8 +3490,6 @@ http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
 
 https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
 https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
 Checklists
@@ -3500,9 +3528,6 @@ Apple's Directly Responsible Individual (DRI)
 
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
 task relevant maturity - Google Search
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 https://news.ycombinator.com/item?id=10654695 | Show HN: Startup Calendar Audit | Hacker News
 https://www.youtube.com/watch?v=6fQHLK1aIBs | Lecture 14 - How to Operate (Keith Rabois) - YouTube
