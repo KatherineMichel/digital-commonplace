@@ -83,12 +83,6 @@ https://www.quora.com/What-are-some-common-trade-offs-in-software-development | 
 
 
 <!--
-Effort vs. Impact Matrix
-value effort matrix
-
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
 https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
 
 Fear Setting
@@ -129,9 +123,6 @@ https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Met
 
 https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
 
-Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 
 Memory Methods
@@ -163,8 +154,6 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 
 https://www.hackerrank.com/home
 
@@ -204,17 +193,6 @@ Python- Official Packaging Info
 Includes issues links
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 
-Python Environment
-* [xkcd: Python Environment](https://xkcd.com/1987)
-* [Brett Cannon: Deconstructions xkcd: Python Environment](https://snarky.ca/deconstructing-xkcd-com-1987/)
-* [Guido van Rossum on Python Environment](https://twitter.com/Transition/timelines/988219487571898368)
-
-Test Driven Development (TDD)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-
-README and Documentation Driven Development
-* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-
 Refactoring Catalogs
 * [Refactoring Catalog](https://refactoring.com/catalog/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
@@ -229,6 +207,12 @@ Python Patterns
 
 Authorities
 * [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+
+<!--
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://martinfowler.com/articles/products-over-projects.html
+-->
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
@@ -258,44 +242,19 @@ https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.Transact
 "[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
 "[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
 
-https://devchecklists.com/vintas-high-quality-standards/
-
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
-
 ## Competitive Programming
 
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 * Project-Based Learning
 
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
--->
-
 ## Project-Based Learning
 
 * [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
 
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
 <!--
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://github.com/search?o=desc&p=5&q=django&s=stars&type=Repositories | Search · django
 
 https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
@@ -480,32 +439,6 @@ https://en.wikipedia.org/wiki/Messaging_pattern
 https://en.wikipedia.org/wiki/Request%E2%80%93response
 https://en.wikipedia.org/wiki/Post/Redirect/Get
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
--->
-
-## Authorities
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-Checklists
-* [Code Complete Checklists](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-<!--
-https://refactoring.com/
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-https://refactoring.com/catalog/
-
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-https://github.com/faif/python-patterns/
-https://python-patterns.guide/
-
-https://www.kentbeck.com/ | KentBeck.com
-
-https://martinfowler.com/articles/products-over-projects.html
 -->
 
 <!--
