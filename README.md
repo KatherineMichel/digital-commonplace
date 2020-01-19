@@ -119,9 +119,11 @@ https://www.khanacademy.org/computing/computer-programming/programming#good-prac
 
 ## Health
 
-<!--
 Meditation
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+<!--
+https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
 
 https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
 -->
@@ -434,8 +436,9 @@ Built With
 
 ## Useful Tools
 
-Makers
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com) and [Glitch Websites](https://glitch.com/websites)
+Glitch
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
+* [Glitch Websites](https://glitch.com/@websites)
 
 Hawt- Web
 * [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
@@ -470,30 +473,30 @@ https://glitch.com/culture/website-starter-kit/
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
 
+https://repl.it/site/blog/packager
 https://repl.it/site/blog/github
 https://twitter.com/amasad/status/1204843691682091008
 
-https://repl.it/site/blog/packager
+https://www.netlify.com/features/ | Features | Netlify
 
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+* [Zeit next.js](https://github.com/zeit/next.js) 
 
-https://github.com/zeit/micro | zeit/micro: Asynchronous HTTP microservices
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 https://zeit.co/blog/github
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+
 https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
 
 * [Zeit now](https://zeit.co/now)
-* [Zeit next.js](https://github.com/zeit/next.js) 
 * [Zeit micro](https://github.com/zeit/micro)
 
 https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
 
-https://www.netlify.com/features/ | Features | Netlify
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
 https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
-
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
