@@ -131,6 +131,113 @@ https://martinfowler.com/bliki/MaturityModel.html
 "[Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296)"...
 -->
 
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+GitHub API
+https://developer.github.com/v3/
+GitHub GraphQL API
+https://developer.github.com/v4/
+
+https://graphql.org/learn/best-practices/
+https://developer.github.com/v4/guides/migrating-from-rest/
+
+Settings
+https://github.com/settings/apps
+https://github.com/settings/installations
+
+Endpoints
+https://developer.github.com/v3/apps/available-endpoints/
+
+Webhooks
+https://developer.github.com/webhooks/creating/
+
+Payloads
+https://developer.github.com/webhooks/#payloads
+https://en.wikipedia.org/wiki/Payload_(computing)
+
+https://developer.github.com/v3/issues/comments/#create-a-comment
+https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://developer.github.com/v3/repos/statuses/#create-a-status
+
+Events!
+https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
+
+Event examples
+https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
+https://developer.github.com/v3/activity/events/types/#issuesevent
+https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+https://github.com/actions/checkout | actions/checkout
+
+## Bots
+
+Mariatta- Bot Tutorials
+* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
+* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
+* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
+
+Tools
+* [aiohttp](https://aiohttp.readthedocs.io)
+* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
+* [sans I/O](https://sans-io.readthedocs.io/)
+
+<!--
+Mariatta community automation talk
+https://twitter.com/mariatta/status/1191534648205037569
+
+Mariatta and Andrew
+https://github.com/asvetlov/us-pycon-2019-tutorial
+https://us-pycon-2019-tutorial.readthedocs.io/index.html
+https://docs.python.org/3/library/abc.html
+https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+https://cz.pycon.org/2019/programme/workshops/9/#main
+
+https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
+
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://github.com/berkerpeksag/cpython-merge-bot
+
+* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+-->
+
+Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
+
 ## Competitive Programming
 
 ## Project-Based Learning
@@ -145,6 +252,28 @@ https://devcenter.heroku.com/
 https://blog.heroku.com
 https://docs.gitlab.com
 https://developer.atlassian.com
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+GitLab- Notable Features
+* [GitLab Blog](https://about.gitlab.com/blog/)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+<!--
+https://about.gitlab.com/
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+https://docs.gitlab.com/ee/install/README.html
+-->
+
+GitHub Blogs
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
 https://www.hackerrank.com/home
 
@@ -401,6 +530,8 @@ Architectures
 * [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 
 <!--
+Monolith
+
 https://en.wikipedia.org/wiki/Multitenancy
 
 Interesting
