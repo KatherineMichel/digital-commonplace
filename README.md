@@ -1799,6 +1799,8 @@ Architectures
 * [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 
 <!--
+Monolith
+
 https://en.wikipedia.org/wiki/Multitenancy
 
 Interesting
