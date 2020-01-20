@@ -47,6 +47,8 @@ cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
 
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
 Python 2/3
 https://github.com/pre-commit/pre-commit/issues/1260
 
@@ -141,6 +143,7 @@ https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_j
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 -->
+
 
 ## Health
 
@@ -884,6 +887,8 @@ https://opensource.com/article/18/1/inside-facebooks-open-source-program | A loo
 https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
 
 
+Sarah Cope
+
 GitHub Universe
 https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
 https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
@@ -1135,6 +1140,10 @@ GitHub- Notable Features
 * [GitHub Actions](https://github.com/features/actions)
 * [GitHub Packages](https://github.com/features/packages)
 
+<!--
+https://github.com/actions | GitHub Actions
+-->
+
 GitHub Web Hooks  
 * [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
 
@@ -1159,42 +1168,13 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-
-https://github.com/features/security
-https://github.com/features/code-review/
-https://github.com/personal
-Productivity
-https://visualstudio.github.com/
-https://github.com/enterprise#administration
-https://github.com/features/project-management/
-
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
-
-https://resources.github.com/whitepapers/
-
+Hotkeys
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
 https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
 https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
-https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
-https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
-https://blog.github.com/2018-04-19-introducing-github-learning-lab/ | Introducing GitHub Learning Lab: A new way to level up on GitHub | The GitHub Blog
-
-https://github.com/erikbern/git-of-theseus
-
-https://primer.style/css/ | Primer CSS
-https://github.com/primer | Primer
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
 https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
 https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
@@ -1256,7 +1236,24 @@ https://dependabot.com/ | Dependabot
 https://dependabot.com/#how-it-works | Dependabot
 https://dependabot.com/github-actions/ | Dependabot
 
-https://twitter.com/instantish/status/1195139931930165248 | Instantish on Twitter: "Announced at #GitHubUniverse: You can now direct issue creators to visit your @SlackHQ group or forum https://t.co/ONTR4VdLBV" / Twitter
+https://github.com/showcases/projects-with-great-wikis
+
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+https://primer.style/css/ | Primer CSS
+https://github.com/primer | Primer
+
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/features/security
+https://github.com/features/code-review/
+https://github.com/personal
+Productivity
+https://visualstudio.github.com/
+https://github.com/enterprise#administration
+https://github.com/features/project-management/
 
 https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
@@ -1321,14 +1318,6 @@ Create a release
 https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
 
-https://github.com/actions | GitHub Actions
-
-https://github.com/features/actions
-
-https://github.com/marketplace
-https://github.com/marketplace?type=apps
-https://github.com/marketplace?type=actions
-https://github.com/marketplace?after=Y3Vyc29yOjIw&type=actions | GitHub Marketplace · Actions to improve your workflow
 
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
@@ -1453,15 +1442,6 @@ https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-o
 Hooks
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
-
-https://twitter.com/maxibanki/status/1192060430241415168
-
-Packages
-https://help.github.com/en/articles/about-github-package-registry#supported-clients-and-formats | About GitHub Package Registry - GitHub Help
-https://twitter.com/natfriedman/status/1131551382530592768 | Nat Friedman on Twitter: "Fantastic thread from Tierney summarizing our announcements this morning 👇… "
-
-https://github.blog/2019-09-16-product-documentation-now-available-in-spanish/ | ¡Hola! Our help documentation is now available in Spanish - The GitHub Blog
-https://twitter.com/jennleaver/status/1173795971131674625 | Jenn Leaver on Twitter: "We’ve added another language for @github’s product docs today - Spanish! We know how important it is to have docs in people’s native languages and we’re excited to keep lowering the barriers to entry in tech. 💚 🙌🏻 to @alexandrabourne and @zeke who worked to make this possible! https://t.co/DL5T8kjBnw" / Twitter
 -->
 
 ## Bots
@@ -1508,30 +1488,6 @@ https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..6
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
--->
-
-<!--
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
-
-https://github.com/psf/.github | psf/.github: Organization-wide GitHub settings
-
-https://pages.github.com/versions/ | Dependency versions | GitHub Pages
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/github/personal-website | github/personal-website: Code that'll help you kickstart a personal website that showcases your work as a software developer.
-https://github.com/showcases/projects-with-great-wikis
-
-https://github.com/marketplace/category/code-review
-
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github | Navigating code on GitHub - GitHub Help
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-https://github.com/blog/2123-more-code-review-tools
-https://github.com/blog/2392-introducing-code-owners
-https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
-
-https://github.blog/changelog/2019-10-28-new-issue-template-configuration-options/ | New issue template configuration options - The GitHub Blog
-https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/| Generate new repositories with repository templates - The GitHub Blog
-
-Permissions: triage and maintain
 -->
 
 ## Advanced Workflows- Collaborative Development
