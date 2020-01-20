@@ -173,6 +173,9 @@ https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Met
 https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
 -->
 
+Dr. Barbara Oakley
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
@@ -3328,7 +3331,6 @@ Mental Models
 
 Dr. Barbara Oakley
 * [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!--
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
