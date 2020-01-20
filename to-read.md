@@ -1,6 +1,43 @@
 # To Read
 
 <!--
+## Useful Files
+## Open Source in Orgs
+## Open Source and Assessment
+## Gov
+## OS and Software Offices, Foundations, and Practices by Company
+## Hosting and GitHub
+## Bots
+## Release Management
+## Heroku
+## Workflows
+## Agile, CI, and Ops
+## Philosophies
+## DevOps
+## Async- Other Languages
+## Architecture- Important Concepts
+## Computer Architecture
+## Sync and Async
+## Request and Response Cycle, HTTP
+## Web Browser, Client/Server
+-->
+
+<!--
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+https://traversymedia.com/
+
+Netlify
+Zeit
+next.js
+ncc
+Glitch
+repl.it
+
 From TODO
 * [TODO Guides](https://todogroup.org/guides)
 
@@ -104,6 +141,11 @@ SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
+https://devcenter.heroku.com/
+https://blog.heroku.com
+https://docs.gitlab.com
+https://developer.atlassian.com
+
 https://www.hackerrank.com/home
 
 https://www.python.org/
@@ -154,7 +196,13 @@ Python Patterns
 Authorities
 * [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 
+## Clean Architecture in Python and Django
+
 <!--
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
 https://martinfowler.com/articles/products-over-projects.html
@@ -228,6 +276,40 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
 * [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
 * [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+
+Relational
+* [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+* [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
+
+Object-Relational Database
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+
+## Database Architectures and Principles
+
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
+
 
 ## JavaScript
 
@@ -309,8 +391,14 @@ Object Oriented Software Construction
 
 ## Architectures
 
+Architectures
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
 * [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
 * [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 
 <!--
 https://en.wikipedia.org/wiki/Multitenancy
@@ -353,60 +441,7 @@ Shebang File
 https://en.wikipedia.org/wiki/Shell_script
 -->
 
-
 <!--
-## Useful Files
-## Open Source in Orgs
-## Open Source and Assessment
-## Gov
-## OS and Software Offices, Foundations, and Practices by Company
-## Hosting and GitHub
-## Bots
-## Release Management
-## Heroku
-## Workflows
-## Agile, CI, and Ops
-## Philosophies
-## DevOps
-## Async- Other Languages
-## Architecture- Important Concepts
-## Computer Architecture
-## Sync and Async
-## Request and Response Cycle, HTTP
-## Web Browser, Client/Server
-
-<!--
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
-https://traversymedia.com/
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
-https://github.com/trekhleb/javascript-algorithms
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
-
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-<!--
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
-A16Z Metrics
-
-Netlify
-Zeit
-next.js
-ncc
-Glitch
-repl.it
-
 ## Interesting
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
