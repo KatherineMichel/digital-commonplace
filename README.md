@@ -189,6 +189,14 @@ Habit Engineering
 * [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
 
 <!--
+A16Z Metrics
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
 https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
 
 https://threader.app/thread/1078647576201703427 | A thread written by @ali01
@@ -210,14 +218,6 @@ Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 <!--
-A16Z Metrics
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
 -->
 
@@ -888,6 +888,8 @@ https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in re
 
 
 Sarah Cope
+https://github.com/saracope/shaping-the-contributor-experience
+https://saracope.github.io/shaping-the-contributor-experience/
 
 GitHub Universe
 https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
