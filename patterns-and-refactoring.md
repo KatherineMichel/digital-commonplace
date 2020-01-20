@@ -160,6 +160,11 @@ Software Principles (SOLID)
 * [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 
 <!--
+Pattern
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Separation_of_concerns
+https://en.wikipedia.org/wiki/Inversion_of_control
+
 https://en.wikipedia.org/wiki/Interface_(computing)
 
 Clean Architectures in Python - Leonardo Giordani - PyLondinium19
