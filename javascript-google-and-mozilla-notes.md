@@ -1,6 +1,19 @@
 # JavaScript- Google and Mozilla Notes
 
 <!--
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+http://youmightnotneedjquery.com/ | You Might Not Need jQuery
+
+https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Callback_function | Callback function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in | in operator - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval | eval() - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Global_object | Global object - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index | JavaScript methods index - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Index | JavaScript properties index - JavaScript | MDN
+
 https://twitter.com/_ericelliott/status/1200868362517176322 | Eric Elliott on Twitter: "My favorite modern JS features: * Arrow functions * Array/object destructuring * Rest/Spread * Async/await * [Symbol.iterator]" / Twitter
 https://twitter.com/dabeaz/status/1200526542532698112 | David Beazley on Twitter: "I see a lot of "advanced Python" tutorials that talk about using map, filter, and reduce. Confession: I never use map, filter, or reduce. The first two are easily performed using list comprehensions or generator expressions. Common reductions are already there (sum, min, max)." / Twitter
 https://twitter.com/js_tut/status/1190317017276002307 | JavaScript Teacher on Twitter: "Coding is all about: 1. Looping 2. Defining 3. Calling 4. Listing 5. Merging 6. Deleting 7. Removing 8. Erasing 9. Updating 10. Calculating 11. Rendering 12. Requesting 13. Returning 14. Invoking 15. Submitting 16. Accepting 17. Rejecting 18. Applying 19. Filtering 20. Mapping" / Twitter
