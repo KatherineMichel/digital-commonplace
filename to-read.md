@@ -153,10 +153,6 @@ https://developer.github.com/v4/
 https://graphql.org/learn/best-practices/
 https://developer.github.com/v4/guides/migrating-from-rest/
 
-Settings
-https://github.com/settings/apps
-https://github.com/settings/installations
-
 Endpoints
 https://developer.github.com/v3/apps/available-endpoints/
 
@@ -248,11 +244,6 @@ SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
-https://devcenter.heroku.com/
-https://blog.heroku.com
-https://docs.gitlab.com
-https://developer.atlassian.com
-
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
 * [Amazon Web Services New](https://aws.amazon.com/new)
@@ -265,6 +256,10 @@ GitLab- Notable Features
 * [GitLab Packages](http://packages.gitlab.com)
 
 <!--
+https://devcenter.heroku.com/
+https://docs.gitlab.com
+https://developer.atlassian.com
+
 https://about.gitlab.com/
 https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
 https://docs.gitlab.com/ee/install/README.html
@@ -339,6 +334,8 @@ https://martinfowler.com/articles/products-over-projects.html
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+
+tox
 
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
