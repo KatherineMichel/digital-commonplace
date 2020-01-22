@@ -23,23 +23,15 @@
 -->
 
 <!--
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
 
 https://traversymedia.com/
 
-Netlify
-Zeit
-next.js
-ncc
-Glitch
-repl.it
+Hawt
 
 From TODO
-* [TODO Guides](https://todogroup.org/guides)
 
 From GitHub
 * [GitHub Blog](https://github.blog)  
@@ -138,10 +130,6 @@ https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme wit
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
 Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
@@ -154,7 +142,6 @@ https://graphql.org/learn/best-practices/
 https://developer.github.com/v4/guides/migrating-from-rest/
 
 Endpoints
-https://developer.github.com/v3/apps/available-endpoints/
 
 Webhooks
 https://developer.github.com/webhooks/creating/
@@ -196,9 +183,6 @@ Mariatta- Bot Tutorials
 * [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
 
 Tools
-* [aiohttp](https://aiohttp.readthedocs.io)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
 Mariatta community automation talk
@@ -226,11 +210,9 @@ https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots |
 https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
 -->
 
-Hotkeys
+Hotkeys: t, l
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
 https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
 
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 
@@ -246,14 +228,10 @@ https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Compu
 
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
 
 GitLab- Notable Features
 * [GitLab Blog](https://about.gitlab.com/blog/)
 * [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
 
 <!--
 https://devcenter.heroku.com/
@@ -262,7 +240,6 @@ https://developer.atlassian.com
 
 https://about.gitlab.com/
 https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
-https://docs.gitlab.com/ee/install/README.html
 -->
 
 GitHub Blogs
@@ -317,8 +294,7 @@ Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
-Authorities
-* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+Kent Beck
 
 ## Clean Architecture in Python and Django
 
@@ -326,10 +302,6 @@ Authorities
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://martinfowler.com/articles/products-over-projects.html
 -->
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
@@ -375,11 +347,6 @@ Python vs. JavaScript
 * [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
-<!--	
-https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png	
-https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png	
--->
-
 ## Programming Language Comparisons
 
 Programming Language Comparisons
@@ -418,10 +385,6 @@ Object-Relational Database
 ## Database Architectures and Principles
 
 CAP Theorem
-* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
-* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
 
 System
 https://en.wikipedia.org/wiki/High_availability
@@ -502,10 +465,6 @@ Software Development Philosophies and Process
 Life Cycles
 * [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
 * [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
-
-Databases
-* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
 
 ## Software Design Patterns
 
@@ -551,9 +510,7 @@ Shells
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 
 Files
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+* [GNU Makefile](https://www.gnu.org/software/make)
 
 Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
