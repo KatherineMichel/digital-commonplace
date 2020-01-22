@@ -67,6 +67,11 @@ https://btholt.github.io/complete-intro-to-containers/
 
 https://traversymedia.com/
 
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+
+Jekyll Themes
+
 From GitHub
 * [GitHub Blog](https://github.blog)  
 * [GitHub Engineering](https://githubengineering.com) 
@@ -321,20 +326,10 @@ https://martinfowler.com/bliki/MaturityModel.html
 "[Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296)"...
 -->
 
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-
-Jekyll Themes
-
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
 GitHub API
-https://developer.github.com/v3/
-GitHub GraphQL API
 https://developer.github.com/v4/
-
-https://graphql.org/learn/best-practices/
-https://developer.github.com/v4/guides/migrating-from-rest/
 
 Endpoints
 
@@ -345,13 +340,14 @@ Payloads
 https://developer.github.com/webhooks/#payloads
 https://en.wikipedia.org/wiki/Payload_(computing)
 
+Events!
+https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
+
+
 https://developer.github.com/v3/issues/comments/#create-a-comment
 https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
 https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
 https://developer.github.com/v3/repos/statuses/#create-a-status
-
-Events!
-https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
 
 Event examples
 https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
@@ -420,13 +416,6 @@ Technical
 * Objective, Assumption, Constraint
 
 ## Software Life Cycle and Release Management
-
-Software Development Philosophies and Process
-
-Product
-
-Life Cycles
-* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 
 ## Software Design Patterns
 
