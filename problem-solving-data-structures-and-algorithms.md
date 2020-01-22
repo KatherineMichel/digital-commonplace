@@ -43,6 +43,8 @@ https://practice.geeksforgeeks.org/company-tags
 https://www.hackerrank.com/contests/w1/challenges
 https://www.hackerrank.com/challenges/challenges/problem
 
+https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
+
 https://adventofcode.com/2019/day/1
 
 https://www.geeksforgeeks.org/category/program-output/
@@ -281,6 +283,7 @@ String
 Also, examples of sequences
 https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/Sequence#Analysis
+
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
 -->
 
@@ -482,7 +485,6 @@ https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
 https://www.geeksforgeeks.org/problem-solving-methodologies/
 https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
 
-https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
 
 https://www.cdn.geeksforgeeks.org/data-structures/#Misc
 
