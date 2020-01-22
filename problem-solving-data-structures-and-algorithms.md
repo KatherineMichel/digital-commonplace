@@ -1,9 +1,6 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
-https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
-https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
-
 Anthony
 default dict counter sets - Google Search
 
@@ -15,6 +12,32 @@ https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 Dyn
 https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+-->
+
+<!--
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
+Stack
+* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
+* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
+
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+
+* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
+* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
+
+Dynamic Data Structures
+https://en.wikipedia.org/wiki/Dynamization
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+* Sequential Access List
+* Random (Direct) Access List
 -->
 
 ## Coding Practice
@@ -49,6 +72,9 @@ Python Challenges
 <!--
 Python projects
 https://t.co/rzvAPV1wXl | https://glitch.com/@python
+
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
+https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 -->
 
 ## Interviewing
@@ -82,32 +108,6 @@ https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Prac
 https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
 
 https://github.com/donnemartin/interactive-coding-challenges
--->
-
-<!--
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
-
-Stack
-* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
-* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
-* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
-* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
-* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
-
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-
-* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
-* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
-
-Dynamic Data Structures
-https://en.wikipedia.org/wiki/Dynamization
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-* Sequential Access List
-* Random (Direct) Access List
 -->
 
 ## Time Complexity and Optimization-Improvement Methods
@@ -198,9 +198,11 @@ James Damore Coding Competition Books
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
 <!--
+http://www.algorist.com/languages/Python.html
+http://www.algorist.com/languages/JavaScript.html
+
 The Algorithm Design Manual
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
-http://www.algorist.com/languages/Python.html | Algorithm Repository
 -->
 
 More Algorithms Books- Python
