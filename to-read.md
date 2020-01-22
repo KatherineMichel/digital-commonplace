@@ -31,11 +31,31 @@ https://traversymedia.com/
 
 Hawt
 
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+
+GitLab- Notable Features
+* [GitLab Blog](https://about.gitlab.com/blog/)
+* [GitLab Features](https://about.gitlab.com/features)
+
+<!--
+https://devcenter.heroku.com/
+https://developer.atlassian.com
+
+https://about.gitlab.com/
+https://docs.gitlab.com
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+-->
+
+GitHub Blogs
+
 From TODO
 
 From GitHub
 * [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/)
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
 * [GitHub Open Source Guide](https://opensource.guide)
 * [GitHub Guides](https://guides.github.com/)
 
@@ -226,27 +246,6 @@ SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-
-GitLab- Notable Features
-* [GitLab Blog](https://about.gitlab.com/blog/)
-* [GitLab Features](https://about.gitlab.com/features)
-
-<!--
-https://devcenter.heroku.com/
-https://docs.gitlab.com
-https://developer.atlassian.com
-
-https://about.gitlab.com/
-https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
--->
-
-GitHub Blogs
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
 https://www.hackerrank.com/home
 
 https://www.python.org/
@@ -387,9 +386,6 @@ Object-Relational Database
 CAP Theorem
 
 System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
 
 
 https://github.com/sohamkamani/javascript-design-patterns-for-humans
