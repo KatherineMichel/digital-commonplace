@@ -23,6 +23,38 @@
 -->
 
 <!--
+Hotkeys: t, l
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+
+## Productivity
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+Debugging
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
+
+
+VC Studio Code
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/vscode
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+-->
+
 ## Competitive Programming
 
 ## Project-Based Learning
@@ -34,6 +66,27 @@ https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
 
 https://traversymedia.com/
+
+From GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+
+GitLab- Notable Features
+* [GitLab Blog](https://about.gitlab.com/blog/)
+* [GitLab Features](https://about.gitlab.com/features)
+
+<!--
+https://devcenter.heroku.com/
+https://developer.atlassian.com
+
+https://about.gitlab.com/
+https://docs.gitlab.com
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+-->
 
 https://www.hackerrank.com/home
 
@@ -63,14 +116,17 @@ Shebang File
 https://en.wikipedia.org/wiki/Shell_script
 -->
 
-tox
+"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
+"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
+
+Static typing
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 
 https://docs.pytest.org/en/latest/
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
 
@@ -89,12 +145,6 @@ Other Types of Testing
 Django Testing- Official
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-
-"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
-"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
-
-Static typing
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 
 Django
 * [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
@@ -181,27 +231,6 @@ https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Py
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
 
 
-
-From GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-
-GitLab- Notable Features
-* [GitLab Blog](https://about.gitlab.com/blog/)
-* [GitLab Features](https://about.gitlab.com/features)
-
-<!--
-https://devcenter.heroku.com/
-https://developer.atlassian.com
-
-https://about.gitlab.com/
-https://docs.gitlab.com
-https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
--->
 
 From TODO
 
@@ -295,9 +324,6 @@ https://martinfowler.com/bliki/MaturityModel.html
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
 
-https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
-https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
 Jekyll Themes
 
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
@@ -332,14 +358,13 @@ https://developer.github.com/v3/activity/events/types/#installationrepositoriese
 https://developer.github.com/v3/activity/events/types/#issuesevent
 https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
 
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
 
 https://github.com/actions/checkout | actions/checkout
 
@@ -348,19 +373,6 @@ https://github.com/actions/checkout | actions/checkout
 Mariatta- Bot Tutorials
 
 Tools
-
-
-Hotkeys: t, l
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-
-
-
-## Database Architectures and Principles
-
-Relational
-Object-Relational Database
-
 
 https://github.com/sohamkamani/javascript-design-patterns-for-humans
 https://github.com/trekhleb/javascript-algorithms
@@ -386,33 +398,12 @@ React and Vue
 
 Hawt
 
-## Productivity
 
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+## Database Architectures and Principles
 
-<!--
-Debugging
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
-
-
-VC Studio Code
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/vscode
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
+Relational
+Object-Relational Database
+Cap Theorem, Systems thinking, tradeoffs
 
 ## Software Engineering
 
@@ -431,8 +422,6 @@ Technical
 ## Software Life Cycle and Release Management
 
 Software Development Philosophies and Process
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 
 Product
 
