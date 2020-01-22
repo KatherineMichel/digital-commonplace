@@ -12,32 +12,16 @@ https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 Dyn
 https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
--->
 
-<!--
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+https://en.wikipedia.org/wiki/Control_flow
 
-Stack
-* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
-* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
-* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
-* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
-* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
+https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
 
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
 
-* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
-* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
-
-Dynamic Data Structures
-https://en.wikipedia.org/wiki/Dynamization
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-* Sequential Access List
-* Random (Direct) Access List
+https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
+https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
+https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
 -->
 
 ## Coding Practice
@@ -53,6 +37,12 @@ Practice
 * [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
 
 <!--
+https://www.hackerrank.com/leaderboard
+https://www.hackerrank.com/jobs/search
+https://practice.geeksforgeeks.org/company-tags
+https://www.hackerrank.com/contests/w1/challenges
+https://www.hackerrank.com/challenges/challenges/problem
+
 https://adventofcode.com/2019/day/1
 
 https://www.geeksforgeeks.org/category/program-output/
@@ -87,7 +77,6 @@ https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872
 http://blog.interviewing.io
 http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
 http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
-
 
 https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
 
@@ -189,125 +178,17 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
 -->
 
-## Algorithms- Books 
- 
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
 <!--
-http://www.algorist.com/languages/Python.html
-http://www.algorist.com/languages/JavaScript.html
-
-The Algorithm Design Manual
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
--->
-
-More Algorithms Books- Python
-* [Data Structures and Algorithms in Python (Goodrich, Tamassia, Goldwasser)](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
-
-More Algorithms Books- General
-* [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
-
-<!--
-Grokking
-http://adit.io/errata.html
-https://www.manning.com/books/grokking-algorithms
--->
-
-## Algorithms- Lists
-
-Algorithm Dictionaries and Libraries
-* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
- 
-<!--
-https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions | Digital Library of Mathematical Functions - Wikipedia
-https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
-http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255 | NIST Handbook of Mathematical Functions Hardback and CD-ROM - Cambridge University Press
-https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wikipedia
-
-Awesome Python Algorithms
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms) 
-
-https://github.com/tayllan/awesome-algorithms | tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.
-
-???
-Awesome Algorithms
-https://github.com/gaerae/awesome-algorithms | gaerae/awesome-algorithms: A curated list to learning and practicing about algorithm.
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/stacygohyunsi/algorithms-primer
-
-https://github.com/TheAlgorithms | The Algorithms
-https://github.com/TheAlgorithms/Project-Euler | TheAlgorithms/Project-Euler: A collection of solved Project Euler problems in various programming languages.
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-Python
-https://github.com/AnthonyDiGirolamo/algorithms-in-python | AnthonyDiGirolamo/algorithms-in-python: Implementing and testing some algorithms in python (and ruby).
-https://github.com/gcallah/algorithms | gcallah/algorithms: A project to implement the algorithms from Introduction to Algorithms (Cormen, Leiserson, Rivest, and Stein) in Python, Ruby and other programming languages.
-https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
-https://github.com/prakhar1989/Algorithms | prakhar1989/Algorithms: Data Structures and Algorithms in Python
-https://github.com/orsinium/textdistance | orsinium/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface.
-https://github.com/marcosfede/algorithms | marcosfede/algorithms: Solved algorithms and data structures problems in many languages
-https://github.com/kojino/data-structures-algorithms
-https://github.com/stefan-jansen/python-algorithms | stefan-jansen/python-algorithms: Collection of algorithm implementations from various sources plus own creations.
-
-https://www.youtube.com/user/AlgoRythmics/videos | AlgoRythmics - YouTube - YouTube
-https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
-
-* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
-
-https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
-https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
-https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+Analysis of Algorithms
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 -->
 
 ## Algorithms and Data Structures
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 * [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
-Data Structure
-* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-* [Data Structures Wikipedia](https://en.wikibooks.org/wiki/Data_Structures)
-
 <!--
-https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
-
-Algorithm implementations	
-https://en.wikibooks.org/wiki/Algorithm_Implementation
-
-https://en.wikipedia.org/wiki/Category:Algorithms
 https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
-
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
--->
-
-<!--
-https://www.hackerrank.com/leaderboard
-https://www.hackerrank.com/jobs/search
-https://practice.geeksforgeeks.org/company-tags
-https://www.hackerrank.com/contests/w1/challenges
-https://www.hackerrank.com/challenges/challenges/problem
-
-https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
-https://www.geeksforgeeks.org/competitive-programming-conquering-a-given-problem/
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
-https://www.geeksforgeeks.org/problem-solving-methodologies/
-https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
-
-https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
-
-https://www.cdn.geeksforgeeks.org/data-structures/#Misc
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/matrix/
 -->
 
 ## Data
@@ -324,6 +205,10 @@ Container
 * [Container (Abstract Data Type) Wikipedia](https://en.wikipedia.org/wiki/Container_(abstract_data_type))
 
 ### Data Structures
+
+Data Structure
+* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+* [Data Structures Wikipedia](https://en.wikibooks.org/wiki/Data_Structures)
 
 List of Data Structures and Comparison of Data Structures
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
@@ -351,18 +236,30 @@ https://www.geeksforgeeks.org/heap-data-structure/
 https://www.geeksforgeeks.org/hashing-data-structure/
 -->
 
-## Famous
-
 <!--
-http://oeis.org/wiki/Welcome#Some_Famous_Sequences
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
 
-https://en.wikipedia.org/wiki/List_of_numbers
-https://en.wikipedia.org/wiki/List_of_mathematical_constants
-https://en.wikipedia.org/wiki/List_of_types_of_numbers
-https://en.wikipedia.org/wiki/List_of_numeral_systems
+Stack
+* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
+* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
 
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions	
-https://en.wikipedia.org/wiki/Special_functions | Special functions - Wikipedia
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+
+* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
+* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
+
+Dynamic Data Structures
+https://en.wikipedia.org/wiki/Dynamization
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+* Sequential Access List
+* Random (Direct) Access List
 -->
 
 ### Sequences
@@ -446,21 +343,157 @@ https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
 Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
+## Famous
 
 <!--
-Analysis of Algorithms
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+http://oeis.org/wiki/Welcome#Some_Famous_Sequences
 
-Uncle Bob Martin: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration."
-https://en.wikipedia.org/wiki/Control_flow
+https://en.wikipedia.org/wiki/List_of_numbers
+https://en.wikipedia.org/wiki/List_of_mathematical_constants
+https://en.wikipedia.org/wiki/List_of_types_of_numbers
+https://en.wikipedia.org/wiki/List_of_numeral_systems
 
-https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions	
+https://en.wikipedia.org/wiki/Special_functions | Special functions - Wikipedia
+
+https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions | Digital Library of Mathematical Functions - Wikipedia
+https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
+http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255 | NIST Handbook of Mathematical Functions Hardback and CD-ROM - Cambridge University Press
+https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wikipedia
 -->
 
-## Algorithms List
+## Algorithms
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 
 Lists of Algorithms
 * [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+<!--
+https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+
+Algorithm implementations	
+https://en.wikibooks.org/wiki/Algorithm_Implementation
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+-->
+
+## Types of Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+Types of Algorithms
+https://www.geeksforgeeks.org/searching-algorithms/
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/bitwise-algorithms/
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.geeksforgeeks.org/geometric-algorithms/
+https://www.geeksforgeeks.org/mathematical-algorithms/
+https://www.geeksforgeeks.org/randomized-algorithms/
+https://www.geeksforgeeks.org/game-theory/
+-->
+
+## Algorithms- Books 
+ 
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
+
+<!--
+http://www.algorist.com/languages/Python.html
+http://www.algorist.com/languages/JavaScript.html
+
+The Algorithm Design Manual
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
+-->
+
+More Algorithms Books- Python
+* [Data Structures and Algorithms in Python (Goodrich, Tamassia, Goldwasser)](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+
+More Algorithms Books- General
+* [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
+
+<!--
+Grokking
+http://adit.io/errata.html
+https://www.manning.com/books/grokking-algorithms
+-->
+
+## Algorithmic Dictionaries and Libraries
+
+Algorithm Dictionaries and Libraries
+* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
+ 
+<!--
+https://www.scriptol.com/programming/list-algorithms.php
+https://github.com/OpenGenus/cosmos#cosmic-structure
+
+
+Awesome Python Algorithms
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms) 
+
+https://github.com/tayllan/awesome-algorithms | tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.
+
+???
+Awesome Algorithms
+https://github.com/gaerae/awesome-algorithms | gaerae/awesome-algorithms: A curated list to learning and practicing about algorithm.
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://github.com/stacygohyunsi/algorithms-primer
+
+https://github.com/TheAlgorithms | The Algorithms
+https://github.com/TheAlgorithms/Project-Euler | TheAlgorithms/Project-Euler: A collection of solved Project Euler problems in various programming languages.
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+Python
+https://github.com/AnthonyDiGirolamo/algorithms-in-python | AnthonyDiGirolamo/algorithms-in-python: Implementing and testing some algorithms in python (and ruby).
+https://github.com/gcallah/algorithms | gcallah/algorithms: A project to implement the algorithms from Introduction to Algorithms (Cormen, Leiserson, Rivest, and Stein) in Python, Ruby and other programming languages.
+https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
+https://github.com/prakhar1989/Algorithms | prakhar1989/Algorithms: Data Structures and Algorithms in Python
+https://github.com/orsinium/textdistance | orsinium/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface.
+https://github.com/marcosfede/algorithms | marcosfede/algorithms: Solved algorithms and data structures problems in many languages
+https://github.com/kojino/data-structures-algorithms
+https://github.com/stefan-jansen/python-algorithms | stefan-jansen/python-algorithms: Collection of algorithm implementations from various sources plus own creations.
+
+https://www.youtube.com/user/AlgoRythmics/videos | AlgoRythmics - YouTube - YouTube
+https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
+-->
+
+
+<!--
+Problem solving
+https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
+https://www.geeksforgeeks.org/competitive-programming-conquering-a-given-problem/
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+https://www.geeksforgeeks.org/problem-solving-methodologies/
+https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
+
+https://www.hackerrank.com/domains/algorithms | Solve Algorithms | HackerRank
+
+https://www.cdn.geeksforgeeks.org/data-structures/#Misc
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/matrix/
+-->
+
+
+
+## Algorithmic Paradigms
 
 List of Algorithmic Paradigms
 * [Algorithmic Paradigms Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_paradigm#General)
@@ -563,32 +596,6 @@ https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 https://en.wikipedia.org/wiki/Euclidean_algorithm
 https://en.wikipedia.org/wiki/Division_algorithm
 https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
--->
-
-
-## Types of Algorithms
-
-<!--
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-Types of Algorithms
-https://www.geeksforgeeks.org/searching-algorithms/
-https://www.geeksforgeeks.org/sorting-algorithms/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/bitwise-algorithms/
-https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
-https://www.geeksforgeeks.org/geometric-algorithms/
-https://www.geeksforgeeks.org/mathematical-algorithms/
-https://www.geeksforgeeks.org/randomized-algorithms/
-https://www.geeksforgeeks.org/game-theory/
-
-https://www.scriptol.com/programming/list-algorithms.php
-https://github.com/OpenGenus/cosmos
-https://github.com/OpenGenus/cosmos#cosmic-structure
 -->
 
 ### Divide and Conquer Algorithms
