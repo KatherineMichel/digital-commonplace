@@ -1,6 +1,23 @@
 # To Read
 
 <!--
+python-doc-notes.md
+
+python.md
+python-and-django-additional-resources.md
+
+javascript-frameworks.md
+javascript-google-and-mozilla-notes.md
+javascript-notes.md
+
+patterns-and-refactoring.md
+computer-architecture-web-request-response-async.md
+
+organizations.md
+
+problem-solving-data-structures-and-algorithms.md
+math-resources.md
+
 ## Useful Files
 ## Open Source in Orgs
 ## Open Source and Assessment
@@ -20,6 +37,19 @@
 ## Sync and Async
 ## Request and Response Cycle, HTTP
 ## Web Browser, Client/Server
+-->
+
+<!--
+Talks
+
+Carl Myer, Kyle Knapp
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 -->
 
 <!--
@@ -68,7 +98,7 @@ https://btholt.github.io/complete-intro-to-containers/
 https://traversymedia.com/
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
+https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
 
 Jekyll Themes
 
@@ -121,6 +151,18 @@ Shebang File
 https://en.wikipedia.org/wiki/Shell_script
 -->
 
+https://github.com/satwikkansal/wtfpython
+https://github.com/jakevdp/WhirlwindTourOfPython
+https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+
+https://github.com/asottile/pyupgrade
+
+<!--
+* [Requests](https://python-requests.org/)
+-->
+
 "[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
 "[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
 
@@ -128,24 +170,23 @@ Static typing
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 
 https://docs.pytest.org/en/latest/
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
 
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-http://pythontesting.net/start-here/
-
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
-
-Python Testing Built-In Tools
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-* [doctest](https://docs.python.org/3/library/doctest.html)
-* [mock](https://docs.python.org/dev/library/unittest.mock.html)
-
 Other Types of Testing
 * [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+
+<!--
+Kent Beck, TDD
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+Testing Your Code — The Hitchhiker's Guide to Python
+http://pythontesting.net/start-here/
+
+official docs- unittest.mock, doctest, mock
+* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
+-->
 
 Django Testing- Official
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
@@ -159,12 +200,10 @@ Python Docs- Packaging
 
 Python- Official Packaging Info
 * [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org) and [Python Packaging User Guide GitHub](https://github.com/pypa/python-packaging-user-guide) 
+* [Python Packaging User Guide](https://packaging.python.org)
 * [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
 * [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
-
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 
 Refactoring Catalogs
 * [Refactoring Catalog](https://refactoring.com/catalog/)
@@ -178,20 +217,44 @@ Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
-Kent Beck
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
 
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
+
+<!--
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+-->
+
 ## Python and JavaScript
 
 One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+* [Python 3 in One Pic](https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png)
 
 Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript)
 * [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
 
 ## Programming Language Comparisons
@@ -228,13 +291,9 @@ https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython So
 https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/
 https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle/#devcycle | 17. Development Cycle — Python Developer's Guide
-
-https://devguide.python.org/devcycle/#indevbranch | 17. Development Cycle — Python Developer's Guide
-https://devguide.python.org/devcycle/#maintbranch | 17. Development Cycle — Python Developer's Guide
+https://devguide.python.org/devcycle/
 
 https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
 
 
 From TODO
@@ -370,6 +429,19 @@ Mariatta- Bot Tutorials
 
 Tools
 
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+
+
 https://github.com/sohamkamani/javascript-design-patterns-for-humans
 https://github.com/trekhleb/javascript-algorithms
 https://github.com/palashmon/awesome-js-posts
@@ -394,6 +466,36 @@ React and Vue
 
 Hawt
 
+<!--
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+Interview Series
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+
+Composition Series
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
+https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
+-->
 
 ## Database Architectures and Principles
 
@@ -453,6 +555,197 @@ https://en.wikipedia.org/wiki/Post/Redirect/Get
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
 -->
 
+## Python Profiling
+
+<!--
+Python Profiling 
+
+Third Party Testing and Profiling
+
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+-->
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
+
+## Django Core Dev Security
+
+<!--
+https://docs.djangoproject.com/en/dev/releases/security/
+https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues
+
+High
+https://en.wikipedia.org/wiki/Arbitrary_code_execution
+https://en.wikipedia.org/wiki/SQL_injection
+
+Medium
+* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+https://en.wikipedia.org/wiki/Cross-site_request_forgery
+https://en.wikipedia.org/wiki/Denial-of-service_attack
+Broken authentication
+
+Low
+Sensitive data exposure
+Broken session management
+Unvalidated redirects/forwards
+Issues requiring an uncommon configuration option
+
+https://www.owasp.org/index.php/SQL_Injection
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
+https://www.owasp.org/index.php/Denial_of_Service
+-->
+
+## Django Security
+
+<!--
+https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
+https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
+
+
+https://en.wikipedia.org/wiki/Information_security
+
+https://www.owasp.org/index.php/Category:Attack
+-->
+
+## Security
+
+Security- General
+* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
+* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
+* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
+* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
+
+OWASP
+* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
+* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
+
+Top Ten
+* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
+
+Types
+* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
+* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
+
+Same Origin
+* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+<!--
+https://en.wikipedia.org/wiki/Clickjacking
+https://en.wikipedia.org/wiki/Code_injection
+
+https://en.wikipedia.org/wiki/Computer_security_model
+https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
+
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
+
+## Security- General
+      
+https://developers.google.com/web/fundamentals/security/
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+
+Application Security Verification Standard
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+
+https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
+
+https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
+https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
+-->
+
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
+
+<!--
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
+
+Testing
+https://www.tutorialspoint.com/software_testing_dictionary
+https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
+https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
+https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
+
+https://docs.pytest.org/en/latest/assert.html#assert
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
+https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
+https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
+tox can be used with Flask
+https://github.com/pallets/flask/blob/master/tox.ini
+
 
 <!--
 ## Interesting
@@ -492,7 +785,6 @@ https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line
 Awesome Tools
 * [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
 * [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
 
 Interesting Curated Learning Resources
 * [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
@@ -537,6 +829,7 @@ https://github.com/CyC2018/CS-Notes
 https://github.com/InterviewMap/CS-Interview-Knowledge-Map
 https://github.com/dwmkerr/hacker-laws#goodharts-law
 https://btholt.github.io/four-semesters-of-cs/
+
 https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
 https://t.co/BEhKVo5t3R"
