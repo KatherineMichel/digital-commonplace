@@ -1238,7 +1238,7 @@ https://dependabot.com/ | Dependabot
 https://dependabot.com/#how-it-works | Dependabot
 https://dependabot.com/github-actions/ | Dependabot
 
-https://github.com/showcases/projects-with-great-wikis
+https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
