@@ -404,16 +404,24 @@ Software Testing
 Functional and Unit Testing
 * [Functional Testing Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
 * [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
 
 TDD and BDD
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 
+Terminology
+* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
+* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
+* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
+* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
+
 <!--
-https://en.wikipedia.org/wiki/Mock_object
+https://en.wikipedia.org/wiki/Scenario_testing
+https://martinfowler.com/articles/mocksArentStubs.html
+https://thoughtbot.com/blog/i-mock-your-fixtures-too
+
+state behavior versus behavior verification
 https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
-https://en.wikipedia.org/wiki/Test_fixture
 
 Testing
 https://www.tutorialspoint.com/software_testing_dictionary
@@ -508,7 +516,6 @@ https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on T
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
 https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
 https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
@@ -517,11 +524,25 @@ https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Sup
 https://docs.pytest.org/en/latest/example/parametrize.html
 https://docs.pytest.org/en/latest/parametrize.html
 
+http://pythontesting.net/start-here/
+https://pythontesting.net/framework/pytest/pytest-introduction/
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
 https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
 
 https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
 
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Testing pyramid
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+https://automationpanda.com/bdd/
+https://automationpanda.com/python/
+
+https://martinfowler.com/bliki/PageObject.html
+https://selenium-python.readthedocs.io/page-objects.html
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects
+https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
 
 https://pypi.org/project/selenium/ | selenium · PyPI
 https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
@@ -539,16 +560,7 @@ https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
 
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-http://pythontesting.net/start-here/
-
 DjangoCon Keynote by Ana
-
-Testing pyramid
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-https://automationpanda.com/bdd/
-https://automationpanda.com/python/
 
 Test automation
 https://en.wikipedia.org/wiki/Headless_browser
@@ -562,16 +574,13 @@ https://testautomationu.applitools.com/
 https://testautomationu.applitools.com/unit-testing/
 https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
 
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+
 Beyond Unit Tests
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s
 https://github.com/AndyLPK247/djangocon-2019-web-ui-testing
 https://www.packtpub.com/web-development/pytest-quick-start-guide
 https://pragprog.com/book/bopytest/python-testing-with-pytest
-
-https://martinfowler.com/bliki/PageObject.html
-https://selenium-python.readthedocs.io/page-objects.html
-https://github.com/SeleniumHQ/selenium/wiki/PageObjects
-https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
 
 https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
 https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
@@ -584,9 +593,6 @@ https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Kni
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
 https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
 https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
 
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 
@@ -865,6 +871,15 @@ Nose (Unit Test Extension)
 Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
+## What's New
+
+<!--
+Release notes
+https://docs.python.org/3/whatsnew/
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+-->
+
 ## Python 2 or 3, Python 2 EoL
 
 Python 2 or 3
@@ -878,12 +893,6 @@ Python 2 EOL Websites
 * [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
 <!--
-## General Links
-
-https://docs.python.org/3/whatsnew/
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
-
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
 
@@ -918,7 +927,7 @@ https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
 -->
 
-## Eldarion
+## Package Tools and Testing
 
 <!--
 Pinax
@@ -935,6 +944,8 @@ https://github.com/pytest-dev/pytest/issues/5534
 https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
 https://github.com/pypa/setuptools/issues/1684
 -->
+
+## Eldarion
 
 <!--
 https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
