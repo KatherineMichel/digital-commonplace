@@ -258,8 +258,10 @@ Change Function Declaration
 • Rename Function 
 • Rename Method
 
+Inverse
 Change Reference to Value
 Change Value to Reference
+
 Collapse Hierarchy
 Combine Functions into Class
 Combine Functions into Transform
@@ -273,21 +275,28 @@ Encapsulate Variable
 • Encapsulate Field 
 • Self-Encapsulate Field
 
+Inverse
 Extract Class
-Extract Function
-Extract Method
-
-Extract Superclass
-Extract Variable
-• Introduce Explaining Variable
-
-Hide Delegate
 Inline Class
+
+Inverse
+Extract Function
 Inline Function
 • Inline Method
 
+Extract Method
+
+Extract Superclass
+
+Inverse
+Extract Variable
+• Introduce Explaining Variable
 Inline Variable
 • Inline Temp
+
+Inverse
+Hide Delegate
+Remove Middle Man
 
 Introduce Assertion
 Introduce Parameter Object
@@ -298,29 +307,45 @@ Move Field
 Move Function
 • Move Method
 
+Inverse
 Move Statements into Function
 Move Statements to Callers
+
 Parameterize Function
 • Parameterize Method
 
 Preserve Whole Object
 Pull Up Constructor Body
+
+Inverse
 Pull Up Field
-Pull Up Method
 Push Down Field
+
+Inverse
+Pull Up Method
 Push Down Method
+
 Remove Dead Code
 Remove Flag Argument
 • Replace Parameter with Explicit Methods
 
-Remove Middle Man
 Remove Setting Method
+
+Inverse
 Remove Subclass
 • Replace Subclass with Fields
+Replace Type Code with Subclasses
+• Extract Subclass 
+• Replace Type Code with State/Strategy
 
 Rename Field
 Rename Variable
+
+Inverse
 Replace Command with Function
+Replace Function with Command
+• Replace Method with Method Object
+
 Replace Conditional with Polymorphism
 Replace Constructor with Factory Function
 • Replace Constructor with Factory Method
@@ -333,31 +358,27 @@ Replace Error Code with Exception
 Replace Exception with Precheck
 • Replace Exception with Test
 
-Replace Function with Command
-• Replace Method with Method Object
-
 Replace Inline Code with Function Call
 Replace Loop with Pipeline
 Replace Magic Literal
 • Replace Magic Number with Symbolic Constant
 
 Replace Nested Conditional with Guard Clauses
+
+Inverse
 Replace Parameter with Query
 • Replace Parameter with Method
+Replace Query with Parameter
 
 Replace Primitive with Object
 • Replace Data Value with Object 
 • Replace Type Code with Class
 
-Replace Query with Parameter
 Replace Subclass with Delegate
 Replace Superclass with Delegate
 • Replace Inheritance with Delegation
 
 Replace Temp with Query
-Replace Type Code with Subclasses
-• Extract Subclass 
-• Replace Type Code with State/Strategy
 
 Return Modified Value
 Separate Query from Modifier
