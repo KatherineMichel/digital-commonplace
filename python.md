@@ -626,67 +626,6 @@ https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Dev
 https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
 -->
 
-## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
-
-Nose (Unit Test Extension)
-* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
-
-Django Nose
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-
-## Python 2 or 3, Python 2 EoL
-
-Python 2 or 3
-* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
-
-Python 2 EOL Websites
-* [Python 3 Readiness](https://tiran.github.io/py3readiness)
-* [Python Readiness](https://pyreadiness.org)
-* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
-* [Python 3 Porting](http://python3porting.com)
-* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
-
-<!--
-## General Links
-
-https://docs.python.org/3/whatsnew/
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
-
-Python 2 to 3
-https://docs.python.org/3/howto/pyporting.html
-
-Cheat Sheets
-http://python-future.org/compatible_idioms.html
-Python 3.1
-http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
-https://pybit.es/python-porting.html
-http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
-
-six
-https://pypi.org/project/six/ | six · PyPI
-https://six.readthedocs.io/
-https://github.com/benjaminp/six
-
-django.utils.six
-https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
-https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
-
-Django
-https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-
-`from __future__ import`
-
-New features
-f-strings
-type checking
-
-Packages for upgrading
-https://github.com/asottile/pyupgrade
-https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
--->
-
 <!--
 ## Talks
 
@@ -918,51 +857,65 @@ https://github.com/asottile/pyupgrade
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
 -->
 
-## Release Management
+## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
 
-Tags and Releases
-* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
-* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
-* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
-<!--
-https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
--->
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
-Software Release Life Cycle
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+## Python 2 or 3, Python 2 EoL
 
-Release Management
-* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
-* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
-* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
-* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
-* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+Python 2 or 3
+* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
 
-Software Versioning and Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-* [CalVer](https://calver.org)
-* [ZeroVer](https://0ver.org)
-
-Continuousness
-* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
-
-Continuous Integration Software
-* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
-
-Other Stuff
-* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
-* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
+Python 2 EOL Websites
+* [Python 3 Readiness](https://tiran.github.io/py3readiness)
+* [Python Readiness](https://pyreadiness.org)
+* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
+* [Python 3 Porting](http://python3porting.com)
+* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
 <!--
-SemVer
-https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
+## General Links
 
-https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
-https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
+https://docs.python.org/3/whatsnew/
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+
+Python 2 to 3
+https://docs.python.org/3/howto/pyporting.html
+
+Cheat Sheets
+http://python-future.org/compatible_idioms.html
+Python 3.1
+http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
+https://pybit.es/python-porting.html
+http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+six
+https://pypi.org/project/six/ | six · PyPI
+https://six.readthedocs.io/
+https://github.com/benjaminp/six
+
+django.utils.six
+https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
+https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
+
+Django
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+
+`from __future__ import`
+
+New features
+f-strings
+type checking
+
+Packages for upgrading
+https://github.com/asottile/pyupgrade
+https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
 -->
 
 ## Eldarion
@@ -975,6 +928,7 @@ https://docs.python.org/3/library/distutils.html | distutils — Building and in
 https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
 https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
 
+Pinax release docs
 `python setup.py test`
 https://github.com/pypa/setuptools/issues/931
 https://github.com/pytest-dev/pytest/issues/5534
@@ -1108,6 +1062,53 @@ https://github.com/twisted/incremental#updating | twisted/incremental: A library
 https://www.youtube.com/watch?v=-BHverY7IwU
 http://www.pyinvoke.org/
 https://github.com/pypa/pip/blob/master/tasks/generate.py
+-->
+
+## Release Management
+
+Tags and Releases
+* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
+* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
+* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
+
+<!--
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+-->
+
+Software Release Life Cycle
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+
+Release Management
+* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
+* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
+* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
+* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+
+Software Versioning and Semver (See also: npm packages)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+* [CalVer](https://calver.org)
+* [ZeroVer](https://0ver.org)
+
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
+Other Stuff
+* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
+* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
+
+<!--
+SemVer
+https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
+
+https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
+https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
 -->
 
 ## Useful Files
