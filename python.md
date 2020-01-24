@@ -890,8 +890,9 @@ Special Projects
 <!--
 https://github.com/nedbat/coveragepy/issues/
 
-Python 2/3
+Drop python 2 / python3.5 support in pre-commit
 https://github.com/pre-commit/pre-commit/issues/1260
+https://github.com/pre-commit/pre-commit/pull/1277
 
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
@@ -912,9 +913,6 @@ https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5e
 https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
 https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
 https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
-
-Drop python 2 / python3.5 support in pre-commit
-https://github.com/pre-commit/pre-commit/pull/1277
 
 https://github.com/asottile/pyupgrade
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
@@ -977,7 +975,7 @@ https://docs.python.org/3/library/distutils.html | distutils — Building and in
 https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
 https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
 
-Testing
+`python setup.py test`
 https://github.com/pypa/setuptools/issues/931
 https://github.com/pytest-dev/pytest/issues/5534
 https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
@@ -1061,19 +1059,6 @@ https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=ow
 
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
-
-https://pypi.org/project/Pillow/ | Pillow · PyPI
-
-https://github.com/tzangms/django-bootstrap-form | tzangms/django-bootstrap-form: Twitter Bootstrap for Django Form
-
-pytz
-https://pypi.org/project/pytz/ | pytz · PyPI
-
-https://python-markdown.github.io/install/ | Installation — Python-Markdown 3.0.1 documentation
-https://pypi.org/simple/markdown/ | Links for Markdown
-https://pypi.org/simple/mock/ | Links for mock
-https://pypi.org/project/required/ | required · PyPI
-https://pypi.org/project/certifi/ | certifi · PyPI
 
 Eldarion
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
