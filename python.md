@@ -508,6 +508,11 @@ Python- Django- Debug Toolbar an dPanel
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 <!--
+http://www.extremeprogramming.org/rules/testfirst.html
+https://martinfowler.com/bliki/SelfTestingCode.html
+https://martinfowler.com/bliki/TestDrivenDevelopment.html
+https://learntdd.in/concepts.html
+
 https://docs.pytest.org/en/latest/assert.html#assert
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
 https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
@@ -936,6 +941,8 @@ https://docs.python.org/3/library/distutils.html | distutils — Building and in
 
 https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
 https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
+https://en.wikipedia.org/wiki/Setuptools
+https://github.com/pypa/wheel
 
 Pinax release docs
 `python setup.py test`
@@ -943,6 +950,9 @@ https://github.com/pypa/setuptools/issues/931
 https://github.com/pytest-dev/pytest/issues/5534
 https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
 https://github.com/pypa/setuptools/issues/1684
+
+https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files
+https://github.com/pypa/sampleproject/blob/master/setup.cfg
 -->
 
 ## Eldarion
