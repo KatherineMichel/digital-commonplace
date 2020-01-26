@@ -1,40 +1,5 @@
 # Patterns and Refactoring
 
-## Programming Paradigms
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Paradigm Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-React?
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
-
-<!--
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
-Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
-state.
-Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
-data types are the two most popular, but there exist two others, declarative objects and
-stateful abstract data types.
-
-https://famicol.in/language_checklist.html | Programming Language Checklist
-https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
--->
-
 <!--
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
@@ -65,27 +30,6 @@ https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e62
 https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
 https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
 -->
-
-## Useful Terminology
-
-Object
-* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
-* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-State
-* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
-* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
-* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
-* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
-
-Functional Programming
-* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
 
 <!--
 Python/Django state
@@ -145,6 +89,62 @@ Function
 Partial function
 -->
 
+## Programming Paradigms
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+
+<!--
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+-->
+
+## Useful Terminology
+
+Object
+* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
+* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+State
+* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
+* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
+
+Functional Programming
+* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
 ## GRASP and Clean Architecture (Follows SOLID Principles)
 
 Object Oriented Software Construction Principles
@@ -170,6 +170,30 @@ https://en.wikipedia.org/wiki/Interface_(computing)
 Clean Architectures in Python - Leonardo Giordani - PyLondinium19
 https://www.youtube.com/watch?v=wtCQalq7L-E
 -->
+
+## Enterprise Application Architecture
+
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+Domain Logic Patterns: Transaction Script (110), Domain Model (116), Table Module (125), Service Layer (133).
+
+Data Source Architectural Patterns: Table Data Gateway (144), Row Data Gateway (152), Active Record (160), Data Mapper (165).
+
+Object-Relational Behavioral Patterns: Unit of Work (184), Identity Map (195), Lazy Load (200)
+
+Object-Relational Structural Patterns: Identity Field (216), Foreign Key Mapping (236), Association Table Mapping (248), Dependent Mapping (262), Embedded Value (268), Serialized LOB (272), Single Table Inheritance (278), Class Table Inheritance (285), Concrete Table Inheritance (293), Inheritance Mappers (302).
+
+Object-Relational Metadata Mapping Patterns: Metadata Mapping (306), Query Object (316), Repository (322).
+
+Web Presentation Patterns: Model View Controller (330), Page Controller (333), Front Controller (344), Template View (350), Transform View (361), Two-Step View (365), Application Controller (379).
+
+Distribution Patterns: Remote Facade (388), Data Transfer Object (401)
+
+Offline Concurrency Patterns: Optimistic Offline Lock (416), Pessimistic Offline Lock (426), Coarse Grained Lock (438), Implicit Lock (449).
+
+Session State Patterns: Client Session State (456), Server Session State (458), Database Session State (462).
+
+Base Patterns: Gateway (466), Mapper (473), Layer Supertype (475), Separated Interface (476), Registry (480), Value Object (486), Money (488), Special Case (496), Plugin (499), Service Stub (504), Record Set (508)
 
 ## General Software Design Patterns
 
@@ -227,6 +251,8 @@ https://en.wikipedia.org/wiki/Finite-state_machine
 -->
 
 ## Refactoring
+
+* [Refactoring Catalog](https://refactoring.com/catalog/)
 
 <!--
 Tags
