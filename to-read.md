@@ -163,34 +163,70 @@ https://github.com/asottile/pyupgrade
 * [Requests](https://python-requests.org/)
 -->
 
-"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
-"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
+Django- integration with tox and coverage.py
 
 Static typing
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 
 https://docs.pytest.org/en/latest/
 
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-
 Other Types of Testing
 * [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
 
 <!--
 Kent Beck, TDD
-
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-Testing Your Code — The Hitchhiker's Guide to Python
-http://pythontesting.net/start-here/
-
-official docs- unittest.mock, doctest, mock
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
 -->
 
 Django Testing- Official
+
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
+
+<!--
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
+
+https://docs.pytest.org/en/latest/assert.html#assert
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
+https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
+https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
+
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
+-->
 
 Django
 * [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
@@ -686,65 +722,6 @@ https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Che
 https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
 https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
 -->
-
-
-Django Performance and Optimization
-* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
-* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
-
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
-
-
-<!--
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
-
-Testing
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
-https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
-
-https://docs.pytest.org/en/latest/assert.html#assert
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
-
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
-https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
-https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
-https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
-tox can be used with Flask
-https://github.com/pallets/flask/blob/master/tox.ini
 
 
 <!--
