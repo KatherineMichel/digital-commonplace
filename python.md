@@ -409,38 +409,21 @@ TDD and BDD
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 
-Terminology
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
-* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
-* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
-* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
+Other Types of Testing- Performance/Stress
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
 
-<!--
-https://en.wikipedia.org/wiki/Scenario_testing
-https://martinfowler.com/articles/mocksArentStubs.html
-https://thoughtbot.com/blog/i-mock-your-fixtures-too
-
-state behavior versus behavior verification
-https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
-
-Testing
-https://www.tutorialspoint.com/software_testing_dictionary
-https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm | Test Driven Development
-https://www.tutorialspoint.com/software_testing_dictionary/test_case | Test Case
-https://www.tutorialspoint.com/software_testing_dictionary/end_to_end_testing.htm
--->
+Other Types of Testing- Acceptance
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
 
 Other Types of Testing
 * [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
 * [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
 * [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
 * [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
 * [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
 * [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
@@ -453,20 +436,34 @@ Django Testing- Official
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
 <!--
-https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
+TestPyramid
+
+"Write integration tests for all pieces of code where you either serialize or deserialize data. This happens more often than you might think. Think about:
+
+Calls to your services' REST API
+Reading from and writing to databases
+Calling other application's APIs
+Reading from and writing to queues
+Writing to the filesystem"
+
+https://docs.python.org/3/library/unittest.html#assert-methods
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
+https://docs.pytest.org/en/latest/assert.html#assert
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
 https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+
+https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
 https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
 
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage | Advanced testing topics | Django documentation | Django
-
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox
-tox can be used with Flask
-https://github.com/pallets/flask/blob/master/tox.ini
 -->
 
 ## Python Testing
@@ -481,10 +478,54 @@ Python Testing Built-In Tools
 * [doctest](https://docs.python.org/3/library/doctest.html)
 * [mock](https://docs.python.org/dev/library/unittest.mock.html)
 
+Terminology
+* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
+* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
+* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
+* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
+
+<!--
+http://www.extremeprogramming.org/rules/testfirst.html
+https://martinfowler.com/bliki/SelfTestingCode.html
+https://martinfowler.com/bliki/TestDrivenDevelopment.html
+https://learntdd.in/concepts.html
+
+https://en.wikipedia.org/wiki/Scenario_testing
+https://martinfowler.com/articles/mocksArentStubs.html
+https://thoughtbot.com/blog/i-mock-your-fixtures-too
+
+state behavior versus behavior verification
+https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
+
+Test automation
+https://en.wikipedia.org/wiki/Headless_browser
+
+https://martinfowler.com/bliki/PageObject.html
+https://selenium-python.readthedocs.io/page-objects.html
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects
+https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
+
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
+-->
+
 ## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
 
 pytest 
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+
+<!--
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
+https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+-->
 
 Django
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
@@ -508,84 +549,38 @@ Python- Django- Debug Toolbar an dPanel
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 <!--
-http://www.extremeprogramming.org/rules/testfirst.html
-https://martinfowler.com/bliki/SelfTestingCode.html
-https://martinfowler.com/bliki/TestDrivenDevelopment.html
-https://learntdd.in/concepts.html
-
-https://docs.pytest.org/en/latest/assert.html#assert
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
-
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
-https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
-https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
-
-http://pythontesting.net/start-here/
-https://pythontesting.net/framework/pytest/pytest-introduction/
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+https://github.com/behave/behave | behave/behave: BDD, Python style.
+https://hypothesis.readthedocs.io/en/latest/
+https://cucumber.io/ | Cucumber
+https://github.com/cucumber/gherkin-python
 
 https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
 
 https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
 
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+https://testautomationu.applitools.com/
+https://testautomationu.applitools.com/unit-testing/ | Overview
+https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
 
 Testing pyramid
 https://automationpanda.com/2018/08/01/the-testing-pyramid/
 https://automationpanda.com/bdd/
 https://automationpanda.com/python/
 
-https://martinfowler.com/bliki/PageObject.html
-https://selenium-python.readthedocs.io/page-objects.html
-https://github.com/SeleniumHQ/selenium/wiki/PageObjects
-https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
-
-https://pypi.org/project/selenium/ | selenium · PyPI
-https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
-
-https://github.com/behave/behave | behave/behave: BDD, Python style.
-https://hypothesis.readthedocs.io/en/latest/
-https://cucumber.io/ | Cucumber
-https://github.com/cucumber/gherkin-python
--->
-
-
-<!--
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
-
-DjangoCon Keynote by Ana
-
-Test automation
-https://en.wikipedia.org/wiki/Headless_browser
-
-https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
-
-
-https://github.com/HelloMelanieC/FiveUp
-
-https://testautomationu.applitools.com/
-https://testautomationu.applitools.com/unit-testing/
-https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
-
+https://www.packtpub.com/web-development/pytest-quick-start-guide
 https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
 
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+http://pythontesting.net/start-here/
+https://pythontesting.net/framework/pytest/pytest-introduction/
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+-->
+
+<!--
 Beyond Unit Tests
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s
 https://github.com/AndyLPK247/djangocon-2019-web-ui-testing
-https://www.packtpub.com/web-development/pytest-quick-start-guide
-https://pragprog.com/book/bopytest/python-testing-with-pytest
 
 https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
 https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
@@ -606,20 +601,21 @@ https://twitter.com/AutomationPanda/status/1048275359303708673
 https://twitter.com/AutomationPanda/status/1023346925771345920
 https://twitter.com/AutomationPanda/status/1061393338165837825
 
-https://en.wikipedia.org/wiki/Return_on_investment
+DjangoCon Keynote by Ana
 
-https://www.techopedia.com/definition/3887/user-acceptance-testing-uat | What is User Acceptance Testing (UAT)? - Definition from Techopedia
--->
+https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
 
-
-<!--
 https://www.hillelwayne.com/talks/beyond-unit-tests/
 https://www.youtube.com/watch?v=MYucYon2-lk
-
-https://en.wikipedia.org/wiki/Mutation_testing
-https://testautomationu.applitools.com/unit-testing/ | Overview
 -->
 
+## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
+
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
+
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 ## Python and Django Debugging and Testing
 
@@ -636,6 +632,7 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
 https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
 -->
+
 
 <!--
 ## Talks
@@ -747,13 +744,6 @@ http://calver.org/
 
 ## Great Release Managers
 
-### Projects
-
-<!--
-Includes issues links
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
--->
-
 ### General Talks
 
 <!--
@@ -777,6 +767,13 @@ Thea's talk
 https://www.youtube.com/watch?v=-BHverY7IwU
 -->
 
+### Projects
+
+<!--
+Includes issues links
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+-->
+
 ### Ned Batchelder
 
 * [coverage.py GitHub](https://github.com/nedbat/coveragepy/)
@@ -797,10 +794,6 @@ https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Dep
 -->
 
 ### Paul Ganssle
-
-<!--
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
--->
 
 ### Anthony Sottile
 
@@ -824,6 +817,7 @@ Advent of Code
 
 Creator
 * [pre-commit](https://pre-commit.com)
+* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
 
 Core Developer
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/)
@@ -831,8 +825,7 @@ Core Developer
 
 Maintainer (maintain pyflakes as a member of the @PyCQA)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-
-* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
+* [Pyflakes GitHub](https://gitlab.com/pycqa/flake8)
 
 Special Projects
 * [babi](https://github.com/asottile/babi)
@@ -843,9 +836,6 @@ https://github.com/nedbat/coveragepy/issues/
 Drop python 2 / python3.5 support in pre-commit
 https://github.com/pre-commit/pre-commit/issues/1260
 https://github.com/pre-commit/pre-commit/pull/1277
-
-https://pypi.org/project/pyflakes/
-https://github.com/PyCQA/pyflakes
 
 Anthony Sottile
 Builds backported/forwardported pythons for ubuntu with @deadsnakes
@@ -867,14 +857,6 @@ https://tox.readthedocs.io/en/latest/config.html | tox configuration specificati
 https://github.com/asottile/pyupgrade
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
 -->
-
-## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
-
-Nose (Unit Test Extension)
-* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
-
-Django Nose
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 ## What's New
 
@@ -932,6 +914,17 @@ https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
 -->
 
+## GitHub- Release Tools
+
+Tags and Releases
+* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
+* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
+* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
+
+<!--
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+-->
+
 ## Package Tools and Testing
 
 <!--
@@ -955,20 +948,15 @@ https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-us
 https://github.com/pypa/sampleproject/blob/master/setup.cfg
 -->
 
-## Eldarion
 
 <!--
-https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
-
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
-
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-https://pypi.org/project/flake8-black/ | flake8-black · PyPI
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
 -->
+
+## Eldarion
 
 Package Tools
 * [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
@@ -984,17 +972,26 @@ Coverage
 * [Codecov](https://codecov.io)
 * [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
 
-<!--
-Pinax
-https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
-https://github.com/codecov/example-python#how-to-generate-coverage-reports
-"coverage.py is required to collect coverage metrics."
--->
-
 Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
 * [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
 * [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+
+<!--
+https://docs.codecov.io/docs/python
+https://codecov.io/#features | Codecov
+
+"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
+"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
+
+https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
+https://github.com/pallets/flask/blob/master/tox.ini
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
+https://github.com/codecov/example-python#how-to-generate-coverage-reports
+"coverage.py is required to collect coverage metrics."
+-->
 
 tox Alternative (not used)
 * [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
@@ -1028,6 +1025,18 @@ Webpack Versus Browserify
 * [Browserify](http://browserify.org)
 * [Browsersync](https://www.browsersync.io/)
 
+
+<!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+https://pypi.org/project/flake8-black/ | flake8-black · PyPI
+-->
+
 <!--
 https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
 https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
@@ -1035,10 +1044,11 @@ https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=ow
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
-Eldarion
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+Black and single quotes
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 
+CI
 https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
 
 https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
@@ -1055,9 +1065,6 @@ http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors wit
 flake8 
 noqa: E501
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
-
-https://docs.codecov.io/docs/python
-https://codecov.io/#features | Codecov
 -->
 
 ## Code Formatting Tools
@@ -1086,15 +1093,6 @@ https://github.com/pypa/pip/blob/master/tasks/generate.py
 -->
 
 ## Release Management
-
-Tags and Releases
-* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
-* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
-* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
-
-<!--
-https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
--->
 
 Software Release Life Cycle
 * [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
@@ -1165,6 +1163,7 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
+Bash versus Python
 https://en.wikipedia.org/wiki/Shell_script
 
 https://en.wikipedia.org/wiki/SQL
