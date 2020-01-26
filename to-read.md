@@ -189,11 +189,6 @@ Django Deployment
 
 
 <!--
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
-
 https://docs.pytest.org/en/latest/assert.html#assert
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
 https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
