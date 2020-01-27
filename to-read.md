@@ -264,27 +264,6 @@ https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-
 <!--
 https://docs.djangoproject.com/en/dev/releases/security/
 https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues
-
-High
-https://en.wikipedia.org/wiki/Arbitrary_code_execution
-https://en.wikipedia.org/wiki/SQL_injection
-
-Medium
-* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
-https://en.wikipedia.org/wiki/Cross-site_request_forgery
-https://en.wikipedia.org/wiki/Denial-of-service_attack
-Broken authentication
-
-Low
-Sensitive data exposure
-Broken session management
-Unvalidated redirects/forwards
-Issues requiring an uncommon configuration option
-
-https://www.owasp.org/index.php/SQL_Injection
-https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
-https://www.owasp.org/index.php/Denial_of_Service
 -->
 
 ## Django Security
@@ -312,32 +291,7 @@ OWASP
 * [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
 * [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
 
-Top Ten
-* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
-
-Types
-* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
-* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
-
-Same Origin
-* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
 <!--
-https://en.wikipedia.org/wiki/Clickjacking
-https://en.wikipedia.org/wiki/Code_injection
-
-https://en.wikipedia.org/wiki/Computer_security_model
-https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
-
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
 ## Security- General
       
 https://developers.google.com/web/fundamentals/security/
@@ -350,15 +304,6 @@ https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWAS
 https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
 
 https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
-
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
-
-https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
-https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
 -->
 
 Refactoring Catalogs
