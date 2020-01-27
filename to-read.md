@@ -268,17 +268,6 @@ https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-s
 
 ## Django Security
 
-<!--
-https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
-
-
-https://en.wikipedia.org/wiki/Information_security
-
-https://www.owasp.org/index.php/Category:Attack
--->
-
 ## Security
 
 Security- General
