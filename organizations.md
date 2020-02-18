@@ -1,11 +1,5 @@
 # Organizations
 
-## Engineering Blogs
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
 ## Companies that Use Python
 
 Companies that Use Python
