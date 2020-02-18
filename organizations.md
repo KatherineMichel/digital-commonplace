@@ -380,231 +380,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ## Companies by Subject
 
-### Design
-
-* [99designs](https://github.com/99designs/)
-* [Adobe](https://github.com/adobe)  
-* [Adobe Fonts](https://github.com/adobe-fonts)
-* [Adobe Research](https://github.com/adobe-research)
-* [Canva](https://github.com/canva) 
-* [Figma](https://github.com/figma)
-* [Typekit](https://github.com/typekit) 
-
-### Photos and Gifs
-
-* [Flickr](https://github.com/flickr) 
-* [Giphy](https://github.com/Giphy)  
-* [Imgur](https://github.com/imgur)  
-* [Photobucket](https://github.com/photobucket) 
-* [Shutterstock](https://github.com/shutterstock) 
-* [Unsplash](https://github.com/unsplash)
-
-### Website or App on Demand
-
-* [Automattic](https://github.com/Automattic) 
-* [DWNLD](https://github.com/dwnld) 
-* [GoDaddy](https://github.com/godaddy)
-* [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) 
-* [Shopify](https://github.com/Shopify) 
-* [Squarespace](https://github.com/squarespace)  
-* [Wix](https://github.com/wix)
-* [WordPress](https://github.com/WordPress)  
-* [WordPress Plugins](https://github.com/wp-plugins) 
-* [WordPress Accessibility](https://github.com/wpaccessibility)
-
-<!--
-https://github.com/netlify
--->
-
-### Analyst Agencies
-
-* [Accenture](https://github.com/Accenture)
-* [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
-* [Booz Allen](https://github.com/boozallen)
-* [Deloitte Solutions](https://github.com/DeloitteSolutions)
-
-### Investment
-
-* [a16z](https://github.com/a16z)
-* [Agile Ventures](https://github.com/AgileVentures)
-* [AngelList](https://github.com/AngelList) 
-* [Bloomberg Finance L.P.](https://github.com/bloomberg)
-* [Expa](https://github.com/expa)
-* [Indie.vc](https://github.com/indievc)
-* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
-
-### Financial Services
-
-* [American Express](https://github.com/americanexpress)
-* [Blackrock Digital](https://github.com/BlackrockDigital)
-* [Braintree](https://github.com/braintree)
-* [Britecore](https://github.com/britecore) 
-* [C2FO](https://github.com/C2FO) 
-* [Capital One](https://github.com/capitalone)
-* [Dwolla](https://github.com/dwolla)  
-* [Funding Circle](https://github.com/fundingcircle)
-* [JP Morgan Chase](https://github.com/jpmorganchase)
-* [Kickstarter](https://github.com/kickstarter) 
-* [Quantopian](https://github.com/quantopian) 
-* [Patreon](https://github.com/patreon)  
-* [PayPal](https://github.com/paypal) 
-* [Plaid](https://github.com/plaid)
-* [Robinhood](https://github.com/robinhood) 
-* [Square](https://github.com/square)
-* [Stripe](https://github.com/stripe) 
-* [Venmo](https://github.com/venmo)
-* [Wealthfront](https://github.com/wealthfront)
-
-### Telecommunications
-
-* [AT&T Dev Support](https://github.com/attdevsupport)  
-* [Century Link Cloud](https://github.com/CenturyLinkCloud)
-* [Comcast](https://github.com/Comcast) 
-* [Hulu](https://github.com/hulu) 
-* [Netflix](https://github.com/Netflix) 
-
-### Health
-
-* [23andMe](https://github.com/23andMe) 
-* [Cerner](https://github.com/cerner)
-* [Doctor on Demand](https://github.com/doctorondemand)
-* [Watsi](https://github.com/watsi) 
-
-### Transport
-
-* [DiDi](https://github.com/didi)
-* [Lyft](https://github.com/lyft)
-* [Tesla Motors](https://github.com/teslamotors)  
-* [Uber](https://github.com/uber)  
-* [Uber Common](https://github.com/uber-common) 
-* [Uber Web](https://github.com/uber-web ) 
-* [Uber Go](https://github.com/uber-go)
-
-### Housing and Hospitality
-
-* [Airbnb](https://github.com/airbnb)  
-* [Airbus SecLab](https://github.com/airbus-seclab)
-* [Airbnb: Crowdtilt](https://github.com/Crowdtilt) 
-* [HotelTonight](https://github.com/hoteltonight)
-* [Trip Advisor](https://github.com/tripadvisor)  
-* [TripIt](https://github.com/tripit)  
-* [Zillow](https://github.com/zillow)
-* [Zillow Research](https://github.com/zillow-research)
-
-### eCommerce
-
-* [Artsy](https://github.com/artsy) 
-* [Behance](https://github.com/behance) 
-* [Dollar Shave Club](https://github.com/dollarshaveclub)  
-* [eBay](https://github.com/eBay)
-* [Etsy](https://github.com/etsy) 
-* [Fasholista](https://github.com/Fashiolista)
-* [General Mills](https://github.com/GeneralMills)
-* [Nike Inc.](https://github.com/Nike-Inc)
-* [Roverdotcom](https://github.com/roverdotcom)
-* [Stitch Fix](https://github.com/stitchfix)
-* [StyleSeat](https://github.com/styleseat) 
-* [Target](https://github.com/target)  
-* [Under Armour](https://github.com/underarmour)
-* [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc)
-* [Walmart Labs](https://github.com/walmartlabs) 
-* [Wayfair](https://github.com/wayfair)
-
-### Forums
-
-* [Quora](https://github.com/quora)
-* [Hacker News](https://github.com/HackerNews)
-* [Reddit](https://github.com/reddit) 
-
-### Publications
-
-* [Flipboard](https://github.com/flipboard)
-* [Medium](https://github.com/medium)
-* [Medium Open Source](https://github.com/Medium/opensource)
-* [Medium Policy](https://github.com/Medium/medium-policy)
-* [Wattpad](https://github.com/wattpad) 
-
-### Music
-
-* [SoundCloud](https://github.com/soundcloud)  
-* [Spotify](https://github.com/spotify) 
-
-### Social
-
-* [App.net](https://github.com/appdotnet)  
-* [eHarmony](https://github.com/eharmony)  
-* [Ello](https://github.com/ello)
-* [Instagram](https://github.com/Instragram)  
-* [Foursquare](https://github.com/foursquare) 
-* [Meetup](https://github.com/meetup) 
-* [Nextdoor](https://github.com/nextdoor)
-* [Pinterest](https://github.com/pinterest)  
-* [Snapchat](https://github.com/snapchat)    
-* [Stack Exchange](https://github.com/stackexchange)  
-* [Tumblr](https://github.com/tumblr) 
-* [Upworthy](https://github.com/upworthy) 
-* [Vimeo](https://github.com/vimeo)  
-* [Vine](https://github.com/vine)  
-* [Yelp](https://github.com/Yelp) 
-
-### Classifieds
-
-* [Craigslist](https://github.com/craigslist)  
-* [Gumtree](https://github.com/gumtree)  
-
-### Metrics
-
-* [Chartbeat](https://github.com/chartbeat)
-* [Chartbeat Labs](https://github.com/chartbeat-labs)  
-* [Mixpanel](https://github.com/mixpanel)
-* [New Relic](https://github.com/newrelic)  
-
-### Tools
-
-* [AddThis](https://github.com/addthis)
-* [Bitly](https://github.com/bitly)  
-* [BitTorrent](https://github.com/bittorrent)
-* [Box](https://github.com/box) 
-* [Buffer](https://github.com/bufferapp) 
-* [Dropbox](https://github.com/dropbox) 
-* [Disqus](https://github.com/disqus) 
-* [Evernote](https://github.com/evernote) 
-* [Hootsuite](https://github.com/hootsuite)  
-* [HubSpot](https://github.com/HubSpot)   
-* [IFTTT](https://github.com/IFTTT) 
-* [Gnip](https://github.com/gnip)
-* [KISSmetrics](https://github.com/kissmetrics)  
-* [Klout](https://github.com/klout)
-* [MailChimp](https://github.com/mailchimp) 
-* [Prezi](https://github.com/prezi) 
-* [SurveyMonkey](https://github.com/surveymonkey) 
-
-### Admin
-
-* [Staffjoy](https://github.com/Staffjoy) 
-* [TaskRabbit](https://github.com/taskrabbit)
-* [Zendesk](https://github.com/zendesk)
-* [Zenefits](https://github.com/zenefits)
-* [Ziggeo](https://github.com/ziggeo)
-
-### Events and Tickets
-
-* [Eventbrite](https://github.com/eventbrite)  
-* [Lanyard](http://github.lanyrd.com)
-* [Ticketmaster](https://github.com/ticketmaster) 
-
-### Games and Robots
-
-* [3D Robotics](https://github.com/3drobotics)
-* [Epic Games](https://github.com/EpicGames)
-* [Twitch TV](https://github.com/twitchtv) 
-* [Zynga](https://github.com/zynga)
-
-### VR
-
-* [Google VR](https://github.com/googlevr)
-* [Oculus VR](https://github.com/OculusVR) 
-
 ### Not Classified Yet
 
 * [Digg](https://github.com/digg)  
@@ -658,6 +433,277 @@ https://github.com/netlify
 * [Deprecated: ThinkUp](https://github.com/ThinkUpLLC/ThinkUp)
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
+
+### Design
+
+* [99designs](https://github.com/99designs/)
+* [Adobe](https://github.com/adobe)  
+* [Adobe Fonts](https://github.com/adobe-fonts)
+* [Adobe Research](https://github.com/adobe-research)
+* [Canva](https://github.com/canva) 
+* [Figma](https://github.com/figma)
+* [Typekit](https://github.com/typekit) 
+
+### Photos and Gifs
+
+* [Flickr](https://github.com/flickr) 
+* [Giphy](https://github.com/Giphy)  
+* [Imgur](https://github.com/imgur)  
+* [Photobucket](https://github.com/photobucket) 
+* [Shutterstock](https://github.com/shutterstock) 
+* [Unsplash](https://github.com/unsplash)
+
+### Web Hosting
+
+* [Netlify](https://github.com/netlify) 
+
+### Website and App on Demand
+
+* [Automattic](https://github.com/Automattic) 
+* [DWNLD](https://github.com/dwnld) 
+* [GoDaddy](https://github.com/godaddy)
+* [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) 
+* [Shopify](https://github.com/Shopify) 
+* [Squarespace](https://github.com/squarespace)  
+* [Wix](https://github.com/wix)
+* [WordPress](https://github.com/WordPress)  
+* [WordPress Plugins](https://github.com/wp-plugins) 
+* [WordPress Accessibility](https://github.com/wpaccessibility)
+
+### eCommerce
+
+* [Artsy](https://github.com/artsy) 
+* [Behance](https://github.com/behance) 
+* [Dollar Shave Club](https://github.com/dollarshaveclub)  
+* [eBay](https://github.com/eBay)
+* [Etsy](https://github.com/etsy) 
+* [Fasholista](https://github.com/Fashiolista)
+* [General Mills](https://github.com/GeneralMills)
+* [Nike Inc.](https://github.com/Nike-Inc)
+* [Roverdotcom](https://github.com/roverdotcom)
+* [Stitch Fix](https://github.com/stitchfix)
+* [StyleSeat](https://github.com/styleseat) 
+* [Target](https://github.com/target)  
+* [Under Armour](https://github.com/underarmour)
+* [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc)
+* [Walmart Labs](https://github.com/walmartlabs) 
+* [Wayfair](https://github.com/wayfair)
+
+### Social
+
+* [App.net](https://github.com/appdotnet)  
+* [eHarmony](https://github.com/eharmony)  
+* [Ello](https://github.com/ello)
+* [Instagram](https://github.com/Instragram)  
+* [Foursquare](https://github.com/foursquare) 
+* [Meetup](https://github.com/meetup) 
+* [Nextdoor](https://github.com/nextdoor)
+* [Pinterest](https://github.com/pinterest)  
+* [Snapchat](https://github.com/snapchat)    
+* [Stack Exchange](https://github.com/stackexchange)  
+* [Tumblr](https://github.com/tumblr) 
+* [Upworthy](https://github.com/upworthy) 
+* [Vimeo](https://github.com/vimeo)  
+* [Vine](https://github.com/vine)  
+* [Yelp](https://github.com/Yelp) 
+
+### Music
+
+* [SoundCloud](https://github.com/soundcloud)  
+* [Spotify](https://github.com/spotify) 
+
+### Events and Tickets
+
+* [Eventbrite](https://github.com/eventbrite)  
+* [Lanyard](http://github.lanyrd.com)
+* [Ticketmaster](https://github.com/ticketmaster) 
+
+### Metrics
+
+* [Chartbeat](https://github.com/chartbeat)
+* [Chartbeat Labs](https://github.com/chartbeat-labs)  
+* [Mixpanel](https://github.com/mixpanel)
+* [New Relic](https://github.com/newrelic)  
+
+### Tools
+
+* [AddThis](https://github.com/addthis)
+* [Bitly](https://github.com/bitly)  
+* [BitTorrent](https://github.com/bittorrent)
+* [Box](https://github.com/box) 
+* [Buffer](https://github.com/bufferapp) 
+* [Dropbox](https://github.com/dropbox) 
+* [Disqus](https://github.com/disqus) 
+* [Evernote](https://github.com/evernote) 
+* [Hootsuite](https://github.com/hootsuite)  
+* [HubSpot](https://github.com/HubSpot)   
+* [IFTTT](https://github.com/IFTTT) 
+* [Gnip](https://github.com/gnip)
+* [KISSmetrics](https://github.com/kissmetrics)  
+* [Klout](https://github.com/klout)
+* [MailChimp](https://github.com/mailchimp) 
+* [Prezi](https://github.com/prezi) 
+* [SurveyMonkey](https://github.com/surveymonkey) 
+
+### Admin
+
+* [Staffjoy](https://github.com/Staffjoy) 
+* [TaskRabbit](https://github.com/taskrabbit)
+* [Zendesk](https://github.com/zendesk)
+* [Zenefits](https://github.com/zenefits)
+* [Ziggeo](https://github.com/ziggeo)
+
+### Telecommunications
+
+* [AT&T Dev Support](https://github.com/attdevsupport)  
+* [Century Link Cloud](https://github.com/CenturyLinkCloud)
+* [Comcast](https://github.com/Comcast) 
+* [Hulu](https://github.com/hulu) 
+* [Netflix](https://github.com/Netflix) 
+
+### Transport
+
+* [DiDi](https://github.com/didi)
+* [Lyft](https://github.com/lyft)
+* [Tesla Motors](https://github.com/teslamotors)  
+* [Uber](https://github.com/uber)  
+* [Uber Common](https://github.com/uber-common) 
+* [Uber Web](https://github.com/uber-web ) 
+* [Uber Go](https://github.com/uber-go)
+
+### Housing and Hospitality
+
+* [Airbnb](https://github.com/airbnb)  
+* [Airbus SecLab](https://github.com/airbus-seclab)
+* [Airbnb: Crowdtilt](https://github.com/Crowdtilt) 
+* [HotelTonight](https://github.com/hoteltonight)
+* [Trip Advisor](https://github.com/tripadvisor)  
+* [TripIt](https://github.com/tripit)  
+* [Zillow](https://github.com/zillow)
+* [Zillow Research](https://github.com/zillow-research)
+
+### Health
+
+* [23andMe](https://github.com/23andMe) 
+* [Cerner](https://github.com/cerner)
+* [Doctor on Demand](https://github.com/doctorondemand)
+* [Watsi](https://github.com/watsi) 
+
+### Games and Robots
+
+* [3D Robotics](https://github.com/3drobotics)
+* [Epic Games](https://github.com/EpicGames)
+* [Twitch TV](https://github.com/twitchtv) 
+* [Zynga](https://github.com/zynga)
+
+### VR
+
+* [Google VR](https://github.com/googlevr)
+* [Oculus VR](https://github.com/OculusVR) 
+
+### Financial Services
+
+* [American Express](https://github.com/americanexpress)
+* [Blackrock Digital](https://github.com/BlackrockDigital)
+* [Braintree](https://github.com/braintree)
+* [Britecore](https://github.com/britecore) 
+* [C2FO](https://github.com/C2FO) 
+* [Capital One](https://github.com/capitalone)
+* [Dwolla](https://github.com/dwolla)  
+* [Funding Circle](https://github.com/fundingcircle)
+* [JP Morgan Chase](https://github.com/jpmorganchase)
+* [Kickstarter](https://github.com/kickstarter) 
+* [Quantopian](https://github.com/quantopian) 
+* [Patreon](https://github.com/patreon)  
+* [PayPal](https://github.com/paypal) 
+* [Plaid](https://github.com/plaid)
+* [Robinhood](https://github.com/robinhood) 
+* [Square](https://github.com/square)
+* [Stripe](https://github.com/stripe) 
+* [Venmo](https://github.com/venmo)
+* [Wealthfront](https://github.com/wealthfront)
+
+### Forums
+
+* [Quora](https://github.com/quora)
+* [Hacker News](https://github.com/HackerNews)
+* [Reddit](https://github.com/reddit) 
+
+### Classifieds
+
+* [Craigslist](https://github.com/craigslist)  
+* [Gumtree](https://github.com/gumtree)  
+
+### Publications
+
+* [Flipboard](https://github.com/flipboard)
+* [Medium](https://github.com/medium)
+* [Medium Open Source](https://github.com/Medium/opensource)
+* [Medium Policy](https://github.com/Medium/medium-policy)
+* [Wattpad](https://github.com/wattpad) 
+
+## News
+
+* [ABC News](https://github.com/abcnews)
+* [Al Jazeera America](https://github.com/ajam)  
+* [Associated Press](https://github.com/associatedpress) 
+* [BBC](https://github.com/bbc)  
+* [BBC News](https://github.com/BBCNews) 
+* [BBC News](https://github.com/BBC-News)  
+* [BBC News Labs](https://github.com/BBC-News-Labs)
+* [Buzzfeed](https://github.com/buzzfeed)  
+* [Buzzfeed Design](https://github.com/buzzfeed/design)  
+* [Buzzfeed News](https://github.com/buzzfeednews)  
+* [Buzzfeed News Everything](https://github.com/BuzzFeedNews/everything)  
+* [Census Reporter](https://github.com/censusreporter) 
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Data Desk](https://github.com/datadesk)  
+* [Duke Chronicle](https://github.com/dukechronicle)
+* [Financial Times](https://github.com/Financial-Times)  
+* [Five Thirty Eight](https://github.com/fivethirtyeight) and [Five Thirty Eight Data](https://github.com/fivethirtyeight/data)
+* [Freedom of Press](https://github.com/freedomofpress) 
+* [FT Interactive](https://github.com/ft-interactive)
+* [FT Labs](https://github.com/ftlabs)
+* [Grasswire](https://github.com/grasswire)  
+* [Guardian](https://github.com/guardian)  
+* [Huffington Post](https://github.com/huffingtonpost)  
+* [Huffington Post Data](https://github.com/huffpostdata)  
+* [Mashable](https://github.com/mashable) 
+* [Mic News](https://github.com/micnews)
+* [NPR Apps](https://github.com/nprapps)  
+* [Northwestern University Knight Lab](https://github.com/nuknightlab)  
+* [NYT Labs](https://github.com/nytlabs)  
+* [NYT Newsroom Developers](https://github.com/newsdev)
+* [Propublica](https://github.com/propublica)  
+* [Stanford Journalism](https://github.com/stanfordjournalism)
+* [TechCrunch](https://github.com/techcrunch)  
+* [The Economist](https://github.com/TheEconomist) 
+* [The New York Times](https://github.com/NYTimes) 
+* [The Oregonian](https://github.com/TheOregonian)
+* [The Telegraph](https://github.com/telegraph)  
+* [Time Magazine](https://github.com/TimeMagazine)  
+* [Tribune News Applications Teams](https://github.com/newsapps)  
+* [Vox Media](https://github.com/voxmedia)  
+* [Washington Post](https://github.com/washingtonpost)  
+* [Washington Post Investigative](https://github.com/wpinvestigative)  
+* [Washington Times](https://github.com/washingtontimes)  
+
+### Analyst Agencies
+
+* [Accenture](https://github.com/Accenture)
+* [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
+* [Booz Allen](https://github.com/boozallen)
+* [Deloitte Solutions](https://github.com/DeloitteSolutions)
+
+### Investment
+
+* [a16z](https://github.com/a16z)
+* [Agile Ventures](https://github.com/AgileVentures)
+* [AngelList](https://github.com/AngelList) 
+* [Bloomberg Finance L.P.](https://github.com/bloomberg)
+* [Expa](https://github.com/expa)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
 
 ## Learning
 
@@ -776,48 +822,3 @@ Kansas Non-Profit
 * [Open Wichita](https://github.com/openwichita)
 * [Startup Wichita](https://github.com/StartupWichita)
 * [Wichitalks](https://github.com/Wichitalks)
-
-## News
-
-* [ABC News](https://github.com/abcnews)
-* [Al Jazeera America](https://github.com/ajam)  
-* [Associated Press](https://github.com/associatedpress) 
-* [BBC](https://github.com/bbc)  
-* [BBC News](https://github.com/BBCNews) 
-* [BBC News](https://github.com/BBC-News)  
-* [BBC News Labs](https://github.com/BBC-News-Labs)
-* [Buzzfeed](https://github.com/buzzfeed)  
-* [Buzzfeed Design](https://github.com/buzzfeed/design)  
-* [Buzzfeed News](https://github.com/buzzfeednews)  
-* [Buzzfeed News Everything](https://github.com/BuzzFeedNews/everything)  
-* [Census Reporter](https://github.com/censusreporter) 
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Data Desk](https://github.com/datadesk)  
-* [Duke Chronicle](https://github.com/dukechronicle)
-* [Financial Times](https://github.com/Financial-Times)  
-* [Five Thirty Eight](https://github.com/fivethirtyeight) and [Five Thirty Eight Data](https://github.com/fivethirtyeight/data)
-* [Freedom of Press](https://github.com/freedomofpress) 
-* [FT Interactive](https://github.com/ft-interactive)
-* [FT Labs](https://github.com/ftlabs)
-* [Grasswire](https://github.com/grasswire)  
-* [Guardian](https://github.com/guardian)  
-* [Huffington Post](https://github.com/huffingtonpost)  
-* [Huffington Post Data](https://github.com/huffpostdata)  
-* [Mashable](https://github.com/mashable) 
-* [Mic News](https://github.com/micnews)
-* [NPR Apps](https://github.com/nprapps)  
-* [Northwestern University Knight Lab](https://github.com/nuknightlab)  
-* [NYT Labs](https://github.com/nytlabs)  
-* [NYT Newsroom Developers](https://github.com/newsdev)
-* [Propublica](https://github.com/propublica)  
-* [Stanford Journalism](https://github.com/stanfordjournalism)
-* [TechCrunch](https://github.com/techcrunch)  
-* [The New York Times](https://github.com/NYTimes) 
-* [The Oregonian](https://github.com/TheOregonian)
-* [The Telegraph](https://github.com/telegraph)  
-* [Time Magazine](https://github.com/TimeMagazine)  
-* [Tribune News Applications Teams](https://github.com/newsapps)  
-* [Vox Media](https://github.com/voxmedia)  
-* [Washington Post](https://github.com/washingtonpost)  
-* [Washington Post Investigative](https://github.com/wpinvestigative)  
-* [Washington Times](https://github.com/washingtontimes)  
