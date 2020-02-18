@@ -1,6 +1,8 @@
 # Python
 
 <!--
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style
 https://github.com/satwikkansal/wtfpython
 https://github.com/jakevdp/WhirlwindTourOfPython
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
