@@ -831,9 +831,19 @@ Special Projects
 * [babi](https://github.com/asottile/babi)
 
 <!--
+https://www.encode.io/projects/
+
+https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
+https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
+https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
+https://pypi.org/project/pyupgrade-docs/
+https://github.com/asottile/add-trailing-comma
+https://github.com/asottile/all-repos
+
 https://github.com/nedbat/coveragepy/issues/
 
 Drop python 2 / python3.5 support in pre-commit
+https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0
 https://github.com/pre-commit/pre-commit/issues/1260
 https://github.com/pre-commit/pre-commit/pull/1277
 
