@@ -3,7 +3,204 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://blog.burntsushi.net/foss/
+
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://martinfowler.com/articles/refactoring-2nd-changes.html
+https://refactoring.com/catalog/
+https://refactoring.guru/collapse-hierarchy
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+https://github.com/coodict/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png
+https://github.com/coodict/javascript-in-one-pic/blob/master/js%20in%20one%20pic.png
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+https://www.django-rest-framework.org/
+
+https://docs.djangoproject.com/en/3.0/releases/3.0/
+https://docs.python.org/3/howto/pyporting.html
+https://python-future.org/quickstart.html
+http://python-future.org/futurize.html#forwards-conversion-stage2
+https://python-future.org/quickstart.html#installation
+https://python-future.org/compatible_idioms.html
+
+https://packaging.python.org/tutorials/
+https://packaging.python.org/guides/
+
+https://pypi.org/project/setuptools/
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
+https://packaging.python.org/tutorials/installing-packages/
+
+https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
+https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://realpython.com/pypi-publish-python-package/
+https://hynek.me/articles/testing-packaging/
+
+http://www.extremeprogramming.org/rules/testfirst.html
+https://pythontesting.net/framework/pytest/pytest-introduction/
+https://pythontesting.net/agile/test-first-programming/
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage
+https://docs.djangoproject.com/en/dev/topics/testing/overview/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-javascript-tests
+
+https://realpython.com/python-continuous-integration/
+https://realpython.com/courses/running-python-scripts/
+
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+
+https://2020.pycascades.com/schedule/
+https://twitter.com/brianokken/status/1226963660020633603
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+
+https://devchecklists.com/python-api-checklist/
+https://devchecklists.com/django-apps-checklist/
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+
+https://en.wikipedia.org/wiki/Monolithic_application
+
+https://twitter.com/nnja/status/1217933709577342976
+
+https://github.com/lorin/systems-thinking
+
+https://twitter.com/ordanisanchez/status/1222874946403274760
+
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://beginnerjavascript.com/
+https://justjavascript.com/
+https://twitter.com/dan_abramov/status/1225838339598831616
+https://twitter.com/jkup/status/1217849585219010560
+https://github.com/jgthms/javascript-in-14-minutes
+
+https://twitter.com/vmbrasseur/status/1223627051552235520
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+https://www.twitch.tv/nnjaio
+
+https://about.gitlab.com/
+https://about.gitlab.com/devops-tools/
+https://www.atlassian.com/agile/product-management/product-roadmaps
+
+https://lp.buffer.com/state-of-remote-work-2020
+
+https://github.com/VGraupera/1on1-questions
+
+https://en.wikipedia.org/wiki/Regular_expression
+https://simple.wikipedia.org/wiki/Turing_complete
+
+https://twitter.com/b0rk/status/1204839971913379840
+
+https://github.com/kbariotis/templates
+
 https://freestateforge.com/map
+
+
+https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+cross linter - Google Search
+
+Matrix- Operating Systems (Unix, Linux, etc.)
+
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
+Python 2/3
+https://github.com/pre-commit/pre-commit/issues/1260
+
+Release
+https://twitter.com/brettsky/status/1216051044095946752
+https://twitter.com/VictorStinner/status/1216061972543868929
+https://github.com/vstinner/pyperf/blob/master/setup.py
+
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+
+
+https://packaging.python.org/glossary/#term-requirement-specifier
+https://www.python.org/dev/peps/pep-0440/
+https://www.python.org/dev/peps/pep-0440/#version-specifiers
+
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
+
+https://realpython.com/inheritance-composition-python/
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
+https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
+
+https://techyaks.com/python-year-tytop.html
+
+
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://opensource.com/article/19/4/bash-vs-python
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
+Computer Architecture
+https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
+
+
+
+https://twitter.com/agjhnsn/status/1222618133069885445
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
 https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
 
@@ -36,33 +233,6 @@ https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 
-
-
-https://docs.python-guide.org/writing/logging/ | Logging — The Hitchhiker's Guide to Python
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-cross linter - Google Search
-
-Matrix- Operating Systems (Unix, Linux, etc.)
-
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-
-Python 2/3
-https://github.com/pre-commit/pre-commit/issues/1260
-
-Release
-https://twitter.com/brettsky/status/1216051044095946752
-https://twitter.com/VictorStinner/status/1216061972543868929
-https://github.com/vstinner/pyperf/blob/master/setup.py
-
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-
 Database
 https://en.wikipedia.org/wiki/Federated_database_system
 delegated database
@@ -75,62 +245,16 @@ https://github.com/nodejs/modules
 https://github.com/vuejs/vue-loader
 https://github.com/jsdom/jsdom
 
-Feature Toggles
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
-
-
-https://packaging.python.org/glossary/#term-requirement-specifier
-https://www.python.org/dev/peps/pep-0440/
-https://www.python.org/dev/peps/pep-0440/#version-specifiers
-
-https://www.python.org/dev/peps/pep-0394/#recommendation
-
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-
-https://techyaks.com/python-year-tytop.html
-
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
-
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-https://opensource.com/article/19/4/bash-vs-python
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
-
-https://realpython.com/inheritance-composition-python/
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-https://www.atlassian.com/agile/product-management/product-roadmaps
-
 https://www.canada.ca/en/government/system/digital-government/open-source-software.html
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
 https://developers.google.com/machine-learning/crash-course
 
-https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
-https://github.com/trekhleb/javascript-algorithms
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
-
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
-Computer Architecture
-https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
-
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 -->
 
 <!--
