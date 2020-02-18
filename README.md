@@ -3,17 +3,17 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://blog.burntsushi.net/foss/
+
+https://github.com/kbariotis/templates
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
 Roadmap example
 https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
-
-https://blog.burntsushi.net/foss/
-
-https://github.com/kbariotis/templates
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
 
 https://about.gitlab.com/
 https://about.gitlab.com/devops-tools/
@@ -26,6 +26,7 @@ https://en.wikipedia.org/wiki/Monolithic_application
 https://github.com/lorin/systems-thinking
 
 Simon
+https://twitter.com/simonw/status/1178346657479442433
 https://twitter.com/ordanisanchez/status/1222874946403274760
 
 https://github.com/gr2m/create-or-update-pull-request-action
