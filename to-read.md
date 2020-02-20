@@ -1,5 +1,81 @@
 # To Read
 
+Look through... career stuff
+
+## Coding Practice
+
+https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
+Coding practice
+https://github.com/smamran/gfg | smamran/gfg: Programming Codes
+https://github.com/rrevanth/leetcode-by-company | rrevanth/leetcode-by-company: leetcode question list by companies, include the premium questions
+https://www.geeksforgeeks.org/company-interview-corner/ | Company Interview Corner - GeeksforGeeks
+
+https://www.google.com/search?q=software+tradeoffs&oq=software+tradeoffs&aqs=chrome..69i57j0j35i39j0l2j69i61l2j69i60.3300j0j7&sourceid=chrome&ie=UTF-8 | software tradeoffs - Google Search
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
+Interviews
+https://github.com/careercup/CtCI-6th-Edition-Python/tree/master/Chapter8 | CtCI-6th-Edition-Python/Chapter8 at master · careercup/CtCI-6th-Edition-Python
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.google.com/search?q=cracking+the+pm+interview&oq=cracking+the+pm+interview&aqs=chrome..69i57j0l7.3147j0j7&sourceid=chrome&ie=UTF-8 | cracking the pm interview - Google Search
+https://dbader.org/blog/how-to-prepare-for-a-python-coding-interview | How to Prepare for a Python Coding Interview – dbader.org
+https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949 | Elements of Programming Interviews in Python: The Insiders' Guide: Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: 9781537713946: Amazon.com: Books
+https://blog.hackerrank.com/how-to-crack-microsoft-interview/ | How to Crack the Microsoft Interview - HackerRank Blog
+
+## Engineering Management Resources
+
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+Scaling Engineering
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+
+https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+-->
+
+## Engineering Management
+
+<!--
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+-->
+
+<!--
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+software development competency framework
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+-->
+
+
 <!--
 python-doc-notes.md
 
