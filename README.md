@@ -3,6 +3,35 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Interesting
+
+Good Print, hello debugger, DjangoCon
+
+Rusts Community automation
+
+Hashtags
+#pycascades
+
+Important
+https://twitter.com/DynamicWebPaige/status/1175930240452816896
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://github.com/Gabriel439/simple-twitter/blob/master/Main.hs
+https://martinfowler.com/articles/feature-toggles.html
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13
+https://basecamp.com/guides/how-we-communicate
+https://twitter.com/dustanner/status/1176518182850351104
+https://blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?__twitter_impression=true
+https://mobile.twitter.com/GeorgLink/status/1227249874174906368
+https://twitter.com/GeorgLink/status/1195123239984357377
+https://mobile.twitter.com/spiffxp/status/1179807583864967168
+
+Southern California tech community
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+
 https://blog.burntsushi.net/foss/
 
 https://github.com/kbariotis/templates
