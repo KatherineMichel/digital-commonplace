@@ -7,12 +7,16 @@ Interesting
 
 Good Print, hello debugger, DjangoCon
 
+https://twitter.com/sawaba/status/1222680741705846785
+get automated emails out of main inbox
+
+clrs algorithms
+
 Rusts Community automation
 
 Hashtags
 #pycascades
 
-Important
 https://twitter.com/DynamicWebPaige/status/1175930240452816896
 https://automationpanda.com/speaking/
 https://twitter.com/AutomationPanda/status/1226591212632596480
