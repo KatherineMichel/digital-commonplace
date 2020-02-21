@@ -5,14 +5,25 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 Interesting
 
-Good Print, hello debugger, DjangoCon
+Great engineers
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
 
-https://twitter.com/sawaba/status/1222680741705846785
-get automated emails out of main inbox
+Top Engineers
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
+https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
+https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
+
+Good Print, hello debugger, DjangoCon
 
 clrs algorithms
 
 Rusts Community automation
+
+https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
 
 Hashtags
 #pycascades
@@ -36,7 +47,11 @@ Southern California tech community
 https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
 
 
+
 https://blog.burntsushi.net/foss/
+
+Contributing guidance- simple
+https://github.com/johno/pixyll#contributing | johno/pixyll: A simple, beautiful Jekyll theme that's mobile first
 
 https://github.com/kbariotis/templates
 https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
@@ -59,6 +74,7 @@ https://en.wikipedia.org/wiki/Monolithic_application
 https://github.com/lorin/systems-thinking
 
 Simon
+https://github.com/simonw/
 https://twitter.com/simonw/status/1178346657479442433
 https://twitter.com/ordanisanchez/status/1222874946403274760
 
