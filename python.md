@@ -1,6 +1,15 @@
 # Python
 
 <!--
+http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
+
+Very important!!!!!!!
+https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
+https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
+
+https://twitter.com/jpadilla_/status/1189752115566133248
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style
 https://github.com/satwikkansal/wtfpython
@@ -487,6 +496,7 @@ Terminology
 * [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
 
 <!--
+https://pythontesting.net/agile/test-first-programming/
 http://www.extremeprogramming.org/rules/testfirst.html
 https://martinfowler.com/bliki/SelfTestingCode.html
 https://martinfowler.com/bliki/TestDrivenDevelopment.html
@@ -517,6 +527,8 @@ pytest
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
+https://pythontesting.net/framework/pytest/pytest-introduction/
+
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
 https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
@@ -746,6 +758,11 @@ http://calver.org/
 
 ## Great Release Managers
 
+<!--
+https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
+https://twitter.com/anthonypjshaw/status/1218730494637953024
+-->
+
 ### General Talks
 
 <!--
@@ -770,15 +787,6 @@ https://www.youtube.com/watch?v=-BHverY7IwU
 -->
 
 ### Projects
-
-<!--
-http://www.extremeprogramming.org/rules/testfirst.html
-https://pythontesting.net/framework/pytest/pytest-introduction/
-https://pythontesting.net/agile/test-first-programming/
-https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage
-https://docs.djangoproject.com/en/dev/topics/testing/overview/
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-javascript-tests
--->
 
 ### Ned Batchelder
 
@@ -943,53 +951,6 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 ## Package Tools and Testing
 
 <!--
-https://twitter.com/brettsky/status/1216051044095946752
-https://twitter.com/VictorStinner/status/1216061972543868929
-https://github.com/vstinner/pyperf/blob/master/setup.py
-
-PyPI
-https://twitter.com/nlhkabu/status/1176378129012727808
-
-https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
-https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
-https://realpython.com/pypi-publish-python-package/
-https://hynek.me/articles/testing-packaging/
-
-https://www.python.org/dev/peps/pep-0394/#recommendation
-
-https://packaging.python.org/tutorials/
-https://packaging.python.org/guides/
-
-https://pypi.org/project/setuptools/
-
-https://packaging.python.org/guides/distributing-packages-using-setuptools/
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
-https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
-https://packaging.python.org/tutorials/installing-packages/
-https://packaging.python.org/glossary/#term-version-specifier
-
-https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
-https://pip.pypa.io/en/latest/user_guide/#requirements-files
-https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
-
-https://packaging.python.org/glossary/#term-requirement-specifier
-https://www.python.org/dev/peps/pep-0440/
-https://www.python.org/dev/peps/pep-0440/#version-specifiers
-
-https://packaging.python.org/key_projects/#setuptools
-https://packaging.python.org/key_projects/#distutils
-https://pythonwheels.com/
-
-pyproject.toml : the future of Python packaging
-https://testandcode.com/52
-
-https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
-The Packaging Gradient
-https://www.youtube.com/watch?v=iLVNWfPWAC8
-
-
-
 Pinax
 https://pypi.org/project/django-utils/ | django-utils · PyPI
 https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
@@ -1008,31 +969,7 @@ https://github.com/pypa/setuptools/issues/1684
 
 https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files
 https://github.com/pypa/sampleproject/blob/master/setup.cfg
-
-
-Encode Typesystem
-https://twitter.com/webology/status/1227286423109279744
-
-https://github.com/urllib3/urllib3
-
-Poetry
-https://mobile.twitter.com/hynek/status/1226240842429616135
-
-Channels
-https://mobile.twitter.com/carltongibson/status/1207397901250564096
-
-Choices
-https://mobile.twitter.com/jacobian/status/1180524826068430848
-
-Choices
-https://mobile.twitter.com/webology/status/1195163668440334337
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
 -->
-
 
 <!--
 https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
