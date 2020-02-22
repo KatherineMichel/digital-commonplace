@@ -772,8 +772,12 @@ https://www.youtube.com/watch?v=-BHverY7IwU
 ### Projects
 
 <!--
-Includes issues links
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+http://www.extremeprogramming.org/rules/testfirst.html
+https://pythontesting.net/framework/pytest/pytest-introduction/
+https://pythontesting.net/agile/test-first-programming/
+https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage
+https://docs.djangoproject.com/en/dev/topics/testing/overview/
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-javascript-tests
 -->
 
 ### Ned Batchelder
@@ -868,15 +872,6 @@ https://github.com/asottile/pyupgrade
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
 -->
 
-## What's New
-
-<!--
-Release notes
-https://docs.python.org/3/whatsnew/
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
--->
-
 ## Python 2 or 3, Python 2 EoL
 
 Python 2 or 3
@@ -948,6 +943,18 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 ## Package Tools and Testing
 
 <!--
+https://twitter.com/brettsky/status/1216051044095946752
+https://twitter.com/VictorStinner/status/1216061972543868929
+https://github.com/vstinner/pyperf/blob/master/setup.py
+
+PyPI
+https://twitter.com/nlhkabu/status/1176378129012727808
+
+https://docs.djangoproject.com/en/3.0/intro/reusable-apps/
+https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/
+https://realpython.com/pypi-publish-python-package/
+https://hynek.me/articles/testing-packaging/
+
 https://www.python.org/dev/peps/pep-0394/#recommendation
 
 https://packaging.python.org/tutorials/
@@ -976,6 +983,11 @@ https://pythonwheels.com/
 pyproject.toml : the future of Python packaging
 https://testandcode.com/52
 
+https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
+
+The Packaging Gradient
+https://www.youtube.com/watch?v=iLVNWfPWAC8
+
 
 
 Pinax
@@ -996,6 +1008,29 @@ https://github.com/pypa/setuptools/issues/1684
 
 https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files
 https://github.com/pypa/sampleproject/blob/master/setup.cfg
+
+
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+
+https://github.com/urllib3/urllib3
+
+Poetry
+https://mobile.twitter.com/hynek/status/1226240842429616135
+
+Channels
+https://mobile.twitter.com/carltongibson/status/1207397901250564096
+
+Choices
+https://mobile.twitter.com/jacobian/status/1180524826068430848
+
+Choices
+https://mobile.twitter.com/webology/status/1195163668440334337
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
 -->
 
 
@@ -1057,6 +1092,8 @@ Formatting
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
 <!--
+https://github.com/timothycrosley/isort/issues/694
+
 ?
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
