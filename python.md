@@ -890,10 +890,17 @@ Python 2 EOL Websites
 * [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
 <!--
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+
+https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
+https://pypi.org/project/modernize/ | modernize · PyPI
+
 Python 2 to 3
 https://docs.python.org/3/howto/pyporting.html
 
 Cheat Sheets
+http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
+http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
 http://python-future.org/compatible_idioms.html
 https://python-future.org/quickstart.html
 http://python-future.org/futurize.html#forwards-conversion-stage2
