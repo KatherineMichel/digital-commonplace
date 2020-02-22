@@ -833,8 +833,6 @@ Special Projects
 * [babi](https://github.com/asottile/babi)
 
 <!--
-https://www.encode.io/projects/
-
 https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
 https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
 https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
@@ -897,6 +895,9 @@ https://docs.python.org/3/howto/pyporting.html
 
 Cheat Sheets
 http://python-future.org/compatible_idioms.html
+https://python-future.org/quickstart.html
+http://python-future.org/futurize.html#forwards-conversion-stage2
+https://python-future.org/quickstart.html#installation
 Python 3.1
 http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
 https://pybit.es/python-porting.html
@@ -940,6 +941,36 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 ## Package Tools and Testing
 
 <!--
+https://www.python.org/dev/peps/pep-0394/#recommendation
+
+https://packaging.python.org/tutorials/
+https://packaging.python.org/guides/
+
+https://pypi.org/project/setuptools/
+
+https://packaging.python.org/guides/distributing-packages-using-setuptools/
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#wheels
+https://packaging.python.org/guides/distributing-packages-using-setuptools/#universal-wheels
+https://packaging.python.org/tutorials/installing-packages/
+https://packaging.python.org/glossary/#term-version-specifier
+
+https://pip.pypa.io/en/latest/reference/pip_install/#pip-install
+https://pip.pypa.io/en/latest/user_guide/#requirements-files
+https://setuptools.readthedocs.io/en/latest/pkg_resources.html#requirement-objects
+
+https://packaging.python.org/glossary/#term-requirement-specifier
+https://www.python.org/dev/peps/pep-0440/
+https://www.python.org/dev/peps/pep-0440/#version-specifiers
+
+https://packaging.python.org/key_projects/#setuptools
+https://packaging.python.org/key_projects/#distutils
+https://pythonwheels.com/
+
+pyproject.toml : the future of Python packaging
+https://testandcode.com/52
+
+
+
 Pinax
 https://pypi.org/project/django-utils/ | django-utils · PyPI
 https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
