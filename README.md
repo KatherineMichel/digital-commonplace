@@ -3,7 +3,40 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-Interesting
+https://2020.pycascades.com/schedule/
+https://twitter.com/brianokken/status/1226963660020633603
+
+clrs algorithms
+
+Rusts Community automation
+
+Hashtags
+#pycascades
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://martinfowler.com/articles/refactoring-2nd-changes.html
+https://refactoring.com/catalog/
+https://refactoring.guru/collapse-hierarchy
+
+https://martinfowler.com/articles/feature-toggles.html
+
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+https://twitter.com/vmbrasseur/status/1223627051552235520
+https://mobile.twitter.com/GeorgLink/status/1227249874174906368
+https://twitter.com/GeorgLink/status/1195123239984357377
+
+https://github.com/lorin/systems-thinking
+
+https://github.com/VGraupera/1on1-questions
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
 Great engineers
 https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
@@ -11,42 +44,20 @@ https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "
 Top Engineers
 https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
 
+https://freestateforge.com/map
+
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
 https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
 https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
 
-Good Print, hello debugger, DjangoCon
-
-clrs algorithms
-
-Rusts Community automation
-
-https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
-
-Hashtags
-#pycascades
-
-https://twitter.com/DynamicWebPaige/status/1175930240452816896
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://github.com/Gabriel439/simple-twitter/blob/master/Main.hs
-https://martinfowler.com/articles/feature-toggles.html
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
-https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13
-https://basecamp.com/guides/how-we-communicate
-https://twitter.com/dustanner/status/1176518182850351104
-https://blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?__twitter_impression=true
-https://mobile.twitter.com/GeorgLink/status/1227249874174906368
-https://twitter.com/GeorgLink/status/1195123239984357377
-https://mobile.twitter.com/spiffxp/status/1179807583864967168
-
-Southern California tech community
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-
+Sprints
+https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
 
 https://blog.burntsushi.net/foss/
 
@@ -59,9 +70,9 @@ https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templat
 Roadmap example
 https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 
-cross linter - Google Search
+https://lp.buffer.com/state-of-remote-work-2020
 
-Matrix- Operating Systems (Unix, Linux, etc.)
+https://basecamp.com/guides/how-we-communicate
 
 https://about.gitlab.com/
 https://about.gitlab.com/devops-tools/
@@ -71,40 +82,58 @@ https://www.coursera.org/learn/devops-culture-and-mindset
 
 https://en.wikipedia.org/wiki/Monolithic_application
 
-https://github.com/lorin/systems-thinking
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1217933709577342976
+https://www.twitch.tv/nnjaio
 
-Simon
-https://github.com/simonw/
-https://twitter.com/simonw/status/1178346657479442433
-https://twitter.com/ordanisanchez/status/1222874946403274760
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
 
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
 
-https://twitter.com/vmbrasseur/status/1223627051552235520
+https://www.pythonmorsels.com/resources/
+https://twitter.com/filiplajszczak/status/1228800450515869703
+https://twitter.com/PurpleDiane88/status/1227365692380340224
 
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
 
 https://github.com/fastai/fast_template
 https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 
+
+
+https://devchecklists.com/python-api-checklist/
+https://devchecklists.com/django-apps-checklist/
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+cross linter - Google Search
+
+Matrix- Operating Systems (Unix, Linux, etc.)
+
+https://github.com/simonw/
+
 https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
 
-https://twitter.com/nnja/status/1217933709577342976
-https://www.twitch.tv/nnjaio
 
-https://lp.buffer.com/state-of-remote-work-2020
 
-https://github.com/VGraupera/1on1-questions
-
-https://en.wikipedia.org/wiki/Regular_expression
-https://simple.wikipedia.org/wiki/Turing_complete
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
 
 https://twitter.com/b0rk/status/1204839971913379840
-
-https://freestateforge.com/map
 
 https://twitter.com/js_tut/status/1224057215092477952
 
