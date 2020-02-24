@@ -845,6 +845,18 @@ Special Projects
 * [babi](https://github.com/asottile/babi)
 
 <!--
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+
+virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://github.com/pyenv/pyenv-update
+
+PyTest
+https://twitter.com/codewithanthony/status/1195477147537657856
+https://twitter.com/nicoddemus/status/1195088740118618112
+https://twitter.com/blueyed/status/1222578734676484096
+
 https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
 https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
 https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
@@ -976,6 +988,17 @@ https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk abou
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
+-->
+
+<!--
+Choices
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://mobile.twitter.com/webology/status/1195163668440334337
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
 -->
 
 ## Eldarion
@@ -1234,6 +1257,7 @@ https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpi
 http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
 
 https://urllib3.readthedocs.io/en/latest/
+https://github.com/urllib3/urllib3
 
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 
