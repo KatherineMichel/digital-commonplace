@@ -3,8 +3,67 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
+
+Basecamp
+https://basecamp.com/yes | Basecamp 3: Manage projects, groups, and client work.
+https://basecamp.com/guides/how-we-communicate | Guide to Internal Communication, the Basecamp Way
+https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
+https://twitter.com/laurosilvacom/status/1210792807146774529 | Lauro Silva on Twitter: "Want to replicate an independent business similar to @basecamp? Literally, @dhh and @jasonfried have giving out the playbook. It’s in: - Remote - Rework - It Doesn't Have to Be Crazy at Work - Shape up - Getting Real https://t.co/vvY1oUCH5h" / Twitter
+
+Remote
+https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+https://basecamp.com/books/remote | REMOTE: Office Not Required
+https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
+https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
+
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
+
+Use
+https://patrickcollison.com/fast | Fast · Patrick Collison
+
+https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+
 https://2020.pycascades.com/schedule/
 https://twitter.com/brianokken/status/1226963660020633603
+https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
+
+https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
+http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
+
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+
+https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
+
+https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
+https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
+
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+
+Dotfiles
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
+https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
+https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
+https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
+
 
 clrs algorithms
 
