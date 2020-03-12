@@ -3,105 +3,15 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
 
-Basecamp
-https://basecamp.com/yes | Basecamp 3: Manage projects, groups, and client work.
-https://basecamp.com/guides/how-we-communicate | Guide to Internal Communication, the Basecamp Way
-https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
-https://twitter.com/laurosilvacom/status/1210792807146774529 | Lauro Silva on Twitter: "Want to replicate an independent business similar to @basecamp? Literally, @dhh and @jasonfried have giving out the playbook. It’s in: - Remote - Rework - It Doesn't Have to Be Crazy at Work - Shape up - Getting Real https://t.co/vvY1oUCH5h" / Twitter
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
 
-Remote
-https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-https://basecamp.com/books/remote | REMOTE: Office Not Required
-https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
-https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
+https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
 
-https://rauchg.com/2020/2019-in-review | 2019 in Review
-https://github.com/rauchg/blog | rauchg/blog
-https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
-
-Use
-https://patrickcollison.com/fast | Fast · Patrick Collison
-
-https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
-
-https://2020.pycascades.com/schedule/
-https://twitter.com/brianokken/status/1226963660020633603
-https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
-
-https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
-http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
-https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
-
-https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
-https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
-Dotfiles
-https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
-https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
-https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
-https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
-
-
-clrs algorithms
-
-Rusts Community automation
-
-Hashtags
-#pycascades
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-
-https://martinfowler.com/articles/refactoring-2nd-changes.html
-https://refactoring.com/catalog/
-https://refactoring.guru/collapse-hierarchy
-
-https://martinfowler.com/articles/feature-toggles.html
-
-Feature Toggles
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
-
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-
-https://twitter.com/vmbrasseur/status/1223627051552235520
-https://mobile.twitter.com/GeorgLink/status/1227249874174906368
-https://twitter.com/GeorgLink/status/1195123239984357377
-
-https://github.com/lorin/systems-thinking
-
-https://github.com/VGraupera/1on1-questions
+https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
-
-Great engineers
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-
-Top Engineers
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
 
 https://freestateforge.com/map
 
@@ -111,9 +21,86 @@ https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxm
 
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
-https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
-https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
-https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
+Great engineers
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+
+Top Engineers
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+
+https://2020.pycascades.com/schedule/
+https://twitter.com/brianokken/status/1226963660020633603
+https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
+
+https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
+https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
+
+https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
+
+Basecamp
+https://basecamp.com/books
+https://basecamp.com/books/remote | REMOTE: Office Not Required
+https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
+https://basecamp.com/yes | Basecamp 3: Manage projects, groups, and client work.
+https://basecamp.com/guides/how-we-communicate | Guide to Internal Communication, the Basecamp Way
+https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
+https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
+
+Remote
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
+https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
+
+https://lp.buffer.com/state-of-remote-work-2020
+
+https://twitter.com/agjhnsn/status/1222618133069885445
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+
+https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
+
+https://github.com/simonw/
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
+https://en.wikipedia.org/wiki/Monolithic_application
+
+https://about.gitlab.com/
+https://about.gitlab.com/devops-tools/
+https://www.atlassian.com/agile/product-management/product-roadmaps
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+
+https://en.wikipedia.org/wiki/Continuous_test-driven_development | Continuous test-driven development - Wikipedia
+https://www.gnu.org/software/make/manual/make.pdf | make.pdf
+https://en.wikipedia.org/wiki/Build_automation | Build automation - Wikipedia
+https://en.wikipedia.org/wiki/Make_(software) | Make (software) - Wikipedia
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://opensource.com/article/19/4/bash-vs-python
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+Dotfiles
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
+https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
+https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
+https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 
 Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
@@ -129,48 +116,38 @@ https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templat
 Roadmap example
 https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 
-https://lp.buffer.com/state-of-remote-work-2020
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
 
-https://basecamp.com/guides/how-we-communicate
+https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
+https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
+https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
 
-https://about.gitlab.com/
-https://about.gitlab.com/devops-tools/
-https://www.atlassian.com/agile/product-management/product-roadmaps
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
+https://github.com/ittus/Refactoring-summary-2nd-javascript
 
-https://en.wikipedia.org/wiki/Monolithic_application
+https://martinfowler.com/articles/refactoring-2nd-changes.html
+https://refactoring.com/catalog/
+https://refactoring.guru/collapse-hierarchy
 
-Good Print, hello debugger, DjangoCon
-https://twitter.com/nnja/status/1217933709577342976
-https://www.twitch.tv/nnjaio
+https://martinfowler.com/articles/feature-toggles.html
 
-Order Alpha
-https://twitter.com/pydanny/status/1226937149485768704
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-https://www.pythonmorsels.com/resources/
-https://twitter.com/filiplajszczak/status/1228800450515869703
-https://twitter.com/PurpleDiane88/status/1227365692380340224
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
-Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
-https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
 
 
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
+
+https://patrickcollison.com/fast | Fast · Patrick Collison
+
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
 https://devchecklists.com/python-api-checklist/
 https://devchecklists.com/django-apps-checklist/
@@ -179,20 +156,86 @@ https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+
+
+
+https://mherman.org/talks | Talks and Trainings
+
+VS Code
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
+
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/tag/development/
+
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+
+https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
+
+https://www.redhat.com/
+https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+
+Node, Rust
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
+
+Jez
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+
+https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
+
+Important!
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
+Project
+https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
+
+https://github.com/glitchdotcom/ | Glitch
+https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
+
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
+
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
+
+clrs algorithms
+
+Rusts Community automation
+
+Hashtags
+#pycascades
+
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+https://twitter.com/vmbrasseur/status/1223627051552235520
+https://mobile.twitter.com/GeorgLink/status/1227249874174906368
+https://twitter.com/GeorgLink/status/1195123239984357377
+
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
-
-https://github.com/simonw/
-
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-
 
 https://github.com/gr2m/create-or-update-pull-request-action
 https://twitter.com/gr2m/status/1224742792280211456
 
 https://twitter.com/b0rk/status/1204839971913379840
+
+
+
+https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
 
 https://twitter.com/js_tut/status/1224057215092477952
 
@@ -219,31 +262,11 @@ https://github.com/andyttran/guide_to_algorithms
 https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
 
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+https://github.com/nodejs/changelog-maker
+https://github.com/nodejs/modules
+https://github.com/vuejs/vue-loader
+https://github.com/jsdom/jsdom
 
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-https://opensource.com/article/19/4/bash-vs-python
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-Computer Architecture
-https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
-
-https://twitter.com/agjhnsn/status/1222618133069885445
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
-
-https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
-
-https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 
@@ -252,8 +275,6 @@ https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.
 Essentialism
 https://twitter.com/housecor/status/1217087577313947648
 https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
@@ -279,21 +300,23 @@ Google Spanner versus Calvin Protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-https://github.com/nodejs/changelog-maker
-https://github.com/nodejs/modules
-https://github.com/vuejs/vue-loader
-https://github.com/jsdom/jsdom
-
 https://www.canada.ca/en/government/system/digital-government/open-source-software.html
+
+https://github.com/lorin/systems-thinking
+
+https://github.com/VGraupera/1on1-questions
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
-https://developers.google.com/machine-learning/crash-course
-
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
+https://developers.google.com/machine-learning/crash-course
 
 https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
 https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+
+https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
+http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
 -->
 
 <!--
