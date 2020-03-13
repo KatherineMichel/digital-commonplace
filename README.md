@@ -8,6 +8,12 @@ Very important!
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+CHAOSS
+https://twitter.com/vmbrasseur/status/1223627051552235520
+https://mobile.twitter.com/GeorgLink/status/1227249874174906368
+https://twitter.com/GeorgLink/status/1195123239984357377
 
 https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
@@ -24,6 +30,9 @@ https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitt
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
+https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
+https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
 
 https://freestateforge.com/map
 
@@ -45,13 +54,25 @@ https://2020.pycascades.com/schedule/
 https://twitter.com/brianokken/status/1226963660020633603
 https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
 
-https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
-https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+
+https://patrickcollison.com/fast | Fast · Patrick Collison
+
+Gasca
+https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1: Making meeting suck a little less
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
 
 https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
 https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
 https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
+
+https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
 
 https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
 
@@ -81,6 +102,10 @@ https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enha
 https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
 
 https://github.com/simonw/
+
+https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
+
+https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
 
@@ -114,6 +139,10 @@ https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfil
 https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
 https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
 https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
+
+VS Code
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
 Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
@@ -152,12 +181,8 @@ Feature Toggles
 https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
 
-
-https://rauchg.com/2020/2019-in-review | 2019 in Review
-https://github.com/rauchg/blog | rauchg/blog
-https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
-
-https://patrickcollison.com/fast | Fast · Patrick Collison
+https://www.redhat.com/
+https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
@@ -169,6 +194,13 @@ https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
+
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
 https://github.com/fastai/fast_template
 https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
@@ -176,9 +208,6 @@ https://twitter.com/jeremyphoward/status/1217909027973124096
 
 https://github.com/glitchdotcom/ | Glitch
 https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
-
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
 
 Jez
 https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
@@ -190,51 +219,37 @@ https://www.coursera.org/professional-certificates/google-it-automation?utm_medi
 https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
+https://github.com/cagov
+https://github.com/Nova-Scotia-Digital-Service
+https://github.com/cds-snc
+
+https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
+https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
+https://medium.com/cadotgov/introducing-the-ca-gov-alpha-team-6daff8e0b4b8 | 
+https://www.canada.ca/en/government/system/digital-government/open-source-software.html
 
 
-VS Code
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/tag/development/
 
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 
-https://www.redhat.com/
-https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
-
-Node, Rust
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
-
-https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
-
-Project
-https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
 
 clrs algorithms
 
 Hashtags
 #pycascades
 
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-
-https://twitter.com/vmbrasseur/status/1223627051552235520
-https://mobile.twitter.com/GeorgLink/status/1227249874174906368
-https://twitter.com/GeorgLink/status/1195123239984357377
-
 cross linter - Google Search
 
 Matrix- Operating Systems (Unix, Linux, etc.)
 
+GitHub
 https://github.com/gr2m/create-or-update-pull-request-action
 https://twitter.com/gr2m/status/1224742792280211456
 
+Linux networking tools
 https://twitter.com/b0rk/status/1204839971913379840
 
 
@@ -304,9 +319,9 @@ Google Spanner versus Calvin Protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-https://www.canada.ca/en/government/system/digital-government/open-source-software.html
-
 https://github.com/lorin/systems-thinking
+
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 
 https://github.com/VGraupera/1on1-questions
 
