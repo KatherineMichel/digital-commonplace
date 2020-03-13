@@ -3,6 +3,18 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Rusts Community automation
+Very important!
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
+https://mherman.org/talks | Talks and Trainings
+
+https://lobste.rs/ | Lobsters
+
 https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
 
 https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
@@ -44,6 +56,7 @@ http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Br
 https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
 
 Basecamp
+https://basecamp.com/shapeup/0.3-chapter-01 | Introduction | Shape Up
 https://basecamp.com/books
 https://basecamp.com/books/remote | REMOTE: Office Not Required
 https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
@@ -161,16 +174,27 @@ https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 
+https://github.com/glitchdotcom/ | Glitch
+https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
+
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
+Jez
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
+
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
 
-https://mherman.org/talks | Talks and Trainings
 
 VS Code
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
-
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
 
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
 https://speakerdeck.com/pycon2018?page=2
@@ -180,8 +204,6 @@ https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253
 
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 
-https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
-
 https://www.redhat.com/
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 
@@ -189,30 +211,12 @@ Node, Rust
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
 
-Jez
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-
 https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
-
-Important!
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
 Project
 https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
 
-https://github.com/glitchdotcom/ | Glitch
-https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
-
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
-
-https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
-
-https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
-https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
-
 clrs algorithms
-
-Rusts Community automation
 
 Hashtags
 #pycascades
