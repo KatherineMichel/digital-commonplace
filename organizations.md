@@ -1,6 +1,7 @@
 # Organizations
 
 <!--
+https://github.com/Hacker0x01/
 https://github.com/HangarOrg/
 -->
 
@@ -151,6 +152,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [DeepMind (Google) GitHub](https://github.com/deepmind)
 * [Google GitHub](https://github.com/google)
+* [Google Colab GitHub](https://github.com/googlecolab/)
 * [Google Creative Lab GitHub](https://github.com/googlecreativelab)
 * [Google Genomics GitHub](https://github.com/googlegenomics)
 * [Google Research GitHub](https://github.com/google-research)
@@ -179,8 +181,9 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [Apache GitHub](https://github.com/apache)
 * [Apple GitHub](https://github.com/apple)
-* [ARM Software](https://github.com/ARM-software)
-* [Cisco GitHub](https://github.com/CiscoSystems)
+* [ARM Software GitHub](https://github.com/ARM-software)
+* [Cisco GitHub](https://github.com/cisco/)
+* [Cisco Systems GitHub](https://github.com/CiscoSystems)
 * [Cloudera GitHub](https://github.com/cloudera)
 * [IBM GitHub](https://github.com/IBM)
 * [Watson Developer Cloud (IBM) GitHub](https://github.com/watson-developer-cloud)
@@ -303,6 +306,8 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Mozilla devtools-html](https://github.com/devtools-html)
 * [Mozilla Foundation](https://github.com/MozillaFoundation)
 * [Mozilla IoT](https://github.com/mozilla-iot)
+* [Mozilla Mobile](https://github.com/mozilla-mobile/)
+* [Mozilla Security](https://github.com/MozillaSecurity/)
 * [Mozilla Services](https://github.com/mozilla-services)
 
 ### Twitter
@@ -465,6 +470,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Squarespace](https://github.com/squarespace)  
 * [Wix](https://github.com/wix)
 * [WordPress](https://github.com/WordPress)  
+* [WordPress Mobile](https://github.com/wordpress-mobile/) 
 * [WordPress Plugins](https://github.com/wp-plugins) 
 * [WordPress Accessibility](https://github.com/wpaccessibility)
 
@@ -558,6 +564,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Comcast](https://github.com/Comcast) 
 * [Hulu](https://github.com/hulu) 
 * [Netflix](https://github.com/Netflix) 
+* [Nokia](https://github.com/nokia/) 
 
 ### Transport
 
@@ -673,14 +680,14 @@ https://github.com/TruStory | TruStory
 * [Mashable](https://github.com/mashable) 
 * [Mic News](https://github.com/micnews)
 * [NPR Apps](https://github.com/nprapps)  
-* [Northwestern University Knight Lab](https://github.com/nuknightlab)  
+* [Northwestern University Knight Lab](https://github.com/nuknightlab) 
+* [The New York Times](https://github.com/NYTimes) 
 * [NYT Labs](https://github.com/nytlabs)  
 * [NYT Newsroom Developers](https://github.com/newsdev)
 * [Propublica](https://github.com/propublica)  
 * [Stanford Journalism](https://github.com/stanfordjournalism)
 * [TechCrunch](https://github.com/techcrunch)  
 * [The Economist](https://github.com/TheEconomist) 
-* [The New York Times](https://github.com/NYTimes) 
 * [The Oregonian](https://github.com/TheOregonian)
 * [The Telegraph](https://github.com/telegraph)  
 * [Time Magazine](https://github.com/TimeMagazine)  
@@ -765,6 +772,13 @@ U.S. Government
 * [U.S.A. Gov](https://github.com/usagov)
 * [Open Gov](https://github.com/opengov)  
 * [U.S. Government Publishing Office](https://github.com/usgpo)
+
+<!--
+https://github.com/fecgov
+
+Province of British Columbia
+https://github.com/bcgov/
+-->
 
 U.S. Government- Agencies
 * [Consumer Financial Protection Bureau](https://github.com/cfpb)
