@@ -3,6 +3,31 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
+
+https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
+
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://twitter.com/jessicagarson/status/1217597181550612485 | Jessica Garson on Twitter: "I had a hard time building with the Twitter API when I first started. Helping developers from many different backgrounds use our API for the first time and make successful calls is why I come to work everyday. #OneTeam #LoveWhereYouWork" / Twitter
+
+https://twitter.com/dcancel/status/1210340507131494406 | David Cancel on Twitter: "If you work in Product use this daily mantra: We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems." / Twitter
+
+https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
+
+https://adventofcode.com/2019 | Advent of Code 2019
+
+https://leanpub.com/composingsoftware | 
+
+https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium
+
+https://www.producthunt.com/posts/glitch-for-vs-code
+
+https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
+https://jacobian.org/2020/feb/18/innovation-execution/
+
+
+
 Rusts Community automation
 Very important!
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
@@ -87,6 +112,7 @@ https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
 https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
 
 Remote
+https://about.gitlab.com/ | The first single application for the entire DevOps lifecycle - GitLab | GitLab
 https://about.gitlab.com/handbook/ | Handbook | GitLab
 https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
