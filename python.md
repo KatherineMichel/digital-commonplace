@@ -53,6 +53,18 @@ Important talk
 https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
 
 
+cross linter - Google Search
+
+https://github.com/tiangolo/fastapi
+
+https://github.com/encode/broadcaster | encode/broadcaster: Broadcast channels for async web apps. 📢
+
+Docs
+https://docutils.sourceforge.io/rst.html | reStructuredText
+https://pandoc.org/ | Pandoc - About pandoc
+
+https://en.wikipedia.org/wiki/Data-driven_testing | Data-driven testing - Wikipedia
+
 https://knasmueller.net/measure-code-execution-time-accurately-in-python
 
 CLI
@@ -1133,6 +1145,8 @@ Not used- but could be?
 * [attrs GitHub](https://github.com/python-attrs/attrs)
 * [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
 
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
 https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
 https://pypi.org/project/flake8-black/ | flake8-black · PyPI
 -->
