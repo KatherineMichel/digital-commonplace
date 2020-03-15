@@ -3,32 +3,11 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
-
-https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
-
-https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
-
-https://twitter.com/dcancel/status/1210340507131494406 | David Cancel on Twitter: "If you work in Product use this daily mantra: We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems." / Twitter
-
-Hashtags
-#pycascades
-
-https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
-
-https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
 
 https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-
-https://freestateforge.com/map
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 Great engineers
 https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
@@ -36,15 +15,11 @@ https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "
 Top Engineers
 https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
 
-https://blog.burntsushi.net/foss/
-
 https://twitter.com/jessicagarson/status/1217597181550612485 | Jessica Garson on Twitter: "I had a hard time building with the Twitter API when I first started. Helping developers from many different backgrounds use our API for the first time and make successful calls is why I come to work everyday. #OneTeam #LoveWhereYouWork" / Twitter
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
-Django Project Governance Model
-* [New Django Project Governance Model](https://www.djangoproject.com/weblog/2020/mar/12/governance/)
-* [Django Project Governance Model (Jacob Kaplan-Moss)](https://jacobian.org/2020/mar/12/django-governance/)
+New Django Project Governance Model
 
 https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
 https://www.pyladies.com/
@@ -73,8 +48,6 @@ https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://adventofcode.com/2019 | Advent of Code 2019
 
-https://lobste.rs/ | Lobsters
-
 clrs algorithms
 
 Kubernetes steering committee
@@ -101,11 +74,6 @@ https://martinfowler.com/articles/refactoring-2nd-changes.html
 https://refactoring.com/catalog/
 https://refactoring.guru/collapse-hierarchy
 
-https://martinfowler.com/articles/feature-toggles.html
-
-Feature Toggles
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
 
 https://mherman.org/talks | Talks and Trainings
 
@@ -131,18 +99,11 @@ https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 https://developers.google.com/machine-learning/crash-course
 
 
+https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
+
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
-https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
-https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
-
 https://patrickcollison.com/fast | Fast · Patrick Collison
-
-Recorder
-https://twitter.com/di_codes/status/1208815868563599360 | Dustin Ingram on Twitter: "This is one of my new favorite tools! Over the last few months, I've been using Recorder to generate searchable transcripts and live captions of conference talks I attend. Super helpful! https://t.co/DfHILnHgAN" / Twitter
-
-Prioritization
-https://twitter.com/marshallk/status/1237576097639723008
 
 Silent critique
 https://twitter.com/dustanner/status/1176518182850351104
@@ -159,37 +120,7 @@ http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Br
 
 https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
 
-https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
-
-Basecamp
-https://basecamp.com/shapeup/0.3-chapter-01 | Introduction | Shape Up
-https://basecamp.com/books
-https://basecamp.com/books/remote | REMOTE: Office Not Required
-https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
-https://basecamp.com/yes | Basecamp 3: Manage projects, groups, and client work.
-https://basecamp.com/guides/how-we-communicate | Guide to Internal Communication, the Basecamp Way
-https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
-https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
-
-Remote
-https://about.gitlab.com/ | The first single application for the entire DevOps lifecycle - GitLab | GitLab
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
-https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
-
-Glitch
-https://handbook.glitch.me/
-https://www.producthunt.com/posts/glitch-guide-to-remote-work
-
 https://www.producthunt.com/posts/glitch-for-vs-code
-
-https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
-
-https://lp.buffer.com/state-of-remote-work-2020
-
-
-https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
 
 
 https://twitter.com/agjhnsn/status/1222618133069885445
@@ -286,12 +217,6 @@ web hooks
 https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
 https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
 
-https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
-https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
-https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
-
-
-https://en.wikipedia.org/wiki/Monolithic_application
 
 https://about.gitlab.com/
 https://about.gitlab.com/devops-tools/
@@ -403,27 +328,7 @@ https://github.com/vuejs/vue-loader
 https://github.com/jsdom/jsdom
 
 
-https://rauchg.com/2020/2019-in-review | 2019 in Review
-https://github.com/rauchg/blog | rauchg/blog
-https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
-
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
-
-https://github.com/glitchdotcom/ | Glitch
-https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-
-Jez
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+Jez Humble
 
 https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
 
@@ -432,17 +337,7 @@ https://www.coursera.org/professional-certificates/google-it-automation?utm_medi
 https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
-https://devchecklists.com/python-api-checklist/
-https://devchecklists.com/django-apps-checklist/
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
-
-Essentialism
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+https://devchecklists.com
 
 Influential
 https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
@@ -469,220 +364,65 @@ https://www.khanacademy.org/computing/computer-programming/programming/good-prac
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 -->
 
-
-## Health
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+## Industry Maps
 
 <!--
-https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+https://freestateforge.com/map
 
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 -->
 
-## Priorities
+## Company Handbooks
 
 <!--
-https://gamestorming.com/impact-effort-matrix-2/
-https://www.mindtools.com/pages/article/newHTE_95.htm
+Basecamp
+https://basecamp.com/shapeup/0.3-chapter-01 | Introduction | Shape Up
+https://basecamp.com/books
+https://basecamp.com/books/remote | REMOTE: Office Not Required
+https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
+https://basecamp.com/yes | Basecamp 3: Manage projects, groups, and client work.
+https://basecamp.com/guides/how-we-communicate | Guide to Internal Communication, the Basecamp Way
+https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
+https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
+
+Remote
+https://about.gitlab.com/ | The first single application for the entire DevOps lifecycle - GitLab | GitLab
+https://about.gitlab.com/handbook/ | Handbook | GitLab
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
+https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
+
+Glitch
+https://handbook.glitch.me/
+https://www.producthunt.com/posts/glitch-guide-to-remote-work
+
+https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
+
+https://lp.buffer.com/state-of-remote-work-2020
+
+https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
 -->
 
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
 
 <!--
-Eisenhower Matrix
-https://twitter.com/airtable/status/1205241906759794689
-https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
--->
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
 
-Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
 
-## Goal Setting and Productivity
+https://github.com/glitchdotcom/ | Glitch
+https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
 
-Fear Setting
-* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
-* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
-
-Marshall Goldsmith
-* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Habit Engineering
-* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
-
-<!--
-A16Z Metrics
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
-
-benjamin franklin habits - Google Search
-
-Deep Work by Cal Newport
-
-https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
-
-https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
--->
-
-Dr. Barbara Oakley
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-<!--
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
--->
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-<!--
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
-https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
--->
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-Test Driven Development (TDD)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-
-README and Documentation Driven Development
-* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-
-https://devchecklists.com/vintas-high-quality-standards/
-
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/
-
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
-
-https://devchecklists.com/production-launch-checklist/ | Devchecklists | Production Launch Checklist
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
-
-Links change log lines to PRs
-
-Types of changes
-Added for new features.
-Changed for changes in existing functionality.
-Deprecated for soon-to-be removed features.
-Removed for now removed features.
-Fixed for any bug fixes.
-Security in case of vulnerabilities.
--->
-
-## Authority Figures and Books
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [Refactoring](https://refactoring.com/)
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-
-Refactoring Catalogs
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
-Authorities
-* [Kent Beck](https://www.kentbeck.com/) and [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
-* [Steven C. McConnell](http://stevemcconnell.com) and [Steven C. McConnell Books](http://stevemcconnell.com/books/)
-* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
-* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
-
-<!--
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-
-http://aosabook.org/en/index.html | The Architecture of Open Source Applications
-
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://martinfowler.com/articles/products-over-projects.html
-
-CI/CD
-https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
-https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
-https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
-https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
-https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
-
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-High-level structure
-https://martinfowler.com/testing/
-https://en.wikipedia.org/wiki/High-level_design
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/bliki/UnitTest.html
-https://martinfowler.com/articles/nonDeterminism.html
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
 -->
 
 ## Project-Based Learning
@@ -736,66 +476,6 @@ https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions |
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
-
-## Django
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-## Django Rest Framework
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-## JavaScript
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React and Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-## Languages and Frameworks (Other than Python and Django)
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
-Golang
-* [Golang Docs](https://golang.org/doc)
-
-Mobile
-* [Apple Developer Docs](https://developer.apple.com/develop/)
-* [Swift Developer](https://developer.apple.com/swift/)
-* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [Android Developer](https://developer.android.com/)
-* [Java](https://www.java.com/en/)
-
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 
 ## Useful Tools
 
@@ -866,6 +546,295 @@ https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 -->
 
+## Health
+
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+<!--
+https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
+
+https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+-->
+
+## Priorities
+
+<!--
+https://gamestorming.com/impact-effort-matrix-2/
+https://www.mindtools.com/pages/article/newHTE_95.htm
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+<!--
+Eisenhower Matrix
+https://twitter.com/airtable/status/1205241906759794689
+https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
+-->
+
+Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+<!--
+Prioritization
+https://twitter.com/marshallk/status/1237576097639723008
+-->
+
+## Goal Setting and Productivity
+
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+Marshall Goldsmith
+* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
+
+<!--
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+A16Z Metrics
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
+https://threader.app/thread/1078647576201703427 | A thread written by @ali01
+https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
+
+benjamin franklin habits - Google Search
+
+Deep Work by Cal Newport
+
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+
+https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
+-->
+
+Dr. Barbara Oakley
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+<!--
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+<!--
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
+-->
+
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+Test Driven Development (TDD)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+
+README and Documentation Driven Development
+* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+
+https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/
+
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+Links change log lines to PRs
+
+Types of changes
+Added for new features.
+Changed for changes in existing functionality.
+Deprecated for soon-to-be removed features.
+Removed for now removed features.
+Fixed for any bug fixes.
+Security in case of vulnerabilities.
+-->
+
+## Authority Figures and Books
+
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [Refactoring](https://refactoring.com/)
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+
+Refactoring Catalogs
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+Authorities
+* [Kent Beck](https://www.kentbeck.com/) and [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
+* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
+* [Steven C. McConnell](http://stevemcconnell.com) and [Steven C. McConnell Books](http://stevemcconnell.com/books/)
+* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
+* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+<!--
+SICP
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://martinfowler.com/articles/products-over-projects.html
+
+CI/CD
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
+High-level structure
+https://martinfowler.com/testing/
+https://en.wikipedia.org/wiki/High-level_design
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/bliki/UnitTest.html
+https://martinfowler.com/articles/nonDeterminism.html
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+## Django
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+## Django Rest Framework
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+## JavaScript
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React and Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+## Languages and Frameworks (Other than Python and Django)
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+Golang
+* [Golang Docs](https://golang.org/doc)
+
+Mobile
+* [Apple Developer Docs](https://developer.apple.com/develop/)
+* [Swift Developer](https://developer.apple.com/swift/)
+* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [Android Developer](https://developer.android.com/)
+* [Java](https://www.java.com/en/)
+
+## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
 ## Productivity
 
 Visual Studio Code
@@ -915,187 +884,6 @@ https://code.visualstudio.com/docs/languages/python#_install-python-and-the-pyth
 https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
-
-## Trending
-
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
-## Trends
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-Look at Daily
-* [Hacker News Current Best](https://news.ycombinator.com/best), 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-* [Lobsters](https://lobste.rs)
-
-Look at Often
-* [Product Hunt](https://www.producthunt.com)
-
-Product Hunt Leader Boards
-* [Hunts.xyz](https://hunts.xyz)
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Products](http://500products.com)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
-
-<!-- 
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
--->
-
-## Surveys
-
-* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
-* [The State Of JavaScript](http://stateofjs.com)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
-
-<!--
-https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
-
-https://about.gitlab.com/developer-survey/
-https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
-http://stateofjs.com/2016/frontend/ | Front-End Frameworks
--->
-
-## Interesting
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
--->
-
-## Curated Resources
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/Droogans/unmaintainable-code
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
--->
-
-## Curated Resources
-
-Awesome Tools
-* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
-* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
-
-
-Interesting Curated Learning Resources
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
-* [Front End Guide](https://github.com/grab/front-end-guide)
-* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Open Source Society University](https://github.com/ossu/computer-science)
-* [Skill Map](https://github.com/TeamStuQ/skill-map)
-
-Google
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-
-Stellar Programming Learning Resources
-* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
-* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
-
-<!--
-https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
-
-https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
-https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
-
-https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
-https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
-
-https://github.com/jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
-https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
-
-https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
-https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-
-https://github.com/asciimoo/ListOfGithubLists
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-
-https://github.com/kamranahmedse/developer-roadmap
-https://roadmap.sh/
-
-https://github.com/CyC2018/CS-Notes
-https://github.com/InterviewMap/CS-Interview-Knowledge-Map
-https://github.com/dwmkerr/hacker-laws#goodharts-law
-https://btholt.github.io/four-semesters-of-cs/
-https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
-https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
-https://t.co/BEhKVo5t3R"
-https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
-https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
-https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
-https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
-https://github.com/imposters-handbook | Imposter's Handbook
-https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
-
-https://memberportal.1millionwomentotech.com/diy
-https://github.com/1millionwomentotech | 1 Million Women To Tech
-
-https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
-https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
-https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
-https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
-
-http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
-
-http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 -->
 
 ## Open Source in Orgs
@@ -1245,7 +1033,9 @@ Data-Driven OS
 https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 https://muse.dev/reports/software-supply-chain-report-2019.pdf | software-supply-chain-report-2019.pdf
 https://www.youtube.com/watch?v=YoWkuFzEYFs | A data-driven look at practices behind exemplar open source projects - GitHub Universe 2019 - YouTube
+
 https://www.amazon.com/gp/product/B078Y98RG8/ref=as_li_tl?ie=UTF8&tag=itrevpre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078Y98RG8&linkId=deec657dd0b2215d33db7c148a712446 | Amazon.com: The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win eBook: Gene Kim, Kevin Behr, George Spafford: Kindle Store
+
 https://www.amazon.com/Gene-Kim/e/B00AERCJ9E/ref=dp_byline_cont_ebooks_3 | https://www.amazon.com/Gene-Kim/e/B00AERCJ9E/ref=dp_byline_cont_ebooks_3
 https://www.sonatype.com/en-us/2019ssc | State of Software Supply Chain 2019 Report | Download
 https://www.google.com/search?q=state+of+devops+report&oq=state+of+devops+report&aqs=chrome.0.0l8.4204j0j7&sourceid=chrome&ie=UTF-8 | state of devops report - Google Search
@@ -1785,6 +1575,10 @@ Tools
 * [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
+https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
+https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
+https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
+
 Mariatta community automation talk
 https://twitter.com/mariatta/status/1191534648205037569
 
@@ -1999,10 +1793,63 @@ Atlassian Agile
 * [Atlassian Agile](https://www.atlassian.com/agile)
 * [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
 
+DevOps
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+
 Atlassian DevOps
-* [Atlassian Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+* [Atlassian DevOps](https://www.atlassian.com/devops)
+* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
+
+DevOp Tools Landscapes
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
+
+How Companies Do DevOps
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+Ops Schools and DevOps Bootcamps
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+DevSecOps
+* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+
+ChatOps
+* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
+* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
+* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+Chaos Engineering
+* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
+* [Gremlin](https://www.gremlin.com)
+* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
+
+Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
 
 <!--
+Netflix Suite
+Lynn Root's talks
+
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+-->
+
+<!--
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
 https://developer.atlassian.com
 https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
 https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
@@ -2013,32 +1860,37 @@ https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-
 DevOps
-https://www.atlassian.com/devops
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
 https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
 https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
 https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
 
-
 https://puppet.com/resources/whitepaper/state-of-devops-report
-https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
+-->
 
-https://www.redhat.com/en/topics/devops/what-is-devsecops
+<!--
+https://devops.com
 
-GitOps
-https://devcenter.heroku.com/articles/chatops | ChatOps | Heroku Dev Center
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
 
-https://response.pagerduty.com/ | PagerDuty Incident Response Documentation
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
 
-https://en.wikipedia.org/wiki/Chaos_engineering
-https://www.gremlin.com
-https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
-https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
+
+## Jez Humble
+
+<!--
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 -->
 
 ## Philosophies
@@ -2047,65 +1899,15 @@ https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 * [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Principles of Chaos Engineering](http://principlesofchaos.org)
+* [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
+* [Open Microservices Guide](https://openmicroservices.org/)
 
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
 <!--
-Systems
-
 https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
-
-https://microservice.guide/ | Open Microservice Guide
-
-http://stevesouders.com/hpws
-https://www.enterpriseready.io
-https://github.com/enterpriseready/enterpriseready
-http://highscalability.com/ | High Scalability -
-
-https://github.com/dastergon/awesome-sre
-
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
--->
-
-<!--
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
-
-http://users.ece.utexas.edu/~adnan/pike.html
--->
-
-## DevOps
-
-DevOps, Ops School and DevOps Bootcamp
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-<!--
-https://devops.com
-
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-  
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
 -->
 
 ## General Software Design Patterns
@@ -2117,6 +1919,7 @@ Software Stacks
 * [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
 Architectures
+* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
 * [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 * [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
@@ -2124,12 +1927,9 @@ Architectures
 * [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
 * [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
 * [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
 
 <!--
-Monolith
-
-https://en.wikipedia.org/wiki/Multitenancy
-
 Interesting
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
@@ -2265,47 +2065,13 @@ Concepts
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
-## Database Architectures and Principles
-
-CAP Theorem
-* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
-* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
-
-Database Principles
-* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
-* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
-* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
-* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
 <!--
-AP, CP or CA Databases
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
 
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/Atomic_commit
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
-OOP
-https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
-
-System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
-
-https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
-https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
-https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
+http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
 ## Database Options
@@ -2744,6 +2510,187 @@ https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twi
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
 -->
 
+## Trending
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+
+## Trends
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+Look at Daily
+* [Hacker News Current Best](https://news.ycombinator.com/best), 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+* [Lobsters](https://lobste.rs)
+
+Look at Often
+* [Product Hunt](https://www.producthunt.com)
+
+Product Hunt Leader Boards
+* [Hunts.xyz](https://hunts.xyz)
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Products](http://500products.com)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!-- 
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+-->
+
+## Surveys
+
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+<!--
+https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+
+https://about.gitlab.com/developer-survey/
+https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
+http://stateofjs.com/2016/frontend/ | Front-End Frameworks
+-->
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+-->
+
+## Curated Resources
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/Droogans/unmaintainable-code
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+-->
+
+## Curated Resources
+
+Awesome Tools
+* [Sindre Sorhus: Awesome GitHub](https://github.com/sindresorhus/awesome)
+* [Alexander Bayandin: Awesome Awesomeness GitHub](https://github.com/bayandin/awesome-awesomeness)
+
+
+Interesting Curated Learning Resources
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Front End Guide](https://github.com/grab/front-end-guide)
+* [Best Websites a Programmer Should Visit GitHub](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Skill Map](https://github.com/TeamStuQ/skill-map)
+
+Google
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
+
+Stellar Programming Learning Resources
+* [Google Interview University GitHub](https://github.com/jwasham/coding-interview-university) and ["Why I studied full-time for 8 months for a Google interview"](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1)
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+* [Awesome Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<!--
+https://www.amazon.com/dp/B000FC10HA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two eBook: Al Ries, Jack Trout: Kindle Store
+
+https://github.com/prakhar1989/awesome-courses | prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!
+https://github.com/Leocardoso94/Free-Courses#python | Leocardoso94/Free-Courses: A collection of free courses about programming
+
+https://github.com/jwasham/code-catalog-python | jwasham/code-catalog-python: Algorithms and data structures for review for coding interview.
+https://github.com/jwasham/practice-python | jwasham/practice-python: Part of my daily plan for studying Python.
+
+https://github.com/jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#video-series | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md | coding-interview-university/programming-language-resources.md at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf | coding-interview-university/python-cheat-sheet-v1.pdf at master · jwasham/coding-interview-university
+https://github.com/jwasham/coding-interview-university#object-oriented-programming | jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+
+https://ankiweb.net/shared/info/25173560 | google-interview-university - AnkiWeb
+https://github.com/jwasham/computer-science-flash-cards | jwasham/computer-science-flash-cards: Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
+
+https://github.com/asciimoo/ListOfGithubLists
+https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
+
+https://github.com/kamranahmedse/developer-roadmap
+https://roadmap.sh/
+
+https://github.com/CyC2018/CS-Notes
+https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+https://github.com/dwmkerr/hacker-laws#goodharts-law
+https://btholt.github.io/four-semesters-of-cs/
+https://github.com/trimstray/the-book-of-secret-knowledge | trimstray/the-book-of-secret-knowledge: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+https://github.com/tunnckoCore/resources | tunnckoCore/resources: Huge curated collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing. Since October 21, 2017.
+https://t.co/BEhKVo5t3R"
+https://github.com/dipakkr/A-to-Z-Resources-for-Students | Pull Requests · dipakkr/A-to-Z-Resources-for-Students
+https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of full-stack resources for programmers.
+https://github.com/ForrestKnight/open-source-cs | ForrestKnight/open-source-cs: Video discussing this curriculum:
+https://github.com/InterviewMap/InterviewMap | InterviewMap/InterviewMap: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
+https://bigmachine.io/products/the-imposters-handbook/ | Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine
+https://github.com/imposters-handbook | Imposter's Handbook
+https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056 | Useful links found in The Imposter's Handbook by Rob Conery
+
+https://memberportal.1millionwomentotech.com/diy
+https://github.com/1millionwomentotech | 1 Million Women To Tech
+
+https://1millionwomentotech.com/summerofcode1/ | Summer of Code – Find the Skills and Opportunities You Have Been Looking For
+https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code | toolkitten/summer-of-code at master · 1millionwomentotech/toolkitten
+https://events.genndi.com/replay/169105139238465262/017af03d06/0/ | #1millionwomentotech #SummerOfCode ONBOARDING & REGISTRATION
+https://www.youtube.com/watch?v=9b91ZfNvYeU | (1) 1 Million Women To Tech Live Stream - YouTube
+
+http://oxfordmindfulness.org/ | About Us - Oxford Mindfulness Centre
+
+http://web.mit.edu/6.055/book/book-draft.pdf | The art of approximation in science and engineering
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+https://github.com/dakshshah96/awesome-startup-credits | dakshshah96/awesome-startup-credits: ✨ A collection of awesome companies offering free/discounted plans for eligible startups
+-->
+
 ## Web Development- General
 
 Wikipedia Tech Portals
@@ -3003,6 +2950,9 @@ Mindset
 * [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 
 <!--
+https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
+https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+
 https://fs.blog/2015/03/carol-dweck-mindset/
 -->
 
