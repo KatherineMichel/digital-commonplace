@@ -3,6 +3,69 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+
+https://beginnerjavascript.com/
+
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+https://www.scala-lang.org/
+https://access.redhat.com/documentation/en-us/
+
+Prioritization
+https://twitter.com/marshallk/status/1237576097639723008
+
+https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
+https://www.pyladies.com/
+https://app.slack.com/client/T03HT05JZ/C03HT05KF
+PyLadies Remote International Women's Month Lightning Talks
+https://ti.to/pyladies/womensmonthtalks/en
+Membership survey
+https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
+
+https://opensource.org/osr
+https://cs.opensource.google/
+
+Ethical open source
+https://twitter.com/luis_in_brief/status/1235356207839211520
+https://twitter.com/joshsimmons/status/1238929287358513153
+https://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021273.html
+https://firstdonoharm.dev/
+https://github.com/EthicalSource/hippocratic-license
+http://matt.might.net/articles/crapl/
+
+https://uber.github.io/#/principles
+https://eng.uber.com/open-source-principles/
+
+https://nvie.com/posts/a-successful-git-branching-model/
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
+
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
+https://redwoodjs.com/
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
+
+https://github.com/tiangolo/fastapi
+
+https://handbook.glitch.me/
+https://www.producthunt.com/posts/glitch-guide-to-remote-work
+
+https://www.producthunt.com/posts/glitch-for-vs-code
+
+Women and NB on Twitch
+https://twitter.com/nnja/status/1238188427780083712
+
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
+
+
+
 https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
 
 https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
@@ -73,18 +136,6 @@ https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "
 Top Engineers
 https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
 
-https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
-
-https://2020.pycascades.com/schedule/
-https://twitter.com/brianokken/status/1226963660020633603
-https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
-
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://automationpanda.com/tag/development/
-
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
 Gasca
@@ -117,6 +168,8 @@ https://about.gitlab.com/handbook/ | Handbook | GitLab
 https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
 https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
+
+https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
 https://lp.buffer.com/state-of-remote-work-2020
 
@@ -245,9 +298,11 @@ https://www.coursera.org/professional-certificates/google-it-automation?utm_medi
 https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
+https://github.com/bcgov/
 https://github.com/cagov
 https://github.com/Nova-Scotia-Digital-Service
 https://github.com/cds-snc
+https://ogs.ny.gov/news/new-york-state-digital-service-program-launches
 
 https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
 https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
