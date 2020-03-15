@@ -3,6 +3,31 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+Django Project Governance Model
+* [New Django Project Governance Model](https://www.djangoproject.com/weblog/2020/mar/12/governance/)
+* [Django Project Governance Model (Jacob Kaplan-Moss)](https://jacobian.org/2020/mar/12/django-governance/)
+
+Case Study
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+
+https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
+https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
+https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
+
+https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
+https://clang.llvm.org/ | Clang C Language Family Frontend for LLVM
+https://clang.llvm.org/comparison.html
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+
+
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
 https://speakerdeck.com/pycon2018?page=2
 https://automationpanda.com/speaking/
@@ -11,6 +36,7 @@ https://automationpanda.com/tag/development/
 
 https://beginnerjavascript.com/
 
+https://github.com/rust-lang/wg-governance
 https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
 https://www.scala-lang.org/
 https://access.redhat.com/documentation/en-us/
