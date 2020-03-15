@@ -1,6 +1,43 @@
 # Python and Django- Additional Resources
 
 <!--
+https://automatetheboringstuff.com/
+
+https://github.com/zedr/clean-code-python
+
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+
+https://www.pythonmorsels.com/resources/
+https://twitter.com/filiplajszczak/status/1228800450515869703
+https://twitter.com/PurpleDiane88/status/1227365692380340224
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1217933709577342976
+https://www.twitch.tv/nnjaio
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://www.cosmicpython.com/
+
+Al Sweigart Book
+https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
+
+Exercises
+https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
+
+
+
 Tools
 
 https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
