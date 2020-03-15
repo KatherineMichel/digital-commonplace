@@ -1,4 +1,9 @@
 <!--
+Docs
+https://realpython.com/lessons/python-project-documentation-overview/ | Python Project Documentation Overview – Real Python
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/ | Documenting Python Projects With Sphinx and Read The Docs – Real Python
+
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
 https://masonegger.com/talks/
