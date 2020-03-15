@@ -1,6 +1,80 @@
 # Python
 
+## High Performance Python and Django and Trends
+
 <!--
+https://us.pycon.org/2020/schedule/talks/
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+https://techyaks.com/python-year-tytop.html
+-->
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+<!--
+Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
+
+https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+-->
+
+<!--
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
+
+Important!
+https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
+
+https://installpython3.com/
+
+https://realpython.com/installing-python/
+https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
+https://github.com/pypa/pipenv/issues/2482
+
+https://realpython.com/python-continuous-integration/
+https://realpython.com/courses/running-python-scripts/
+
+https://blog.ganssle.io/articles/2019/08/test-as-installed.html
+
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+
+
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
+CLI
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+
+https://github.com/ohmyzsh/ohmyzsh | ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+
+Radix
+https://twitter.com/hynek/status/1189883958294654978
+
+https://pyformat.info/
+
+
+https://hynek.me/articles/python-github-actions/
+https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
+https://twitter.com/bketelsen/status/1238487322875871232
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+https://twitter.com/hynek/status/1235848177640542214
+https://github.com/zeke/github-actions-demo
+
+
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
 Very important!!!!!!!
@@ -9,13 +83,6 @@ https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter:
 
 https://twitter.com/jpadilla_/status/1189752115566133248
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style
-https://github.com/satwikkansal/wtfpython
-https://github.com/jakevdp/WhirlwindTourOfPython
-https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
 
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
@@ -63,38 +130,6 @@ https://github.com/ymyzk/tox-gh-actions
 https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
 -->
 
-<!--
-Mason Egger
-https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
-https://masonegger.com/talks/
-https://masonegger.com/talks/ci-docs/
-https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
-
-https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
-https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
-
-Runbook
-https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
-https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
-https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
-https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
-
-Docs
-https://labs.spotify.com/2019/10/01/solving-documentation-for-monoliths-and-monorepos/
-
-https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
-
-MkDocs
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://www.mkdocs.org/user-guide/writing-your-docs/
-https://www.mkdocs.org/user-guide/deploying-your-docs/
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-https://squidfunk.github.io/mkdocs-material/getting-started/
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
--->
-
 ## Python Syntax and Python Versus JavaScript
 
 Programming Language Leveling Up and Comparisons- Python
@@ -139,23 +174,6 @@ Programming Language Leveling Up and Comparison Sites
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
--->
-
-## Python Docs Themes
-
-Sphinx and Django-Sphinx
-* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
-* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
-* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
-* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
-
-<!--
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://pypi.org/project/codegen/ | codegen · PyPI
-https://aws-amplify.github.io/docs/cli/codegen?sdk=js | Codegen
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 -->
 
 ## Python Profiling
@@ -756,6 +774,38 @@ https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d9599
 http://calver.org/
 -->
 
+<!--
+Tools Release
+https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
+https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
+https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+
+https://twitter.com/PalletsTeam
+
+Includes issues links
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+
+https://github.com/orgs/pytest-dev/people
+https://github.com/orgs/pypa/people
+https://github.com/orgs/python/people
+https://github.com/orgs/tox-dev/people
+https://github.com/orgs/pre-commit/people
+https://github.com/python/cpython/graphs/contributors
+
+https://www.encode.io/projects/
+
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+https://discuss.encode.io/ | Encode
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+-->
+
 ## Great Release Managers
 
 <!--
@@ -845,6 +895,7 @@ Special Projects
 * [babi](https://github.com/asottile/babi)
 
 <!--
+https://github.com/deadsnakes
 https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
 
 virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
@@ -905,6 +956,8 @@ Python 2 EOL Websites
 * [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
 
 <!--
+https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
+
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
 
 https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
