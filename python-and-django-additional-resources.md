@@ -1,9 +1,28 @@
 # Python and Django- Additional Resources
 
 <!--
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style
+https://github.com/satwikkansal/wtfpython
+https://github.com/jakevdp/WhirlwindTourOfPython
+https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+Al Sweigart Book
+https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
+
+Exercises
+https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
+
 https://automatetheboringstuff.com/
 
-https://github.com/zedr/clean-code-python
+https://pythonspeed.com/ | Ship better Python software, faster
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
 
 https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
@@ -12,31 +31,9 @@ https://www.pythonmorsels.com/resources/
 https://twitter.com/filiplajszczak/status/1228800450515869703
 https://twitter.com/PurpleDiane88/status/1227365692380340224
 
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-Good Print, hello debugger, DjangoCon
-https://twitter.com/nnja/status/1217933709577342976
-https://www.twitch.tv/nnjaio
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 https://www.cosmicpython.com/
-
-Al Sweigart Book
-https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
-
-Exercises
-https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
-
-
 
 Tools
 
@@ -59,16 +56,60 @@ https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on 
 
 People
 
-https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
-https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
+Armin
+https://lucumr.pocoo.org
 
-A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
-https://www.youtube.com/watch?v=r-A78RgMhZU
+Anthony Shaw
+https://twitter.com/anthonypjshaw
+https://github.com/tonybaloney/
+https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
+https://twitter.com/anthonypjshaw/status/1225985709409890304
+https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
+
+https://github.com/adamchainz
+https://github.com/pablogsal?tab=following
+
+https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
+https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
+
+Brandon Rhodes
+https://www.youtube.com/watch?v=fYlnfvKVDoM
+
+Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
+
+https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
+https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
+
+http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html | Traps for the Unwary in Python’s Import System — Nick Coghlan's Python Notes 1.0 documentation
+http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html | Efficiently Exploiting Multiple Cores with Python — Nick Coghlan's Python Notes 1.0 documentation
+
+https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
+https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
+
+https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
+https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
+
+https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
 
 https://treyhunner.com/2018/04/keyword-arguments-in-python/
 https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
 https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
 https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1217933709577342976
+https://www.twitch.tv/nnjaio
+
+https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
+
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
 
@@ -508,6 +549,9 @@ Django Consulting Firm GitHub Accounts
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+Jazz Band
+https://twitter.com/jezdez/status/1230635375497969672 | Jannis Leidel on Twitter: "@joshsimmons @vmbrasseur @jazzbandco Yeah, it's been on the slow burner for long, but it's still growing, just passed 600 members and have 43 projects. Need to figure out how to keep it sustainable (read: useful in the long-term). Right now mostly trying to decide which chunk to bite off first." / Twitter
+
 https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
 
 Feature Flags
