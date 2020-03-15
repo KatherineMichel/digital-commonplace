@@ -1,6 +1,26 @@
 # Python and Django- Additional Resources
 
 <!--
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+
+https://jazzband.co/ | Jazzband
+https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
+https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
+
+https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
+
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
+https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
+
+https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
+https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
+wemake-services/dotenv-linter - Google Search
+https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
+
+https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
+
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style
 https://github.com/satwikkansal/wtfpython
