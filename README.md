@@ -3,150 +3,24 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-Django Project Governance Model
-* [New Django Project Governance Model](https://www.djangoproject.com/weblog/2020/mar/12/governance/)
-* [Django Project Governance Model (Jacob Kaplan-Moss)](https://jacobian.org/2020/mar/12/django-governance/)
-
-Case Study
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
-
-https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
-https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
-https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
-
-https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
-https://linux-kernel-labs.github.io/refs/heads/master/index.html
-
-https://clang.llvm.org/ | Clang C Language Family Frontend for LLVM
-https://clang.llvm.org/comparison.html
-https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
-
-
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://automationpanda.com/tag/development/
-
-https://beginnerjavascript.com/
-
-https://github.com/rust-lang/wg-governance
-https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
-https://www.scala-lang.org/
-https://access.redhat.com/documentation/en-us/
-
-Prioritization
-https://twitter.com/marshallk/status/1237576097639723008
-
-https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
-https://www.pyladies.com/
-https://app.slack.com/client/T03HT05JZ/C03HT05KF
-PyLadies Remote International Women's Month Lightning Talks
-https://ti.to/pyladies/womensmonthtalks/en
-Membership survey
-https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
-
-https://opensource.org/osr
-https://cs.opensource.google/
-
-Ethical open source
-https://twitter.com/luis_in_brief/status/1235356207839211520
-https://twitter.com/joshsimmons/status/1238929287358513153
-https://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021273.html
-https://firstdonoharm.dev/
-https://github.com/EthicalSource/hippocratic-license
-http://matt.might.net/articles/crapl/
-
-https://uber.github.io/#/principles
-https://eng.uber.com/open-source-principles/
-
-https://nvie.com/posts/a-successful-git-branching-model/
-https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
-
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
-
-https://redwoodjs.com/
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-
-https://github.com/tiangolo/fastapi
-
-https://handbook.glitch.me/
-https://www.producthunt.com/posts/glitch-guide-to-remote-work
-
-https://www.producthunt.com/posts/glitch-for-vs-code
-
-Women and NB on Twitch
-https://twitter.com/nnja/status/1238188427780083712
-
-Social Distancing Survival Guide
-https://twitter.com/Fox0x01/status/1238636233649250304
-https://twitter.com/Fox0x01/status/1238636236962779136
-https://github.com/gwen001/pentest-tools
-
-
-
 https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
-
-https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
-
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://twitter.com/jessicagarson/status/1217597181550612485 | Jessica Garson on Twitter: "I had a hard time building with the Twitter API when I first started. Helping developers from many different backgrounds use our API for the first time and make successful calls is why I come to work everyday. #OneTeam #LoveWhereYouWork" / Twitter
-
-https://twitter.com/dcancel/status/1210340507131494406 | David Cancel on Twitter: "If you work in Product use this daily mantra: We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems." / Twitter
-
-https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
-
-https://adventofcode.com/2019 | Advent of Code 2019
-
-https://leanpub.com/composingsoftware | 
-
-https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium
-
-https://www.producthunt.com/posts/glitch-for-vs-code
-
-https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
-https://jacobian.org/2020/feb/18/innovation-execution/
-
-
-
-Rusts Community automation
-Very important!
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-CHAOSS
-https://twitter.com/vmbrasseur/status/1223627051552235520
-https://mobile.twitter.com/GeorgLink/status/1227249874174906368
-https://twitter.com/GeorgLink/status/1195123239984357377
-
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
-
-https://mherman.org/talks | Talks and Trainings
-
-https://lobste.rs/ | Lobsters
-
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
 
 https://twitter.com/JamesClear/status/1190623326705635328 | James Clear on Twitter: "We hold onto our flaws because they are insurance for our failures. Every fear serves a purpose. When we cling to unhelpful beliefs and old fears, we can blame failure on them. Growth requires the courage to give our best effort and not blame our flaws as the cause of failure." / Twitter
 
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+https://twitter.com/dcancel/status/1210340507131494406 | David Cancel on Twitter: "If you work in Product use this daily mantra: We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems. We are not here to build Products. We are here to solve Customer Problems." / Twitter
 
-https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
-https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+Hashtags
+#pycascades
+
+https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+
+https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
 
 https://freestateforge.com/map
 
@@ -162,7 +36,116 @@ https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "
 Top Engineers
 https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
 
+https://blog.burntsushi.net/foss/
+
+https://twitter.com/jessicagarson/status/1217597181550612485 | Jessica Garson on Twitter: "I had a hard time building with the Twitter API when I first started. Helping developers from many different backgrounds use our API for the first time and make successful calls is why I come to work everyday. #OneTeam #LoveWhereYouWork" / Twitter
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+Django Project Governance Model
+* [New Django Project Governance Model](https://www.djangoproject.com/weblog/2020/mar/12/governance/)
+* [Django Project Governance Model (Jacob Kaplan-Moss)](https://jacobian.org/2020/mar/12/django-governance/)
+
+https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
+https://www.pyladies.com/
+https://app.slack.com/client/T03HT05JZ/C03HT05KF
+PyLadies Remote International Women's Month Lightning Talks
+https://ti.to/pyladies/womensmonthtalks/en
+Membership survey
+https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
+
+Rusts Community automation
+Very important!
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+CHAOSS
+https://twitter.com/vmbrasseur/status/1223627051552235520
+https://mobile.twitter.com/GeorgLink/status/1227249874174906368
+https://twitter.com/GeorgLink/status/1195123239984357377
+
+Women and NB on Twitch
+https://twitter.com/nnja/status/1238188427780083712
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://adventofcode.com/2019 | Advent of Code 2019
+
+https://lobste.rs/ | Lobsters
+
+clrs algorithms
+
+Kubernetes steering committee
+https://mobile.twitter.com/spiffxp/status/1179807583864967168
+https://github.com/rust-lang/wg-governance
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+https://www.scala-lang.org/
+https://access.redhat.com/documentation/en-us/
+
+https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
+
+https://shellshare.net/
+https://asciinema.org asciinema
+https://www.asciiart.eu/ | ASCII Art Archive
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://martinfowler.com/articles/refactoring-2nd-changes.html
+https://refactoring.com/catalog/
+https://refactoring.guru/collapse-hierarchy
+
+https://martinfowler.com/articles/feature-toggles.html
+
+Feature Toggles
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+
+https://mherman.org/talks | Talks and Trainings
+
+https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+
+
+https://github.com/lorin/systems-thinking
+
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+
+https://github.com/VGraupera/1on1-questions
+
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
+https://developers.google.com/machine-learning/crash-course
+
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
+https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
+https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+
 https://patrickcollison.com/fast | Fast · Patrick Collison
+
+Recorder
+https://twitter.com/di_codes/status/1208815868563599360 | Dustin Ingram on Twitter: "This is one of my new favorite tools! Over the last few months, I've been using Recorder to generate searchable transcripts and live captions of conference talks I attend. Super helpful! https://t.co/DfHILnHgAN" / Twitter
+
+Prioritization
+https://twitter.com/marshallk/status/1237576097639723008
+
+Silent critique
+https://twitter.com/dustanner/status/1176518182850351104
 
 Gasca
 https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1: Making meeting suck a little less
@@ -195,24 +178,118 @@ https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
 https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
 
+Glitch
+https://handbook.glitch.me/
+https://www.producthunt.com/posts/glitch-guide-to-remote-work
+
+https://www.producthunt.com/posts/glitch-for-vs-code
+
 https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
 https://lp.buffer.com/state-of-remote-work-2020
+
+
+https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
+
 
 https://twitter.com/agjhnsn/status/1222618133069885445
 https://twitter.com/thoward37/status/1227286141537144832
 https://en.wikipedia.org/wiki/Information_architecture
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
-https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
 
 https://github.com/simonw/
 
 https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
 
+https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
+https://jacobian.org/2020/feb/18/innovation-execution/
+
+
 https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
+https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
+https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
+https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
+
+https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
+
+Sprints
+https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
+
+Contributing guidance- simple
+https://github.com/johno/pixyll#contributing | johno/pixyll: A simple, beautiful Jekyll theme that's mobile first
+
+https://github.com/kbariotis/templates
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+
+https://opensource.org/osr
+https://cs.opensource.google/
+
+Ethical open source
+https://twitter.com/luis_in_brief/status/1235356207839211520
+https://twitter.com/joshsimmons/status/1238929287358513153
+https://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021273.html
+https://firstdonoharm.dev/
+https://github.com/EthicalSource/hippocratic-license
+http://matt.might.net/articles/crapl/
+
+https://uber.github.io/#/principles
+https://eng.uber.com/open-source-principles/
+
+https://nvie.com/posts/a-successful-git-branching-model/
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
+
+https://github.com/bcgov/
+https://github.com/cagov
+https://github.com/Nova-Scotia-Digital-Service
+https://github.com/cds-snc
+https://ogs.ny.gov/news/new-york-state-digital-service-program-launches
+
+https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
+https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
+https://medium.com/cadotgov/introducing-the-ca-gov-alpha-team-6daff8e0b4b8 | 
+https://www.canada.ca/en/government/system/digital-government/open-source-software.html
+
+
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+Matrix- Operating Systems (Unix, Linux, etc.)
+
+GitHub
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+
+Probot
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+
+web hooks
+https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
+https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
+
+https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
+https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
+https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
+
 
 https://en.wikipedia.org/wiki/Monolithic_application
 
@@ -249,42 +326,33 @@ VS Code
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
-Sprints
-https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
 
-https://blog.burntsushi.net/foss/
+Linux networking tools
+https://twitter.com/b0rk/status/1204839971913379840
 
-Contributing guidance- simple
-https://github.com/johno/pixyll#contributing | johno/pixyll: A simple, beautiful Jekyll theme that's mobile first
+https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
 
-https://github.com/kbariotis/templates
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+https://clang.llvm.org/ | Clang C Language Family Frontend for LLVM
+https://clang.llvm.org/comparison.html
+https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
 
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
 
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
 
-https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
-https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
-https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
+https://redwoodjs.com/
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-
-https://martinfowler.com/articles/refactoring-2nd-changes.html
-https://refactoring.com/catalog/
-https://refactoring.guru/collapse-hierarchy
-
-https://martinfowler.com/articles/feature-toggles.html
-
-Feature Toggles
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+Database
+https://en.wikipedia.org/wiki/Federated_database_system
+delegated database
+Google Spanner versus Calvin Protocol - Google Search
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
 https://www.redhat.com/
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
@@ -292,74 +360,15 @@ https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Lin
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
-https://devchecklists.com/python-api-checklist/
-https://devchecklists.com/django-apps-checklist/
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
+Case Study
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
 
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
-https://rauchg.com/2020/2019-in-review | 2019 in Review
-https://github.com/rauchg/blog | rauchg/blog
-https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
-
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-
-https://github.com/glitchdotcom/ | Glitch
-https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
-
-Jez
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
-
-https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
-
-https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
-https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
-
-https://github.com/bcgov/
-https://github.com/cagov
-https://github.com/Nova-Scotia-Digital-Service
-https://github.com/cds-snc
-https://ogs.ny.gov/news/new-york-state-digital-service-program-launches
-
-https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
-https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
-https://medium.com/cadotgov/introducing-the-ca-gov-alpha-team-6daff8e0b4b8 | 
-https://www.canada.ca/en/government/system/digital-government/open-source-software.html
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 
 
+https://leanpub.com/composingsoftware | 
 
-
-
-https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
-
-https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
-
-clrs algorithms
-
-Hashtags
-#pycascades
-
-cross linter - Google Search
-
-Matrix- Operating Systems (Unix, Linux, etc.)
-
-GitHub
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-
-Linux networking tools
-https://twitter.com/b0rk/status/1204839971913379840
-
-
+https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium
 
 https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
 
@@ -394,55 +403,59 @@ https://github.com/vuejs/vue-loader
 https://github.com/jsdom/jsdom
 
 
-https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
 
-https://www.amazon.com/gp/help/customer/display.html/?nodeId=200747550 | Amazon.com Help: Borrow Books from a Public Library
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
 
-Essentialism
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+https://github.com/glitchdotcom/ | Glitch
+https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
 
-https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
-https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
-https://kk.org/thetechnium/1000-true-fans/
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
 
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
-
-https://shellshare.net/
-https://asciinema.org asciinema
-https://www.asciiart.eu/ | ASCII Art Archive
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+Jez
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
 
 https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
 https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 
-Database
-https://en.wikipedia.org/wiki/Federated_database_system
-delegated database
-Google Spanner versus Calvin Protocol - Google Search
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
 
-https://github.com/lorin/systems-thinking
+https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
 
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
-https://github.com/VGraupera/1on1-questions
+https://devchecklists.com/python-api-checklist/
+https://devchecklists.com/django-apps-checklist/
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
 
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
-https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
-https://developers.google.com/machine-learning/crash-course
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+Influential
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
+
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://kk.org/thetechnium/1000-true-fans/
 
 https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
 http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
+
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 -->
 
 <!--
