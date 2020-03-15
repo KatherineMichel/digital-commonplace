@@ -1,6 +1,8 @@
 # Python and Django- Additional Resources
 
 <!--
+https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
+
 https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
 
 https://jazzband.co/ | Jazzband
