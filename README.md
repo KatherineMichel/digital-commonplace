@@ -59,6 +59,8 @@ https://access.redhat.com/documentation/en-us/
 
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
 
+https://github.blog/2020-03-16-npm-is-joining-github/
+
 https://shellshare.net/
 https://asciinema.org asciinema
 https://www.asciiart.eu/ | ASCII Art Archive
@@ -133,6 +135,13 @@ https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter
 Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
 
+OS
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md | guides/creating-an-open-source-program.md at master · todogroup/guides
+
 Contributing guidance- simple
 https://github.com/johno/pixyll#contributing | johno/pixyll: A simple, beautiful Jekyll theme that's mobile first
 
@@ -151,14 +160,6 @@ https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: D
 
 https://opensource.org/osr
 https://cs.opensource.google/
-
-Ethical open source
-https://twitter.com/luis_in_brief/status/1235356207839211520
-https://twitter.com/joshsimmons/status/1238929287358513153
-https://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2020-February/021273.html
-https://firstdonoharm.dev/
-https://github.com/EthicalSource/hippocratic-license
-http://matt.might.net/articles/crapl/
 
 https://uber.github.io/#/principles
 https://eng.uber.com/open-source-principles/
@@ -258,7 +259,6 @@ Google Spanner versus Calvin Protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-https://www.redhat.com/
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
@@ -347,45 +347,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxm
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 -->
 
-## Company Handbooks
-
 <!--
-https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
-
-https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
-https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
-
-Basecamp
-https://basecamp.com/shapeup/0.3-chapter-01 | Introduction | Shape Up
-https://basecamp.com/books
-https://basecamp.com/books/remote | REMOTE: Office Not Required
-https://github.com/basecamp/handbook | basecamp/handbook: Basecamp Employee Handbook
-https://basecamp.com/yes | Basecamp 3: Manage projects, groups, and client work.
-https://basecamp.com/guides/how-we-communicate | Guide to Internal Communication, the Basecamp Way
-https://basecamp.com/features/work-can-wait | Basecamp 3: Work Can Wait
-https://twitter.com/dhh/status/1229764045563027461 | DHH on Twitter: "@giovanniluperti We literally wrote a manual on how we did it. And it didn’t involve cold calling or spamming or targeted ads. https://t.co/ysSJMi4jnL" / Twitter
-
-Remote
-https://about.gitlab.com/ | The first single application for the entire DevOps lifecycle - GitLab | GitLab
-https://about.gitlab.com/handbook/ | Handbook | GitLab
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-https://about.gitlab.com/company/culture/all-remote/guide/ | GitLab's Guide to All-Remote | GitLab
-https://www.amazon.com/dp/0804137501/ | Amazon.com: Remote: Office Not Required (9780804137508): Jason Fried, David Heinemeier Hansson: Books
-
-Glitch
-https://handbook.glitch.me/
-https://www.producthunt.com/posts/glitch-guide-to-remote-work
+## Company Handbooks
 
 https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
-https://lp.buffer.com/state-of-remote-work-2020
-
-https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus | Connecting businesses and educators with advanced Hangouts Meet capabilities | Google Cloud Blog
--->
-
-
-<!--
 https://redwoodjs.com/
 https://github.com/redwoodjs/redwood
 https://twitter.com/mojombo/status/1238942353273978880
