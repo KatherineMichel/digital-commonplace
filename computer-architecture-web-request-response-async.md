@@ -184,6 +184,49 @@ https://en.wikipedia.org/wiki/Advanced_Micro_Devices
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
 -->
 
+## Database Architectures and Principles
+
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+
+Database Principles
+* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
+* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
+* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+<!--
+AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+
+https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
+https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
+https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
+-->
+
 ## Architecture- Important Concepts
 
 Computer Architecture
