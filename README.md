@@ -99,28 +99,11 @@ https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 https://developers.google.com/machine-learning/crash-course
 
 
-https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
-
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
-Silent critique
-https://twitter.com/dustanner/status/1176518182850351104
-
-Gasca
-https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1: Making meeting suck a little less
-https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
-https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
 https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
-
-https://www.producthunt.com/posts/glitch-for-vs-code
 
 
 https://twitter.com/agjhnsn/status/1222618133069885445
@@ -268,10 +251,6 @@ https://twitter.com/Fox0x01/status/1238636236962779136
 https://github.com/gwen001/pentest-tools
 
 
-https://redwoodjs.com/
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-
 Database
 https://en.wikipedia.org/wiki/Federated_database_system
 delegated database
@@ -284,11 +263,6 @@ https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Lin
 
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
-Case Study
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
-
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 
 
 https://leanpub.com/composingsoftware | 
@@ -339,9 +313,6 @@ https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software
 
 https://devchecklists.com
 
-Influential
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
-
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
 https://kk.org/thetechnium/1000-true-fans/
@@ -379,6 +350,12 @@ https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomeninte
 ## Company Handbooks
 
 <!--
+https://github.com/phildini/stayinghomeclub | phildini/stayinghomeclub: A list of all the companies WFH or events changed because of covid-19
+
+https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
+https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+
 Basecamp
 https://basecamp.com/shapeup/0.3-chapter-01 | Introduction | Shape Up
 https://basecamp.com/books
@@ -409,6 +386,10 @@ https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-st
 
 
 <!--
+https://redwoodjs.com/
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
+
 https://rauchg.com/2020/2019-in-review | 2019 in Review
 https://github.com/rauchg/blog | rauchg/blog
 https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
@@ -416,6 +397,7 @@ https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorbe
 https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
 https://nextjs.org/ | Next.js - The React Framework
 
+https://www.producthunt.com/posts/glitch-for-vs-code
 https://github.com/glitchdotcom/ | Glitch
 https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
 
@@ -1930,6 +1912,11 @@ Architectures
 * [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
 
 <!--
+Case Study
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
+
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
 Interesting
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
@@ -2437,12 +2424,18 @@ https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a 
 ## Engineering Management
 
 <!--
-Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+Silent critique
+https://twitter.com/dustanner/status/1176518182850351104
 
-https://basecamp.com/shapeup/shape-up.pdf | shape-up.pdf
-https://basecamp.com/books/Getting%20Real.pdf | GR-8x11.indd
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+Gasca- Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
 https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
 https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
