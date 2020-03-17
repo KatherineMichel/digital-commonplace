@@ -9,12 +9,6 @@ https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
 
 https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
 
-Great engineers
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-
-Top Engineers
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
-
 https://twitter.com/jessicagarson/status/1217597181550612485 | Jessica Garson on Twitter: "I had a hard time building with the Twitter API when I first started. Helping developers from many different backgrounds use our API for the first time and make successful calls is why I come to work everyday. #OneTeam #LoveWhereYouWork" / Twitter
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
@@ -60,13 +54,6 @@ https://access.redhat.com/documentation/en-us/
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
 
 https://github.blog/2020-03-16-npm-is-joining-github/
-
-https://shellshare.net/
-https://asciinema.org asciinema
-https://www.asciiart.eu/ | ASCII Art Archive
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
 https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
@@ -130,10 +117,11 @@ https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 Dyn
 https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
 https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
 
-https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
 
 Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
+
+https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
 
 OS
 https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
@@ -163,9 +151,6 @@ https://cs.opensource.google/
 
 https://uber.github.io/#/principles
 https://eng.uber.com/open-source-principles/
-
-https://nvie.com/posts/a-successful-git-branching-model/
-https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
 
 https://github.com/bcgov/
 https://github.com/cagov
@@ -302,8 +287,6 @@ https://github.com/vuejs/vue-loader
 https://github.com/jsdom/jsdom
 
 
-Jez Humble
-
 https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
 
 https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
@@ -336,16 +319,6 @@ https://www.khanacademy.org/computing/computer-programming/programming#good-prac
 -->
 
 ## Industry Maps
-
-<!--
-https://freestateforge.com/map
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
--->
 
 <!--
 ## Company Handbooks
@@ -723,6 +696,7 @@ https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
+
 ## Django
 
 Django GitHub
@@ -832,6 +806,294 @@ https://code.visualstudio.com/docs/languages/python#_install-python-and-the-pyth
 https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+-->
+
+
+## Heroku
+
+Heroku Hosting Docs
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
+
+Container Registries and Tools
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
+## Workflows
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+<!--
+https://www.npmjs.com/package/git-flow-deploy
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
+Release Phase
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
+https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
+
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+-->
+
+## CI/CD
+
+<!--
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
+https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
+
+https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
+
+https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
+
+https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
+-->
+
+## Agile and Ops
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+DevOps
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+
+Atlassian DevOps
+* [Atlassian DevOps](https://www.atlassian.com/devops)
+* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
+
+DevOp Tools Landscapes
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
+
+How Companies Do DevOps
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+Ops Schools and DevOps Bootcamps
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+DevSecOps
+* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+
+ChatOps
+* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
+* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
+* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+Chaos Engineering
+* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
+* [Gremlin](https://www.gremlin.com)
+* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
+
+Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
+
+<!--
+Netflix Suite
+Lynn Root's talks
+
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+-->
+
+<!--
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://developer.atlassian.com
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+DevOps
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+https://puppet.com/resources/whitepaper/state-of-devops-report
+-->
+
+<!--
+https://devops.com
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
+
+## Jez Humble
+
+<!--
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+-->
+
+## Advanced Workflows- Collaborative Development
+
+Collaborative Development Models
+* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
+* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
+* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
+* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
+* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
+
+Pros and Cons
+* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
+
+Gitflow Considered Harmful
+* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
+* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
+
+Atlassian Workflow
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
+
+GitHub Flow
+* [GitHub Flow](https://help.github.com/articles/github-flow)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+GitLab Flow
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
+* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+
+Other Company Blogs
+* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
+* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
+
+Company or Organization Specific Git Workflows
+* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
+
+<!--
+https://nvie.com/posts/a-successful-git-branching-model/
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
 -->
 
 ## Open Source in Orgs
@@ -1557,288 +1819,6 @@ https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..6
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
--->
-
-## Advanced Workflows- Collaborative Development
-
-Collaborative Development Models
-* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
-* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
-* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
-* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
-* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
-
-Pros and Cons
-* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
-
-A Successful Git Branching Model
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-
-Gitflow Considered Harmful
-* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
-* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
-* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
-* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
-
-Atlassian Workflow
-* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
-* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
-
-GitHub Flow
-* [GitHub Flow](https://help.github.com/articles/github-flow)
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
-GitLab Flow
-* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
-* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
-* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
-
-Other Company Blogs
-* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
-* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
-
-Company or Organization Specific Git Workflows
-* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
-
-## Heroku
-
-Heroku Hosting Docs
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-Heroku- Elements Marketplace
-* [Heroku Elements Marketplace](https://elements.heroku.com)
-* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
-
-Heroku Git Integration
-* [Deploying with Git](https://devcenter.heroku.com/articles/git)
-* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
-* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
-Container Registries and Tools
-* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
-* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
-
-<!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
--->
-
-## Workflows
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-<!--
-https://www.npmjs.com/package/git-flow-deploy
-
-heroku continuous integration and delivery, using gitflow with heroku
-https://www.heroku.com/flow
-https://blog.heroku.com/heroku-ci-now-available
-https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
-https://www.heroku.com/continuous-integration
-https://www.heroku.com/continuous-delivery
-https://www.heroku.com/continuous-delivery/on-heroku
-https://www.heroku.com/continuous-delivery/how-it-works
-https://www.heroku.com/continuous-delivery/foundations
-https://devcenter.heroku.com/articles/heroku-ci
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/pipelines
-https://devcenter.heroku.com/articles/pipelines#github-sync
-https://devcenter.heroku.com/articles/git
-
-https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
-https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
-https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
-
-Release Phase
-https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
-
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-
-https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
-https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
-https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
-https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
-
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
-
-gitlab continuous integration and deployment
-https://www.youtube.com/watch?v=1iXFbchozdY
-https://docs.gitlab.com/ce/ci/
-https://docs.gitlab.com/ce/ci/quick_start/README.html
-https://docs.gitlab.com/ce/ci/environments.html
-https://docs.gitlab.com/ee/ci/autodeploy/index.html
-https://docs.gitlab.com/ee/integration/
-https://about.gitlab.com/features/gitlab-ci-cd/
-https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
-https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
-https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
-https://about.gitlab.com/2016/11/22/introducing-review-apps/
-
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
--->
-
-## CI/CD
-
-<!--
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
-https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
-
-https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
-
-https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
-
-https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
--->
-
-## Agile and Ops
-
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-
-DevOps
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-
-Atlassian DevOps
-* [Atlassian DevOps](https://www.atlassian.com/devops)
-* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
-
-DevOp Tools Landscapes
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
-
-How Companies Do DevOps
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-Ops Schools and DevOps Bootcamps
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-DevSecOps
-* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
-
-ChatOps
-* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
-* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
-* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-  
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-Chaos Engineering
-* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
-* [Gremlin](https://www.gremlin.com)
-* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
-
-Incident Response
-* [PagerDuty](https://response.pagerduty.com/)
-
-<!--
-Netflix Suite
-Lynn Root's talks
-
-https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
-https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
--->
-
-<!--
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
-
-https://developer.atlassian.com
-https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-DevOps
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
-https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-
-https://puppet.com/resources/whitepaper/state-of-devops-report
--->
-
-<!--
-https://devops.com
-
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
--->
-
-## Jez Humble
-
-<!--
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 -->
 
 ## Philosophies
