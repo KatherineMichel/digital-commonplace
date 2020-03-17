@@ -5,55 +5,28 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
+Keyboard shortcuts
 https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
 https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-
-https://twitter.com/jessicagarson/status/1217597181550612485 | Jessica Garson on Twitter: "I had a hard time building with the Twitter API when I first started. Helping developers from many different backgrounds use our API for the first time and make successful calls is why I come to work everyday. #OneTeam #LoveWhereYouWork" / Twitter
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 New Django Project Governance Model
 
-https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
-https://www.pyladies.com/
-https://app.slack.com/client/T03HT05JZ/C03HT05KF
 PyLadies Remote International Women's Month Lightning Talks
 https://ti.to/pyladies/womensmonthtalks/en
-Membership survey
-https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
 
 Rusts Community automation
-Very important!
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
 CHAOSS
-https://twitter.com/vmbrasseur/status/1223627051552235520
-https://mobile.twitter.com/GeorgLink/status/1227249874174906368
-https://twitter.com/GeorgLink/status/1195123239984357377
 
 Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-https://adventofcode.com/2019 | Advent of Code 2019
-
 clrs algorithms
 
-Kubernetes steering committee
-https://mobile.twitter.com/spiffxp/status/1179807583864967168
-https://github.com/rust-lang/wg-governance
-https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
-https://www.scala-lang.org/
-https://access.redhat.com/documentation/en-us/
-
-https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
-
-https://github.blog/2020-03-16-npm-is-joining-github/
+Trade Offs
 
 https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
@@ -88,11 +61,7 @@ https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 https://developers.google.com/machine-learning/crash-course
 
 
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
-
 https://patrickcollison.com/fast | Fast · Patrick Collison
-
-https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
 
 
 https://twitter.com/agjhnsn/status/1222618133069885445
@@ -107,15 +76,6 @@ https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ 
 
 https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
 https://jacobian.org/2020/feb/18/innovation-execution/
-
-
-https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-https://twitter.com/DynamicWebPaige/status/1175930240452816896 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: "If you make software, or if you ask people to interact with software - read this. 👇 The Distribution of Users’ Computer Skills: Worse Than You Think (2016) - 
-https://twitter.com/jessfraz/status/1149425675918405632 | jessie frazelle 👩🏼‍🚀 on Twitter: "Listen, if you aren’t building your product under the assumption humans are going to be idiots, you are doing it wrong. Keep it simple.… https://t.co/OsusuHzrYd"
-https://twitter.com/DynamicWebPaige/status/1177292552031985664 | 👩‍💻 DynamicWebPaige @ #TFDocsSprint ✍️ on Twitter: ""In this paper, we broaden the understanding of unhappiness among software developers in terms of (1) the software developer population distribution of unhappiness, and (2) the causes of unhappiness while developing software." ..but problem-solving is❤️? https://t.co/4Ga20IJOqt https://t.co/ZXEBZerAdV" / Twitter
 
 
 Sprints
@@ -250,6 +210,17 @@ https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
 
+Kubernetes steering committee
+https://mobile.twitter.com/spiffxp/status/1179807583864967168
+https://github.com/rust-lang/wg-governance
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+https://www.scala-lang.org/
+https://access.redhat.com/documentation/en-us/
+https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
+https://github.blog/2020-03-16-npm-is-joining-github/
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
 https://leanpub.com/composingsoftware | 
 
 https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium
@@ -287,24 +258,7 @@ https://github.com/vuejs/vue-loader
 https://github.com/jsdom/jsdom
 
 
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
-
-https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
-
-https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
-https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
-
 https://devchecklists.com
-
-https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
-https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
-https://kk.org/thetechnium/1000-true-fans/
-
-https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
-http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
-
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 -->
 
 <!--
@@ -631,6 +585,10 @@ Authorities
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
 <!--
+https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
 https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
@@ -1000,6 +958,13 @@ https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 -->
 
 <!--
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
+
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
+
 https://github.com/dastergon/awesome-sre
 https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 
