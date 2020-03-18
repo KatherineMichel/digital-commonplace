@@ -42,20 +42,32 @@ https://mherman.org/talks | Talks and Trainings
 https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
 
 
+https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/
+
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+Links change log lines to PRs
+
+Types of changes
+Added for new features.
+Changed for changes in existing functionality.
+Deprecated for soon-to-be removed features.
+Removed for now removed features.
+Fixed for any bug fixes.
+Security in case of vulnerabilities.
+
+
 https://github.com/lorin/systems-thinking
-
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-
-https://github.com/VGraupera/1on1-questions
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
 https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+
 https://developers.google.com/machine-learning/crash-course
-
-
-https://patrickcollison.com/fast | Fast · Patrick Collison
 
 
 https://twitter.com/agjhnsn/status/1222618133069885445
@@ -70,10 +82,6 @@ https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ 
 
 https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
 https://jacobian.org/2020/feb/18/innovation-execution/
-
-
-Sprints
-https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
 
 
 Linux networking tools
@@ -151,48 +159,6 @@ https://github.com/nodejs/changelog-maker
 https://github.com/nodejs/modules
 https://github.com/vuejs/vue-loader
 https://github.com/jsdom/jsdom
-
-
-https://devchecklists.com
--->
-
-<!--
-https://traversymedia.com/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-
-https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
-https://www.khanacademy.org/computing/computer-programming/programming#good-practices
--->
-
-## Industry Maps
-
-<!--
-## Company Handbooks
-
-https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
-
-https://redwoodjs.com/
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-
-https://rauchg.com/2020/2019-in-review | 2019 in Review
-https://github.com/rauchg/blog | rauchg/blog
-https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
-
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
-
-https://www.producthunt.com/posts/glitch-for-vs-code
-https://github.com/glitchdotcom/ | Glitch
-https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
 -->
 
 ## Project-Based Learning
@@ -245,6 +211,37 @@ https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Ben
 https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+<!--
+https://traversymedia.com/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+
+https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
+https://www.khanacademy.org/computing/computer-programming/programming#good-practices
+
+https://redwoodjs.com/
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
+
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
+
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
+https://www.producthunt.com/posts/glitch-for-vs-code
+https://github.com/glitchdotcom/ | Glitch
+https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
 -->
 
 ## Useful Tools
@@ -316,105 +313,6 @@ https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 -->
 
-## Health
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-<!--
-https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
-
-https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
-
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
--->
-
-## Priorities
-
-<!--
-https://gamestorming.com/impact-effort-matrix-2/
-https://www.mindtools.com/pages/article/newHTE_95.htm
--->
-
-Eisenhower Matrix
-* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-<!--
-Eisenhower Matrix
-https://twitter.com/airtable/status/1205241906759794689
-https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
--->
-
-Make the Most of Your Limited Learning Time Matrix
-* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
-
-<!--
-Prioritization
-https://twitter.com/marshallk/status/1237576097639723008
--->
-
-## Goal Setting and Productivity
-
-Fear Setting
-* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
-* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
-
-Marshall Goldsmith
-* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Habit Engineering
-* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
-
-<!--
-Essentialism
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-A16Z Metrics
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
-
-benjamin franklin habits - Google Search
-
-Deep Work by Cal Newport
-
-https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
-
-https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
--->
-
-Dr. Barbara Oakley
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-<!--
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
--->
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-<!--
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
-https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
--->
-
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -424,32 +322,11 @@ Vinta API Checklist
 * [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
 <!--
+https://devchecklists.com
 https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
-Test Driven Development (TDD)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-
-README and Documentation Driven Development
-* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-
-https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/
-
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
-
-Links change log lines to PRs
-
-Types of changes
-Added for new features.
-Changed for changes in existing functionality.
-Deprecated for soon-to-be removed features.
-Removed for now removed features.
-Fixed for any bug fixes.
-Security in case of vulnerabilities.
 -->
 
 ## Authority Figures and Books
@@ -2626,7 +2503,10 @@ https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepren
 https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
 
-## Well Being
+## Health and Well Being
+
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 Habits with a High Rate of Return in Life
 * [DHH](https://twitter.com/dhh/status/990742238257864705)
@@ -2647,9 +2527,13 @@ Sleep
 * [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
 
 <!--
+https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
+
 https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
 
 https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
+
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
 
 https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
 -->
@@ -2846,7 +2730,93 @@ https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How T
 https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
-## Productivity
+## Priorities
+
+<!--
+https://gamestorming.com/impact-effort-matrix-2/
+https://www.mindtools.com/pages/article/newHTE_95.htm
+-->
+
+Eisenhower Matrix
+* [Mind Tools Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm) and [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+<!--
+Eisenhower Matrix
+https://twitter.com/airtable/status/1205241906759794689
+https://airtable.com/templates/marketing/expHUByPoPmcdyLgI/eisenhower-matrix
+-->
+
+Make the Most of Your Limited Learning Time Matrix
+* [Matrix](https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png) and [HBR Article](https://hbr.org/2017/09/a-2x2-matrix-to-help-you-prioritize-the-skills-to-learn-right-now)
+
+<!--
+Prioritization
+https://twitter.com/marshallk/status/1237576097639723008
+-->
+
+## Goal Setting and Productivity
+
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+Marshall Goldsmith
+* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
+
+<!--
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+A16Z Metrics
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
+https://threader.app/thread/1078647576201703427 | A thread written by @ali01
+https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
+
+benjamin franklin habits - Google Search
+
+Deep Work by Cal Newport
+
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+
+https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
+-->
+
+Dr. Barbara Oakley
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+<!--
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+-->
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+<!--
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
+-->
+
+## Productivity- Other Stuff
 
 <!--
 https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
@@ -3001,6 +2971,8 @@ Tim Ferris Blueprints
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
 <!--
+https://patrickcollison.com/fast | Fast · Patrick Collison
+
 https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
 
 https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
