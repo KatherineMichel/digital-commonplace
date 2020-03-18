@@ -41,12 +41,6 @@ https://mherman.org/talks | Talks and Trainings
 
 https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
 
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://automationpanda.com/tag/development/
-
 
 https://github.com/lorin/systems-thinking
 
@@ -80,105 +74,6 @@ https://jacobian.org/2020/feb/18/innovation-execution/
 
 Sprints
 https://github.com/timothycrosley/sprints_kit/blob/master/to_purchase.md
-
-https://twitter.com/SquidDLane/status/1228374634531147776 | Ryan Lane on Twitter: "Your extremely frequent reminder that using licenses produced by armchair lawyers results in unusable and actively harmful projects, especially if you use them for libraries. https://t.co/JbfSvdqgmq" / Twitter
-
-OS
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md | guides/creating-an-open-source-program.md at master · todogroup/guides
-
-Contributing guidance- simple
-https://github.com/johno/pixyll#contributing | johno/pixyll: A simple, beautiful Jekyll theme that's mobile first
-
-https://github.com/kbariotis/templates
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
-https://opensource.org/osr
-https://cs.opensource.google/
-
-https://uber.github.io/#/principles
-https://eng.uber.com/open-source-principles/
-
-https://github.com/bcgov/
-https://github.com/cagov
-https://github.com/Nova-Scotia-Digital-Service
-https://github.com/cds-snc
-https://ogs.ny.gov/news/new-york-state-digital-service-program-launches
-
-https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
-https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
-https://medium.com/cadotgov/introducing-the-ca-gov-alpha-team-6daff8e0b4b8 | 
-https://www.canada.ca/en/government/system/digital-government/open-source-software.html
-
-
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
-
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-Matrix- Operating Systems (Unix, Linux, etc.)
-
-GitHub
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-
-Probot
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-
-web hooks
-https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
-https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
-
-
-https://about.gitlab.com/
-https://about.gitlab.com/devops-tools/
-https://www.atlassian.com/agile/product-management/product-roadmaps
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
-
-https://en.wikipedia.org/wiki/Continuous_test-driven_development | Continuous test-driven development - Wikipedia
-https://www.gnu.org/software/make/manual/make.pdf | make.pdf
-https://en.wikipedia.org/wiki/Build_automation | Build automation - Wikipedia
-https://en.wikipedia.org/wiki/Make_(software) | Make (software) - Wikipedia
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
-
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-https://opensource.com/article/19/4/bash-vs-python
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-Dotfiles
-https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
-https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
-https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
-https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
-
-VS Code
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
 
 Linux networking tools
@@ -750,7 +645,6 @@ https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-bri
 
 https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 
-
 VC Studio Code
 https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
 https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
@@ -765,6 +659,7 @@ https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-mi
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
 -->
+
 
 
 ## Heroku
@@ -898,7 +793,7 @@ https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hit
 https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
 -->
 
-## Agile and Ops
+## Agile and DevOps
 
 Atlassian Agile
 * [Atlassian Agile](https://www.atlassian.com/agile)
@@ -926,13 +821,39 @@ Ops Schools and DevOps Bootcamps
 * [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
 * [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
 
-DevSecOps
-* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+<!--
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
 
-ChatOps
-* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
-* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
-* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+https://puppet.com/resources/whitepaper/state-of-devops-report
+
+https://devops.com
+
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+-->
+
+## Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
+
+## Site Reliability and High Performance
   
 Site Reliability Engineering
 * [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
@@ -940,13 +861,25 @@ Site Reliability Engineering
 High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
+<!--
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+## Other Interesting
+
+DevSecOps
+* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+
+ChatOps
+* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
+* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
+* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+
 Chaos Engineering
 * [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
 * [Gremlin](https://www.gremlin.com)
 * [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
-
-Incident Response
-* [PagerDuty](https://response.pagerduty.com/)
 
 <!--
 Netflix Suite
@@ -957,109 +890,99 @@ https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide f
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 -->
 
-<!--
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
 
-https://www.coursera.org/professional-certificates/google-it-automation?utm_medium=email&utm_source=marketing&utm_campaign=YFN-wDinEeqd_xFKDENJkw | Google IT Automation with Python Professional Certificate | Coursera
+<!--
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
 https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+https://about.gitlab.com/
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+https://about.gitlab.com/devops-tools/
 
 https://developer.atlassian.com
 https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+https://www.atlassian.com/agile/product-management/product-roadmaps
 
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-DevOps
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
-https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-
-https://puppet.com/resources/whitepaper/state-of-devops-report
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
 -->
 
 <!--
-https://devops.com
+OS
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
 
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md | guides/creating-an-open-source-program.md at master · todogroup/guides
 
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+
+
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+Matrix- Operating Systems (Unix, Linux, etc.)
+
+GitHub
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+
+Probot
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+
+web hooks
+https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
+https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
+
+
+
+https://en.wikipedia.org/wiki/Continuous_test-driven_development | Continuous test-driven development - Wikipedia
+https://www.gnu.org/software/make/manual/make.pdf | make.pdf
+https://en.wikipedia.org/wiki/Build_automation | Build automation - Wikipedia
+https://en.wikipedia.org/wiki/Make_(software) | Make (software) - Wikipedia
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://opensource.com/article/19/4/bash-vs-python
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+Dotfiles
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
+https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
+https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
+https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
+
+VS Code
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 -->
 
-## Jez Humble
-
-<!--
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
--->
-
-## Advanced Workflows- Collaborative Development
-
-Collaborative Development Models
-* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
-* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
-* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
-* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
-* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
-
-Pros and Cons
-* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
-
-A Successful Git Branching Model
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-
-Gitflow Considered Harmful
-* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
-* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
-* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
-* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
-
-Atlassian Workflow
-* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
-* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
-
-GitHub Flow
-* [GitHub Flow](https://help.github.com/articles/github-flow)
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
-GitLab Flow
-* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
-* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
-* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
-
-Other Company Blogs
-* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
-* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
-
-Company or Organization Specific Git Workflows
-* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
-
-<!--
-https://nvie.com/posts/a-successful-git-branching-model/
-https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
--->
 
 ## Open Source in Orgs
 
@@ -1084,15 +1007,18 @@ Google Engineering Practices
 * [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
-Google
-* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
-
 Google Open Source
 * [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
 * [Why Open Source?](https://opensource.google.com/docs/why)
 
+Uber Open Source
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+
 <!--
-Important!
+https://cs.opensource.google/
+
+2017 Open Source Survey
 https://opensourcesurvey.org/2017/
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 
@@ -1129,10 +1055,6 @@ https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
 
-Research
-https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
-https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
-
 http://google.github.io/styleguide/
 
 Bazel
@@ -1142,50 +1064,17 @@ https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelb
 https://bazel.build/ | Bazel - a fast, scalable, multi-language and extensible build system" - Bazel
 -->
 
-Google re:Work
-* [Google re:Work](https://rework.withgoogle.com/)
-* [Google re:Work Psychological Safety](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
-
 Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
   
-Facebook
-* [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook)
-
-Microsoft
-* [Microsoft/GVFS: Git Virtual File System GitHub](https://github.com/Microsoft/GVFS)
-* [Microsoft: Announcing GVFS (Git Virtual File System)](https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system)
-* [Microsoft: Scaling Git (and some back story)](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story)
-* [Microsoft: The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet)
-
-Uber
-* [Uber: Keeping Master Green at Scale](https://eng.uber.com/research/keeping-master-green-at-scale)
-
+  
 <!--
-https://todogroup.org/blog/survey-2019/
-https://twitter.com/todogroup/status/1188738278360530944
-
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
-https://developer.ibm.com/articles/cl-open-architecture-update/ | IBM’s approach to open technology – IBM Developer
-
-Facebook Open Source
-https://opensource.com/article/18/1/inside-facebooks-open-source-program | A look inside Facebook's open source program | Opensource.com
-https://code.fb.com/open-source/open-source-2018/ | Open source: 2018 Year in review - Facebook Code
-
-
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
 
-GitHub Universe
-https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
-https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
 https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
-
-Shopify Merge Queue
-https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers | Successfully Merging the Work of 1000+ Developers – Shopify Engineering
 
 GitHub Universe
 
@@ -1205,7 +1094,6 @@ https://pullpanda.com/
 https://github.com/pullreminders
 
 Data-Driven OS
-https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 https://muse.dev/reports/software-supply-chain-report-2019.pdf | software-supply-chain-report-2019.pdf
 https://www.youtube.com/watch?v=YoWkuFzEYFs | A data-driven look at practices behind exemplar open source projects - GitHub Universe 2019 - YouTube
 
@@ -1275,8 +1163,6 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 
-https://en.wikipedia.org/wiki/Software_rot
-
 
 3 methods
 https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
@@ -1290,22 +1176,9 @@ https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-
 https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
 
 https://bitergia.com/
-https://twitter.com/Bitergia | Bitergia (@Bitergia) / Twitter
-https://twitter.com/CHAOSSproj | Profile / Twitter
-https://chaoss.community/chaosscon-2020-eu/
-
-https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
-https://chaoss.github.io/grimoirelab-tutorial/ | GrimoireLab Tutorial | GrimoireLab Tutorial
-https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
-https://chaoss.community/blog-post/2019/10/08/simplifying-how-to-install-grimoirelab/ | GrimoireLab Install - CHAOSS
-
 https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
-https://speakerdeck.com/bitergia/your-organization-needs-an-ospo-or-be-ready-to-fail?slide=14 | Your organization needs an OSPO, or be ready to fail! - Speaker Deck
-https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/ | What can InnerSource learn from the CHAOSS Project? – Bitergia Software Development Analytics
-
-
-https://wiki.linuxfoundation.org/chaoss/
-https://www.linuxfoundation.org/blog/2017/09/chaoss-project-creates-tools-to-analyze-software-development-and-measure-open-source-community-health/
+https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
+https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 
 https://martinfowler.com/bliki/MaturityModel.html
 https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
@@ -1313,13 +1186,25 @@ https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
-Google Open Source Report Card
-https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
-Groupon Open Source Report Card
-https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
+Open source report card
 -->
 
 ## Gov
+
+<!--
+New
+
+https://github.com/bcgov/
+https://github.com/cagov
+https://github.com/Nova-Scotia-Digital-Service
+https://github.com/cds-snc
+https://ogs.ny.gov/news/new-york-state-digital-service-program-launches
+
+https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
+https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
+https://medium.com/cadotgov/introducing-the-ca-gov-alpha-team-6daff8e0b4b8 | 
+https://www.canada.ca/en/government/system/digital-government/open-source-software.html
+-->
 
 <!--
 sara cope- very beginner mindset
@@ -1784,6 +1669,66 @@ https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..6
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
+-->
+
+
+## Jez Humble
+
+<!--
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+-->
+
+## Advanced Workflows- Collaborative Development
+
+Collaborative Development Models
+* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
+* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
+* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
+* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
+* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
+
+Pros and Cons
+* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model (with reflection now)](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
+
+Gitflow Considered Harmful
+* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
+* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
+
+Atlassian Workflow
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
+
+GitHub Flow
+* [GitHub Flow](https://help.github.com/articles/github-flow)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+GitLab Flow
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
+* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+
+Other Company Blogs
+* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
+* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
+
+Company or Organization Specific Git Workflows
+* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
+
+<!--
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
 -->
 
 ## Philosophies
