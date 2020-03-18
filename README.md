@@ -113,6 +113,8 @@ https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
 
+https://web.dev/ | web.dev  |  web.dev
+
 Kubernetes steering committee
 https://mobile.twitter.com/spiffxp/status/1179807583864967168
 https://github.com/rust-lang/wg-governance
@@ -192,10 +194,6 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
-<!--
-https://frontendmasters.com
--->
-
 ## Competitive Programming
 
 Coding Competitions
@@ -214,6 +212,12 @@ https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Sci
 -->
 
 <!--
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
 https://traversymedia.com/
 https://www.freecodecamp.org/news/web-development-2020/
 https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
@@ -270,13 +274,6 @@ https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - 
 https://airtable.com/blocks
 https://airtable.com/templates | Templates - Airtable
 https://guide.airtable.com/
-
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
-https://web.dev/ | web.dev  |  web.dev
-
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
