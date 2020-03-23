@@ -3,13 +3,46 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
+https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
+
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+https://www.apple.com/newsroom/2020/03/new-macbook-air-has-more-to-love-and-is-now-just-999/
+
+https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
+
+https://developers.google.com/tech-writing
+
+https://twitter.com/agjhnsn/status/1222618133069885445
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+
+https://wesbos.com/courses/
+https://beginnerjavascript.com/
+https://github.com/wesbos/beginner-javascript/
+https://javascript30.com/
+https://es6.io/
+https://github.com/wesbos/es6.io
+https://reactforbeginners.com/
+https://github.com/wesbos/eslint-config-wesbos
+
+https://www.learnpython.dev/
+https://frontendmasters.com/teachers/nina-zakharenko/
+
+https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
+
+GitHub Actions
+https://twitter.com/hynek/status/1236227708746596353
+https://github.com/Azure/actions
+
+
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 Keyboard shortcuts
 https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
 https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-
-New Django Project Governance Model
 
 PyLadies Remote International Women's Month Lightning Talks
 https://ti.to/pyladies/womensmonthtalks/en
@@ -25,26 +58,39 @@ https://twitter.com/nnja/status/1238188427780083712
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 clrs algorithms
-
+Refactoring, TDD
 Trade Offs
 
 https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://en.wikipedia.org/wiki/Continuous_test-driven_development | Continuous test-driven development - Wikipedia
+https://www.gnu.org/software/make/manual/make.pdf | make.pdf
+https://en.wikipedia.org/wiki/Build_automation | Build automation - Wikipedia
+https://en.wikipedia.org/wiki/Make_(software) | Make (software) - Wikipedia
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
 
-https://martinfowler.com/articles/refactoring-2nd-changes.html
-https://refactoring.com/catalog/
-https://refactoring.guru/collapse-hierarchy
+https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
+https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
+https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
+https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://opensource.com/article/19/4/bash-vs-python
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+Dotfiles
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
+https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
+https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
+https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
+
+VS Code
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
 
-https://mherman.org/talks | Talks and Trainings
-
-https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
-
-
-https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/
-
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 
 https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
@@ -69,11 +115,6 @@ https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253
 
 https://developers.google.com/machine-learning/crash-course
 
-
-https://twitter.com/agjhnsn/status/1222618133069885445
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
 
 https://github.com/simonw/
@@ -115,52 +156,12 @@ https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | 
 
 https://web.dev/ | web.dev  |  web.dev
 
-Kubernetes steering committee
-https://mobile.twitter.com/spiffxp/status/1179807583864967168
-https://github.com/rust-lang/wg-governance
 https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
 https://www.scala-lang.org/
 https://access.redhat.com/documentation/en-us/
+
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
 https://github.blog/2020-03-16-npm-is-joining-github/
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://leanpub.com/composingsoftware | 
-
-https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium
-
-https://beginnerjavascript.com/ | Beginner JavaScript — Learn JavaScript from Scratch
-
-https://twitter.com/js_tut/status/1224057215092477952
-
-https://beginnerjavascript.com/
-https://justjavascript.com/
-https://twitter.com/dan_abramov/status/1225838339598831616
-https://twitter.com/jkup/status/1217849585219010560
-https://github.com/jgthms/javascript-in-14-minutes
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
-
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium
-
-https://realpython.com/inheritance-composition-python/
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-
-https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9 | Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade
-https://github.com/trekhleb/javascript-algorithms
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
-
-https://github.com/nodejs/changelog-maker
-https://github.com/nodejs/modules
-https://github.com/vuejs/vue-loader
-https://github.com/jsdom/jsdom
 -->
 
 ## Project-Based Learning
@@ -182,9 +183,6 @@ https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://twitter.com/SamuelHulick/status/1086771997160263680 | 🎆 🌸 Samuel Hulick 🌸 🌄 on Twitter: "If someone woke up from a coma today and said "catch me up on the biggest advancements in UX design over the last 10 years!" what would you point them to?"
-https://twitter.com/balajis/status/1086798793939464192 | Balaji S. Srinivasan on Twitter: "1) Uber: single button orchestration of complex action 2) Tinder: swipe/left right, rather than picking through profiles 3) Slack: seamless multi-client text-focused UX 4) TouchID (still better than FaceID) 5) WhatsApp-style barcode scan to link desktop app (will get more common)… https://t.co/HX9uRFyk6O"
 
 https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
 
@@ -224,6 +222,9 @@ https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development I
 https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
+
 https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
 https://www.khanacademy.org/computing/computer-programming/programming#good-practices
 
@@ -248,6 +249,14 @@ http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 -->
 
+<!--
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+-->
+
 ## Useful Tools
 
 Glitch
@@ -267,6 +276,9 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
+https://codesandbox.io/docs/ci
+https://darklang.com/
+
 AirTable
 https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
 https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
@@ -336,6 +348,11 @@ Authorities
 Refactoring Catalogs
 * [Refactoring Catalog](https://refactoring.com/catalog/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+<!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://refactoring.guru/collapse-hierarchy
+-->
 
 Checklists and Cheat Sheets
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
@@ -495,18 +512,12 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
-Dark Language
-https://twitter.com/rauchg/status/1196968841554751488 | Guillermo ▲ on Twitter: "CodeSandbox CI looks so. freaking. good https://t.co/DN3SInzwoc https://t.co/vl6EHgEWp6" / Twitter
-https://ci.codesandbox.io/status/facebook/react/pr/17398/builds/1930 | facebook/react #1930 - CodeSandbox CI
-
 Debugging
 https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
 https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
-
-https://codewith.mu/ | Code With Mu
 
 https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
 
@@ -534,6 +545,74 @@ https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-mi
 https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
 -->
 
+## Company Playbooks
+
+Handbooks
+* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
+* [Glitch Handbook](https://handbook.glitch.me/)
+* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), and [Signal V. Noise](https://m.signalvnoise.com)
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
+
+Tools and Landscapes
+* [About GitLab](https://about.gitlab.com/)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+<!--
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+Basecamp
+https://basecamp.com/books
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/ | Our Handbook is open source: here's why | GitLab
+
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
+-->
+
+## Agile and DevOps
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+Atlassian DevOps
+* [Atlassian DevOps](https://www.atlassian.com/devops)
+* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
+
+<!--
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://developer.atlassian.com
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+https://www.atlassian.com/agile/product-management/product-roadmaps
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+-->
 
 
 ## Heroku
@@ -667,21 +746,28 @@ https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hit
 https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
 -->
 
-## Agile and DevOps
+## Site Reliability and High Performance
 
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+Google Site Reliability Engineering
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+<!--
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+## More Agile and DevOps
 
 DevOps
 * [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
 
-Atlassian DevOps
-* [Atlassian DevOps](https://www.atlassian.com/devops)
-* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
-
 DevOp Tools Landscapes
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
 * [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
 
 How Companies Do DevOps
@@ -696,22 +782,6 @@ Ops Schools and DevOps Bootcamps
 * [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
 
 <!--
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
-https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-
 https://puppet.com/resources/whitepaper/state-of-devops-report
 
 https://devops.com
@@ -722,25 +792,14 @@ http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps Boot
 https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
 http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
 https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
--->
 
-## Incident Response
-* [PagerDuty](https://response.pagerduty.com/)
-
-## Site Reliability and High Performance
-  
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-<!--
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
 -->
 
 ## Other Interesting
+
+Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
 
 DevSecOps
 * [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
@@ -764,27 +823,6 @@ https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide f
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 -->
 
-
-<!--
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
-https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
-
-https://about.gitlab.com/
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-https://about.gitlab.com/devops-tools/
-
-https://developer.atlassian.com
-https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
-https://www.atlassian.com/agile/product-management/product-roadmaps
-
-Coursera DevOps Course
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
--->
 
 <!--
 OS
@@ -826,35 +864,6 @@ https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A
 web hooks
 https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
 https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
-
-
-
-https://en.wikipedia.org/wiki/Continuous_test-driven_development | Continuous test-driven development - Wikipedia
-https://www.gnu.org/software/make/manual/make.pdf | make.pdf
-https://en.wikipedia.org/wiki/Build_automation | Build automation - Wikipedia
-https://en.wikipedia.org/wiki/Make_(software) | Make (software) - Wikipedia
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
-
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-https://opensource.com/article/19/4/bash-vs-python
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-Dotfiles
-https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
-https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
-https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
-https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
-
-VS Code
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 -->
 
 
@@ -873,7 +882,6 @@ GitHub Guides
 
 Google Open Source Docs
 * [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
 
 Google Engineering Practices
 * [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
@@ -888,6 +896,7 @@ Google Open Source
 Uber Open Source
 * [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
 * [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+
 
 <!--
 https://cs.opensource.google/
@@ -947,45 +956,6 @@ Google Developers- Code
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
-
-https://medium.com/airbnb-engineering/maintaining-quality-at-scale-a3b0ffa03ef9 | Maintaining Quality at Scale - Airbnb Engineering & Data Science - Medium
-
-GitHub Universe
-
-Advanced GitHub Actions
-https://www.youtube.com/watch?v=0ahRkhrOePo
-Actions packaged
-https://www.youtube.com/watch?v=5bvafq4zSUo
-
-https://www.youtube.com/watch?v=BctzNj1RcPU | Changing work culture through documentation - GitHub Universe 2019 - YouTube
-
-GitHub Universe- Talks
-https://www.slideshare.net/realgenekim/github-universe-2019-exemplars-laggards-and-hoarders-a-datadriven-look-at-open-source-software-supply-chains | GitHub Universe: 2019: Exemplars, Laggards, and Hoarders A Data-drive…
-
-https://www.youtube.com/watch?v=cRJZldsHS3c | The elusive quest to measure developer productivity - GitHub Universe 2019 - YouTube
-
-https://pullpanda.com/
-https://github.com/pullreminders
-
-Data-Driven OS
-https://muse.dev/reports/software-supply-chain-report-2019.pdf | software-supply-chain-report-2019.pdf
-https://www.youtube.com/watch?v=YoWkuFzEYFs | A data-driven look at practices behind exemplar open source projects - GitHub Universe 2019 - YouTube
-
-https://www.amazon.com/gp/product/B078Y98RG8/ref=as_li_tl?ie=UTF8&tag=itrevpre-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078Y98RG8&linkId=deec657dd0b2215d33db7c148a712446 | Amazon.com: The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win eBook: Gene Kim, Kevin Behr, George Spafford: Kindle Store
-
-https://www.amazon.com/Gene-Kim/e/B00AERCJ9E/ref=dp_byline_cont_ebooks_3 | https://www.amazon.com/Gene-Kim/e/B00AERCJ9E/ref=dp_byline_cont_ebooks_3
-https://www.sonatype.com/en-us/2019ssc | State of Software Supply Chain 2019 Report | Download
-https://www.google.com/search?q=state+of+devops+report&oq=state+of+devops+report&aqs=chrome.0.0l8.4204j0j7&sourceid=chrome&ie=UTF-8 | state of devops report - Google Search
-https://www.google.com/search?q=state+of+dev+ops+stephen+magill&oq=state+of+dev+ops+stephen+magill&aqs=chrome..69i57.3099j0j7&sourceid=chrome&ie=UTF-8 | state of dev ops stephen magill - Google Search
-https://www.google.com/search?q=Stephen+Walli+in+his+blog+post+on+open+source+motivations&oq=Stephen+Walli+in+his+blog+post+on+open+source+motivations&aqs=chrome..69i57.210j0j7&sourceid=chrome&ie=UTF-8 | Stephen Walli in his blog post on open source motivations - Google Search
-
-https://githubuniverse.com/schedule/#exemplars-laggards-and-the-cautious-crew-58-a-data-driven-look-at-practices-behind-exemplar-open-source-projects | GitHub Universe 2019 Schedule | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
-
-Zeit
-https://www.youtube.com/watch?v=KlO5Ksk7baQ | Building and deploying modern websites and apps - GitHub Universe 2019 - YouTube
-https://www.youtube.com/watch?time_continue=199&v=KlO5Ksk7baQ&feature=emb_logo | Building and deploying modern websites and apps - GitHub Universe 2019 - YouTube
-
-https://eng.lyft.com/sensor-data-in-localization-wi-fi-329ea84db959 | Sensor Data in Locations: Wi-Fi - Lyft Engineering
 -->
 
 <!--
