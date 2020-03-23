@@ -27,6 +27,10 @@ Postman
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 
+https://mherman.org/talks | Talks and Trainings
+
+https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+
 https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
 https://developers.google.com/identity/protocols/OAuth2
 https://en.wikipedia.org/wiki/Basic_access_authentication
