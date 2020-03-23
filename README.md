@@ -28,6 +28,9 @@ https://github.com/wesbos/es6.io
 https://reactforbeginners.com/
 https://github.com/wesbos/eslint-config-wesbos
 
+https://justjavascript.com/
+https://twitter.com/dan_abramov/status/1225838339598831616
+
 https://www.learnpython.dev/
 https://frontendmasters.com/teachers/nina-zakharenko/
 
@@ -36,6 +39,21 @@ https://medium.com/product-experimentation/optimizelys-product-manager-leveling-
 GitHub Actions
 https://twitter.com/hynek/status/1236227708746596353
 https://github.com/Azure/actions
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
 
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
@@ -162,6 +180,24 @@ https://access.redhat.com/documentation/en-us/
 
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
 https://github.blog/2020-03-16-npm-is-joining-github/
+
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://twitter.com/jkup/status/1217849585219010560
+https://github.com/jgthms/javascript-in-14-minutes
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
+
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://github.com/jsdom/jsdom
 -->
 
 ## Project-Based Learning
@@ -825,31 +861,9 @@ https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 
 
 <!--
-OS
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md | guides/creating-an-open-source-program.md at master · todogroup/guides
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
-
 https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
 
 https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
-
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
 Matrix- Operating Systems (Unix, Linux, etc.)
 
@@ -899,6 +913,12 @@ Uber Open Source
 
 
 <!--
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md | guides/creating-an-open-source-program.md at master · todogroup/guides
+
 https://cs.opensource.google/
 
 2017 Open Source Survey
@@ -1033,96 +1053,6 @@ https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organiz
 Open source report card
 -->
 
-## Gov
-
-<!--
-New
-
-https://github.com/bcgov/
-https://github.com/cagov
-https://github.com/Nova-Scotia-Digital-Service
-https://github.com/cds-snc
-https://ogs.ny.gov/news/new-york-state-digital-service-program-launches
-
-https://twitter.com/mauviles/status/1200554468825354241 | Mauricio Aviles on Twitter: "@johncutlefish What’s the reference literature for Service Design out there?" / Twitter
-https://medium.com/digital-services-nova-scotia/a-digital-service-for-nova-scotia-6e61c45e1f2e | A digital service for Nova Scotia - Nova Scotia Digital Service - Medium
-https://medium.com/cadotgov/introducing-the-ca-gov-alpha-team-6daff8e0b4b8 | 
-https://www.canada.ca/en/government/system/digital-government/open-source-software.html
--->
-
-<!--
-sara cope- very beginner mindset
-https://githubuniverse.com/schedule/#shaping-the-contributor-experience
-https://github.com/saracope/shaping-the-contributor-experience
-https://github.com/saracope/boilerplate-repo
-
-code.gov issue pr templates - Google Search
-create issue and template prs in repo settings - Google Search
-department of veterans affairs product lines - Google Search
-
-https://github.com/18F/development-guide
-https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
-https://github.com/18F/transformation-research
--->
-
-U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.
-* [C.I.O. Playbook GitHub](https://github.com/whitehouse/playbook) 
-
-U.S. Gov.- Presidential Innovation Fellows
-* [Presidential Innovation Fellows Microsite Template *with flair* GitHub](https://github.com/presidential-innovation-fellows/microsite-template-18f/blob/gh-pages/index.html)
-
-U.S. Gov- 18F
-* [18F Pages GitHub](https://github.com/18F/pages)
-* [18F Frontend GitHub](https://github.com/18F/frontend)
-* [18F Guides Template GitHub](https://github.com/18F/guides-template)
-
-U.S. Gov- Code for America
-* [Code for America GitHub](https://github.com/codeforamerica/codeforamerica.org)
-
-U.S. Gov- Consumer Financial Protection Bureau
-* [Consumer Financial Protection Bureau GitHub](https://github.com/cfpb/cfpb.github.io)
-* [Consumer Financial Protection Bureau Design Manual GitHub](https://github.com/cfpb/design-manual)
-* [Consumer Financial Protection Bureau Jekyll Documentation Template (DOCter) GitHub](https://github.com/cfpb/DOCter)
-
-U.S. Gov- Department of Veterans Affairs
-* [Department of Veterans Affairs GitHub](https://github.com/department-of-veterans-affairs/dsva)
-
-U.K. Gov.
-* [U.K. Gov Template](https://github.com/alphagov/govuk_template) 
-* [U.K. Gov Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
-* [U.K. Government Service Design Manual Website Code GitHub](https://github.com/alphagov/government-service-design-manual)
-
-
-## OS and Software Offices, Foundations, and Practices by Company
-
-<!--
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: GitHub Pull Requests for Visual Studio Code
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-https://github.com/adobe/open-development-template
-
-https://content-guide.18f.gov/inclusive-language/ | 18F Content Guide - Inclusive language
-
-https://github.com/18F | 18F
-https://github.com/18F/technology-budgeting | 18F/technology-budgeting: 10x project to pilot a process to educate state stakeholders about alternatives to legacy software development practices.
-https://github.com/18F/development-guide | 18F/development-guide: A set of guidelines and best practices for an awesome engineering team
-https://github.com/18F/eng-hiring | 18F/eng-hiring: 18F Engineering's guide to candidate selection, from resume screen to offer.
-https://github.com/18F/ux-guide | 18F/ux-guide: Resources, norms, and practices for doing user experience research and design work at 18F.
-
-https://github.com/uswds/uswds | uswds/uswds: The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-
-https://github.com/department-of-veterans-affairs/va-digital-service-handbook | department-of-veterans-affairs/a-digital-service-handbook: Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
-
-https://twitter.com/skimbrel/status/1190734445952659456
-
-(Case studies versus documentation)
--->
 
 ## Hosting and GitHub
 
