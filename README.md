@@ -10,8 +10,6 @@ https://help.github.com/en/github/managing-files-in-a-repository/navigating-code
 
 https://www.apple.com/newsroom/2020/03/new-macbook-air-has-more-to-love-and-is-now-just-999/
 
-https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
-
 https://developers.google.com/tech-writing
 
 https://twitter.com/agjhnsn/status/1222618133069885445
@@ -627,6 +625,8 @@ Atlassian DevOps
 * [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
 
 <!--
+https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
+
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
 
 https://developer.atlassian.com
@@ -643,6 +643,7 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 
 https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
 
+DevOps
 https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
 https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
 https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
@@ -798,89 +799,6 @@ https://github.com/dastergon/awesome-sre
 https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 -->
 
-## More Agile and DevOps
-
-DevOps
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-
-DevOp Tools Landscapes
-* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
-
-How Companies Do DevOps
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-Ops Schools and DevOps Bootcamps
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-<!--
-https://puppet.com/resources/whitepaper/state-of-devops-report
-
-https://devops.com
-
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
-
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
--->
-
-## Other Interesting
-
-Incident Response
-* [PagerDuty](https://response.pagerduty.com/)
-
-DevSecOps
-* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
-
-ChatOps
-* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
-* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
-* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-
-Chaos Engineering
-* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
-* [Gremlin](https://www.gremlin.com)
-* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
-
-<!--
-Netflix Suite
-Lynn Root's talks
-
-https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
-https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
--->
-
-
-<!--
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
-
-Matrix- Operating Systems (Unix, Linux, etc.)
-
-GitHub
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-
-Probot
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-
-web hooks
-https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
-https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
--->
-
-
 ## Open Source in Orgs
 
 TODO
@@ -918,8 +836,6 @@ https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitte
 https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
 
 https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md | guides/creating-an-open-source-program.md at master · todogroup/guides
-
-https://cs.opensource.google/
 
 2017 Open Source Survey
 https://opensourcesurvey.org/2017/
@@ -971,18 +887,10 @@ Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
   
-  
 <!--
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
--->
-
-<!--
-https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414
-https://www.facebook.com/notes/kent-beck/fresh-work-80155/1186004658099063
-
-https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 -->
 
 ## Open Source and Assessment
@@ -1051,6 +959,27 @@ http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | 
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
 Open source report card
+-->
+
+
+<!--
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+
+Matrix- Operating Systems (Unix, Linux, etc.)
+
+GitHub
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+
+Probot
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+
+web hooks
+https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
+https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
 -->
 
 
@@ -1445,6 +1374,68 @@ https://github.com/github/hubot
 https://hubot.github.com/
 -->
 
+## Other Interesting
+
+Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
+
+DevSecOps
+* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+
+ChatOps
+* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
+* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
+* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+
+Chaos Engineering
+* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
+* [Gremlin](https://www.gremlin.com)
+* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
+
+<!--
+https://hubot.github.com/
+
+Netflix Suite
+Lynn Root's talks
+
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+-->
+
+## More Agile and DevOps
+
+DevOps
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+
+DevOp Tools Landscapes
+* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
+
+How Companies Do DevOps
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+Ops Schools and DevOps Bootcamps
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+<!--
+https://puppet.com/resources/whitepaper/state-of-devops-report
+
+https://devops.com
+
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+-->
 
 ## Jez Humble
 
