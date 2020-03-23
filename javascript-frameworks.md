@@ -3,11 +3,11 @@
 ## Mainstream JavaScript Frameworks
 
 Stacks
+* [Jamstack](https://jamstack.org/)
 * [MEAN Stack Wikipedia](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
+* MERN Stack
 
 <!--
-JAMstack
-https://jamstack.org/
 https://github.com/hammerframework/hammer
 https://twitter.com/mojombo/status/1156561637450457089
 MEAN and MERN stacks
