@@ -3,8 +3,29 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
-https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
+https://www.scala-lang.org/
+
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+https://access.redhat.com/documentation/en-us/
+
+CHAOSS
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+PyLadies Remote International Women's Month Lightning Talks
+https://ti.to/pyladies/womensmonthtalks/en
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+
+Women and NB on Twitch
+https://twitter.com/nnja/status/1238188427780083712
+
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
+
+Keyboard shortcuts
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
 
 https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
 
@@ -32,11 +53,25 @@ https://twitter.com/dan_abramov/status/1225838339598831616
 https://www.learnpython.dev/
 https://frontendmasters.com/teachers/nina-zakharenko/
 
-https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
-
 GitHub Actions
 https://twitter.com/hynek/status/1236227708746596353
 https://github.com/Azure/actions
+
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
+
+Links change log lines to PRs
+
+Types of changes
+Added for new features.
+Changed for changes in existing functionality.
+Deprecated for soon-to-be removed features.
+Removed for now removed features.
+Fixed for any bug fixes.
+Security in case of vulnerabilities.
 
 Roadmap example
 https://github.com/aws/elastic-beanstalk-roadmap/projects/1
@@ -47,31 +82,6 @@ https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — 
 https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
 https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
 https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-
-
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
-
-Keyboard shortcuts
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-
-PyLadies Remote International Women's Month Lightning Talks
-https://ti.to/pyladies/womensmonthtalks/en
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-
-CHAOSS
-
-Women and NB on Twitch
-https://twitter.com/nnja/status/1238188427780083712
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 clrs algorithms
 Refactoring, TDD
@@ -107,39 +117,20 @@ https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
 
-
-https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
-
-Links change log lines to PRs
-
-Types of changes
-Added for new features.
-Changed for changes in existing functionality.
-Deprecated for soon-to-be removed features.
-Removed for now removed features.
-Fixed for any bug fixes.
-Security in case of vulnerabilities.
-
-
 https://github.com/lorin/systems-thinking
-
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
-https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 
 https://developers.google.com/machine-learning/crash-course
 
+https://web.dev/ | web.dev  |  web.dev
+
+https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 
 
-https://github.com/simonw/
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
-https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
-
-https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
-https://jacobian.org/2020/feb/18/innovation-execution/
-
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
 
 Linux networking tools
 https://twitter.com/b0rk/status/1204839971913379840
@@ -156,7 +147,6 @@ https://twitter.com/Fox0x01/status/1238636233649250304
 https://twitter.com/Fox0x01/status/1238636236962779136
 https://github.com/gwen001/pentest-tools
 
-
 Database
 https://en.wikipedia.org/wiki/Federated_database_system
 delegated database
@@ -164,38 +154,12 @@ Google Spanner versus Calvin Protocol - Google Search
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+https://github.com/simonw/
 
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
 
-
-https://web.dev/ | web.dev  |  web.dev
-
-https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
-https://www.scala-lang.org/
-https://access.redhat.com/documentation/en-us/
-
-https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
-https://github.blog/2020-03-16-npm-is-joining-github/
-
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://twitter.com/js_tut/status/1224057215092477952
-
-https://twitter.com/jkup/status/1217849585219010560
-https://github.com/jgthms/javascript-in-14-minutes
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
-https://github.com/sohamkamani/javascript-design-patterns-for-humans#behavioral-design-patterns
-
-https://github.com/trekhleb/javascript-algorithms
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-https://github.com/jsdom/jsdom
+https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
+https://jacobian.org/2020/feb/18/innovation-execution/
 -->
 
 ## Project-Based Learning
@@ -213,8 +177,6 @@ App Ideas
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
 https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
