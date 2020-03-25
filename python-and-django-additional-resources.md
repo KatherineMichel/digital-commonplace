@@ -96,6 +96,10 @@ https://github.com/pablogsal?tab=following
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 
+https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
+http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
+http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
+
 Brandon Rhodes
 https://www.youtube.com/watch?v=fYlnfvKVDoM
 
@@ -136,8 +140,6 @@ A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpre
 https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
-
-https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
 
 Michael
 https://mherman.org/talks | Talks and Trainings
