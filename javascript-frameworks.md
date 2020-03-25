@@ -20,6 +20,11 @@ Comparison
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
+<!--
+https://github.com/nodejs/changelog-maker	
+https://github.com/nodejs/modules	
+-->
+
 Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
@@ -68,6 +73,7 @@ https://scrimba.com/playlist/pXKqta | Vue.js Tutorials From The Official Vue Doc
 https://www.tutorialspoint.com/vuejs/vuejs_instances.htm | VueJS Instances
 https://vuejs.org/v2/guide/instance.html
 https://vuejs.org/v2/examples/
+https://github.com/vuejs/vue-loader	
 https://cli.vuejs.org/
 https://vuex.vuejs.org/
 https://github.com/vuejs/vuepress | vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator
@@ -155,6 +161,10 @@ Expo
 Compiling/Transpiling
 * [TypeScript](https://www.typescriptlang.org), [TypeScript Playground](http://www.typescriptlang.org/play), [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript), and [TypeScript Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
+
+<!--
+https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium	
+-->
 
 Elm
 * [Elm](https://elm-lang.org/)
