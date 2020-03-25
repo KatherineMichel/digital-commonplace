@@ -350,6 +350,7 @@ Philip Guo
 <!--
 http://pythontutor.com/live.html#mode=edit
 Video 5, 13:25 Recap
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 -->
 
 
