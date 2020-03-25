@@ -78,6 +78,8 @@ https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on 
 
 People
 
+https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
+
 Armin
 https://lucumr.pocoo.org
 
@@ -135,7 +137,10 @@ https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
 
+https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
+
 Michael
+https://mherman.org/talks | Talks and Trainings
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
 https://mherman.org/about | About Me
 https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
