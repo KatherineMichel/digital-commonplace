@@ -1,5 +1,27 @@
 # JavaScript Notes
 
+<!--
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+
+https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
+https://github.blog/2020-03-16-npm-is-joining-github/
+
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://twitter.com/jkup/status/1217849585219010560
+https://github.com/jgthms/javascript-in-14-minutes
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://github.com/jsdom/jsdom
+-->
+
 ## JavaScript People
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
