@@ -3,14 +3,22 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://www.scala-lang.org/
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
 
-https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
-https://access.redhat.com/documentation/en-us/
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
+
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+
+https://www.scala-lang.org/
 
 CHAOSS
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://github.com/tiangolo/fastapi
 
 PyLadies Remote International Women's Month Lightning Talks
 https://ti.to/pyladies/womensmonthtalks/en
@@ -116,6 +124,8 @@ VS Code
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
 
+https://github.com/ohmyzsh/ohmyzsh | ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
 
 https://github.com/lorin/systems-thinking
 
@@ -125,22 +135,15 @@ https://developers.google.com/machine-learning/crash-course
 
 https://web.dev/ | web.dev  |  web.dev
 
+https://access.redhat.com/documentation/en-us/
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+
 
 
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
-https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
-
-Linux networking tools
-https://twitter.com/b0rk/status/1204839971913379840
-
-https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
-https://linux-kernel-labs.github.io/refs/heads/master/index.html
-
-https://clang.llvm.org/ | Clang C Language Family Frontend for LLVM
-https://clang.llvm.org/comparison.html
 https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+
 
 Social Distancing Survival Guide
 https://twitter.com/Fox0x01/status/1238636233649250304
