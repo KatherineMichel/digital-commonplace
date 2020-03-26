@@ -32,12 +32,6 @@ https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-pyth
 -->
 
 <!--
-Order Alpha
-https://twitter.com/pydanny/status/1226937149485768704
-
-Important!
-https://twitter.com/anthonypjshaw/status/1200387635555921920 | Anthony Shaw 🐍 on Twitter: "Spent 2 hours trying to debug failing tests only to realise it was testing an old version of the package. Always run “python -m pytest” not “pytest” 😫. Now that flit supports src I might move it over to avoid making the same silly mistake" / Twitter
-
 https://installpython3.com/
 
 https://realpython.com/installing-python/
@@ -47,30 +41,12 @@ https://github.com/pypa/pipenv/issues/2482
 https://realpython.com/python-continuous-integration/
 https://realpython.com/courses/running-python-scripts/
 
-https://blog.ganssle.io/articles/2019/08/test-as-installed.html
-
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
 
 
 cross linter - Google Search
 
-https://github.com/tiangolo/fastapi
-
-https://github.com/encode/broadcaster | encode/broadcaster: Broadcast channels for async web apps. 📢
-
-Docs
-https://docutils.sourceforge.io/rst.html | reStructuredText
-https://pandoc.org/ | Pandoc - About pandoc
-
-https://en.wikipedia.org/wiki/Data-driven_testing | Data-driven testing - Wikipedia
-
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-
 CLI
 https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-
-https://github.com/ohmyzsh/ohmyzsh | ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 
 Radix
@@ -191,6 +167,8 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 ## Python Profiling
 
 <!--
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
 Python Profiling 
 
 Third Party Testing and Profiling
@@ -468,6 +446,10 @@ Other Types of Testing
 * [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
 * [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
+<!--
+https://en.wikipedia.org/wiki/Data-driven_testing | Data-driven testing - Wikipedia
+-->
+
 ## Django Testing
 
 Django Testing- Official
@@ -681,8 +663,6 @@ https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Test
 <!--
 ## Talks
 
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
-
 OS
 
 Contributing- Important
@@ -788,16 +768,26 @@ http://calver.org/
 
 <!--
 Tools Release
-https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
-https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
-https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
 https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
 https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
 
-https://twitter.com/PalletsTeam
+PyTest
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
+PyPy
+https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+-->
+
+## Great Release Managers
+
+<!--
+People and Projects
 
 Includes issues links
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+https://www.encode.io/projects/
+
+https://twitter.com/PalletsTeam
 
 https://github.com/orgs/pytest-dev/people
 https://github.com/orgs/pypa/people
@@ -805,24 +795,6 @@ https://github.com/orgs/python/people
 https://github.com/orgs/tox-dev/people
 https://github.com/orgs/pre-commit/people
 https://github.com/python/cpython/graphs/contributors
-
-https://www.encode.io/projects/
-
-Encode Typesystem
-https://twitter.com/webology/status/1227286423109279744
-
-https://www.encode.io/reports/july-2019/ | Encode
-http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
-https://discuss.encode.io/ | Encode
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
--->
-
-## Great Release Managers
-
-<!--
-https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
-https://twitter.com/anthonypjshaw/status/1218730494637953024
 -->
 
 ### General Talks
@@ -870,6 +842,11 @@ https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Dep
 -->
 
 ### Paul Ganssle
+
+<!--
+https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
+https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
+-->
 
 ### Anthony Sottile
 
@@ -1052,7 +1029,6 @@ https://github.com/pypa/sampleproject/blob/master/setup.cfg
 https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-https://hynek.me/articles/conditional-python-dependencies/ | Conditional Python Dependencies · Homepage of Hynek Schlawack
 -->
 
 <!--
@@ -1064,6 +1040,9 @@ https://twitter.com/gvanrossum/status/1227126706089021440
 https://twitter.com/mariatta/status/1227286873413799936
 https://twitter.com/jonasrk/status/1227028183469449216
 https://twitter.com/WillingCarol/status/1227331652046770176
+
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 -->
 
 ## Eldarion
@@ -1152,9 +1131,6 @@ https://pypi.org/project/flake8-black/ | flake8-black · PyPI
 -->
 
 <!--
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
-
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
