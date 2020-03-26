@@ -78,12 +78,24 @@ https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on 
 
 People
 
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://treyhunner.com/2020/01/passing-functions-as-arguments/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
+
 https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
 
 Armin
 https://lucumr.pocoo.org
 
 Anthony Shaw
+https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
+https://twitter.com/anthonypjshaw/status/1218730494637953024
 https://twitter.com/anthonypjshaw
 https://github.com/tonybaloney/
 https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
@@ -108,26 +120,6 @@ https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
 
 https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
 https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
-
-http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html | Traps for the Unwary in Python’s Import System — Nick Coghlan's Python Notes 1.0 documentation
-http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html | Efficiently Exploiting Multiple Cores with Python — Nick Coghlan's Python Notes 1.0 documentation
-
-https://twitter.com/hynek/status/1228299479528374272 | Hynek Schlawack on Twitter: "About Python Package Metadata: https://t.co/LbTn8LMKmH" / Twitter
-https://twitter.com/hynek/status/1231524138357067776 | Hynek Schlawack on Twitter: "Here’s the new canonical home for my post on the current state of Python packaging metadata: https://t.co/zwdtWs2v0H I’ll rewrite the prod one later to have a better flow instead of an update that is longer than the original article. The old URLs will link to the new ones." / Twitter
-
-https://hynek.me/articles/python-in-production/ | Python in Production · Homepage of Hynek Schlawack
-https://hynek.micro.blog/2020/02/22/python-in-production.html | Python in Production · Hynek’s Brief Thoughts
-
-https://nedbatchelder.com/blog/202003/functional_strategies_in_python.html
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
 
 Good Print, hello debugger, DjangoCon
 https://twitter.com/nnja/status/1217933709577342976
