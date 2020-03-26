@@ -1,60 +1,17 @@
 # Computer Architecture, Web, Request/Response, Async
 
 <!--
-https://en.wikipedia.org/wiki/5G
-https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
+https://github.com/remy/nodemon#nodemon
+https://docs.npmjs.com/files/package.json
+https://jestjs.io/
+https://github.com/nock/nock
 
-https://en.wikipedia.org/wiki/HTTP/3
-https://en.wikipedia.org/wiki/HTTP/2
-https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
+HTTP
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
 
-https://chmodcommand.com
-https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 
-www.json.org
-http://json-schema.org/ | JSON Schema | The home of JSON Schema
-https://jwt.io/ | JSON Web Tokens - jwt.io
-
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
-API
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
-
-https://mherman.org/talks | Talks and Trainings
-
-https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
-
-https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
-https://developers.google.com/identity/protocols/OAuth2
-https://en.wikipedia.org/wiki/Basic_access_authentication
-https://en.wikipedia.org/wiki/OAuth
-https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
-https://en.wikipedia.org/wiki/OpenID
-https://en.wikipedia.org/wiki/OpenID_Connect
-https://openid.net/ | OpenID Foundation website
-https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
-
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
-Social Auth
-https://oauth.net/2/ | OAuth 2.0 — OAuth
-https://oauth.net/ | OAuth Community Site
-https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
-https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
-https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
-https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
-https://twofactorauth.org/ | 502 Bad Gateway
-https://twofactorauth.org/#banking | Two Factor Auth List
-
-Google Auth
-https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
 
 https://grpc.io/
 https://grpc.io/docs/guides/
@@ -80,93 +37,28 @@ https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
 https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-
-requests library
 
 http://restcookbook.com/Miscellaneous/rest-and-http/
--->
-
-<!--
-https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
-https://www.tutorialspoint.com/html5/html5_websocket.htm
-
-https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
-https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
--->
-
-## Async- Other Languages
-
-Rust
-* [Rust](https://www.rust-lang.org/)
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-
-Rust Async
-* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
-
-<!--
-https://github.com/remy/nodemon#nodemon
-https://docs.npmjs.com/files/package.json
-https://jestjs.io/
-https://github.com/nock/nock
 
 HTTP
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
 
-https://github.com/tc39/proposal-top-level-await
-https://v8.dev/features/top-level-await | Top-level await · V8
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
-https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
-https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
-https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
-https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+https://chmodcommand.com
+https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 
-https://www.quora.com/Which-programming-languages-are-asynchronous
-JavaScript
-Promises
-EcmaScript 2017- async and await keyword
-setTimeout, setInterval, and setImmediate (Node.js only) 
-https://nodejs.org/api/timers.html
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
-https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
-https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
-
-Node.js
-Event-driven, asynchronous IO
-https://www.tutorialspoint.com/nodejs/nodejs_event_loop
-https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+www.json.org
+http://json-schema.org/ | JSON Schema | The home of JSON Schema
+https://jwt.io/ | JSON Web Tokens - jwt.io
 -->
 
-Performance
-* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
-* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
-* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
-
-Throttling and Rate Limiting
-* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
-* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
-* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+## How Do It Work
 
 <!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
-
 https://en.wikipedia.org/wiki/CPU_cache
 https://en.wikipedia.org/wiki/Cache_(computing)
 
@@ -182,53 +74,7 @@ https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simula
 https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
 https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
 
-https://en.wikipedia.org/wiki/Intel
-https://en.wikipedia.org/wiki/Advanced_Micro_Devices
-
 https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
--->
-
-## Database Architectures and Principles
-
-CAP Theorem
-* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
-* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
-
-Database Principles
-* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
-* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
-* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
-* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
-<!--
-AP, CP or CA Databases
-
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/Atomic_commit
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
-
-OOP
-https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
-
-System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
-
-https://github.com/automerge/automerge | automerge/automerge: A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-https://twitter.com/balajis/status/1147011512759795712 | Balaji S. Srinivasan on Twitter: "Their JS library is called automerge. It allows multiple editors of local files to make independent changes & automatically sync. But it's based on CRDT (conflict-free replicated data types) rather than the operational transformation used in Google Docs. https://t.co/i0Dv5Yr60a"
-https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type | Conflict-free replicated data type - Wikipedia
-https://en.wikipedia.org/wiki/Operational_transformation | Operational transformation - Wikipedia
 -->
 
 ## Architecture- Important Concepts
@@ -271,6 +117,9 @@ Unix File System
 * [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
+https://en.wikipedia.org/wiki/Intel
+https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+
 https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
 
 https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
@@ -281,6 +130,12 @@ Linux
 * [Linux GitHub](https://github.com/torvalds/linux)
 
 <!--
+Linux networking tools
+https://twitter.com/b0rk/status/1204839971913379840
+
+https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
 https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
 https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
 http://pages.cs.wisc.edu/~remzi/OSTEP/
@@ -320,6 +175,8 @@ Compiler
 * [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
+https://clang.llvm.org/comparison.html
+
 Apple
 https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
 https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
@@ -341,6 +198,68 @@ https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & Dev
 
 https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
 https://elixir-lang.org/ | Elixir
+-->
+
+## Database Architectures and Principles
+
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+
+Database Principles
+* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
+* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
+* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+<!--
+AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+-->
+
+## Benchmarking
+
+Performance
+* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
+* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+
+Throttling and Rate Limiting
+* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
+* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
+* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 -->
 
 ## Protocols
@@ -454,6 +373,91 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
 -->
 
+## API
+
+<!--
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+API
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
+-->
+
+## Networks
+
+<!--
+https://en.wikipedia.org/wiki/5G
+https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
+-->
+
+## Auth
+
+<!--
+https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+
+https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
+https://developers.google.com/identity/protocols/OAuth2
+https://en.wikipedia.org/wiki/Basic_access_authentication
+https://en.wikipedia.org/wiki/OAuth
+https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
+https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/OpenID_Connect
+https://openid.net/ | OpenID Foundation website
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
+Social Auth
+https://oauth.net/2/ | OAuth 2.0 — OAuth
+https://oauth.net/ | OAuth Community Site
+https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
+https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
+https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
+https://twofactorauth.org/ | 502 Bad Gateway
+https://twofactorauth.org/#banking | Two Factor Auth List
+
+Google Auth
+https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
+-->
+
+## Async- Other Languages
+
+Rust Async
+* [Rust async-await Hits Beta](https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html)
+
+<!--
+https://github.com/tc39/proposal-top-level-await
+https://v8.dev/features/top-level-await | Top-level await · V8
+
+https://en.wikipedia.org/wiki/Node.js#Threading | Node.js - Wikipedia
+https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/
+https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/
+https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/
+https://nodejs.org/api/worker_threads.html | Worker Threads | Node.js v12.4.0 Documentation
+
+https://www.quora.com/Which-programming-languages-are-asynchronous
+JavaScript
+Promises
+EcmaScript 2017- async and await keyword
+setTimeout, setInterval, and setImmediate (Node.js only) 
+https://nodejs.org/api/timers.html
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
+https://developer.mozilla.org/en-US/docs/Web/API/Window/setImmediate
+
+Node.js
+Event-driven, asynchronous IO
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop
+https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+-->
+
 ## Sync and Async
 
 Runtime System, Execution, Thread, Process
@@ -502,6 +506,8 @@ Benefits
 * [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
 
 <!--
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
 See Tom's Talk
 Real time
 non-blocking http requests
@@ -514,6 +520,20 @@ Also, Ajax Polling explained
 
 polling versus webhooks
 https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+-->
+
+<!--
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+Websockets
+https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
+https://www.tutorialspoint.com/html5/html5_websocket.htm
+
+Concurrency
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
+https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 -->
 
 ## Request and Response Cycle, HTTP
@@ -535,7 +555,7 @@ Request and Response Cycle- HTTP
 * [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
 
 Sessions
-* [Web Browing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
+* [Web Browsing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
 * [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
 * [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
 
