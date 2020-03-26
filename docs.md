@@ -1,5 +1,9 @@
 <!--
-Docs
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+
+https://docutils.sourceforge.io/rst.html | reStructuredText
+https://pandoc.org/ | Pandoc - About pandoc
+
 https://realpython.com/lessons/python-project-documentation-overview/ | Python Project Documentation Overview – Real Python
 https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/ | Documenting Python Projects With Sphinx and Read The Docs – Real Python
