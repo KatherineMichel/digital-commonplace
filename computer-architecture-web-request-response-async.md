@@ -1,18 +1,6 @@
 # Computer Architecture, Web, Request/Response, Async
 
 <!--
-https://github.com/remy/nodemon#nodemon
-https://docs.npmjs.com/files/package.json
-https://jestjs.io/
-https://github.com/nock/nock
-
-HTTP
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-
-
 https://access.redhat.com/documentation/en-us/
 
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
