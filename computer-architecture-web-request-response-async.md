@@ -13,6 +13,11 @@ https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 
 
+https://access.redhat.com/documentation/en-us/
+
+https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+
 https://grpc.io/
 https://grpc.io/docs/guides/
 https://developers.google.com/protocol-buffers/docs/overview
@@ -223,6 +228,10 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 <!--
+https://en.wikipedia.org/wiki/Federated_database_system
+delegated database
+Google Spanner versus Calvin Protocol - Google Search
+
 AP, CP or CA Databases
 
 https://en.wikipedia.org/wiki/Distributed_transaction
