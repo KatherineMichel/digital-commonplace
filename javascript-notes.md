@@ -5,6 +5,20 @@ Go and JS
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
 https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
 
+https://github.com/remy/nodemon#nodemon
+https://docs.npmjs.com/files/package.json
+https://jestjs.io/
+https://github.com/nock/nock
+
+HTTP
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+
+https://github.com/jsdom/jsdom
+
+
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
@@ -22,8 +36,6 @@ https://github.com/trekhleb/javascript-algorithms
 https://github.com/palashmon/awesome-js-posts
 https://github.com/andyttran/guide_to_algorithms
 https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-https://github.com/jsdom/jsdom
 -->
 
 ## JavaScript People
@@ -194,67 +206,63 @@ map()
 filter()
 -->
 
-## Google Chrome Dev Tools
+## JavaScript- Styleguide and Linting
 
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+JavaScript Styleguides
+* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
 
 <!--
-https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
-
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
-https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+https://google.github.io/styleguide/javascriptguide.xml
 -->
 
-## JavaScript Performance
-
-Lighthouse
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
-* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-
-Rendering
-* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
-* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
-* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
-Offline
-* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
-
-Measure
-* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
-
-Semantics/SEO/Accessibility
-* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+<!--
+https://en.wikipedia.org/wiki/Preset | Preset - Wikipedia
+https://en.wikipedia.org/wiki/Polyfill_(programming) | Polyfill (programming) - Wikipedia
+-->
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+Linting
+
+* [ESLint Rules](http://eslint.org/docs/rules)
+* [eslint-index](https://www.npmjs.com/package/eslint-index), [eslint-find-rules](https://www.npmjs.com/package/eslint-find-rules)
+      
+https://github.com/google/eslint-config-google
+
+http://eslint.org/docs/2.0.0/user-guide/configuring
+http://eslint.org/docs/rules/
+
+Preset: ESLint standard rules
+https://www.npmjs.com/package/eslint-config-airbnb
+https://www.npmjs.com/package/eslint-config-defaults
+https://www.npmjs.com/package/eslint-config-standard
+
+https://www.npmjs.com/package/eslint-plugin-react
+https://www.npmjs.com/package/eslint-plugin-node
+
+
+https://www.npmjs.com/package/eslint-plugin-angular
+-->
+
+<!--
+  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
+https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
+
+JavaScript
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+
+https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
+https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
+
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 -->
 
 ## Browser Object Model (BOM) and Document Object Model (DOM)
@@ -328,6 +336,44 @@ http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 http://www.ecma-international.org/publications/standards/Ecma-402.htm
 -->
 
+## Standards
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript
+* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
+* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
+
+Node
+* [Node.js GitHub](https://github.com/nodejs)
+
+The Chromium Projects
+* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
+
+<!--
+https://github.com/tc39/proposals
+https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
+
+Standards
+https://www.ietf.org/ | Internet Engineering Task Force (IETF)
+https://www.ieee.org/ | IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+https://www.nist.gov/ | National Institute of Standards and Technology | NIST
+https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology | National Institute of Standards and Technology - Wikipedia
+https://www.nae.edu/Projects/MediaRoom/20095/164396/165210.aspx | NAE Website - National Academy of Engineering Elects 84 Members and 22 Foreign Members
+
+https://en.wikipedia.org/wiki/Internet_Standard | Internet Standard - Wikipedia
+https://en.wikipedia.org/wiki/Internet_Standard#Proposed_Standard | Internet Standard - Wikipedia
+https://www.w3.org/2011/05/activity-proposal.html | Web Testing Activity Proposal
+https://unicode.org/emoji/proposals.html | Submitting Emoji Character Proposals
+-->
+
 ## JavaScript- General
 
 JavaScript
@@ -385,43 +431,67 @@ Server-Side JavaScript
 * [List of Server-Side JavaScript Implementations Wikipedia](https://en.wikipedia.org/wiki/List_of_server-side_JavaScript_implementations)
 
 
-## JavaScript- Styleguide and Linting
+## Google Chrome Dev Tools
 
-JavaScript Styleguides
-* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
 
 <!--
-https://google.github.io/styleguide/javascriptguide.xml
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
+
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Preset | Preset - Wikipedia
-https://en.wikipedia.org/wiki/Polyfill_(programming) | Polyfill (programming) - Wikipedia
--->
+## JavaScript Performance
+
+Lighthouse
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+Rendering
+* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+Offline
+* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+
+Measure
+* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+
+Semantics/SEO/Accessibility
+* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 <!--
-Linting
-
-* [ESLint Rules](http://eslint.org/docs/rules)
-* [eslint-index](https://www.npmjs.com/package/eslint-index), [eslint-find-rules](https://www.npmjs.com/package/eslint-find-rules)
-      
-https://github.com/google/eslint-config-google
-
-http://eslint.org/docs/2.0.0/user-guide/configuring
-http://eslint.org/docs/rules/
-
-Preset: ESLint standard rules
-https://www.npmjs.com/package/eslint-config-airbnb
-https://www.npmjs.com/package/eslint-config-defaults
-https://www.npmjs.com/package/eslint-config-standard
-
-https://www.npmjs.com/package/eslint-plugin-react
-https://www.npmjs.com/package/eslint-plugin-node
-
-
-https://www.npmjs.com/package/eslint-plugin-angular
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
 -->
 
 ## Web Architecture, How Browsers work
@@ -544,45 +614,6 @@ https://developers.google.com/web/fundamentals/performance/critical-rendering-pa
 https://en.wikipedia.org/wiki/Pixel | Pixel - Wikipedia
 -->
 
-## Standards
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-JavaScript
-* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
-* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
-
-Node
-* [Node.js GitHub](https://github.com/nodejs)
-
-The Chromium Projects
-* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
-
-<!--
-https://github.com/tc39/proposals
-https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
-
-Standards
-https://www.ietf.org/ | Internet Engineering Task Force (IETF)
-https://www.ieee.org/ | IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
-https://www.nist.gov/ | National Institute of Standards and Technology | NIST
-https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology | National Institute of Standards and Technology - Wikipedia
-https://www.nae.edu/Projects/MediaRoom/20095/164396/165210.aspx | NAE Website - National Academy of Engineering Elects 84 Members and 22 Foreign Members
-
-https://en.wikipedia.org/wiki/Internet_Standard | Internet Standard - Wikipedia
-https://en.wikipedia.org/wiki/Internet_Standard#Proposed_Standard | Internet Standard - Wikipedia
-https://www.w3.org/2011/05/activity-proposal.html | Web Testing Activity Proposal
-https://unicode.org/emoji/proposals.html | Submitting Emoji Character Proposals
--->
-
-
 ## Protocols
 
 <!--
@@ -619,8 +650,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 http://www.sitepoint.com/getting-started-react-jsx
 
 https://www.w3.org/webperf
-
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 -->
 
 <!--
@@ -636,24 +665,6 @@ https://teamtreehouse.com/library/objectoriented-javascript/
 * Universal Module Definition (UMD)
 * CommonJS (CJS) (var jquery = require('jquery'))
 * ES6 Modules (import jQuery from 'jquery') (best choice)
--->
-
-<!--
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
-
-https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
-
-JavaScript
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-
-https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
-https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
-
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 -->
 
 # Request and Response
