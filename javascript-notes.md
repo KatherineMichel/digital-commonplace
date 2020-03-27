@@ -1,6 +1,10 @@
 # JavaScript Notes
 
 <!--
+Go and JS
+https://golang.org/pkg/go/format/ | format - The Go Programming Language
+https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
+
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
