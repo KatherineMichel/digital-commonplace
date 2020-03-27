@@ -15,9 +15,6 @@ CHAOSS
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-PyLadies Remote International Women's Month Lightning Talks
-https://ti.to/pyladies/womensmonthtalks/en
-
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 
@@ -25,8 +22,6 @@ Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
-
-https://www.apple.com/newsroom/2020/03/new-macbook-air-has-more-to-love-and-is-now-just-999/
 
 https://developers.google.com/tech-writing
 
@@ -138,6 +133,20 @@ set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 -->
 
+<!--
+Sarah Cope
+https://github.com/saracope/shaping-the-contributor-experience
+https://saracope.github.io/shaping-the-contributor-experience/
+
+Important!
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
+
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+https://glasnt.com/talks/2017_08_PyConAU/#/
+-->
+
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -172,7 +181,7 @@ https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twi
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 -->
 
-## Engineering Management Resources
+## Engineering Performance Resources
 
 JavaScript Scene
 * ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
@@ -194,45 +203,6 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
 
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
-## Engineering Management
-
-<!--
-Silent critique
-https://twitter.com/dustanner/status/1176518182850351104
-
-Gasca- Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
-https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
-https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
-
-https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
-
-https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-http://www.camilletalk.com/ | Camille Fournier
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
-
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
 ## Project-Based Learning
@@ -440,9 +410,6 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 <!--
 https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
 -->
 
 ## Curated Resources
@@ -1072,8 +1039,6 @@ Bazel
 * [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
 
 <!--
-https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
-
 https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
 https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
 https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
@@ -1085,6 +1050,9 @@ https://github.com/google/new-project/tree/master/.github | new-project/.github 
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
 https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
 
+https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html | Bazel Reaches 1.0 Milestone! | Google Open Source Blog
+
+Google
 https://en.wikipedia.org/wiki/Transitive_dependency | Transitive dependency - Wikipedia
 https://producingoss.com/ | Producing Open Source Software
 https://producingoss.com/en/producingoss-letter.pdf | Producing Open Source Software - How to Run a Successful Free Software Project
@@ -1095,12 +1063,6 @@ Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
   
-<!--
-Sarah Cope
-https://github.com/saracope/shaping-the-contributor-experience
-https://saracope.github.io/shaping-the-contributor-experience/
--->
-
 ## Open Source and Assessment
 
 Mozilla Metrics
@@ -1135,15 +1097,6 @@ https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedi
 -->
 
 <!--
-Important!
-https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
-
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-https://glasnt.com/talks/2017_08_PyConAU/#/
-
-
 3 methods
 https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
 Metrics
@@ -1947,9 +1900,11 @@ Docs
 * [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
 
 Test Driven Development (TDD)
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 * [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Data Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Data-driven_testing)
+* [Continuous Test Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Continuous_test-driven_development)
 
 Domain-Driven Design (DDD)
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
@@ -1960,15 +1915,15 @@ More Software Planning
 * [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
 * [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
 
+Event Paradigm
+* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+
 <!--
 Driven Dev
 https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
 https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
 
 * [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
-
-Paradigm
-* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
 
 https://domainlanguage.com/ddd/reference/
 http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
@@ -2000,55 +1955,6 @@ http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.ht
 http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
 Cost of Software Change
 -->
-
-## Software Engineering
-
-Software Project Management
-* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-
-Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-
-## Requirements and Planning
-
-Requirements
-* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
-* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
-
-<!--
-Requirements baseline
-https://en.wikipedia.org/wiki/Baseline_(configuration_management)
--->
-
-Technical
-* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
-* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
-* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
-* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-* Objective, Assumption, Constraint
-
-## Software Life Cycle and Release Management
-
-Software Development Philosophies and Process
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-
-Life Cycles
-* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
-* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
 ## Software Design Tools
 
@@ -2227,6 +2133,45 @@ https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Ref
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+-->
+
+## Engineering Management
+
+<!--
+Silent critique
+https://twitter.com/dustanner/status/1176518182850351104
+
+Gasca- Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
+
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
+https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
+
+https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
+
+https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+http://www.camilletalk.com/ | Camille Fournier
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
 ## Web Development- General
@@ -2783,6 +2728,9 @@ Tim Ferris Blueprints
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
 <!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
 https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
