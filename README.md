@@ -31,12 +31,6 @@ https://twitter.com/nnja/status/1238188427780083712
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
-Keyboard shortcuts
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
 https://www.apple.com/newsroom/2020/03/new-macbook-air-has-more-to-love-and-is-now-just-999/
 
 https://developers.google.com/tech-writing
@@ -61,14 +55,50 @@ https://twitter.com/dan_abramov/status/1225838339598831616
 https://www.learnpython.dev/
 https://frontendmasters.com/teachers/nina-zakharenko/
 
-GitHub Actions
-https://twitter.com/hynek/status/1236227708746596353
-https://github.com/Azure/actions
-
 GitHub Hackathon
 https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
 https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
+clrs algorithms
+Refactoring, TDD
+Trade Offs
+
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
+
+GitHub Actions
+https://twitter.com/hynek/status/1236227708746596353
+https://github.com/Azure/actions
+
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+
+
+https://github.com/lorin/systems-thinking
+
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+
+https://developers.google.com/machine-learning/crash-course
+
+
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
+-->
+
+## Mine
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+<!--
 https://keepachangelog.com/en/1.0.0/ | Keep a Changelog
 
 Links change log lines to PRs
@@ -90,12 +120,6 @@ https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — 
 https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
 https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
 https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
-clrs algorithms
-Refactoring, TDD
-Trade Offs
-
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
 https://en.wikipedia.org/wiki/Continuous_test-driven_development | Continuous test-driven development - Wikipedia
 https://www.gnu.org/software/make/manual/make.pdf | make.pdf
@@ -123,46 +147,68 @@ https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on T
 VS Code
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
+-->
 
-https://github.com/ohmyzsh/ohmyzsh | ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+## Productivity
 
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 
-https://github.com/lorin/systems-thinking
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+<!--
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
 
-https://developers.google.com/machine-learning/crash-course
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
 
-https://web.dev/ | web.dev  |  web.dev
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
 
-https://access.redhat.com/documentation/en-us/
-https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+VS Code Testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
 
+https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
 
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+VC Studio Code
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
 
-https://inf.ethz.ch/personal/wirth/CompilerConstruction/CompilerConstruction1.pdf
+https://marketplace.visualstudio.com/vscode
 
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
 
-Social Distancing Survival Guide
-https://twitter.com/Fox0x01/status/1238636233649250304
-https://twitter.com/Fox0x01/status/1238636236962779136
-https://github.com/gwen001/pentest-tools
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
 
-Database
-https://en.wikipedia.org/wiki/Federated_database_system
-delegated database
-Google Spanner versus Calvin Protocol - Google Search
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+-->
 
-https://github.com/simonw/
+## Shortcuts
 
-https://twitter.com/webology/status/1216793302684573698 | ✨ Jeff Triplett ✨ on Twitter: "🛄 Andrew's article is amazing. I'd love to run one of these to track both daily and while going on trips. https://t.co/0aBu3dkVsw" / Twitter
+<!--
+Keyboard shortcuts
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
 
-https://twitter.com/jacobian/status/1230177174465974272 | jacobian on Twitter: "RT for the morning crowd: https://t.co/BuqVuBP0d7" / Twitter
-https://jacobian.org/2020/feb/18/innovation-execution/
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 -->
 
 ## Project-Based Learning
@@ -208,55 +254,13 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
+## Useful Tools
+
 <!--
-https://frontendmasters.com
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
-https://traversymedia.com/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-
-https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
-https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
-
-https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project
-https://www.khanacademy.org/computing/computer-programming/programming#good-practices
-
-https://redwoodjs.com/
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-
 https://rauchg.com/2020/2019-in-review | 2019 in Review
 https://github.com/rauchg/blog | rauchg/blog
 https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
-
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
-
-https://www.producthunt.com/posts/glitch-for-vs-code
-https://github.com/glitchdotcom/ | Glitch
-https://github.com/glitchdotcom/friendly-words | glitchdotcom/friendly-words: The Glitch word list, packaged into an NPM module for easy use.
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
 -->
-
-<!--
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-Coursera DevOps Course
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
--->
-
-## Useful Tools
 
 Glitch
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
@@ -278,31 +282,36 @@ CSS
 https://codesandbox.io/docs/ci
 https://darklang.com/
 
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+GitHub Integration
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
 
 https://airtable.com/blocks
 https://airtable.com/templates | Templates - Airtable
 https://guide.airtable.com/
 
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://www.producthunt.com/posts/glitch-for-vs-code
+https://github.com/glitchdotcom/ | Glitch
+
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://github.com/FogCreek/Glitch-Community | FogCreek/Glitch-Community: The glitch.com community site, glitch.com/~community
 
+
+repl.it
 https://repl.it/site/blog/packager
-https://repl.it/site/blog/github
-https://twitter.com/amasad/status/1204843691682091008
 
-https://www.netlify.com/features/ | Features | Netlify
 
 * [Zeit next.js](https://github.com/zeit/next.js) 
 
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-https://zeit.co/blog/github
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
 
 https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
 
@@ -311,14 +320,44 @@ https://zeit.co/blog/zero-config | Zero Config Deployments - ZEIT
 
 https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
 
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-
+https://www.netlify.com/features/ | Features | Netlify
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
-https://github.com/netlify/gotrue | netlify/gotrue: An SWT based API for managing users and issuing SWT tokens
 https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-on-your-laptop/ | Netlify Dev — our entire platform, right on your laptop | Netlify
+-->
+
+<!--
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+https://traversymedia.com/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
+
+https://web.dev/ | web.dev  |  web.dev
+
+https://redwoodjs.com/
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
+
+Next
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
 -->
 
 ## Choices
@@ -500,50 +539,6 @@ Built With
 * [Made with React](http://madewithreact.com)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 
-## Productivity
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-
-VS Code Testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-
-https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/ | Microsoft's Visual Studio 2019: New 16.4 version brings GitHub integration | ZDNet
-
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-
-VC Studio Code
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
-
 ## Company Playbooks
 
 Handbooks
@@ -551,6 +546,7 @@ Handbooks
 * [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
 * [Glitch Handbook](https://handbook.glitch.me/)
 * [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), and [Signal V. Noise](https://m.signalvnoise.com)
+
 
 Joel Spolsky
 * [Joel on Software](https://www.joelonsoftware.com/)
@@ -578,6 +574,33 @@ Atlassian Team Playbook
 https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
 https://www.atlassian.com/team-playbook/examples
 -->
+
+## Hosting
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+GitLab- Notable Features
+* [GitLab Blog](https://about.gitlab.com/blog/)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+<!--
+https://about.gitlab.com/
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+https://docs.gitlab.com/ee/install/README.html
+-->
+
+GitHub Blogs
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitHub
+* [GitHub YouTube](https://www.youtube.com/user/github/videos)
 
 ## Agile and DevOps
 
@@ -614,6 +637,14 @@ https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps te
 https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
 https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+-->
+
+<!--
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
 -->
 
 
@@ -948,32 +979,7 @@ https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 �
 -->
 
 
-## Hosting and GitHub
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
-
-GitLab- Notable Features
-* [GitLab Blog](https://about.gitlab.com/blog/)
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
-
-<!--
-https://about.gitlab.com/
-https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
-https://docs.gitlab.com/ee/install/README.html
--->
-
-GitHub Blogs
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitHub
-* [GitHub YouTube](https://www.youtube.com/user/github/videos)
+## GitHub Features
 
 GitHub Features
 * [GitHub Features (Code Review, ect.)](https://github.com/features) 
@@ -1003,24 +1009,9 @@ GitHub Developer
 GitHub Services- Deprecated
 * [Service GitHub](https://github.com/github/github-services) 
 
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
 
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
-Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
-
 https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
 https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
 https://lab.github.com/
@@ -1051,6 +1042,7 @@ https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 https://live-stream.github.com/ | GitHub Live Events
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+
 
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
