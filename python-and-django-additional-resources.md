@@ -9,12 +9,17 @@ https://jazzband.co/ | Jazzband
 https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
 https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
 
+Django configs- Jazz Band
+https://twitter.com/jpadilla_/status/1189752115566133248
+
 https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
 
 https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
 https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
 
 https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
+
+https://github.com/wemake-services/wemake-python-styleguide
 
 https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
 https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
