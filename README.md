@@ -12,6 +12,10 @@ https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams H
 Important talk
 https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
 
+GitHub Actions
+https://twitter.com/hynek/status/1236227708746596353
+https://github.com/Azure/actions
+
 https://www.scala-lang.org/
 
 CHAOSS
@@ -62,16 +66,6 @@ https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-gith
 clrs algorithms
 Refactoring, TDD
 Trade Offs
-
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
-
-
-GitHub Actions
-https://twitter.com/hynek/status/1236227708746596353
-https://github.com/Azure/actions
-
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
 
 https://github.com/lorin/systems-thinking
@@ -147,6 +141,9 @@ https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on T
 VS Code
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
+
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 -->
 
 ## Productivity
@@ -409,6 +406,8 @@ Authorities
 * [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
 <!--
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
 https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
 
 https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
