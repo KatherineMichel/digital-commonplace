@@ -1,6 +1,11 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
+
 https://github.com/tiangolo/fastapi
 
 https://access.redhat.com/documentation/en-us/
