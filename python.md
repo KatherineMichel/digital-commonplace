@@ -526,17 +526,6 @@ https://github.com/asottile/pyupgrade
 https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
 -->
 
-## GitHub- Release Tools
-
-Tags and Releases
-* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
-* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
-* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
-
-<!--
-https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
--->
-
 ## Package Tools and Testing
 
 <!--
@@ -685,6 +674,55 @@ http://www.pyinvoke.org/
 https://github.com/pypa/pip/blob/master/tasks/generate.py
 -->
 
+## Software Engineering
+
+Software Project Management
+* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+
+## Requirements and Planning
+
+Requirements
+* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
+* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
+* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
+* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
+* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
+* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
+* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
+* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+
+<!--
+Requirements baseline
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+-->
+
+Technical
+* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
+* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
+* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+* Objective, Assumption, Constraint
+
+## Software Life Cycle and Release Management
+
+Software Development Philosophies and Process
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+
+Life Cycles
+* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
+* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
+
 ## Continuous Integration, Continuous Deployment, and Test Matrix
 
 Continuousness
@@ -700,6 +738,17 @@ Automation
 Other Stuff
 * [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
 * [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
+
+## GitHub- Release Tools
+
+Tags and Releases
+* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
+* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
+* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
+
+<!--
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+-->
 
 ## Release Management
 
@@ -1057,16 +1106,6 @@ Debugging
 * [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
 
 ## Types of Software Testing
-
-<!--
-Domain driven stuff (see BDD)
--->
-
-TDD and BDD
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Data Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Data-driven_testing)
-* [Continuous Test Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Continuous_test-driven_development)
 
 Software Testing
 * [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
