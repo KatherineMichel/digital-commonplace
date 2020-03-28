@@ -30,6 +30,9 @@ https://twitter.com/thoward37/status/1227286141537144832
 https://en.wikipedia.org/wiki/Information_architecture
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
 https://wesbos.com/courses/
 https://beginnerjavascript.com/
 https://github.com/wesbos/beginner-javascript/
@@ -44,10 +47,6 @@ https://twitter.com/dan_abramov/status/1225838339598831616
 
 https://www.learnpython.dev/
 https://frontendmasters.com/teachers/nina-zakharenko/
-
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
 clrs algorithms
 Refactoring, TDD
@@ -1105,6 +1104,10 @@ Open source report card
 
 
 <!--
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
 Conventional Commits
 https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
 
