@@ -102,9 +102,8 @@ http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Pytho
 Django versus Flask
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
 
-Python/Django security
+Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-https://github.com/kencochrane/django-defender | kencochrane/jango-defender: A simple super fast django reusable app that blocks people from brute forcing login attempts
 
 Python Language Server
 https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
@@ -131,31 +130,8 @@ https://twitter.com/hynek/status/1235848177640542214
 
 ## Talks
 
-OS
-
 Contributing- Important
 https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
-
-Contributing
-https://github.blog/2012-09-17-contributing-guidelines/
-https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
-
-Code of Conduct
-https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-https://www.contributor-covenant.org/
-
-Expectations
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-
-General
-https://github.com/nayafia/awesome-maintainers
-
-https://lukasa.co.uk/2016/04/One_Of_The_Team/
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
-
-https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
-https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
-
 
 Not sure...
 https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
@@ -815,8 +791,6 @@ Shebang File
 <!--
 https://en.wikipedia.org/wiki/Shell_script
 
-https://en.wikipedia.org/wiki/SQL
-
 https://www.gnu.org/software/make/manual/make.pdf | make.pdf
 
 Bash
@@ -1191,6 +1165,13 @@ Terminology
 * [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
 
 <!--
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
 https://pythontesting.net/agile/test-first-programming/
 http://www.extremeprogramming.org/rules/testfirst.html
 https://martinfowler.com/bliki/SelfTestingCode.html
