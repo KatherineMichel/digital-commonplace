@@ -1,6 +1,9 @@
 # JavaScript Notes
 
 <!--
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+
 Go and JS
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
 https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
@@ -18,9 +21,6 @@ https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 
 https://github.com/jsdom/jsdom
 
-
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
 https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
 https://github.blog/2020-03-16-npm-is-joining-github/
@@ -260,9 +260,6 @@ https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 P
 
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
-
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 -->
 
 ## Browser Object Model (BOM) and Document Object Model (DOM)
