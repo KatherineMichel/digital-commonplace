@@ -285,6 +285,30 @@ https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem
 https://elixir-lang.org/ | Elixir
 -->
 
+## Benchmarking
+
+Performance
+* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
+* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+
+Throttling and Rate Limiting
+* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
+* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
+* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+-->
+
 ## Database Architectures and Principles
 
 CAP Theorem
@@ -342,28 +366,74 @@ http://en.wikipedia.org/wiki/SQL#Queries
 Stanford Open Classroom- Introduction to Databases
 * [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
-## Benchmarking
+## Database Options
 
-Performance
-* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
-* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
-* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+Databases
+* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Comparison of Database Tools Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_database_tools)  
 
-Throttling and Rate Limiting
-* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
-* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
-* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+Schema and Model
+* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model) 
+
+Relational
+* [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+* [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
+
+Examples of Popular Relational Databases
+* [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
+* [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
+* [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
+
+Relational
+* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system) 
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+
+Object-Relational Database
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+
+Architecture
+* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
 
 <!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+-->
 
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+More Database Stuff
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+<!--
+ORM, MRO
+https://www.fullstackpython.com/object-relational-mappers-orms.html
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Primary_key
+
+https://twitter.com/simonw/status/1113134366601838592
+https://backchannel.org/blog/friendfeed-schemaless-mysql | How FriendFeed uses MySQL to store schema-less data
+
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 -->
 
 ## Protocols
