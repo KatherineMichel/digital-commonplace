@@ -327,6 +327,21 @@ https://en.wikipedia.org/wiki/Failover
 https://en.wikipedia.org/wiki/Fault_tolerance
 -->
 
+## SQL
+
+SQL
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+<!--
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
 ## Benchmarking
 
 Performance
