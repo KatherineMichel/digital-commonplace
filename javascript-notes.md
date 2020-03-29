@@ -1,41 +1,35 @@
 # JavaScript Notes
 
 <!--
+https://web.dev/react
+https://web.dev/angular
+
+BHolt
+https://btholt.github.io/complete-intro-to-react/ | Complete Intro to React
+
+Dan
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks - Dan Abramov - Medium
+https://overreacted.io/on-let-vs-const/ | On let vs const — Overreacted
+https://overreacted.io/goodbye-clean-code/ | Goodbye, Clean Code — Overreacted
+
+https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
+
+https://medium.com/@js_tut | JavaScript Teacher – Medium
+
+https://twitter.com/youyuxi
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
-Go and JS
-https://golang.org/pkg/go/format/ | format - The Go Programming Language
-https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
-
-https://github.com/remy/nodemon#nodemon
-https://docs.npmjs.com/files/package.json
-https://jestjs.io/
-https://github.com/nock/nock
-
-HTTP
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
-
-https://github.com/jsdom/jsdom
-
-
-https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020 | 
-https://github.blog/2020-03-16-npm-is-joining-github/
-
+100 Days of Code
 https://twitter.com/js_tut/status/1224057215092477952
 
+JS Recommendations
 https://twitter.com/jkup/status/1217849585219010560
+
 https://github.com/jgthms/javascript-in-14-minutes
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
-
-https://github.com/trekhleb/javascript-algorithms
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 -->
 
 ## JavaScript People
@@ -51,7 +45,6 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 
 JavaScript- People
 * [Addy Osmani](https://addyosmani.com), [Addy Osmani GitHub](https://github.com/addyosmani), and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-* [Dan Abramov](https://overreacted.io) and [Dan Abramov Medium](https://medium.com/@dan_abramov)
 * [Dmitry Soshnikov](http://dmitrysoshnikov.com)
 * [Dmitri Pavlutin](https://dmitripavlutin.com)
 * [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest) and [Eric Elliot GitHub](https://github.com/ericelliott)
@@ -59,8 +52,13 @@ JavaScript- People
 * [Paul Irish](https://www.paulirish.com) and [Paul Irish Medium](https://medium.com/@paul_irish)
 * [Tyler McGinnis](https://tylermcginnis.com)
 
+<!--
+https://flaviocopes.com
+-->
+
 Node and React- People
 * [Brian Holt](https://frontendmasters.com/teachers/brian-holt) and [Brian Holt GitHub](https://github.com/btholt)
+* [Dan Abramov](https://overreacted.io) and [Dan Abramov Medium](https://medium.com/@dan_abramov)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 * [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
 
@@ -91,6 +89,15 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern 
 -->
 
 <!--
+Eric Elliott
+https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
+-->
+
+<!--
+https://ericelliottjs.com/premium-content | Premium Courses
+
+https://gist.github.com/rosario/3e398b4b587d9ab3ae3d6894d7226143 | Eric Elliott's Composing Software Series
+
 https://devhub.io/repos/ericelliott-essential-javascript-links
 https://gist.github.com/ericelliott/d576f72441fc1b27dace
 https://github.com/rsperberg/essential-javascript-links
@@ -106,9 +113,44 @@ https://github.com/ericelliott/tinyapp
 https://github.com/stampit-org/stampit
 -->
 
+## Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
 <!--
-Eric Elliott
-https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+-->
+
+<!--
+  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
+
+https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
+https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
+
+JavaScript
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+
+https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
+https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
 -->
 
 ## What To Learn Before A JavaScript Framework
@@ -243,23 +285,6 @@ https://www.npmjs.com/package/eslint-plugin-node
 
 
 https://www.npmjs.com/package/eslint-plugin-angular
--->
-
-<!--
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
-
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
-
-https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
-https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
-
-JavaScript
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-
-https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
-https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
 -->
 
 ## Browser Object Model (BOM) and Document Object Model (DOM)
