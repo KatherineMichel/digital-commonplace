@@ -1,5 +1,24 @@
 # JavaScript Frameworks
 
+<!--
+Go and JS
+https://golang.org/pkg/go/format/ | format - The Go Programming Language
+https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
+
+HTTP
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://docs.npmjs.com/files/package.json
+
+https://requirejs.org/ | RequireJS
+http://browserify.org/ | Browserify
+https://parceljs.org
+
+https://github.com/yarnpkg/berry | yarnpkg/berry: 📦🐈 A modern, fast, reliable, package manager; part of the Yarn organization
+
+https://github.com/jsdom/jsdom
+-->
+
 ## Mainstream JavaScript Frameworks
 
 Stacks
@@ -7,12 +26,45 @@ Stacks
 * [MEAN Stack Wikipedia](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 * MERN Stack
 
+## JAMStack
+
+Next
+* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
+
+Svelte
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+
+Gatsby
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
 <!--
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+Svelte, vdom
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
+https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
+
+https://gohugo.io/ | The world’s fastest framework for building websites | Hugo
+https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificates
+
+Next
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
+https://redwoodjs.com/
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
+
 https://github.com/hammerframework/hammer
 https://twitter.com/mojombo/status/1156561637450457089
 MEAN and MERN stacks
 https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
+
+https://www.stackbit.com/
 -->
+
+## Web Frameworks
 
 Comparison
 * [Comparison of Web Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript)
@@ -21,8 +73,16 @@ Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
 <!--
+https://github.blog/2020-03-16-npm-is-joining-github/
+https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
+
 https://github.com/nodejs/changelog-maker	
 https://github.com/nodejs/modules	
+
+https://github.com/tj/n | tj/n: Node version management
+https://github.com/ekalinin/nodeenv | ekalinin/nodeenv: Virtual environment for Node.js & integrator with virtualenv
+https://github.com/remy/nodemon#nodemon
+https://github.com/nock/nock
 -->
 
 Express (based on Sinatra)
@@ -49,25 +109,20 @@ JSX (Syntax Extension; React)
 Vue
 * [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
 
-Svelte
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-
 <!--
-https://gridsome.org/
-
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-
-https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
-
-https://reactjs.org/docs/getting-started.html | Getting Started – React
-
-http://vueconf.us/
+Storybook
+https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 
 React Components	createClass	createClass/ES6	ES6/Function
 
+https://reactjs.org/docs/getting-started.html | Getting Started – React
+
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
-https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks – Dan Abramov – Medium
+https://gridsome.org/
+
+http://vueconf.us/
 
 https://scrimba.com/playlist/pXKqta | Vue.js Tutorials From The Official Vue Docs - Scrimba Playlist
 https://www.tutorialspoint.com/vuejs/vuejs_instances.htm | VueJS Instances
@@ -83,9 +138,6 @@ https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 -->
 
-Gatsby
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-
 Create React App
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
@@ -94,13 +146,6 @@ Facebook- React Native
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
-Next
-* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
-
-<!--
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
--->
-
 ## JavaScript Ecosystem
 
 Webpack (Bundler)
@@ -108,9 +153,6 @@ Webpack (Bundler)
 
 React-Router (React Stack)
 * [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
-
-Jest
-* [Jest]()
 
 ESLint
 * [ESLint](http://eslint.org)
@@ -163,6 +205,9 @@ Compiling/Transpiling
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
 
 <!--
+https://github.com/Microsoft/TypeScript-Handbook | Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language
+https://github.com/Microsoft/TypeScript-React-Starter
+
 https://medium.com/palantir/tslint-in-2019-1a144c2317a9 | TSLint in 2019 – Palantir Blog – Medium	
 -->
 
@@ -183,8 +228,6 @@ React Profiler
 <!--
 Performance
 
-https://web.dev/react
-https://web.dev/angular
 https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
 
 https://reactjs.org/docs/optimizing-performance.html#profiling-components-with-the-chrome-performance-tab
@@ -206,6 +249,8 @@ Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, J
 * [Jest](https://facebook.github.io/jest) and [Jest GitHub](https://github.com/facebook/jest)
 
 <!--
+https://jestjs.io/
+
 JS Testing frameworks
 https://jestjs.io/docs/en/tutorial-react | Testing React Apps · Jest
 https://github.com/airbnb/enzyme | airbnb/enzyme: JavaScript Testing utilities for React
