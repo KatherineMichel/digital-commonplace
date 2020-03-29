@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - Code
 Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
 
+Ruby and Rust
+https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
+
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 https://developers.google.com/tech-writing
@@ -30,13 +33,45 @@ https://twitter.com/thoward37/status/1227286141537144832
 https://en.wikipedia.org/wiki/Information_architecture
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+Sys Admin
+https://github.com/trimstray/test-your-sysadmin-skills | trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+
+Bash
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+
+MIT/Harvard
+https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
+https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+
+Important
+https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
+
+https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
+https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
+
+Made with
+https://expressjs.com/en/resources/companies-using-express.html | Companies using Express
+https://madewithvuejs.com/ | Vue.js Showcase - Made With Vue.js
+https://madewithreactjs.com/ | React.js Showcase - Made With React.js
+https://madewithreact.com/ | Made with React
+
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://jquery.com/ | jQuery
 
 https://wesbos.com/courses/
 https://beginnerjavascript.com/
 https://github.com/wesbos/beginner-javascript/
 https://javascript30.com/
+https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
 https://es6.io/
 https://github.com/wesbos/es6.io
 https://reactforbeginners.com/
@@ -313,11 +348,11 @@ https://www.netlify.com/blog/2019/04/09/netlify-dev--our-entire-platform-right-o
 -->
 
 <!--
-https://frontendmasters.com
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-
 https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
+
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 
 https://traversymedia.com/
 https://www.freecodecamp.org/news/web-development-2020/
@@ -329,14 +364,6 @@ https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laur
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
 https://web.dev/ | web.dev  |  web.dev
-
-https://redwoodjs.com/
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-
-Next
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
 
 https://github.com/fastai/fast_template
 https://twitter.com/jeremyphoward/status/1218662038752202753
