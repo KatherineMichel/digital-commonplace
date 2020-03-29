@@ -146,21 +146,6 @@ Behavioral Patterns
 Behavioral Patterns- Built into Python
 * [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
 
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-Important
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
--->
-
 ## Refactoring
 
 * [Refactoring Catalog](https://refactoring.com/catalog/)
