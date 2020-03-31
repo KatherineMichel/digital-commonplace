@@ -1,21 +1,14 @@
 # Python
 
 <!--
-OS Automation
-https://twitter.com/bketelsen/status/1238487322875871232
-
-GitHub Actions- Hynek
-https://hynek.me/articles/python-github-actions/
-https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
-https://twitter.com/hynek/status/1236227708746596353
-https://github.com/Azure/actions
-
-https://github.com/sdras/awesome-actions
+https://testautomationu.applitools.com/python-tutorial/
 
 cross linter - Google Search
 
 CLI
 https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+
+https://pyup.io/safety/
 
 https://pyformat.info/
 
@@ -124,17 +117,6 @@ https://jml.io/pages/test-docstrings.html
 Mariatta- build the bot
 https://www.youtube.com/watch?v=_xdEAxLuj9Y
 
-Hynek
-Azure Pipelines
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
 Packaging
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
 https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
@@ -192,6 +174,38 @@ https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-
 https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 -->
 
+
+## Interesting
+
+<!--
+Virtualenv
+https://twitter.com/hynek/status/1241381814440247299
+
+virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://github.com/pyenv/pyenv-update
+
+GitHub Actions- Hynek
+https://hynek.me/articles/python-github-actions/
+https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
+https://twitter.com/hynek/status/1236227708746596353
+https://github.com/Azure/actions
+
+https://github.com/sdras/awesome-actions
+
+Hynek
+Azure Pipelines
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+-->
+
 ## Great Release Managers
 
 <!--
@@ -241,6 +255,10 @@ https://github.com/carljm/dotfiles
 ### Ned Batchelder
 
 * [coverage.py GitHub](https://github.com/nedbat/coveragepy/)
+
+<!--
+https://github.com/nedbat/coveragepy/issues/
+-->
 
 ### Hynek Schlawack
 
@@ -308,25 +326,7 @@ Special Projects
 * [babi-editor](https://github.com/babi-editor)
 
 <!--
-Tools
-
-https://github.com/nedbat/coveragepy/issues/
-
-virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://github.com/pyenv/pyenv-update
-
-PyTest
-https://twitter.com/codewithanthony/status/1195477147537657856
-https://twitter.com/nicoddemus/status/1195088740118618112
-https://twitter.com/blueyed/status/1222578734676484096
-
-PyTest
-https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
--->
-
-<!--
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://testandcode.com/104
 
 Builds backported/forwardported pythons for ubuntu with @deadsnakes
@@ -354,7 +354,11 @@ http://linter-runner.com
 https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
 
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+PyTest
+https://twitter.com/codewithanthony/status/1195477147537657856
+https://twitter.com/nicoddemus/status/1195088740118618112
+https://twitter.com/blueyed/status/1222578734676484096
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
 
 https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
 https://pypi.org/project/pyupgrade-docs/
