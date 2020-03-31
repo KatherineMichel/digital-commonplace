@@ -1,7 +1,33 @@
 # Python and Django- Additional Resources
 
 <!--
+https://github.com/jazzband/dj-rest-auth
+
+https://github.com/adamchainz/django-perf-rec
+
+Cookie Cutter
+https://twitter.com/nthapen/status/1240936897234513921
+
+https://github.com/JackMcKew/awesome-python-bytes
+
+https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+
+
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style
+https://github.com/satwikkansal/wtfpython
+https://github.com/jakevdp/WhirlwindTourOfPython
+https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+
 https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
+https://www.freecodecamp.org/news/best-python-tutorial/
 
 https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
 
@@ -31,13 +57,6 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style
-https://github.com/satwikkansal/wtfpython
-https://github.com/jakevdp/WhirlwindTourOfPython
-https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
-
 
 Raymond Course
 https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
@@ -47,6 +66,7 @@ https://djangoforprofessionals.com/ | Django for Professionals
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
 
 Al
+https://github.com/asweigart/automateboringstuff1stedition
 https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
 https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
 
