@@ -1,6 +1,60 @@
 # JavaScript Notes
 
 <!--
+https://app.slack.com/client/T0B6Z0ZL1/
+https://wesbos.com/courses/
+https://beginnerjavascript.com/
+https://github.com/wesbos/beginner-javascript/
+https://javascript30.com/
+https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
+https://es6.io/
+https://github.com/wesbos/es6.io
+https://reactforbeginners.com/
+https://github.com/wesbos/eslint-config-wesbos
+
+https://justjavascript.com/
+https://twitter.com/dan_abramov/status/1225838339598831616
+
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+https://github.com/javascriptteacher/node
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+https://github.com/luruke/browser-2020
+https://github.com/phuoc-ng/html-dom
+
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://jquery.com/ | jQuery
+
+Made with
+https://expressjs.com/en/resources/companies-using-express.html | Companies using Express
+https://madewithvuejs.com/ | Vue.js Showcase - Made With Vue.js
+https://madewithreactjs.com/ | React.js Showcase - Made With React.js
+https://madewithreact.com/ | Made with React
+
+https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
+https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
+
+https://developer.mozilla.org/en-US/docs/Learn
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+
+JS Recommendations
+https://twitter.com/jkup/status/1217849585219010560
+
+100 Days of Code
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://github.com/jgthms/javascript-in-14-minutes
+-->
+
+## React and Vue
+
+<!--
 https://web.dev/react
 https://web.dev/angular
 
@@ -13,23 +67,6 @@ https://overreacted.io/on-let-vs-const/ | On let vs const — Overreacted
 https://overreacted.io/goodbye-clean-code/ | Goodbye, Clean Code — Overreacted
 
 https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
-
-https://medium.com/@js_tut | JavaScript Teacher – Medium
-
-https://twitter.com/youyuxi
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
-
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
-100 Days of Code
-https://twitter.com/js_tut/status/1224057215092477952
-
-JS Recommendations
-https://twitter.com/jkup/status/1217849585219010560
-
-https://github.com/jgthms/javascript-in-14-minutes
 -->
 
 ## JavaScript People
@@ -53,7 +90,9 @@ JavaScript- People
 * [Tyler McGinnis](https://tylermcginnis.com)
 
 <!--
+https://twitter.com/youyuxi
 https://flaviocopes.com
+https://medium.com/@js_tut | JavaScript Teacher – Medium
 -->
 
 Node and React- People
@@ -246,154 +285,6 @@ High Order Array Functions
 forEach()
 map()
 filter()
--->
-
-## JavaScript- Styleguide and Linting
-
-JavaScript Styleguides
-* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
-
-<!--
-https://google.github.io/styleguide/javascriptguide.xml
--->
-
-<!--
-https://en.wikipedia.org/wiki/Preset | Preset - Wikipedia
-https://en.wikipedia.org/wiki/Polyfill_(programming) | Polyfill (programming) - Wikipedia
--->
-
-<!--
-Linting
-
-* [ESLint Rules](http://eslint.org/docs/rules)
-* [eslint-index](https://www.npmjs.com/package/eslint-index), [eslint-find-rules](https://www.npmjs.com/package/eslint-find-rules)
-      
-https://github.com/google/eslint-config-google
-
-http://eslint.org/docs/2.0.0/user-guide/configuring
-http://eslint.org/docs/rules/
-
-Preset: ESLint standard rules
-https://www.npmjs.com/package/eslint-config-airbnb
-https://www.npmjs.com/package/eslint-config-defaults
-https://www.npmjs.com/package/eslint-config-standard
-
-https://www.npmjs.com/package/eslint-plugin-react
-https://www.npmjs.com/package/eslint-plugin-node
-
-
-https://www.npmjs.com/package/eslint-plugin-angular
--->
-
-## Browser Object Model (BOM) and Document Object Model (DOM)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-## ECMA
-
-<!--
-http://www.ecma-international.org/ecma-262
--->
-
-## ECMAScript, JavaScript Standards, Node, Asynchronicity
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-Node: CommonJS
-* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://flaviocopes.com/node-difference-browser/
-node.js uses CommonJS modules
-https://flaviocopes.com/commonjs/
-browsers use ES modules
-https://flaviocopes.com/es-modules/
-Mozilla docs are ECMAScript Standard
--->
-
-<!--
-https://nodejs.org/en/docs/es6
-
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
-CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
-
-webpack CommonJS Explanation
-https://github.com/webpack/docs/wiki/commonjs
-https://webpack.js.org/api/module-methods/#commonjs
-
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
--->
-
-## Types of JavaScript
-
-<!--
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-https://github.com/mjavascript/practical-es6
-
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
--->
-
-## Standards
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-JavaScript
-* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
-* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
-
-Node
-* [Node.js GitHub](https://github.com/nodejs)
-
-The Chromium Projects
-* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
-
-<!--
-https://github.com/tc39/proposals
-https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
-
-Standards
-https://www.ietf.org/ | Internet Engineering Task Force (IETF)
-https://www.ieee.org/ | IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
-https://www.nist.gov/ | National Institute of Standards and Technology | NIST
-https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology | National Institute of Standards and Technology - Wikipedia
-https://www.nae.edu/Projects/MediaRoom/20095/164396/165210.aspx | NAE Website - National Academy of Engineering Elects 84 Members and 22 Foreign Members
-
-https://en.wikipedia.org/wiki/Internet_Standard | Internet Standard - Wikipedia
-https://en.wikipedia.org/wiki/Internet_Standard#Proposed_Standard | Internet Standard - Wikipedia
-https://www.w3.org/2011/05/activity-proposal.html | Web Testing Activity Proposal
-https://unicode.org/emoji/proposals.html | Submitting Emoji Character Proposals
 -->
 
 ## JavaScript- General
