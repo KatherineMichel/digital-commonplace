@@ -1,22 +1,45 @@
-# JavaScript Frameworks
+# JavaScript Tools
 
 <!--
-Go and JS
+Go
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
-https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
 
-HTTP
+HTTP, API, DOM
 https://nodejs.org/api/http.html
 https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://docs.npmjs.com/files/package.json
+https://expressjs.com/en/api.html
+https://github.com/jsdom/jsdom
+https://github.com/ruyadorno/ipt
 
 https://requirejs.org/ | RequireJS
 http://browserify.org/ | Browserify
 https://parceljs.org
+-->
 
-https://github.com/yarnpkg/berry | yarnpkg/berry: 📦🐈 A modern, fast, reliable, package manager; part of the Yarn organization
+## Year in Review and Surveys
 
-https://github.com/jsdom/jsdom
+* [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
+* [The State Of JavaScript](http://stateofjs.com)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [HackerRank 2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+
+<!--
+https://rauchg.com/2020/2019-in-review | 2019 in Review
+https://github.com/rauchg/blog | rauchg/blog
+https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorber on Twitter: "Awesome 2019 tech review by @rauchg (really more than that, must read) I like to think JAMstack is somehow the "pit of success" of server-side caching: easy to do the right thing, and almost impossible to do the wrong thing https://t.co/bXHmE2pLMc" / Twitter
+-->
+
+<!--
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.surveymonkey.com/r/jamstack-survey
+
+https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
+https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
+
+https://about.gitlab.com/developer-survey/
+https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
+http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 -->
 
 ## Mainstream JavaScript Frameworks
@@ -38,6 +61,8 @@ Gatsby
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 
 <!--
+https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
+
 https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
 Svelte, vdom
@@ -62,6 +87,115 @@ MEAN and MERN stacks
 https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
 
 https://www.stackbit.com/
+-->
+
+## Browser Object Model (BOM) and Document Object Model (DOM)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+## ECMA
+
+<!--
+http://www.ecma-international.org/ecma-262
+-->
+
+## ECMAScript, JavaScript Standards
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+Node: CommonJS
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+<!--
+https://nodejs.org/en/docs/es6
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
+-->
+
+## Types of JavaScript
+
+<!--
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+https://github.com/mjavascript/practical-es6
+
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
+-->
+
+## Standards
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript
+* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
+* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
+
+Node
+* [Node.js GitHub](https://github.com/nodejs)
+
+The Chromium Projects
+* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
+
+<!--
+https://github.com/tc39/proposals
+https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
+
+Standards
+https://www.ietf.org/ | Internet Engineering Task Force (IETF)
+https://www.ieee.org/ | IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+https://www.nist.gov/ | National Institute of Standards and Technology | NIST
+https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology | National Institute of Standards and Technology - Wikipedia
+https://www.nae.edu/Projects/MediaRoom/20095/164396/165210.aspx | NAE Website - National Academy of Engineering Elects 84 Members and 22 Foreign Members
+
+https://en.wikipedia.org/wiki/Internet_Standard | Internet Standard - Wikipedia
+https://en.wikipedia.org/wiki/Internet_Standard#Proposed_Standard | Internet Standard - Wikipedia
+https://www.w3.org/2011/05/activity-proposal.html | Web Testing Activity Proposal
+https://unicode.org/emoji/proposals.html | Submitting Emoji Character Proposals
 -->
 
 ## Web Frameworks
@@ -90,10 +224,6 @@ Express (based on Sinatra)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
 
-<!--
-https://expressjs.com/en/api.html
--->
-
 Comparison
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
@@ -121,6 +251,7 @@ https://reactjs.org/docs/getting-started.html | Getting Started – React
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
 https://gridsome.org/
+https://github.com/z3by/vuepress-theme-britecore | z3by/vuepress-theme-britecore: BriteCore Vuepress theme
 
 http://vueconf.us/
 
@@ -146,13 +277,12 @@ Facebook- React Native
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
-## JavaScript Ecosystem
+## JavaScript- Styleguides, Formatting, Linting
 
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-React-Router (React Stack)
-* [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
+JavaScript Styleguides
+* [GitHub JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/jsguide.html)
 
 ESLint
 * [ESLint](http://eslint.org)
@@ -163,6 +293,53 @@ ESLint- Airbnb
 Code Splitting
 Code Coverage
 -->
+
+<!--
+Google Styleguides
+http://google.github.io/styleguide/
+
+https://google.github.io/styleguide/javascriptguide.xml
+-->
+
+<!--
+Code formatter
+https://prettier.io/blog/2020/03/21/2.0.0.html
+https://github.com/prettier/prettier | prettier/prettier: Prettier is an opinionated code formatter.
+
+https://en.wikipedia.org/wiki/Preset | Preset - Wikipedia
+https://en.wikipedia.org/wiki/Polyfill_(programming) | Polyfill (programming) - Wikipedia
+-->
+
+<!--
+Linting
+
+* [ESLint Rules](http://eslint.org/docs/rules)
+* [eslint-index](https://www.npmjs.com/package/eslint-index), [eslint-find-rules](https://www.npmjs.com/package/eslint-find-rules)
+      
+https://github.com/google/eslint-config-google
+
+http://eslint.org/docs/2.0.0/user-guide/configuring
+http://eslint.org/docs/rules/
+
+Preset: ESLint standard rules
+https://www.npmjs.com/package/eslint-config-airbnb
+https://www.npmjs.com/package/eslint-config-defaults
+https://www.npmjs.com/package/eslint-config-standard
+
+https://www.npmjs.com/package/eslint-plugin-react
+https://www.npmjs.com/package/eslint-plugin-node
+
+
+https://www.npmjs.com/package/eslint-plugin-angular
+-->
+
+## JavaScript Ecosystem
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+React-Router (React Stack)
+* [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
 
 Enzyme
 
@@ -186,8 +363,6 @@ Redux Autogenereated Tests
 Hot Module Reload
 -->
 
-Prettier
-
 Flow
 * [Flow](https://flow.org), [Flow Docs](https://flow.org/en/docs), and [Flow GitHub](https://github.com/facebook/flow)
 * [Flow and React](https://flow.org/en/docs/react)
@@ -205,6 +380,7 @@ Compiling/Transpiling
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
 
 <!--
+https://github.com/microsoft/TypeScript-Node-Starter
 https://github.com/Microsoft/TypeScript-Handbook | Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language
 https://github.com/Microsoft/TypeScript-React-Starter
 
@@ -384,6 +560,10 @@ Package Managers
 * [NPM](https://www.npmjs.com), [NPM Blog](http://blog.npmjs.org), [NPM Docs](https://docs.npmjs.com), and [NPM GitHub](https://github.com/npm/npm) 
 * [Yarn](https://yarnpkg.com), [Yarn Docs](https://yarnpkg.com/lang/en/docs), [Yarn Registry](https://registry.yarnpkg.com), and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 
+<!--
+https://github.com/yarnpkg/berry | yarnpkg/berry: 📦🐈 A modern, fast, reliable, package manager; part of the Yarn organization
+-->
+
 CLI, package.json, Lock Files
 * [NPM's CLI](https://docs.npmjs.com/#cli)   
 * [Specifics of NPM's package.json](https://docs.npmjs.com/files/package.json)
@@ -391,6 +571,7 @@ CLI, package.json, Lock Files
 * [Yarn's CLI](https://yarnpkg.com/en/docs/cli/)
 * [Specifics of Yarn's package.json](https://yarnpkg.com/en/docs/package-json)
 * [yarn.lock](https://yarnpkg.com/en/docs/yarn-lock)
+
 
 <!--  
 * [Node Beginner](http://www.nodebeginner.org) 
