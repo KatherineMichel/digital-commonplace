@@ -38,6 +38,8 @@ https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk abou
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+
 Tool Choices
 https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
 This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
