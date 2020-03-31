@@ -1,6 +1,17 @@
 # Python
 
 <!--
+OS Automation
+https://twitter.com/bketelsen/status/1238487322875871232
+
+GitHub Actions- Hynek
+https://hynek.me/articles/python-github-actions/
+https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
+https://twitter.com/hynek/status/1236227708746596353
+https://github.com/Azure/actions
+
+https://github.com/sdras/awesome-actions
+
 cross linter - Google Search
 
 CLI
@@ -9,39 +20,7 @@ https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · go
 https://pyformat.info/
 
 https://www.youtube.com/watch?v=qt7TboNJGJg
-
-https://github.com/sdras/awesome-actions
-https://github.com/actions/starter-workflows/blob/master/ci/python-package.yml
-https://github.com/actions/starter-workflows/tree/master/automation
-https://github.com/actions/setup-python
-https://github.com/actions/cache
-https://github.com/actions/cache/blob/master/examples.md#python---pip
-https://github.com/actions/cache/blob/master/examples.md#multiple-oss-in-a-workflow
-https://github.com/kaylangan/calculator/tree/kaylangan-pkg
-
-https://github.com/marketplace?before=Y3Vyc29yOjIx&query=python&type=actions&utf8=%E2%9C%93
-https://github.com/marketplace?utf8=%E2%9C%93&query=django
-https://github.com/marketplace/actions/pypi-publish
-https://github.com/marketplace/actions/codecov
-
-https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
-
-https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
-https://black.readthedocs.io/en/stable/installation_and_usage.html#usage
-https://flake8.pycqa.org/en/latest/user/options.html
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html#in-line-ignoring-errors
-https://github.com/cclauss/GitHub-Action-for-Flake8/blob/master/.github/workflows/push.yml
-https://twitter.com/FlipperPA/status/1204428589560582144
-
-https://pypi.org/project/tox-factor/
-https://tox.readthedocs.io/en/latest/config.html
-https://github.com/pytest-dev/pytest/issues/5778
-https://github.com/tox-dev/gh-action-tox
-https://github.com/ymyzk/tox-gh-actions
-
-https://github.com/pytest-dev/pytest-nunit/blob/master/tox.ini
 -->
-
 
 <!--
 Pinax
@@ -55,15 +34,6 @@ https://github.com/pypa/wheel
 -->
 
 <!--
-https://installpython3.com/
-https://realpython.com/installing-python/
-https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv
-Upgrade Python version in pipenv
-https://github.com/pypa/pipenv/issues/2482
-
-https://realpython.com/python-continuous-integration/
-https://realpython.com/courses/running-python-scripts/
-
 Radix
 https://twitter.com/hynek/status/1189883958294654978
 
@@ -111,20 +81,6 @@ https://github.com/palantir/python-language-server | palantir/python-language-se
 -->
 
 <!--
-OS Automation
-https://twitter.com/bketelsen/status/1238487322875871232
-
-GitHub Actions- Hynek
-https://hynek.me/articles/python-github-actions/
-https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
-https://twitter.com/hynek/status/1236227708746596353
-https://github.com/Azure/actions
-
-GitHub Actions
-https://github.com/zeke/github-actions-demo
-
-
-
 ## Talks
 
 Contributing- Important
@@ -132,10 +88,6 @@ https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
 
 Not sure...
 https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
-
-Tests/Automation
-
-https://realpython.com/intro-to-pyenv/
 
 General
 https://twitter.com/jacobian/status/1115362291099283456
@@ -476,6 +428,8 @@ Python 2 EOL Websites
 
 <!--
 https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
+
+https://github.blog/changelog/2020-02-27-github-actions-breaking-change-python-2-being-removed-from-all-virtual-environments/ | GitHub Actions Breaking Change: Python 2 being removed from all virtual environments - The GitHub Blog
 
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
 
