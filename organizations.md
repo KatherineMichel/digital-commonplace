@@ -754,7 +754,7 @@ https://github.com/TruStory | TruStory
 * [Eldarion](https://github.com/eldarion)
 * [ElevenYellow](https://github.com/elevenyellow)
 * [Filament Group](https://github.com/filamentgroup) 
-* [Fog Creek Software](https://github.com/FogCreek)
+* [Glitch](https://github.com/glitchdotcom/)
 * [Hanno](https://github.com/wearehanno) 
 * [Postlight](https://github.com/postlight)
 * [Potato London](https://github.com/potatolondon)
