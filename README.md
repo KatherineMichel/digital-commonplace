@@ -3,19 +3,6 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://pyup.io/safety/
-
-https://www.python.org/downloads/release/python-390a5/
-https://testautomationu.applitools.com/python-tutorial/
-https://opensource.com/article/19/5/python-3-default-mac
-https://twitter.com/simonw/status/1243297680886870017
-https://twitter.com/cfactoid/status/1243185388551843843
-pip Study
-https://twitter.com/bernardtyers/status/1236039617222230017
-Virtualenv
-https://twitter.com/hynek/status/1241381814440247299
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/
-
 Julia
 https://twitter.com/b0rk/status/1144011000208863239
 
@@ -38,6 +25,11 @@ https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 https://www.scala-lang.org/
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+
+https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
+https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
@@ -117,6 +109,9 @@ https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enha
 
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+
+OS Automation
+https://twitter.com/bketelsen/status/1238487322875871232
 
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
