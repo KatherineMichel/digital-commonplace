@@ -92,8 +92,6 @@ https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on
 https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
 https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
 
-PyTest
-https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
 PyPy
 https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
 
@@ -125,8 +123,7 @@ https://github.com/Azure/actions
 GitHub Actions
 https://github.com/zeke/github-actions-demo
 
-SemVer Criticism
-https://twitter.com/hynek/status/1235848177640542214
+
 
 ## Talks
 
@@ -208,6 +205,8 @@ https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.l
 https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
 
 http://calver.org/
+SemVer Criticism
+https://twitter.com/hynek/status/1235848177640542214
 -->
 
 ## High Performance Python and Django and Trends
@@ -391,12 +390,21 @@ Maintainer (maintain pyflakes as a member of the @PyCQA)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Pyflakes GitHub](https://gitlab.com/pycqa/flake8)
 
-Special Projects
-* [babi](https://github.com/asottile/babi)
+pycodestyle
+* [pycodestyle GitHub](https://github.com/PyCQA/pycodestyle)
 
 <!--
-https://github.com/deadsnakes
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+https://github.com/PyCQA/pycodestyle/issues/466
+-->
+
+Special Projects
+* [babi](https://github.com/asottile/babi)
+* [babi-editor](https://github.com/babi-editor)
+
+<!--
+Tools
+
+https://github.com/nedbat/coveragepy/issues/
 
 virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
 https://twitter.com/gjbernat/status/1226803593535279104
@@ -408,22 +416,30 @@ https://twitter.com/codewithanthony/status/1195477147537657856
 https://twitter.com/nicoddemus/status/1195088740118618112
 https://twitter.com/blueyed/status/1222578734676484096
 
+PyTest
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
+-->
+
+<!--
+https://testandcode.com/104
+
+Builds backported/forwardported pythons for ubuntu with @deadsnakes
+https://twitter.com/codewithanthony/status/1242245981590007808
+https://github.com/deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+
 https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
 https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
-https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
-https://pypi.org/project/pyupgrade-docs/
+
 https://github.com/asottile/add-trailing-comma
 https://github.com/asottile/all-repos
-
-https://github.com/nedbat/coveragepy/issues/
+https://github.com/asottile/t
+https://github.com/asottile/git-code-debt
 
 Drop python 2 / python3.5 support in pre-commit
 https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0
 https://github.com/pre-commit/pre-commit/issues/1260
 https://github.com/pre-commit/pre-commit/pull/1277
-
-Anthony Sottile
-Builds backported/forwardported pythons for ubuntu with @deadsnakes
 
 https://pre-commit.com/#python
 https://pre-commit.com/hooks.html
@@ -433,6 +449,9 @@ https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
 
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+
+https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
+https://pypi.org/project/pyupgrade-docs/
 
 https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
 https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
@@ -477,6 +496,11 @@ Python 3.1
 http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
 https://pybit.es/python-porting.html
 http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+https://python-future.org/futurize.html | futurize: Py2 to Py2/3 — Python-Future documentation
+http://python-future.org/futurize_cheatsheet.html | futurize quick-start guide — Python-Future documentation
+https://python-future.org/quickstart.html#to-convert-existing-python-2-code | Quick-start guide — Python-Future documentation
+http://python-future.org/changelog.html#newobject-base-object-defines-fallback-py2-compatible-special-methods | Changes in previous versions — Python-Future documentation
 
 six
 https://pypi.org/project/six/ | six · PyPI
