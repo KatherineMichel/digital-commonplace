@@ -1,7 +1,14 @@
-# Python
+# Python Tools and Release Managers
 
 <!--
-https://testautomationu.applitools.com/python-tutorial/
+Pinax
+https://pypi.org/project/django-utils/ | django-utils · PyPI
+https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
+-->
+
+<!--
+Top downloaded wheels
+https://pythonwheels.com/
 
 cross linter - Google Search
 
@@ -13,17 +20,6 @@ https://pyup.io/safety/
 https://pyformat.info/
 
 https://www.youtube.com/watch?v=qt7TboNJGJg
--->
-
-<!--
-Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
-
-https://docs.python.org/3/distutils/setupscript.html | 2. Writing the Setup Script — Python 3.8.1 documentation
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.0.0 documentation
-https://en.wikipedia.org/wiki/Setuptools
-https://github.com/pypa/wheel
 -->
 
 <!--
@@ -98,24 +94,6 @@ https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d
 https://prettier.io/
 https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
 
-Docs
-https://www.sphinx-doc.org/en/master/
-https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
-https://readthedocs.org/
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://readthedocs.org/accounts/login/?next=/accounts/gold/
-https://pypi.org/project/towncrier/
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
-https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
-https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
-https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
-https://docs.python.org/3/library/doctest.html
-https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
-https://docs.python.org/3/library/logging.html#logging.getLogger
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
-https://jml.io/pages/test-docstrings.html
-
 Mariatta- build the bot
 https://www.youtube.com/watch?v=_xdEAxLuj9Y
 
@@ -139,10 +117,6 @@ https://pypi.org/project/attrs/
 https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
 https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
 https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
-
-http://calver.org/
-SemVer Criticism
-https://twitter.com/hynek/status/1235848177640542214
 -->
 
 ## High Performance Python and Django and Trends
@@ -206,6 +180,28 @@ https://azure.microsoft.com/en-us/services/devops/pipelines/
 https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
 https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
 https://github.com/asottile/azure-pipeline-templates
+-->
+
+## Docs
+
+<!--
+Hynek- Docs
+https://www.sphinx-doc.org/en/master/
+https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
+https://readthedocs.org/
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+https://readthedocs.org/accounts/login/?next=/accounts/gold/
+https://pypi.org/project/towncrier/
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
+https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
+https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
+https://docs.python.org/3/library/doctest.html
+https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
+https://docs.python.org/3/library/logging.html#logging.getLogger
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
+https://jml.io/pages/test-docstrings.html
 -->
 
 ## Great Release Managers
@@ -684,6 +680,9 @@ Software Versioning and Semver (See also: npm packages)
 * [ZeroVer](https://0ver.org)
 
 <!--
+SemVer Criticism
+https://twitter.com/hynek/status/1235848177640542214
+
 SemVer
 https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
 
