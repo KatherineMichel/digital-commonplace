@@ -12,7 +12,6 @@ https://github.com/jsdom/jsdom
 https://github.com/ruyadorno/ipt
 
 https://requirejs.org/ | RequireJS
-http://browserify.org/ | Browserify
 https://parceljs.org
 -->
 
@@ -59,6 +58,9 @@ Svelte
 
 Gatsby
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
 https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
