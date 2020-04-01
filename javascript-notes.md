@@ -15,6 +15,32 @@ https://github.com/wesbos/eslint-config-wesbos
 https://justjavascript.com/
 https://twitter.com/dan_abramov/status/1225838339598831616
 
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+https://traversymedia.com/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
+
+https://web.dev/ | web.dev  |  web.dev
+-->
+
+<!--
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 https://github.com/javascriptteacher/node
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
@@ -36,6 +62,7 @@ https://madewithreact.com/ | Made with React
 
 https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
 https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
+
 
 https://developer.mozilla.org/en-US/docs/Learn
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
@@ -137,12 +164,12 @@ https://ericelliottjs.com/premium-content | Premium Courses
 
 https://gist.github.com/rosario/3e398b4b587d9ab3ae3d6894d7226143 | Eric Elliott's Composing Software Series
 
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
 https://devhub.io/repos/ericelliott-essential-javascript-links
 https://gist.github.com/ericelliott/d576f72441fc1b27dace
 https://github.com/rsperberg/essential-javascript-links
 https://github.com/LewisJEllis/essential-javascript-links
-
-https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 
 https://devanywhere.io/ | DevAnywhere
 
@@ -162,17 +189,17 @@ JavaScript Patterns
 <!--
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
-Important
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-
 https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
 -->
 
 <!--
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+
+Node
+https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
   * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -180,11 +207,10 @@ https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-que
 
 https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
 
-https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
 https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
 
-JavaScript
+JavaScript Algos
 https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 
