@@ -1,16 +1,19 @@
 # JavaScript Notes
 
 <!--
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+https://flaviocopes.com/run-javascript-snippets/ | How I run little JavaScript snippets
+https://flaviocopes.com/javascript-glossary/ | The JavaScript Glossary
 
-Airbnb- isomorphic
-https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
-https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
-https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+Feross
+https://github.com/feross
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
 
 https://app.slack.com/client/T0B6Z0ZL1/
 https://wesbos.com/courses/
@@ -45,6 +48,19 @@ https://web.dev/ | web.dev  |  web.dev
 -->
 
 <!--
+Senior devs should understand
+https://twitter.com/_ericelliott/status/1147563388928745472 | Twitter
+
+Performance
+https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
+Airbnb- isomorphic
+https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
+https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
+https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
@@ -75,6 +91,9 @@ https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "H
 -->
 
 <!--
+https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
+
 JS Recommendations
 https://twitter.com/jkup/status/1217849585219010560
 
