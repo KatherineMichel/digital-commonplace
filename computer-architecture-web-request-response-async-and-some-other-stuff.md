@@ -1,6 +1,9 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
+https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
+
 Social Distancing Survival Guide
 https://twitter.com/Fox0x01/status/1238636233649250304
 https://twitter.com/Fox0x01/status/1238636236962779136
