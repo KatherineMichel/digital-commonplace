@@ -24,10 +24,10 @@ https://www.scala-lang.org/
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
 
-https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
-https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
@@ -40,6 +40,11 @@ Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 
 https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
+
+Live Coding
+https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21 | My Twitch Live Coding Setup – Suz Hinton – Medium
+https://github.com/bnb/awesome-developer-streams#suz-hinton | GitHub - bnb/awesome-developer-streams: 
+https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
 
 People
 https://www.twitch.tv/directory/following
