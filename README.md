@@ -25,6 +25,9 @@ PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 
+https://en.wikipedia.org/wiki/Karel_(programming_language)
+https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
+
 https://amitness.com/2019/08/math-for-programmers/
 
 Bot
