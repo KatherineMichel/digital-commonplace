@@ -9,16 +9,31 @@ https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://www.coursera.org/learn/the-science-of-well-being
 
+Conference friends
+https://twitter.com/jonafato/status/1245443151420104704
+
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
 
 Web Bos, Brian Holt, Frontend Masters, Traversy Media
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 
 CHAOSS
 
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
+
+https://amitness.com/2019/08/math-for-programmers/
+
+Bot
+https://twitter.com/webology/status/1243922072528719874
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+VS Code
+https://twitter.com/nnja/status/1245471913914204161
 
 https://www.scala-lang.org/
 
@@ -31,6 +46,7 @@ https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode set
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
+Articles and Stuff
 https://www.freecodecamp.org/ | Learn to code | freeCodeCamp.org
 https://dev.to/ | DEV Community 👩‍💻👨‍💻
 https://hackernoon.com
