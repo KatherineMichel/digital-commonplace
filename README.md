@@ -20,8 +20,6 @@ PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 
-https://testautomationu.applitools.com/python-tutorial/
-
 https://www.scala-lang.org/
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
@@ -33,9 +31,10 @@ https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
-https://google.github.io/styleguide/pyguide.html
-https://www.learnpython.dev/
-https://frontendmasters.com/teachers/nina-zakharenko/
+https://www.freecodecamp.org/ | Learn to code | freeCodeCamp.org
+https://dev.to/ | DEV Community 👩‍💻👨‍💻
+https://hackernoon.com
+https://www.techopedia.com
 
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
@@ -321,9 +320,12 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications: https://github.com/mahmoud/awesome-python-applications
 https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
