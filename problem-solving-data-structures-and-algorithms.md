@@ -37,6 +37,9 @@ Practice
 * [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
 
 <!--
+https://github.com/jackfrued/Python-100-Days | jackfrued/Python-100-Days: Python - 100天从新手到大师
+https://github.com/pybites/challenges | pybites/challenges: PyBites Code Challenges
+
 https://www.hackerrank.com/leaderboard
 https://www.hackerrank.com/jobs/search
 https://practice.geeksforgeeks.org/company-tags
@@ -444,6 +447,7 @@ Algorithm Dictionaries and Libraries
 https://www.scriptol.com/programming/list-algorithms.php
 https://github.com/OpenGenus/cosmos#cosmic-structure
 
+https://github.com/andyttran/guide_to_algorithms | andyttran/guide_to_algorithms: A guide to get started in algorithms
 
 Awesome Python Algorithms
 * [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms) 
