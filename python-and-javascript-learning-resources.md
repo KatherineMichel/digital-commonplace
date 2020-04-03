@@ -154,6 +154,10 @@ https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on 
 
 People
 
+https://blog.jessfraz.com/ | Ramblings from Jessie: Home
+
+https://twitter.com/ramalhoorg
+
 Michael
 https://mherman.org/talks | Talks and Trainings
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
