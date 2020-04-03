@@ -46,15 +46,8 @@ https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
 -->
 
-
 <!--
-https://github.com/jazzband/dj-rest-auth
-
-https://github.com/adamchainz/django-perf-rec
-
-Cookie Cutter
-https://twitter.com/nthapen/status/1240936897234513921
-
+https://testautomationu.applitools.com/python-tutorial/
 
 https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
@@ -63,6 +56,8 @@ https://automationpanda.com/speaking/
 https://twitter.com/AutomationPanda/status/1226591212632596480
 https://automationpanda.com/tag/development/
 
+https://twitter.com/filiplajszczak/status/1228800450515869703
+https://twitter.com/PurpleDiane88/status/1227365692380340224
 
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style
@@ -71,50 +66,24 @@ https://github.com/jakevdp/WhirlwindTourOfPython
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
 https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
 
-
 https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
 https://www.freecodecamp.org/news/best-python-tutorial/
-
 https://github.com/JackMcKew/awesome-python-bytes
 https://www.pythonmorsels.com/resources/
-https://twitter.com/filiplajszczak/status/1228800450515869703
-https://twitter.com/PurpleDiane88/status/1227365692380340224
 
-https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
-
-
-Raymond Course
-https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
-
-William
-https://djangoforprofessionals.com/ | Django for Professionals
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-
-Python Crash Course
-https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
-
-Al
-https://automatetheboringstuff.com/
-https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
-https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
-https://github.com/asweigart/automateboringstuff1stedition
-https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
-https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
-
-Al Sweigart Book
-https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
-
-Exercises
-https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
-
-
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
-
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 
 https://pythonspeed.com/ | Ship better Python software, faster
 
-MS Python
-https://www.pcgamer.com/microsoft-launches-a-free-python-for-beginners-video-course-for-aspiring-coders/ | Microsoft launches a free 'Python for beginners' video course for aspiring coders | PC Gamer
+https://google.github.io/styleguide/pyguide.html
+https://www.learnpython.dev/
+https://frontendmasters.com/teachers/nina-zakharenko/
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1217933709577342976
+https://www.twitch.tv/nnjaio
 
 NSA Python
 https://twitter.com/chris_swenson/status/1225836060938125313
@@ -122,8 +91,10 @@ https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://archive.org/details/comp3321/page/n4/mode/2up
 https://archive.org/details/comp3321/page/n89/mode/2up/search/device
 
-https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
-https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+MS Python
+https://www.pcgamer.com/microsoft-launches-a-free-python-for-beginners-video-course-for-aspiring-coders/ | Microsoft launches a free 'Python for beginners' video course for aspiring coders | PC Gamer
+
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
@@ -131,12 +102,28 @@ https://www.cosmicpython.com/
 
 Tools
 
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+
+https://github.com/jazzband/dj-rest-auth
+
 https://jazzband.co/ | Jazzband
 https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
 https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
 Django configs- Jazz Band
 https://twitter.com/jpadilla_/status/1189752115566133248
 
+https://github.com/jpadilla/
+https://github.com/jpadilla/django-rest-framework-jwt
+https://github.com/jpadilla/django-project-template
+
+https://github.com/adamchainz/django-perf-rec
+
+Cookie Cutter
+https://twitter.com/nthapen/status/1240936897234513921
 https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
 https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
 
@@ -159,12 +146,6 @@ https://github.com/upday/python-project-template | upday/python-project-template
 https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
-https://github.com/jpadilla/
-https://github.com/jpadilla/django-rest-framework-jwt
-https://github.com/jpadilla/django-project-template
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-
 Google Cloud Django/Python
 https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
@@ -173,7 +154,16 @@ https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on 
 
 People
 
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+Michael
+https://mherman.org/talks | Talks and Trainings
+https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
+https://mherman.org/about | About Me
+https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
+https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
+https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
+https://realpython.com/ | Python Tutorials – Real Python
+https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
+https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
 https://treyhunner.com/2020/01/passing-functions-as-arguments/
@@ -189,6 +179,31 @@ https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/#while | How t
 https://treyhunner.com/2019/01/no-really-pathlib-is-great/ | No really, pathlib is great - Trey Hunner
 https://en.wikipedia.org/wiki/Sentinel_value | Sentinel value - Wikipedia
 https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique sentinel values, identity checks, and when to use object() instead of None - Trey Hunner
+
+Raymond Course
+https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
+
+William
+https://djangoforprofessionals.com/ | Django for Professionals
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+
+Python Crash Course
+https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
+
+Al
+https://automatetheboringstuff.com/
+https://inventwithpython.com
+https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
+https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
+https://github.com/asweigart/automateboringstuff1stedition
+https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
+https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
+
+Al Sweigart Book
+https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
+
+Exercises
+https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
 
 https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
 
@@ -223,10 +238,6 @@ https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
 https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
 https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
 
-Good Print, hello debugger, DjangoCon
-https://twitter.com/nnja/status/1217933709577342976
-https://www.twitch.tv/nnjaio
-
 https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
 https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
 
@@ -234,17 +245,6 @@ A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpre
 https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
-
-Michael
-https://mherman.org/talks | Talks and Trainings
-https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
-https://mherman.org/about | About Me
-https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
-https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
-https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
-https://realpython.com/ | Python Tutorials – Real Python
-https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
-https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
 
 https://rhettinger.github.io/ | Raymond Hettinger – US Pycon 2019 — US Pycon December 2019 documentation
 https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
