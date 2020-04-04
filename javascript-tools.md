@@ -681,23 +681,12 @@ https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-
 https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png | react-developer-roadmap/roadmap.png at master · adam-golab/react-developer-roadmap
 -->
 
-<!--
-Kent Dodd- React
-https://frontendmasters.com/teachers/kentcdodds/ | Learn from Kent C. Dodds's courses on Frontend Masters
-https://github.com/kentcdodds?tab=repositories | kentcdodds (Kent C. Dodds) / Repositories
-https://github.com/kentcdodds/advanced-react-patterns-v2/blob/frontend-masters/README.md | advanced-react-patterns-v2/README.md at frontend-masters · kentcdodds/advanced-react-patterns-v2
--->
-
 React Fiber
 
 <!--
 https://github.com/acdlite/react-fiber-architecture | acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber
 https://github.com/SaeedMalikx/React-Fiber-Architecture | SaeedMalikx/React-Fiber-Architecture: Understanding the structure of React Fiber( walk through and pseudo-code)
 https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded | Let’s fall in love with React Fiber – freeCodeCamp.org
--->
-
-<!--
-https://overreacted.io/react-as-a-ui-runtime/ | React as a UI Runtime — Overreacted
 -->
 
 Facebook- React (JavaScript)
@@ -750,16 +739,8 @@ React Developer Tools
 https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
 -->
 
-Brian Holt React Courses
-* [Brian Holt: Frontend Masters Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4), [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4), and [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4)
-* [Brian Holt: Frontend Masters Complete Intro to React](https://frontendmasters.com/courses/react), [Complete Intro to React GitHub](https://github.com/btholt/complete-intro-to-react), and [Complete Intro to React](https://btholt.github.io/complete-intro-to-react)
-* [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
-
 <!--
 https://github.com/btholt/react-redux-workshop | btholt/react-redux-workshop: 🇮🇸🇵🇱🇺🇸🇨🇭🇮🇱⚛ A workshop to teach you React and Redux in one day!
-https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
-
-https://github.com/FrontendMasters/front-end-handbook-2018 | FrontendMasters/front-end-handbook-2018: 2018 edition of our front-end development handbook
 
 https://frontendmasters.com/assets/resources/willsentance/js-the-hard-parts.pdf | js-the-hard-parts.pdf
 https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf | new-hard-parts-slides.pdf
