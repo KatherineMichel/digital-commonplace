@@ -113,7 +113,7 @@ https://github.com/docker/compose/issues/3729
 https://developers.google.com/machine-learning/crash-course
 -->
 
-## Mine
+## Website and Blog Resources
 
 GitHub Pages Showcase (Jekyll)
 * [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
@@ -772,8 +772,11 @@ Python- Django- Sites
 
 Built With
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [vue.js Showcase](https://madewithvuejs.com/)
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 * [Made with React](http://madewithreact.com)
+* [React Showcase](https://madewithreactjs.com/)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 
 ## Company Playbooks
