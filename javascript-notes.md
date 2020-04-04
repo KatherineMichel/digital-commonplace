@@ -7,40 +7,6 @@ https://flaviocopes.com/javascript-glossary/ | The JavaScript Glossary
 Feross
 https://github.com/feross
 
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
-
-https://app.slack.com/client/T0B6Z0ZL1/
-https://wesbos.com/courses/
-https://beginnerjavascript.com/
-https://github.com/wesbos/beginner-javascript/
-https://javascript30.com/
-https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
-https://es6.io/
-https://github.com/wesbos/es6.io
-https://reactforbeginners.com/
-https://github.com/wesbos/eslint-config-wesbos
-
-https://justjavascript.com/
-https://twitter.com/dan_abramov/status/1225838339598831616
-
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
-https://frontendmasters.com
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-
-https://traversymedia.com/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-
 https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
 
@@ -56,12 +22,13 @@ https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks
 
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+
 Airbnb- isomorphic
 https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
 https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
 https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
 
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 https://testingjavascript.com/ | Testing JavaScript with Kent C. Dodds
@@ -80,20 +47,11 @@ https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery meth
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://jquery.com/ | jQuery
 
-Made with
-https://expressjs.com/en/resources/companies-using-express.html | Companies using Express
-https://madewithvuejs.com/ | Vue.js Showcase - Made With Vue.js
-https://madewithreactjs.com/ | React.js Showcase - Made With React.js
-https://madewithreact.com/ | Made with React
-
 https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
 https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
 -->
 
 <!--
-https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
-https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
-
 JS Recommendations
 https://twitter.com/jkup/status/1217849585219010560
 
@@ -106,6 +64,7 @@ https://github.com/palashmon/awesome-js-posts
 https://github.com/andyttran/guide_to_algorithms
 
 Node
+https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 
   * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
@@ -118,6 +77,9 @@ https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜
 https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
 https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
 
+Testing
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
+
 JavaScript Algos
 https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
@@ -126,19 +88,66 @@ https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20J
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
 -->
 
-## React and Vue
+## Useful Courses
+
+Wes Bos
+* [Wes Bos Courses](https://wesbos.com/courses/)
+* [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
+* [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
+* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
+* [React for Beginners](https://reactforbeginners.com/)
+
+Dan Abramov
+* [Just JavaScript](https://justjavascript.com/)
+
+Brian Holt React Courses
+* [Brian Holt: Frontend Masters Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4), [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4), and [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4)
+* [Brian Holt: Frontend Masters Complete Intro to React](https://frontendmasters.com/courses/react), [Complete Intro to React GitHub](https://github.com/btholt/complete-intro-to-react), and [Complete Intro to React](https://btholt.github.io/complete-intro-to-react)
+* [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
+
+<!--
+https://app.slack.com/client/T0B6Z0ZL1/
+https://github.com/wesbos/eslint-config-wesbos
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+https://github.com/FrontendMasters/front-end-handbook-2018 | FrontendMasters/front-end-handbook-2018: 2018 edition of our front-end development handbook
+
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+https://www.udemy.com/user/brad-traversy/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+-->
+
+<!--
+Kent Dodd- React
+https://frontendmasters.com/teachers/kentcdodds/ | Learn from Kent C. Dodds's courses on Frontend Masters
+https://github.com/kentcdodds?tab=repositories | kentcdodds (Kent C. Dodds) / Repositories
+https://github.com/kentcdodds/advanced-react-patterns-v2/blob/frontend-masters/README.md | advanced-react-patterns-v2/README.md at frontend-masters · kentcdodds/advanced-react-patterns-v2
+-->
 
 <!--
 https://web.dev/react
 https://web.dev/angular
 
-BHolt
-https://btholt.github.io/complete-intro-to-react/ | Complete Intro to React
-
 Dan
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks - Dan Abramov - Medium
 https://overreacted.io/on-let-vs-const/ | On let vs const — Overreacted
 https://overreacted.io/goodbye-clean-code/ | Goodbye, Clean Code — Overreacted
+https://overreacted.io/react-as-a-ui-runtime/ | React as a UI Runtime — Overreacted
 
 https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
 -->
@@ -164,7 +173,9 @@ JavaScript- People
 * [Tyler McGinnis](https://tylermcginnis.com)
 
 <!--
+vue.js
 https://twitter.com/youyuxi
+
 https://flaviocopes.com
 https://medium.com/@js_tut | JavaScript Teacher – Medium
 -->
@@ -253,9 +264,6 @@ https://github.com/bradtraversy/react_crash_todo/tree/master/src | react_crash_t
 
 https://www.udemy.com/react-redux/
 
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-https://www.udemy.com/user/brad-traversy/
 https://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=TRAVERSYMEDIA
 https://www.udemy.com/react-front-to-back/?couponCode=TRAVERSYMEDIA
 
@@ -556,208 +564,3 @@ Google Developers- Canary Chrome
 
 Google Developers- General
 * [Google Chrome Home](https://developer.chrome.com/home)
-
-<!--
-https://en.wikipedia.org/wiki/Network_service | Network service - Wikipedia
-
-https://twitter.com/nasko
-https://www.youtube.com/watch?v=mX7jQsGCF6E&list=PL9ioqAuyl6UIFAdsM5KU6P-hRJdh-BPmm&t=0s&index=2 | Chrome University 2018: Life of a Navigation - YouTube
-https://www.youtube.com/watch?v=m6Kz6pMaIxc&list=PL9ioqAuyl6UIFAdsM5KU6P-hRJdh-BPmm&index=3 | Chrome University 2018: Life of a Process - YouTube
-https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.g291e5dcaed_0_0 | Life of a Pixel 2018 - Google Slides
-https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit?usp=sharing | Life of a Pixel 2018 - Google Slides
-
-Google Chrome Developers YouTube Channels
-https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw
-https://www.youtube.com/channel/UCIfQb9u7ALnOE4ZmexRecDg | BlinkOn - YouTube
-
-https://github.com/chromium/chromium/tree/master/chromeos | chromium/chromeos at master · chromium/chromium
-https://chromium.googlesource.com/chromiumos/docs/+/master/development_basics.md
-
-https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/core/layout/ng/README.md | LayoutNG
-https://www.chromium.org/developers/design-documents | Design Documents - The Chromium Projects
-
-https://www.chromium.org/developers/design-documents/multi-process-architecture | Multi-process Architecture - The Chromium Projects
-
-https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction | Render-tree Construction, Layout, and Paint  |  Web Fundamentals  |  Google Developers
-
-https://en.wikipedia.org/wiki/Pixel | Pixel - Wikipedia
--->
-
-## Protocols
-
-<!--
-https://www.w3.org/Protocols
-https://www.w3.org/TR/webarch/ | Architecture of the World Wide Web, Volume One
-* [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
-https://www.w3.org/Protocols/HTTP/Request.html | HTTP: The Request
-
-https://html.spec.whatwg.org/multipage/parsing.html#overview-of-the-parsing-model | HTML Standard
--->
-
-<!--
-TCP/IP, DNS
-
-https://code.tutsplus.com/tutorials/how-the-web-works-http-and-the-web-server--cms-25971
-
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server | What is a web server? - Learn web development | MDN
-
-
-https://www.geeksforgeeks.org/implementation-stack-javascript/ | Implementation of Stack in JavaScript - GeeksforGeeks
-
-
-https://www.digitalocean.com/community/tutorials/understanding-objects-in-javascript
-
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model | CSS Object Model (CSSOM) - Web APIs | MDN
-
-
-http://caniuse.com/
-
-* [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
-   
-http://www.sitepoint.com/getting-started-react-jsx
-
-https://www.w3.org/webperf
--->
-
-<!--
-https://teamtreehouse.com/library/objectoriented-javascript/
--->
-
-## Additional from Cory House
-
-<!--
-5 Module Formats
-* IIFE (thing of the past)
-* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
-* Universal Module Definition (UMD)
-* CommonJS (CJS) (var jquery = require('jquery'))
-* ES6 Modules (import jQuery from 'jquery') (best choice)
--->
-
-# Request and Response
-
-<!--
-## HTTP, Request and Response Cycle
-
-[httpstatuses.com](https://httpstatuses.com/)
-[Introduction to HTTP](https://launchschool.com/books/http)
--->
-
-## Mozilla- Document Object Model
-
-<!--
-https://www.udacity.com/course/javascript-and-the-dom--ud117 | JavaScript and the DOM | Udacity
-
-https://www.digitalocean.com/community/tutorials/introduction-to-the-dom | How To Understand and Modify the DOM in JavaScript | 
-
-http://eloquentjavascript.net/14_dom.html | The Document Object Model :: Eloquent JavaScript
-
-https://software.hixie.ch/utilities/js/live-dom-viewer/
-
-https://en.wikipedia.org/wiki/DOM_Inspector | DOM Inspector - Wikipedia
--->
-
-## JavaScript Events
-
-<!--
-Keyboard
-* [W3C Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
--->
-
-<!--
-https://github.com/github/fetch
-https://github.com/localForage/localForage
-
-    * Internal
-      * [Introducing the WebKit FTL JIT](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
-    * Next Generation
-      * [JSC Love ES6](https://webkit.org/blog/7536/jsc-loves-es6/)
-      * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/)
-           
-  * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
-  
-* Network
-  * XHR - [window.fetch Polyfill](https://github.com/github/fetch)
-  * WebSocket - [Socket.IO-client](https://www.npmjs.com/package/socket.io-client) / [Engine.IO-client](https://www.npmjs.com/package/engine.io-client) / [SockJS-client](https://www.npmjs.com/package/sockjs-client)
-* Offline
-  * Service Work - [sw-toolbox](https://googlechrome.github.io/sw-toolbox/)
-  * IndexedDB
-    * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
-    
-  * Integration Testing
-    * [Enzyme](http://airbnb.io/enzyme/)
-  * Functional Testing
-    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
-    * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
-  * Visual Testing
-    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
-    * [BrowserStack](https://www.browserstack.com/)
-  * Headless Browsers
-    * Browsers
-      * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
-      * Chromium + Node.js - [electron-prebuilt](https://www.npmjs.com/package/electron)
-      * WebKit - [PhantomJS](http://phantomjs.org/)
-      * Gecko - [SlimerJS](https://slimerjs.org/)
-    * In-memory X11 Display Server
-      * [xvfb](https://en.wikipedia.org/wiki/Xvfb) - [xvfb-run](http://manpages.ubuntu.com/manpages/trusty/man1/xvfb-run.1.html) / [headless](https://www.npmjs.com/package/headless)
-    * Docker
-      * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
-      * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
--->
-
-<!--
-  * Images
-    * [Responsive Images](https://developers.google.com/web/fundamentals/design-and-ui/responsive/images), 
-* [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
-* Text
-  * [writing-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode) + [text-orientation](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
-
-    * [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
-
-* Media
-  * [\<video\>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video), [\<audio\>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
-  * [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-    * [Web Audio API Book](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
-  * [Media Streams](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
-* Graphics
-  * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
-  * [Canvas](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
-    * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html)
-  * [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
-    * [WebGL by example](https://developer.mozilla.org/en-US/docs/Learn/WebGL/By_example), [WebGL tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
-  * [Web Cryptography](https://developer.mozilla.org/en-US/docs/Web/API/Crypto)
-
-  * Apple
-    * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
-    
-        * [Safari Web Content Guide](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/), [Safari HTML Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html), [Safari CSS Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariCSSRef/), [Safari CSS Visual Effects Guide](https://developer.apple.com/library/content/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/)
--->
-
-<!--
-Dmitry Soshnikov and Dmitri Pavlutin 
-
-    * Dmitry Soshnikov
-      * [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
-      * ECMA-262-3 in detail
-        * [Execution Contexts](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/), [Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/), [This](http://dmitrysoshnikov.com/ecmascript/chapter-3-this/), [Scope chain](http://dmitrysoshnikov.com/ecmascript/chapter-4-scope-chain/), [Functions](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/), [Closures](http://dmitrysoshnikov.com/ecmascript/chapter-6-closures/), [Evaluation strategy](http://dmitrysoshnikov.com/ecmascript/chapter-8-evaluation-strategy/)
-        * OOP: [The general theory](http://dmitrysoshnikov.com/ecmascript/chapter-7-1-oop-general-theory/), [ECMAScript implementation](http://dmitrysoshnikov.com/ecmascript/chapter-7-2-oop-ecmascript-implementation/),
-      * ECMA-262-5 in detail
-        * [Properties and Property Descriptors](http://dmitrysoshnikov.com/ecmascript/es5-chapter-1-properties-and-property-descriptors/), [Strict Mode](http://dmitrysoshnikov.com/ecmascript/es5-chapter-2-strict-mode/)
-        * Lexical environments: [Common Theory](http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-1-lexical-environments-common-theory/), [ECMAScript implementation](http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-2-lexical-environments-ecmascript-implementation/)
-      * Notes
-        * [Equality operators](http://dmitrysoshnikov.com/notes/note-2-ecmascript-equality-operators/), [Default values of parameters](http://dmitrysoshnikov.com/ecmascript/es6-notes-default-values-of-parameters/)
-    * Dmitri Pavlutin
-      * [equality operator](https://rainsoft.io/the-legend-of-javascript-equality-operator/), [undefined](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/)
-      * [variables hoisting](https://rainsoft.io/javascript-hoisting-in-details/), [variables lifecycle](https://rainsoft.io/variables-lifecycle-and-why-let-is-not-hoisted/)
-      * [declare functions](https://rainsoft.io/6-ways-to-declare-javascript-functions/), ['this' keyword](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-      * [three dots](https://rainsoft.io/how-three-dots-changed-javascript/)
-      * [array creation](https://rainsoft.io/power-up-the-array-creation-in-javascript/), [object literals](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
-      * [well-known symbols](https://rainsoft.io/detailed-overview-of-well-known-symbols/)
-      * [small and plain functions](https://rainsoft.io/the-art-of-writing-small-and-plain-functions/)
-      * [unicode](https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/)
--->
