@@ -65,6 +65,15 @@ https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21 | My Twit
 https://github.com/bnb/awesome-developer-streams#suz-hinton | GitHub - bnb/awesome-developer-streams: 
 https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
 
+Books
+https://www.daolf.com/posts/best-python-books/ | 📕 The 25 most recommended python books of all-time. · daolf
+https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on Twitter: "This time: Python 🐍. I wanted to know what were the most recommended Python books ever 🏆 So I've compiled more than 2000 recommendations from 130 lists and came up with this top 25 most recommended Python books of all-time 📕 THREAD 👇" / Twitter
+https://www.daolf.com/posts/best-programming-books/ | 📕 The 25 most recommended programming books of all-time. · daolf
+the pragrammatic programmer - Google Search
+https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
+https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
+https://github.com/daolf/Most-recommended-programming-books | daolf/Most-recommended-programming-books: The most recommended programming books of all-time.
+
 People
 https://www.twitch.tv/directory/following
 
@@ -1190,31 +1199,6 @@ GitHub Services- Deprecated
 
 
 <!--
-https://githubuniverse.com/workshops/ | Workshops | GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA
-https://github.com/universeworkshops/general/blob/master/prereqs.md | general/prereqs.md at master · universeworkshops/general
-https://lab.github.com/
-https://lab.github.com/githubtraining/ | GitHub Learning Lab
-
-Workshops
-https://lab.github.com/githubtraining/innersource-fundamentals
-https://lab.github.com/github/hello-github-actions!
-https://lab.github.com/githubtraining/github-actions:-continuous-integration
-https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages
-https://lab.github.com/githubtraining/github-actions:-continuous-delivery
-
-https://todo.jasonet.co/ | todo | GitHub App
-https://github.com/jasonetco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-https://github.com/universeworkshops/todo-template | universeworkshops/todo-template: GitHub App that creates new issues from actionable comments in your code.
-https://github.com/KatherineMichel/todo
-https://github.com/KatherineMichel/todo/blob/release/.github/workflows/prepare-release-branch.yml | todo/prepare-release-branch.yml at release · KatherineMichel/todo
-https://github.com/KatherineMichel/todo/releases/tag/v1.0.0 | Release todo[bot] release 1.0.0 · KatherineMichel/todo
-https://github.com/universeworkshops/scrabblescore-template
-https://github.com/swinton/scrabblescore
-https://github.com/swinton/example-deploy-to-amazon-ecs-with-github-actions
-https://github.com/swinton/playlists
-
-https://github.blog/2019-11-13-universe-day-one/ | New from Universe 2019: GitHub for mobile, GitHub Archive Program, and more - The GitHub Blog
-
 https://www.youtube.com/user/github/videos | GitHub - YouTube
 https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
