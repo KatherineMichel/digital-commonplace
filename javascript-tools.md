@@ -63,6 +63,7 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
+https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
 https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
 
 https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
@@ -320,8 +321,9 @@ Linting
       
 https://github.com/google/eslint-config-google
 
-http://eslint.org/docs/2.0.0/user-guide/configuring
 http://eslint.org/docs/rules/
+https://eslint.org/docs/rules/no-restricted-imports | no-restricted-imports - Rules - ESLint - Pluggable JavaScript linter
+http://eslint.org/docs/2.0.0/user-guide/configuring
 
 Preset: ESLint standard rules
 https://www.npmjs.com/package/eslint-config-airbnb
