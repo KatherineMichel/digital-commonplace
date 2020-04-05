@@ -4,13 +4,6 @@
 Go
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
 
-HTTP, API, DOM
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://expressjs.com/en/api.html
-https://github.com/jsdom/jsdom
-https://github.com/ruyadorno/ipt
-
 https://requirejs.org/ | RequireJS
 https://parceljs.org
 -->
