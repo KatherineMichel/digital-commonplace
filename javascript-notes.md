@@ -1,6 +1,13 @@
 # JavaScript Notes
 
 <!--
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+https://github.com/jsdom/jsdom
+https://github.com/ruyadorno/ipt
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
 https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
 https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
 https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
@@ -53,6 +60,7 @@ https://github.com/phuoc-ng/html-dom
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
 
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
