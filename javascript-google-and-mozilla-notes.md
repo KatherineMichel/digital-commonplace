@@ -1,30 +1,6 @@
 # JavaScript- Google and Mozilla Notes
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Events
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
-https://developer.twitter.com/en/docs
-https://www.programmableweb.com/category/all/apis
-
-https://twitter.com/_ericelliott/status/1200868362517176322 | Eric Elliott on Twitter: "My favorite modern JS features: * Arrow functions * Array/object destructuring * Rest/Spread * Async/await * [Symbol.iterator]" / Twitter
-https://twitter.com/dabeaz/status/1200526542532698112 | David Beazley on Twitter: "I see a lot of "advanced Python" tutorials that talk about using map, filter, and reduce. Confession: I never use map, filter, or reduce. The first two are easily performed using list comprehensions or generator expressions. Common reductions are already there (sum, min, max)." / Twitter
-
-https://twitter.com/js_tut/status/1103719543044800514 | JavaScript Teacher on Twitter: "1. Authentication / tokens 2. Navigation / routing 3. Arrays / iterators 4. Higher-order functions (.filter .map .reduce) 5. UI: layout / grid / flex 6. Fetch API / crud a. Create b. Read c. Update d. Delete If you know this you're probably employable. What else is missing?"
-https://twitter.com/js_tut/status/1190317017276002307 | JavaScript Teacher on Twitter: "Coding is all about: 1. Looping 2. Defining 3. Calling 4. Listing 5. Merging 6. Deleting 7. Removing 8. Erasing 9. Updating 10. Calculating 11. Rendering 12. Requesting 13. Returning 14. Invoking 15. Submitting 16. Accepting 17. Rejecting 18. Applying 19. Filtering 20. Mapping" / Twitter
-https://twitter.com/js_tut/status/1141698543712972801 | JavaScript Teacher on Twitter: "console.log("good morning"); vanilla #JavaScript let morning:good = true; #TypeScript $(good).morning(); #jQuery <GoodMorning /> #ReactJS <p v-good="morning"> #VueJS { good { morning } } #GraphQL print "good morning" #Python echo "good morning"; #PHP Good morning. #Human"
-https://twitter.com/js_tut/status/1188434745769840640 | JavaScript Teacher on Twitter: "console.log("good morning"); vanilla #JavaScript let morning:good = true; #TypeScript $(good).morning(); #jQuery &lt;GoodMorning /&gt; #ReactJS &lt;p v-good="morning"&gt; #VueJS { good { morning } } #GraphQL print ("good morning") 🐍 #Python echo "good morning"; #PHP Ẹ ku aarọ 🇳🇬 #Yorùbá" / Twitter
-https://twitter.com/js_tut/status/1188450669625331712 | JavaScript Teacher on Twitter: "console.log("good night"); vanilla #JavaScript let night:good = true; #TypeScript $(good).night(); #jQuery &lt;GoodNight /&gt; #ReactJS &lt;p v-good="night"&gt; #VueJS { good { night } } #GraphQL print ("good night") 🐍 #Python echo "good night"; #PHP Kasun layọ o 🇳🇬 #Yorùbá" / Twitter
-https://twitter.com/js_tut/status/1141838103763701760 | JavaScript Teacher on Twitter: "If you've never spoken JavaScript, here's a good start: 1. class / import / new 2. () => {} arrow functions 3. understanding === operator 4. Learn Array.* higher-order functions (.filter, .map & .reduce) 5. async / await 6. import / export 7. [] is iterable 8. {} is enumerable"
-https://twitter.com/_ericelliott/status/1141405592294219782 | Eric Elliott on Twitter: "Every JS app developer needs to know: -FP basics: pure functions, curry, function composition -objects: composition vs inheritance -async patterns: callbacks, promises, events, streams"
-https://twitter.com/rwieruch/status/1150796165702660096 | Robin Wieruch on Twitter: "Enough JavaScript to learn React 👇🏽 ✅ Classes ✅ Arrow Functions ✅ Template Literals ✅ Map, Filter, Reduce ✅ Conditionals ✅ Import/Export ✅ Libraries ✅ Async/Await ✅ Higher-Order Functions and much more. Revamped from last year 🎉 https://t.co/rB9ouzYrzj"
- -->
-
-<!--
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 
 Interview Series
@@ -53,12 +29,22 @@ https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d2245
 https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
 https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
 https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
 -->
 
 <!--
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-http://youmightnotneedjquery.com/ | You Might Not Need jQuery
+https://developer.twitter.com/en/docs
+https://www.programmableweb.com/category/all/apis
 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
@@ -71,61 +57,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Properties_Ind
 -->
 
 <!--
-Python/Django state
-JavaScript state
-
-Stateless
-"Examples of stateless protocols include the Internet Protocol (IP), which is the foundation for the Internet, and the Hypertext Transfer Protocol (HTTP), which is the foundation of data communication for the World Wide Web."
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
-
 https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function | First-class Function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://en.wikipedia.org/wiki/First-class_function
-https://en.wikipedia.org/wiki/Higher-order_function
-https://en.wikipedia.org/wiki/Anonymous_function | Anonymous function - Wikipedia
-https://en.wikipedia.org/wiki/Map_(higher-order_function) | Map (higher-order function) - Wikipedia
-
-https://en.wikipedia.org/wiki/State_diagram
-
-https://en.wikipedia.org/wiki/Persistent_data_structure#Partially_persistent | Persistent data structure - Wikipedia
-
-https://en.wikipedia.org/wiki/Memoization
-
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
-
-functional programming- immutability/immutable data structures
-
-https://realpython.com/courses/functional-programming-python/
-https://realpython.com/lessons/immutable-data-structures-namedtuple/
-
-https://realpython.com/modeling-polymorphism-django-python/
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-https://github.com/xgrommx/awesome-functional-programming | xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming
-https://github.com/fantasyland/fantasy-land/blob/master/README.md | fantasy-land/README.md at master · fantasyland/fantasy-land
-
-https://en.wikipedia.org/wiki/Functional_programming
-Closure
-https://en.wikipedia.org/wiki/Closure_(computer_programming)
-Currying
-https://en.wikipedia.org/wiki/Currying
-Idempotent
-https://en.wikipedia.org/wiki/Idempotence
-Functor
-https://en.wikipedia.org/wiki/Functor
-Lambda
-https://en.wikipedia.org/wiki/Lambda
-Lambda Calculus
-https://en.wikipedia.org/wiki/Lambda_calculus
-Lazy evaluation
-https://en.wikipedia.org/wiki/Lazy_evaluation
-Monoid
-https://en.wikipedia.org/wiki/Monoid
-Monad
-https://en.wikipedia.org/wiki/Monad_(functional_programming)
-Isomorphism
-Function
-Partial function
 -->
 
 ## Stuff
