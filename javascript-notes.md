@@ -1,16 +1,29 @@
 # JavaScript Notes
 
 <!--
+https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+https://web.dev/ | web.dev  |  web.dev
+https://web.dev/fast/
+
 https://flaviocopes.com/run-javascript-snippets/ | How I run little JavaScript snippets
 https://flaviocopes.com/javascript-glossary/ | The JavaScript Glossary
 
-Feross
-https://github.com/feross
+https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/ | JavaScript Modules: From IIFEs to CommonJS to ES6 Modules
+https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ | A Beginner's Guide to JavaScript's Prototype
+
+https://github.com/kentcdodds/testing-workshop/tree/fem-2018 | kentcdodds/testing-workshop at fem-2018
+https://github.com/kentcdodds/how-jest-mocking-works | kentcdodds/how-jest-mocking-works
+
+Kent
+https://testingjavascript.com/ | Testing JavaScript with Kent C. Dodds
 
 https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
 https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
-
-https://web.dev/ | web.dev  |  web.dev
 -->
 
 <!--
@@ -19,8 +32,6 @@ https://twitter.com/_ericelliott/status/1147563388928745472 | Twitter
 
 Performance
 https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
-
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
@@ -31,8 +42,6 @@ https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
 
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
-https://testingjavascript.com/ | Testing JavaScript with Kent C. Dodds
-
 https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
 
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
@@ -40,6 +49,9 @@ https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twit
 
 https://github.com/luruke/browser-2020
 https://github.com/phuoc-ng/html-dom
+
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
 
 https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
@@ -101,11 +113,18 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 Brian Holt React Courses
+* [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/) and [Complete Intro to React v5 GitHub](https://github.com/btholt/complete-intro-to-react-v5)
+* [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4) and [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4)
 * [Brian Holt: Frontend Masters Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4), [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4), and [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4)
 * [Brian Holt: Frontend Masters Complete Intro to React](https://frontendmasters.com/courses/react), [Complete Intro to React GitHub](https://github.com/btholt/complete-intro-to-react), and [Complete Intro to React](https://btholt.github.io/complete-intro-to-react)
 * [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
 
 <!--
+https://github.com/btholt/react-hooks-examples | btholt/react-hooks-examples: Created with CodeSandbox
+https://codesandbox.io/s/github/btholt/react-hooks-examples | hooks-examples - CodeSandbox
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
 https://app.slack.com/client/T0B6Z0ZL1/
 https://github.com/wesbos/eslint-config-wesbos
 
@@ -118,10 +137,15 @@ https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
 
 https://frontendmasters.com
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
 
 https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
-https://github.com/FrontendMasters/front-end-handbook-2018 | FrontendMasters/front-end-handbook-2018: 2018 edition of our front-end development handbook
+
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
 http://www.traversymedia.com
 https://twitter.com/traversymedia
@@ -133,10 +157,20 @@ https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_j
 -->
 
 <!--
+Tyler
+https://tylermcginnis.com/free-react-bootcamp/ | Free Online React Bootcamp | TylerMcGinnis.com
+https://tylermcginnis.com/courses/react-fundamentals/ | React Fundamentals - The best way to learn React Fundamentals
+
 Kent Dodd- React
 https://frontendmasters.com/teachers/kentcdodds/ | Learn from Kent C. Dodds's courses on Frontend Masters
 https://github.com/kentcdodds?tab=repositories | kentcdodds (Kent C. Dodds) / Repositories
+https://github.com/kentcdodds/react-fundamentals | kentcdodds/react-fundamentals: Material for my React Fundamentals Workshop
 https://github.com/kentcdodds/advanced-react-patterns-v2/blob/frontend-masters/README.md | advanced-react-patterns-v2/README.md at frontend-masters · kentcdodds/advanced-react-patterns-v2
+https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2 | advanced-react-patterns-v2 - CodeSandbox
+
+Kent Dodd- Testing
+https://github.com/kentcdodds/react-testing-library | kentcdodds/react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+https://github.com/kentcdodds/react-testing-workshop | kentcdodds/react-testing-workshop: A workshop for testing react applications
 -->
 
 <!--
@@ -173,6 +207,9 @@ JavaScript- People
 * [Tyler McGinnis](https://tylermcginnis.com)
 
 <!--
+Feross
+https://github.com/feross
+
 vue.js
 https://twitter.com/youyuxi
 
@@ -215,9 +252,7 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern 
 <!--
 Eric Elliott
 https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
--->
 
-<!--
 https://ericelliottjs.com/premium-content | Premium Courses
 
 https://gist.github.com/rosario/3e398b4b587d9ab3ae3d6894d7226143 | Eric Elliott's Composing Software Series
@@ -230,11 +265,6 @@ https://github.com/rsperberg/essential-javascript-links
 https://github.com/LewisJEllis/essential-javascript-links
 
 https://devanywhere.io/ | DevAnywhere
-
-http://chimera.labs.oreilly.com/books/1234000000262
-
-https://github.com/ericelliott/tinyapp
-https://github.com/stampit-org/stampit
 -->
 
 ## Patterns
