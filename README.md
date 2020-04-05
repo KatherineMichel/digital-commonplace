@@ -58,6 +58,8 @@ https://www.techopedia.com
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 
+https://twitter.com/housecor/status/1097984157442080774 | Cory House 🏠 on Twitter: "Just did the State of CSS survey. Just learned a lot by googling for the long list of modern CSS technologies I hadn't tried yet: Blend modes Shapes Masks Object-fit Exclusions Writing modes Scrollsnap supports queries overscroll-behavior... https://t.co/UhOA3UQ731"
+
 https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
 
 Live Coding
@@ -778,6 +780,10 @@ Built With
 * [Made with React](http://madewithreact.com)
 * [React Showcase](https://madewithreactjs.com/)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+<!--
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
 
 ## Company Playbooks
 
