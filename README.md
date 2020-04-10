@@ -3,6 +3,10 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://github.com/watching
+
+https://compedu.stanford.edu/codeinplace/announcement/
+
 https://pypi.org/manage/projects/
 
 https://personal.vanguard.com/us/funds/tools/marketsummary
@@ -54,6 +58,8 @@ https://www.freecodecamp.org/ | Learn to code | freeCodeCamp.org
 https://dev.to/ | DEV Community 👩‍💻👨‍💻
 https://hackernoon.com
 https://www.techopedia.com
+
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
