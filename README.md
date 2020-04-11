@@ -3,7 +3,79 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Nuzzel
+https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
+
+node.js Release Schedule
+https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+
+Maintainer driven issues and PRs
+https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
+https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
+
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+
+https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
+https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
+
+https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
+
+GitHub
+https://github.com/rsapkf/goodies | rsapkf/goodies: Collection of GitHub repos, blogs and websites to learn cool things
+
+https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
+
+https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
+
+Glitch/VS Code
+https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Collaborate on code & deploy instantly on Glitch from VSCode | Product Hunt
+
+Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+MS Open Source
+https://twitter.com/sarahnovotny/status/1239572357829685248
+https://twitter.com/storming/status/1239573355986108416
+
+dj3
+https://github.com/d3/d3/wiki
+https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
+https://guides.github.com/features/wikis/
+https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
+https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
+
+Matrix
+https://github.com/jefftriplett/python-github-actions-matrix-demo
+
+Zalando- How to Open Source
+https://github.com/zalando/zalando-howto-open-source
+
+Roadmap
+https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
+
+Gatsby Case Study
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+Viral Funnel model
+https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
+
+Redwood
+https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
+
+https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
+
+100 Days of Code
+
+
 https://github.com/watching
+https://mobile.twitter.com/aaronbassett/status/1248353221678116864
 
 https://compedu.stanford.edu/codeinplace/announcement/
 
@@ -89,6 +161,7 @@ Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
 
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 
 https://github.com/MishManners?tab=followers
 https://twitter.com/MishManners/status/1240839777437364224
