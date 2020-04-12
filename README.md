@@ -3,16 +3,63 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Meditation
+https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCUA | Spotify – Home
+
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
-node.js Release Schedule
-https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
-https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+https://bored.solutions/
 
-Maintainer driven issues and PRs
-https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
-https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
+https://github.com/20tab/django-continuous-delivery
+
+https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
+https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
+
+http://landing.google.com/sre/books/
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+
+Calvin
+https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
+
+https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
+https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
+
+Aaron
+https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
+
+Al
+https://www.udemy.com/course/automate/?couponCode=APR2020FREE | Automate the Boring Stuff with Python Programming Course | Udemy
+
+Google Python
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+
+Anthony
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
+Git tip
+https://twitter.com/FlipperPA/status/1204428589560582144
+
+https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
+
+https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+
+https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+Hidden vulnerabilities of OS Software
+https://twitter.com/cra/status/1242580570451951619
+
+Assessment
+https://coiled.io/blog/stages-of-openness.html
+Service metrics
+https://queue.acm.org/detail.cfm?id=3309571
+https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
+
+Hubot
+https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
 
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
 
@@ -20,11 +67,24 @@ https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #
 
 https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
 https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
-
-https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
+https://trineo.com/blog/2020/01/constraint-driven-development | Constraint Driven Development | Trineo
 
 GitHub
 https://github.com/rsapkf/goodies | rsapkf/goodies: Collection of GitHub repos, blogs and websites to learn cool things
+
+Edward Tufte
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+https://edwardtufte.github.io/tufte-css/ | Tufte CSS
+
+Human Factors
+https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
+https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
+
+https://humanebydesign.com/ | Humane by Design
+
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/KatherineMichel/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
@@ -35,10 +95,6 @@ https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Coll
 
 Nina
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-MS Open Source
-https://twitter.com/sarahnovotny/status/1239572357829685248
-https://twitter.com/storming/status/1239573355986108416
 
 dj3
 https://github.com/d3/d3/wiki
@@ -219,6 +275,10 @@ https://danluu.com/corp-eng-blogs/
 ## Helpful Open Source
 
 <!--
+Maintainer driven issues and PRs
+https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
+https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
+
 https://developers.google.com/tech-writing
 
 https://twitter.com/agjhnsn/status/1222618133069885445
