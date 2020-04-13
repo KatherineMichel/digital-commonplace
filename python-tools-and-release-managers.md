@@ -5,54 +5,37 @@ tox
 https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
 https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
 
-Packaging
-https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
-
 https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-
-https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
 
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 
-Daphne
-https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
-jpezG5fYgd" / Twitter
+GidgetHub
+https://pypi.org/project/gidgethub/ | gidgethub · PyPI
+-->
 
-django-allauth
-https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
+<!--
+brian okken - Google Search
 
-pipenv
-https://twitter.com/simonw/status/1211735682135101440 | Simon Willison on Twitter: "@llanga @webology That's the main reason I use pipenv - it keeps my virtual environments outside Dropbox for me" / Twitter
-
-pyenv
-https://twitter.com/webology/status/1206676626311917568 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "Same. If you run macOS and develop with Python, pyenv is the way to go IMO. https://t.co/9sy5GBtGIw" / Twitter
-https://twitter.com/webology/status/1199446555809460231 | 🍂 Jeff Triplett 🍂 on Twitter: "🐍 This is a great resource. 🐳 I'd love to see a 4th Docker version. 🎉 If you use macOS, I highly, highly recommend using pyenv to manage your Python version of you. It's on my "just use it" list when I work with any level of dev. https://t.co/R6uPyFbJDr" / Twitter
-https://www.marc-richter.info/using-pyenv-to-manage-your-python-interpreters/ | Using pyenv to manage your Python interpreters - Marc Richter's personal site
-
-Travis
-https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
-https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
-https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
-
-Tools
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+Test Anything Protocol
 
 PyTest
 https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
 
-Test Anything Protocol
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
 
-Simon- Tools
-https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/python-tutorial/
 
-PyInstaller
-https://twitter.com/ChPietsch/status/1214592028165787653 | Ꮯhristian Ꮲeach (@chpietsch@digitalcourage.social) on Twitter: "#PyInstaller still is in urgent need  of funding. If there is no sustainable funding until end of January, the current maintainer will officially retire. Which basically means: no more releases. Help funding! Details: https://t.co/veL9hfsnm5 #Python #FOSS #FLOSS #OpenSource" / Twitter
+https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+-->
 
-Translations
-https://twitter.com/di_codes/status/1176241499744296960
-
+<!--
 https://pypi.org/classifiers/ | Classifiers · PyPI
 https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
 https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
@@ -60,33 +43,9 @@ https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 3
 Packaging
 https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
 
-GidgetHub
-https://pypi.org/project/gidgethub/ | gidgethub · PyPI
-
-Tools
-https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
-
-Dead Snakes
-https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
-
-People
-https://github.com/asottile?tab=repositories | asottile (Anthony Sottile) / Repositories
-brian okken - Google Search
-
-https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
-https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
-
-https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
-https://github.com/asottile/hecate | asottile/hecate: A terrible way of testing terminal applications
-
-https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
-https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
-https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
-https://github.com/chriskuehl/shipit | chriskuehl/shipit
-
-https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
-
+Packaging
+https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
 
 Pinax
 https://pypi.org/project/django-utils/ | django-utils · PyPI
@@ -94,6 +53,11 @@ https://docs.python.org/3/library/distutils.html | distutils — Building and in
 -->
 
 <!--
+https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
+
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
 Top downloaded wheels
 https://pythonwheels.com/
 
@@ -121,11 +85,16 @@ https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk abou
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
 
-Tool Choices
+Simon- Tools
+https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
 https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
 This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+
+Tool Choices
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
 https://mobile.twitter.com/webology/status/1195163668440334337
 https://mobile.twitter.com/brettsky/status/1223731773147766784
 https://twitter.com/gvanrossum/status/1227126706089021440
@@ -135,6 +104,17 @@ https://twitter.com/WillingCarol/status/1227331652046770176
 https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
 https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 
+pipenv
+https://twitter.com/simonw/status/1211735682135101440 | Simon Willison on Twitter: "@llanga @webology That's the main reason I use pipenv - it keeps my virtual environments outside Dropbox for me" / Twitter
+
+pyenv
+https://twitter.com/webology/status/1206676626311917568 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "Same. If you run macOS and develop with Python, pyenv is the way to go IMO. https://t.co/9sy5GBtGIw" / Twitter
+https://twitter.com/webology/status/1199446555809460231 | 🍂 Jeff Triplett 🍂 on Twitter: "🐍 This is a great resource. 🐳 I'd love to see a 4th Docker version. 🎉 If you use macOS, I highly, highly recommend using pyenv to manage your Python version of you. It's on my "just use it" list when I work with any level of dev. https://t.co/R6uPyFbJDr" / Twitter
+https://www.marc-richter.info/using-pyenv-to-manage-your-python-interpreters/ | Using pyenv to manage your Python interpreters - Marc Richter's personal site
+
+PyInstaller
+https://twitter.com/ChPietsch/status/1214592028165787653 | Ꮯhristian Ꮲeach (@chpietsch@digitalcourage.social) on Twitter: "#PyInstaller still is in urgent need  of funding. If there is no sustainable funding until end of January, the current maintainer will officially retire. Which basically means: no more releases. Help funding! Details: https://t.co/veL9hfsnm5 #Python #FOSS #FLOSS #OpenSource" / Twitter
+
 Tools Release
 https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
 https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
@@ -142,6 +122,13 @@ https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Tw
 
 PyPy
 https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+
+Daphne
+https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
+jpezG5fYgd" / Twitter
+
+django-allauth
+https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
@@ -469,21 +456,29 @@ Special Projects
 * [babi-editor](https://github.com/babi-editor)
 
 <!--
+https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
+https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
+
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://testandcode.com/104
 
 Builds backported/forwardported pythons for ubuntu with @deadsnakes
 https://twitter.com/codewithanthony/status/1242245981590007808
+https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
 https://github.com/deadsnakes
 https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
 
 https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
 https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
 
+https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
+
 https://github.com/asottile/add-trailing-comma
 https://github.com/asottile/all-repos
 https://github.com/asottile/t
 https://github.com/asottile/git-code-debt
+
+https://github.com/asottile/hecate | asottile/hecate: A terrible way of testing terminal applications
 
 Drop python 2 / python3.5 support in pre-commit
 https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0
@@ -513,6 +508,13 @@ https://tox.readthedocs.io/en/latest/config.html | tox configuration specificati
 
 https://github.com/asottile/pyupgrade
 https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
+
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
+https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
+
+https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
+https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
+https://github.com/chriskuehl/shipit | chriskuehl/shipit
 -->
 
 ## Python 2 or 3, Python 2 EoL
