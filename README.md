@@ -3,236 +3,112 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://personal.vanguard.com/us/funds/tools/marketsummary
+
+https://www.coursera.org/learn/the-science-of-well-being
+
 Meditation
 https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCUA | Spotify – Home
 
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
-https://bored.solutions/
-
-https://github.com/20tab/django-continuous-delivery
-
-Very Important!
-https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
-
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
-
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-
-https://twitter.com/GHSecurityLab/
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
-
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-
-https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
-https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
-
-http://landing.google.com/sre/books/
-
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-
-Calvin
-https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
-
-https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
-https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
-
-Aaron
-https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
-
-Al
-https://www.udemy.com/course/automate/?couponCode=APR2020FREE | Automate the Boring Stuff with Python Programming Course | Udemy
-
-Google Python
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
-
-Anthony
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-
-Git tip
-https://twitter.com/FlipperPA/status/1204428589560582144
-
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
+https://compedu.stanford.edu/codeinplace/announcement/
+https://en.wikipedia.org/wiki/Karel_(programming_language)
+https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
+https://us.edstem.org/courses/490/discussion/
+https://compedu.stanford.edu/codeinplace/v1/#/course
+https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
+https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
 
 JavaScript- Important!
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
 
-JavaScript
-https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
+Anthony
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 
-GitHub integration
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-Shortcuts
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
 
-Mozilla
-https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
-https://developer.mozilla.org/en-US/ | MDN Web Docs
-https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-
-https://twitter.com/dshaw/status/1229102154545336321 | Dan Shaw on Twitter: "Node.js is a copy of Merb and low level system architecture (event polling)." / Twitter
-
-https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
-
-https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
-Hidden vulnerabilities of OS Software
-https://twitter.com/cra/status/1242580570451951619
-
-Assessment
-https://coiled.io/blog/stages-of-openness.html
-Service metrics
-https://queue.acm.org/detail.cfm?id=3309571
-https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
-
-Hubot
-https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
-
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
-
-https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
-https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
-https://trineo.com/blog/2020/01/constraint-driven-development | Constraint Driven Development | Trineo
-
-GitHub
-https://github.com/rsapkf/goodies | rsapkf/goodies: Collection of GitHub repos, blogs and websites to learn cool things
-
-Edward Tufte
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
-https://edwardtufte.github.io/tufte-css/ | Tufte CSS
-
-Human Factors
-https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
-https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
-
-https://humanebydesign.com/ | Humane by Design
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/KatherineMichel/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
-
-https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
-
-Glitch/VS Code
-https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Collaborate on code & deploy instantly on Glitch from VSCode | Product Hunt
-
-Viral Funnel model
-https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
-
-Redwood
-https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
-
-https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 100 Days of Code
 
+CHAOSS
 
-https://github.com/watching
-https://mobile.twitter.com/aaronbassett/status/1248353221678116864
-
-https://compedu.stanford.edu/codeinplace/announcement/
-
-https://pypi.org/manage/projects/
-
-https://personal.vanguard.com/us/funds/tools/marketsummary
-
-https://www.coursera.org/learn/the-science-of-well-being
+Articles and Stuff
+https://dev.to/ | DEV Community 👩‍💻👨‍💻
+https://hackernoon.com
+https://www.techopedia.com
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
+
+PyCon
+https://us.pycon.org/2020/remote/
+https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
 
 Web Bos, Brian Holt, Frontend Masters, Traversy Media
 
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 
-CHAOSS
+Very Important!
+https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
 
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
 
-https://en.wikipedia.org/wiki/Karel_(programming_language)
-https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+
+Hidden vulnerabilities of OS Software
+https://twitter.com/cra/status/1242580570451951619
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
 https://amitness.com/2019/08/math-for-programmers/
 
-Bot
-https://twitter.com/webology/status/1243922072528719874
-
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
-VS Code
-https://twitter.com/nnja/status/1245471913914204161
-
 https://www.scala-lang.org/
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+http://landing.google.com/sre/books/
+
+https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
+
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+https://bored.solutions/
+
+https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+
+https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
+
+Viral Funnel model
+https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
+
+https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
-
-Articles and Stuff
-https://www.freecodecamp.org/ | Learn to code | freeCodeCamp.org
-https://dev.to/ | DEV Community 👩‍💻👨‍💻
-https://hackernoon.com
-https://www.techopedia.com
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://twitter.com/housecor/status/1097984157442080774 | Cory House 🏠 on Twitter: "Just did the State of CSS survey. Just learned a lot by googling for the long list of modern CSS technologies I hadn't tried yet: Blend modes Shapes Masks Object-fit Exclusions Writing modes Scrollsnap supports queries overscroll-behavior... https://t.co/UhOA3UQ731"
-
-https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
 
 Live Coding
 https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21 | My Twitch Live Coding Setup – Suz Hinton – Medium
 https://github.com/bnb/awesome-developer-streams#suz-hinton | GitHub - bnb/awesome-developer-streams: 
 https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
 
-Books
-https://www.daolf.com/posts/best-python-books/ | 📕 The 25 most recommended python books of all-time. · daolf
-https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on Twitter: "This time: Python 🐍. I wanted to know what were the most recommended Python books ever 🏆 So I've compiled more than 2000 recommendations from 130 lists and came up with this top 25 most recommended Python books of all-time 📕 THREAD 👇" / Twitter
-https://www.daolf.com/posts/best-programming-books/ | 📕 The 25 most recommended programming books of all-time. · daolf
-the pragrammatic programmer - Google Search
-https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
-https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
-https://github.com/daolf/Most-recommended-programming-books | daolf/Most-recommended-programming-books: The most recommended programming books of all-time.
-
 People
 https://www.twitch.tv/directory/following
 
 Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
-
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 
 https://github.com/MishManners?tab=followers
 https://twitter.com/MishManners/status/1240839777437364224
@@ -242,15 +118,17 @@ https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks
 Jessica Twitter Bot
 https://twitter.com/webology/status/1243922072528719874
 
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
+Bot
+https://twitter.com/webology/status/1243922072528719874
 
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+Hubot
+https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
 
-MIT/Harvard
-https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
-https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+
+Docker
+https://github.com/docker/compose/issues/3729
 
 clrs algorithms
 Refactoring, TDD
@@ -259,10 +137,14 @@ Trade Offs
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
-Docker
-https://github.com/docker/compose/issues/3729
-
-https://developers.google.com/machine-learning/crash-course
+Books
+https://www.daolf.com/posts/best-python-books/ | 📕 The 25 most recommended python books of all-time. · daolf
+https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on Twitter: "This time: Python 🐍. I wanted to know what were the most recommended Python books ever 🏆 So I've compiled more than 2000 recommendations from 130 lists and came up with this top 25 most recommended Python books of all-time 📕 THREAD 👇" / Twitter
+https://www.daolf.com/posts/best-programming-books/ | 📕 The 25 most recommended programming books of all-time. · daolf
+the pragrammatic programmer - Google Search
+https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
+https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
+https://github.com/daolf/Most-recommended-programming-books | daolf/Most-recommended-programming-books: The most recommended programming books of all-time.
 -->
 
 ## Website and Blog Resources
@@ -277,16 +159,29 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/KatherineMichel/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
+
 https://github.com/fastai/fast_template
 https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
 
 ## Technical Writing
 
 <!--
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
 https://developers.google.com/tech-writing
+
+https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
+https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
 
 https://twitter.com/agjhnsn/status/1222618133069885445
 https://twitter.com/thoward37/status/1227286141537144832
@@ -298,11 +193,37 @@ https://www.youtube.com/watch?v=eHXq-IzlGUE&feature=youtu.be
 https://danluu.com/corp-eng-blogs/
 -->
 
-## Helpful Open Source
+## Philosophies
 
 <!--
-Nina
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+Maintainer driven issues and PRs
+https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
+https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
+
+https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
+https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
+https://trineo.com/blog/2020/01/constraint-driven-development | Constraint Driven Development | Trineo
+
+Human Factors
+https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
+https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
+
+https://humanebydesign.com/ | Humane by Design
+-->
+
+## Product Management
+
+<!--
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+-->
+
+## Pinax
+
+<!--
+https://pypi.org/manage/projects/
+
+https://github.com/watching
+https://mobile.twitter.com/aaronbassett/status/1248353221678116864
 
 dj3
 https://github.com/d3/d3/wiki
@@ -311,27 +232,8 @@ https://guides.github.com/features/wikis/
 https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
 https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
 
-Matrix
-https://github.com/jefftriplett/python-github-actions-matrix-demo
-
-Zalando- How to Open Source
-https://github.com/zalando/zalando-howto-open-source
-
-Roadmap
-https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
-
-Gatsby Case Study
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-Maintainer driven issues and PRs
-https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
-https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
-
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-
-OS Automation
-https://twitter.com/bketelsen/status/1238487322875871232
 
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
@@ -339,42 +241,25 @@ https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 Important- Recent Activity
 https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
 
+Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+Matrix
+https://github.com/jefftriplett/python-github-actions-matrix-demo
+
 Good First Issues
 https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/ | Browse good first issues to start contributing to open source - The GitHub Blog
-
-Useful GitHub
-https://github.blog/2019-02-14-introducing-draft-pull-requests/
-https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
 
 Automation
 https://github.com/hackebrot/labels | hackebrot/labels: CLI app for managing GitHub labels for Python 3.6 and newer. 📝
 
-Microsoft Resources
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
-https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-
-
 https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://coverage.readthedocs.io/en/coverage-5.0.4/changes.html#changes_504
 
-Examples
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
+Assessment
+https://coiled.io/blog/stages-of-openness.html
+Service metrics
+https://queue.acm.org/detail.cfm?id=3309571
+https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
 
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
@@ -408,6 +293,41 @@ https://opensource.guide/finding-users/
 https://opensource.guide/building-community/
 https://opensource.guide/leadership-and-governance/
 
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+https://glasnt.com/talks/2017_08_PyConAU/#/
+-->
+
+## Open Source Examples
+
+<!--
+Gatsby Case Study
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+Roadmap
+https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
+
+Microsoft Resources
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
+https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
+https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+
+Examples
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+
 https://keepachangelog.com/en/1.0.0/
 
 Links change log lines to PRs
@@ -420,13 +340,39 @@ Removed for now removed features.
 Fixed for any bug fixes.
 Security in case of vulnerabilities.
 
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-https://glasnt.com/talks/2017_08_PyConAU/#/
+https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
+-->
+
+## Helpful Open Source
+
+<!--
+VS Code
+https://twitter.com/nnja/status/1245471913914204161
+
+https://twitter.com/GHSecurityLab/
+
+GitHub
+https://github.com/rsapkf/goodies | rsapkf/goodies: Collection of GitHub repos, blogs and websites to learn cool things
+
+Git tip
+https://twitter.com/FlipperPA/status/1204428589560582144
+
+OS Automation
+https://twitter.com/bketelsen/status/1238487322875871232
+
+Useful GitHub
+https://github.blog/2019-02-14-introducing-draft-pull-requests/
+https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
+
+https://coverage.readthedocs.io/en/coverage-5.0.4/changes.html#changes_504
 -->
 
 ## Shortcuts
 
 <!--
+Shortcuts
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
 VS Code Mac Shortcuts
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
@@ -445,7 +391,7 @@ https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twi
 https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 -->
 
-## Productivity
+## Visual Studio Code
 
 Visual Studio Code
 * [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
@@ -456,7 +402,9 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+
+https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
 
 https://visualstudio.github.com/
 https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
@@ -487,16 +435,22 @@ https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellico
 ## GitHub and VS Code Integration
 
 <!--
-Integration
+Glitch/VS Code
+https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Collaborate on code & deploy instantly on Glitch from VSCode | Product Hunt
+
+GitHub Actions/Heroku
 https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
 
-GitHub and VS Code Integration
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
 https://zeit.co/github | ZEIT Now for GitHub - ZEIT
 https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
 
-https://www.producthunt.com/posts/glitch-for-vs-code
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
 -->
 
 ## Engineering Performance Resources
