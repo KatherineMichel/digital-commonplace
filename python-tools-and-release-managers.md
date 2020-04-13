@@ -1,6 +1,44 @@
 # Python Tools and Release Managers
 
 <!--
+Translations
+https://twitter.com/di_codes/status/1176241499744296960
+
+https://pypi.org/classifiers/ | Classifiers · PyPI
+https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
+https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
+
+Packaging
+https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
+
+GidgetHub
+https://pypi.org/project/gidgethub/ | gidgethub · PyPI
+
+Tools
+https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
+
+Dead Snakes
+https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
+
+People
+https://github.com/asottile?tab=repositories | asottile (Anthony Sottile) / Repositories
+brian okken - Google Search
+
+https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
+https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
+
+https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
+https://github.com/asottile/hecate | asottile/hecate: A terrible way of testing terminal applications
+
+https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
+https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
+https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
+https://github.com/chriskuehl/shipit | chriskuehl/shipit
+
+https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
+
+
 Pinax
 https://pypi.org/project/django-utils/ | django-utils · PyPI
 https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
