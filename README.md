@@ -44,6 +44,25 @@ https://twitter.com/FlipperPA/status/1204428589560582144
 
 https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
 
+JavaScript- Important!
+https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+JavaScript
+https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
+
+GitHub integration
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+Shortcuts
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
+Mozilla
+https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
+https://developer.mozilla.org/en-US/ | MDN Web Docs
+https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
+https://twitter.com/dshaw/status/1229102154545336321 | Dan Shaw on Twitter: "Node.js is a copy of Merb and low level system architecture (event polling)." / Twitter
+
 https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
 https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
 
