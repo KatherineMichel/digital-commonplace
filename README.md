@@ -13,6 +13,24 @@ https://bored.solutions/
 
 https://github.com/20tab/django-continuous-delivery
 
+Very Important!
+https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
+
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
+
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+
+https://twitter.com/GHSecurityLab/
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
+
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+
 https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
 https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
 
@@ -111,28 +129,6 @@ https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pa
 
 Glitch/VS Code
 https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Collaborate on code & deploy instantly on Glitch from VSCode | Product Hunt
-
-Nina
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-dj3
-https://github.com/d3/d3/wiki
-https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
-https://guides.github.com/features/wikis/
-https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
-https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
-
-Matrix
-https://github.com/jefftriplett/python-github-actions-matrix-demo
-
-Zalando- How to Open Source
-https://github.com/zalando/zalando-howto-open-source
-
-Roadmap
-https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
-
-Gatsby Case Study
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
 
 Viral Funnel model
 https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
@@ -285,6 +281,17 @@ https://github.com/fastai/fast_template
 https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
+-->
+
+## Technical Writing
+
+<!--
+https://developers.google.com/tech-writing
+
+https://twitter.com/agjhnsn/status/1222618133069885445
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
 Blog
 https://www.youtube.com/watch?v=eHXq-IzlGUE&feature=youtu.be
@@ -294,16 +301,31 @@ https://danluu.com/corp-eng-blogs/
 ## Helpful Open Source
 
 <!--
+Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+dj3
+https://github.com/d3/d3/wiki
+https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
+https://guides.github.com/features/wikis/
+https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
+https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
+
+Matrix
+https://github.com/jefftriplett/python-github-actions-matrix-demo
+
+Zalando- How to Open Source
+https://github.com/zalando/zalando-howto-open-source
+
+Roadmap
+https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
+
+Gatsby Case Study
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
 Maintainer driven issues and PRs
 https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
 https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
-
-https://developers.google.com/tech-writing
-
-https://twitter.com/agjhnsn/status/1222618133069885445
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
