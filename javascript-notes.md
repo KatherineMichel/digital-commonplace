@@ -1,6 +1,20 @@
 # JavaScript Notes
 
 <!--
+Mozilla
+https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
+https://developer.mozilla.org/en-US/ | MDN Web Docs
+https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
+JavaScript
+https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
+
+https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+Redwood
+https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
+
+
 HTTP, API, DOM
 https://expressjs.com/en/api.html
 https://github.com/jsdom/jsdom
