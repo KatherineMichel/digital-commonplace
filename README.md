@@ -21,8 +21,17 @@ https://compedu.stanford.edu/codeinplace/v1/#/course
 https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
 https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
 
+Web Bos, Brian Holt, Frontend Masters, Traversy Media
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
 JavaScript- Important!
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+https://twitter.com/sarah_edo/status/1227979611302055936 | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here! https://t.co/CeqIUsm9TS https://t.co/R46VmoT0Hy" / Twitter
 
 Anthony
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
@@ -52,11 +61,6 @@ https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
-
-Web Bos, Brian Holt, Frontend Masters, Traversy Media
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 
 Very Important!
 https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
@@ -96,6 +100,7 @@ https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on
 
 https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
 
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
 
@@ -181,6 +186,7 @@ https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.ht
 https://developers.google.com/tech-writing
 
 https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
+
 https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
 
 https://twitter.com/agjhnsn/status/1222618133069885445
