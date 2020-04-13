@@ -47,14 +47,35 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 -->
 
 <!--
-https://testautomationu.applitools.com/python-tutorial/
+https://developers.google.com/machine-learning/crash-course
 
-https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://automationpanda.com/tag/development/
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
+
+MIT/Harvard
+https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
+https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+
+
+https://github.com/20tab/django-continuous-delivery
+
+Calvin
+https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
+
+https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
+https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
+
+Aaron
+https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
+
+Al
+https://www.udemy.com/course/automate/?couponCode=APR2020FREE | Automate the Boring Stuff with Python Programming Course | Udemy
+
+Google Python
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+
 
 https://twitter.com/filiplajszczak/status/1228800450515869703
 https://twitter.com/PurpleDiane88/status/1227365692380340224
@@ -71,6 +92,7 @@ https://www.freecodecamp.org/news/best-python-tutorial/
 https://github.com/JackMcKew/awesome-python-bytes
 https://www.pythonmorsels.com/resources/
 
+https://www.freecodecamp.org/ | Learn to code | freeCodeCamp.org
 https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
