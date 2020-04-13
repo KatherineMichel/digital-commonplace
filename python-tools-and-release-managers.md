@@ -1,6 +1,55 @@
 # Python Tools and Release Managers
 
 <!--
+tox
+https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
+https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
+
+Packaging
+https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
+https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
+
+https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+
+https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
+
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+
+Daphne
+https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
+jpezG5fYgd" / Twitter
+
+django-allauth
+https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
+
+pipenv
+https://twitter.com/simonw/status/1211735682135101440 | Simon Willison on Twitter: "@llanga @webology That's the main reason I use pipenv - it keeps my virtual environments outside Dropbox for me" / Twitter
+
+pyenv
+https://twitter.com/webology/status/1206676626311917568 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "Same. If you run macOS and develop with Python, pyenv is the way to go IMO. https://t.co/9sy5GBtGIw" / Twitter
+https://twitter.com/webology/status/1199446555809460231 | 🍂 Jeff Triplett 🍂 on Twitter: "🐍 This is a great resource. 🐳 I'd love to see a 4th Docker version. 🎉 If you use macOS, I highly, highly recommend using pyenv to manage your Python version of you. It's on my "just use it" list when I work with any level of dev. https://t.co/R6uPyFbJDr" / Twitter
+https://www.marc-richter.info/using-pyenv-to-manage-your-python-interpreters/ | Using pyenv to manage your Python interpreters - Marc Richter's personal site
+
+Travis
+https://twitter.com/twiecki/status/1214555851882524672 | Thomas Wiecki on Twitter: "Episode 2 of the #PyData Deep Dive #Podcast with Travis Oliphant @teoliphant: The past, present and future of PyData. We dive into the history of NumPy and his most recent endeavours at @quansight. Hope you enjoy! https://t.co/AeT2ohcZvP #PyDDD @NumFOCUS" / Twitter
+https://twitter.com/pganssle/status/1233761331465064449 | Paul Ganssle on Twitter: "@pwang @zooba @bitecode_dev @GaelVaroquaux @teoliphant @bigreddot Happy to set up lunch if you will be in NYC any time soon, otherwise we can do a call if you'd like. I'd love to write up a somewhat detailed statement of the problem, but at the moment all the time I would have to do such a thing is being devoted to PEP 615." / Twitter
+https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
+
+Tools
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
+PyTest
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+
+Test Anything Protocol
+
+Simon- Tools
+https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
+
+PyInstaller
+https://twitter.com/ChPietsch/status/1214592028165787653 | Ꮯhristian Ꮲeach (@chpietsch@digitalcourage.social) on Twitter: "#PyInstaller still is in urgent need  of funding. If there is no sustainable funding until end of January, the current maintainer will officially retire. Which basically means: no more releases. Help funding! Details: https://t.co/veL9hfsnm5 #Python #FOSS #FLOSS #OpenSource" / Twitter
+
 Translations
 https://twitter.com/di_codes/status/1176241499744296960
 
