@@ -4,6 +4,8 @@
 Anthony
 default dict counter sets - Google Search
 
+https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
+
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
 
 Problem solving
