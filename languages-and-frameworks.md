@@ -88,6 +88,39 @@ https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducin
 https://www.stackbit.com/
 -->
 
+## Object-Oriented
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+## Django
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+## Django Rest Framework
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+## Languages and Frameworks (Other than Python and Django)
+
+Golang
+* [Golang Docs](https://golang.org/doc)
+
+Mobile
+* [Apple Developer Docs](https://developer.apple.com/develop/)
+* [Swift Developer](https://developer.apple.com/swift/)
+* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [Android Developer](https://developer.android.com/)
+* [Java](https://www.java.com/en/)
+
+<!--
+https://www.scala-lang.org/
+-->
+
 ## Browser Object Model (BOM) and Document Object Model (DOM)
 
 W3C DOM4
@@ -197,13 +230,24 @@ https://www.w3.org/2011/05/activity-proposal.html | Web Testing Activity Proposa
 https://unicode.org/emoji/proposals.html | Submitting Emoji Character Proposals
 -->
 
+## Popular JavaScript Frameworks
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React and Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
 ## Web Frameworks
 
 Comparison
 * [Comparison of Web Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript)
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
 <!--
 https://github.blog/2020-03-16-npm-is-joining-github/
@@ -218,14 +262,6 @@ https://github.com/remy/nodemon#nodemon
 https://github.com/nock/nock
 -->
 
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-Comparison
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
 React and Vue
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 * [React Fiber Wikipedia](https://en.wikipedia.org/wiki/React_Fiber)
@@ -234,9 +270,6 @@ JSX (Syntax Extension; React)
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
 * [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
 * [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-
-Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
 
 <!--
 Storybook
