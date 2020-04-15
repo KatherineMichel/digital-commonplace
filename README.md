@@ -13,6 +13,8 @@ https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCU
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+
 https://compedu.stanford.edu/codeinplace/announcement/
 https://en.wikipedia.org/wiki/Karel_(programming_language)
 https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
@@ -21,36 +23,30 @@ https://compedu.stanford.edu/codeinplace/v1/#/course
 https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
 https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
 
-Web Bos, Brian Holt, Frontend Masters, Traversy Media
+Courses and practice
+https://courses.wesbos.com/account
+https://www.hackerrank.com/challenges/capitalize/problem
+http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5
+https://compedu.stanford.edu/codeinplace/assn0/#/splash
+https://www.twitch.tv/anthonywritescode
 
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
+https://developers.google.com/tech-writing/one
 
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 
-JavaScript- Important!
-https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+Web Bos, Brian Holt, Frontend Masters, Traversy Media
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
+100 Days of Code
 
-https://twitter.com/sarah_edo/status/1227979611302055936 | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here! https://t.co/CeqIUsm9TS https://t.co/R46VmoT0Hy" / Twitter
+CHAOSS
 
-Anthony
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
 https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
-
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
-
-100 Days of Code
-
-CHAOSS
-
-Articles and Stuff
-https://dev.to/ | DEV Community 👩‍💻👨‍💻
-https://hackernoon.com
-https://www.techopedia.com
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
@@ -62,6 +58,7 @@ https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
 
+
 Very Important!
 https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
 
@@ -69,6 +66,7 @@ https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SI
 
 Architecture
 https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+
 
 Hidden vulnerabilities of OS Software
 https://twitter.com/cra/status/1242580570451951619
@@ -78,11 +76,6 @@ http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive 
 https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
 https://amitness.com/2019/08/math-for-programmers/
-
-https://www.scala-lang.org/
-
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-http://landing.google.com/sre/books/
 
 https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 
@@ -97,8 +90,6 @@ https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on
 
 Viral Funnel model
 https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
-
-https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
 
 https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
@@ -141,16 +132,86 @@ Trade Offs
 
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-Books
-https://www.daolf.com/posts/best-python-books/ | 📕 The 25 most recommended python books of all-time. · daolf
-https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on Twitter: "This time: Python 🐍. I wanted to know what were the most recommended Python books ever 🏆 So I've compiled more than 2000 recommendations from 130 lists and came up with this top 25 most recommended Python books of all-time 📕 THREAD 👇" / Twitter
-https://www.daolf.com/posts/best-programming-books/ | 📕 The 25 most recommended programming books of all-time. · daolf
-the pragrammatic programmer - Google Search
-https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
-https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
-https://github.com/daolf/Most-recommended-programming-books | daolf/Most-recommended-programming-books: The most recommended programming books of all-time.
 -->
+
+## To Read
+
+Google Site Reliability Engineering
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+<!--
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+## Product Management
+
+<!--
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+-->
+
+## Engineering Performance Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+Scaling Engineering
+* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+software development competency framework
+
+https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+-->
+
+## Python Syntax and Python Versus JavaScript
+
+Programming Language Leveling Up and Comparisons- Python
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Website and Blog Resources
 
@@ -215,12 +276,6 @@ https://www.britannica.com/topic/human-factors-engineering | human-factors engin
 https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
 
 https://humanebydesign.com/ | Humane by Design
--->
-
-## Product Management
-
-<!--
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
 -->
 
 ## Pinax
@@ -459,30 +514,6 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
-## Engineering Performance Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-Scaling Engineering
-* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-software development competency framework
-
-https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
 ## Project-Based Learning
 
 * [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
@@ -525,6 +556,16 @@ https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Ben
 https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+<!--
+https://www.techopedia.com
 -->
 
 ## Trends
@@ -605,6 +646,32 @@ https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static S
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+-->
+
+## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [vue.js Showcase](https://madewithvuejs.com/)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Showcase](https://madewithreactjs.com/)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+<!--
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
 ## Choices
@@ -857,74 +924,6 @@ https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
-
-## Django
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-## Django Rest Framework
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-## JavaScript
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React and Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-## Languages and Frameworks (Other than Python and Django)
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
-Golang
-* [Golang Docs](https://golang.org/doc)
-
-Mobile
-* [Apple Developer Docs](https://developer.apple.com/develop/)
-* [Swift Developer](https://developer.apple.com/swift/)
-* [Objective C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [Android Developer](https://developer.android.com/)
-* [Java](https://www.java.com/en/)
-
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [vue.js Showcase](https://madewithvuejs.com/)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Showcase](https://madewithreactjs.com/)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-<!--
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
 ## Company Playbooks
 
 Handbooks
@@ -1158,22 +1157,6 @@ https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: De
 https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
 
 https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
--->
-
-## Site Reliability and High Performance
-
-Google Site Reliability Engineering
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-<!--
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 -->
 
 ## Open Source in Orgs
@@ -1592,54 +1575,21 @@ https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 -->
 
-## Bots
+## Site Reliability and High Performance
 
-Mariatta- Bot Tutorials
-* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
-* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
-* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
+Google Site Reliability Engineering
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
 
-Tools
-* [aiohttp](https://aiohttp.readthedocs.io)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
 
 <!--
-https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
-https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
-https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
-
-Mariatta community automation talk
-https://twitter.com/mariatta/status/1191534648205037569
-
-Mariatta and Andrew
-https://github.com/asvetlov/us-pycon-2019-tutorial
-https://us-pycon-2019-tutorial.readthedocs.io/index.html
-https://docs.python.org/3/library/abc.html
-https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-https://cz.pycon.org/2019/programme/workshops/9/#main
-
-https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
-
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://github.com/berkerpeksag/cpython-merge-bot
-
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-https://github.com/devict/devict-hubot
-https://github.com/github/hubot
-https://hubot.github.com/
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
 -->
 
 ## Other Interesting
@@ -1661,8 +1611,6 @@ Chaos Engineering
 * [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
 
 <!--
-https://hubot.github.com/
-
 Netflix Suite
 Lynn Root's talks
 
@@ -2195,6 +2143,15 @@ https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351 | Ref
 
 https://twitter.com/ncoghlan_dev/status/931752884470816768 | Nick Coghlan on Twitter: "@BecomingDataSci It's not online, but I like the first few chapters in https://t.co/oT3JoAfCGi as an introduction to classic OO patterns in Python."
 https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636 | Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (Developer's Library): 9780321905635: Computer Science Books @ Amazon.com
+
+https://github.com/daolf/Most-recommended-programming-books | daolf/Most-recommended-programming-books: The most recommended programming books of all-time.
+https://www.daolf.com/posts/best-python-books/ | 📕 The 25 most recommended python books of all-time. · daolf
+https://www.daolf.com/posts/best-programming-books/ | 📕 The 25 most recommended programming books of all-time. · daolf
+the pragrammatic programmer - Google Search
+
+https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on Twitter: "This time: Python 🐍. I wanted to know what were the most recommended Python books ever 🏆 So I've compiled more than 2000 recommendations from 130 lists and came up with this top 25 most recommended Python books of all-time 📕 THREAD 👇" / Twitter
+https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
+https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
 -->
 
 ## Engineering Management
@@ -2245,10 +2202,6 @@ Wikipedia Tech Portals
 
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
 
 CodePen
 * [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
