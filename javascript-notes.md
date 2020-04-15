@@ -1,18 +1,16 @@
 # JavaScript Notes
 
 <!--
-Mozilla
-https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
-https://developer.mozilla.org/en-US/ | MDN Web Docs
-https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-
 JavaScript
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
 
+https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
 https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 
-Redwood
-https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
 
 
 HTTP, API, DOM
@@ -53,8 +51,6 @@ https://twitter.com/_ericelliott/status/1147563388928745472 | Twitter
 
 Performance
 https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
-
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
 Airbnb- isomorphic
 https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
@@ -431,6 +427,10 @@ https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - Y
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
 
+Mozilla
+https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
+https://developer.mozilla.org/en-US/ | MDN Web Docs
+https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 https://developer.mozilla.org/en-US/docs/Learn
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
 
