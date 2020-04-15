@@ -1,4 +1,4 @@
-# JavaScript Tools
+# Languages and Frameworks
 
 <!--
 Go
@@ -22,6 +22,8 @@ https://twitter.com/sebastienlorber/status/1212786263301988353 | Sebastien Lorbe
 -->
 
 <!--
+https://www.fastcompany.com/90457823/design-most-innovative-companies-2020
+
 https://www.freecodecamp.org/news/web-development-2020/
 https://www.surveymonkey.com/r/jamstack-survey
 
@@ -74,6 +76,7 @@ https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Ex
 https://nextjs.org/ | Next.js - The React Framework
 
 https://redwoodjs.com/
+https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
 https://github.com/redwoodjs/redwood
 https://twitter.com/mojombo/status/1238942353273978880
 
