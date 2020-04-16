@@ -22,6 +22,7 @@ https://us.edstem.org/courses/490/discussion/
 https://compedu.stanford.edu/codeinplace/v1/#/course
 https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
 https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
+https://compedu.stanford.edu/codeinplace/v1/#/handout/section1.pdf
 
 Courses and practice
 https://courses.wesbos.com/account
