@@ -3,6 +3,11 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://github.com/KatherineMichel?before=Y3Vyc29yOnYyOpK5MjAxOC0wOC0yM1QxMTozODo0Mi0wNTowMM4CNe1F&tab=followers | Your Followers
+
+Open Source Offices/Leads
+https://twitter.com/i/lists/1196306156655763457
+
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://www.coursera.org/learn/the-science-of-well-being
@@ -59,6 +64,10 @@ https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
 
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
+Casey
+https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
 
 Very Important!
 https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
@@ -135,14 +144,140 @@ set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 -->
 
-## To Read
-
-Google Site Reliability Engineering
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+## Good Habits
 
 <!--
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter: "This! Years ago someone told me that if you do four hours of excellent work, you should stop for the day. It's turned out to be some of the best advice I've received. (And it's a rare day that I manage even four hours of excellent work.) https://t.co/eSH55OaHmb" / Twitter
+
+https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
+
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
+
+<!--
+## Interesting Info
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://freestateforge.com/map
+
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+The 39 most powerful female engineers of 2018
+https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
+https://www.forbes.com/top-tech-women/#17ee38b74df0
+-->
+
+<!--
+## Example Updates and Personal Reviews
+
+Think Day
+https://twitter.com/mad_typist/status/1146757881125134336 | Jessie Link 🦞 on Twitter: "Supplies in hand and schedule all set for yet another Quarterly Think Day (aka my one woman offsite) ((aka “Jessie get your sh*t together day”))… https://t.co/ExvjsaSu55"
+
+Restrospectives
+https://twitter.com/mbrianaepler/status/1212264683966615554 | Melinda Briana Epler on Twitter: "2010-19 was a big decade! 😎 Became an Exec 💩 Was harassed &amp; excluded so... 💪🏼 Started a company (again, 3x) 🌏 Hosted 44 events in 9 countries 🙋🏼‍♀️ Worked with 450 tech companies 🗣 Got over my fear of speaking 🎤 Spoke on hundreds of stages 💃🏼 Did a TED talk ✍🏼 Book deal 1/2" / Twitter
+http://bollu.github.io/#stuff-i-learnt-in-2019 | bollu.github.io | code + contents of my website, and programming life
+https://johanronsse.be/2019/12/28/making-of-best-of-2019/ | Making of: Best of 2019 – Johan Ronsse
+https://www.perell.com/blog/2019/12/11/coolest-things-i-learned-in-2019 | Coolest Things I Learned in 2019 — David Perell
+https://overreacted.io/my-decade-in-review/ | My Decade in Review — Overreacted
+
+Chris Sacca- annual letter
+https://twitter.com/sacca/status/1211695597570416640 | Chris Sacca on Twitter: "@KatiMichel We usually keep them private. People get pretty vulnerable and candid. It’s a unique opportunity to be honest with yourself about what worked, what didn’t, and what should or shouldn’t matter looking ahead. It’s easy to be brutally honest with your year-from-now-self." / Twitter
+https://twitter.com/sacca/status/1211693697412325377 | Chris Sacca on Twitter: "Every NYE, we gather friends and family each write a letter to themselves to be opened next NYE. We put them in a jar or mail them to those who can’t be around the next year. We’ve been doing this for as long as I can remember and it’s always cathartic and heartwarming. Try it!🎉" / Twitter
+https://twitter.com/AmyJoMartin/status/1211151241532858369 | Amy Jo Martin on Twitter: "@tferriss I do this every year. Works if you’re solo or hosting a party. https://t.co/G6JoNxXjFr" / Twitter
+
+https://twitter.com/AllenDowney/status/1215312261239246849 | Allen Downey on Twitter: "As part of my annual review, I updated by professional portfolio. Here's what I worked on in 2019: https://t.co/eU5MDgln86" / Twitter
+https://allendowney.github.io/Portfolio/narrative20.html | Annual Report | Portfolio
+https://twitter.com/mariatta/status/1213851420581093378 | Mariatta 🤦 on Twitter: "I've only searched for commits. I think I should also be searching for issues and pull requests created. 🤔" / Twitter
+-->
+
+<!--
+https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
+
+AMA- GitHub Repo
+https://github.com/lewiguez/manager-README | lewiguez/manager-README
+
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+
+https://eamanu.com/blog/my-contributions-to-open-source-january-2020/ | My contributions to Open Source – January 2020 – eamanu
+
+https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauLoX – My involvement in the Python community
+
+https://blog.burntsushi.net/foss/
+
+https://github.com/AndySparks/captains-log/blob/master/commonplace/2019.md | captains-log/2019.md at master · AndySparks/captains-log
+
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
+https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
+
+Update Examples
+https://mariatta.ca/weekly-update-march-3-2019.html#weekly-update-march-3-2019 | mariatta.ca – Weekly Update, March 3, 2019
+https://discuss.python.org/t/mariatta-will-be-ooos-out-of-open-source-starting-march-18-may-9th-2019/973 | Mariatta will be OOOS (Out of Open Source) starting March 18 - May 9th, 2019 - Committers - Discussions on Python.org
+http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
+https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
+https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
+https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
+https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
+
+https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
+https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
+
+https://twitter.com/veronica_hanus/status/1133091358636486657 | Veronica Hanus @ 💖HomeSweetHome💖 on Twitter: "#emoji's in a bio?!? #goals! I really like how you included the html/markdown as well! It looks like you've made bio-gathering about as pleasant as it can be!… https://t.co/c3Jwhu6MI9"
+https://noti.st/aaronbassett#map | Aaron Bassett’s presentations on Notist
+
+http://www.astrokatie.com/faq/ | FAQ — Katie Mack, Astrophysicist
+-->
+
+<!--
+## Tips
+
+Redirect Emails
+https://twitter.com/sawaba/status/1222680741705846785
+get automated emails out of main inbox
+
+Schedule Emails
+https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en | Schedule emails to send - Computer - Gmail Help
+
+Naveen
+https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
+
+Knowledge Base
+https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
+https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
+https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
+https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
+
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+-->
+
+<!--
+https://shellshare.net/
+https://asciinema.org asciinema
+https://www.asciiart.eu/ | ASCII Art Archive
+
+https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
+http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
+
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://kk.org/thetechnium/1000-true-fans/
+-->
+
 
 ## Product Management
 
@@ -164,6 +299,16 @@ Scaling Engineering
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+## Engineering Management Resources
+
+Great engineers
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+
+Top Engineers
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+
 software development competency framework
 
 https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
@@ -1578,7 +1723,7 @@ http://githooks.com/
 
 ## Site Reliability and High Performance
 
-Google Site Reliability Engineering
+Google Site Reliability Engineering Books
 * [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
 
 Site Reliability Engineering
