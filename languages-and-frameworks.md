@@ -507,10 +507,12 @@ https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0
 Google 
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
-Google Material Design (See also Facebook React)
+Google \ Design (See also Facebook React)
 * [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
 
 <!--
+https://material.io/design/ | Design - Material Design
+
 https://material.io/guidelines/resources/roboto-noto-fonts.html
 https://material.io/guidelines/style/typography.html#typography-line-height
 
