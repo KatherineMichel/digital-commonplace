@@ -312,6 +312,14 @@ Technical
 * [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
 * Objective, Assumption, Constraint
 
+<!--
+Requirements, life cycle, release management
+-->
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
 Django
 * [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
 
@@ -358,6 +366,9 @@ Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
+Lists
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
 <!--
 PyCon
 https://us.pycon.org/2020/remote/
@@ -366,6 +377,9 @@ https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
 
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
@@ -400,13 +414,13 @@ https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
 https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
 
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
 https://www.producthunt.com/makers-festival/wfh
 https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
 
 https://developers.google.com/tech-writing
 https://developers.google.com/tech-writing/one
-
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
 
 https://medium.com/javascript-scene/
 
@@ -642,6 +656,8 @@ https://github.blog/2019-06-06-generate-new-repositories-with-repository-templat
 ## Pinax
 
 <!--
+https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
+
 dj3
 https://github.com/d3/d3/wiki
 https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
@@ -1427,8 +1443,6 @@ https://help.github.com/en/articles/about-maintainer-security-advisories | About
 https://dependabot.com/ | Dependabot
 https://dependabot.com/#how-it-works | Dependabot
 https://dependabot.com/github-actions/ | Dependabot
-
-https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
