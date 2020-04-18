@@ -53,6 +53,8 @@ https://courses.wesbos.com/account
 https://www.hackerrank.com/challenges/capitalize/problem
 https://www.twitch.tv/anthonywritescode
 
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
+
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
 
 CHAOSS
@@ -297,8 +299,17 @@ Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
 
 GitHub Open Source Guides
+* [GitHub Help](https://help.github.com) 
 * [GitHub Open Source Guide](https://opensource.guide)
 * [GitHub Guides](https://guides.github.com/)
+
+<!--
+http://jlord.us/git-it
+https://github.com/jlord/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
+-->
 
 Google Open Source Guides
 * [Google Open Source Docs](https://opensource.google.com/docs)
@@ -370,6 +381,29 @@ Lists
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
 <!--
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://developers.google.com/style/
+https://developers.google.com/tech-writing
+https://developers.google.com/tech-writing/one
+
+
+https://www.thoughtworks.com
+
+* [CircleCI](https://circleci.com)
+* [Codecov](https://codecov.io)
+
+Marketplaces
+* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
+* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
+
+https://github.com/github-tools
+
+https://github.com/ajaxorg/ace
+
+http://www.yaml.org/refcard.html
+http://yaml.org/spec/1.2/spec.html
+
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
@@ -418,9 +452,6 @@ https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials fo
 
 https://www.producthunt.com/makers-festival/wfh
 https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://developers.google.com/tech-writing
-https://developers.google.com/tech-writing/one
 
 https://medium.com/javascript-scene/
 
