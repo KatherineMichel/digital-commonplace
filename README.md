@@ -13,14 +13,17 @@ https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCU
 Important
 http://augmentingcognition.com/ltm.html
 
+https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
+
+Google’s project re:work
+https://twitter.com/skimbrel/status/1190734445952659456
+
 https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
 
 https://github.com/KatherineMichel?before=Y3Vyc29yOnYyOpK5MjAxOC0wOC0yM1QxMTozODo0Mi0wNTowMM4CNe1F&tab=followers | Your Followers
 
 Open Source Offices/Leads
 https://twitter.com/i/lists/1196306156655763457
-
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
 https://compedu.stanford.edu/codeinplace/announcement/
 https://compedu.stanford.edu/codeinplace/assn0/#/splash
@@ -40,10 +43,17 @@ https://en.wikipedia.org/wiki/Richard_E._Pattis | Richard E. Pattis - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error# | Off-by-one error - Wikipedia
 
+Reeborg
+http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with Reeborg
+http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
+http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
+
 Courses and practice
 https://courses.wesbos.com/account
 https://www.hackerrank.com/challenges/capitalize/problem
 https://www.twitch.tv/anthonywritescode
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
 
 CHAOSS
 
@@ -69,9 +79,7 @@ https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Vi
 https://github.community/
 https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
 
-https://github.com/sohamkamani/javascript-design-patterns-for-humans
-
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+https://github.com/sdras/awesome-actions
 
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
 
@@ -91,6 +99,11 @@ https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?i
 
 Casey
 https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+
+Content
+https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
+https://opensource.com/how-submit-article | Write for us | Opensource.com
+https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
 
 https://en.wikipedia.org/wiki/Capability_Immaturity_Model | Capability Immaturity Model - Wikipedia
 
@@ -199,31 +212,9 @@ https://shellshare.net/
 https://asciinema.org asciinema
 https://www.asciiart.eu/ | ASCII Art Archive
 
-https://wsvincent.com/learning-how-to-podcast/ | Podcast How-To Guide: Microphones, Headphones, Hosting, and More - William S. Vincent
-http://pgbovine.net/teaching-large-courses.htm | Philip Guo - Managing the Logistics of Teaching Large Courses: A 10-Part Series
-
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
 https://kk.org/thetechnium/1000-true-fans/
--->
-
-<!--
-## Interesting Info
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://freestateforge.com/map
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-The 39 most powerful female engineers of 2018
-https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
-https://www.forbes.com/top-tech-women/#17ee38b74df0
 -->
 
 ## Good Habits
@@ -234,68 +225,6 @@ https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter:
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
--->
-
-<!--
-## Personal Reviews
-
-Think Day
-https://twitter.com/mad_typist/status/1146757881125134336 | Jessie Link 🦞 on Twitter: "Supplies in hand and schedule all set for yet another Quarterly Think Day (aka my one woman offsite) ((aka “Jessie get your sh*t together day”))… https://t.co/ExvjsaSu55"
-
-Restrospectives
-https://twitter.com/mbrianaepler/status/1212264683966615554 | Melinda Briana Epler on Twitter: "2010-19 was a big decade! 😎 Became an Exec 💩 Was harassed &amp; excluded so... 💪🏼 Started a company (again, 3x) 🌏 Hosted 44 events in 9 countries 🙋🏼‍♀️ Worked with 450 tech companies 🗣 Got over my fear of speaking 🎤 Spoke on hundreds of stages 💃🏼 Did a TED talk ✍🏼 Book deal 1/2" / Twitter
-http://bollu.github.io/#stuff-i-learnt-in-2019 | bollu.github.io | code + contents of my website, and programming life
-https://johanronsse.be/2019/12/28/making-of-best-of-2019/ | Making of: Best of 2019 – Johan Ronsse
-https://www.perell.com/blog/2019/12/11/coolest-things-i-learned-in-2019 | Coolest Things I Learned in 2019 — David Perell
-https://overreacted.io/my-decade-in-review/ | My Decade in Review — Overreacted
-
-Chris Sacca- annual letter
-https://twitter.com/sacca/status/1211695597570416640 | Chris Sacca on Twitter: "@KatiMichel We usually keep them private. People get pretty vulnerable and candid. It’s a unique opportunity to be honest with yourself about what worked, what didn’t, and what should or shouldn’t matter looking ahead. It’s easy to be brutally honest with your year-from-now-self." / Twitter
-https://twitter.com/sacca/status/1211693697412325377 | Chris Sacca on Twitter: "Every NYE, we gather friends and family each write a letter to themselves to be opened next NYE. We put them in a jar or mail them to those who can’t be around the next year. We’ve been doing this for as long as I can remember and it’s always cathartic and heartwarming. Try it!🎉" / Twitter
-https://twitter.com/AmyJoMartin/status/1211151241532858369 | Amy Jo Martin on Twitter: "@tferriss I do this every year. Works if you’re solo or hosting a party. https://t.co/G6JoNxXjFr" / Twitter
-
-https://twitter.com/AllenDowney/status/1215312261239246849 | Allen Downey on Twitter: "As part of my annual review, I updated by professional portfolio. Here's what I worked on in 2019: https://t.co/eU5MDgln86" / Twitter
-https://allendowney.github.io/Portfolio/narrative20.html | Annual Report | Portfolio
-https://twitter.com/mariatta/status/1213851420581093378 | Mariatta 🤦 on Twitter: "I've only searched for commits. I think I should also be searching for issues and pull requests created. 🤔" / Twitter
--->
-
-<!--
-## Example Updates
-
-https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
-
-AMA- GitHub Repo
-https://github.com/lewiguez/manager-README | lewiguez/manager-README
-
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-https://eamanu.com/blog/my-contributions-to-open-source-january-2020/ | My contributions to Open Source – January 2020 – eamanu
-
-https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauLoX – My involvement in the Python community
-
-https://blog.burntsushi.net/foss/
-
-https://github.com/AndySparks/captains-log/blob/master/commonplace/2019.md | captains-log/2019.md at master · AndySparks/captains-log
-
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
-
-Update Examples
-https://mariatta.ca/weekly-update-march-3-2019.html#weekly-update-march-3-2019 | mariatta.ca – Weekly Update, March 3, 2019
-https://discuss.python.org/t/mariatta-will-be-ooos-out-of-open-source-starting-march-18-may-9th-2019/973 | Mariatta will be OOOS (Out of Open Source) starting March 18 - May 9th, 2019 - Committers - Discussions on Python.org
-http://mariatta.ca/reflections-2017.html | mariatta.ca – 2017
-https://mariatta.ca/weekly-update-feb-16-2019.html | mariatta.ca – Weekly Update, Feb 16, 2019
-https://twitter.com/mariatta/status/1135627145986727936 | Mariatta 🤦 on Twitter: "Finally got around posting my two week's worth of #WeeklyUpdate 😵 https://t.co/BuDe9qGA1L"
-https://wirtel.be/post/2018/10/19/2018-october-week40-contributions-to-cpython/ | October - Week 40: Contributions to CPython · Stephane Wirtel
-https://twitter.com/MariuszFelisiak/status/1135533692011655171 | Mariusz Felisiak on Twitter: "My May #Django Fellow stats 🦄: Triaged: 6⃣8⃣🎫 Reviewed/committed: 4⃣9⃣PR Authored: 3⃣ PR"
-
-https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
-https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
-
-https://twitter.com/veronica_hanus/status/1133091358636486657 | Veronica Hanus @ 💖HomeSweetHome💖 on Twitter: "#emoji's in a bio?!? #goals! I really like how you included the html/markdown as well! It looks like you've made bio-gathering about as pleasant as it can be!… https://t.co/c3Jwhu6MI9"
-https://noti.st/aaronbassett#map | Aaron Bassett’s presentations on Notist
-
-http://www.astrokatie.com/faq/ | FAQ — Katie Mack, Astrophysicist
 -->
 
 ## Engineering Performance Resources
@@ -334,6 +263,18 @@ https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a 
 
 ## To Read
 
+<!--
+https://www.python.org/
+-->
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
@@ -341,6 +282,10 @@ Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 GitHub
 * [GitHub Blog](https://github.blog)  
@@ -414,14 +359,6 @@ Python Patterns
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
 <!--
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://www.hackerrank.com/home
-
-https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
-
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
@@ -430,11 +367,57 @@ https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+
+node.js Release Schedule
+https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+https://nodejs.org/en/about/releases/
+https://nodejs.org/en/about/working-groups/
+https://github.com/nodejs/Release
+
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
+https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
+real python python basics pdf - Google Search
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+
+https://www.hackerrank.com/home
+
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
+https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
 https://developers.google.com/tech-writing
 https://developers.google.com/tech-writing/one
 
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+https://medium.com/javascript-scene/
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -574,10 +557,6 @@ Glitch Examples
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
@@ -775,26 +754,6 @@ Security in case of vulnerabilities.
 https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
 -->
 
-## Helpful Open Source
-
-<!--
-VS Code
-https://twitter.com/nnja/status/1245471913914204161
-
-https://twitter.com/GHSecurityLab/
-
-GitHub
-https://github.com/rsapkf/goodies | rsapkf/goodies: Collection of GitHub repos, blogs and websites to learn cool things
-
-Git tip
-https://twitter.com/FlipperPA/status/1204428589560582144
-
-OS Automation
-https://twitter.com/bketelsen/status/1238487322875871232
-
-https://coverage.readthedocs.io/en/coverage-5.0.4/changes.html#changes_504
--->
-
 ## Technical Writing
 
 <!--
@@ -871,8 +830,6 @@ https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Tes
 
 https://marketplace.visualstudio.com/vscode
 
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
 https://code.visualstudio.com/docs/languages/python#_install-python-and-the-python-extension
 
 https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
