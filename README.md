@@ -81,6 +81,13 @@ https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Vi
 https://github.community/
 https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
 
+Use
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
+
+OS Distribution of User Skills
+https://twitter.com/DynamicWebPaige/status/1175930240452816896
+
 https://github.com/sdras/awesome-actions
 
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
