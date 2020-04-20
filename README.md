@@ -13,6 +13,9 @@ https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCU
 Important
 http://augmentingcognition.com/ltm.html
 
+Eyes
+https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
+
 https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
 
 Google’s project re:work
@@ -84,14 +87,28 @@ https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now fre
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf | keyboard-shortcuts-macos.pdf
 
 Brew script
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
+
+Bash
 https://www.gnu.org/software/bash/manual/
 https://www.gnu.org/software/bash/manual/bashref.html
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
-https://www.jetbrains.com/pycharm/specials/test-and-code/ | PyCharm and Test & Code | JetBrains
 https://linuxconfig.org/bash-scripting-tutorial | Bash scripting Tutorial - LinuxConfig.org
 
+YAML
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+
+YAML
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+https://www.reviversoft.com/file-extensions/yml | YML File Extension - What is .yml and how to open? - ReviverSoft
+https://www.tutorialspoint.com/yaml/yaml_basics.htm | YAML - Basics - Tutorialspoint
+https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes | Learn YAML in five minutes! - CodeProject
+
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
+https://www.jetbrains.com/pycharm/specials/test-and-code/ | PyCharm and Test & Code | JetBrains
+
+Make
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+https://opensource.com/article/18/8/what-how-makefile | What is a Makefile and how does it work? | Opensource.com
 
 https://en.wikipedia.org/wiki/Regular_expression
 http://www.perlfect.com/articles/chmod.shtml
