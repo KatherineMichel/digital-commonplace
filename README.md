@@ -81,6 +81,29 @@ https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Vi
 https://github.community/
 https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
 
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf | keyboard-shortcuts-macos.pdf
+
+Brew script
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bashref.html
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
+https://www.jetbrains.com/pycharm/specials/test-and-code/ | PyCharm and Test & Code | JetBrains
+https://linuxconfig.org/bash-scripting-tutorial | Bash scripting Tutorial - LinuxConfig.org
+
+
+https://en.wikipedia.org/wiki/Regular_expression
+http://www.perlfect.com/articles/chmod.shtml
+http://www.cheat-sheets.org/sites/sql.su/
+http://www.grymoire.com/Unix/Sh.html#uh-0
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+https://www.linux.com/learn/understanding-linux-file-permissions
+
 Use
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
