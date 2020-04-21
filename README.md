@@ -84,43 +84,6 @@ https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Vi
 https://github.community/
 https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
 
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf | keyboard-shortcuts-macos.pdf
-
-Brew script
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bashref.html
-https://linuxconfig.org/bash-scripting-tutorial | Bash scripting Tutorial - LinuxConfig.org
-
-YAML
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
-
-YAML
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-https://www.reviversoft.com/file-extensions/yml | YML File Extension - What is .yml and how to open? - ReviverSoft
-https://www.tutorialspoint.com/yaml/yaml_basics.htm | YAML - Basics - Tutorialspoint
-https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes | Learn YAML in five minutes! - CodeProject
-
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
-https://www.jetbrains.com/pycharm/specials/test-and-code/ | PyCharm and Test & Code | JetBrains
-
-Make
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-https://opensource.com/article/18/8/what-how-makefile | What is a Makefile and how does it work? | Opensource.com
-
-https://en.wikipedia.org/wiki/Regular_expression
-http://www.perlfect.com/articles/chmod.shtml
-http://www.cheat-sheets.org/sites/sql.su/
-http://www.grymoire.com/Unix/Sh.html#uh-0
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-https://www.linux.com/learn/understanding-linux-file-permissions
-
 Use
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
@@ -169,6 +132,11 @@ https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and e
 
 https://humanebydesign.com/ | Humane by Design
 
+http://devonzuegel.com/post/memex-my-personal-knowledge-base
+
+https://pypi.org/project/black/
+https://pypi.org/project/check-manifest/
+
 Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
@@ -195,6 +163,8 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 https://bored.solutions/
 
 https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
+
+https://www.khanacademy.org/partner-content/pixar
 https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
