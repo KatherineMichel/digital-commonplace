@@ -93,6 +93,8 @@ https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/gui
 https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
 
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code
+
 API
 https://github.com/api-evangelist
 https://github.com/TonnyL/Awesome_APIs
