@@ -21,6 +21,8 @@ https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Net
 Google’s project re:work
 https://twitter.com/skimbrel/status/1190734445952659456
 
+https://github.com/erikr/lessobviouschecklist
+
 https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
 
 https://github.com/KatherineMichel?before=Y3Vyc29yOnYyOpK5MjAxOC0wOC0yM1QxMTozODo0Mi0wNTowMM4CNe1F&tab=followers | Your Followers
@@ -134,8 +136,13 @@ https://humanebydesign.com/ | Humane by Design
 
 http://devonzuegel.com/post/memex-my-personal-knowledge-base
 
+
 https://pypi.org/project/black/
 https://pypi.org/project/check-manifest/
+
+React
+https://reactjs.org/docs/composition-vs-inheritance.html | Composition vs Inheritance - React
+
 
 Feross
 https://twitter.com/feross/status/1242173582169407488
