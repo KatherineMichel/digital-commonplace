@@ -83,6 +83,8 @@ update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
 
+https://leetcode.com
+
 https://github.community/
 https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
 
@@ -91,7 +93,19 @@ https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/gui
 https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
 
-Use
+API
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis
+
+node
+https://github.com/azat-co/practicalnode
+https://github.com/sindresorhus/awesome-nodejs
+https://github.com/sqreen/awesome-nodejs-projects
+
+Azure Roadmap | Microsoft Azure
+https://azure.microsoft.com/en-us/roadmap/?v=17.23h
+
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
