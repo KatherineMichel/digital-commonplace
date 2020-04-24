@@ -36,6 +36,71 @@ https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Re
 http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 -->
 
+## Useful Tools
+
+Glitch
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+* [Zeit Zero Config](https://zeit.co/blog/zero-config)
+
+Hawt- Helpers
+* [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
+* [Airtable Templates](https://airtable.com/templates), [Airtable Blocks](https://airtable.com/blocks), and [Airtable Guide](https://guide.airtable.com/) 
+* [Zapier GitHub](https://github.com/zapier)
+
+Sandboxes
+* [Repl.it](https://repl.it) and [Repl.it Universal Package Manager](https://blog.repl.it/packager)
+* [CodeSandbox](https://codesandbox.io)
+* [dark](https://darklang.com/)
+
+Glitch Examples
+* [Glitch Websites](https://glitch.com/@websites)
+
+<!--
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Zeit now](https://zeit.co/now)
+* [Zeit micro](https://github.com/zeit/micro)
+
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+-->
+
+## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [vue.js Showcase](https://madewithvuejs.com/)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Showcase](https://madewithreactjs.com/)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+<!--
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
 ## Mainstream JavaScript Frameworks
 
 Stacks
