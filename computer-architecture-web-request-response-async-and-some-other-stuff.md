@@ -1,12 +1,6 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://github.com/tiangolo/fastapi
-
-https://github.com/api-evangelist
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis
-
 https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
 https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
 
@@ -74,6 +68,26 @@ https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 www.json.org
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
 https://jwt.io/ | JSON Web Tokens - jwt.io
+-->
+
+## API
+
+<!--
+https://github.com/tiangolo/fastapi
+
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+API
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 -->
 
 ## Third Party Helpers
@@ -565,22 +579,6 @@ https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 
 https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
--->
-
-## API
-
-<!--
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
-API
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 -->
 
 ## Networks
