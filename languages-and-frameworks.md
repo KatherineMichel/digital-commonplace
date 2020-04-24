@@ -75,6 +75,32 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
+## Popular Languages and Frameworks
+
+<!--
+https://www.python.org/
+-->
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
 ## Stack and Built With
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
