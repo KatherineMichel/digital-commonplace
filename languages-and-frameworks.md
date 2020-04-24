@@ -75,6 +75,24 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
+## GitHub and VS Code Integration
+
+<!--
+Glitch/VS Code
+https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Collaborate on code & deploy instantly on Glitch from VSCode | Product Hunt
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
 ## Popular Languages and Frameworks
 
 <!--
