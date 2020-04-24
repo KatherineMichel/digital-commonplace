@@ -1,10 +1,13 @@
 # Python Tools and Release Managers
 
 <!--
-Cos
+https://dbader.org/blog/ultimate-list-of-python-podcasts
+
 https://www.youtube.com/watch?v=lx5WQjXLlq8&
 https://speakerdeck.com/carljm/instagram-under-the-hood
 https://blog.disqus.com/scaling-django-to-8-billion-page-views
+https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
+https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
 
 Anthony
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
