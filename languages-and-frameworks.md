@@ -93,32 +93,6 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
-## Popular Languages and Frameworks
-
-<!--
-https://www.python.org/
--->
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
 ## Stack and Built With
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
@@ -202,7 +176,11 @@ https://www.stackbit.com/
 Object-Oriented Programming Languages
 * [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
 
-## Django
+## Python and Django
+
+<!--
+https://www.python.org/
+-->
 
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
@@ -213,6 +191,20 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
 * [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
 * [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+## Popular JavaScript Frameworks
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React and Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 ## Languages and Frameworks (Other than Python and Django)
 
@@ -338,20 +330,6 @@ https://en.wikipedia.org/wiki/Internet_Standard#Proposed_Standard | Internet Sta
 https://www.w3.org/2011/05/activity-proposal.html | Web Testing Activity Proposal
 https://unicode.org/emoji/proposals.html | Submitting Emoji Character Proposals
 -->
-
-## Popular JavaScript Frameworks
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React and Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 ## Web Frameworks
 
