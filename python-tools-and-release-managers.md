@@ -1,6 +1,9 @@
 # Python Tools and Release Managers
 
 <!--
+https://pypi.org/project/black/
+https://pypi.org/project/check-manifest/
+
 https://dbader.org/blog/ultimate-list-of-python-podcasts
 
 https://www.youtube.com/watch?v=lx5WQjXLlq8&
