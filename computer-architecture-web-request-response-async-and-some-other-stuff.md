@@ -1,15 +1,32 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://github.com/tiangolo/fastapi
+
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis
+
 https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
 https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
+
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+
+https://github.com/lawsecnet/pentesting-with-python
+
+https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: A reading list for infosec engineers
+https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
+
+Hidden vulnerabilities of OS Software
+https://twitter.com/cra/status/1242580570451951619
 
 Social Distancing Survival Guide
 https://twitter.com/Fox0x01/status/1238636233649250304
 https://twitter.com/Fox0x01/status/1238636236962779136
 https://github.com/gwen001/pentest-tools
-
-https://github.com/tiangolo/fastapi
 
 https://access.redhat.com/documentation/en-us/
 
