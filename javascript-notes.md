@@ -1,7 +1,6 @@
 # JavaScript Notes
 
 <!--
-JavaScript
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
 
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
@@ -10,7 +9,6 @@ https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've
 https://codepen.io/collection/nMgKxJ
 
 https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
 
 
 HTTP, API, DOM
@@ -94,6 +92,8 @@ https://github.com/palashmon/awesome-js-posts
 https://github.com/andyttran/guide_to_algorithms
 
 Node
+https://github.com/azat-co/practicalnode
+https://github.com/sqreen/awesome-nodejs-projects
 https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 
@@ -138,6 +138,8 @@ Brian Holt React Courses
 * [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
 
 <!--
+https://reactjs.org/docs/composition-vs-inheritance.html | Composition vs Inheritance - React
+
 https://github.com/btholt/react-hooks-examples | btholt/react-hooks-examples: Created with CodeSandbox
 https://codesandbox.io/s/github/btholt/react-hooks-examples | hooks-examples - CodeSandbox
 
