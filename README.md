@@ -8,6 +8,36 @@ https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
 
+PyCon
+https://us.pycon.org/2020/remote/
+https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
+https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+
+https://compedu.stanford.edu/codeinplace/announcement/
+https://compedu.stanford.edu/codeinplace/assn0/#/splash
+
+https://us.edstem.org/courses/490/discussion/
+https://compedu.stanford.edu/codeinplace/v1/#/course
+https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
+https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
+https://compedu.stanford.edu/codeinplace/v1/#/handout/section1.pdf
+
+http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5
+
+Karel
+https://en.wikipedia.org/wiki/Karel_(programming_language)
+https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
+https://en.wikipedia.org/wiki/Richard_E._Pattis | Richard E. Pattis - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error# | Off-by-one error - Wikipedia
+
+Reeborg
+http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with Reeborg
+http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
+http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
+
+CHAOSS
+
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
@@ -44,8 +74,11 @@ Human Factors
 https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
 https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
 
+https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
 https://www.uxbrutalism.com/
 http://www.tragicdesign.com
+https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
+https://brutalist-web.design/ | Brutalist Web Design
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
@@ -71,36 +104,6 @@ https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/gui
 Knowledgebase and other tips
 http://devonzuegel.com/post/memex-my-personal-knowledge-base
 
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-
-https://compedu.stanford.edu/codeinplace/announcement/
-https://compedu.stanford.edu/codeinplace/assn0/#/splash
-
-https://us.edstem.org/courses/490/discussion/
-https://compedu.stanford.edu/codeinplace/v1/#/course
-https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
-https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
-https://compedu.stanford.edu/codeinplace/v1/#/handout/section1.pdf
-
-http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5
-
-Karel
-https://en.wikipedia.org/wiki/Karel_(programming_language)
-https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
-https://en.wikipedia.org/wiki/Richard_E._Pattis | Richard E. Pattis - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error# | Off-by-one error - Wikipedia
-
-Reeborg
-http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with Reeborg
-http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
-http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
-
-CHAOSS
-
 Courses and practice
 https://leetcode.com
 https://www.hackerrank.com/challenges/capitalize/problem
@@ -122,10 +125,11 @@ update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
 
-Mac
-https://github.com/apple/darwin-xnu | apple/darwin-xnu: The Darwin Kernel (mirror)
-
 https://www.twitch.tv/anthonywritescode
+
+Snippets
+https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
+https://developers.google.com/web/tools/chrome-devtools/snippets
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
 
