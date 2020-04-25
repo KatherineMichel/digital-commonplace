@@ -44,6 +44,9 @@ Human Factors
 https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
 https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
 
+https://www.uxbrutalism.com/
+http://www.tragicdesign.com
+
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
 Viral Funnel model
