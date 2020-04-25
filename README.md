@@ -129,9 +129,13 @@ https://www.twitch.tv/anthonywritescode
 
 Snippets
 https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets
+https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
+
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
