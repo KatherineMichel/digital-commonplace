@@ -158,6 +158,10 @@ https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve 
 
 https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
 
+https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
+
+https://www.nngroup.com
+
 https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
