@@ -62,6 +62,9 @@ http://augmentingcognition.com/ltm.html
 Eyes
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
+https://nesslabs.com/roam-research-bookmarklet
+https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+
 https://bored.solutions/
 
 https://www.khanacademy.org/partner-content/pixar
@@ -79,6 +82,8 @@ https://www.uxbrutalism.com/
 http://www.tragicdesign.com
 https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
 https://brutalist-web.design/ | Brutalist Web Design
+https://humanebydesign.com/ | Humane by Design
+https://www.darkpatterns.org/ | Dark Patterns
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
@@ -125,6 +130,8 @@ update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
 
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
 https://www.twitch.tv/anthonywritescode
 
 Snippets
@@ -132,6 +139,19 @@ https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ 
 https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
+
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
 
 https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
 
@@ -165,8 +185,6 @@ Trade Offs
 
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-https://humanebydesign.com/ | Humane by Design
 
 Docker
 https://github.com/docker/compose/issues/3729
@@ -218,10 +236,6 @@ https://github.com/hubotio/hubot/blob/master/docs/index.md
 https://github.com/hubotio/generator-hubot
 https://github.com/howdyai/botkit
 https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
-
-https://shellshare.net/
-https://asciinema.org asciinema
-https://www.asciiart.eu/ | ASCII Art Archive
 -->
 
 ## Good Habits
@@ -716,6 +730,9 @@ https://github.com/dotnet/core/blob/master/roadmap.md
 http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
 https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
 https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
+https://medium.com/medium-release-notes | Medium Release Notes – Medium
+https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 
 Gatsby Case Study
 https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
