@@ -3,15 +3,47 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://git-merge.com/ | Git Merge 2018 — March, Barcelona
-
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
+
+https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+
+CHAOSS
+
+Content
+https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
+https://opensource.com/how-submit-article | Write for us | Opensource.com
+https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
+https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
+
+Order Alpha
+https://twitter.com/pydanny/status/1226937149485768704
+
+Courses and practice
+https://leetcode.com
+https://www.hackerrank.com/challenges/capitalize/problem
+Brian Holt, Frontend Masters
+Traversy Media
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
+100 Days of Code
+https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
+https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
+
+Wes Bos
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+https://wesbos.com/uses/ | Uses | Wes Bos
+update node and npm - Google Search
+https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
+https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
 
 https://compedu.stanford.edu/codeinplace/announcement/
 https://compedu.stanford.edu/codeinplace/assn0/#/splash
@@ -36,20 +68,91 @@ http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with R
 http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
 http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
 
-CHAOSS
 
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
-
-Content
-https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
-https://opensource.com/how-submit-article | Write for us | Opensource.com
-https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
 
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
+
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
+Casey
+https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+
+
+https://www.twitch.tv/anthonywritescode
+
+ACM Library
+Sustain OSS
+Lean Enterprise
+
+Python
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
+
+Snippets
+https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
+https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
+
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
+
+https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
+
+
+https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
+
+Model Managers
+https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
+
+https://amitness.com/2019/08/math-for-programmers/
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
+
+https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
+
+clrs algorithms
+Refactoring, TDD
+Trade Offs
+
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+
+Docker
+https://github.com/docker/compose/issues/3729
+
 
 https://www.coursera.org/learn/the-science-of-well-being
 
@@ -62,8 +165,15 @@ http://augmentingcognition.com/ltm.html
 Eyes
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
+Knowledgebase and other tips
+http://devonzuegel.com/post/memex-my-personal-knowledge-base
+
 https://nesslabs.com/roam-research-bookmarklet
 https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+
+https://www.nngroup.com
 
 https://bored.solutions/
 
@@ -98,105 +208,6 @@ https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental M
 https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
 
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
-
-Casey
-https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
-
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-Knowledgebase and other tips
-http://devonzuegel.com/post/memex-my-personal-knowledge-base
-
-Courses and practice
-https://leetcode.com
-https://www.hackerrank.com/challenges/capitalize/problem
-Brian Holt, Frontend Masters
-Traversy Media
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
-100 Days of Code
-https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
-
-Wes Bos
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-https://wesbos.com/uses/ | Uses | Wes Bos
-update node and npm - Google Search
-https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-https://www.twitch.tv/anthonywritescode
-
-Snippets
-https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
-
-https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
-
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-
-https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready Software
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
-
-https://www.nngroup.com
-
-https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
-
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
-
-Order Alpha
-https://twitter.com/pydanny/status/1226937149485768704
-
-https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
-
-Model Managers
-https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
-
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
-
-https://amitness.com/2019/08/math-for-programmers/
-
-https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
-
-clrs algorithms
-Refactoring, TDD
-Trade Offs
-
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-Docker
-https://github.com/docker/compose/issues/3729
 -->
 
 
@@ -519,6 +530,24 @@ https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
 
+## Technical Writing
+
+<!--
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
+
+https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
+
+https://twitter.com/agjhnsn/status/1222618133069885445
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
+-->
+
 ## To Read- Git, GitHub, Open Source, Hosting
 
 GitHub
@@ -615,6 +644,8 @@ Refactoring
 <!--
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 -->
 
 Checklists and Cheat Sheets
@@ -624,6 +655,7 @@ Checklists and Cheat Sheets
 Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
+
 
 ## To Read- Tools
 
@@ -635,8 +667,39 @@ Marketplaces
 * [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
 
 <!--
+ZSH	
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
+
+Brew script
+
+Homebrew
+https://github.com/Linuxbrew/homebrew-core
+https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+
+Bash
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+File security
+http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
+
+YAML
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
 http://www.yaml.org/refcard.html
-http://yaml.org/spec/1.2/spec.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+https://en.wikipedia.org/wiki/Regular_expression
 -->
 
 
@@ -726,9 +789,8 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 ## Open Source Examples
 
 <!--
-https://github.com/github-tools
-
-https://github.com/ajaxorg/ace
+Gatsby Case Study
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
 
 node.js Release Schedule
 https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
@@ -740,8 +802,13 @@ https://github.com/nodejs/Release
 Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+
 Azure Roadmap | Microsoft Azure
 https://azure.microsoft.com/en-us/roadmap/?v=17.23h
+
+https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
 
 Release
 https://github.com/dotnet/designs
@@ -755,15 +822,6 @@ https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visua
 https://medium.com/medium-release-notes | Medium Release Notes – Medium
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 
-Gatsby Case Study
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-Roadmap
-https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
-
 Microsoft Resources
 https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
@@ -772,6 +830,12 @@ https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual St
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+Roadmap
+https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
 
 Examples
 https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
@@ -798,9 +862,17 @@ Security in case of vulnerabilities.
 https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
 -->
 
+
+
 ## GitHub Tips
 
 <!--
+https://github.com/sdras/awesome-actions
+
+https://github.com/github-tools
+
+https://github.com/ajaxorg/ace
+
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
@@ -808,13 +880,6 @@ https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution T
 
 OS Distribution of User Skills
 https://twitter.com/DynamicWebPaige/status/1175930240452816896
-
-https://github.com/sdras/awesome-actions
-
-https://en.wikipedia.org/wiki/Capability_Immaturity_Model | Capability Immaturity Model - Wikipedia
-
-Google’s project re:work
-https://twitter.com/skimbrel/status/1190734445952659456
 
 https://github.com/erikr/lessobviouschecklist
 
@@ -827,8 +892,12 @@ https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have
 
 https://github.community/
 https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
+-->
 
 
+## Pinax
+
+<!--
 https://pypi.org/manage/projects/
 
 https://github.com/watching
@@ -842,11 +911,7 @@ https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to
 
 https://github.blog/2019-02-14-introducing-draft-pull-requests/
 https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
--->
 
-## Pinax
-
-<!--
 https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
 
 dj3
@@ -914,29 +979,6 @@ https://opensource.guide/leadership-and-governance/
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
-
-## Technical Writing
-
-<!--
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
-https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
-
-https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
-
-https://twitter.com/agjhnsn/status/1222618133069885445
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
-
-Blog
-https://www.youtube.com/watch?v=eHXq-IzlGUE&feature=youtu.be
-https://danluu.com/corp-eng-blogs/
--->
-
 
 
 
@@ -1013,6 +1055,7 @@ Maturity Models and Frameworks
 * [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
 <!--
+https://en.wikipedia.org/wiki/Capability_Immaturity_Model | Capability Immaturity Model - Wikipedia
 https://en.wikipedia.org/wiki/Capability_Maturity_Model#Maturity_models
 https://community.apache.org/apache-way/apache-project-maturity-model.html#other-open-source-project-models
 
@@ -1051,26 +1094,6 @@ Open source report card
 -->
 
 
-<!--
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-Matrix- Operating Systems (Unix, Linux, etc.)
-
-GitHub
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-
-Probot
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
--->
-
-
 ## GitHub Features
 
 GitHub Features
@@ -1090,6 +1113,14 @@ https://github.com/actions | GitHub Actions
 GitHub Web Hooks  
 * [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
 
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+GitHub Services- Deprecated
+* [Service GitHub](https://github.com/github/github-services) 
+
+
+
 <!--
 https://twitter.com/natfriedman/status/1159511728704483329
 https://twitter.com/kelseyhightower/status/1159517721068916736
@@ -1099,12 +1130,24 @@ https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Spon
 https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
 -->
 
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+<!--
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
-GitHub Services- Deprecated
-* [Service GitHub](https://github.com/github/github-services) 
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
 
+Matrix- Operating Systems (Unix, Linux, etc.)
+
+GitHub
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+
+Probot
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+-->
 
 <!--
 https://www.youtube.com/user/github/videos | GitHub - YouTube
@@ -1201,11 +1244,12 @@ https://github.com/marketplace/actions/codecov
 https://probot.github.io/apps/release-drafter/
 
 https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+-->
 
+<!--
 Create a release
 https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
-
 
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
@@ -1227,6 +1271,8 @@ https://help.github.com/en/actions/automating-your-workflow-with-github-actions/
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+https://twitter.com/carlogilmar/status/1197215398405365760 | Carlo Gilmar on Twitter: "@GitHub #githubuniverse GitHub Actions by @ethomson #visualpartnership https://t.co/DmAo2ekbi7" / Twitter
 
 https://github.com/actions/checkout | actions/checkout
 
@@ -1278,7 +1324,9 @@ https://twitter.com/webology/status/1195412423936753670
 https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
 https://github.com/boyney123/github-actions
 https://twitter.com/simonw/status/1199851134564884480
+-->
 
+<!--
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
 
 GitHub API
@@ -1543,7 +1591,9 @@ https://www.quora.com/What-are-some-common-trade-offs-in-software-development | 
 http://www.cc2e.com
 https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
 
-http://aosabook.org/en/index.html | The Architecture of Open Source Applications
+Use
+http://aosabook.org/en/index.html
+https://github.com/aosabook/500lines
 
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
@@ -1621,6 +1671,8 @@ https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre |
 -->
 
 <!--
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
 Coursera DevOps Course
@@ -1631,6 +1683,9 @@ https://www.coursera.org/learn/devops-culture-and-mindset
 ## Jez Humble
 
 <!--
+Related
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
 https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
 
 https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
