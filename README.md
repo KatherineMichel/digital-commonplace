@@ -86,6 +86,8 @@ https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Su
 
 https://www.twitch.tv/anthonywritescode
 
+https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
+
 ACM Library
 Sustain OSS
 Lean Enterprise
