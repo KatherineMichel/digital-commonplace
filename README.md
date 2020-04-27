@@ -123,6 +123,14 @@ https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Re
 
 https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
 
+Tools
+http://nixos.org
+https://github.com/NixOS/nix
+
+https://github.com/Microsoft/TypeScript-Vue-Starter
+
+https://boto3.readthedocs.io/en/latest/index.html
+
 
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
 
