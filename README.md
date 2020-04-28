@@ -241,6 +241,7 @@ https://github.com/RalfG/python-wheels-manylinux-build
 https://github.com/pypa/manylinux
 
 Linux subsystem Windows
+http://wsl-guide.org/en/latest/
 https://www.infoq.com/news/2020/04/wsl-2-general-availability/
 
 Ubuntu
