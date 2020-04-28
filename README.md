@@ -131,6 +131,17 @@ https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Su
 
 https://www.twitch.tv/anthonywritescode
 
+Release!
+https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
+https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
+https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
+
+https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
+https://github.com/Microsoft/code-with-engineering-playbook | microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
+
 https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
 
 ACM Library
@@ -157,6 +168,8 @@ https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from
 https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
 https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
 
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
@@ -165,11 +178,21 @@ https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
+PM
+https://mobile.twitter.com/sriramk/status/1249860579994435585
+https://mobile.twitter.com/seanrose/status/1249863535414218752
+https://mobile.twitter.com/stevesi/status/1249862470006493184
+
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
 https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
 https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+
+https://mobile.twitter.com/rseroter/status/1250144543107768320
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+https://www.atlassian.com/continuous-delivery/continuous-integration | What is Continuous Integration | Atlassian
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
@@ -177,9 +200,33 @@ https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design S
 
 https://web.dev/fast/ | Fast load times
 
+https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
+
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 
+https://github.com/sdras/contentful-nuxt-netlify
+https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
+https://github.com/Azure/azure-quickstart-templates
+https://github.com/GoogleCloudPlatform/github-actions
+https://github.com/Mariatta/github-app-tutorial
+https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
+https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
+
+https://news.ycombinator.com/item?id=22920437
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+https://github.com/simonw/til
+
+GA
+https://mobile.twitter.com/simonw/status/1252052032019546112
+https://mobile.twitter.com/webology/status/1252052023459090432
+
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
+
+Kenneth
+https://github.com/inishchith/autoenv
+
 gitvenv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
 
 Homebrew Analytics
 https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
@@ -187,6 +234,14 @@ https://formulae.brew.sh/analytics/install-on-request/30d/ | Homebrew Analytics 
 https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
 
 https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
+
+https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
+
+https://github.com/RalfG/python-wheels-manylinux-build
+https://github.com/pypa/manylinux
+
+Linux subsystem Windows
+https://www.infoq.com/news/2020/04/wsl-2-general-availability/
 
 Ubuntu
 https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71 | Get Ubuntu 20.04 LTS - Microsoft Store
