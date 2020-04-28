@@ -45,6 +45,8 @@ update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
 
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
 https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
@@ -154,6 +156,8 @@ https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - 
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
 
 https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
 
