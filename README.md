@@ -6,6 +6,9 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
 
+https://www.acm.org/virtual-conferences | Virtual Conferences
+
+https://githubsatellite.com/
 https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 
 PyCon
@@ -158,8 +161,9 @@ https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
 https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
 
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
@@ -168,6 +172,26 @@ https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Lear
 https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+https://web.dev/fast/ | Fast load times
+
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+
+gitvenv
+
+Homebrew Analytics
+https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
+https://formulae.brew.sh/analytics/install-on-request/30d/ | Homebrew Analytics Formula Install On Request Events — Homebrew Formulae
+https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
+
+https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
+
+Ubuntu
+https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71 | Get Ubuntu 20.04 LTS - Microsoft Store
+https://releases.ubuntu.com/20.04/ | Ubuntu 20.04 LTS (Focal Fossa)
+https://ubuntu.com/blog/ubuntu-20-04-lts-arrives | Ubuntu 20.04 LTS arrives | Ubuntu
 
 https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
 
