@@ -45,14 +45,31 @@ update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
 
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
 https://compedu.stanford.edu/codeinplace/announcement/
 https://compedu.stanford.edu/codeinplace/assn0/#/splash
 
+https://compedu.stanford.edu/codeinplace/v1/#/karel/section1/hospital | Hospital
+
 https://us.edstem.org/courses/490/discussion/
 https://compedu.stanford.edu/codeinplace/v1/#/course
+https://compedu.stanford.edu/codeinplace/v1/#/course/schedule | Schedule
+https://compedu.stanford.edu/codeinplace/v1/#/handout/submissionInstructions.html | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/submissions | Submissions
 https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
 https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
 https://compedu.stanford.edu/codeinplace/v1/#/handout/section1.pdf
+https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment2.pdf | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/handout/section2.pdf | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/assignment/khansole | Assignment
+
+https://us.edstem.org/courses/1470/discussion/46041 | Section 470 – Discussion
+https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html | Karel Reader
+https://compedu.stanford.edu/karel-reader/docs/python/en/reference.html | Karel Reader
 
 http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5
 
@@ -63,10 +80,33 @@ https://en.wikipedia.org/wiki/Richard_E._Pattis | Richard E. Pattis - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error# | Off-by-one error - Wikipedia
 
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Random-access_memory | Random-access memory - Wikipedia
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
+https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
+https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+
+https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
+https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
+
 Reeborg
 http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with Reeborg
 http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
 http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
+
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
 
 
 Nuzzel
@@ -107,6 +147,10 @@ https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
 https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
 
 https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
