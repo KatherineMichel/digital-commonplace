@@ -1,42 +1,17 @@
 # Python Tools and Release Managers
 
 <!--
-GH
-https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
-https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
-https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
-
 https://www.npmjs.com/package/npx | npx
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
 
 https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
 
-Anthony
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
-
-Anthony
-https://discordapp.com/invite/HxpQ3px | anthonywritescode
-https://www.twitch.tv/team/livecoders | (1) Twitch
-https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg | thumbnails/pythonk.svg at master · anthonywritescode/thumbnails
-https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
-https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
-
-https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html? | Django on Azure - beyond "hello world"
-
-Python Docker
-https://twitter.com/brettsky/status/1146835613628293120 | Twitter
-
-https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
 
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 
-
-
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
 
 https://github.com/RalfG/python-wheels-manylinux-build
 https://github.com/pypa/manylinux
@@ -81,9 +56,19 @@ https://twitter.com/hynek/status/1189883958294654978
 <!--
 Release Examples
 
-Release!
+Virtualenv
+https://twitter.com/hynek/status/1241381814440247299
+
+virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://github.com/pyenv/pyenv-update
+
+flake8
 https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
 https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
+
+pre-commit
 https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
 
 Tools Release
@@ -124,6 +109,7 @@ Stats
 Homebrew Analytics
 https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
 https://formulae.brew.sh/analytics/install-on-request/30d/ | Homebrew Analytics Formula Install On Request Events — Homebrew Formulae
+https://github.com/Homebrew/homebrew-formula-analytics
 
 Top downloaded wheels
 https://pythonwheels.com/
@@ -352,22 +338,19 @@ https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-en
 -->
 
 
-## Interesting
+## Actions, Pipelines, and Stuff
 
 <!--
-Virtualenv
-https://twitter.com/hynek/status/1241381814440247299
-
-virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://github.com/pyenv/pyenv-update
-
 GitHub Actions- Hynek
 https://hynek.me/articles/python-github-actions/
 https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
 https://twitter.com/hynek/status/1236227708746596353
 https://github.com/Azure/actions
+
+https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
+https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
 
 Hynek
 Azure Pipelines
@@ -379,6 +362,13 @@ https://azure.microsoft.com/en-us/services/devops/pipelines/
 https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
 https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
 https://github.com/asottile/azure-pipeline-templates
+
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html? | Django on Azure - beyond "hello world"
+
+Python Docker
+https://twitter.com/brettsky/status/1146835613628293120 | Twitter
+
+https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
 -->
 
 ## Bots
@@ -632,8 +622,15 @@ Special Projects
 * [babi-editor](https://github.com/babi-editor)
 
 <!--
+https://discordapp.com/invite/HxpQ3px | anthonywritescode
+https://www.twitch.tv/team/livecoders | (1) Twitch
+
+https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
+https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
 https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
 https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
+
+https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg | thumbnails/pythonk.svg at master · anthonywritescode/thumbnails
 
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://testandcode.com/104
@@ -649,8 +646,9 @@ https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
 
 https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
 
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
 https://github.com/asottile/add-trailing-comma
-https://github.com/asottile/all-repos
 https://github.com/asottile/t
 https://github.com/asottile/git-code-debt
 
