@@ -122,6 +122,8 @@ https://personal.vanguard.com/us/funds/tools/marketsummary
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
 
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+
 
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
@@ -134,6 +136,8 @@ https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-
 
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
 https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
@@ -150,6 +154,8 @@ ACM Library
 Sustain OSS
 Lean Enterprise
 
+https://bestmotherfucking.website/ | Best Motherfucking Website
+
 https://web.dev/fast/ | Fast load times
 
 https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -158,8 +164,8 @@ https://github.com/Microsoft/TypeScript-Vue-Starter
 https://github.com/sdras/contentful-nuxt-netlify
 
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
+https://twitter.com/simonw/status/1250651420660871168
+https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
 
 https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
@@ -665,7 +671,8 @@ https://devguide.python.org/devcycle/
 ## Open Source Examples
 
 <!--
-Python
+https://maintainers.github.com/
+
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub
 
 Martin Fowler
