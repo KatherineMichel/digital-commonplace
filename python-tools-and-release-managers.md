@@ -1,19 +1,80 @@
 # Python Tools and Release Managers
 
 <!--
-https://pypi.org/project/black/
-https://pypi.org/project/check-manifest/
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
+
+https://github.com/RalfG/python-wheels-manylinux-build
+https://github.com/pypa/manylinux
+
+Linux subsystem Windows
+http://wsl-guide.org/en/latest/
+https://www.infoq.com/news/2020/04/wsl-2-general-availability/
+
+Ubuntu
+https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71 | Get Ubuntu 20.04 LTS - Microsoft Store
+https://releases.ubuntu.com/20.04/ | Ubuntu 20.04 LTS (Focal Fossa)
+https://ubuntu.com/blog/ubuntu-20-04-lts-arrives | Ubuntu 20.04 LTS arrives | Ubuntu
+
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+
+GA
+https://mobile.twitter.com/simonw/status/1252052032019546112
+https://mobile.twitter.com/webology/status/1252052023459090432
 
 https://dbader.org/blog/ultimate-list-of-python-podcasts
 
-https://www.youtube.com/watch?v=lx5WQjXLlq8&
-https://speakerdeck.com/carljm/instagram-under-the-hood
-https://blog.disqus.com/scaling-django-to-8-billion-page-views
-https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
-https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
+https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
+https://github.com/Azure/azure-quickstart-templates
+https://github.com/GoogleCloudPlatform/github-actions
+
+https://github.com/Mariatta/github-app-tutorial
+https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
+https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
 
 Anthony
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
+cross linter - Google Search
+
+CLI
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+
+Radix
+https://twitter.com/hynek/status/1189883958294654978
+-->
+
+<!--
+Release Examples
+
+Release!
+https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
+https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
+https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
+
+Tools Release
+https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
+https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+
+PyPy
+https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+
+Daphne
+https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
+jpezG5fYgd" / Twitter
+
+django-allauth
+https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
+-->
+
+<!--
+Brew script
+
+Homebrew
+https://github.com/Linuxbrew/homebrew-core
+https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
 
 tox
 https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
@@ -23,28 +84,24 @@ https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public
 -->
 
 <!--
-brian okken - Google Search
+Stats
 
-Test Anything Protocol
+Homebrew Analytics
+https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
+https://formulae.brew.sh/analytics/install-on-request/30d/ | Homebrew Analytics Formula Install On Request Events — Homebrew Formulae
 
-PyTest
-https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://testautomationu.applitools.com/python-tutorial/
-
-https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://automationpanda.com/tag/development/
+Top downloaded wheels
+https://pythonwheels.com/
 -->
 
 <!--
+https://boto3.readthedocs.io/en/latest/index.html
+
+https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
+
+https://pypi.org/project/black/
+https://pypi.org/project/check-manifest/
+
 https://pypi.org/classifiers/ | Classifiers · PyPI
 https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
 https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
@@ -62,37 +119,30 @@ https://docs.python.org/3/library/distutils.html | distutils — Building and in
 -->
 
 <!--
+Kenneth
+https://github.com/inishchith/autoenv
+
+gitvenv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+Tools
+http://nixos.org
+https://github.com/NixOS/nix
+
+Python Language Server
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+https://microsoft.github.io/language-server-protocol/specification
+https://github.com/Microsoft/python-language-server
+https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
 https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
-
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-cross linter - Google Search
-
-CLI
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
 
 https://pyup.io/safety/
 
 https://pyformat.info/
 
-https://www.youtube.com/watch?v=qt7TboNJGJg
--->
-
-<!--
-Radix
-https://twitter.com/hynek/status/1189883958294654978
-
-Very important!!!!!!!
-https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
-https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
-
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
 
 https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
 
@@ -123,21 +173,50 @@ https://www.marc-richter.info/using-pyenv-to-manage-your-python-interpreters/ | 
 
 PyInstaller
 https://twitter.com/ChPietsch/status/1214592028165787653 | Ꮯhristian Ꮲeach (@chpietsch@digitalcourage.social) on Twitter: "#PyInstaller still is in urgent need  of funding. If there is no sustainable funding until end of January, the current maintainer will officially retire. Which basically means: no more releases. Help funding! Details: https://t.co/veL9hfsnm5 #Python #FOSS #FLOSS #OpenSource" / Twitter
+-->
 
-Tools Release
-https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
-https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
-https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+<!--
+Testing
 
-PyPy
-https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
 
-Daphne
-https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
-jpezG5fYgd" / Twitter
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
 
-django-allauth
-https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
+https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
+
+
+brian okken - Google Search
+
+Test Anything Protocol
+
+PyTest
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/python-tutorial/
+
+https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+-->
+
+<!--
+pip install
+https://www.youtube.com/watch?v=qt7TboNJGJg
+
+Very important!!!!!!!
+https://github.com/python-leap/book | python-leap/book: Pythonic Application Architecture Patterns, the Book
+https://twitter.com/hjwp/status/1124403310721753088 | Harry Percival on Twitter: "@KatiMichel @brandon_rhodes new book - https://t.co/F9aJA1zWZH feedback high or low level much appreciated!"
 
 http://rahmonov.me/posts/write-python-framework-part-one/ | How to write a Python web framework. Part I.	
 
@@ -146,12 +225,6 @@ https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applicatio
 
 Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-
-Python Language Server
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
 -->
 
 <!--
@@ -202,6 +275,7 @@ https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.l
 https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
 -->
 
+
 ## High Performance Python and Django and Trends
 
 <!--
@@ -231,6 +305,13 @@ https://www.youtube.com/watch?v=H4SS9yVWJYA
 
 https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
 https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+
+https://www.youtube.com/watch?v=lx5WQjXLlq8&
+https://speakerdeck.com/carljm/instagram-under-the-hood
+https://blog.disqus.com/scaling-django-to-8-billion-page-views
+https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
+https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
+
 -->
 
 
@@ -250,8 +331,6 @@ https://hynek.me/articles/python-github-actions/
 https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
 https://twitter.com/hynek/status/1236227708746596353
 https://github.com/Azure/actions
-
-https://github.com/sdras/awesome-actions
 
 Hynek
 Azure Pipelines
@@ -314,6 +393,7 @@ https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
 -->
+
 
 ## Docs
 
@@ -932,15 +1012,38 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
+ZSH	
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+-->
+
+<!--
 https://en.wikipedia.org/wiki/Shell_script
 
-https://www.gnu.org/software/make/manual/make.pdf | make.pdf
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
 
 Bash
-https://www.gnu.org/software/bash/manual/bashref.html#What-is-Bash_003f | Bash Reference Manual
-https://www.tldp.org/LDP/abs/html/ | Advanced Bash-Scripting Guide
-https://www.tldp.org/LDP/Bash-Beginners-Guide/html/ | Bash Guide for Beginners
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+File security
+http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
+
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+http://www.yaml.org/refcard.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+https://en.wikipedia.org/wiki/Regular_expression
 
 Command line
 https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
