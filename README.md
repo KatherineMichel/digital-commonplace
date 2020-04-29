@@ -155,13 +155,11 @@ https://web.dev/fast/ | Fast load times
 https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
 
 https://github.com/Microsoft/TypeScript-Vue-Starter
+https://github.com/sdras/contentful-nuxt-netlify
 
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
-
-
-https://github.com/sdras/contentful-nuxt-netlify
 
 https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
@@ -908,8 +906,7 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 -->
 
 
-
-## GitHub Tips
+## GitHub Tips and Pinax
 
 <!--
 OS Distribution of User Skills
@@ -919,19 +916,9 @@ https://github.com/erikr/lessobviouschecklist
 
 Maintainer driven issues and PRs
 
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
-
-http://jlord.us/git-it
-https://github.com/jlord/git-it
-http://jlord.us/patchwork
-https://github.com/jlord/reporobot
-https://github.com/jlord/patchwork/tree/gh-pages/contributors
--->
-
-## Pinax
-
-<!--
 https://pypi.org/manage/projects/
+
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
 
 https://github.com/watching
 https://mobile.twitter.com/aaronbassett/status/1248353221678116864
@@ -939,11 +926,13 @@ https://mobile.twitter.com/aaronbassett/status/1248353221678116864
 Important- Recent Activity
 https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
 
+
 Good First Issues
 https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/ | Browse good first issues to start contributing to open source - The GitHub Blog
 
 https://github.blog/2019-02-14-introducing-draft-pull-requests/
 https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
+
 
 https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
 
@@ -1164,6 +1153,12 @@ https://github.com/blog/2401-the-github-diversity-report
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+
+http://jlord.us/git-it
+https://github.com/jlord/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
 
 https://dependabot.com/ | Dependabot
 https://dependabot.com/#how-it-works | Dependabot
