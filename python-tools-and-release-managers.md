@@ -1,6 +1,40 @@
 # Python Tools and Release Managers
 
 <!--
+GH
+https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
+https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
+
+https://www.npmjs.com/package/npx | npx
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+
+https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
+
+Anthony
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
+
+Anthony
+https://discordapp.com/invite/HxpQ3px | anthonywritescode
+https://www.twitch.tv/team/livecoders | (1) Twitch
+https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg | thumbnails/pythonk.svg at master · anthonywritescode/thumbnails
+https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
+https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
+
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html? | Django on Azure - beyond "hello world"
+
+Python Docker
+https://twitter.com/brettsky/status/1146835613628293120 | Twitter
+
+https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
+
+https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
+
+
+
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
 
@@ -80,6 +114,7 @@ tox
 https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
 https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
 
+https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 -->
 
@@ -311,6 +346,8 @@ https://speakerdeck.com/carljm/instagram-under-the-hood
 https://blog.disqus.com/scaling-django-to-8-billion-page-views
 https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
 https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
+
+https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
 
 -->
 
@@ -1012,7 +1049,13 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
+Apple
+
+pyenv?
+command line tools for xcode - Google Search
+
 ZSH	
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
 https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
 
 https://www.iterm2.com/
@@ -1020,6 +1063,10 @@ https://kapeli.com/dash_guide
 -->
 
 <!--
+https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
+https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
+
 https://en.wikipedia.org/wiki/Shell_script
 
 Aliases
