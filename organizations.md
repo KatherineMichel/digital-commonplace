@@ -1,8 +1,19 @@
 # Organizations
 
 <!--
+https://github.com/Azure
+https://github.com/cumulusnetworks/ | Cumulus Networks
+https://github.com/datacamp/
+https://github.com/DataDog | Datadog, Inc.
+https://github.com/divio | Divio
 https://github.com/Hacker0x01/
 https://github.com/HangarOrg/
+https://github.com/internetarchive | Internet Archive
+https://github.com/kayak | KAYAK
+https://github.com/nasa-jpl
+https://github.com/nexmo | Nexmo
+https://github.com/OWASP | OWASP
+https://github.com/TwilioDevEd
 -->
 
 ## Companies that Use Python
