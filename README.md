@@ -1001,38 +1001,6 @@ https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pa
 -->
 
 
-
-## GitHub Tips
-
-<!--
-https://github.com/sdras/awesome-actions
-
-https://github.com/github-tools
-
-https://github.com/ajaxorg/ace
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-https://arxiv.org/abs/1610.00502 | [1610.00502] A Survey of Symbolic Execution Techniques
-
-OS Distribution of User Skills
-https://twitter.com/DynamicWebPaige/status/1175930240452816896
-
-https://github.com/erikr/lessobviouschecklist
-
-Open Source Offices/Leads
-https://twitter.com/i/lists/1196306156655763457
-
-Maintainer driven issues and PRs
-
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
-
-https://github.community/
-https://github.blog/2020-04-14-github-is-now-free-for-teams/ | GitHub is now free for teams - The GitHub Blog
--->
-
-
 ## Pinax
 
 <!--
@@ -1067,12 +1035,6 @@ https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
 Nina
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-Matrix
-https://github.com/jefftriplett/python-github-actions-matrix-demo
-
-Automation
-https://github.com/hackebrot/labels | hackebrot/labels: CLI app for managing GitHub labels for Python 3.6 and newer. 📝
 
 https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
 
@@ -1119,6 +1081,18 @@ https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
 
 
+## GitHub Tips
+
+<!--
+OS Distribution of User Skills
+https://twitter.com/DynamicWebPaige/status/1175930240452816896
+
+https://github.com/erikr/lessobviouschecklist
+
+Maintainer driven issues and PRs
+
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
+-->
 
 ## Open Source in Orgs
 
@@ -1257,43 +1231,13 @@ GitHub Developer
 GitHub Services- Deprecated
 * [Service GitHub](https://github.com/github/github-services) 
 
-
-
 <!--
-https://twitter.com/natfriedman/status/1159511728704483329
-https://twitter.com/kelseyhightower/status/1159517721068916736
-
-web hooks
-https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
-https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
--->
-
-<!--
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-Matrix- Operating Systems (Unix, Linux, etc.)
-
-GitHub
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-
-Probot
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
--->
-
-<!--
+https://github.community/
 https://www.youtube.com/user/github/videos | GitHub - YouTube
 https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 https://live-stream.github.com/ | GitHub Live Events
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-
 
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
@@ -1304,9 +1248,14 @@ https://github.com/blog/2401-the-github-diversity-report
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+
 https://dependabot.com/ | Dependabot
 https://dependabot.com/#how-it-works | Dependabot
 https://dependabot.com/github-actions/ | Dependabot
+
+https://github.com/muan/paint-github | muan/paint-github: [WebExtension] Draw your GitHub comment.
+
+https://github.com/hackebrot/labels | hackebrot/labels: CLI app for managing GitHub labels for Python 3.6 and newer. 📝
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
@@ -1319,8 +1268,6 @@ https://github.com/marketplace/category/code-review
 
 https://github.com/features/code-review/
 https://github.com/personal
-Productivity
-https://visualstudio.github.com/
 https://github.com/enterprise#administration
 https://github.com/features/project-management/
 
@@ -1328,11 +1275,9 @@ https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
 
-https://github.com/jlord/reporobot
-
-https://github.com/muan/paint-github | muan/paint-github: [WebExtension] Draw your GitHub comment.
-
 https://github.com/gr2m/
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
 https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
 
 https://github.com/gr2m/twitter-together
@@ -1351,6 +1296,7 @@ https://github.com/semantic-release/semantic-release/issues/1194
 Python Plugin
 https://github.com/semantic-release/git/issues/172#issuecomment-557203217
 
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
 https://github.com/probot/create-probot-app
 https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
 
@@ -1363,6 +1309,9 @@ https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
 https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
 https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
 https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
 
 https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
 https://www.conventionalcommits.org/en/v1.0.0-beta.4/
@@ -1385,10 +1334,10 @@ https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically re
 -->
 
 <!--
-Create a release
-https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
-https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://twitter.com/natfriedman/status/1159511728704483329
+https://twitter.com/kelseyhightower/status/1159517721068916736
 
+Matrix- Operating Systems (Unix, Linux, etc.)
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
 https://circleci.com/docs/2.0/migrating-from-github/
@@ -1410,31 +1359,17 @@ https://help.github.com/en/actions/automating-your-workflow-with-github-actions/
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
 
-https://twitter.com/carlogilmar/status/1197215398405365760 | Carlo Gilmar on Twitter: "@GitHub #githubuniverse GitHub Actions by @ethomson #visualpartnership https://t.co/DmAo2ekbi7" / Twitter
-
 https://github.com/actions/checkout | actions/checkout
 
 https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
 https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
 
-Corporate actions
-https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
-https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
-https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
-https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+Create a release
+https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
+https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://developer.github.com/v3/repos/releases/#get-a-single-release
 
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-
-GitHub Actions Matrix Demo
-https://twitter.com/webology/status/1201887760413528065
-https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
-
-GitHub Action CI Example from Jeff
-https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
-https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
-
-https://developer.github.com/v3/repos/releases/#get-a-single-release
 
 Important
 https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
@@ -1446,22 +1381,52 @@ Publish to PyPI
 https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
 https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
 
-https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
-https://twitter.com/bitandbang/status/1159514802596777984
+GitHub Actions Matrix Demo
+https://twitter.com/webology/status/1195412423936753670
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/jefftriplett/python-github-actions-matrix-demo
+https://twitter.com/webology/status/1201887760413528065
+https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
+
+GitHub Action CI Example from Jeff
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
+
+Example Actions
+https://github.com/sdras/awesome-actions
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://twitter.com/carlogilmar/status/1197215398405365760 | Carlo Gilmar on Twitter: "@GitHub #githubuniverse GitHub Actions by @ethomson #visualpartnership https://t.co/DmAo2ekbi7" / Twitter
+
+More Example actions
+https://github.com/bdougie/github-actions-continuous-delivery
+https://github.com/paulirish/lighthouse-ci-action
+https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
+https://github.com/boyney123/github-actions
+https://twitter.com/simonw/status/1199851134564884480
 
 pre-commit action
 https://twitter.com/codewithanthony/status/1198774749473558528
 https://github.com/pre-commit/action
 
-Example actions
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
-https://github.com/bdougie/github-actions-continuous-delivery
-https://github.com/paulirish/lighthouse-ci-action
-https://twitter.com/webology/status/1195412423936753670
-https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
-https://github.com/boyney123/github-actions
-https://twitter.com/simonw/status/1199851134564884480
+Corporate actions
+https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
+https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
+https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
+https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+-->
+
+<!--
+https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
+https://twitter.com/bitandbang/status/1159514802596777984
+
+web hooks
+https://github.blog/changelog/2020-01-13-github-sponsors-webhooks/ | GitHub Sponsors webhooks - The GitHub Blog
+https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "GitHub: *implements @GitHub Sponsors webhook* (https://t.co/I2Gko0holy) me: *writes down a note to his @Google Keep: "Implement a GitHub Bot that orders a Beer 🍻 on Amazon based on that"*" / Twitter
 -->
 
 <!--
@@ -1863,8 +1828,8 @@ https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 ## CI/CD
 
 <!--
-https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
 https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
 https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
 https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
