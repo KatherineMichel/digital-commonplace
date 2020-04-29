@@ -131,17 +131,6 @@ https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Su
 
 https://www.twitch.tv/anthonywritescode
 
-Release!
-https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
-https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
-https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
-
-https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
-https://github.com/Microsoft/code-with-engineering-playbook | microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
-
 https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
 
 ACM Library
@@ -156,17 +145,6 @@ https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-
 Snippets
 https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
 https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
-
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
-
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
-
-https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
-https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
 
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 
@@ -185,6 +163,7 @@ https://mobile.twitter.com/stevesi/status/1249862470006493184
 
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
 https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
 https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
@@ -208,6 +187,7 @@ https://github.com/sdras/contentful-nuxt-netlify
 https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
 https://github.com/Azure/azure-quickstart-templates
 https://github.com/GoogleCloudPlatform/github-actions
+
 https://github.com/Mariatta/github-app-tutorial
 https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
 https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
@@ -674,8 +654,6 @@ https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on 
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
 https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
 
 https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
@@ -719,6 +697,8 @@ Google Open Source Guides
 ## To Read- Technical Writing
 
 <!--
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 
 https://developers.google.com/style/
@@ -927,6 +907,29 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 ## Open Source Examples
 
 <!--
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
+
+Release!
+https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
+https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
+https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
+
+https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
+
+
 Gatsby Case Study
 https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
 
