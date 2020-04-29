@@ -125,119 +125,47 @@ https://www.apple.com/ipad-keyboards/
 
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
-Casey
-https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
-
 
 https://www.twitch.tv/anthonywritescode
 
 https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
 
-ACM Library
-Sustain OSS
-Lean Enterprise
-
-Python
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub
-
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
 
-Snippets
-https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
 
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-PM
-https://mobile.twitter.com/sriramk/status/1249860579994435585
-https://mobile.twitter.com/seanrose/status/1249863535414218752
-https://mobile.twitter.com/stevesi/status/1249862470006493184
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
 https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
 https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
 
-https://mobile.twitter.com/rseroter/status/1250144543107768320
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
-https://www.atlassian.com/continuous-delivery/continuous-integration | What is Continuous Integration | Atlassian
+Snippets
+https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
+https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
 
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+ACM Library
+Sustain OSS
+Lean Enterprise
 
 https://web.dev/fast/ | Fast load times
 
 https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
 
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+https://github.com/Microsoft/TypeScript-Vue-Starter
+
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+
+
 
 https://github.com/sdras/contentful-nuxt-netlify
-https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
-https://github.com/Azure/azure-quickstart-templates
-https://github.com/GoogleCloudPlatform/github-actions
-
-https://github.com/Mariatta/github-app-tutorial
-https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
-https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
 
 https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 https://github.com/simonw/til
-
-GA
-https://mobile.twitter.com/simonw/status/1252052032019546112
-https://mobile.twitter.com/webology/status/1252052023459090432
-
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
-
-Kenneth
-https://github.com/inishchith/autoenv
-
-gitvenv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-Homebrew Analytics
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/ | Homebrew Analytics Formula Install On Request Events — Homebrew Formulae
-https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
-
-https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
-
-https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
-
-https://github.com/RalfG/python-wheels-manylinux-build
-https://github.com/pypa/manylinux
-
-Linux subsystem Windows
-http://wsl-guide.org/en/latest/
-https://www.infoq.com/news/2020/04/wsl-2-general-availability/
-
-Ubuntu
-https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71 | Get Ubuntu 20.04 LTS - Microsoft Store
-https://releases.ubuntu.com/20.04/ | Ubuntu 20.04 LTS (Focal Fossa)
-https://ubuntu.com/blog/ubuntu-20-04-lts-arrives | Ubuntu 20.04 LTS arrives | Ubuntu
-
-https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
-
-Tools
-http://nixos.org
-https://github.com/NixOS/nix
-
-https://github.com/Microsoft/TypeScript-Vue-Starter
-
-https://boto3.readthedocs.io/en/latest/index.html
 
 
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
@@ -297,6 +225,14 @@ https://bored.solutions/
 
 https://www.khanacademy.org/partner-content/pixar
 https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+
+Casey
+https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+
+PM
+https://mobile.twitter.com/sriramk/status/1249860579994435585
+https://mobile.twitter.com/seanrose/status/1249863535414218752
+https://mobile.twitter.com/stevesi/status/1249862470006493184
 
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
@@ -548,8 +484,10 @@ Python and Visual Studio Code
 https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
 
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
+
 https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode
 https://code.visualstudio.com/docs/python/environments
 https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
 https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
@@ -680,14 +618,6 @@ GitHub Open Source Guides
 * [GitHub Open Source Guide](https://opensource.guide)
 * [GitHub Guides](https://guides.github.com/)
 
-<!--
-http://jlord.us/git-it
-https://github.com/jlord/git-it
-http://jlord.us/patchwork
-https://github.com/jlord/reporobot
-https://github.com/jlord/patchwork/tree/gh-pages/contributors
--->
-
 Google Open Source Guides
 * [Google Open Source Docs](https://opensource.google.com/docs)
 * [Google Engineering Practices Guide](https://google.github.io/eng-practices)
@@ -731,6 +661,109 @@ https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/
 https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle/
+-->
+
+
+## Open Source Examples
+
+<!--
+Python
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub
+
+Martin Fowler
+https://mobile.twitter.com/rseroter/status/1250144543107768320
+
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+
+node.js Release Schedule
+https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
+https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+https://nodejs.org/en/about/releases/
+https://nodejs.org/en/about/working-groups/
+https://github.com/nodejs/Release
+
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
+Google Chrome Ship
+https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
+
+MS OS
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Azure OS
+https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
+https://azure.microsoft.com/en-us/roadmap/?v=17.23h
+https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
+
+MS Edge
+https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
+
+VS Code OS and Release
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
+https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+
+.NET Release Examples
+https://github.com/dotnet/designs
+https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
+https://github.com/dotnet/core/blob/master/release-notes/preview4-download.md
+https://github.com/dotnet/core/blob/master/roadmap.md
+http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
+https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
+https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
+
+Gatsby Case Study
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+https://medium.com/medium-release-notes | Medium Release Notes – Medium
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+
+Roadmap
+https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
+
+Examples
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+
+Simon- Release
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+
+https://keepachangelog.com/en/1.0.0/
+
+Links change log lines to PRs
+
+Types of changes
+Added for new features.
+Changed for changes in existing functionality.
+Deprecated for soon-to-be removed features.
+Removed for now removed features.
+Fixed for any bug fixes.
+Security in case of vulnerabilities.
+
+https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
 -->
 
 ## To Read- Project Management
@@ -777,51 +810,13 @@ Python Patterns
 
 ## To Read- Tools
 
-* [CircleCI](https://circleci.com)
-* [Codecov](https://codecov.io)
-
 Marketplaces
 * [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
 * [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
 
 <!--
-ZSH	
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+Zsh, Bash, aliases, Make, YAML, Regex
 
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
-
-Brew script
-
-Homebrew
-https://github.com/Linuxbrew/homebrew-core
-https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-File security
-http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
-
-YAML
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-https://en.wikipedia.org/wiki/Regular_expression
--->
-
-
-<!--
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
 https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
@@ -829,6 +824,15 @@ https://code.visualstudio.com/docs/languages/python
 
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -904,105 +908,25 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 -->
 
 
-## Open Source Examples
+
+## GitHub Tips
 
 <!--
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+OS Distribution of User Skills
+https://twitter.com/DynamicWebPaige/status/1175930240452816896
 
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+https://github.com/erikr/lessobviouschecklist
 
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+Maintainer driven issues and PRs
 
-https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
-https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
 
-Release!
-https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
-https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
-https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
-
-https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
-
-
-Gatsby Case Study
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-node.js Release Schedule
-https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
-https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
-https://nodejs.org/en/about/releases/
-https://nodejs.org/en/about/working-groups/
-https://github.com/nodejs/Release
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-
-Azure Roadmap | Microsoft Azure
-https://azure.microsoft.com/en-us/roadmap/?v=17.23h
-
-https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
-
-Release
-https://github.com/dotnet/designs
-https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
-https://github.com/dotnet/core/blob/master/release-notes/preview4-download.md
-https://github.com/dotnet/core/blob/master/roadmap.md
-http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
-https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
-https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
-https://medium.com/medium-release-notes | Medium Release Notes – Medium
-https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
-
-Microsoft Resources
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
-https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-Roadmap
-https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
-
-Examples
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-
-https://keepachangelog.com/en/1.0.0/
-
-Links change log lines to PRs
-
-Types of changes
-Added for new features.
-Changed for changes in existing functionality.
-Deprecated for soon-to-be removed features.
-Removed for now removed features.
-Fixed for any bug fixes.
-Security in case of vulnerabilities.
-
-https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
+http://jlord.us/git-it
+https://github.com/jlord/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
 -->
-
 
 ## Pinax
 
@@ -1083,19 +1007,6 @@ https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
 
-
-## GitHub Tips
-
-<!--
-OS Distribution of User Skills
-https://twitter.com/DynamicWebPaige/status/1175930240452816896
-
-https://github.com/erikr/lessobviouschecklist
-
-Maintainer driven issues and PRs
-
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
--->
 
 ## Open Source in Orgs
 
@@ -1241,6 +1152,8 @@ https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 https://live-stream.github.com/ | GitHub Live Events
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
 
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
@@ -1832,6 +1745,7 @@ https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 
 <!--
 https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+
 https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
 https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
 https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
