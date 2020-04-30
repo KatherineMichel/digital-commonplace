@@ -113,6 +113,10 @@ http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with R
 http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
 http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
 
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
+
 https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
 https://github.com/ryanmcgrath/twython
 https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
