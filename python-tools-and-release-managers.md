@@ -1,10 +1,12 @@
 # Python Tools and Release Managers
 
 <!--
+Distro
+http://distrowatch.com/table.php?distribution=ubuntu
+
 https://www.npmjs.com/package/npx | npx
 
 https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
-
 
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 
@@ -14,20 +16,10 @@ https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comp
 https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
 
 
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-
-GA
-https://mobile.twitter.com/simonw/status/1252052032019546112
-https://mobile.twitter.com/webology/status/1252052023459090432
-
-https://dbader.org/blog/ultimate-list-of-python-podcasts
-
-https://github.com/Mariatta/github-app-tutorial
-https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
-https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
-
 Anthony
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
+https://github.com/anthonywritescode/twitch-chat-bot
 
 cross linter - Google Search
 
@@ -904,6 +896,10 @@ https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on T
 ## Actions, Pipelines, and Stuff
 
 <!--
+GA
+https://mobile.twitter.com/simonw/status/1252052032019546112
+https://mobile.twitter.com/webology/status/1252052023459090432
+
 https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
 https://github.com/Azure/azure-quickstart-templates
 https://github.com/GoogleCloudPlatform/github-actions
@@ -955,6 +951,11 @@ Tools
 * [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
+https://github.com/Mariatta/github-app-tutorial
+https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
+https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
+
+
 https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
 https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
 https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
