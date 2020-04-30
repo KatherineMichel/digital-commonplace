@@ -151,6 +151,9 @@ https://realpython.com/ | Python Tutorials – Real Python
 https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
 https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
 
+
+https://www.youtube.com/watch?v=P7xpp4JGr50 | Readability Counts - Trey Hunner - YouTube
+
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
