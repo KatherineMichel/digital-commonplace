@@ -1,6 +1,8 @@
 # JavaScript Notes
 
 <!--
+https://bestmotherfucking.website/ | Best Motherfucking Website
+
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
 
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
