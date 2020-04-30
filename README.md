@@ -114,7 +114,9 @@ http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsele
 http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
 
 https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+https://github.com/ryanmcgrath/twython
 https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
 
 Nuzzel
@@ -124,6 +126,10 @@ https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
+
+https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
+
+https://securitylab.github.com/events
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
@@ -156,6 +162,8 @@ https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets 
 ACM Library
 https://dl.acm.org/
 
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
 Lean Enterprise
 
 https://web.dev/fast/ | Fast load times
@@ -168,6 +176,11 @@ https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 https://github.com/simonw/til
 
+
+https://github.com/fcurella/django-channels-react-redux
+https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
 
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
 
