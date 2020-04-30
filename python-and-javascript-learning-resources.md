@@ -1,6 +1,8 @@
 # Python and JavaScript Learning Resources
 
 <!--
+https://dbader.org/blog/ultimate-list-of-python-podcasts
+
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
@@ -149,8 +151,9 @@ https://realpython.com/ | Python Tutorials – Real Python
 https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
 https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
 
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+
 https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://treyhunner.com/2020/01/passing-functions-as-arguments/
 https://twitter.com/__mharrison__/status/1217626019038760960
 
 https://treyhunner.com/2018/04/keyword-arguments-in-python/
