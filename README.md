@@ -18,6 +18,9 @@ https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
 
 CHAOSS
 
+Sustain OSS
+https://sustainoss.org/
+
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
 https://opensource.com/how-submit-article | Write for us | Opensource.com
@@ -151,17 +154,11 @@ https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets 
 
 
 ACM Library
-Sustain OSS
+https://dl.acm.org/
+
 Lean Enterprise
 
-https://bestmotherfucking.website/ | Best Motherfucking Website
-
 https://web.dev/fast/ | Fast load times
-
-https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
-
-https://github.com/Microsoft/TypeScript-Vue-Starter
-https://github.com/sdras/contentful-nuxt-netlify
 
 
 https://twitter.com/simonw/status/1250651420660871168
@@ -453,19 +450,20 @@ https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Sci
 ## Shortcuts
 
 <!--
-Shortcuts
+Mac
 https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
 
-VS Code Mac Shortcuts
+VS Code Mac
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
-Keyboard shortcuts
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+GitHub
 https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-
 https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
 
-Hotkeys
+Twitter
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+GitHub Hotkeys
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
 https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
 https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
@@ -485,6 +483,10 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
+Extension
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
+
 https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
 
@@ -668,25 +670,10 @@ https://devguide.python.org/devcycle/
 -->
 
 
-## Open Source Examples
+## Open Source and Release Examples
 
 <!--
-https://maintainers.github.com/
-
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub
-
-Martin Fowler
-https://mobile.twitter.com/rseroter/status/1250144543107768320
-
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
-
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
-
-https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 
 node.js Release Schedule
 https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
@@ -696,6 +683,14 @@ https://nodejs.org/en/about/releases/
 https://nodejs.org/en/about/working-groups/
 https://github.com/nodejs/Release
 
+node as Example
+https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
+
+Gatsby Case Study
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/gatsbyjs
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
 Example Release Process
 https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
 
@@ -703,21 +698,19 @@ Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 
 MS OS
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
 https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
 https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
 https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
 
 Azure OS
 https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
 https://azure.microsoft.com/en-us/roadmap/?v=17.23h
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
-
-MS Edge
-https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
 
 VS Code OS and Release
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
 https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
 https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
@@ -725,23 +718,19 @@ https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
 https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
 
 .NET Release Examples
-https://github.com/dotnet/designs
-https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
-https://github.com/dotnet/core/blob/master/release-notes/preview4-download.md
 https://github.com/dotnet/core/blob/master/roadmap.md
 http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
 https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
+https://github.com/dotnet/core/tree/master/release-notes
+https://github.com/dotnet/designs
+https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
 https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
 
-Gatsby Case Study
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-https://medium.com/medium-release-notes | Medium Release Notes – Medium
+MS Edge
+https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
 
 Roadmap example
 https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-
-Roadmap
 https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
 
 Examples
@@ -756,6 +745,8 @@ https://datasette.readthedocs.io/en/stable/contributing.html#release-process | C
 https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
 https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
 
+https://medium.com/medium-release-notes | Medium Release Notes – Medium
+
 https://keepachangelog.com/en/1.0.0/
 
 Links change log lines to PRs
@@ -767,9 +758,8 @@ Deprecated for soon-to-be removed features.
 Removed for now removed features.
 Fixed for any bug fixes.
 Security in case of vulnerabilities.
-
-https://github.com/wesbos/awesome-uses | wesbos/awesome-uses: A list of /uses pages detailing developer setups, gear, software and configs.
 -->
+
 
 ## To Read- Project Management
 
@@ -916,6 +906,17 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 ## GitHub Tips and Pinax
 
 <!--
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+GitHub Tip
+https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+
 OS Distribution of User Skills
 https://twitter.com/DynamicWebPaige/status/1175930240452816896
 
