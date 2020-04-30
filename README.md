@@ -101,6 +101,8 @@ https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then
 https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
 https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
 https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
 https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
