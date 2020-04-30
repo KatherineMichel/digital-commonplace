@@ -119,8 +119,19 @@ https://pythonwheels.com/
 https://boto3.readthedocs.io/en/latest/index.html
 
 https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
+-->
 
-https://pypi.org/project/black/
+<!--
+Kenneth
+https://github.com/inishchith/autoenv
+
+gitvenv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+Tools
+http://nixos.org
+https://github.com/NixOS/nix
+
 https://pypi.org/project/check-manifest/
 
 https://pypi.org/classifiers/ | Classifiers · PyPI
@@ -140,21 +151,13 @@ https://docs.python.org/3/library/distutils.html | distutils — Building and in
 -->
 
 <!--
-Kenneth
-https://github.com/inishchith/autoenv
-
-gitvenv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-Tools
-http://nixos.org
-https://github.com/NixOS/nix
-
 Python Language Server
 https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
 https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
+https://pypi.org/project/black/
 
 https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
 
@@ -164,6 +167,7 @@ https://pyformat.info/
 
 https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
 https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
 
 https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
 
@@ -363,7 +367,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view
 https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
 https://github.com/asottile/azure-pipeline-templates
 
-https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html? | Django on Azure - beyond "hello world"
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
 
 Python Docker
 https://twitter.com/brettsky/status/1146835613628293120 | Twitter
