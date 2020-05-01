@@ -149,6 +149,10 @@ https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
 
+AMD
+Arm, Intel
+https://newsroom.intel.com
+
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
@@ -163,6 +167,21 @@ https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTo
 Snippets
 https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
 https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
+
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+Brian
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
+
+JSON Web Token (JWT)
+https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
+
+http://diana-adrianne.com/purecss-francine/ | Francine
+https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
 
 
 ACM Library
