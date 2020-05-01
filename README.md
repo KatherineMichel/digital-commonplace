@@ -133,6 +133,21 @@ https://personal.vanguard.com/us/funds/tools/marketsummary
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
 
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
+
+https://blog.twitch.tv
+
+http://www.writethedocs.org/
+
+https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
+https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
+
+https://www.twitch.tv/anthonywritescode
+
+https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
+
 https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
 
 https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
@@ -145,36 +160,29 @@ https://securitylab.github.com/events
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
+ACM Library
+https://dl.acm.org/
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
 
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
 
 
-
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
-
-
-https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
-
-https://www.twitch.tv/anthonywritescode
-
-https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
-
-https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
-
 AMD
 Arm, Intel
 https://newsroom.intel.com
 
+Lean Enterprise
 
-WtD
-http://www.writethedocs.org/
 
-https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 https://inventwithpython.com/ | https://inventwithpython.com
 
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
+https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
@@ -192,6 +200,8 @@ Snippets
 https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
 https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
 
+https://web.dev/fast/ | Fast load times
+
 https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
 
 Brian
@@ -207,15 +217,15 @@ http://diana-adrianne.com/purecss-francine/ | Francine
 https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
 
+https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
 
-ACM Library
-https://dl.acm.org/
 
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+VS Code
+https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
+https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
 
-Lean Enterprise
 
-https://web.dev/fast/ | Fast load times
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 
 https://twitter.com/simonw/status/1250651420660871168
@@ -224,11 +234,6 @@ https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
 https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 https://github.com/simonw/til
-
-
-VS Code
-https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
-https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
 
 
 https://github.com/fcurella/django-channels-react-redux
