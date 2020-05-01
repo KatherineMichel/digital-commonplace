@@ -20,6 +20,8 @@ CHAOSS
 
 Sustain OSS
 https://sustainoss.org/
+OSS Summit
+https://fosdem.org
 
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
@@ -135,7 +137,14 @@ https://www.apple.com/ipad-keyboards/
 
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
+https://www.kapwing.com/museum-of-websites?ref=producthunt | Museum of Websites - Kapwing
+
 https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 
 https://blog.twitch.tv
 
@@ -165,7 +174,15 @@ https://dl.acm.org/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
+https://opensourcesurvey.org/2017/
+http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
+
+https://resources.github.com/whitepapers/
+https://experiments.github.com
+
 https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
+
+https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
 
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
@@ -176,6 +193,8 @@ Arm, Intel
 https://newsroom.intel.com
 
 Lean Enterprise
+
+Telemetry
 
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
@@ -220,6 +239,10 @@ https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitt
 https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
 
 
+https://github.com/topics/bash | Topic: bash
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+
 VS Code
 https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
 https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
@@ -251,10 +274,12 @@ https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winte
 
 https://amitness.com/2019/08/math-for-programmers/
 
+
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 Architecture
 https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
 
 http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
 
