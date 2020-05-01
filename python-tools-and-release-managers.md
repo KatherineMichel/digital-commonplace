@@ -1,8 +1,20 @@
 # Python Tools and Release Managers
 
 <!--
+Release
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+
 Distro
 http://distrowatch.com/table.php?distribution=ubuntu
+
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
+
+GA
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: Switches back to entrypoint.sh · jefftriplett/python-actions@334b8e0
+https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
+https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
 
 https://www.npmjs.com/package/npx | npx
 
