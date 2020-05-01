@@ -929,8 +929,7 @@ https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your 
 https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
 https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
 
-Hynek
-Azure Pipelines
+Hynek- Azure Pipelines
 https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
 https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
 
