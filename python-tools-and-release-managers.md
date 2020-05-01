@@ -1,6 +1,10 @@
 # Python Tools and Release Managers
 
 <!--
+Tools
+https://twitter.com/froidotdev/status/1248661469920714753
+https://twitter.com/simonw/status/1248628140445855745
+
 Release
 https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
 
