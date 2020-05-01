@@ -7,6 +7,8 @@ https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
 Distro
 http://distrowatch.com/table.php?distribution=ubuntu
 
+https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
 
