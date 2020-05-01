@@ -143,6 +143,8 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security
 https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
 
 
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
+
 https://www.twitch.tv/anthonywritescode
 
 https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
@@ -154,6 +156,8 @@ Arm, Intel
 https://newsroom.intel.com
 
 
+https://inventwithpython.com/ | https://inventwithpython.com
+
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
@@ -161,6 +165,8 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-t
 https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
 https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
 https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
@@ -200,6 +206,11 @@ https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
 https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 https://github.com/simonw/til
+
+
+VS Code
+https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
+https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
 
 
 https://github.com/fcurella/django-channels-react-redux
