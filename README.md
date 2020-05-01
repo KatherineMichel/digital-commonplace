@@ -21,6 +21,7 @@ CHAOSS
 Sustain OSS
 https://sustainoss.org/
 OSS Summit
+https://events.linuxfoundation.org/open-source-summit-north-america/
 https://fosdem.org
 
 Content
