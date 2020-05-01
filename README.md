@@ -180,10 +180,20 @@ http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
 https://resources.github.com/whitepapers/
 https://experiments.github.com
 
+GitHub
+https://resources.github.com/webcasts/
+https://github.com/actions/virtual-environments
+https://github.com/jlord/forkngo
+
 https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
 
 https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
 
+lyftvm
+
+mergebot
+
+https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
 
@@ -200,6 +210,8 @@ Telemetry
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 https://inventwithpython.com/ | https://inventwithpython.com
+
+https://cs50.harvard.edu/x/2020/
 
 https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
 
@@ -770,6 +782,9 @@ https://devguide.python.org/devcycle/
 ## Open Source and Release Examples
 
 <!--
+https://learn.microsoft.com/#/
+
+
 High traffic projects
 https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
