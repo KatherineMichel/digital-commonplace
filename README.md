@@ -2721,6 +2721,38 @@ Tim Ferris
 Tren Griffin
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
+<!--
+## Tips
+
+Redirect Emails
+https://twitter.com/sawaba/status/1222680741705846785
+get automated emails out of main inbox
+
+Schedule Emails
+https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en | Schedule emails to send - Computer - Gmail Help
+
+Naveen
+https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
+
+Knowledge Base
+https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
+https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
+https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
+https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
+
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+-->
+
 ## Management Books
 
 Books- Management and Scaling
@@ -2731,6 +2763,9 @@ Books- Management and Scaling
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
 Marty Cagan Inspired
 
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
@@ -2784,7 +2819,33 @@ Mental Models
 * [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
+## Types of Intelligence
+
+<!--
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
+https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+-->
+
+## Retrospective
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
+
+<!--
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
+-->
+
 ## Learning Methods
+
+Dr. Barbara Oakley: Learning How to Learn
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
 
 Dr. Barbara Oakley
 * [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
@@ -2827,10 +2888,10 @@ https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communicat
 https://fs.blog/2015/03/carol-dweck-mindset/
 -->
 
-## Goal Setting and Prioritization
+## Goal Setting and Habits
 
 <!--
-https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+Goals
 
 https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
@@ -2852,20 +2913,30 @@ Practice
 Deliberate Practice
 * [Deliberate Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice)
 
+Fear Setting
+* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
+* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
+
+Marshall Goldsmith
+* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+
+Habit Engineering
+* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
+* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
+
 <!--
+Habit Engineering
+https://threader.app/thread/1078647576201703427 | A thread written by @ali01
+https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
+
+benjamin franklin habits - Google Search
+
 https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
 
 https://jamesclear.com/atomic-habits
 https://twitter.com/JamesClear
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
--->
-
-<!--
-https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
-https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
-
-https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
 ## Priorities
@@ -2890,123 +2961,31 @@ Make the Most of Your Limited Learning Time Matrix
 <!--
 Prioritization
 https://twitter.com/marshallk/status/1237576097639723008
+
+https://hatrabbits.com/wp-content/uploads/2015/12/evaluation.png | evaluation.png (790×453)
+https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How To Pick The Best Ideas After A Brainstorm - HatRabbits
+
+https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
-## Goal Setting and Productivity
-
-Fear Setting
-* [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
-* [Fear Setting YouTube Video](https://www.youtube.com/watch?v=o7EVMjgsSME)
-
-Marshall Goldsmith
-* ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
-
-Habit Engineering
-* [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
-* [Hacker News: "The habit of habit engineering"](https://news.ycombinator.com/item?id=18783816)
+## Productivity
 
 <!--
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
 Essentialism
 https://twitter.com/housecor/status/1217087577313947648
 https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-A16Z Metrics
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-https://threader.app/thread/1078647576201703427 | A thread written by @ali01
-https://github.com/ali01/walrOS/blob/master/memex_daemon.py | walrOS/memex_daemon.py at master · ali01/walrOS
-
-benjamin franklin habits - Google Search
-
-Deep Work by Cal Newport
-
-https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
-
 https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
 -->
 
-Dr. Barbara Oakley
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
 <!--
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
--->
 
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-<!--
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
-https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
--->
-
-<!--
-## Tips
-
-Redirect Emails
-https://twitter.com/sawaba/status/1222680741705846785
-get automated emails out of main inbox
-
-Schedule Emails
-https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en | Schedule emails to send - Computer - Gmail Help
-
-Naveen
-https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
-
-Knowledge Base
-https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
-https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
-https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
-https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
-
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
--->
-
-## Productivity- Other Stuff
-
-<!--
 https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
 
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
--->
-
-Pocket
-* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
-* [Pocket Recommended](https://getpocket.com/a/recommended)
-
-Voice
-* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
-* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
-* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
-* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
-
-<!--
-http://dictate.ms
 -->
 
 Mind Tools
@@ -3029,6 +3008,8 @@ Productivity- The Art of Focus
 * [Index](https://bitcq.com/torrent/3196010)
 
 <!--
+https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
+
 https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
 
 https://gettingthingsdone.com/pdfs/gtd_workflow_advanced.pdf | GTD workflow.id
@@ -3048,6 +3029,11 @@ https://www.farnamstreetblog.com/2014/06/9-habits-you-need-to-stop-now/ | 9 Habi
 https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Michael Lombardi on Decision Making
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
 -->
+
+## Memory
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 <!--
 https://en.wikipedia.org/wiki/Mnemonic
@@ -3072,7 +3058,7 @@ https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
 https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
 -->
 
-Checklists
+## Checklists
 
 <!--
 https://zapier.com/blog/the-checklist-manifesto/
@@ -3082,6 +3068,23 @@ https://www.amazon.com/dp/B0030V0PEW
 
 Checklist Manifesto Template
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+-->
+
+## Productivity Tools
+
+Pocket
+* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
+* [Pocket Recommended](https://getpocket.com/a/recommended)
+
+Voice
+* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
+* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
+* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
+* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
+
+<!--
+http://dictate.ms
 -->
 
 ## Business Effectiveness and Productivity
@@ -3105,6 +3108,7 @@ https://twitter.com/rabois/status/1114954160594505728 | Keith Rabois on Twitter:
 https://twitter.com/sriramk/status/1114954089060806656 | Sriram Krishnan on Twitter: "And all the psychology around OKRs that the OP post talks about ( stretch goals leading to short term pressure )… https://t.co/jdw1ouEPMK"
 
 Apple's Directly Responsible Individual (DRI)
+https://about.gitlab.com/handbook/people-operations/directly-responsible-individuals/ | Directly Responsible Individuals | GitLab
 
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
 task relevant maturity - Google Search
@@ -3141,9 +3145,6 @@ Tim Ferris Blueprints
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
 <!--
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
-
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
 https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
@@ -3241,6 +3242,9 @@ Persuasive Tech
 * [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
 
 <!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+
 Nir Eyal 4-step model
 
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
