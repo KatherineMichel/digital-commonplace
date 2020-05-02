@@ -788,7 +788,41 @@ https://devguide.python.org/devcycle/
 <!--
 https://github.com/todogroup/awesome-oss-mgmt
 
+Very interested- Postmortem
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+https://github.com/danluu/post-mortems
+
+README, Styleguide
+* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+* [Guides GitHub](https://github.com/NARKOZ/guides)
+* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+
+Templates
+https://github.com/TalAter/open-source-templates | TalAter/open-source-templates: Issue and Pull Request Template Generator featuring Chtulhu and Lewis Carroll
+https://www.talater.com/open-source-templates/#/
+
+Docs
+https://github.com/kylelobo/The-Documentation-Compendium | kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+
+https://github.com/kbariotis/templates
+https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS
+
+CODE_OF_CONDUCT
+https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+https://github.com/VarCI/inspiring-github-templates
+
 https://github.com/adobe/open-development-template
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
 
 https://opensource.microsoft.com/explore
 https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
