@@ -1,5 +1,30 @@
 # Patterns and Refactoring
 
+## Programming Languages
+
+Programming Languages
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+## Design Patterns
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
+Design Patterns- General
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+
+<!--
+Software Design Patterns catalog
+
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+-->
+
 ## Programming Paradigms
 
 Programming Paradigms
@@ -13,10 +38,18 @@ Software Paradigm Types
 * [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
 * [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
 
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
 React?
 * [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
 * [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
 * [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+
+MVCs
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 <!--
 taxonomy of programming paradigms
