@@ -149,8 +149,6 @@ https://about.gitlab.com/handbook/marketing/developer-relations/developer-advoca
 
 https://blog.twitch.tv
 
-http://www.writethedocs.org/
-
 https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
 https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 
@@ -178,10 +176,13 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 https://opensourcesurvey.org/2017/
 http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
 
-https://resources.github.com/whitepapers/
-https://experiments.github.com
+http://www.writethedocs.org/
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
 
 GitHub
+https://resources.github.com/whitepapers/
+https://experiments.github.com
 https://resources.github.com/webcasts/
 https://github.com/actions/virtual-environments
 https://github.com/jlord/forkngo
@@ -255,10 +256,6 @@ https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource
 https://github.com/topics/bash | Topic: bash
 https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
 Intro - Hello Web Books
-
-VS Code
-https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
-https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
 
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
@@ -593,6 +590,10 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
+VS Code
+https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
+https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
+
 Extension
 https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
@@ -715,6 +716,8 @@ https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-gr
 https://twitter.com/agjhnsn/status/1222618133069885445
 https://twitter.com/thoward37/status/1227286141537144832
 https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
 https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 -->
 
@@ -783,12 +786,32 @@ https://devguide.python.org/devcycle/
 ## Open Source and Release Examples
 
 <!--
-https://learn.microsoft.com/#/
+https://github.com/todogroup/awesome-oss-mgmt
+
+https://github.com/adobe/open-development-template
+
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+Research
+https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
+https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
 
 
 High traffic projects
 https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://formulae.brew.sh/analytics/install-on-request/30d/
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
+https://octoverse.github.com/2018/
+https://octoverse.github.com/2017/
+https://octoverse.github.com/2016/#organizations
+
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 
 node.js Release Schedule
 https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
@@ -1268,7 +1291,6 @@ https://github.com/blog/2453-mission-report-github-universe-2017 | Mission repor
 https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
 
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
 https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
 https://github.com/ten | Thank you for making 10 years of GitHub possible
 https://github.com/blog/2401-the-github-diversity-report	
