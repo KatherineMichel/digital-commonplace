@@ -119,6 +119,25 @@ Built With
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
+## Jekyll, Foundation, Sass
+
+* [Jekyll](https://jekyllrb.com), [Jekyll GitHub](https://github.com/jekyll/jekyll), and [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
+* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
+* [Foundation](https://foundation.zurb.com)
+* [Sass Basics](http://sass-lang.com/guide)
+
+<!--
+https://jekyllrb.com/docs/deployment-methods
+https://jekyllrb.com/docs/continuous-integration
+
+https://help.shopify.com/themes/liquid/filters
+
+http://daigofuji.github.io/jekyll-foundation-6-starter
+http://daigofuji.github.io/jekyll-foundation-5-starter/page-html-unit-test.html
+http://daigofuji.github.io/jekyll-foundation-5-starter
+https://github.com/daigofuji/jekyll-foundation-5-starter
+-->
+
 ## Mainstream JavaScript Frameworks
 
 Stacks
@@ -173,11 +192,6 @@ https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducin
 
 https://www.stackbit.com/
 -->
-
-## Object-Oriented
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
 
 ## Python and Django
 
