@@ -285,6 +285,82 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 -->
 
+## General Learning Resources
+
+MOOCs
+* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)
+* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
+* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), [Udacity Medium](https://medium.com/udacity), and [Udacity GitHub](https://github.com/udacity)
+* [Udemy](https://www.udemy.com)
+* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
+  
+Courses
+* [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
+* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
+* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
+* [Learn to Code the Hard Way](http://learncodethehardway.org) 
+* [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+In Particular
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
+* [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
+
+Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
+* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Free Code Camp Guide](https://guide.freecodecamp.org)
+* [Free Code Camp Map](https://www.freecodecamp.com/map)
+* [Free Code Camp Medium](https://medium.freecodecamp.com)
+* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+
+Reddit
+* [Reddit Technology Top](https://www.reddit.com/r/technology/top)
+
+OpenStack
+* [OpenStack Community](https://www.openstack.org/community)
+
+<!--
+https://github.com/LambdaSchool/Precourse | LambdaSchool/Precourse: This repo contains the instruction material and assignments for Lambda School's pre-course program.
+https://lambdaschool.com/courses/cs/web/bootcamp/apply/ty/ | Thank You | Web Development Mini Bootcamp
+https://lambdaschool.com/ | Lambda School - A Revolutionary New School That Invests In You
+-->
+
+Khan Academy
+* [Khan Academy Math](https://www.khanacademy.org/math)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube](https://www.youtube.com/user/khanacademy)
+* [Khan Academy Computing YouTube](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA)
+
+<!--
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+-->
+
+Wolfram
+* [Wolfram Resources](http://www.wolfram.com/resources)
+* [Wolfram MathWorld](http://mathworld.wolfram.com) and [Wolfram Mathematica](http://www.wolfram.com/mathematica)
+* [Wolfram Functions](http://functions.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+
+<!--
+http://community.wolfram.com
+http://www.wolframalpha.com/calculators
+-->
+
+Programming Books
+* [O'Reilly Media](https://github.com/oreillymedia)
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com), [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning), and [Packt Publishing GitHub](https://github.com/PacktPublishing)
+* [No Starch Press](https://www.nostarch.com)
+* [Humble Bundle](https://www.humblebundle.com)
+* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
+* [The Pragmatic Bookshelf](https://pragprog.com)
 
 ## Awesome Python and Django
 
