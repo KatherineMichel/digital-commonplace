@@ -1,6 +1,17 @@
 # JavaScript Notes
 
 <!--
+https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
+
+https://en.wikipedia.org/wiki/HTTP/3
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+http://diana-adrianne.com/purecss-francine/ | Francine
+https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
+
 https://bestmotherfucking.website/ | Best Motherfucking Website
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
