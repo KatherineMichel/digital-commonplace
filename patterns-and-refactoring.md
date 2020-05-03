@@ -40,6 +40,7 @@ Software Paradigm Types
 
 Object-Oriented Programming Languages
 * [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
 
 React?
 * [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
