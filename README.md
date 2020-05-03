@@ -194,6 +194,37 @@ https://cs50.harvard.edu/x/2020/
 
 https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
 
+https://google.github.io/styleguide/pyguide.html
+
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1217933709577342976
+https://www.learnpython.dev/
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+MS Python
+https://www.pcgamer.com/microsoft-launches-a-free-python-for-beginners-video-course-for-aspiring-coders/ | Microsoft launches a free 'Python for beginners' video course for aspiring coders | PC Gamer
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
+
+MIT/Harvard
+https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
+https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
+
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
