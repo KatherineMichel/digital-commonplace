@@ -186,6 +186,19 @@ Telemetry
 https://en.wikipedia.org/wiki/Telemetry
 
 
+Shortcuts
+Zsh, Bash, aliases, dotfiles, Make, YAML, Regex
+
+https://www.redhat.com/en/blog
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+Lists
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 https://inventwithpython.com/ | https://inventwithpython.com
@@ -204,6 +217,7 @@ https://twitter.com/nnja/status/1217933709577342976
 https://www.learnpython.dev/
 https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
 Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 
 NSA Python
 https://twitter.com/chris_swenson/status/1225836060938125313
@@ -274,6 +288,37 @@ https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ 
 https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
 
 https://web.dev/fast/ | Fast load times
+
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+
+https://medium.com/javascript-scene/
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+SICP
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
 
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
@@ -432,58 +477,6 @@ https://github.com/hubotio/hubot/blob/master/docs/index.md
 https://github.com/hubotio/generator-hubot
 https://github.com/howdyai/botkit
 https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
--->
-
-<!--
-Shortcuts
-Zsh, Bash, aliases, dotfiles, Make, YAML, Regex
-
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-Lists
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-
-https://www.redhat.com/en/blog
-
-Nina
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-
-https://medium.com/javascript-scene/
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
-
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
 -->
 
 ## Good Habits
@@ -1080,6 +1073,7 @@ Security in case of vulnerabilities.
 ## GitHub Tips and Pinax
 
 <!--
+http://anonymoushash.vmbrasseur.com
 http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
 
 https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
