@@ -287,6 +287,16 @@ https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywo
 
 ## General Learning Resources
 
+Programming Books
+* [O'Reilly Media](https://github.com/oreillymedia)
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com), [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning), and [Packt Publishing GitHub](https://github.com/PacktPublishing)
+* [No Starch Press](https://www.nostarch.com)
+* [Humble Bundle](https://www.humblebundle.com)
+* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
+* [The Pragmatic Bookshelf](https://pragprog.com)
+
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
@@ -352,15 +362,9 @@ http://community.wolfram.com
 http://www.wolframalpha.com/calculators
 -->
 
-Programming Books
-* [O'Reilly Media](https://github.com/oreillymedia)
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com), [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning), and [Packt Publishing GitHub](https://github.com/PacktPublishing)
-* [No Starch Press](https://www.nostarch.com)
-* [Humble Bundle](https://www.humblebundle.com)
-* [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
-* [The Pragmatic Bookshelf](https://pragprog.com)
+Math Resources
+* [Math Dot Com](http://www.math.com)
+* [Maths is Fun](http://www.mathsisfun.com)
 
 ## Awesome Python and Django
 
