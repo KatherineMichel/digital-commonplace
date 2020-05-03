@@ -28,6 +28,7 @@ https://githubsatellite.com/
 May 19-20
 https://register.build.microsoft.com/
 https://git-merge.com/ | Git Merge 2018 — March, Barcelona
+https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 
 PyCon
 https://us.pycon.org/2020/remote/
@@ -169,7 +170,9 @@ Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
-
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+  
 https://www.npmjs.com/package/npx | npx
 
 
@@ -500,6 +503,9 @@ https://24hrstartup.com/ | The 24 Hour Startup Challenge
 -->
 
 <!--
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
 https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
 https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
 
@@ -743,6 +749,7 @@ https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SI
 Strategy pattern
 https://twitter.com/joelnet/status/1256229458295619585
 
+
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
 https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
@@ -760,11 +767,6 @@ http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Ho
 https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
 https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
 https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 -->
 
 
@@ -1227,20 +1229,9 @@ https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twi
 https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
 
 
-https://github.com/jlord/forkngo
-http://jlord.us/git-it
-https://github.com/jlord/git-it
-http://jlord.us/patchwork
-https://github.com/jlord/reporobot
-https://github.com/jlord/patchwork/tree/gh-pages/contributors
-
 https://dependabot.com/ | Dependabot
 https://dependabot.com/#how-it-works | Dependabot
 https://dependabot.com/github-actions/ | Dependabot
-
-https://github.com/muan/paint-github | muan/paint-github: [WebExtension] Draw your GitHub comment.
-
-https://github.com/hackebrot/labels | hackebrot/labels: CLI app for managing GitHub labels for Python 3.6 and newer. 📝
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
@@ -1259,69 +1250,9 @@ https://github.com/features/project-management/
 https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
-
-https://github.com/gr2m/
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
-
-https://github.com/gr2m/twitter-together
-
-Probot
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-https://probot.github.io/apps/ | Featured Apps | Probot
-https://probot.github.io/docs/hello-world/ | Hello world | Probot
-https://probot.github.io/apps/polls/ | Polls | Probot
-https://probot.github.io/apps/no-response/ | No Response | Probot
-https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
-
-Make semantic-release compatible with GitHub Actions
-https://github.com/semantic-release/semantic-release/issues/1194
-Python Plugin
-https://github.com/semantic-release/git/issues/172#issuecomment-557203217
-
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-https://github.com/probot/create-probot-app
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-
-https://github.com/JasonEtco/jasonet.co/pull/46/files
-
-https://octokit.github.io/rest.js/
-https://github.com/octokit/rest.js
-https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
-
-https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
-https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
-https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/commitizen/conventional-commit-types/
-https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-https://github.com/semantic-release/npm
-https://twitter.com/SemanticRelease
-
-Semantic Release and Merge Release
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-
-https://github.com/marketplace/actions/codecov
-
-https://probot.github.io/apps/release-drafter/
-
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
 -->
 
 <!--
-https://twitter.com/natfriedman/status/1159511728704483329
-https://twitter.com/kelseyhightower/status/1159517721068916736
-
 Matrix- Operating Systems (Unix, Linux, etc.)
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
@@ -1354,56 +1285,13 @@ https://github.com/actions/create-release | actions/create-release: An Action to
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
 https://developer.github.com/v3/repos/releases/#get-a-single-release
 
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-
-Important
-https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
-https://github.com/pypa/gh-action-pypi-publish/issues/2
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
-
-GitHub Actions Matrix Demo
-https://twitter.com/webology/status/1195412423936753670
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
-https://github.com/jefftriplett/python-github-actions-matrix-demo
-https://twitter.com/webology/status/1201887760413528065
-https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
-
-GitHub Action CI Example from Jeff
-https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
-https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
-
-Example Actions
-https://github.com/sdras/awesome-actions
 https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
 GitHub Hackathon
 https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
 https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://twitter.com/carlogilmar/status/1197215398405365760 | Carlo Gilmar on Twitter: "@GitHub #githubuniverse GitHub Actions by @ethomson #visualpartnership https://t.co/DmAo2ekbi7" / Twitter
-
-More Example actions
-https://github.com/bdougie/github-actions-continuous-delivery
-https://github.com/paulirish/lighthouse-ci-action
-https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
-https://github.com/boyney123/github-actions
-https://twitter.com/simonw/status/1199851134564884480
-
-pre-commit action
-https://twitter.com/codewithanthony/status/1198774749473558528
-https://github.com/pre-commit/action
-
-Corporate actions
-https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
-https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
-https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
-https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
 -->
+
+
 
 <!--
 https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
