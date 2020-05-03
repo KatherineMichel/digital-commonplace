@@ -1,7 +1,7 @@
 # Python and JavaScript Learning Resources
 
 <!--
-https://dbader.org/blog/ultimate-list-of-python-podcasts
+https://blog.jessfraz.com/ | Ramblings from Jessie: Home
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
@@ -9,14 +9,7 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 
 https://developers.google.com/machine-learning/crash-course
 
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
-
-MIT/Harvard
-https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
-https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+https://dbader.org/blog/ultimate-list-of-python-podcasts
 
 
 https://github.com/20tab/django-continuous-delivery
@@ -52,35 +45,16 @@ https://www.freecodecamp.org/news/best-python-tutorial/
 https://github.com/JackMcKew/awesome-python-bytes
 https://www.pythonmorsels.com/resources/
 
-https://www.freecodecamp.org/ | Learn to code | freeCodeCamp.org
-https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
-https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 
-https://pythonspeed.com/ | Ship better Python software, faster
-
-https://google.github.io/styleguide/pyguide.html
-https://www.learnpython.dev/
-https://frontendmasters.com/teachers/nina-zakharenko/
-
-Good Print, hello debugger, DjangoCon
-https://twitter.com/nnja/status/1217933709577342976
-https://www.twitch.tv/nnjaio
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
-MS Python
-https://www.pcgamer.com/microsoft-launches-a-free-python-for-beginners-video-course-for-aspiring-coders/ | Microsoft launches a free 'Python for beginners' video course for aspiring coders | PC Gamer
 
 https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 https://www.cosmicpython.com/
+
+https://pythonspeed.com/ | Ship better Python software, faster
 
 Tools
 
@@ -136,8 +110,6 @@ https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on 
 
 People
 
-https://blog.jessfraz.com/ | Ramblings from Jessie: Home
-
 https://twitter.com/ramalhoorg
 
 Michael
@@ -180,9 +152,8 @@ https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cher
 Python Crash Course
 https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
 
+
 Al
-https://automatetheboringstuff.com/
-https://inventwithpython.com
 https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
 https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
 https://github.com/asweigart/automateboringstuff1stedition
@@ -191,6 +162,7 @@ https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweig
 
 Al Sweigart Book
 https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
+
 
 Exercises
 https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
@@ -261,7 +233,6 @@ Kenneth Love
 
 https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
 http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
-
 
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
@@ -408,9 +379,6 @@ https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
 https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
 
-https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
-Nina
-
 Nina
 https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
 https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
@@ -452,8 +420,6 @@ DataCamp
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 
 https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
-
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 
 Harvey Mudd
 https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
