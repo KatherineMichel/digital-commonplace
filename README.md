@@ -3,18 +3,41 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://personal.vanguard.com/us/funds/tools/marketsummary
+
+https://www.coursera.org/learn/the-science-of-well-being
+
+Meditation
+https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCUA | Spotify – Home
+
+Eyes
+https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
+
+https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
+https://www.apple.com/ipad-keyboards/
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
 
 https://www.acm.org/virtual-conferences | Virtual Conferences
 
+May 6
 https://githubsatellite.com/
+May 19-20
+https://register.build.microsoft.com/
 https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
+https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
+Microsoft
+https://www.youtube.com/watch?v=gCkFkvFVLjY&feature=youtu.be
+https://discordapp.com/invite/b8YJQPx
 
 CHAOSS
 
@@ -23,6 +46,7 @@ https://sustainoss.org/
 OSS Summit
 https://events.linuxfoundation.org/open-source-summit-north-america/
 https://fosdem.org
+https://www.oreilly.com/conferences/oscon.html
 
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
@@ -88,8 +112,6 @@ Karel
 https://en.wikipedia.org/wiki/Karel_(programming_language)
 https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
 https://en.wikipedia.org/wiki/Richard_E._Pattis | Richard E. Pattis - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error# | Off-by-one error - Wikipedia
 
 https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
@@ -100,11 +122,16 @@ https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
 https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
 https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
 https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+https://see.stanford.edu/Course#Introduction%20to%20Computer%20Science
+https://www.youtube.com/watch?v=yANUka-4mjE&feature=emb_title
+https://www.instagram.com/p/B_YSrXvn6F4/
 
 https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
 https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
@@ -128,19 +155,8 @@ https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentat
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
 
-Nuzzel
+
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
-
-* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-Look at Daily
-* [Indie Hackers](https://www.indiehackers.com)
-* [Nuzzel](http://nuzzel.com)
-* [Techmeme](https://www.techmeme.com)
 
 Stars
 * [Astral App](https://astralapp.com)
@@ -149,66 +165,44 @@ Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
 
-https://personal.vanguard.com/us/funds/tools/marketsummary
+https://en.wikipedia.org/wiki/HTTP/3
 
-https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
-https://www.apple.com/ipad-keyboards/
+https://github.com/microsoft/xlang/issues/634
 
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
-https://www.kapwing.com/museum-of-websites?ref=producthunt | Museum of Websites - Kapwing
+https://vercel.com/blog/zeit-is-now-vercel
 
-https://github.com/KatherineMichel/digital-commonplace/edit/master/patterns-and-refactoring.md
+https://nesslabs.com/roam-research-bookmarklet
+https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+
+
+
+https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
+https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 
 https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 
-https://blog.twitch.tv
-
-https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
-https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 
 https://www.twitch.tv/anthonywritescode
 
-https://hynek.me/articles/speaking/ | On Conference Speaking · Hynek Schlawack
-
-https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
-
-https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
-https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
-https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
-https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
-https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
-
-https://securitylab.github.com/events
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
+AMD
+Arm, Intel
+https://newsroom.intel.com
 ACM Library
 https://dl.acm.org/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
-https://opensourcesurvey.org/2017/
-http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
-
-http://www.writethedocs.org/
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-GitHub
-https://resources.github.com/whitepapers/
-https://experiments.github.com
-https://resources.github.com/webcasts/
-https://github.com/actions/virtual-environments
-https://github.com/jlord/forkngo
-
-https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
-
-https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
 
 lyftvm
 
@@ -216,12 +210,6 @@ mergebot
 
 https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
 
-https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
-
-
-AMD
-Arm, Intel
-https://newsroom.intel.com
 
 Lean Enterprise
 
@@ -244,6 +232,7 @@ https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve 
 
 https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
 
+
 https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
@@ -254,7 +243,6 @@ https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets 
 
 https://web.dev/fast/ | Fast load times
 
-https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
 
 Brian
 https://codepen.io/btholt/ | Brian Holt on CodePen
@@ -269,15 +257,10 @@ http://diana-adrianne.com/purecss-francine/ | Francine
 https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
 
-https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
-
 
 https://github.com/topics/bash | Topic: bash
 https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
 Intro - Hello Web Books
-
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 
 https://twitter.com/simonw/status/1250651420660871168
@@ -287,6 +270,8 @@ https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 https://github.com/simonw/til
 
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 https://github.com/fcurella/django-channels-react-redux
 https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
@@ -327,31 +312,6 @@ Docker
 https://github.com/docker/compose/issues/3729
 
 
-https://www.coursera.org/learn/the-science-of-well-being
-
-Meditation
-https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCUA | Spotify – Home
-
-Important
-http://augmentingcognition.com/ltm.html
-
-Eyes
-https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
-
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-Knowledgebase and other tips
-http://devonzuegel.com/post/memex-my-personal-knowledge-base
-
-https://nesslabs.com/roam-research-bookmarklet
-https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
-
-https://www.nngroup.com
-
-https://bored.solutions/
-
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
 
 Casey
 https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
@@ -361,8 +321,9 @@ https://mobile.twitter.com/sriramk/status/1249860579994435585
 https://mobile.twitter.com/seanrose/status/1249863535414218752
 https://mobile.twitter.com/stevesi/status/1249862470006493184
 
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
+
+https://www.nngroup.com
 
 Human Factors
 https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
@@ -387,6 +348,9 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 <!--
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+
+https://blog.twitch.tv
+https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
 
 Streaming
 * [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
@@ -481,24 +445,19 @@ https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 -->
 
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-
-<!--
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
--->
-
 ## Trends
 
 GitHub More
 * [GitHub Explore](https://github.com/explore)
 * [GitHub Discover](https://github.com/dashboard/discover)
 * [GitHub Showcases](https://github.com/showcases)
+
+Nuzzel
+* [Nuzzel](http://nuzzel.com)
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
@@ -522,16 +481,18 @@ Product Hunt Leader Boards
 * [Top 500 Hunters](http://500hunters.com)
 * [Maker Rank](https://makerrank.co)
 * [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+Hackathons and Festivals
 * [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+<!--
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+-->
 
 <!-- 
 https://repl.it/leaders | Repl.it - Leaderboard
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
 
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 
@@ -539,6 +500,9 @@ https://24hrstartup.com/ | The 24 Hour Startup Challenge
 -->
 
 <!--
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
 
@@ -549,6 +513,19 @@ https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+Look at Daily
+* [Indie Hackers](https://www.indiehackers.com)
+* [Techmeme](https://www.techmeme.com)
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
 
 ## Project-Based Learning
 
@@ -632,9 +609,9 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
-VS Code
-https://www.youtube.com/watch?v=QNUjpdpAOac&feature=youtu.be&t=11m47s | Live Stream - Thursday, 26 July 2018 - Kilsyth Auditorium - EuroPython 2018 - YouTube
-https://github.com/DonJayamanne | DonJayamanne (Don Jayamanne)
+https://github.com/microsoft/vscode
+https://github.com/Microsoft/vscode-python
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
 
 Extension
 https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
@@ -643,10 +620,8 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
 
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
 https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
 
-https://github.com/Microsoft/vscode-python
 https://code.visualstudio.com/docs/python/environments
 https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
 https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
@@ -788,6 +763,14 @@ Google Open Source Guides
 ## To Read- Technical Writing
 
 <!--
+https://en.wikipedia.org/wiki/Five_Ws
+https://en.wikipedia.org/wiki/User_experience_design
+http://www.writethedocs.org/
+https://github.com/writethedocs/www
+https://github.com/jnordberg/wintersmith/wiki/Showcase
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
+
 https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
 
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
@@ -855,26 +838,13 @@ https://github.com/devspace/awesome-github-templates | devspace/awesome-github-t
 https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
 https://github.com/VarCI/inspiring-github-templates
 
+Wiki
+https://github.com/mongodb/mongo/wiki
+
 https://github.com/adobe/open-development-template
 
-Ansible
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
-
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
-
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-Research
-https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
-https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
 
 
 High traffic projects
@@ -897,6 +867,40 @@ https://nodejs.org/en/about/releases/
 https://nodejs.org/en/about/working-groups/
 https://github.com/nodejs/Release
 
+Microsoft
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://opensource.guide/
+https://primer.style/doctocat/usage/deployment
+
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+MS OS
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Research
+https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
+https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+
+
 node as Example
 https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
 
@@ -910,15 +914,6 @@ https://pip.pypa.io/en/stable/development/release-process/ | Release process —
 
 Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
-
-MS OS
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
 
 Azure OS
 https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
@@ -943,12 +938,14 @@ https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
 MS Edge
 https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
 
+
 Roadmap example
 https://github.com/aws/elastic-beanstalk-roadmap/projects/1
 https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
 
 Examples
 https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+https://github.com/zeit/next.js/blob/canary/contributing.md
 
 Example Notes
 https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
@@ -958,6 +955,9 @@ https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — 
 https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
 https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
 https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
+https://github.com/dogsheep/github-to-sqlite/releases
+
 
 https://medium.com/medium-release-notes | Medium Release Notes – Medium
 
@@ -1112,6 +1112,8 @@ Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
 
 <!--
+https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
+
 https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
@@ -1120,6 +1122,11 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 ## GitHub Tips and Pinax
 
 <!--
+https://opensourcesurvey.org/2017/
+http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
+
+https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
+
 https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
 
 https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
@@ -1363,8 +1370,7 @@ https://githubuniverse.com/ | Home | GitHub Universe
 http://githubuniverse.com/watch
 https://live-stream.github.com/ | GitHub Live Events
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+https://securitylab.github.com/events
 
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
@@ -1374,7 +1380,24 @@ https://github.com/blog/2401-the-github-diversity-report
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+https://github.com/actions/virtual-environments
 
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+https://resources.github.com/webcasts/
+https://resources.github.com/whitepapers/
+https://experiments.github.com
+
+https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
+https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
+https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
+https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
+https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
+
+
+https://github.com/jlord/forkngo
 http://jlord.us/git-it
 https://github.com/jlord/git-it
 http://jlord.us/patchwork
@@ -1906,6 +1929,8 @@ https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre |
 -->
 
 <!--
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
 https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
 
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
@@ -3012,6 +3037,11 @@ https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization
 <!--
 ## Tips
 
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+
 Redirect Emails
 https://twitter.com/sawaba/status/1222680741705846785
 get automated emails out of main inbox
@@ -3024,6 +3054,7 @@ https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps
 
 Knowledge Base
 https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
+http://devonzuegel.com/post/memex-my-personal-knowledge-base
 https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
 https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
 https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
