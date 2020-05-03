@@ -1,17 +1,26 @@
 # Python Tools and Release Managers
 
 <!--
-Tools
-https://twitter.com/froidotdev/status/1248661469920714753
-https://twitter.com/simonw/status/1248628140445855745
+Anthony
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 
 Release
+https://www.twitch.tv/anthonywritescode
+https://github.com/anthonywritescode/twitch-chat-bot
 https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+https://twitter.com/codewithanthony/status/1255261241880252417
+https://github.com/asottile/onigurumacffi/pull/20/files
+https://twitter.com/codewithanthony/status/1256274470076993536
+https://cffi.readthedocs.io/en/latest/
+https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
 
 Distro
 http://distrowatch.com/table.php?distribution=ubuntu
 
-https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+
+Tools
+https://twitter.com/froidotdev/status/1248661469920714753
+https://twitter.com/simonw/status/1248628140445855745
 
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
@@ -22,22 +31,10 @@ https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: 
 https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
 https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
 
-https://www.npmjs.com/package/npx | npx
-
+https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
 https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
 
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
-
-
-Anthony
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-
-https://github.com/anthonywritescode/twitch-chat-bot
 
 cross linter - Google Search
 
@@ -52,18 +49,6 @@ https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default
 
 https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
--->
-
-<!--
-Stats
-
-Homebrew Analytics
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/ | Homebrew Analytics Formula Install On Request Events — Homebrew Formulae
-https://github.com/Homebrew/homebrew-formula-analytics
-
-Top downloaded wheels
-https://pythonwheels.com/
 -->
 
 <!--
@@ -865,6 +850,10 @@ https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
 -->
 
 <!--
+https://github.com/topics/bash | Topic: bash
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+
 https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
 https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
 https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
@@ -911,15 +900,147 @@ https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/se
 https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 -->
 
-## Actions, Pipelines, and Stuff
+## Automation Stuff
+
+<!--
+Probot and Such
+
+https://github.com/jlord/forkngo
+http://jlord.us/git-it
+https://github.com/jlord/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
+
+https://github.com/muan/paint-github | muan/paint-github: [WebExtension] Draw your GitHub comment.
+
+https://github.com/hackebrot/labels | hackebrot/labels: CLI app for managing GitHub labels for Python 3.6 and newer. 📝
+
+https://github.com/gr2m/
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
+
+https://github.com/gr2m/twitter-together
+
+Probot
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+
+Make semantic-release compatible with GitHub Actions
+https://github.com/semantic-release/semantic-release/issues/1194
+Python Plugin
+https://github.com/semantic-release/git/issues/172#issuecomment-557203217
+
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+https://github.com/probot/create-probot-app
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/JasonEtco/jasonet.co/pull/46/files
+
+https://octokit.github.io/rest.js/
+https://github.com/octokit/rest.js
+https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
+
+https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
+https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
+https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/commitizen/conventional-commit-types/
+https://github.com/commitizen/conventional-commit-types/blob/master/index.json
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+https://github.com/semantic-release/npm
+https://twitter.com/SemanticRelease
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+
+https://github.com/marketplace/actions/codecov
+
+https://probot.github.io/apps/release-drafter/
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+-->
 
 <!--
 GA
+https://twitter.com/natfriedman/status/1159511728704483329
+https://twitter.com/kelseyhightower/status/1159517721068916736
+
 https://mobile.twitter.com/simonw/status/1252052032019546112
 https://mobile.twitter.com/webology/status/1252052023459090432
 
+https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
+https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
+
+
+https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
+
+Important
+https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
+
+GitHub Actions Matrix Demo
+https://twitter.com/webology/status/1195412423936753670
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/jefftriplett/python-github-actions-matrix-demo
+https://twitter.com/webology/status/1201887760413528065
+https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
+
+GitHub Action CI Example from Jeff
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
+
+Example Actions
+https://github.com/sdras/awesome-actions
+
+https://twitter.com/carlogilmar/status/1197215398405365760 | Carlo Gilmar on Twitter: "@GitHub #githubuniverse GitHub Actions by @ethomson #visualpartnership https://t.co/DmAo2ekbi7" / Twitter
+
+More Example actions
+https://github.com/bdougie/github-actions-continuous-delivery
+https://github.com/paulirish/lighthouse-ci-action
+https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
+https://github.com/boyney123/github-actions
+https://twitter.com/simonw/status/1199851134564884480
+
+pre-commit action
+https://twitter.com/codewithanthony/status/1198774749473558528
+https://github.com/pre-commit/action
+
+Corporate actions
+https://github.com/actions/aws | actions/aws: GitHub Actions for interacting with AWS
+https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
+https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
+https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+-->
+
+
+<!--
+Azure
 https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
 https://github.com/Azure/azure-quickstart-templates
+
 https://github.com/GoogleCloudPlatform/github-actions
 
 GitHub Actions- Hynek
@@ -927,11 +1048,6 @@ https://hynek.me/articles/python-github-actions/
 https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
 https://twitter.com/hynek/status/1236227708746596353
 https://github.com/Azure/actions
-
-https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
-https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
-https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
 
 Hynek- Azure Pipelines
 https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
@@ -945,14 +1061,18 @@ https://github.com/asottile/azure-pipeline-templates
 
 https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
 
+
 Python Docker
 https://twitter.com/brettsky/status/1146835613628293120 | Twitter
 
 https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
-
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
 -->
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 Additional Serverless
 * [Google Cloud Functions](https://cloud.google.com/functions/docs)
@@ -967,13 +1087,10 @@ Containers
 Terraform
 * [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
 
-AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
 <!--
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
 https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 
@@ -990,9 +1107,6 @@ https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation 
 https://github.com/awslabs/chalice
 https://github.com/apex/apex
 https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
-
-  * [Microservices Dot IO](http://microservices.io)
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 -->
 
 ## Bots
@@ -1555,6 +1669,7 @@ Python- Django- Debug Toolbar an dPanel
 <!--
 https://github.com/behave/behave | behave/behave: BDD, Python style.
 https://hypothesis.readthedocs.io/en/latest/
+https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 https://cucumber.io/ | Cucumber
 https://github.com/cucumber/gherkin-python
 
