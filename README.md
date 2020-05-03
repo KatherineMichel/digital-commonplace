@@ -131,6 +131,25 @@ http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 Nuzzel
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
+* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+Look at Daily
+* [Indie Hackers](https://www.indiehackers.com)
+* [Nuzzel](http://nuzzel.com)
+* [Techmeme](https://www.techmeme.com)
+
+Stars
+* [Astral App](https://astralapp.com)
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
@@ -349,14 +368,6 @@ Human Factors
 https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
 https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
 
-https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
-https://www.uxbrutalism.com/
-http://www.tragicdesign.com
-https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
-https://brutalist-web.design/ | Brutalist Web Design
-https://humanebydesign.com/ | Humane by Design
-https://www.darkpatterns.org/ | Dark Patterns
-
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
 Viral Funnel model
@@ -377,9 +388,11 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 
+Streaming
+* [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
+
 Live Coding
 https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21 | My Twitch Live Coding Setup – Suz Hinton – Medium
-https://github.com/bnb/awesome-developer-streams#suz-hinton | GitHub - bnb/awesome-developer-streams: 
 https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
 
 People
@@ -443,6 +456,10 @@ JavaScript Scene
 <!--
 ## Engineering Management Resources
 
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+
+https://medium.com/@skfroi/want-to-be-a-senior-developer-mentor-another-3ba383587669 | Want to be a Senior Developer? Mentor Another – Froilan Irizarry – Medium
+
 Scaling Engineering
 * [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
@@ -471,10 +488,23 @@ The Practical Dev and Hackernoon
 * [Hacker Noon](https://hackernoon.com)
 
 <!--
+Tech Terminology
 https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
 -->
 
 ## Trends
+
+GitHub More
+* [GitHub Explore](https://github.com/explore)
+* [GitHub Discover](https://github.com/dashboard/discover)
+* [GitHub Showcases](https://github.com/showcases)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 Look at Daily
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
@@ -506,6 +536,18 @@ https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Ri
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 
 https://24hrstartup.com/ | The 24 Hour Startup Challenge
+-->
+
+<!--
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
 -->
 
 ## Project-Based Learning
@@ -2110,9 +2152,6 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval
 
 ## Object Oriented Software
 
-Object-Oriented Programming
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
 * [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
@@ -2566,6 +2605,10 @@ Wikipedia Tech Portals
 * [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
 * [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
 
+General
+* [Computer Science Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+* [Computer Programming Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
+
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
 
@@ -2651,9 +2694,6 @@ Habits with a High Rate of Return in Life
 * [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
 * [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
 
-Center for Humane Technology
-* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
-
 Mind-Body Connection
 * [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
 
@@ -2697,61 +2737,50 @@ https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
 
 ## Articles and Blog Posts
 
+Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
+* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
+* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
+* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
+* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+* [Top 10 TED Talks of 2017 (curated)](https://www.ted.com/playlists/607/curator_s_picks_top_10_ted_talks_of_2017)
+* [Singularity University Videos](https://www.youtube.com/user/singularityu/videos)
+* [PBS](http://www.pbs.org)
+
 Various
 * [Medium Top Stories](https://medium.com/top-stories)
 * [Top Medium Stories](https://topmediumstories.com)
 * [XKCD](http://xkcd.com) and [Most Popular XKCD Comics](https://docs.google.com/spreadsheets/d/1jkY0U7glynuRJ5LnvEYU4CK2mUmi_3cVR6R4v8rmrdw/edit#gid=0)
+* [Wait But Why](http://waitbutwhy.com) 
+
+Ribbonfarm
+* [Ribbonfarm](http://www.ribbonfarm.com) and [Ribbonfarm Complete 2017 Roundup](https://www.ribbonfarm.com/2017/12/21/complete-2017-roundup)
 
 Farnham Street
 * [Farnham Street Blog](https://fs.blog) and [Farnham Street Facebook](https://www.facebook.com/FarnamStreet)
 * [Farnham Street Blog Best Articles](https://fs.blog/best-articles), [Farnham Street Blog Popular Articles](https://fs.blog/popular)
 * [The Best of Farnam Street 2018](https://fs.blog/2018/12/best-of-farnam-street-2018), [The Best of Farnam Street 2017](https://fs.blog/2017/12/best-farnam-street-2017)
-
-<!--
-* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
--->
+* [Farnam Street "What I'm Reading in 2017"](https://www.farnamstreetblog.com/reading-2017) and [Farnham Street Blog Great Books](https://www.farnamstreetblog.com/2013/10/great-books)
 
 Tim Ferris
 * [Tim Ferriss Blog](https://tim.blog), [Tim Ferriss Podcast](https://tim.blog/podcast), and [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com)
+* [Booklist](https://tim.blog/2017/11/18/booklist), [Under 100](https://tim.blog/2017/11/18/under100), and [5 Bullet Friday](http://go.fourhourworkweek.com/5-bullet-friday)
 
 Tren Griffin
 * [Tren Griffin](http://25iq.com), [25iq Featured Individuals](http://25iq.com/featured-individuals), and [25iq Index by Topic](http://25iq.com/index-by-topic)
 
-<!--
-## Tips
+Tren Griffin
+* [25iq Books](https://www.25iqbooks.com)
 
-Redirect Emails
-https://twitter.com/sawaba/status/1222680741705846785
-get automated emails out of main inbox
+Finance Blogs
+* [Michael Mauboussin](http://michaelmauboussin.com) and [Michael Mauboussin Writing](http://michaelmauboussin.com/writing.html)
+* [Michael Mauboussin Hurricane Capital Index](https://hurricanecapital.wordpress.com/tag/michael-j-mauboussin)
+* [Michael Mauboussin Value Walk Resource Page](http://www.valuewalk.com/michael-mauboussin) and [Michael Mauboussin Value Walk Tumblr Index](http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full)
+* [Nassim Nicholas Taleb (Fooled by Randomness)](http://www.fooledbyrandomness.com) and [Nassim Nicholas Taleb (The Black Swan) Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
-Schedule Emails
-https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en | Schedule emails to send - Computer - Gmail Help
-
-Naveen
-https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
-
-Knowledge Base
-https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
-https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
-https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
-https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
-
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
--->
+Agency
+* [Freshed Tilled Soil](https://www.freshtilledsoil.com)
+* [Strategyzer Blog](http://blog.strategyzer.com)
+* [XPLANE Blog](http://xblog.xplane.com) and [XPLANE Medium](https://medium.com/the-xplane-collection)
 
 ## Management Books
 
@@ -2774,6 +2803,7 @@ https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second
 ## How to Live
 
 Seneca the Younger
+* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 * [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
 * [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
 * [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
@@ -2818,6 +2848,16 @@ Mental Models
 * [Farnham Street Mental Models](https://fs.blog/mental-models/)
 * [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
+* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
+
+<!--
+https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+-->
 
 ## Types of Intelligence
 
@@ -2919,6 +2959,7 @@ Fear Setting
 
 Marshall Goldsmith
 * ["How to Get Better at Almost Anything"](https://www.youtube.com/watch?v=-MxxzK0oZY8&t=1s)
+* ["The 6 Daily Questions"](https://www.youtube.com/watch?v=YWpUqXFe4Fw)
 
 Habit Engineering
 * [Ali Yahya Habit Engineering Thread](https://twitter.com/ali01/status/1078647576201703427)
@@ -2968,25 +3009,39 @@ https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How T
 https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
+<!--
+## Tips
+
+Redirect Emails
+https://twitter.com/sawaba/status/1222680741705846785
+get automated emails out of main inbox
+
+Schedule Emails
+https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en | Schedule emails to send - Computer - Gmail Help
+
+Naveen
+https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
+
+Knowledge Base
+https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
+https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
+https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
+https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
+
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+-->
+
 ## Productivity
-
-<!--
-https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
-
-Essentialism
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
--->
-
-<!--
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
-https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
-
-https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
--->
 
 Mind Tools
 * [Mind Tools](https://www.mindtools.com)
@@ -3030,20 +3085,38 @@ https://www.farnamstreetblog.com/2015/06/michael-lombardi/ | Patriots Coach Mich
 https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Faculty - Business - UW Bothell
 -->
 
+<!--
+https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
+
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
+
+
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
+https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
+
+https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
+-->
+
 ## Memory
 
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
-<!--
-https://en.wikipedia.org/wiki/Mnemonic
-https://en.wikipedia.org/wiki/Memory_sport
--->
-
 Spaced Repetition
 * [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
 
+Pattern
+* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
+
 <!--
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Memory_sport
+
 https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
 https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
 https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
@@ -3128,6 +3201,10 @@ https://en.wikipedia.org/wiki/In_Search_of_Excellence#Themes | In Search of Exce
 
 ## Business Philosophies
 
+Carlota Perez Framework
+* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
+* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
+
 Personal MBA
 * [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
 * [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
@@ -3144,6 +3221,10 @@ Tim Ferris Blueprints
 * ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
 * ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
 
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
 <!--
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
@@ -3153,6 +3234,14 @@ https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d53420
 
 FreshBooks: Breaking the Time Barrier
 https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
+
+The 4ps
+https://www.cleverism.com/understanding-marketing-mix-concept-4ps
+https://en.wikipedia.org/wiki/Marketing_mix
 -->
 
 ## Chicken or Egg Problem
@@ -3234,6 +3323,8 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
 
+## Persuasian, Ethics
+
 Persuasive Tech
 * [Nir Eyal](http://www.nirandfar.com)
 * [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
@@ -3245,7 +3336,35 @@ Persuasive Tech
 https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
 http://behaviormodel.org/ | BJ Fogg's Behavior Model
 
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+
 Nir Eyal 4-step model
 
 http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+-->
+
+Center for Humane Technology
+* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
+
+<!--
+http://www.tristanharris.com/
+https://medium.com/@tristanharris
+http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+
+http://humanetech.com/ | Center for Humane Technology
+
+http://www.tragicdesign.com
+https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
+
+https://www.uxbrutalism.com/
+https://brutalist-web.design/ | Brutalist Web Design
+
+https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
+https://humanebydesign.com/ | Humane by Design
+https://www.darkpatterns.org/ | Dark Patterns
+
+IT and Ethics
+https://plato.stanford.edu/entries/it-moral-values/
+https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
 -->
