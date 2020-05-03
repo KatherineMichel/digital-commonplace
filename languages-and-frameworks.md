@@ -63,6 +63,8 @@ Glitch Examples
 <!--
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
+https://vercel.com/blog/zeit-is-now-vercel
+
 https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
