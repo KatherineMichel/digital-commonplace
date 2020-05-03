@@ -62,10 +62,11 @@ https://leetcode.com
 https://www.hackerrank.com/challenges/capitalize/problem
 Brian Holt, Frontend Masters
 Traversy Media
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
 100 Days of Code
 https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://www.khanacademy.org/ | Khan Academy | Free Online Courses, Lessons & Practice
+
+Shortcuts, VS Code
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 Wes Bos
 https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
@@ -154,6 +155,9 @@ https://github.com/ryanmcgrath/twython
 https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
+https://nesslabs.com/roam-research-bookmarklet
+https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+
 
 
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
@@ -165,32 +169,8 @@ Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
 
-https://en.wikipedia.org/wiki/HTTP/3
-
-https://github.com/microsoft/xlang/issues/634
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://vercel.com/blog/zeit-is-now-vercel
-
-https://nesslabs.com/roam-research-bookmarklet
-https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
-
-
-
-https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
-https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
-
-
-https://www.twitch.tv/anthonywritescode
+https://www.npmjs.com/package/npx | npx
 
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
@@ -204,16 +184,13 @@ https://dl.acm.org/
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
 
-lyftvm
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
 
-mergebot
-
-https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
-
-
-Lean Enterprise
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
 
 Telemetry
+https://en.wikipedia.org/wiki/Telemetry
 
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
@@ -244,33 +221,6 @@ https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets 
 https://web.dev/fast/ | Fast load times
 
 
-Brian
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
-
-JSON Web Token (JWT)
-https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
-
-http://diana-adrianne.com/purecss-francine/ | Francine
-https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
-
-
-https://github.com/topics/bash | Topic: bash
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-
-
-https://twitter.com/simonw/status/1250651420660871168
-https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
-
-https://news.ycombinator.com/item?id=22920437
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-https://github.com/simonw/til
-
-
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 https://github.com/fcurella/django-channels-react-redux
@@ -286,8 +236,6 @@ https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams H
 Model Managers
 https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
 
-https://amitness.com/2019/08/math-for-programmers/
-
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
@@ -296,6 +244,8 @@ https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pyt
 https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
 
 http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://amitness.com/2019/08/math-for-programmers/
 
 https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
@@ -312,7 +262,6 @@ Docker
 https://github.com/docker/compose/issues/3729
 
 
-
 Casey
 https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
 
@@ -320,6 +269,8 @@ PM
 https://mobile.twitter.com/sriramk/status/1249860579994435585
 https://mobile.twitter.com/seanrose/status/1249863535414218752
 https://mobile.twitter.com/stevesi/status/1249862470006493184
+
+Lean Enterprise
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
 
@@ -420,9 +371,18 @@ JavaScript Scene
 <!--
 ## Engineering Management Resources
 
+https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
+https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+
 https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 
 https://medium.com/@skfroi/want-to-be-a-senior-developer-mentor-another-3ba383587669 | Want to be a Senior Developer? Mentor Another – Froilan Irizarry – Medium
+
 
 Scaling Engineering
 * [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
@@ -444,6 +404,46 @@ https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5
 
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 -->
+
+## Python Syntax and Python Versus JavaScript
+
+Programming Language Leveling Up and Comparisons- Python
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Trends
 
@@ -514,19 +514,6 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
 
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-
-Look at Daily
-* [Indie Hackers](https://www.indiehackers.com)
-* [Techmeme](https://www.techmeme.com)
-
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
 ## Project-Based Learning
 
 * [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
@@ -573,129 +560,6 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
-## Shortcuts
-
-<!--
-Mac
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
-
-VS Code Mac
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-GitHub
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
-Twitter
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-GitHub Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
--->
-
-## Visual Studio Code
-
-Visual Studio Code
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://github.com/microsoft/vscode
-https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-
-Extension
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
-
-https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
-
-https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
-
-https://code.visualstudio.com/docs/python/environments
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://code.visualstudio.com/docs/python/unit-testing | Unit Testing Python in Visual Studio Code
-https://docs.pylint.org/en/1.6.0/run.html
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-
-https://msdn.microsoft.com/en-us/library/da5kh0wa.aspx | Default Keyboard Shortcuts in Visual Studio
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
-
-https://visualstudio.github.com/
-https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
-https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
-
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-https://marketplace.visualstudio.com/vscode
-
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-
-VC Studio Code
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
--->
-
-## Python Syntax and Python Versus JavaScript
-
-Programming Language Leveling Up and Comparisons- Python
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparison Sites
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Website and Blog Resources
 
@@ -718,24 +582,6 @@ https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
-
-## Technical Writing
-
-<!--
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://dev.to/p/editor_guide | Editor Guide - DEV Community 👩‍💻👨‍💻
-
-https://www.freecodecamp.org/news/what-500-blog-posts-taught-me-about-writing-great-articles/ | What 500+ blog posts taught me about writing great articles
-
-https://twitter.com/agjhnsn/status/1222618133069885445
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
-https://twitter.com/arrdem/status/1174494663559897088 | 👻🦇🎃 Reid's Enhanced Identity Daemon on Twitter: "What's good technical writing reference material? How do you practice thinking about pitching and the audience or is this just a try try again game." / Twitter
 -->
 
 ## To Read- Git, GitHub, Open Source, Hosting
@@ -764,7 +610,7 @@ Google Open Source Guides
 
 <!--
 https://en.wikipedia.org/wiki/Five_Ws
-https://en.wikipedia.org/wiki/User_experience_design
+
 http://www.writethedocs.org/
 https://github.com/writethedocs/www
 https://github.com/jnordberg/wintersmith/wiki/Showcase
@@ -778,6 +624,14 @@ http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 https://developers.google.com/style/
 https://developers.google.com/tech-writing
 https://developers.google.com/tech-writing/one
+
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
+
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 -->
 
 ## To Read- Release Management
@@ -807,10 +661,121 @@ https://devguide.python.org/#contributing | Python Developer’s Guide — Pytho
 https://devguide.python.org/devcycle/
 -->
 
+## To Read- Patterns
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+Architectures
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+
+Refactoring
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+<!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+-->
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+## To Read- Tools
+
+Marketplaces
+* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
+* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
+
+
+
+<!--
+Zsh, Bash, aliases, Make, YAML, Regex
+
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+Lists
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://medium.com/javascript-scene/
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+SICP
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
+https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
+real python python basics pdf - Google Search
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+
+https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
+https://www.hackerrank.com/home
+
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
+https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
+-->
+
 
 ## Open Source and Release Examples
 
 <!--
+lyftvm
+mergebot
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
+
 https://github.com/todogroup/awesome-oss-mgmt
 
 Very interested- Postmortem
@@ -843,9 +808,12 @@ https://github.com/mongodb/mongo/wiki
 
 https://github.com/adobe/open-development-template
 
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
 
+Homebrew Analytics
+https://github.com/Homebrew/homebrew-formula-analytics
+
+Top downloaded wheels
+https://pythonwheels.com/
 
 High traffic projects
 https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
@@ -950,6 +918,13 @@ https://github.com/zeit/next.js/blob/canary/contributing.md
 Example Notes
 https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
 
+https://news.ycombinator.com/item?id=22920437
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+https://github.com/simonw/til
+
+https://twitter.com/simonw/status/1250651420660871168
+https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
+
 Simon- Release
 https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
 https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
@@ -973,151 +948,6 @@ Removed for now removed features.
 Fixed for any bug fixes.
 Security in case of vulnerabilities.
 -->
-
-
-## To Read- Project Management
-
-Technical
-* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
-* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-* Objective, Assumption, Constraint
-
-<!--
-Requirements, life cycle, release management
--->
-
-## To Read- Patterns
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
-Architectures
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-
-Refactoring
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
-
-## To Read- Tools
-
-Marketplaces
-* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
-* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
-
-<!--
-Zsh, Bash, aliases, Make, YAML, Regex
-
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
-
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-Lists
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-https://medium.com/javascript-scene/
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
-
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
-https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
-real python python basics pdf - Google Search
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
-
-https://www.hackerrank.com/home
-
-https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
-https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
-https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
--->
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
-
-## Interesting
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
--->
-
 
 ## GitHub Tips and Pinax
 
@@ -1660,6 +1490,121 @@ request cve - Google Search
 https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
 -->
 
+## Shortcuts
+
+<!--
+Mac
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
+VS Code Mac
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+GitHub
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+Twitter
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+GitHub Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
+-->
+
+## Visual Studio Code
+
+Visual Studio Code
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://github.com/microsoft/vscode
+https://github.com/Microsoft/vscode-python
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+
+Extension
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
+
+https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
+
+https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
+
+https://code.visualstudio.com/docs/python/environments
+https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+https://code.visualstudio.com/docs/python/unit-testing | Unit Testing Python in Visual Studio Code
+https://docs.pylint.org/en/1.6.0/run.html
+https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
+
+https://msdn.microsoft.com/en-us/library/da5kh0wa.aspx | Default Keyboard Shortcuts in Visual Studio
+https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+
+https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+
+https://visualstudio.github.com/
+https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
+https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+
+
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+https://marketplace.visualstudio.com/vscode
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+
+VC Studio Code
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+-->
+
+
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+https://devchecklists.com
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+-->
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
+
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+-->
 
 ## Company Playbooks
 
@@ -2583,6 +2528,19 @@ https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on 
 https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
 https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
 -->
+
+## Tech Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+Look at Daily
+* [Indie Hackers](https://www.indiehackers.com)
+* [Techmeme](https://www.techmeme.com)
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
 
 ## Engineering Management
 
