@@ -355,6 +355,37 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 
+https://stevedower.id.au/ | Steve Dower Musings and Mutterings | Steve Dower
+https://github.com/zooba
+https://asvetlov.blogspot.com/ | Андрей Светлов
+
+https://twitter.com/MariuszFelisiak
+
+https://twitter.com/webology
+https://static.simonwillison.net
+
+https://twitter.com/housecor | Cory House  (@housecor) | Twitter
+https://twitter.com/levelsio
+Feross
+
+Jess
+https://github.com/jessfraz/cni-benchmarks | jessfraz/cni-benchmarks: A simple program to benchmark various container networking (CNI) plugins.
+https://github.com/jessfraz | jessfraz (Jess Frazelle)
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+Jess
+https://oxide.computer/blog/introducing-the-oxide-computer-company/ | Oxide Computer Company: Oxide Computer Company: Initial boot sequence
+
+https://hypatia.ca
+https://twitter.com/ashleymcnamara
+https://twitter.com/noopkat
+https://twitter.com/sarah_edo
+https://twitter.com/ChloeCondon
+https://twitter.com/alicegoldfuss
+https://twitter.com/nnja
+https://twitter.com/DynamicWebPaige
+https://twitter.com/skamille
+
 https://blog.twitch.tv
 https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
 
