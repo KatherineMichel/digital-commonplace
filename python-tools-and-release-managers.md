@@ -954,6 +954,47 @@ https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitt
 https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
 -->
 
+Additional Serverless
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+* [Firebase Functions](https://firebase.google.com/features/functions)
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+
+Containers
+* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+
+Terraform
+* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+<!--
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+
+https://serverless.com
+https://github.com/serverless/site
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
+http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+    
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
+
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+-->
+
 ## Bots
 
 Mariatta- Bot Tutorials
