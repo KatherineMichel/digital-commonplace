@@ -413,12 +413,17 @@ https://twitter.com/housecor | Cory House  (@housecor) | Twitter
 https://twitter.com/levelsio
 Feross
 
+The 39 most powerful female engineers of 2018
+https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
+https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+https://www.forbes.com/top-tech-women/#17ee38b74df0
+
 Jess
 https://github.com/jessfraz/cni-benchmarks | jessfraz/cni-benchmarks: A simple program to benchmark various container networking (CNI) plugins.
 https://github.com/jessfraz | jessfraz (Jess Frazelle)
 https://twitter.com/jessfraz
 https://blog.jessfraz.com/
-Jess
 https://oxide.computer/blog/introducing-the-oxide-computer-company/ | Oxide Computer Company: Oxide Computer Company: Initial boot sequence
 
 https://hypatia.ca
@@ -578,11 +583,6 @@ Programming Language Leveling Up and Comparison Sites
 
 ## Trends
 
-GitHub More
-* [GitHub Explore](https://github.com/explore)
-* [GitHub Discover](https://github.com/dashboard/discover)
-* [GitHub Showcases](https://github.com/showcases)
-
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
@@ -718,7 +718,37 @@ https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
 
+## Shortcuts
+
+<!--
+Mac
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
+Twitter
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+VS Code Mac
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+GitHub
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+GitHub Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
+-->
+
 ## To Read- Git, GitHub, Open Source, Hosting
+
+GitHub More
+* [GitHub Explore](https://github.com/explore)
+* [GitHub Discover](https://github.com/dashboard/discover)
+* [GitHub Showcases](https://github.com/showcases)
 
 GitHub
 * [GitHub Blog](https://github.blog)  
@@ -808,6 +838,10 @@ Object Oriented Software Construction Principles
 Architectures
 * [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
 
+Hawt
+* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+
 Refactoring
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Refactoring Catalog](https://refactoring.com/catalog/)
@@ -827,6 +861,109 @@ Checklists and Cheat Sheets
 Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
+
+## Site Reliability and High Performance
+
+Google Site Reliability Engineering Books
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+<!--
+http://highscalability.com/all-time-favorites/
+
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+<!--
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+-->
+
+## Jez Humble
+
+<!--
+Related
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+-->
+
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+https://devchecklists.com
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+-->
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+-->
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/Droogans/unmaintainable-code
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+-->
 
 ## To Read- Tools
 
@@ -1073,6 +1210,18 @@ Security in case of vulnerabilities.
 ## GitHub Tips and Pinax
 
 <!--
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://opensource.guide/metrics/
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+
 http://anonymoushash.vmbrasseur.com
 http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
 
@@ -1161,60 +1310,6 @@ https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
 
 
-## Open Source in Orgs
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-<!--
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://opensource.guide/metrics/
-
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
--->
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-  
 ## Open Source and Assessment
 
 Mozilla Metrics
@@ -1357,6 +1452,7 @@ https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's 
 
 https://circleci.com/docs/2.0/migrating-from-github/
 
+
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
 
 Actions innovations
@@ -1471,60 +1567,48 @@ request cve - Google Search
 https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
 -->
 
-## Shortcuts
+## Open Source in Orgs
 
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+  
 <!--
-Mac
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
-
-VS Code Mac
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-GitHub
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
-Twitter
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-GitHub Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
--->
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
-
-## Interesting
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/RichardLitt/low-resource-languages | RichardLitt/low-resource-languages: Resources for conservation, development, and documentation of low resource (human) languages.
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
 -->
 
 ## Company Playbooks
@@ -1776,51 +1860,6 @@ https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
-
-## Site Reliability and High Performance
-
-Google Site Reliability Engineering Books
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-<!--
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
--->
-
-<!--
-https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
-
-https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-Coursera DevOps Course
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
--->
-
-## Jez Humble
-
-<!--
-Related
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
-
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
--->
-
-
-
 ## Other Interesting
 
 Incident Response
@@ -2013,12 +2052,10 @@ Software Stacks
 * [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
 Architectures
-* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
 * [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 * [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
 * [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
 * [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
 * [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 * [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
@@ -2039,135 +2076,6 @@ https://en.wikipedia.org/wiki/Messaging_pattern
 https://en.wikipedia.org/wiki/Request%E2%80%93response
 https://en.wikipedia.org/wiki/Post/Redirect/Get
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
--->
-
-## Object Oriented Software
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-<!--
-https://ourmachinery.com/files/guidebook.md.html
-https://en.wikipedia.org/wiki/Data-oriented_design
-
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
--->
-
-## Clean Architecture in Python and Django
-
-<!--
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
-
-Brandon Rhodes
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
-
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
-
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
--->
-
-## Python Patterns
-
-Python Design Patterns and Algorithms
-* [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
-
-* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
-* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
-
-<!--
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
-
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
-
-https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
-
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
-https://github.com/lbragaglia/awesome-design-patterns | lbragaglia/awesome-design-patterns: A curated list of design patterns resources
-https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
-
-Pluralsight Python Design Patterns course author
-https://app.pluralsight.com/profile/author/gerald-britton | Gerald Britton | Profile
-
-https://app.pluralsight.com/library/courses/design-patterns-structural-playbook/table-of-contents | Design Patterns Playbook: Structural Patterns | Pluralsight
--->
-
-<!--
-Django Design patterns
-
-* [Django Design Patterns and Best Practices GitHub](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices)
-
-https://www.agiliq.com/books/djangodesignpatterns/ | Index — Django Design Patterns
-https://github.com/agiliq/django-design-patterns | agiliq/django-design-patterns: Commonly occuring design patterns in Django
-https://github.com/DjangoPatternsBook/superbook2 | DjangoPatternsBook/superbook2: Code for the second edition of Django Design Patterns and Best Practices book by Arun Ravindran
-https://github.com/DjangoPatternsBook/DjangoPatternsBook.github.io | DjangoPatternsBook/DjangoPatternsBook.github.io: The site for the book
-
-https://github.com/PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition/tree/master/src | Django-Design-Patterns-and-Best-Practices-Second-Edition/src at master · PacktPublishing/Django-Design-Patterns-and-Best-Practices-Second-Edition
-
-https://media.readthedocs.org/pdf/django-design-patterns/latest/django-design-patterns.pdf | Django design patterns Documentation
-
-https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/ | Django Design Patterns and Best Practices (2nd Ed) by Arun Ravindran for Django 2.0
-https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django+design+patterns+and+best+practices&source=bl&ots=yRhTMffqiB&sig=UMGTE2TAhj3tOMrBYmQVOexHrMQ&hl=en&sa=X&ved=2ahUKEwiMgqru_-_dAhVsk-AKHRGaCRE4ChDoATAFegQIAxAB#v=onepage&q=file%3Apdf%20django%20design%20patterns%20and%20best%20practices&f=false | Django Design Patterns and Best Practices: Industry-standard web development ... - Arun Ravindran - Google Books
-
-https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
--->
-
-## Software Design Patterns
-
-Design Patterns- General
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-Design Patterns
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-
-<!--
-https://sourcemaking.com
-https://sourcemaking.com/antipatterns/ | AntiPatterns
-https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
-
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
-
-https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
--->
-
-## Programming Concepts and Tools
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-<!--
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
-
-http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
 ## X Driven Development
@@ -2571,12 +2479,6 @@ https://wikivisually.com/wiki/Kathleen_Booth | Kathleen Booth - WikiVisually
 https://computingthehumanexperience.com/people/ | People – Computing: The Human Experience
 https://twitter.com/computinghuman | computing (@computinghuman) | Twitter
 https://twitter.com/Grady_Booch/status/1067904220865585152 | Grady Booch on Twitter: "i hope to bring it online in the next month or two. i'm reworking the site for my documentary (Computing: The Human Experience). I'll announce it here, when it's up.… https://t.co/vLuPj8FF2P"
-
-The 39 most powerful female engineers of 2018
-https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
-https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
-https://www.forbes.com/top-tech-women/#17ee38b74df0
 
 * [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 
