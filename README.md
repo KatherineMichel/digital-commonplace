@@ -193,10 +193,6 @@ https://www.redhat.com/en/blog
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-Lists
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
 
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
@@ -939,6 +935,11 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+Lists
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 https://github.com/Idnan/bash-guide
 https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
