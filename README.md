@@ -943,6 +943,8 @@ https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line
 https://github.com/Idnan/bash-guide
 https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
 
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
 https://github.com/lorin/systems-thinking
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
