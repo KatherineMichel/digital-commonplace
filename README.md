@@ -704,7 +704,7 @@ Jekyll Themes
 
 <!--
 https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/KatherineMichel/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
 https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
 
 https://github.com/fastai/fast_template
