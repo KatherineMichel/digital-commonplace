@@ -3,6 +3,9 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+"Leave people better than you found them."
+https://twitter.com/CHERdotdev/status/1257392420754542594
+
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://www.coursera.org/learn/the-science-of-well-being
@@ -19,10 +22,24 @@ https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
 
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=61963b707afb40630464b7bf3bf74bc1
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
+
+https://www.sec.gov/Archives/edgar/data/1418091/000141809120000089/twtr-20200331.htm
+
+Content-creating flywheel
+https://twitter.com/sarahleary/status/1255321982029234176
+https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
+
+https://nuzzel.com/KatiMichel/feeds
+https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
+
+Stars
+* [Astral App](https://astralapp.com)
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 https://www.acm.org/virtual-conferences | Virtual Conferences
 
@@ -42,6 +59,7 @@ https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/401
 Microsoft
 https://www.youtube.com/watch?v=gCkFkvFVLjY&feature=youtu.be
 https://discordapp.com/invite/b8YJQPx
+https://discord.com/channels/702724176489873509/702724176489873512
 
 CHAOSS
 
@@ -60,6 +78,7 @@ https://opensource.com/article/19/11/correspondent-program | Announcing the Open
 
 Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
+https://github.com/feldroy/django-crash-starter
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
@@ -79,6 +98,9 @@ https://compedu.stanford.edu/codeinplace/v1/#/handout/section1.pdf
 https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment2.pdf | Handout
 https://compedu.stanford.edu/codeinplace/v1/#/handout/section2.pdf | Handout
 https://compedu.stanford.edu/codeinplace/v1/#/assignment/khansole | Assignment
+
+https://github.com/codeinplace2020
+https://codeinplace2020.github.io/faqs/section3-alt.pdf
 
 https://us.edstem.org/courses/1470/discussion/46041 | Section 470 – Discussion
 https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html | Karel Reader
@@ -146,28 +168,112 @@ https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentat
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
 
-http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
-
-
-
-https://nuzzel.com/KatiMichel/feeds
-https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
-
-Stars
-* [Astral App](https://astralapp.com)
+https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
 * [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
+https://twitter.com/hayleydenb/status/1257786499933728768
+
   * [Microservices Dot IO](http://microservices.io)
   * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
-  
+
+https://github.com/microservices/cli
+
+Philosophy of CS
+https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
+
+
+https://www.redhat.com/en/blog
+https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
+https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
+
+"Promote the Challenge"
+https://www.gnome.org/challenge/promote/
+https://twitter.com/pagsummit/status/1256661832326156288
+
+
+Cos
+https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/
+https://www.netlify.com/blog/2020/05/05/what-netlifys-infrastructure-team-learned-as-it-increased-deploy-speed-by-up-to-2x/
+https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify
+
+http://www.linfo.org/usr_sbin.html
+https://en.wikipedia.org/wiki/Shebang_(Unix)
+https://support.apple.com/en-us/HT201236
+
+Docs- Important!
+minimum viable documentation
+https://documentation.divio.com/
+https://twitter.com/webology/status/1257759193743929347
+https://docs.fast.ai/gen_doc_main.html
+
+https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
+https://twitter.com/jessejiryudavis/status/1256375104205971461
+https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
+
+https://www.jetbrains.com/lp/python-developers-survey-2019/
+
+https://github.com/python/mypy
+
+Encode
+https://www.encode.io/reports/april-2020
+https://twitter.com/_tomchristie/status/1256210735056785409
+
+https://tutorial.edgedb.com/
+
+https://twitter.com/raymondh/status/1257431141482708994
+https://www.youtube.com/watch?v=FvNRlE4E9QQ
+http://alloytools.org/
+
+[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
+https://github.com/tailwindcss/tailwindcss/discussions/1656
+
+Django Core
+https://twitter.com/emilyemorehouse/status/1256312207358357504
+
+"In @ChatDjango episode 16 - “Django Admin” you mentioned you wanted to do a video series whiteboarding the models for famous websites. "
+https://twitter.com/Chris2Brooks/status/1257636370476130305
+
+Bot
+https://twitter.com/mariatta/status/1255558164956807178
+
+GA
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+https://github.com/probot/reminders
+https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
+https://github.com/andrewgodwin/channels-examples/blob/master/multichat/chat/consumers.py
+https://twitter.com/webology/status/1255842961880944641
+https://twitter.com/webology/status/1255842961880944641
+https://twitter.com/webology/status/1255226205206429701
+
+https://github.com/simonw/datasette/issues/151
+
+pystrftime.com
+https://twitter.com/webology/status/1255550229446828032
+
+https://hynek.me/articles/document-your-tests/
+
+https://www.cosmicpython.com/
+
+https://twitter.com/theavalkyrie/status/1257469771202715648
+
+https://docs.fast.ai/gen_doc_main.html
+
 https://www.npmjs.com/package/npx | npx
 
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
-https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+https://twitter.com/ChromiumDev/status/1257701879242514433
+
+https://github.com/salesforce/eslint-plugin-lwc
+https://github.com/coryhouse/mock-api-example
+
+PHP
+https://twitter.com/KatiMichel/status/1257133245864402945
+
+Sqlite
+https://twitter.com/brettsky/status/1256026919151169536
+
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
@@ -180,11 +286,24 @@ https://dl.acm.org/
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
 
+http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
+clrs algorithms
+Refactoring, TDD
+Trade Offs
+
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+
+
+Shortcuts
+Zsh, Bash, aliases, dotfiles, Make, YAML, Regex
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
 Profiling
 https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
 https://github.com/asottile/importtime-waterfall/
 har http timing
-
 
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
@@ -195,16 +314,15 @@ Telemetry
 https://en.wikipedia.org/wiki/Telemetry
 
 
-Shortcuts
-Zsh, Bash, aliases, dotfiles, Make, YAML, Regex
-
-https://www.redhat.com/en/blog
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-
 https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
+
+https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
+
+Kushal Das
+https://pymbook.readthedocs.io/en/latest/index.html
+
+Naomi Ceder
+https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
 
 https://inventwithpython.com/ | https://inventwithpython.com
 
@@ -218,6 +336,7 @@ https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 
 Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1255592930917507072
 https://twitter.com/nnja/status/1217933709577342976
 https://www.learnpython.dev/
 https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
@@ -231,7 +350,9 @@ https://archive.org/details/comp3321/page/n4/mode/2up
 https://archive.org/details/comp3321/page/n89/mode/2up/search/device
 
 MS Python
-https://www.pcgamer.com/microsoft-launches-a-free-python-for-beginners-video-course-for-aspiring-coders/ | Microsoft launches a free 'Python for beginners' video course for aspiring coders | PC Gamer
+https://twitter.com/ch9/status/1256271884934541312
+https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 
 MIT Intro to Algos
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
@@ -305,6 +426,7 @@ https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66f
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 https://medium.com/javascript-scene/
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
@@ -355,13 +477,6 @@ https://amitness.com/2019/08/math-for-programmers/
 https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
 https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
-
-clrs algorithms
-Refactoring, TDD
-Trade Offs
-
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
 Docker
 https://github.com/docker/compose/issues/3729
@@ -1127,6 +1242,7 @@ https://opensource.guide/
 https://primer.style/doctocat/usage/deployment
 
 https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
 https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
 https://github.com/microsoft/ghcrawler
 
