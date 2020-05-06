@@ -150,7 +150,7 @@ http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
 
 
 
-
+https://nuzzel.com/KatiMichel/feeds
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
 Stars
@@ -165,6 +165,9 @@ Style
   
 https://www.npmjs.com/package/npx | npx
 
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
@@ -175,6 +178,12 @@ ACM Library
 https://dl.acm.org/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
 
 
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
@@ -703,6 +712,17 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://ghost.org/docs/ | Ghost Docs
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
+
 https://sindresorhus.com/apps | Sindre Sorhus
 https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
 https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
@@ -1024,6 +1044,11 @@ https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Stud
 
 https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio | Default Keyboard Shortcuts in Visual Studio
 https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+https://github.com/sdras/night-owl-vscode-theme
 -->
 
 
