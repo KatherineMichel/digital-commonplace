@@ -1,7 +1,7 @@
 # Python and JavaScript Learning Resources
 
 <!--
-https://blog.jessfraz.com/ | Ramblings from Jessie: Home
+https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
