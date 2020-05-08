@@ -25,6 +25,7 @@ https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-
 
 React
 https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitter: "📻 We are hosting a Podcast on data-fetching, featuring React, GraphQL and REST! 👨‍💻 With: @tannerlinsley @shuding_ and @rauchg 🔗 Topics: https://t.co/1s73FVFpzG There are a LOT of exciting topics to cover, so please reply with what you are most interested in!" / Twitter
+https://github.com/facebook/metro-bundler
 
 https://www.weforum.org/agenda/2016/04/the-17-equations-that-changed-the-world
 
