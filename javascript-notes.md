@@ -1,6 +1,10 @@
 # JavaScript Notes
 
 <!--
+http://bradfrost.com/blog/post/my-struggle-to-learn-react/
+
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
 https://en.wikipedia.org/wiki/HTTP/3
