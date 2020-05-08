@@ -828,7 +828,10 @@ Jekyll Themes
 
 <!--
 https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
 https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
 https://tribeca.ghost.io/ | Tribeca
 https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
 https://lyra.ghost.io/ | Lyra
