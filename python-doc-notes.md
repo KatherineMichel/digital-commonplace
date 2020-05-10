@@ -1,5 +1,70 @@
 # Python Doc Notes
 
+## Stanford Code in Place Notes
+
+https://compedu.stanford.edu/codeinplace/announcement/
+https://compedu.stanford.edu/codeinplace/assn0/#/splash
+
+https://compedu.stanford.edu/codeinplace/v1/#/karel/section1/hospital | Hospital
+
+https://us.edstem.org/courses/490/discussion/
+https://compedu.stanford.edu/codeinplace/v1/#/course
+https://compedu.stanford.edu/codeinplace/v1/#/course/schedule | Schedule
+https://compedu.stanford.edu/codeinplace/v1/#/handout/submissionInstructions.html | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/submissions | Submissions
+https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
+https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment1.pdf
+https://compedu.stanford.edu/codeinplace/v1/#/handout/section1.pdf
+https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment2.pdf | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/handout/section2.pdf | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/assignment/khansole | Assignment
+
+https://github.com/codeinplace2020
+https://codeinplace2020.github.io/faqs/section3-alt.pdf
+
+https://us.edstem.org/courses/1470/discussion/46041 | Section 470 – Discussion
+https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html | Karel Reader
+https://compedu.stanford.edu/karel-reader/docs/python/en/reference.html | Karel Reader
+
+http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5
+
+Karel
+https://en.wikipedia.org/wiki/Karel_(programming_language)
+https://www.amazon.com/Karel-Robot-2E-Richard-Pattis/dp/0471597252
+https://en.wikipedia.org/wiki/Richard_E._Pattis | Richard E. Pattis - Wikipedia
+
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Random-access_memory | Random-access memory - Wikipedia
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
+https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
+https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+https://see.stanford.edu/Course#Introduction%20to%20Computer%20Science
+https://www.youtube.com/watch?v=yANUka-4mjE&feature=emb_title
+https://www.instagram.com/p/B_YSrXvn6F4/
+
+https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
+https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
+
+Reeborg
+http://reeborg.ca/docs/en/# | Learn Python with Reeborg! — Learn Python with Reeborg
+http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fselect_collection_en.json&name=Other%20worlds&url=%2Fworlds%2Fmenus%2Fselect_collection_en.json | Reeborg's World
+http://reeborg.ca/docs/en/basics/move.html | 1. First program — Learn Python with Reeborg
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
