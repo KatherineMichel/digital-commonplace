@@ -3,123 +3,13 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
-
-http://deanyeong.com/habit-guide/?platform=hootsuite | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
-
-https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
-https://mobile.twitter.com/chrisjrn/status/1248020330532057093
-https://2020.pyconuk.org/ | PyCon UK 2020
-
-https://testdriven.io/ | Test Driven Development Courses
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-
-https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design?sc_cid=70160000001273HAAQ | Microservices: An improved architecture design
-https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
-
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
-
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-React
-https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitter: "📻 We are hosting a Podcast on data-fetching, featuring React, GraphQL and REST! 👨‍💻 With: @tannerlinsley @shuding_ and @rauchg 🔗 Topics: https://t.co/1s73FVFpzG There are a LOT of exciting topics to cover, so please reply with what you are most interested in!" / Twitter
-https://github.com/facebook/metro-bundler
-
-https://www.weforum.org/agenda/2016/04/the-17-equations-that-changed-the-world
-
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
-http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
-
-https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
-https://upcoming.org/about | About - Upcoming
-
-Product Hunt Stats
-https://www.producthunt.com/e/the-1000-club | The 1000 Club | Product Hunt
-https://twitter.com/PHTop5 | Product Hunt Top 5 😻 (@PHTop5) / Twitter
-https://www.producthunt.com/e/the-almost-1000-club | The Almost 1000 Club - Product Hunt
-https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
-
-https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
-
-Math/Latex
-https://mobile.twitter.com/DynamicWebPaige/status/1251019531914317824
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://www.inkandswitch.com/end-user-programming.html | End-user programming
-
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-
-https://womenmake.com/ | Women Make
-
-https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Release
-https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
-
-ICT
-https://docs.google.com/forms/d/e/1FAIpQLSeXGTAaWxulCGMXYd-B34PAqWC2aYKmvK5YPgYTdmVxzi7Adw/viewform | SWE Women Engineers You Should Know
-
-https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html
-https://swooshing.wordpress.com/2008/12/30/bootstrappers-guide-to-ces/
-
-Gutenberg
-https://ma.tt/2018/11/a-gutenberg-faq/ | WordPress 5.0: A Gutenberg FAQ – Matt Mullenweg
-
-https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
-https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
-https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
-https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
-
-Good to know
-https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
-
-Python
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-
-https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
-
-https://www.latex-project.org/ | LaTeX - A document preparation system
-
-https://github.com/cben/mathdown/wiki/math-in-markdown | Math in MarkDown · cben/mathdown Wiki
-https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
-
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
-
-http://ryanhoover.me/post/99742063783/dumb-apps | Dumb Apps | Ryan Hoover
-
-https://twitter.com/webology/status/925376216961638400 | Jeff Triplett ✨ on Twitter: "TIL: `git whatchanged`... wow"
-
-
-
-
 "Leave people better than you found them."
 https://twitter.com/CHERdotdev/status/1257392420754542594
 
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://www.coursera.org/learn/the-science-of-well-being
+https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
 
 Meditation
 https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCUA | Spotify – Home
@@ -127,22 +17,10 @@ https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCU
 Eyes
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
-https://nesslabs.com/roam-research-bookmarklet
-https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
-
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
-
-https://www.sec.gov/Archives/edgar/data/1418091/000141809120000089/twtr-20200331.htm
-
-Content-creating flywheel
-https://twitter.com/sarahleary/status/1255321982029234176
-https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
-
-Conference friends
-https://twitter.com/jonafato/status/1245443151420104704
 
 https://nuzzel.com/KatiMichel/feeds
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
@@ -150,7 +28,12 @@ https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 Stars
 * [Astral App](https://astralapp.com)
 
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
+Conference friends
+https://twitter.com/jonafato/status/1245443151420104704
+
+https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
+https://mobile.twitter.com/chrisjrn/status/1248020330532057093
+https://2020.pyconuk.org/ | PyCon UK 2020
 
 https://www.acm.org/virtual-conferences | Virtual Conferences
 
@@ -181,6 +64,48 @@ https://events.linuxfoundation.org/open-source-summit-north-america/
 https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
+
+https://www.sec.gov/Archives/edgar/data/1418091/000141809120000089/twtr-20200331.htm
+
+https://nesslabs.com/roam-research-bookmarklet
+https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+
+https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
+https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
+https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
+https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
+
+Content-creating flywheel
+https://twitter.com/sarahleary/status/1255321982029234176
+https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
+
+https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
+http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
+
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
+
+Product Hunt Stats
+https://www.producthunt.com/e/the-1000-club | The 1000 Club | Product Hunt
+https://twitter.com/PHTop5 | Product Hunt Top 5 😻 (@PHTop5) / Twitter
+https://www.producthunt.com/e/the-almost-1000-club | The Almost 1000 Club - Product Hunt
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
+https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
+https://upcoming.org/about | About - Upcoming
+
+http://ryanhoover.me/post/99742063783/dumb-apps | Dumb Apps | Ryan Hoover
+
+https://www.inkandswitch.com/end-user-programming.html | End-user programming
+
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+
+https://womenmake.com/ | Women Make
+
+https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
 https://opensource.com/how-submit-article | Write for us | Opensource.com
@@ -191,7 +116,9 @@ Order Alpha
 https://twitter.com/pydanny/status/1226937149485768704
 https://github.com/feldroy/django-crash-starter
 
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
+Python
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
@@ -208,35 +135,95 @@ https://wesbos.com/uses/ | Uses | Wes Bos
 update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 
-http://engineering.khanacademy.org/posts/engineering-principles.htm
-
 https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
 https://github.com/ryanmcgrath/twython
 https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
-
-https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
-
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
 https://twitter.com/hayleydenb/status/1257786499933728768
+
 
   * [Microservices Dot IO](http://microservices.io)
   * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
 
 https://github.com/microservices/cli
 
 Philosophy of CS
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 
+https://www.latex-project.org/ | LaTeX - A document preparation system
+
+https://mobile.twitter.com/DynamicWebPaige/status/1251019531914317824
+https://github.com/cben/mathdown/wiki/math-in-markdown | Math in MarkDown · cben/mathdown Wiki
+https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
+
+https://www.weforum.org/agenda/2016/04/the-17-equations-that-changed-the-world
+
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
+
+
+
+https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
+
+Release
+https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
+
+ICT
+https://docs.google.com/forms/d/e/1FAIpQLSeXGTAaWxulCGMXYd-B34PAqWC2aYKmvK5YPgYTdmVxzi7Adw/viewform | SWE Women Engineers You Should Know
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html
+https://swooshing.wordpress.com/2008/12/30/bootstrappers-guide-to-ces/
+
+Gutenberg
+https://ma.tt/2018/11/a-gutenberg-faq/ | WordPress 5.0: A Gutenberg FAQ – Matt Mullenweg
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+
 
 https://www.redhat.com/en/blog
 https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
 https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
 
+https://www.redhat.com/en/resources/digital-transformation-ebook
+https://www.redhat.com/en/resources/microservices-improved-architecture-design?sc_cid=70160000001273HAAQ | Microservices: An improved architecture design
+https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
+
+https://testdriven.io/ | Test Driven Development Courses
+
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+
+
+https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+
+https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
+
+https://twitter.com/webology/status/925376216961638400 | Jeff Triplett ✨ on Twitter: "TIL: `git whatchanged`... wow"
+
+https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
 http://www.linfo.org/usr_sbin.html
 https://en.wikipedia.org/wiki/Shebang_(Unix)
@@ -300,10 +287,12 @@ https://twitter.com/theavalkyrie/status/1257469771202715648
 
 https://docs.fast.ai/gen_doc_main.html
 
-https://www.npmjs.com/package/npx | npx
-
 https://twitter.com/ChromiumDev/status/1257701879242514433
 
+React
+https://www.npmjs.com/package/npx | npx
+https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitter: "📻 We are hosting a Podcast on data-fetching, featuring React, GraphQL and REST! 👨‍💻 With: @tannerlinsley @shuding_ and @rauchg 🔗 Topics: https://t.co/1s73FVFpzG There are a LOT of exciting topics to cover, so please reply with what you are most interested in!" / Twitter
+https://github.com/facebook/metro-bundler
 https://github.com/salesforce/eslint-plugin-lwc
 https://github.com/coryhouse/mock-api-example
 
@@ -333,6 +322,8 @@ Trade Offs
 set theory and databases - Google Search
 https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 
+
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
 
 Shortcuts
 Zsh, Bash, aliases, dotfiles, Make, YAML, Regex
@@ -515,6 +506,8 @@ https://amitness.com/2019/08/math-for-programmers/
 
 https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
+https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
 https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 
 Docker
@@ -543,6 +536,8 @@ https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on
 
 Viral Funnel model
 https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
+
+https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
 
 https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
 https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
