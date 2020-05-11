@@ -51,6 +51,10 @@ https://register.build.microsoft.com/
 https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 
+Packaging Summit
+Language Summit
+https://us.pycon.org/2020/events/languagesummit/
+
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
