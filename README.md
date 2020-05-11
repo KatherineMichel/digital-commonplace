@@ -8,6 +8,13 @@ https://twitter.com/CHERdotdev/status/1257392420754542594
 
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
+https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
+https://www.apple.com/ipad-keyboards/
+
+Fitness
+https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
+https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
+
 https://www.coursera.org/learn/the-science-of-well-being
 https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
 
@@ -19,8 +26,8 @@ https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-devel
 
 http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
 
-https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
-https://www.apple.com/ipad-keyboards/
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 
 https://nuzzel.com/KatiMichel/feeds
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
