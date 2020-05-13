@@ -1,6 +1,12 @@
 # Python and JavaScript Learning Resources
 
 <!--
+https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I've found some coding exercises I submitted when applying for jobs at tech companies. Would you folks be interested in a blog post explaining how I approach such coding challenges and some lessons learned? https://t.co/qzdairdJwH" / Twitter
+
+https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
+
+https://www.hackinscience.org/ | HackInScience - Python course
+
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 https://github.com/fcurella/django-channels-react-redux
