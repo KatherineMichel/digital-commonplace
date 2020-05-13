@@ -32,6 +32,13 @@ Python and Django Consulting Firm GitHub Accounts
 * [Truthful Technology GitHub](https://github.com/TruthfulTechnology) and [Truthful Technology](https://truthful.technology)
 * [Vinta Software GitHub](https://github.com/vintasoftware) and [Vinta Blog](https://www.vinta.com.br/blog)
 
+<!--
+https://www.jbssolutions.com/
+
+DjangoCon sponsors
+https://2018.djangocon.us/sponsors/
+-->
+
 ## Major Organizations and Projects that Use Django
 
 * [18F GitHub](https://github.com/18F)  
