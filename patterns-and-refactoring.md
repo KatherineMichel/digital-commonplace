@@ -27,6 +27,15 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
+## Architectures
+
+Architectures
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+
+Hawt
+* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+
 ## Software Design Patterns
 
 Design Patterns- General
@@ -69,6 +78,10 @@ https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Softw
 Object Oriented Software Construction
 * [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
 * [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 <!--
 https://ourmachinery.com/files/guidebook.md.html
