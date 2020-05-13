@@ -1055,6 +1055,10 @@ https://twitter.com/kelseyhightower/status/1159517721068916736
 
 https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
 
+https://github.com/cschleiden/github-actions-hero | cschleiden/github-actions-hero: 🚧 Interactive tutorial and visualizer for GitHub Actions workflows 🚧
+https://twitter.com/webology/status/1259199459579383809 | Jeff says, "wash your hands" 🧼👏 on Twitter: "✨ If you use GitHub Actions to build and publish Docker, there is an easier way instead of building a series of `run` steps. 🐳 ⬇ Here is an example of what I'm using to build the new https://t.co/6ueTxxQ9a3 (out soon) https://t.co/Nt9DEnPxbc" / Twitter
+https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 on Twitter: "I wrote a thing that's been useful ever since🖖 Run your Django project tests on GitHub Actions + explanation about what's happening 👇 https://t.co/OToacdQOVy" / Twitter
+
 https://twitter.com/webology/status/1255842961880944641
 https://mobile.twitter.com/simonw/status/1252052032019546112
 https://mobile.twitter.com/webology/status/1252052023459090432
