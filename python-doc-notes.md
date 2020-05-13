@@ -2,6 +2,22 @@
 
 ## Stanford Code in Place Notes
 
+https://twitter.com/davidjmalan/status/1258555662688309248 | David J. Malan on Twitter: "A mosaic of screenshots of @CS50's Office Hours via @Zoom_us on 7 May 2020 with 354+ students from &lt;= 114 countries around the world. #computerscience #education #programming #code #community https://t.co/FIB4nX4XVW" / Twitter
+
+https://us.edstem.org/courses/1470/discussion/62091 | Section 470 – Discussion
+https://compedu.stanford.edu/codeinplace/diagnostic/ae76ma.pdf | ae76ma.pdf
+https://us.edstem.org/courses/490/lessons/1198/slides/5976 | Code in Place – Lessons
+https://us.edstem.org/courses/1470/discussion/58899 | Section 470 – Discussion
+https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
+https://us.edstem.org/courses/490/lessons/1236/slides/6431 | Code in Place – Lessons
+https://compedu.stanford.edu/karel-reader/docs/python/en/reference.html | Karel Reader
+https://www.youtube.com/watch?time_continue=430&v=Y9Qi-6TWwpM&feature=emb_logo | Lecture10 - Checkers - YouTube
+https://us.edstem.org/courses/1470/discussion/58899 | Section 470 – Discussion
+https://www.youtube.com/watch?time_continue=551&v=8PCQndHgkPE&feature=emb_logo | Lecture8 - Calendar - YouTube
+https://www.youtube.com/watch?time_continue=112&v=lZ8DGnIRsng&feature=emb_logo | Lecture7 - Anatomy of a Function - YouTube
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
+https://www.youtube.com/watch?time_continue=340&v=Y_IWN4OxhlM&feature=emb_logo | Lecture6 - Guess Num and Sentinal Sum - YouTube
+
 https://compedu.stanford.edu/codeinplace/announcement/
 https://compedu.stanford.edu/codeinplace/assn0/#/splash
 
