@@ -1,6 +1,63 @@
 # Python and JavaScript Learning Resources
 
 <!--
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+https://github.com/fcurella/django-channels-react-redux
+https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
+
+https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
+
+Kushal Das
+https://pymbook.readthedocs.io/en/latest/index.html
+
+Naomi Ceder
+https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
+
+https://inventwithpython.com/ | https://inventwithpython.com
+
+https://cs50.harvard.edu/x/2020/
+
+https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
+
+https://google.github.io/styleguide/pyguide.html
+
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/nnja/status/1255592930917507072
+https://twitter.com/nnja/status/1217933709577342976
+https://www.learnpython.dev/
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+MS Python
+https://twitter.com/ch9/status/1256271884934541312
+https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
+
+MIT/Harvard
+https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
+https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
+
+
 https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
 
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
