@@ -1,6 +1,23 @@
 # Python Tools and Release Managers
 
 <!--
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+
+Telemetry
+https://en.wikipedia.org/wiki/Telemetry
+
 Anthony
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 
@@ -831,6 +848,11 @@ Shebang File
 <!--
 Apple
 
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
 pyenv?
 command line tools for xcode - Google Search
 
@@ -850,6 +872,12 @@ https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
 -->
 
 <!--
+aliases, dotfiles, Regex
+
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+http://www.linfo.org/usr_sbin.html
+
 https://github.com/topics/bash | Topic: bash
 https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
 Intro - Hello Web Books
@@ -944,6 +972,11 @@ https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 �
 <!--
 Probot and Such
 
+Probot
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+https://github.com/probot/reminders
+
+
 https://github.com/jlord/forkngo
 http://jlord.us/git-it
 https://github.com/jlord/git-it
@@ -1018,6 +1051,9 @@ GA
 https://twitter.com/natfriedman/status/1159511728704483329
 https://twitter.com/kelseyhightower/status/1159517721068916736
 
+https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
+
+https://twitter.com/webology/status/1255842961880944641
 https://mobile.twitter.com/simonw/status/1252052032019546112
 https://mobile.twitter.com/webology/status/1252052023459090432
 
@@ -1162,6 +1198,9 @@ Tools
 * [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
+PyCon Bot Tutorial
+https://twitter.com/mariatta/status/1255558164956807178
+
 https://github.com/Mariatta/github-app-tutorial
 https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
 https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
