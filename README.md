@@ -209,11 +209,7 @@ https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
 https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
 
 https://foundation.mozilla.org/
-https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
 
-https://testdriven.io/ | Test Driven Development Courses
-
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
 
 
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
@@ -221,17 +217,7 @@ https://environ-config.readthedocs.io/en/latest/ | environ-config: Application C
 Kenneth
 https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
 
-GIT
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
-
-BASH
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-
-Mac
-https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
-https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
-https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
+https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
 
 
 GH Satellite
@@ -430,16 +416,11 @@ https://twitter.com/hayleydenb/status/1257786499933728768
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 
-https://stevedower.id.au/ | Steve Dower Musings and Mutterings | Steve Dower
-https://github.com/zooba
-https://asvetlov.blogspot.com/ | Андрей Светлов
-
-https://twitter.com/MariuszFelisiak
-
 https://twitter.com/webology
 https://static.simonwillison.net
 
 https://twitter.com/housecor | Cory House  (@housecor) | Twitter
+
 https://twitter.com/levelsio
 Feross
 
@@ -943,7 +924,7 @@ High Performance Browser Networking
 https://www.redhat.com/en/blog
 
 https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design?sc_cid=70160000001273HAAQ | Microservices: An improved architecture design
+https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
 
 https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
 
@@ -952,9 +933,6 @@ http://engineering.khanacademy.org/posts/engineering-principles.htm
 
 https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
 Richard Feynman 
-
-
-http://highscalability.com/all-time-favorites/
 
 https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
 https://github.com/dastergon/awesome-sre
@@ -987,6 +965,8 @@ Useful Websites
 * [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
 <!--
+http://highscalability.com/all-time-favorites/
+
   * [Microservices Dot IO](http://microservices.io)
   * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 
@@ -1162,7 +1142,6 @@ https://github.com/sdras/night-owl-vscode-theme
 
 
 
-
 ## Open Source and Release Examples
 
 <!--
@@ -1199,10 +1178,6 @@ https://github.com/mongodb/mongo/wiki
 https://github.com/adobe/open-development-template
 -->
 
-
-
-## GitHub Tips and Pinax
-
 <!--
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
@@ -1210,63 +1185,18 @@ https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-
 Foundations
 https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
 
+http://anonymoushash.vmbrasseur.com
+
 https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
 https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
 https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
 
-https://opensource.guide/metrics/
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-
-
-http://anonymoushash.vmbrasseur.com
-http://anonymoushash.vmbrasseur.com/2017/06/30/changing-the-language/
-
-https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
-
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
-
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
 https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
 
-GitHub Tip
-https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-scheduled-reminders-for-pull-requests | Managing scheduled reminders for pull requests - GitHub Help
+https://opensource.guide/metrics/
 
-OS Distribution of User Skills
-https://twitter.com/DynamicWebPaige/status/1175930240452816896
-
-https://github.com/erikr/lessobviouschecklist
-
-Maintainer driven issues and PRs
-
-https://pypi.org/manage/projects/
-
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
-
-https://github.com/watching
-https://mobile.twitter.com/aaronbassett/status/1248353221678116864
-
-Important- Recent Activity
-https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard#finding-your-recent-activity | About your personal dashboard - GitHub Help
-
-
-https://web.archive.org/web/20171007205934/https://github.com/showcases/projects-with-great-wikis
-
-dj3
-https://github.com/d3/d3/wiki
-https://web.archive.org/web/20171206205636/https://github.com/d3/d3/wiki
-https://guides.github.com/features/wikis/
-https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2
-https://help.github.com/en/github/building-a-strong-community/editing-wiki-content
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
 
 Assessment
 https://coiled.io/blog/stages-of-openness.html
@@ -1277,6 +1207,12 @@ https://opensource.com/open-organization/20/3/communication-technology-worksheet
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
+
+https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
+
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
 
 Important!
 https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
