@@ -290,6 +290,7 @@ https://web.dev/fast/ | Fast load times
 
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
+https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
@@ -319,9 +320,6 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 https://twitter.com/js_tut/status/1259507231395110912 | JavaScript Teacher on Twitter: "Stage 1 – HTML (DOM.) Stage 2 – CSS (CSSOM, flex, grid.) Stage 3 – JavaScript / front-end. Stage 4 – git / linux cli Stage 5 – React. Stage 6 – Node. Stage 7 – Express. Stage 8 – Mongo (or MySQL.) Stage 9 – back-end xp @ your 1st job. Stage 10 – You're a Full Stack dev." / Twitter
 
 Alphine JS
-
-Web Vitals
-https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
 
 Mozilla
 https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
