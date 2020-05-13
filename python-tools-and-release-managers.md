@@ -23,6 +23,8 @@ Style
 
 https://hynek.me/articles/document-your-tests/
 
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
 Profiling
 https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
 https://github.com/asottile/importtime-waterfall/
@@ -129,8 +131,11 @@ https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
 https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
 
+https://testdriven.io/ | Test Driven Development Courses
+
 https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://testautomationu.applitools.com/python-tutorial/
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
 
 https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
@@ -1165,10 +1170,19 @@ Homebrew
 https://github.com/Linuxbrew/homebrew-core
 https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
+
+https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
+https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
+https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
 -->
 
 <!--
 aliases, dotfiles, Regex
+
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
+
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
 
 https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
 
@@ -1182,6 +1196,8 @@ https://en.wikipedia.org/wiki/Shell_script
 
 Aliases
 https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
 
 Bash
 https://www.gnu.org/software/bash/manual/
@@ -2103,29 +2119,24 @@ Python- Django- Alternative Rest Framework
 https://github.com/encode/django-rest-framework/issues
 https://github.com/encode/django-rest-framework/projects
 
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-https://github.com/marcgibbons/django-rest-swagger | marcgibbons/django-rest-swagger: Swagger Documentation Generator for Django REST Framework
--->
-
-<!--
+https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
+http://www.tomchristie.com/rest-framework-2-docs/api-guide
 https://www.django-rest-framework.org/tutorial/1-serialization/ | 1 - Serialization - Django REST framework
 
 https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
-http://www.tomchristie.com/rest-framework-2-docs/api-guide
-https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
-
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
-
-https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
-https://github.com/wsvincent/rest-framework-tutorial
-
 https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/1-vscode.md | rest-framework-tutorial/1-vscode.md at master · carltongibson/rest-framework-tutorial
 https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/2-appservice.md | rest-framework-tutorial/2-appservice.md at master · carltongibson/rest-framework-tutorial
 
 https://twitter.com/carltongibson/status/1072951282502172678 | Carlton Gibson on Twitter: "Been having fun with @code for about a year and a half. I got together with @nnja to talk about using it with Django and DRF…… https://t.co/XmFcENotrc"
 https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_continue=10&v=0Bk0dw2Ktbg | Python on Azure: Part 1—Building Django apps with Visual Studio Code | Azure Friday - YouTube
 https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+
+https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
+https://github.com/wsvincent/rest-framework-tutorial
+
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
 -->
 
 ## Serialization
