@@ -3,8 +3,29 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Anthony
+https://www.youtube.com/watch?v=C2xVBGRXiMY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=80 | (2) Infinity | Beautiful Chill Mix - YouTube
+
 "Leave people better than you found them."
 https://twitter.com/CHERdotdev/status/1257392420754542594
+
+Genographic Project
+https://genographic.nationalgeographic.com/results/dashboard# | Dashboard | Genographic Project
+https://genographic.nationalgeographic.com/results/print | Print | Genographic Project
+
+2020 MacBook Pro
+https://www.amazon.com/MacBook-Plastic-Silicone-Keyboard-Compatible/dp/B07PTY68KQ/ref=sr_1_18?dchild=1&keywords=2020+macbook+pro+case&qid=1589041446&sr=8-18 | Amazon.com: MacBook Pro 13 Case Laptop Plastic Hard Shell Cover 2020 2019 2018 2017 2016 Release A2159/A1989/A1706/A1708 with Silicone Keyboard Cover Compatible Newest Mac Pro 13 Inch (Crystal Clear): Electronics
+https://www.cnn.com/2020/05/07/cnn-underscored/macbook-pro-13-inch-2020-hands-on/index.html | 13-inch MacBook Pro Hands-On: 48 hours with $1,299 and $1,799 models - CNN
+
+ToDo
+https://twitter.com/vmbrasseur/status/1259949081876557824 | VM (Vicky) Brasseur on Twitter: "@KatiMichel @rkoutnik Thank you! If you end up liking it, I'd be grateful for a review on Amazon. It makes a much larger difference for independent authors than it probably should. :-/" / Twitter
+
+Docs
+https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating.html | Season of Docs announces participating organizations for 2020 | Google Open Source Blog
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+
+p5.js
+https://twitter.com/gr2m/status/1259962901130969088 | Gregor on Twitter: "p5.js project (@p5xjs) is still looking for a project lead: https://t.co/JKBSJKKAku - 20-40h/week contracting, remote - up $50,000 stipend for 1 year - mentorship provided - applications very welcome if you identify with groups underrepresented open-source, art, or technology" / Twitter
 
 https://github.com/KatherineMichel/100-days-of-code
 
@@ -58,11 +79,10 @@ https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Si
 https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
 https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
 
-https://github.com/feldroy/django-crash-starter
+Casey
+https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
-Python
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://github.com/feldroy/django-crash-starter
 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
@@ -78,6 +98,10 @@ hyper terminal - Google Search
 https://wesbos.com/uses/ | Uses | Wes Bos
 update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
 
 https://nuzzel.com/KatiMichel/feeds
@@ -134,6 +158,9 @@ Microsoft
 https://www.youtube.com/watch?v=gCkFkvFVLjY&feature=youtu.be
 https://discordapp.com/invite/b8YJQPx
 https://discord.com/channels/702724176489873509/702724176489873512
+
+Node
+https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
 
 CHAOSS
 
@@ -195,34 +222,40 @@ https://github.com/microservices/cli
 
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
 
+Kenneth
+https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
 
-https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
+GIT
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
 
+BASH
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
 
-
-Channels
-https://github.com/andrewgodwin/channels-examples/blob/master/multichat/chat/consumers.py
-https://twitter.com/webology/status/1255226205206429701
-
-https://github.com/simonw/datasette/issues/151
-
-https://hynek.me/articles/document-your-tests/
-
-
-Release
-[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
-https://github.com/tailwindcss/tailwindcss/discussions/1656
-
-Release
-https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+Mac
+https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
+https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
+https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
 
 
+GH Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+https://github.com/codespaces-examples | codespaces-examples
+https://cli.github.com/
+
+https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
+
+
+https://github.com/gr2m/deno-playground | gr2m/deno-playground
+https://github.com/swinton/alfred-canned | swinton/alfred-canned: Canned replies, at your fingertips
+https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
+https://github.com/marketplace/actions/stale-image-remover | Stale Image Remover · Actions · GitHub Marketplace
+
+
+Python
+https://brew.sh/ | The Missing Package Manager for macOS (or Linux) — Homebrew
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -234,6 +267,10 @@ https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams H
 
 Model Managers
 https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
+
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
 
 
 React
@@ -272,9 +309,22 @@ https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
 https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
 https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
 
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
+
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://twitter.com/js_tut/status/1259507231395110912 | JavaScript Teacher on Twitter: "Stage 1 – HTML (DOM.) Stage 2 – CSS (CSSOM, flex, grid.) Stage 3 – JavaScript / front-end. Stage 4 – git / linux cli Stage 5 – React. Stage 6 – Node. Stage 7 – Express. Stage 8 – Mongo (or MySQL.) Stage 9 – back-end xp @ your 1st job. Stage 10 – You're a Full Stack dev." / Twitter
+
+Alphine JS
+
+Web Vitals
+https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
+
+Mozilla
+https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
 
 https://www.cosmicpython.com/
 
@@ -974,6 +1024,8 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+
 https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
 
 Lists
@@ -1111,6 +1163,77 @@ https://github.com/adobe/open-development-template
 
 
 <!--
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2020-release/ | Python in Visual Studio Code – May 2020 Release | Python
+https://code.visualstudio.com/updates/v1_45 | Visual Studio Code April 2020
+
+https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
+
+https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
+
+https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
+all-repos
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+Flake8
+https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
+https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
+https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
+
+https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Mariatta
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+pycodestyle
+https://pypi.org/project/mousebender/ | mousebender · PyPI
+
+https://nextjs.org/ | Next.js by Vercel - The React Framework
+https://nextjs.org/blog/next-9-4 | Blog - Next.js 9.4 | Next.js
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+
+https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
+https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
+
+https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
+
+
+Python
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+
+https://github.com/NHSX | NHSX
+
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+
+https://pypi.org/project/pluggy/ | pluggy · PyPI
+
+https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
+https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
+
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+
+https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
+
+Release
+[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
+https://github.com/tailwindcss/tailwindcss/discussions/1656
+
+Release
+https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+
 lyftvm
 mergebot
 https://engineering.linkedin.com/blog/2020/continuous-integration
@@ -2157,6 +2280,11 @@ Event Paradigm
 * [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
 
 <!--
+https://twitter.com/carltongibson/status/1259466017358647296 | Carlton Gibson 🇪🇺 on Twitter: "The older I get the more I think, optimise for the beginner’s use-case." / Twitter
+
+Discussions
+https://twitter.com/_tomchristie/status/1259781217685307392 | Tom Christie on Twitter: "Don't know when it'll land, but I'm *really* looking forward to @GitHub's "discussions" feature. Going to put up a nice big sign in front of issues directing users to the discussions tab as the starting point, and ensure that the maintenance team gets to decide what to escalate." / Twitter
+
 Maintainer driven issues and PRs
 https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
 https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
