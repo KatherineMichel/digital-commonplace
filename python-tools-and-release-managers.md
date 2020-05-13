@@ -1,14 +1,21 @@
 # Python Tools and Release Managers
 
 <!--
+https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
+
+all-repos
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+Flake8
+
+Mariatta
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+
+https://pypi.org/project/mousebender/ | mousebender · PyPI
+https://pypi.org/project/pluggy/ | pluggy · PyPI
+
 https://github.com/anthonywritescode/twitch-chat-bot
 
 https://github.com/asottile/onigurumacffi/pull/20/files
-
-lyftvm
-mergebot
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
 
 Style
 * [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
@@ -161,6 +168,13 @@ Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
 <!--
+lyftvm
+
+mergebot
+
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
+
 Carl Meyer talk
 https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
 Talks
@@ -243,26 +257,6 @@ https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on
 -->
 
 <!--
-https://github.com/NHSX | NHSX
-
-https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
-
-all-repos
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-Flake8
-
-Mariatta
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-
-https://pypi.org/project/mousebender/ | mousebender · PyPI
-https://pypi.org/project/pluggy/ | pluggy · PyPI
-
-
-https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
-
-https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
-
-
 Homebrew Analytics
 https://github.com/Homebrew/homebrew-formula-analytics
 
@@ -322,6 +316,10 @@ pre-commit
 https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
 
 https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
+
+https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
+
+https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
 
 https://www.npmjs.com/package/standard | standard - npm
 https://docs.npmjs.com/packages-and-modules/
