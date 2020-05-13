@@ -3,23 +3,16 @@
 <!--
 https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
 
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
 all-repos
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
 Flake8
-
-Mariatta
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-
-https://pypi.org/project/mousebender/ | mousebender · PyPI
-https://pypi.org/project/pluggy/ | pluggy · PyPI
 
 https://github.com/anthonywritescode/twitch-chat-bot
 
 https://github.com/asottile/onigurumacffi/pull/20/files
 
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
 https://hynek.me/articles/document-your-tests/
 
@@ -39,8 +32,11 @@ Telemetry
 https://en.wikipedia.org/wiki/Telemetry
 
 
-Anthony
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+Mariatta
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+
+https://pypi.org/project/mousebender/ | mousebender · PyPI
+https://pypi.org/project/pluggy/ | pluggy · PyPI
 
 
 Tools
@@ -54,9 +50,6 @@ https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguid
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 
 cross linter - Google Search
-
-CLI
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
 -->
 
 <!--
@@ -207,6 +200,10 @@ Django Architecture and Scaling
 * [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
 
 ## Python Non-Official Styleguides and Code Formatting
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
 Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
@@ -990,6 +987,7 @@ https://github.com/pypa/pip/blob/master/tasks/generate.py
 * [Chalk GitHub](https://github.com/chalk/chalk)
 
 <!--
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
 https://github.com/google/python-fire
 
 http://click.pocoo.org/5/contrib/
