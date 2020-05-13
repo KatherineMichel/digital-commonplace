@@ -1070,6 +1070,8 @@ Marketplaces
 * [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 
 <!--
+https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
+
 https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
 
 https://github.com/microsoft/vscode
@@ -1160,234 +1162,13 @@ https://github.com/adobe/open-development-template
 -->
 
 
-<!--
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2020-release/ | Python in Visual Studio Code – May 2020 Release | Python
-https://code.visualstudio.com/updates/v1_45 | Visual Studio Code April 2020
-
-https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
-
-https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
-
-https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
-all-repos
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-Flake8
-https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
-https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
-https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
-
-https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-Mariatta
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-pycodestyle
-https://pypi.org/project/mousebender/ | mousebender · PyPI
-
-https://nextjs.org/ | Next.js by Vercel - The React Framework
-https://nextjs.org/blog/next-9-4 | Blog - Next.js 9.4 | Next.js
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-
-https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
-https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
-
-https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
-
-
-Python
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-
-https://github.com/NHSX | NHSX
-
-https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
-https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
-
-
-https://pypi.org/project/pluggy/ | pluggy · PyPI
-
-https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
-https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
-
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-
-https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
-
-https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
-
-Release
-[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
-https://github.com/tailwindcss/tailwindcss/discussions/1656
-
-Release
-https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-
-lyftvm
-mergebot
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-https://github.com/todogroup/awesome-oss-mgmt
-
-
-Homebrew Analytics
-https://github.com/Homebrew/homebrew-formula-analytics
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-High traffic projects
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://octoverse.github.com/2018/
-https://octoverse.github.com/2017/
-https://octoverse.github.com/2016/#organizations
-
-
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
-
-node.js Release Schedule
-https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
-https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
-https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
-https://nodejs.org/en/about/releases/
-https://nodejs.org/en/about/working-groups/
-https://github.com/nodejs/Release
-
-Microsoft
-https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://opensource.guide/
-https://primer.style/doctocat/usage/deployment
-
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-MS OS
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-https://twitter.com/Carnage4Life/status/1207411078658842624 | Dare Obasanjo on Twitter: "Microsoft Research came up with an A.I. model to predict the number of bugs in a code base and the top predictors in order of accuracy were - company org structure - code churn - code complexity - dependencies - code coverage Anyone else not surprised? https://t.co/8Y6KXxguOi" / Twitter
-https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ | The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
-
-Ansible
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
-
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
-
-
-node as Example
-https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
-
-Gatsby Case Study
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/gatsbyjs
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-Google Chrome Ship
-https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
-
-Azure OS
-https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
-https://azure.microsoft.com/en-us/roadmap/?v=17.23h
-
-VS Code OS and Release
-https://github.com/github/VisualStudio/releases
-https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
-https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-
-.NET Release Examples
-https://github.com/dotnet/core/blob/master/roadmap.md
-http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
-https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
-https://github.com/dotnet/core/tree/master/release-notes
-https://github.com/dotnet/designs
-https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
-https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
-
-MS Edge
-https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
-
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
-
-Examples
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
-https://github.com/zeit/next.js/blob/canary/contributing.md
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-
-
-https://news.ycombinator.com/item?id=22920437
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-https://github.com/simonw/til
-
-https://twitter.com/simonw/status/1250651420660871168
-https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
-
-Simon- Release
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
-https://github.com/dogsheep/github-to-sqlite/releases
-
-
-https://medium.com/tag/release-notes
-https://medium.com/medium-release-notes | Medium Release Notes – Medium
-https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
-
-https://keepachangelog.com/en/1.0.0/
-
-Links change log lines to PRs
-
-Types of changes
-Added for new features.
-Changed for changes in existing functionality.
-Deprecated for soon-to-be removed features.
-Removed for now removed features.
-Fixed for any bug fixes.
-Security in case of vulnerabilities.
--->
 
 ## GitHub Tips and Pinax
 
 <!--
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
 Foundations
 https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
 
@@ -1775,6 +1556,11 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
   
 <!--
+https://github.com/todogroup/awesome-oss-mgmt
+
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
 https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
 https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
 https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
