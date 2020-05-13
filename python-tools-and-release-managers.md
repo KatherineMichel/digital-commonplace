@@ -784,15 +784,15 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 
 ## Release Management
 
-Software Release Life Cycle
+Software Release Life Cycle and Versioning
 * [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
 
 Release Management
 * [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
 * [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
-* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
-* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
 * [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
 
 Software Versioning and Semver (See also: npm packages)
@@ -802,6 +802,9 @@ Software Versioning and Semver (See also: npm packages)
 * [ZeroVer](https://0ver.org)
 
 <!--
+Pinax
+https://en.wikipedia.org/wiki/Software_versioning#Release_train
+
 SemVer Criticism
 https://twitter.com/hynek/status/1235848177640542214
 
@@ -860,6 +863,7 @@ command line tools for xcode - Google Search
 
 ZSH	
 https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/hmml/awesome-zsh
 https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
 
 https://www.iterm2.com/
@@ -879,10 +883,6 @@ aliases, dotfiles, Regex
 https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
 
 http://www.linfo.org/usr_sbin.html
-
-https://github.com/topics/bash | Topic: bash
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
 
 https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
 https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
@@ -904,23 +904,25 @@ http://www.tldp.org/LDP/abs/html/why-shell.html
 File security
 http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
 
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-https://en.wikipedia.org/wiki/Regular_expression
-
-Command line
-https://hellowebbooks.com/news/command-line-zine-launch/ | First free zine on command line basics has launched today! - Hello Web Books
+https://github.com/topics/bash | Topic: bash
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
 
 Bash versus Python
 https://opensource.com/article/19/4/bash-vs-python
 https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
+
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+
+https://en.wikipedia.org/wiki/Regular_expression
+
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+http://www.yaml.org/refcard.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
 
 Dotfiles
 https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
