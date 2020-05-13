@@ -96,9 +96,6 @@ https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1
 https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-
-William
-https://djangoforprofessionals.com/ | Django for Professionals
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
 
 Wes Bos
@@ -208,29 +205,16 @@ https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JI
 https://www.inkandswitch.com/end-user-programming.html | End-user programming
 
 
-https://www.redhat.com/en/blog
 https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
-https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
-
-https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design?sc_cid=70160000001273HAAQ | Microservices: An improved architecture design
 https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
+
+https://foundation.mozilla.org/
+https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
 
 https://testdriven.io/ | Test Driven Development Courses
 
 https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
 
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-
-http://engineering.khanacademy.org/posts/engineering-principles.htm
-
-  * [Microservices Dot IO](http://microservices.io)
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
-
-https://github.com/microservices/cli
 
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
 
@@ -335,8 +319,6 @@ Alphine JS
 
 Mozilla
 https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
-
-https://www.cosmicpython.com/
 
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
@@ -926,17 +908,6 @@ https://devguide.python.org/devcycle/
 
 ## To Read- Patterns
 
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-
-Architectures
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-
-Hawt
-* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-
 Refactoring
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Refactoring Catalog](https://refactoring.com/catalog/)
@@ -969,6 +940,20 @@ High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
 <!--
+https://www.redhat.com/en/blog
+
+https://www.redhat.com/en/resources/digital-transformation-ebook
+https://www.redhat.com/en/resources/microservices-improved-architecture-design?sc_cid=70160000001273HAAQ | Microservices: An improved architecture design
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+
+
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
+
+
 http://highscalability.com/all-time-favorites/
 
 https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
@@ -988,17 +973,58 @@ https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-it
 https://www.coursera.org/learn/devops-culture-and-mindset
 -->
 
-## Jez Humble
+## Philosophies
+
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
+* [Open Microservices Guide](https://openmicroservices.org/)
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
 <!--
-Related
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+https://github.com/microservices/cli
 
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+-->
+
+## General Software Design Patterns
+
+## Architectures
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+Architectures
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
+
+<!--
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Messaging_pattern
+
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
 -->
 
 ## Choices
@@ -1827,6 +1853,19 @@ https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
+## Jez Humble
+
+<!--
+Related
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+-->
+
 ## Other Interesting
 
 Incident Response
@@ -1991,58 +2030,6 @@ Company or Organization Specific Git Workflows
 
 <!--
 https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
--->
-
-## Philosophies
-
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
-* [Open Microservices Guide](https://openmicroservices.org/)
-
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
-<!--
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
--->
-
-## General Software Design Patterns
-
-## Architectures
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
-
-Architectures
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
-
-<!--
-Case Study
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/
-
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
-
-Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
-https://en.wikipedia.org/wiki/Software_architecture
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Messaging_pattern
-
-https://en.wikipedia.org/wiki/Request%E2%80%93response
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
 -->
 
 ## X Driven Development
