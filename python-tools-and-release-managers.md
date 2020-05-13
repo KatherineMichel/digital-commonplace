@@ -20,21 +20,9 @@ https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmark
 Telemetry
 https://en.wikipedia.org/wiki/Telemetry
 
+
 Anthony
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-
-Release
-https://www.twitch.tv/anthonywritescode
-https://github.com/anthonywritescode/twitch-chat-bot
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
-https://twitter.com/codewithanthony/status/1255261241880252417
-https://github.com/asottile/onigurumacffi/pull/20/files
-https://twitter.com/codewithanthony/status/1256274470076993536
-https://cffi.readthedocs.io/en/latest/
-https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
-
-Distro
-http://distrowatch.com/table.php?distribution=ubuntu
 
 
 Tools
@@ -43,12 +31,6 @@ https://twitter.com/simonw/status/1248628140445855745
 
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
-GA
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
-https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: Switches back to entrypoint.sh · jefftriplett/python-actions@334b8e0
-https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
-https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
 
 https://github.com/ambv/commonplace/ | ambv/commonplace: A basic Python-based publishing platform based around the idea of commonplace books
 https://twitter.com/llanga/status/1250370834558078979 | Łukasz Langa on Twitter: "At EdgeDB we're starting a series of videos that showcase some parts of our tech stack. We begin with #Python's #AsyncIO. Have you heard of it but aren't sure what the big deal is? Would you like to learn it at your own pace? Try our YouTube channel: https://t.co/etIgRGIiZl" / Twitter
@@ -241,6 +223,19 @@ https://github.com/python/cpython/graphs/contributors
 
 <!--
 Release Examples
+
+Release
+https://www.twitch.tv/anthonywritescode
+https://github.com/anthonywritescode/twitch-chat-bot
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+https://twitter.com/codewithanthony/status/1255261241880252417
+https://github.com/asottile/onigurumacffi/pull/20/files
+https://twitter.com/codewithanthony/status/1256274470076993536
+https://cffi.readthedocs.io/en/latest/
+https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
+
+Distro
+http://distrowatch.com/table.php?distribution=ubuntu
 
 flake8
 https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
@@ -746,6 +741,7 @@ Technical
 
 ## Software Life Cycle and Release Management
 
+Interesting!
 Software Development Philosophies and Process
 * [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
 * [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
@@ -764,7 +760,7 @@ Continuousness
 Continuous Integration Software
 * [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
 
-Automation
+Automation (includes Make)
 * [Build Automation Wikipedia](https://en.wikipedia.org/wiki/Build_automation)
 
 Other Stuff
@@ -784,22 +780,23 @@ https://developer.github.com/v3/repos/releases/#create-a-release | Releases | Gi
 
 ## Release Management
 
-Software Release Life Cycle and Versioning
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-* [Release Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
-
 Release Management
 * [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
 * [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
 * [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
-* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+
+Software Release Life Cycle and Versioning
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
 
 Software Versioning and Semver (See also: npm packages)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
 * [CalVer](https://calver.org)
 * [ZeroVer](https://0ver.org)
+
+Not what I thought
+* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
 
 <!--
 Pinax
@@ -1064,6 +1061,11 @@ https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 o
 https://twitter.com/webology/status/1255842961880944641
 https://mobile.twitter.com/simonw/status/1252052032019546112
 https://mobile.twitter.com/webology/status/1252052023459090432
+
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: Switches back to entrypoint.sh · jefftriplett/python-actions@334b8e0
+https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
+https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
 
 https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
 https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
