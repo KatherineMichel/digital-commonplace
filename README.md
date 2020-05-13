@@ -632,13 +632,13 @@ Top Links of All Times
 * [Hacker News Classics](http://jsomers.net/hn)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
-Look at Daily
+Hacker News and Lobsters
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
 * [Lobsters](https://lobste.rs)
 
-Look at Often
+Product Hunt
 * [Product Hunt](https://www.producthunt.com)
 * [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
 
