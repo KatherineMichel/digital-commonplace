@@ -58,6 +58,27 @@ https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Si
 https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
 https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
 
+https://github.com/feldroy/django-crash-starter
+
+Python
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
+Wes Bos
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+https://wesbos.com/uses/ | Uses | Wes Bos
+update node and npm - Google Search
+https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
+
 
 https://nuzzel.com/KatiMichel/feeds
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
@@ -130,35 +151,6 @@ https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 
-https://github.com/feldroy/django-crash-starter
-
-Python
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
-
-Wes Bos
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-https://wesbos.com/uses/ | Uses | Wes Bos
-update node and npm - Google Search
-https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
-
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-
-https://twitter.com/hayleydenb/status/1257786499933728768
-
-
 Philosophy of CS
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 
@@ -175,25 +167,6 @@ https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we
 https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
 
 https://www.inkandswitch.com/end-user-programming.html | End-user programming
-
-
-
-
-https://github.com/python/mypy
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
-
-Release
-https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
 
 
 https://www.redhat.com/en/blog
@@ -220,6 +193,8 @@ Richard Feynman
 
 https://github.com/microservices/cli
 
+https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
+
 
 https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
@@ -231,17 +206,21 @@ https://twitter.com/webology/status/1255226205206429701
 
 https://github.com/simonw/datasette/issues/151
 
-
 https://hynek.me/articles/document-your-tests/
 
-https://www.cosmicpython.com/
-
-Web Vitals
-https://twitter.com/ChromiumDev/status/1257701879242514433
 
 Release
 [Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
 https://github.com/tailwindcss/tailwindcss/discussions/1656
+
+Release
+https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
 
 
 
@@ -272,6 +251,9 @@ https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets 
 
 https://web.dev/fast/ | Fast load times
 
+Web Vitals
+https://twitter.com/ChromiumDev/status/1257701879242514433
+
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
@@ -294,6 +276,7 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkama
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
+https://www.cosmicpython.com/
 
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
@@ -350,6 +333,8 @@ https://mobile.twitter.com/sriramk/status/1249860579994435585
 https://mobile.twitter.com/seanrose/status/1249863535414218752
 https://mobile.twitter.com/stevesi/status/1249862470006493184
 
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
 Lean Enterprise
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
@@ -392,6 +377,13 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 
 <!--
 GitHub App/Probot people
+
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
+
+https://twitter.com/hayleydenb/status/1257786499933728768
 
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
