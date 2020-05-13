@@ -6,6 +6,65 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 "Leave people better than you found them."
 https://twitter.com/CHERdotdev/status/1257392420754542594
 
+https://github.com/KatherineMichel/100-days-of-code
+
+Content
+https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
+https://opensource.com/how-submit-article | Write for us | Opensource.com
+https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
+https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
+
+https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
+https://twitter.com/jessejiryudavis/status/1256375104205971461
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
+
+Courses and practice
+https://leetcode.com
+https://www.hackerrank.com/home
+https://www.hackerrank.com/challenges/capitalize/problem
+Brian Holt, Frontend Masters
+Traversy Media
+
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
+https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
+real python python basics pdf - Google Search
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+
+https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
+
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
+100 Days of Code
+https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
+https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
+
+https://nuzzel.com/KatiMichel/feeds
+https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
+
+Stars
+* [Astral App](https://astralapp.com)
+
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
@@ -15,12 +74,6 @@ Fitness
 https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
 https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
 
-https://www.coursera.org/learn/the-science-of-well-being
-https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
-
-Meditation
-https://open.spotify.com/episode/3QJB7pBDKQ0t4RzULt6HW1?si=FbVf7An7Rra0rUax0_FCUA | Spotify – Home
-
 Eyes
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
@@ -29,11 +82,6 @@ http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building
 https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
 https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 
-https://nuzzel.com/KatiMichel/feeds
-https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
-
-Stars
-* [Astral App](https://astralapp.com)
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
@@ -52,8 +100,8 @@ https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 
 Packaging Summit
-Language Summit
 https://us.pycon.org/2020/events/languagesummit/
+https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
 
 PyCon
 https://us.pycon.org/2020/remote/
@@ -75,56 +123,13 @@ https://events.linuxfoundation.org/open-source-summit-north-america/
 https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
-
-https://www.sec.gov/Archives/edgar/data/1418091/000141809120000089/twtr-20200331.htm
 
 https://nesslabs.com/roam-research-bookmarklet
 https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
 
-https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
-https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
-https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
-https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
-
-Content-creating flywheel
-https://twitter.com/sarahleary/status/1255321982029234176
-https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
-
-https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
-http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
-
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
-Product Hunt Stats
-https://www.producthunt.com/e/the-1000-club | The 1000 Club | Product Hunt
-https://twitter.com/PHTop5 | Product Hunt Top 5 😻 (@PHTop5) / Twitter
-https://www.producthunt.com/e/the-almost-1000-club | The Almost 1000 Club - Product Hunt
-https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
 
-https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
-https://upcoming.org/about | About - Upcoming
-
-http://ryanhoover.me/post/99742063783/dumb-apps | Dumb Apps | Ryan Hoover
-
-https://www.inkandswitch.com/end-user-programming.html | End-user programming
-
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-
-https://womenmake.com/ | Women Make
-
-https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-Content
-https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
-https://opensource.com/how-submit-article | Write for us | Opensource.com
-https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
-https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
-
-Order Alpha
-https://twitter.com/pydanny/status/1226937149485768704
 https://github.com/feldroy/django-crash-starter
 
 Python
@@ -154,14 +159,6 @@ http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 https://twitter.com/hayleydenb/status/1257786499933728768
 
 
-  * [Microservices Dot IO](http://microservices.io)
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
-
-https://github.com/microservices/cli
-
 Philosophy of CS
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 
@@ -175,31 +172,24 @@ https://www.weforum.org/agenda/2016/04/the-17-equations-that-changed-the-world
 
 https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
 
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
 https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
 
+https://www.inkandswitch.com/end-user-programming.html | End-user programming
 
+
+
+
+https://github.com/python/mypy
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
 
 Release
 https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
 
-ICT
-https://docs.google.com/forms/d/e/1FAIpQLSeXGTAaWxulCGMXYd-B34PAqWC2aYKmvK5YPgYTdmVxzi7Adw/viewform | SWE Women Engineers You Should Know
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html
-https://swooshing.wordpress.com/2008/12/30/bootstrappers-guide-to-ces/
-
-Gutenberg
-https://ma.tt/2018/11/a-gutenberg-faq/ | WordPress 5.0: A Gutenberg FAQ – Matt Mullenweg
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
 Sarah
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
@@ -222,83 +212,50 @@ https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
 
 http://engineering.khanacademy.org/posts/engineering-principles.htm
 
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
 
-https://twitter.com/jacobian/status/737441987587018752 | jacobian on Twitter: "@laceynwilliams @adriennefriend I've literally given up on ideas because I couldn't figure out how to get my dev env together."
+https://github.com/microservices/cli
 
-https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
-
-https://twitter.com/webology/status/925376216961638400 | Jeff Triplett ✨ on Twitter: "TIL: `git whatchanged`... wow"
 
 https://github.com/pre-commit/pre-commit/blob/450d617dece6e2a8805b7333326b3c17d69dec24/.pre-commit-config.yaml#L14-L17
 
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
 
-http://www.linfo.org/usr_sbin.html
-https://en.wikipedia.org/wiki/Shebang_(Unix)
-https://support.apple.com/en-us/HT201236
 
-Docs- Important!
-minimum viable documentation
-https://documentation.divio.com/
-https://twitter.com/webology/status/1257759193743929347
-https://docs.fast.ai/gen_doc_main.html
-
-https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
-https://twitter.com/jessejiryudavis/status/1256375104205971461
-https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
-
-https://www.jetbrains.com/lp/python-developers-survey-2019/
-
-https://github.com/python/mypy
-
-Encode
-https://www.encode.io/reports/april-2020
-https://twitter.com/_tomchristie/status/1256210735056785409
-
-https://tutorial.edgedb.com/
-
-https://twitter.com/raymondh/status/1257431141482708994
-https://www.youtube.com/watch?v=FvNRlE4E9QQ
-http://alloytools.org/
-
-[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
-https://github.com/tailwindcss/tailwindcss/discussions/1656
-
-Django Core
-https://twitter.com/emilyemorehouse/status/1256312207358357504
-
-"In @ChatDjango episode 16 - “Django Admin” you mentioned you wanted to do a video series whiteboarding the models for famous websites. "
-https://twitter.com/Chris2Brooks/status/1257636370476130305
-
-Bot
-https://twitter.com/mariatta/status/1255558164956807178
-
-GA
-https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
-https://github.com/probot/reminders
-https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
+Channels
 https://github.com/andrewgodwin/channels-examples/blob/master/multichat/chat/consumers.py
-https://twitter.com/webology/status/1255842961880944641
-https://twitter.com/webology/status/1255842961880944641
 https://twitter.com/webology/status/1255226205206429701
 
 https://github.com/simonw/datasette/issues/151
 
-pystrftime.com
-https://twitter.com/webology/status/1255550229446828032
 
 https://hynek.me/articles/document-your-tests/
 
 https://www.cosmicpython.com/
 
-https://twitter.com/theavalkyrie/status/1257469771202715648
-
-https://docs.fast.ai/gen_doc_main.html
-
+Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
+
+Release
+[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
+https://github.com/tailwindcss/tailwindcss/discussions/1656
+
+
+
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
+
+Model Managers
+https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
+
 
 React
 https://www.npmjs.com/package/npx | npx
@@ -306,147 +263,6 @@ https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitt
 https://github.com/facebook/metro-bundler
 https://github.com/salesforce/eslint-plugin-lwc
 https://github.com/coryhouse/mock-api-example
-
-PHP
-https://twitter.com/KatiMichel/status/1257133245864402945
-
-Sqlite
-https://twitter.com/brettsky/status/1256026919151169536
-
-
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
-
-AMD
-Arm, Intel
-https://newsroom.intel.com
-ACM Library
-https://dl.acm.org/
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-
-http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
-clrs algorithms
-Refactoring, TDD
-Trade Offs
-
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-Shortcuts
-Zsh, Bash, aliases, dotfiles, Make, YAML, Regex
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
-
-Telemetry
-https://en.wikipedia.org/wiki/Telemetry
-
-
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
-
-https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
-
-Kushal Das
-https://pymbook.readthedocs.io/en/latest/index.html
-
-Naomi Ceder
-https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
-
-https://inventwithpython.com/ | https://inventwithpython.com
-
-https://cs50.harvard.edu/x/2020/
-
-https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
-
-https://google.github.io/styleguide/pyguide.html
-
-https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
-https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
-
-Good Print, hello debugger, DjangoCon
-https://twitter.com/nnja/status/1255592930917507072
-https://twitter.com/nnja/status/1217933709577342976
-https://www.learnpython.dev/
-https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
-Nina
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
-MS Python
-https://twitter.com/ch9/status/1256271884934541312
-https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
-https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
-
-MIT/Harvard
-https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
-https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
-
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
-
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
-
-https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
-
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
-https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
-real python python basics pdf - Google Search
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
-
-
-Courses and practice
-https://leetcode.com
-https://www.hackerrank.com/home
-https://www.hackerrank.com/challenges/capitalize/problem
-Brian Holt, Frontend Masters
-Traversy Media
-
-Shortcuts, VS Code
-
-100 Days of Code
-https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
-
-https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
-https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
-https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
-
-https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
@@ -478,7 +294,6 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkama
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
@@ -487,23 +302,6 @@ https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SI
 
 Strategy pattern
 https://twitter.com/joelnet/status/1256229458295619585
-
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-https://github.com/fcurella/django-channels-react-redux
-https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
-
-https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
-
-Model Managers
-https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
-
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
@@ -524,9 +322,28 @@ https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 Docker
 https://github.com/docker/compose/issues/3729
 
+PHP
+https://twitter.com/KatiMichel/status/1257133245864402945
 
-Casey
-https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+Sqlite
+https://twitter.com/brettsky/status/1256026919151169536
+
+http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
+clrs algorithms
+Refactoring, TDD
+Trade Offs
+
+set theory and databases - Google Search
+https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
+
+AMD
+Arm, Intel
+https://newsroom.intel.com
+ACM Library
+https://dl.acm.org/
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
 
 PM
 https://mobile.twitter.com/sriramk/status/1249860579994435585
@@ -536,6 +353,18 @@ https://mobile.twitter.com/stevesi/status/1249862470006493184
 Lean Enterprise
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
+
+https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
+https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
+https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
+https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
+
+Content-creating flywheel
+https://twitter.com/sarahleary/status/1255321982029234176
+https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
+
+https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
+http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
 
 https://www.nngroup.com
 
@@ -562,6 +391,8 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 
 
 <!--
+GitHub App/Probot people
+
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 
@@ -769,9 +600,13 @@ Look at Daily
 
 Look at Often
 * [Product Hunt](https://www.producthunt.com)
+* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
 
 Product Hunt Leader Boards
 * [Hunts.xyz](https://hunts.xyz)
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
 * [Top 500 Hunters](http://500hunters.com)
@@ -788,14 +623,24 @@ https://www.techopedia.com/it-terms/1
 -->
 
 <!-- 
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+
 https://repl.it/leaders | Repl.it - Leaderboard
 
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://womenmake.com/ | Women Make
+https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
 
 https://24hrstartup.com/ | The 24 Hour Startup Challenge
 -->
 
 <!--
+https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
+https://upcoming.org/about | About - Upcoming
+
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
 https://www.producthunt.com/makers-festival/wfh
 https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
 
@@ -935,6 +780,19 @@ GitHub
 * [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 * [GitHub YouTube](https://www.youtube.com/user/github/videos)
 
+<!--
+Events
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://securitylab.github.com/events
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+-->
+
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
 
@@ -952,6 +810,12 @@ Google Open Source Guides
 ## To Read- Technical Writing
 
 <!--
+Docs- Important!
+minimum viable documentation
+https://documentation.divio.com/
+https://twitter.com/webology/status/1257759193743929347
+https://docs.fast.ai/gen_doc_main.html
+
 https://en.wikipedia.org/wiki/Five_Ws
 
 http://www.writethedocs.org/
@@ -1216,15 +1080,11 @@ https://github.com/sdras/night-owl-vscode-theme
 
 
 
+
 ## Open Source and Release Examples
 
 <!--
-lyftvm
-mergebot
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-https://github.com/todogroup/awesome-oss-mgmt
+Doc Examples
 
 Very interested- Postmortem
 https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
@@ -1255,6 +1115,16 @@ Wiki
 https://github.com/mongodb/mongo/wiki
 
 https://github.com/adobe/open-development-template
+-->
+
+
+<!--
+lyftvm
+mergebot
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
+
+https://github.com/todogroup/awesome-oss-mgmt
 
 
 Homebrew Analytics
@@ -1368,6 +1238,7 @@ https://github.com/zeit/next.js/blob/canary/contributing.md
 Example Notes
 https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
 
+
 https://news.ycombinator.com/item?id=22920437
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 https://github.com/simonw/til
@@ -1384,7 +1255,9 @@ https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
 https://github.com/dogsheep/github-to-sqlite/releases
 
 
+https://medium.com/tag/release-notes
 https://medium.com/medium-release-notes | Medium Release Notes – Medium
+https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
 
 https://keepachangelog.com/en/1.0.0/
 
@@ -1588,31 +1461,19 @@ GitHub Developer
 GitHub Services- Deprecated
 * [Service GitHub](https://github.com/github/github-services)
 
+GitHub Community
+* [GitHub Community](https://github.community/)
+
 <!--
-https://github.community/
+https://resources.github.com/webcasts/
+https://resources.github.com/whitepapers/
+https://experiments.github.com
 
-https://www.youtube.com/user/github/videos | GitHub - YouTube
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
+Reports
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
 https://github.com/ten | Thank you for making 10 years of GitHub possible
 https://github.com/blog/2401-the-github-diversity-report	
-
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
-
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-https://resources.github.com/webcasts/
-https://resources.github.com/whitepapers/
-https://experiments.github.com
 
 https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
 https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
@@ -1622,6 +1483,8 @@ https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twi
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
 
 https://primer.style/css/ | Primer CSS
 https://github.com/primer | Primer
@@ -1639,11 +1502,12 @@ https://github.com/sponsors | GitHub Sponsors
 -->
 
 <!--
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
+
 Matrix- Operating Systems (Unix, Linux, etc.)
 https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's Blog: The Life of a GitHub Action
 
 https://circleci.com/docs/2.0/migrating-from-github/
-
 
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
 
@@ -2706,6 +2570,7 @@ Sleep
 https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
 
 https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
 
 https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
 
