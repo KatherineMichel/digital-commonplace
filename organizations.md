@@ -1,19 +1,62 @@
 # Organizations
 
 <!--
-https://github.com/Azure
+https://github.com/NHSX
+
 https://github.com/cumulusnetworks/ | Cumulus Networks
-https://github.com/datacamp/
 https://github.com/DataDog | Datadog, Inc.
-https://github.com/divio | Divio
 https://github.com/Hacker0x01/
 https://github.com/HangarOrg/
-https://github.com/internetarchive | Internet Archive
-https://github.com/kayak | KAYAK
-https://github.com/nasa-jpl
+
+DevRel
 https://github.com/nexmo | Nexmo
-https://github.com/OWASP | OWASP
 https://github.com/TwilioDevEd
+
+Public Interest
+https://github.com/OWASP | OWASP
+-->
+
+## Django Consulting Firms
+
+Python and Django Consulting Firm GitHub Accounts
+* [Caktus Group GitHub](https://github.com/caktus) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
+* [Changeset Consulting](https://changeset.nyc)
+* [Cuttlesoft GitHub](https://github.com/cuttlesoft) and [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
+* [Divio GitHub](https://github.com/divio) and [Divio Blog](https://www.divio.com/blog)
+* [Eldarion GitHub](https://github.com/eldarion) and [Eldarion Blog](http://eldarion.com/blog)
+* [JamBon Software GitHub](https://github.com/jambonsw) and [JamBon Software](http://www.jambonsw.com)
+* [Lincoln Loop GitHub](https://github.com/lincolnloop) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Pinax](https://pinaxproject.com) and [Pinax Blog](http://blog.pinaxproject.com)
+* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
+* [Torchbox GitHub](https://github.com/torchbox) and [Torchbox Blog](https://torchbox.com/blog)
+* [Truthful Technology GitHub](https://github.com/TruthfulTechnology) and [Truthful Technology](https://truthful.technology)
+* [Vinta Software GitHub](https://github.com/vintasoftware) and [Vinta Blog](https://www.vinta.com.br/blog)
+
+## Major Organizations and Projects that Use Django
+
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
+
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
 ## Companies that Use Python
@@ -125,30 +168,6 @@ walt disney animations tudios
 * [Wayfair](https://github.com/wayfair)
 * [Yandex](https://github.com/yandex)
 * [Yelp](https://github.com/Yelp) 
--->
-
-Major Organizations and Projects that Use Django
-* [18F GitHub](https://github.com/18F)  
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Disqus](https://github.com/disqus)
-* [Instagram GitHub](https://github.com/instagram)  
-* [Knight Foundation](http://www.knightfoundation.org/apps)  
-* [Mozilla GitHub](https://github.com/mozilla)
-* [National Geographic GitHub](https://github.com/natgeo)  
-* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-* [PBS GitHub](https://github.com/pbs)  
-* [Pinterest GitHub](https://github.com/pinterest)  
-* [Rdio GitHub](https://github.com/rdio)  
-* [Reddit GitHub](https://github.com/reddit)  
-* [Rover GitHub](https://github.com/roverdotcom)
-* [StyleSeat GitHub](https://github.com/styleseat) 
-* [The Spokesman Review](http://www.spokesman.com)
-* [Wharton GitHub](https://github.com/wharton)
-* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
-
-<!--
-http://www.spokesman.com/staff/
-http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
 ## Large Scale Machine Learning and Data Science
@@ -304,9 +323,11 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [ASP.NET](https://github.com/aspnet)
 * [Microsoft](https://github.com/Microsoft) 
-* [Microsoft Azure](https://github.com/azure)
 * [Microsoft Graph](https://github.com/microsoftgraph)
 * [Office Dev](https://github.com/OfficeDev)
+
+Azure
+* [Azure](https://github.com/azure)
 * [Windows Azure](https://github.com/WindowsAzure) 
 
 ### Mozilla
@@ -587,12 +608,13 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Uber Web](https://github.com/uber-web ) 
 * [Uber Go](https://github.com/uber-go)
 
-### Housing and Hospitality
+### Travel, Housing, Hospitality
 
 * [Airbnb](https://github.com/airbnb)  
 * [Airbus SecLab](https://github.com/airbus-seclab)
 * [Airbnb: Crowdtilt](https://github.com/Crowdtilt) 
 * [HotelTonight](https://github.com/hoteltonight)
+* [Kayak](https://github.com/kayak)
 * [Trip Advisor](https://github.com/tripadvisor)  
 * [TripIt](https://github.com/tripit)  
 * [Zillow](https://github.com/zillow)
@@ -636,12 +658,9 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Robinhood](https://github.com/robinhood) 
 * [Square](https://github.com/square)
 * [Stripe](https://github.com/stripe) 
+* [TruStory](https://github.com/TruStory) 
 * [Venmo](https://github.com/venmo)
 * [Wealthfront](https://github.com/wealthfront)
-
-<!--
-https://github.com/TruStory | TruStory
--->
 
 ### Forums
 
@@ -731,6 +750,7 @@ https://github.com/TruStory | TruStory
 * [Codecademy](https://github.com/Codecademy)  
 * [CodePath](https://github.com/codepath)
 * [Coursera](https://github.com/coursera)  
+* [DataCamp](https://github.com/datacamp/) 
 * [edX](https://github.com/edx) 
 * [egghead.io](https://github.com/eggheadio)
 * [freeCodeCamp](https://github.com/freeCodeCamp) 
@@ -826,6 +846,7 @@ Not-Profit
 * [Library of Congress](https://github.com/LibraryofCongress)
 * [Open Library](https://github.com/openlibrary)  
 * [NASA](https://github.com/nasa) 
+* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
 * [National Geospatial-Intelligence Agency](https://github.com/ngageoint) 
 * [OKFN](https://github.com/okfn) 
 * [OpenGov Foundation](https://github.com/opengovfoundation)
