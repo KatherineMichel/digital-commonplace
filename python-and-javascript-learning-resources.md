@@ -10,18 +10,182 @@ https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I
 https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+-->
+
+<!--
+Calvin
+https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
+
+https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
+https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
+
+Aaron
+https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
+
+People
+
+https://twitter.com/ramalhoorg
+
+Michael
+https://mherman.org/talks | Talks and Trainings
+https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
+https://mherman.org/about | About Me
+https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
+https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
+https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
+https://realpython.com/ | Python Tutorials – Real Python
+https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
+https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
+
+https://www.youtube.com/watch?v=P7xpp4JGr50 | Readability Counts - Trey Hunner - YouTube
+
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
+https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/ | Asterisks in Python: what they are and how to use them - Trey Hunner
+https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/#while | How to loop with indexes in Python - Trey Hunner
+https://treyhunner.com/2019/01/no-really-pathlib-is-great/ | No really, pathlib is great - Trey Hunner
+https://en.wikipedia.org/wiki/Sentinel_value | Sentinel value - Wikipedia
+https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique sentinel values, identity checks, and when to use object() instead of None - Trey Hunner
+
+Raymond Course
+https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
+
+Python Crash Course
+https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
+
+Al
+https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
+https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
+https://github.com/asweigart/automateboringstuff1stedition
+https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
+https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
+
+Al Sweigart Book
+https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
+
+Exercises
+https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
+
+https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
+
+Armin
+https://lucumr.pocoo.org
+
+Anthony Shaw
+https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
+https://twitter.com/anthonypjshaw/status/1218730494637953024
+https://twitter.com/anthonypjshaw
+https://github.com/tonybaloney/
+https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
+https://twitter.com/anthonypjshaw/status/1225985709409890304
+https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
+
+https://github.com/adamchainz
+https://github.com/pablogsal?tab=following
+
+https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
+https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
+
+https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
+http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
+http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
+
+Brandon Rhodes
+https://www.youtube.com/watch?v=fYlnfvKVDoM
+
+Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
+
+https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
+https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
+
+https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
+
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
+
+https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
+
+https://rhettinger.github.io/ | Raymond Hettinger – US Pycon 2019 — US Pycon December 2019 documentation
+https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
+https://www.youtube.com/results?search_query=raymond+hettinger&sp=CAM%253D | raymond hettinger - YouTube
+https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA | Raymond Hettinger Talks - YouTube
+https://twitter.com/search?q=raymondh%20slides&src=typd&lang=en | raymondh slides - Twitter Search
+
+https://github.com/jackdied | jackdied (Jack Diederich)
+https://twitter.com/jackdied | Jack Diederich (@jackdied) | Twitter
+
+https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
+https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
+
+https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
+-->
+
+<!--
+https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
+
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
+https://jazzband.co/ | Jazzband
+https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
+https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
+Django configs- Jazz Band
+https://github.com/jazzband/dj-rest-auth
+
+https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
+
+https://github.com/wemake-services/wemake-python-styleguide
+
+https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
+https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
+wemake-services/dotenv-linter - Google Search
+https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
+
+https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
+
+Django + React/Node
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+https://github.com/fcurella/django-channels-react-redux
+
+https://github.com/divio/react-boilerplate
+https://github.com/divio/node-boilerplate
+
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+
+Django Rest Framework
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
+
+Feature Flags
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+
+
 
 
 https://github.com/20tab/django-continuous-delivery
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 
-https://github.com/jazzband/dj-rest-auth
-
-https://jazzband.co/ | Jazzband
-https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
-https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
-Django configs- Jazz Band
 https://twitter.com/jpadilla_/status/1189752115566133248
 
 https://github.com/jpadilla/
@@ -35,30 +199,6 @@ https://twitter.com/nthapen/status/1240936897234513921
 https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
 https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
 
-https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
-
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
-https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
-
-https://github.com/wemake-services/wemake-python-styleguide
-
-https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
-https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
-wemake-services/dotenv-linter - Google Search
-https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
-
-https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
-
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
 
 Lincoln Loop Stack
 High Performance Django Stack
@@ -69,35 +209,21 @@ https://github.com/jazzband/django-model-utils
 Jazz Band
 https://twitter.com/jezdez/status/1230635375497969672 | Jannis Leidel on Twitter: "@joshsimmons @vmbrasseur @jazzbandco Yeah, it's been on the slow burner for long, but it's still growing, just passed 600 members and have 43 projects. Need to figure out how to keep it sustainable (read: useful in the long-term). Right now mostly trying to decide which chunk to bite off first." / Twitter
 
-Feature Flags
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
 
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-
-https://github.com/fcurella/django-channels-react-redux
-https://github.com/wemake-services/wemake-django-template | remake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
 https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
-
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
 
 https://github.com/lincolnloop/django-alive
 
 https://github.com/jambonsw/django-improved-user
 
-https://github.com/divio/react-boilerplate
-https://github.com/divio/node-boilerplate
-
 https://github.com/caktus/django-project-template
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
-https://github.com/fcurella/django-channels-react-redux
 https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
+
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
 https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
 -->
 
@@ -243,122 +369,6 @@ https://github.com/satwikkansal/wtfpython
 https://github.com/jakevdp/WhirlwindTourOfPython
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
 https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
-
-Calvin
-https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
-
-https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
-https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
-
-Aaron
-https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
-
-People
-
-https://twitter.com/ramalhoorg
-
-Michael
-https://mherman.org/talks | Talks and Trainings
-https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
-https://mherman.org/about | About Me
-https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
-https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
-https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
-https://realpython.com/ | Python Tutorials – Real Python
-https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
-https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
-
-https://www.youtube.com/watch?v=P7xpp4JGr50 | Readability Counts - Trey Hunner - YouTube
-
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
-https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/ | Asterisks in Python: what they are and how to use them - Trey Hunner
-https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/#while | How to loop with indexes in Python - Trey Hunner
-https://treyhunner.com/2019/01/no-really-pathlib-is-great/ | No really, pathlib is great - Trey Hunner
-https://en.wikipedia.org/wiki/Sentinel_value | Sentinel value - Wikipedia
-https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique sentinel values, identity checks, and when to use object() instead of None - Trey Hunner
-
-Raymond Course
-https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
-
-Python Crash Course
-https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
-
-Al
-https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
-https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
-https://github.com/asweigart/automateboringstuff1stedition
-https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
-https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
-
-Al Sweigart Book
-https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
-
-Exercises
-https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
-
-https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
-
-Armin
-https://lucumr.pocoo.org
-
-Anthony Shaw
-https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
-https://twitter.com/anthonypjshaw/status/1218730494637953024
-https://twitter.com/anthonypjshaw
-https://github.com/tonybaloney/
-https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
-https://twitter.com/anthonypjshaw/status/1225985709409890304
-https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
-
-https://github.com/adamchainz
-https://github.com/pablogsal?tab=following
-
-https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
-https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
-
-https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
-http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
-http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
-
-Brandon Rhodes
-https://www.youtube.com/watch?v=fYlnfvKVDoM
-
-Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
-https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
-
-https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
-https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
-
-https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
-https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
-
-A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
-https://www.youtube.com/watch?v=r-A78RgMhZU
-
-https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
-
-https://rhettinger.github.io/ | Raymond Hettinger – US Pycon 2019 — US Pycon December 2019 documentation
-https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
-https://www.youtube.com/results?search_query=raymond+hettinger&sp=CAM%253D | raymond hettinger - YouTube
-https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA | Raymond Hettinger Talks - YouTube
-https://twitter.com/search?q=raymondh%20slides&src=typd&lang=en | raymondh slides - Twitter Search
-
-https://github.com/jackdied | jackdied (Jack Diederich)
-https://twitter.com/jackdied | Jack Diederich (@jackdied) | Twitter
-
-https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
-https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
-
-https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
 -->
 
 ## Python and Django- Specific Learning Resources
