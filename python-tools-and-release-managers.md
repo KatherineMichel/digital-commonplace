@@ -375,6 +375,8 @@ https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile
 
 https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
 
+https://pycodestyle.pycqa.org/en/latest/intro.html
+
 https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
 
 pre-commit
@@ -383,8 +385,8 @@ https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile
 https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
 
 https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
-
 https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
+https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html | Release Highlights for scikit-learn 0.23 — scikit-learn 0.23.0 documentationhttps://scikit-learn.org/stable/whats_new/v0.23.html#changes-0-23 | Version 0.23.0 — scikit-learn 0.23.0 documentation
 
 https://www.npmjs.com/package/standard | standard - npm
 https://docs.npmjs.com/packages-and-modules/
@@ -418,6 +420,14 @@ https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on T
 
 [Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
 https://github.com/tailwindcss/tailwindcss/discussions/1656
+
+https://github.com/denoland/deno/pull/5273
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/
+https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
+
+https://en.wikipedia.org/wiki/Linux_distribution
+https://www.erlang.org/news/140
+https://gcc.gnu.org/gcc-10/
 
 Microsoft
 https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
