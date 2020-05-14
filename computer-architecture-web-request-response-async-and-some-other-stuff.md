@@ -1,9 +1,6 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
-https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
-
 Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
@@ -21,8 +18,6 @@ Social Distancing Survival Guide
 https://twitter.com/Fox0x01/status/1238636233649250304
 https://twitter.com/Fox0x01/status/1238636236962779136
 https://github.com/gwen001/pentest-tools
-
-https://access.redhat.com/documentation/en-us/
 
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
@@ -187,6 +182,9 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 ## Auth
 
 <!--
+https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
+https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
+
 https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
 
 https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
@@ -728,7 +726,6 @@ https://en.wikipedia.org/wiki/Fault_tolerance
 
 ## SQL
 
-SQL
 * [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
 * [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
 * [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
