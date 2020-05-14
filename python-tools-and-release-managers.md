@@ -1298,6 +1298,22 @@ https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 �
 -->
 
 <!--
+https://github.com/GoogleCloudPlatform/github-actions
+
+GitHub Actions- Hynek
+https://hynek.me/articles/python-github-actions/
+https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
+https://twitter.com/hynek/status/1236227708746596353
+https://github.com/Azure/actions
+
+Python Docker
+https://twitter.com/brettsky/status/1146835613628293120 | Twitter
+
+https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
+-->
+
+
+<!--
 Probot and Such
 
 https://github.com/jlord/forkngo
@@ -1469,80 +1485,6 @@ https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · mic
 https://circleci.com/docs/2.0/migrating-from-github/
 -->
 
-
-<!--
-Azure
-https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
-https://github.com/Azure/azure-quickstart-templates
-
-https://github.com/GoogleCloudPlatform/github-actions
-
-GitHub Actions- Hynek
-https://hynek.me/articles/python-github-actions/
-https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
-https://twitter.com/hynek/status/1236227708746596353
-https://github.com/Azure/actions
-
-Hynek- Azure Pipelines
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
-https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
-
-
-Python Docker
-https://twitter.com/brettsky/status/1146835613628293120 | Twitter
-
-https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
--->
-
-AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
-Additional Serverless
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
-* [Firebase Functions](https://firebase.google.com/features/functions)
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
-
-Containers
-* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
-* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
-* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
-
-Terraform
-* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
-
-<!--
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
-
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-
-https://serverless.com
-https://github.com/serverless/site
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
-http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
-https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
-    
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
--->
-
 ## Bots
 
 Mariatta- Bot Tutorials
@@ -1599,9 +1541,66 @@ https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Tw
 https://zapier.com/ | Zapier | The easiest way to automate your work
 https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
 
+
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
+-->
+
+## Containers, Serverless, Functions, Pipelines
+
+Containers
+* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+Additional Serverless
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+* [Firebase Functions](https://firebase.google.com/features/functions)
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+
+<!--
+https://github.com/Azure/azure-quickstart-templates
+
+https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
+
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
+
+Hynek- Azure Pipelines
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+
+https://serverless.com
+https://github.com/serverless/site
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
+http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+    
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 -->
 
 ## Docs
@@ -1685,6 +1684,9 @@ https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
 -->
 
 ## Automation
+
+Terraform
+* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
 
 Python- Fabric
 * [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
