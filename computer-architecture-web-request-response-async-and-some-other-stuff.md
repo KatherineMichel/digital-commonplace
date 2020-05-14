@@ -4,9 +4,6 @@
 https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
 https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
 
-JSON Web Token (JWT)
-https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
-
 Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
@@ -185,14 +182,53 @@ https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 -->
 
+## Auth
+
+<!--
+https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+
+https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
+https://developers.google.com/identity/protocols/OAuth2
+https://en.wikipedia.org/wiki/Basic_access_authentication
+https://en.wikipedia.org/wiki/OAuth
+https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
+https://en.wikipedia.org/wiki/OpenID
+https://en.wikipedia.org/wiki/OpenID_Connect
+https://openid.net/ | OpenID Foundation website
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
+Social Auth
+https://oauth.net/2/ | OAuth 2.0 — OAuth
+https://oauth.net/ | OAuth Community Site
+https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
+https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
+https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
+https://twofactorauth.org/ | 502 Bad Gateway
+https://twofactorauth.org/#banking | Two Factor Auth List
+
+Google Auth
+https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
+-->
+
+<!--
+Auth
+
+https://jwt.io/ | JSON Web Tokens - jwt.io
+-->
+
 ## JSON Schema
 
 <!--
 www.json.org
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
-https://jwt.io/ | JSON Web Tokens - jwt.io
 
 https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
+
+JSON Web Token (JWT)
+https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 -->
 
 ## API
@@ -276,37 +312,6 @@ Scripting, Client-Side and Server-Side
 * [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
 * [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
 * [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
-
-## Auth
-
-<!--
-https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
-
-https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
-https://developers.google.com/identity/protocols/OAuth2
-https://en.wikipedia.org/wiki/Basic_access_authentication
-https://en.wikipedia.org/wiki/OAuth
-https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
-https://en.wikipedia.org/wiki/OpenID
-https://en.wikipedia.org/wiki/OpenID_Connect
-https://openid.net/ | OpenID Foundation website
-https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
-
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
-Social Auth
-https://oauth.net/2/ | OAuth 2.0 — OAuth
-https://oauth.net/ | OAuth Community Site
-https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
-https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
-https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
-https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
-https://twofactorauth.org/ | 502 Bad Gateway
-https://twofactorauth.org/#banking | Two Factor Auth List
-
-Google Auth
-https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
--->
 
 ## Networks
 
