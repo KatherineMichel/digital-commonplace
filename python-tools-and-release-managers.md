@@ -39,26 +39,11 @@ https://pypi.org/project/mousebender/ | mousebender · PyPI
 https://pypi.org/project/pluggy/ | pluggy · PyPI
 
 
-Tools
-https://twitter.com/froidotdev/status/1248661469920714753
-https://twitter.com/simonw/status/1248628140445855745
 
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
 
-
-https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
-
 cross linter - Google Search
--->
-
-<!--
-tox
-https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
-https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
-
-https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
-https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 -->
 
 <!--
@@ -312,6 +297,7 @@ https://github.com/orgs/pytest-dev/people
 https://github.com/orgs/pypa/people
 https://github.com/orgs/python/people
 https://github.com/orgs/tox-dev/people
+https://github.com/orgs/pallets/people
 https://github.com/orgs/pre-commit/people
 https://github.com/python/cpython/graphs/contributors
 -->
@@ -348,6 +334,7 @@ https://octoverse.github.com/#top-and-trending-projects | The State of the Octov
 https://octoverse.github.com/2018/
 https://octoverse.github.com/2017/
 https://octoverse.github.com/2016/#organizations
+
 
 https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
 
@@ -584,9 +571,6 @@ https://treyhunner.com/2017/07/craft-your-python-like-poetry/
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
 https://prettier.io/
 https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
-
-Mariatta- build the bot
-https://www.youtube.com/watch?v=_xdEAxLuj9Y
 
 Packaging
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
@@ -838,6 +822,9 @@ https://codecov.io/#features | Codecov
 "[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
 "[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
 
+https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
+https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
+
 https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
 https://github.com/pallets/flask/blob/master/tox.ini
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
@@ -903,8 +890,10 @@ Black and single quotes
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 
-CI
 https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
+
+https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 
 https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
 https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
@@ -924,6 +913,9 @@ https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (
 
 <!--
 Tool Choices
+
+https://twitter.com/froidotdev/status/1248661469920714753
+https://twitter.com/simonw/status/1248628140445855745
 
 https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
 
@@ -1288,11 +1280,6 @@ https://twitter.com/webKnjaZ/status/1218318402248478721 | Sviatoslove.py🐍 �
 <!--
 Probot and Such
 
-Probot
-https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
-https://github.com/probot/reminders
-
-
 https://github.com/jlord/forkngo
 http://jlord.us/git-it
 https://github.com/jlord/git-it
@@ -1301,6 +1288,7 @@ https://github.com/jlord/reporobot
 https://github.com/jlord/patchwork/tree/gh-pages/contributors
 
 https://github.com/muan/paint-github | muan/paint-github: [WebExtension] Draw your GitHub comment.
+
 
 https://github.com/hackebrot/labels | hackebrot/labels: CLI app for managing GitHub labels for Python 3.6 and newer. 📝
 
@@ -1311,6 +1299,10 @@ https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This t
 
 https://github.com/gr2m/twitter-together
 
+https://github.com/probot/reminders
+
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+
 Probot
 https://github.com/probot/probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
@@ -1319,6 +1311,7 @@ https://probot.github.io/docs/hello-world/ | Hello world | Probot
 https://probot.github.io/apps/polls/ | Polls | Probot
 https://probot.github.io/apps/no-response/ | No Response | Probot
 https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+
 
 Make semantic-release compatible with GitHub Actions
 https://github.com/semantic-release/semantic-release/issues/1194
@@ -1335,9 +1328,11 @@ https://octokit.github.io/rest.js/
 https://github.com/octokit/rest.js
 https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
 
+
 https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
 https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
 https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+
 
 Conventional Commits
 https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
@@ -1363,30 +1358,19 @@ https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically re
 -->
 
 <!--
-GA
+GitHub Actions
+
 https://twitter.com/natfriedman/status/1159511728704483329
 https://twitter.com/kelseyhightower/status/1159517721068916736
+
+Example Actions
+https://github.com/sdras/awesome-actions
+
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
 
 https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
 
 https://github.com/cschleiden/github-actions-hero | cschleiden/github-actions-hero: 🚧 Interactive tutorial and visualizer for GitHub Actions workflows 🚧
-https://twitter.com/webology/status/1259199459579383809 | Jeff says, "wash your hands" 🧼👏 on Twitter: "✨ If you use GitHub Actions to build and publish Docker, there is an easier way instead of building a series of `run` steps. 🐳 ⬇ Here is an example of what I'm using to build the new https://t.co/6ueTxxQ9a3 (out soon) https://t.co/Nt9DEnPxbc" / Twitter
-https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 on Twitter: "I wrote a thing that's been useful ever since🖖 Run your Django project tests on GitHub Actions + explanation about what's happening 👇 https://t.co/OToacdQOVy" / Twitter
-
-https://twitter.com/webology/status/1255842961880944641
-https://mobile.twitter.com/simonw/status/1252052032019546112
-https://mobile.twitter.com/webology/status/1252052023459090432
-
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
-https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: Switches back to entrypoint.sh · jefftriplett/python-actions@334b8e0
-https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
-https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
-
-https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
-https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
-https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitte
-
 
 https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
 
@@ -1402,18 +1386,26 @@ https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.
 
 GitHub Actions Matrix Demo
 https://twitter.com/webology/status/1195412423936753670
-https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
 https://github.com/jefftriplett/python-github-actions-matrix-demo
 https://twitter.com/webology/status/1201887760413528065
 https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
 
-GitHub Action CI Example from Jeff
-https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
-https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: Switches back to entrypoint.sh · jefftriplett/python-actions@334b8e0
 
-Example Actions
-https://github.com/sdras/awesome-actions
+https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
+https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
+
+Django
+https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 on Twitter: "I wrote a thing that's been useful ever since🖖 Run your Django project tests on GitHub Actions + explanation about what's happening 👇 https://t.co/OToacdQOVy" / Twitter
+
+Jeff's Examples
+https://twitter.com/webology/status/1259199459579383809 | Jeff says, "wash your hands" 🧼👏 on Twitter: "✨ If you use GitHub Actions to build and publish Docker, there is an easier way instead of building a series of `run` steps. 🐳 ⬇ Here is an example of what I'm using to build the new https://t.co/6ueTxxQ9a3 (out soon) https://t.co/Nt9DEnPxbc" / Twitter
+https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
+https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitter
+
+https://twitter.com/pganssle/status/1252953419884769280 | Paul Ganssle on Twitter: "Does anyone have any thoughts on how to automatically create a PR from a GH Action? I found this: https://t.co/tltPB1PwWK But I'm mildly wary about relying on an action in someone's personal GH namespace (particularly one authorized to act on my behalf)." / Twitter
 
 https://twitter.com/carlogilmar/status/1197215398405365760 | Carlo Gilmar on Twitter: "@GitHub #githubuniverse GitHub Actions by @ethomson #visualpartnership https://t.co/DmAo2ekbi7" / Twitter
 
@@ -1433,6 +1425,19 @@ https://github.com/actions/aws | actions/aws: GitHub Actions for interacting wit
 https://aws.amazon.com/fargate/ | AWS Fargate - Run containers without having to manage servers or clusters
 https://github.com/jessfraz/aws-fargate-action | jessfraz/aws-fargate-action: A GitHub action to deploy to AWS Fargate on push to the master branch.
 https://github.com/microsoft/vscode/actions?query=workflow%3ACI | Actions · microsoft/vscode
+
+
+
+
+
+https://twitter.com/webology/status/1255842961880944641
+https://mobile.twitter.com/simonw/status/1252052032019546112
+https://mobile.twitter.com/webology/status/1252052023459090432
+
+GitHub Action CI Example from Jeff
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+https://github.com/denoland/deno/blob/master/.github/workflows/ci.yml | deno/ci.yml at master · denoland/deno
+
 -->
 
 
@@ -1523,6 +1528,9 @@ Tools
 * [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
+Mariatta- build the bot
+https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
 PyCon Bot Tutorial
 https://twitter.com/mariatta/status/1255558164956807178
 
@@ -2104,6 +2112,8 @@ Python- Books- O'Reilly Test-Driven Development with Python and Selenium
 
 https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
 https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
+
+https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 -->
 
 ## Django Rest Framework
