@@ -153,6 +153,8 @@ Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
 * [List of Ajax Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript)
 
 <!--
+https://en.m.wikipedia.org/wiki/Serialization
+
 API... usually HTTP + XML or JSON
 https://en.wikipedia.org/wiki/Application_programming_interface
 "When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
