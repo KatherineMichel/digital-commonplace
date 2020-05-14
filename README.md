@@ -27,6 +27,12 @@ https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs
 p5.js
 https://twitter.com/gr2m/status/1259962901130969088 | Gregor on Twitter: "p5.js project (@p5xjs) is still looking for a project lead: https://t.co/JKBSJKKAku - 20-40h/week contracting, remote - up $50,000 stipend for 1 year - mentorship provided - applications very welcome if you identify with groups underrepresented open-source, art, or technology" / Twitter
 
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
 https://github.com/KatherineMichel/100-days-of-code
 
 Content
@@ -213,14 +219,14 @@ https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JI
 https://www.inkandswitch.com/end-user-programming.html | End-user programming
 
 
-https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
-https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
-
 https://foundation.mozilla.org/
 https://access.redhat.com/documentation/en-us/
 
 
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
+
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
 
 Kenneth
 https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
