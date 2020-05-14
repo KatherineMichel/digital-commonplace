@@ -39,46 +39,10 @@ https://pypi.org/project/mousebender/ | mousebender · PyPI
 https://pypi.org/project/pluggy/ | pluggy · PyPI
 
 
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
 cross linter - Google Search
--->
 
-<!--
-Kenneth
-https://github.com/inishchith/autoenv
 
-gitvenv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-Tools
-http://nixos.org
-https://github.com/NixOS/nix
-
-https://pypi.org/project/check-manifest/
-
-https://pypi.org/classifiers/ | Classifiers · PyPI
-https://packaging.python.org/tutorials/packaging-projects/#classifiers | Packaging Python Projects — Python Packaging User Guide
-https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification | PEP 301 -- Package Index and Metadata for Distutils | Python.org
-
-Packaging
-https://github.com/jwodder/check-wheel-contents | jwodder/check-wheel-contents: Check your wheels have the right contents
-
-Packaging
-https://readthedocs.org/projects/twine/downloads/pdf/latest/ | Twine Documentation
-https://setuptools.readthedocs.io/en/latest/setuptools.html | Building and Distributing Packages with Setuptools — setuptools 45.2.0 documentation
-
-Pinax
-https://pypi.org/project/django-utils/ | django-utils · PyPI
-https://docs.python.org/3/library/distutils.html | distutils — Building and installing Python modules — Python 3.8.1 documentation
--->
-
-<!--
 https://boto3.readthedocs.io/en/latest/index.html
-
-https://sqlite.org/whentouse.html | Appropriate Uses For SQLite
 
 https://pypi.org/project/black/
 
@@ -317,8 +281,7 @@ https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on
 -->
 
 <!--
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-http://www.encode.io/reports/july-2017
+https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
 
 
 Homebrew Analytics
@@ -350,6 +313,15 @@ https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentatio
 Python
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+
+Django What’s New
+https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
+
+Django Security
+https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
+
+https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
 
 https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
 https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
@@ -1210,6 +1182,7 @@ http://www.tldp.org/LDP/abs/html/why-shell.html
 File security
 http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
 
+https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
 https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
 
 https://github.com/topics/bash | Topic: bash
