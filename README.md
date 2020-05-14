@@ -217,7 +217,7 @@ https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
 https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
 
 https://foundation.mozilla.org/
-
+https://access.redhat.com/documentation/en-us/
 
 
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
