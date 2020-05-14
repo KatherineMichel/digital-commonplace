@@ -79,6 +79,8 @@ https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Si
 https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
 https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
 
+https://twitter.com/moshezadka/status/1260611595660439552 | Moshe Zadka on Twitter: "Reminder: coming today 8pm" / Twitterhttps://twitter.com/PolkPhebe/status/1260610995401003008 | Phebe Polk on Twitter: "@moshezadka @AlSweigart Coming up this Sunday! Can I get a retweet to help get the word out?" / Twitter
+
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
@@ -124,6 +126,8 @@ https://personal.vanguard.com/us/funds/tools/marketsummary
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
 
+https://www.outsideonline.com/2413303/in-praise-of-walking-book-excerpt-shane-omara
+
 Fitness
 https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
 https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
@@ -139,6 +143,10 @@ https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
+
+https://www.meetup.com/sfpython/events/xkwxvqybchbrb/
+https://twitter.com/sfpythonmeetup/status/1237538712105320448
+https://twitter.com/pirosb3/status/1237497435988979713
 
 https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
 https://mobile.twitter.com/chrisjrn/status/1248020330532057093
@@ -252,6 +260,8 @@ https://twitter.com/natfriedman/status/1260720690472251395
 
 https://twitter.com/natfriedman/status/1260431646257528833
 https://help.github.com/en/github/authenticating-to-github
+
+https://growth.design/psychology/
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
