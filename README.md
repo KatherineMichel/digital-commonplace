@@ -233,6 +233,26 @@ https://brew.sh/ | The Missing Package Manager for macOS (or Linux) — Homebrew
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
+Deno
+https://twitter.com/rauchg/status/1260704904693182464
+https://twitter.com/gauravssnl/status/1260477661878632449
+https://deno.land/v1
+https://www.youtube.com/watch?v=M3BM9TB-8yA&feature=emb_logo
+https://jaxenter.com/deno-interview-ryan-dahl-171425.html
+https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
+https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
+https://twitter.com/Rich_Harris/status/1260711137244598272
+https://deno.land/std/fmt
+
+https://twitter.com/gr2m/status/1260706056398749696
+https://deno.land/manual/contributing
+
+https://octo-cli.github.io/octo-cli/
+https://twitter.com/natfriedman/status/1260720690472251395
+
+https://twitter.com/natfriedman/status/1260431646257528833
+https://help.github.com/en/github/authenticating-to-github
+
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
