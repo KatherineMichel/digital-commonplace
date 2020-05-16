@@ -169,6 +169,7 @@ CSS
 <!--
 https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
 
+https://nuxtjs.org/
 https://github.com/sdras/contentful-nuxt-netlify
 https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
 https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
