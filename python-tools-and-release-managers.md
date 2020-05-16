@@ -1,6 +1,9 @@
 # Python Tools and Release Managers
 
 <!--
+https://snarky.ca/thoughts-on-a-tooling-workflow/
+https://twitter.com/brettsky/status/1260782564597366785
+
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
@@ -11,10 +14,7 @@ https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (b
 
 all-repos
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-Flake8
-
 https://github.com/anthonywritescode/twitch-chat-bot
-
 https://github.com/asottile/onigurumacffi/pull/20/files
 
 
@@ -343,6 +343,7 @@ https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d9599
 ### Paul Ganssle
 
 <!--
+https://github.com/python/cpython/commit/b17e49e0def23238b9e7f48c8a02e2d7bbf1f653
 https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
 https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
 -->
@@ -395,6 +396,7 @@ https://discordapp.com/invite/HxpQ3px | anthonywritescode
 https://www.twitch.tv/team/livecoders | (1) Twitch
 
 https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
+https://www.youtube.com/watch?v=C2xVBGRXiMY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=80 | (2) Infinity | Beautiful Chill Mix - YouTube
 https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
 https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
 https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
