@@ -1,7 +1,17 @@
 # Math Resources
 
 <!--
+https://www.latex-project.org/ | LaTeX - A document preparation system
+
+https://mobile.twitter.com/DynamicWebPaige/status/1251019531914317824
+https://github.com/cben/mathdown/wiki/math-in-markdown | Math in MarkDown · cben/mathdown Wiki
+https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
+
 https://twitter.com/expa/status/931446443029626880 | Expa on Twitter: "17 equations that changed the world... https://t.co/lEmuRe5sVz"
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
+https://www.weforum.org/agenda/2016/04/the-17-equations-that-changed-the-world
+
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
 
 http://es.gizmodo.com/todo-lo-que-sabemos-sobre-matematicas-esta-explicado-en-1792046906 | Todo lo que sabemos sobre matemáticas está explicado en este mapa de manera sencilla
 
