@@ -1022,32 +1022,14 @@ https://twitter.com/natfriedman/status/1260720690472251395
 https://twitter.com/natfriedman/status/1260431646257528833
 https://help.github.com/en/github/authenticating-to-github
 
+https://github.com/nektos/act
+
 
 https://github.com/gr2m/deno-playground | gr2m/deno-playground
 https://github.com/swinton/alfred-canned | swinton/alfred-canned: Canned replies, at your fingertips
 https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
 https://github.com/marketplace/actions/stale-image-remover | Stale Image Remover · Actions · GitHub Marketplace
 
-Jessica Twitter Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Hubot
-https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
-
-https://botlist.co/
-https://github.com/hubotio/hubot/blob/master/docs/index.md
-https://github.com/hubotio/generator-hubot
-https://github.com/howdyai/botkit
-https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
-
-Google Cloud Django/Python
-https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
-https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
-
-https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
 
 https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
 https://twitter.com/bitandbang/status/1159514802596777984
@@ -1065,11 +1047,6 @@ https://hynek.me/articles/python-github-actions/
 https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
 https://twitter.com/hynek/status/1236227708746596353
 https://github.com/Azure/actions
-
-Python Docker
-https://twitter.com/brettsky/status/1146835613628293120 | Twitter
-
-https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
 -->
 
 
@@ -1302,12 +1279,27 @@ https://zapier.com/ | Zapier | The easiest way to automate your work
 https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
 
 
+Jessica Twitter Bot
+https://twitter.com/webology/status/1243922072528719874
+
+Bot
+https://twitter.com/webology/status/1243922072528719874
+
+Hubot
+https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
+
+https://botlist.co/
+https://github.com/hubotio/hubot/blob/master/docs/index.md
+https://github.com/hubotio/generator-hubot
+https://github.com/howdyai/botkit
+https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
+
 https://github.com/devict/devict-hubot
 https://github.com/github/hubot
 https://hubot.github.com/
 -->
 
-## Containers, Serverless, Functions, Pipelines
+## Hosts, Containers, Serverless, Functions, Pipelines
 
 Containers
 * [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
@@ -1326,6 +1318,14 @@ Additional Serverless
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
 
 <!--
+https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
+
+Google Cloud Django/Python
+https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+
+https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
+
 https://github.com/Azure/azure-quickstart-templates
 
 https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
