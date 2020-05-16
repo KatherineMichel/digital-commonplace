@@ -4,6 +4,11 @@
 Go
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
 
+React Native
+https://github.com/facebook/metro-bundler
+
+https://github.com/salesforce/eslint-plugin-lwc
+
 https://requirejs.org/ | RequireJS
 https://parceljs.org
 -->
@@ -206,6 +211,16 @@ https://www.python.org/
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
+<!--
+https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
+
+Model Managers
+https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
+-->
+
 ## Django Rest Framework
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
@@ -218,6 +233,12 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
+Package Managers/Executors
+* [NPM](https://www.npmjs.com), [NPM Blog](http://blog.npmjs.org), [NPM Docs](https://docs.npmjs.com), and [NPM GitHub](https://github.com/npm/npm) 
+* [npx GitHub](https://github.com/npm/npx)
+* [Yarn](https://yarnpkg.com), [Yarn Docs](https://yarnpkg.com/lang/en/docs), [Yarn Registry](https://registry.yarnpkg.com), and [Yarn GitHub](https://github.com/yarnpkg/yarn)
+* [Berry (Yarn) GitHub](https://github.com/yarnpkg/berry)
+
 Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
@@ -226,6 +247,17 @@ Express (based on Sinatra)
 React and Vue
 * [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+<!--
+Deno
+https://deno.land/v1
+https://www.youtube.com/watch?v=M3BM9TB-8yA&feature=emb_logo
+
+https://twitter.com/rauchg/status/1260704904693182464
+
+https://twitter.com/Rich_Harris/status/1260711137244598272
+https://deno.land/std/fmt
+-->
 
 ## Languages and Frameworks (Other than Python and Django)
 
@@ -699,14 +731,6 @@ See: Cory House-inspired React Stack
 -->
 
 ## Node
-
-Package Managers
-* [NPM](https://www.npmjs.com), [NPM Blog](http://blog.npmjs.org), [NPM Docs](https://docs.npmjs.com), and [NPM GitHub](https://github.com/npm/npm) 
-* [Yarn](https://yarnpkg.com), [Yarn Docs](https://yarnpkg.com/lang/en/docs), [Yarn Registry](https://registry.yarnpkg.com), and [Yarn GitHub](https://github.com/yarnpkg/yarn)
-
-<!--
-https://github.com/yarnpkg/berry | yarnpkg/berry: 📦🐈 A modern, fast, reliable, package manager; part of the Yarn organization
--->
 
 CLI, package.json, Lock Files
 * [NPM's CLI](https://docs.npmjs.com/#cli)   
