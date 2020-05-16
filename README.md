@@ -3,9 +3,6 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-Anthony
-https://www.youtube.com/watch?v=C2xVBGRXiMY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=80 | (2) Infinity | Beautiful Chill Mix - YouTube
-
 "Leave people better than you found them."
 https://twitter.com/CHERdotdev/status/1257392420754542594
 
@@ -126,16 +123,10 @@ https://register.build.microsoft.com/
 https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 
-Packaging Summit
-https://us.pycon.org/2020/events/languagesummit/
-https://pyfound.blogspot.com/2020/04/lightning-talks-part-1.html
-
 PyCon
 https://us.pycon.org/2020/remote/
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-https://pyfound.blogspot.com/2020/04/the-2020-python-language-summit.html
-https://discuss.python.org/t/collecting-questions-for-a-steering-council-q-a/4010
+
 Microsoft
 https://www.youtube.com/watch?v=gCkFkvFVLjY&feature=youtu.be
 https://discordapp.com/invite/b8YJQPx
@@ -163,30 +154,18 @@ https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 
-https://foundation.mozilla.org/
-https://access.redhat.com/documentation/en-us/
-
-
 GH Satellite
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
 https://github.com/codespaces-examples | codespaces-examples
 https://cli.github.com/
 
+https://developer.github.com/v3/libraries/
 
-Python
-https://docs.brew.sh/Homebrew-and-Python
 
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
 
-https://twitter.com/awbjs/status/1260976210936389632
-https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
-Ruby and Rust
-https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
-
-https://snarky.ca/thoughts-on-a-tooling-workflow/
-https://twitter.com/brettsky/status/1260782564597366785
 
 https://github.com/api-evangelist
 https://github.com/TonnyL/Awesome_APIs
@@ -292,6 +271,9 @@ https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
 AMD
 Arm, Intel
 https://newsroom.intel.com
+
+https://foundation.mozilla.org/
+https://access.redhat.com/documentation/en-us/
 
 ACM Library
 https://dl.acm.org/
@@ -466,6 +448,7 @@ https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofess
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
 
 Wes Bos
+https://app.slack.com/client/T0B6Z0ZL1/
 https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
 https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
@@ -477,9 +460,6 @@ https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme 
 
 
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
-
-https://app.slack.com/client/T0B6Z0ZL1/
-https://github.com/wesbos/eslint-config-wesbos
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
@@ -558,6 +538,7 @@ PyPy
 https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
 
 pip innovation
+https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html
 http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
 https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter: "Starting this year, pip will be more consistent + stricter in the dependencies it installs. https://t.co/vYkAAczeKM Here's what will change, when, and how you can help (testing, talking to our researchers, &amp; spreading the word) https://t.co/8dv6J0YCF8" / Twitter
 
@@ -572,11 +553,6 @@ Conda PyPy
 https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
 
 https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
-
-https://twitter.com/VictorStinner/status/1248666328984059905
-
-"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
-https://twitter.com/trebor74hr/status/1252729526540472323
 -->
 
 <!--
@@ -584,7 +560,6 @@ More Python
 
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
 https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
 
 flake8
@@ -620,16 +595,10 @@ https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on
 -->
 
 
-
 <!--
-CPython API
-https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
-
 Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
-
-
 
 
 https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
