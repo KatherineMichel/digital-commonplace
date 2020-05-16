@@ -237,10 +237,6 @@ https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Lear
 https://github.com/tiangolo/fastapi
 https://fastapi.tiangolo.com/#performance
 
-https://github.com/api-evangelist
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
 API
 https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
