@@ -18,6 +18,25 @@ https://github.com/anthonywritescode/twitch-chat-bot
 https://github.com/asottile/onigurumacffi/pull/20/files
 
 
+cross linter - Google Search
+
+
+https://pypi.org/project/black/
+
+Mariatta
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+
+https://pypi.org/project/mousebender/ | mousebender · PyPI
+https://pypi.org/project/pluggy/ | pluggy · PyPI
+
+https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
+
+https://pyup.io/safety/
+
+https://pyformat.info/
+-->
+
+<!--
 https://hynek.me/articles/document-your-tests/
 
 https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
@@ -36,28 +55,6 @@ Telemetry
 https://en.wikipedia.org/wiki/Telemetry
 
 
-Mariatta
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-
-https://pypi.org/project/mousebender/ | mousebender · PyPI
-https://pypi.org/project/pluggy/ | pluggy · PyPI
-
-
-cross linter - Google Search
-
-
-https://boto3.readthedocs.io/en/latest/index.html
-
-https://pypi.org/project/black/
-
-https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
-
-https://pyup.io/safety/
-
-https://pyformat.info/
--->
-
-<!--
 Testing
 
 https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
@@ -1027,9 +1024,10 @@ https://help.github.com/en/github/authenticating-to-github
 https://github.com/nektos/act
 
 
+https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
+
 https://github.com/gr2m/deno-playground | gr2m/deno-playground
 https://github.com/swinton/alfred-canned | swinton/alfred-canned: Canned replies, at your fingertips
-https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
 https://github.com/marketplace/actions/stale-image-remover | Stale Image Remover · Actions · GitHub Marketplace
 
 
@@ -1320,6 +1318,8 @@ Additional Serverless
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
 
 <!--
+https://boto3.readthedocs.io/en/latest/index.html
+
 https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
 
 Google Cloud Django/Python
