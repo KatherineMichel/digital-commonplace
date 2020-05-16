@@ -49,8 +49,6 @@ http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
 
-https://github.com/KatherineMichel/100-days-of-code
-
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
 https://opensource.com/how-submit-article | Write for us | Opensource.com
@@ -84,6 +82,8 @@ https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitt
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
 
+https://github.com/KatherineMichel/100-days-of-code
+
 100 Days of Code
 https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
 https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
@@ -92,37 +92,6 @@ https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCod
 
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
-
-
-https://github.com/feldroy/django-crash-starter
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-
-Wes Bos
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-https://wesbos.com/uses/ | Uses | Wes Bos
-update node and npm - Google Search
-https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
 
 https://nuzzel.com/KatiMichel/feeds
@@ -172,6 +141,9 @@ https://www.youtube.com/watch?v=gCkFkvFVLjY&feature=youtu.be
 https://discordapp.com/invite/b8YJQPx
 https://discord.com/channels/702724176489873509/702724176489873512
 
+Django Flask demo
+https://twitter.com/luumelo14/status/1260687690996920320
+
 Node
 https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
 
@@ -205,7 +177,20 @@ Python
 https://docs.brew.sh/Homebrew-and-Python
 
 That site design I like
+https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
+
+https://twitter.com/awbjs/status/1260976210936389632
+https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html
+Ruby and Rust
+https://twitter.com/thejonanshow/status/1196462092649406465 | Jonan Scheffler on Twitter: ""Today, we can't keep ignoring multicore. We're going to provide multiple concurrency models: one for CPU bottlenecks and one for I/O bottlenecks."" / Twitter
+
+https://snarky.ca/thoughts-on-a-tooling-workflow/
+https://twitter.com/brettsky/status/1260782564597366785
+
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -413,6 +398,11 @@ https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-alia
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
 https://codepen.io/collection/nMgKxJ
 
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
+
 https://blog.twitch.tv
 https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
 
@@ -459,6 +449,33 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 <!--
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
+https://github.com/feldroy/django-crash-starter
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+
+Wes Bos
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+https://wesbos.com/uses/ | Uses | Wes Bos
+update node and npm - Google Search
+https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
+
+
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
 https://app.slack.com/client/T0B6Z0ZL1/
@@ -525,6 +542,7 @@ https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Dja
 Django Security
 https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
 
+https://docs.djangoproject.com/en/dev/releases/3.1/
 https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
 
 
@@ -588,6 +606,10 @@ Tools Release
 https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
 https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
 https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+-->
+
+<!--
+Django 
 
 Daphne
 https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
@@ -600,15 +622,6 @@ https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on
 
 
 <!--
-https://twitter.com/gr2m/status/1260706056398749696
-https://deno.land/manual/contributing
-
-Docs
-pip for Python on Windows
-https://twitter.com/simonw/status/1243297680886870017
-https://projects.raspberrypi.org/en/projects/using-pip-on-windows
-
-
 CPython API
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
 
@@ -1458,6 +1471,15 @@ https://github.com/sdras/night-owl-vscode-theme
 <!--
 Doc Examples
 
+https://twitter.com/gr2m/status/1260706056398749696
+https://deno.land/manual/contributing
+
+Docs
+pip for Python on Windows
+https://twitter.com/simonw/status/1243297680886870017
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows
+
+
 Very interested- Postmortem
 https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
 https://github.com/danluu/post-mortems
@@ -1503,6 +1525,7 @@ https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEM
 https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
 https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
 
+https://github.com/benbalter/github-mention-highlighter
 https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
 
