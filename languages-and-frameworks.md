@@ -33,8 +33,6 @@ https://www.freecodecamp.org/news/web-development-2020/
 https://www.surveymonkey.com/r/jamstack-survey
 
 https://www.jetbrains.com/lp/devecosystem-2019/ | The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/lp/devecosystem-2019/python/ | Python 2019 - The state of Developer Ecosystem in 2019 Infographic
-https://www.jetbrains.com/research/python-developers-survey-2018/ | Python Developers Survey 2018 Results
 
 https://about.gitlab.com/developer-survey/
 https://research.hackerrank.com/developer-skills/2019 | 2019 Developer Skills Report - HackerRank
