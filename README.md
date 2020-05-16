@@ -17,8 +17,23 @@ https://genographic.nationalgeographic.com/results/print | Print | Genographic P
 https://www.amazon.com/MacBook-Plastic-Silicone-Keyboard-Compatible/dp/B07PTY68KQ/ref=sr_1_18?dchild=1&keywords=2020+macbook+pro+case&qid=1589041446&sr=8-18 | Amazon.com: MacBook Pro 13 Case Laptop Plastic Hard Shell Cover 2020 2019 2018 2017 2016 Release A2159/A1989/A1706/A1708 with Silicone Keyboard Cover Compatible Newest Mac Pro 13 Inch (Crystal Clear): Electronics
 https://www.cnn.com/2020/05/07/cnn-underscored/macbook-pro-13-inch-2020-hands-on/index.html | 13-inch MacBook Pro Hands-On: 48 hours with $1,299 and $1,799 models - CNN
 
+https://personal.vanguard.com/us/funds/tools/marketsummary
+
+https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
+https://www.apple.com/ipad-keyboards/
+
+https://www.outsideonline.com/2413303/in-praise-of-walking-book-excerpt-shane-omara
+
+Fitness
+https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
+https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
+
+Eyes
+https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
+
 ToDo
 https://twitter.com/vmbrasseur/status/1259949081876557824 | VM (Vicky) Brasseur on Twitter: "@KatiMichel @rkoutnik Thank you! If you end up liking it, I'd be grateful for a review on Amazon. It makes a much larger difference for independent authors than it probably should. :-/" / Twitter
+* The intro to OS I wish I'd had
 
 Docs
 https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating.html | Season of Docs announces participating organizations for 2020 | Google Open Source Blog
@@ -33,6 +48,7 @@ http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
+
 https://github.com/KatherineMichel/100-days-of-code
 
 Content
@@ -42,16 +58,18 @@ https://opensource.com/submission-style-guide | Article submission and style gui
 https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
 
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
-https://twitter.com/jessejiryudavis/status/1256375104205971461
+https://bugs.python.org/issue33649
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 
-Courses and practice
-https://leetcode.com
-https://www.hackerrank.com/home
-https://www.hackerrank.com/challenges/capitalize/problem
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+
+https://en.wikipedia.org/wiki/Control_flow
+
+
 Brian Holt, Frontend Masters
 Traversy Media
 
@@ -61,34 +79,20 @@ https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – R
 real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions | Relationships among probability distributions - Wikipedia
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
-
-https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
 
 https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
 
 100 Days of Code
 https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
 https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
 
-https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
-https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
-https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
-https://twitter.com/moshezadka/status/1260611595660439552 | Moshe Zadka on Twitter: "Reminder: coming today 8pm" / Twitterhttps://twitter.com/PolkPhebe/status/1260610995401003008 | Phebe Polk on Twitter: "@moshezadka @AlSweigart Coming up this Sunday! Can I get a retweet to help get the word out?" / Twitter
 
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
 
 https://github.com/feldroy/django-crash-starter
 
@@ -126,20 +130,6 @@ https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 
 Stars
 * [Astral App](https://astralapp.com)
-
-https://personal.vanguard.com/us/funds/tools/marketsummary
-
-https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
-https://www.apple.com/ipad-keyboards/
-
-https://www.outsideonline.com/2413303/in-praise-of-walking-book-excerpt-shane-omara
-
-Fitness
-https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
-https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
-
-Eyes
-https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
 http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
 
@@ -201,37 +191,8 @@ https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 
-Philosophy of CS
-https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
-
-https://www.latex-project.org/ | LaTeX - A document preparation system
-
-https://mobile.twitter.com/DynamicWebPaige/status/1251019531914317824
-https://github.com/cben/mathdown/wiki/math-in-markdown | Math in MarkDown · cben/mathdown Wiki
-https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
-
-https://www.weforum.org/agenda/2016/04/the-17-equations-that-changed-the-world
-
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
-
-https://www.inkandswitch.com/end-user-programming.html | End-user programming
-
-
 https://foundation.mozilla.org/
 https://access.redhat.com/documentation/en-us/
-
-
-https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-https://foundation.mozilla.org/en/blog/when-content-moderation-hurts/
 
 
 GH Satellite
@@ -243,54 +204,20 @@ https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge You
 
 
 Python
-https://brew.sh/ | The Missing Package Manager for macOS (or Linux) — Homebrew
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
+https://docs.brew.sh/Homebrew-and-Python
 
-Deno
-https://twitter.com/rauchg/status/1260704904693182464
-https://twitter.com/gauravssnl/status/1260477661878632449
-https://deno.land/v1
-https://www.youtube.com/watch?v=M3BM9TB-8yA&feature=emb_logo
-https://jaxenter.com/deno-interview-ryan-dahl-171425.html
-https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
-https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
-https://twitter.com/Rich_Harris/status/1260711137244598272
-https://deno.land/std/fmt
+That site design I like
+https://wsl-guide.kennethreitz.org/en/latest/
 
 https://twitter.com/gr2m/status/1260706056398749696
 https://deno.land/manual/contributing
 
-https://octo-cli.github.io/octo-cli/
-https://twitter.com/natfriedman/status/1260720690472251395
-
-https://twitter.com/natfriedman/status/1260431646257528833
-https://help.github.com/en/github/authenticating-to-github
-
-https://growth.design/psychology/
-
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
-https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
+Philosophy of CS
+https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
-
-Model Managers
-https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
-
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-
-React
-https://www.npmjs.com/package/npx | npx
-https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitter: "📻 We are hosting a Podcast on data-fetching, featuring React, GraphQL and REST! 👨‍💻 With: @tannerlinsley @shuding_ and @rauchg 🔗 Topics: https://t.co/1s73FVFpzG There are a LOT of exciting topics to cover, so please reply with what you are most interested in!" / Twitter
-https://github.com/facebook/metro-bundler
-https://github.com/salesforce/eslint-plugin-lwc
-https://github.com/coryhouse/mock-api-example
 
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
@@ -303,6 +230,7 @@ https://web.dev/fast/ | Fast load times
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
+
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
@@ -329,12 +257,6 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkama
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
-https://twitter.com/js_tut/status/1259507231395110912 | JavaScript Teacher on Twitter: "Stage 1 – HTML (DOM.) Stage 2 – CSS (CSSOM, flex, grid.) Stage 3 – JavaScript / front-end. Stage 4 – git / linux cli Stage 5 – React. Stage 6 – Node. Stage 7 – Express. Stage 8 – Mongo (or MySQL.) Stage 9 – back-end xp @ your 1st job. Stage 10 – You're a Full Stack dev." / Twitter
-
-Alphine JS
-
-Mozilla
-https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
 
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
@@ -392,6 +314,8 @@ https://mobile.twitter.com/seanrose/status/1249863535414218752
 https://mobile.twitter.com/stevesi/status/1249862470006493184
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+https://growth.design/psychology/
 
 Lean Enterprise
 
@@ -476,6 +400,12 @@ https://twitter.com/alicegoldfuss
 https://twitter.com/nnja
 https://twitter.com/DynamicWebPaige
 https://twitter.com/skamille
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
 
 https://blog.twitch.tv
 https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
@@ -980,6 +910,8 @@ Useful Websites
 * [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
 <!--
+https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
+
 http://highscalability.com/all-time-favorites/
 
   * [Microservices Dot IO](http://microservices.io)
