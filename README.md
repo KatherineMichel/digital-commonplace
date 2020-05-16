@@ -162,6 +162,12 @@ https://cli.github.com/
 https://developer.github.com/v3/libraries/
 
 
+https://docs.python.org/3/library/asyncio.html
+https://docs.aiohttp.org/en/stable/
+https://scrapy.org/
+https://wiki.python.org/moin/PyQt
+
+
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
@@ -496,6 +502,8 @@ https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_j
 Homebrew Analytics
 https://github.com/Homebrew/homebrew-formula-analytics
 
+https://plugins.jetbrains.com/
+
 Top downloaded wheels
 https://pythonwheels.com/
 
@@ -515,6 +523,9 @@ Python
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 https://www.python.org/downloads/release/python-390a5/
+
+https://www.python.org/download/pre-releases/
+https://www.python.org/dev/peps/pep-0596/
 
 Django What’s New
 https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
