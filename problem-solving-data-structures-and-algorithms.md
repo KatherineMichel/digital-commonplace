@@ -1,29 +1,46 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
-Anthony
-default dict counter sets - Google Search
-
-https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
-
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world… "
+Courses and practice
+https://leetcode.com
+https://www.hackerrank.com/home
+https://www.hackerrank.com/challenges/capitalize/problem
 
 Problem solving
 https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
 https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
 https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
 
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
-https://en.wikipedia.org/wiki/Control_flow
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+
+https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
+
+
+Anthony
+default dict counter sets - Google Search
 
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
+
+https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
 
 * [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
 
 https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
 https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
 https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
+https://twitter.com/moshezadka/status/1260611595660439552 | Moshe Zadka on Twitter: "Reminder: coming today 8pm" / Twitterhttps://twitter.com/PolkPhebe/status/1260610995401003008 | Phebe Polk on Twitter: "@moshezadka @AlSweigart Coming up this Sunday! Can I get a retweet to help get the word out?" / Twitter
 -->
 
 ## Coding Practice
