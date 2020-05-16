@@ -200,8 +200,6 @@ https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-
 https://github.com/codespaces-examples | codespaces-examples
 https://cli.github.com/
 
-https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
-
 
 Python
 https://docs.brew.sh/Homebrew-and-Python
@@ -209,15 +207,22 @@ https://docs.brew.sh/Homebrew-and-Python
 That site design I like
 https://wsl-guide.kennethreitz.org/en/latest/
 
-https://twitter.com/gr2m/status/1260706056398749696
-https://deno.land/manual/contributing
-
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
 Philosophy of CS
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://jquery.com/ | jQuery
 
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
@@ -439,6 +444,340 @@ https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
 -->
+
+## Useful Courses
+
+Wes Bos
+* [Wes Bos Courses](https://wesbos.com/courses/)
+* [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
+* [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
+* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
+* [React for Beginners](https://reactforbeginners.com/)
+
+Dan Abramov
+* [Just JavaScript](https://justjavascript.com/)
+
+<!--
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
+https://app.slack.com/client/T0B6Z0ZL1/
+https://github.com/wesbos/eslint-config-wesbos
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+https://www.udemy.com/user/brad-traversy/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+-->
+
+<!--
+Virtualenv
+https://twitter.com/hynek/status/1241381814440247299
+
+virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
+https://twitter.com/gjbernat/status/1226803593535279104
+https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
+https://github.com/pyenv/pyenv-update
+
+PyPy
+https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+
+pip innovation
+http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
+https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter: "Starting this year, pip will be more consistent + stricter in the dependencies it installs. https://t.co/vYkAAczeKM Here's what will change, when, and how you can help (testing, talking to our researchers, &amp; spreading the word) https://t.co/8dv6J0YCF8" / Twitter
+
+pip/virtualenv
+https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
+https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Keith-Magee on Twitter: "@jezdez @aaronbassett Not at all! It’s immensely useful - I’ve just completely missed the memo that it existed at all! And somehow, an entire generation of pip tutorials missed it, too..." / Twitter
+
+Pipenv
+https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co | Next Pipenv Release - Google Groups
+
+Conda PyPy
+https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
+
+https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
+
+https://twitter.com/VictorStinner/status/1248666328984059905
+
+"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
+https://twitter.com/trebor74hr/status/1252729526540472323
+
+
+
+Tools Release
+https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
+https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+
+Daphne
+https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
+jpezG5fYgd" / Twitter
+
+django-allauth
+https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
+-->
+
+<!--
+https://twitter.com/gr2m/status/1260706056398749696
+https://deno.land/manual/contributing
+
+CPython API
+https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
+
+pip for Python on Windows
+https://twitter.com/simonw/status/1243297680886870017
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows
+
+https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
+
+
+Homebrew Analytics
+https://github.com/Homebrew/homebrew-formula-analytics
+
+Top downloaded wheels
+https://pythonwheels.com/
+
+High traffic projects
+https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
+https://formulae.brew.sh/analytics/install-on-request/30d/
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
+https://octoverse.github.com/2018/
+https://octoverse.github.com/2017/
+https://octoverse.github.com/2016/#organizations
+
+
+https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
+
+https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
+https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
+
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
+https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
+
+Python
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+
+Django What’s New
+https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
+
+Django Security
+https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
+
+https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
+
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+pypy manylinux wheels
+https://twitter.com/codewithanthony/status/1256274470076993536
+https://cffi.readthedocs.io/en/latest/
+
+Distro
+http://distrowatch.com/table.php?distribution=ubuntu
+
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+https://twitter.com/codewithanthony/status/1255261241880252417
+
+https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
+https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+flake8
+https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
+https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
+
+https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
+
+https://pycodestyle.pycqa.org/en/latest/intro.html
+
+https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
+
+pre-commit
+https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
+
+https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
+
+https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
+https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
+https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html | Release Highlights for scikit-learn 0.23 — scikit-learn 0.23.0 documentationhttps://scikit-learn.org/stable/whats_new/v0.23.html#changes-0-23 | Version 0.23.0 — scikit-learn 0.23.0 documentation
+
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+
+node.js Release Schedule
+https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
+https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+https://nodejs.org/en/about/releases/
+https://nodejs.org/en/about/working-groups/
+https://github.com/nodejs/Release
+
+node as Example
+https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
+
+* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
+https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
+
+https://nextjs.org/ | Next.js by Vercel - The React Framework
+https://nextjs.org/blog/next-9-4 | Blog - Next.js 9.4 | Next.js
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+
+https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
+
+Gatsby Case Study
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/gatsbyjs
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
+https://github.com/tailwindcss/tailwindcss/discussions/1656
+
+https://github.com/denoland/deno/pull/5273
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/
+https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
+
+https://en.wikipedia.org/wiki/Linux_distribution
+https://www.erlang.org/news/140
+https://gcc.gnu.org/gcc-10/
+
+Microsoft
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://primer.style/doctocat/usage/deployment
+
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2020-release/ | Python in Visual Studio Code – May 2020 Release | Python
+https://code.visualstudio.com/updates/v1_45 | Visual Studio Code April 2020
+
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+MS OS
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+
+Google Chrome Ship
+https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
+
+Azure OS
+https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
+https://azure.microsoft.com/en-us/roadmap/?v=17.23h
+
+VS Code OS and Release
+https://github.com/github/VisualStudio/releases
+https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
+https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
+
+.NET Release Examples
+https://github.com/dotnet/core/blob/master/roadmap.md
+http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
+https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
+https://github.com/dotnet/core/tree/master/release-notes
+https://github.com/dotnet/designs
+https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
+https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
+
+MS Edge
+https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
+
+
+Roadmap example
+https://github.com/aws/elastic-beanstalk-roadmap/projects/1
+https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
+
+Examples
+https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
+https://github.com/zeit/next.js/blob/canary/contributing.md
+
+Example Notes
+https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
+
+
+https://news.ycombinator.com/item?id=22920437
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+https://github.com/simonw/til
+
+https://twitter.com/simonw/status/1250651420660871168
+https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
+
+Simon- Release
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
+https://github.com/dogsheep/github-to-sqlite/releases
+
+
+https://medium.com/tag/release-notes
+https://medium.com/medium-release-notes | Medium Release Notes – Medium
+https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
+
+https://keepachangelog.com/en/1.0.0/
+
+Links change log lines to PRs
+
+Types of changes
+Added for new features.
+Changed for changes in existing functionality.
+Deprecated for soon-to-be removed features.
+Removed for now removed features.
+Fixed for any bug fixes.
+Security in case of vulnerabilities.
+-->
+
 
 ## Good Habits
 
@@ -1124,6 +1463,8 @@ https://github.com/mongodb/mongo/wiki
 
 https://github.com/adobe/open-development-template
 -->
+
+https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
 
 <!--
 Developer Experience
