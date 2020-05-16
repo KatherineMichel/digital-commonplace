@@ -1,31 +1,24 @@
 # JavaScript Notes
 
 <!--
-http://bradfrost.com/blog/post/my-struggle-to-learn-react/
-
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
 https://en.wikipedia.org/wiki/HTTP/3
 
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-http://diana-adrianne.com/purecss-francine/ | Francine
-https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
-
-https://bestmotherfucking.website/ | Best Motherfucking Website
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
 
-https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+Senior devs should understand
+https://twitter.com/_ericelliott/status/1147563388928745472 | Twitter
+https://twitter.com/js_tut/status/1259507231395110912 | JavaScript Teacher on Twitter: "Stage 1 – HTML (DOM.) Stage 2 – CSS (CSSOM, flex, grid.) Stage 3 – JavaScript / front-end. Stage 4 – git / linux cli Stage 5 – React. Stage 6 – Node. Stage 7 – Express. Stage 8 – Mongo (or MySQL.) Stage 9 – back-end xp @ your 1st job. Stage 10 – You're a Full Stack dev." / Twitter
 
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
 
-https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+Airbnb- isomorphic
+https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
+https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
+https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+
+https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
 
 
 HTTP, API, DOM
@@ -44,37 +37,11 @@ https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js 
 https://web.dev/ | web.dev  |  web.dev
 https://web.dev/fast/
 
-https://flaviocopes.com/run-javascript-snippets/ | How I run little JavaScript snippets
-https://flaviocopes.com/javascript-glossary/ | The JavaScript Glossary
-
-https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/ | JavaScript Modules: From IIFEs to CommonJS to ES6 Modules
-https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ | A Beginner's Guide to JavaScript's Prototype
-
-https://github.com/kentcdodds/testing-workshop/tree/fem-2018 | kentcdodds/testing-workshop at fem-2018
-https://github.com/kentcdodds/how-jest-mocking-works | kentcdodds/how-jest-mocking-works
-
-Kent
-https://testingjavascript.com/ | Testing JavaScript with Kent C. Dodds
-
-https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
-https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
--->
-
-<!--
-Senior devs should understand
-https://twitter.com/_ericelliott/status/1147563388928745472 | Twitter
-
 Performance
 https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
 
-Airbnb- isomorphic
-https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
-https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
-https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 
-https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
-
-https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
 
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
@@ -92,11 +59,23 @@ https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery meth
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://jquery.com/ | jQuery
 
+https://bestmotherfucking.website/ | Best Motherfucking Website
+
 https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
 https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
+
+http://diana-adrianne.com/purecss-francine/ | Francine
+https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
+
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 -->
 
 <!--
+https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
 JS Recommendations
 https://twitter.com/jkup/status/1217849585219010560
 
@@ -147,19 +126,7 @@ Wes Bos
 Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
-Brian Holt React Courses
-* [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/) and [Complete Intro to React v5 GitHub](https://github.com/btholt/complete-intro-to-react-v5)
-* [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4) and [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4)
-* [Brian Holt: Frontend Masters Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4), [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4), and [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4)
-* [Brian Holt: Frontend Masters Complete Intro to React](https://frontendmasters.com/courses/react), [Complete Intro to React GitHub](https://github.com/btholt/complete-intro-to-react), and [Complete Intro to React](https://btholt.github.io/complete-intro-to-react)
-* [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
-
 <!--
-https://reactjs.org/docs/composition-vs-inheritance.html | Composition vs Inheritance - React
-
-https://github.com/btholt/react-hooks-examples | btholt/react-hooks-examples: Created with CodeSandbox
-https://codesandbox.io/s/github/btholt/react-hooks-examples | hooks-examples - CodeSandbox
-
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
 https://app.slack.com/client/T0B6Z0ZL1/
@@ -175,6 +142,9 @@ https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
 https://frontendmasters.com
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
 
 https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
@@ -193,7 +163,33 @@ https://github.com/andrews1022/web-development-2020-course-list | andrews1022/we
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 -->
 
+
+## React, Angular, Vue
+
+Brian Holt React Courses
+* [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/) and [Complete Intro to React v5 GitHub](https://github.com/btholt/complete-intro-to-react-v5)
+* [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4) and [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4)
+* [Brian Holt: Frontend Masters Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4), [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4), and [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4)
+* [Brian Holt: Frontend Masters Complete Intro to React](https://frontendmasters.com/courses/react), [Complete Intro to React GitHub](https://github.com/btholt/complete-intro-to-react), and [Complete Intro to React](https://btholt.github.io/complete-intro-to-react)
+* [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
+
 <!--
+https://web.dev/react
+https://web.dev/angular
+
+https://reactjs.org/docs/composition-vs-inheritance.html | Composition vs Inheritance - React
+
+https://github.com/btholt/react-hooks-examples | btholt/react-hooks-examples: Created with CodeSandbox
+https://codesandbox.io/s/github/btholt/react-hooks-examples | hooks-examples - CodeSandbox
+
+http://bradfrost.com/blog/post/my-struggle-to-learn-react/
+
+Dan
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks - Dan Abramov - Medium
+https://overreacted.io/on-let-vs-const/ | On let vs const — Overreacted
+https://overreacted.io/goodbye-clean-code/ | Goodbye, Clean Code — Overreacted
+https://overreacted.io/react-as-a-ui-runtime/ | React as a UI Runtime — Overreacted
+
 Tyler
 https://tylermcginnis.com/free-react-bootcamp/ | Free Online React Bootcamp | TylerMcGinnis.com
 https://tylermcginnis.com/courses/react-fundamentals/ | React Fundamentals - The best way to learn React Fundamentals
@@ -208,19 +204,10 @@ https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2 | advanced
 Kent Dodd- Testing
 https://github.com/kentcdodds/react-testing-library | kentcdodds/react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 https://github.com/kentcdodds/react-testing-workshop | kentcdodds/react-testing-workshop: A workshop for testing react applications
--->
-
-<!--
-https://web.dev/react
-https://web.dev/angular
-
-Dan
-https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889 | Making Sense of React Hooks - Dan Abramov - Medium
-https://overreacted.io/on-let-vs-const/ | On let vs const — Overreacted
-https://overreacted.io/goodbye-clean-code/ | Goodbye, Clean Code — Overreacted
-https://overreacted.io/react-as-a-ui-runtime/ | React as a UI Runtime — Overreacted
 
 https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
+
+https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitter: "📻 We are hosting a Podcast on data-fetching, featuring React, GraphQL and REST! 👨‍💻 With: @tannerlinsley @shuding_ and @rauchg 🔗 Topics: https://t.co/1s73FVFpzG There are a LOT of exciting topics to cover, so please reply with what you are most interested in!" / Twitter
 -->
 
 ## JavaScript People
@@ -252,6 +239,12 @@ https://twitter.com/youyuxi
 
 https://flaviocopes.com
 https://medium.com/@js_tut | JavaScript Teacher – Medium
+
+https://flaviocopes.com/run-javascript-snippets/ | How I run little JavaScript snippets
+https://flaviocopes.com/javascript-glossary/ | The JavaScript Glossary
+
+https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/ | JavaScript Modules: From IIFEs to CommonJS to ES6 Modules
+https://tylermcginnis.com/beginners-guide-to-javascript-prototype/ | A Beginner's Guide to JavaScript's Prototype
 -->
 
 Node and React- People
@@ -259,6 +252,19 @@ Node and React- People
 * [Dan Abramov](https://overreacted.io) and [Dan Abramov Medium](https://medium.com/@dan_abramov)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 * [Kent Dodds](https://kentcdodds.com) and [Kent Dodds GitHub](https://github.com/kentcdodds)
+
+<!--
+https://www.eventbrite.com/e/webinar-stuff-everybody-knows-the-prequel-with-laurie-voss-tickets-85578175627 | [WEBINAR] Stuff Everybody Knows: The Prequel (With Laurie Voss) Tickets, Thu, Jan 16, 2020 at 5:30 PM | Eventbrite
+https://www.hackreactor.com/webinars | Free Coding Bootcamp Webinar for Software Engineers | Hack Reactor
+
+https://github.com/kentcdodds/testing-workshop/tree/fem-2018 | kentcdodds/testing-workshop at fem-2018
+https://github.com/kentcdodds/how-jest-mocking-works | kentcdodds/how-jest-mocking-works
+
+Kent
+https://testingjavascript.com/ | Testing JavaScript with Kent C. Dodds
+
+https://github.com/coryhouse/mock-api-example
+-->
 
 Recommended by Addy Osmani and Eric Elliot
 * [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net), [Eloquent JavaScript PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf), and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
@@ -441,6 +447,8 @@ Mozilla JavaScript Tutorials
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 
 <!--
+https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
+
 https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
 
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
