@@ -159,23 +159,10 @@ https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-
 https://github.com/codespaces-examples | codespaces-examples
 https://cli.github.com/
 
-https://developer.github.com/v3/libraries/
-
-
-https://docs.python.org/3/library/asyncio.html
-https://docs.aiohttp.org/en/stable/
-https://scrapy.org/
-https://wiki.python.org/moin/PyQt
-
 
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
-
-
-https://github.com/api-evangelist
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -336,18 +323,33 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 -->
 
 
+
 <!--
-GitHub App/Probot people
+https://docs.python.org/3/library/asyncio.html
+https://docs.aiohttp.org/en/stable/
+https://scrapy.org/
+https://wiki.python.org/moin/PyQt
+
+https://developer.github.com/v3/libraries/
+
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
 https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
 https://github.com/ryanmcgrath/twython
 https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
-https://twitter.com/hayleydenb/status/1257786499933728768
+GA/App/Probot People
+https://github.com/swinton/
+https://github.com/gr2m/
+https://github.com/JasonEtco/
+https://github.com/mscoutermarsh/
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
 
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+https://twitter.com/hayleydenb/status/1257786499933728768
 
 https://twitter.com/webology
 https://static.simonwillison.net
@@ -390,6 +392,8 @@ CSS/JS
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
+People
+https://www.twitch.tv/directory/following
 
 https://blog.twitch.tv
 https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
@@ -397,12 +401,7 @@ https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency 
 Streaming
 * [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
 
-Live Coding
-https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21 | My Twitch Live Coding Setup – Suz Hinton – Medium
 https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
-
-People
-https://www.twitch.tv/directory/following
 
 Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
@@ -416,6 +415,9 @@ https://github.com/MishManners?tab=followers
 https://twitter.com/MishManners/status/1240839777437364224
 https://twitter.com/MishManners/status/1239360667703885825
 https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 -->
 
 <!--
