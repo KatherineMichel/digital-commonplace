@@ -57,10 +57,12 @@ https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools
 https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
 https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
 https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
 
 https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
 https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/fileformats.html | File Formats — Python 3.8.3 documentation
 
 https://en.wikipedia.org/wiki/Increment_and_decrement_operators
 
