@@ -28,6 +28,13 @@ https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
 Eyes
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
+https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382 | The joy of sets - BBC Archive
+https://backgroundsbyikea.com/ | Backgrounds by IKEA, a collection of backgrounds for your video calls
+
+Tabs
+https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/ | Organize your tabs with tab groups in Google Chrome
+
+
 ToDo
 https://twitter.com/vmbrasseur/status/1259949081876557824 | VM (Vicky) Brasseur on Twitter: "@KatiMichel @rkoutnik Thank you! If you end up liking it, I'd be grateful for a review on Amazon. It makes a much larger difference for independent authors than it probably should. :-/" / Twitter
 * The intro to OS I wish I'd had
@@ -44,6 +51,11 @@ https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - Code
 http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+
+Twitter 
+https://hunterwalk.com/2016/07/18/why-doesnt-twitters-safety-policy-differentiate-between-my-backyard-and-your-backyard-a-simple-proposal/ | Why Doesn’t Twitter’s Safety Policy Differentiate Between My Backyard and Your Backyard? A Simple (?) Proposal. | Hunter Walk
+https://twitter.com/kayvz/status/1261408814961586176 | Kayvon Beykpour on Twitter: "@hunterwalk @freia wanna hop on a broadcast sometime to talk about this live? can be public and open so others can listen too :)" / Twitter
 
 
 Content
@@ -116,6 +128,9 @@ https://2020.pyconuk.org/ | PyCon UK 2020
 
 https://www.acm.org/virtual-conferences | Virtual Conferences
 
+MS Build
+https://mybuild.microsoft.com/sessions | MyBuild - Session catalog
+
 May 6
 https://githubsatellite.com/
 May 19-20
@@ -159,6 +174,8 @@ https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-
 https://github.com/codespaces-examples | codespaces-examples
 https://cli.github.com/
 
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
@@ -170,6 +187,10 @@ https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 Philosophy of CS
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
 
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
@@ -381,6 +402,9 @@ https://twitter.com/alicegoldfuss
 https://twitter.com/nnja
 https://twitter.com/DynamicWebPaige
 https://twitter.com/skamille
+
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
 
 Sarah
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
