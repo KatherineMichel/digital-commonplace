@@ -1,6 +1,9 @@
 # Python Tools and Release Managers
 
 <!--
+https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
+https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
+
 https://snarky.ca/thoughts-on-a-tooling-workflow/
 https://twitter.com/brettsky/status/1260782564597366785
 
