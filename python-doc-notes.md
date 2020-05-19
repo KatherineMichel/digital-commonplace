@@ -9,6 +9,7 @@ https://codeinplace2020.github.io/faqs/section3-alt.pdf
 
 https://us.edstem.org/courses/1470/discussion/46041 | Section 470 – Discussion
 https://us.edstem.org/courses/1470/discussion/58899 | Section 470 – Discussion
+https://us.edstem.org/courses/490/discussion/57042 | Code in Place – Discussion
 
 Stanford Engineering Anywhere
 https://see.stanford.edu/Course#Introduction%20to%20Computer%20Science
@@ -31,6 +32,11 @@ https://compedu.stanford.edu/codeinplace/v1/#/karel/section1/hospital | Hospital
 https://compedu.stanford.edu/codeinplace/v1/#/handout/Assignment2.pdf | Handout
 https://compedu.stanford.edu/codeinplace/v1/#/handout/section2.pdf | Handout
 https://compedu.stanford.edu/codeinplace/v1/#/assignment/khansole | Assignment
+
+https://codeinplace2020.github.io/faqs/imageReference.pdf | Microsoft Word - Image Reference.docx
+https://codeinplace2020.github.io/faqs/section5.pdf | section5.pdf
+
+https://compedu.stanford.edu/codeinplace/v1/#/example/index.html | Worked Example
 
 https://www.youtube.com/watch?time_continue=430&v=Y9Qi-6TWwpM&feature=emb_logo | Lecture10 - Checkers - YouTube
 https://www.youtube.com/watch?time_continue=551&v=8PCQndHgkPE&feature=emb_logo | Lecture8 - Calendar - YouTube
