@@ -4,6 +4,11 @@
 https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
 https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
 
+https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
+https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
+
+https://twitter.com/di_codes/status/1261415478502854657 | Dustin Ingram on Twitter: "Today I got to pair with @fshwsprr, working on his @pypi PR to add a contributor "credits" page. Matt started working on it almost exactly 2 years ago at the PyCon 2018 sprints (now that is dedication!) and I think we got it to the point where it's nearly ready to merge." / Twitter
+
 https://snarky.ca/thoughts-on-a-tooling-workflow/
 https://twitter.com/brettsky/status/1260782564597366785
 
