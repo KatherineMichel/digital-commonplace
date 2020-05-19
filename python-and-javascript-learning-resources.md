@@ -131,6 +131,8 @@ https://www.manning.com/books/the-quick-python-book-third-edition | Manning | Th
 -->
 
 <!--
+https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
+
 https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
 
 https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
