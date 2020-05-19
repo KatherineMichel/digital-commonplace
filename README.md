@@ -20,9 +20,6 @@ https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://www.rigb.org/christmas-lectures/2019-secrets-and-lies | CHRISTMAS LECTURES 2019: Secrets and lies | The Royal Institution: Science Lives Here
 
-https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
-https://www.apple.com/ipad-keyboards/
-
 https://www.outsideonline.com/2413303/in-praise-of-walking-book-excerpt-shane-omara
 
 Fitness
@@ -34,6 +31,11 @@ https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-devel
 
 https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382 | The joy of sets - BBC Archive
 https://backgroundsbyikea.com/ | Backgrounds by IKEA, a collection of backgrounds for your video calls
+
+https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
+https://www.apple.com/ipad-keyboards/
+
+https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your | How do you take notes and organize your knowledge? | Lobsters
 
 Tabs
 https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/ | Organize your tabs with tab groups in Google Chrome
@@ -178,8 +180,12 @@ Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 GH Satellite
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+
 https://github.com/codespaces-examples | codespaces-examples
+https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
 https://cli.github.com/
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
 
 https://mikecoutermarsh.com/ | Mike Coutermarsh
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
@@ -187,6 +193,9 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
+
+
+https://unix.stackexchange.com/questions/383365/zsh-compinit-insecure-directories-run-compaudit-for-list | shell - zsh compinit: insecure directories, run compaudit for list - Unix & Linux Stack Exchange
 
 
 Philosophy of CS
@@ -203,6 +212,15 @@ https://twitter.com/noahmp/status/1260417537008971787 | Noah Pepper on Twitter: 
 https://twitter.com/chrisalbon/status/1260724880208621568 | Chris Albon on Twitter: "Jeremy wrote code to scrape apartment listings and find great apartments with low quality listings (bad photos, etc). Alright that is just cool." / Twitter
 
 
+Ubuntu
+https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
+ubuntu release notes - Google Search
+
+https://github.com/axnsan12/drf-yasg/pull/415/files | Improve testing by Jamim · Pull Request #415 · axnsan12/drf-yasg
+
+https://digital.gov/event/2020/05/21/uswds-monthly-call-may-2020/ | USWDS Monthly Call - Cards, Forms, and Data Visualizations – Digital.gov
+
+
 https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
 
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
@@ -215,6 +233,11 @@ https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects
 
 https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
 https://schema.org/
+
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
+
+https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
 
 
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
@@ -1447,6 +1470,8 @@ Marketplaces
 * [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 
 <!--
+Tips
+https://twitter.com/mattbierner/status/1261355671452217344
 https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
 
 https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
