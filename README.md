@@ -6,6 +6,8 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 "Leave people better than you found them."
 https://twitter.com/CHERdotdev/status/1257392420754542594
 
+https://twitter.com/commit2tweet/status/1262270462727532544 | A GitHub Action story on Twitter: "Hello, world! @KatiMichel" / Twitter
+
 Genographic Project
 https://genographic.nationalgeographic.com/results/dashboard# | Dashboard | Genographic Project
 https://genographic.nationalgeographic.com/results/print | Print | Genographic Project
@@ -15,6 +17,8 @@ https://www.amazon.com/MacBook-Plastic-Silicone-Keyboard-Compatible/dp/B07PTY68K
 https://www.cnn.com/2020/05/07/cnn-underscored/macbook-pro-13-inch-2020-hands-on/index.html | 13-inch MacBook Pro Hands-On: 48 hours with $1,299 and $1,799 models - CNN
 
 https://personal.vanguard.com/us/funds/tools/marketsummary
+
+https://www.rigb.org/christmas-lectures/2019-secrets-and-lies | CHRISTMAS LECTURES 2019: Secrets and lies | The Royal Institution: Science Lives Here
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
@@ -33,6 +37,8 @@ https://backgroundsbyikea.com/ | Backgrounds by IKEA, a collection of background
 
 Tabs
 https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/ | Organize your tabs with tab groups in Google Chrome
+
+https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
 
 
 ToDo
@@ -128,14 +134,15 @@ https://2020.pyconuk.org/ | PyCon UK 2020
 
 https://www.acm.org/virtual-conferences | Virtual Conferences
 
-MS Build
-https://mybuild.microsoft.com/sessions | MyBuild - Session catalog
-
 May 6
 https://githubsatellite.com/
+https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
+https://git-merge.com/ | Git Merge 2018 — March, Barcelona
+
 May 19-20
 https://register.build.microsoft.com/
-https://git-merge.com/ | Git Merge 2018 — March, Barcelona
+https://mybuild.microsoft.com/sessions | MyBuild - Session catalog
+
 https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
 
 PyCon
@@ -182,10 +189,18 @@ https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
 
 
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
 Philosophy of CS
 https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
+
+
+https://www.cnx-software.com/2020/05/13/device-farm-generates-raspbian-armbian-docker-images-for-about-100-arm-linux-sbcs/ | DEVICE.FARM Generates Raspbian/Armbian Docker Images for about 100 Arm Linux SBCs
+
+https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
+
+https://twitter.com/QualityFrog/status/1261212047640952833 | Ben Simo @ Home on Twitter: "Q: When I was 4, my sister was 2. I am now 44. How old is my sister? Programmer: 44 - (4 - 2) = 42 Tester: https://t.co/0g4i3Q9ugn" / Twitter
+
+https://twitter.com/noahmp/status/1260417537008971787 | Noah Pepper on Twitter: "TIL there are so many "I left SF" blog posts a data scientist did an analysis of them." / Twitter
+https://twitter.com/chrisalbon/status/1260724880208621568 | Chris Albon on Twitter: "Jeremy wrote code to scrape apartment listings and find great apartments with low quality listings (bad photos, etc). Alright that is just cool." / Twitter
 
 
 https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
@@ -193,6 +208,13 @@ https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrav
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
+
+https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
+https://schema.org/
 
 
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
@@ -213,6 +235,11 @@ https://web.dev/fast/ | Fast load times
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
+
+
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
 
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
@@ -239,6 +266,8 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pu
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
 
 SICP
