@@ -1019,6 +1019,28 @@ https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 ## API and Automation Stuff
 
 <!--
+https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
+
+Python
+https://github.com/marketplace/actions/deploy-to-github-pages-python | Deploy to GitHub Pages - Python · Actions · GitHub Marketplace
+
+https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
+
+Examples
+https://github.com/gr2m/twitter-together | gr2m/twitter-together: A GitHub action to tweet from a repository
+https://github.com/TryGhost/action-ghost-release | TryGhost/action-ghost-release: GitHub Action to release Ghost
+https://github.com/marketplace/actions/scheduled-issue | Scheduled Issue · Actions · GitHub Marketplace
+https://github.com/marketplace/actions/actions-todo-bot | Actions TODO Bot · Actions · GitHub Marketplace
+https://github.com/marketplace/actions/twilio-sms | Twilio SMS · Actions · GitHub Marketplace
+
+https://github.com/nektos/act
+
+https://github.com/gr2m/deno-playground | gr2m/deno-playground
+https://github.com/swinton/alfred-canned | swinton/alfred-canned: Canned replies, at your fingertips
+https://github.com/marketplace/actions/stale-image-remover | Stale Image Remover · Actions · GitHub Marketplace
+
+https://github.com/dessant/probot-messages | dessant/probot-messages: Probot extension for communicating with repository maintainers
+
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
 
@@ -1030,16 +1052,6 @@ https://twitter.com/natfriedman/status/1260720690472251395
 
 https://twitter.com/natfriedman/status/1260431646257528833
 https://help.github.com/en/github/authenticating-to-github
-
-https://github.com/nektos/act
-
-
-https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
-
-https://github.com/gr2m/deno-playground | gr2m/deno-playground
-https://github.com/swinton/alfred-canned | swinton/alfred-canned: Canned replies, at your fingertips
-https://github.com/marketplace/actions/stale-image-remover | Stale Image Remover · Actions · GitHub Marketplace
-
 
 https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
 https://twitter.com/bitandbang/status/1159514802596777984
@@ -1101,6 +1113,7 @@ https://github.com/semantic-release/semantic-release/issues/1194
 Python Plugin
 https://github.com/semantic-release/git/issues/172#issuecomment-557203217
 
+https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
 https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
 https://github.com/probot/create-probot-app
 https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
@@ -1151,6 +1164,8 @@ https://blog.jessfraz.com/post/the-life-of-a-github-action/ | Jessie Frazelle's 
 
 Example Actions
 https://github.com/sdras/awesome-actions
+
+https://michaelheap.com/building-github-actions | Building GitHub Actions | Michael Heap
 
 https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
 GitHub Hackathon
