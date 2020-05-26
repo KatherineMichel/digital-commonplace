@@ -33,29 +33,6 @@ https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-devel
 https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382 | The joy of sets - BBC Archive
 https://backgroundsbyikea.com/ | Backgrounds by IKEA, a collection of backgrounds for your video calls
 
-Zoom
-https://us04web.zoom.us/meeting | My Meetings - Zoom
-https://zoom.us/recording | My Recordings - Zoom
-https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
-https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
-
-Record a Video
-https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
-
-Broadcasting
-https://obsproject.com/ | Open Broadcaster Software | OBS
-https://github.com/HandBrake | HandBrake
-https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
-
-My YouTube
-https://www.youtube.com/feed/my_videos | (2) Katherine Michel - YouTube
-
-Repo
-https://github.com/KatherineMichel/setting-up-an-open-source-project
-
-https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
-https://www.apple.com/ipad-keyboards/
-
 https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your | How do you take notes and organize your knowledge? | Lobsters
 
 Tabs
@@ -66,34 +43,20 @@ https://getmemex.com/ | 1 - WorldBrain's Memex
 https://chrome.google.com/webstore/detail/worldbrains-memex/abkfbakhjpmblaafnpgjppbmioombali/related | WorldBrain's Memex - Chrome Web Store
 https://github.com/WorldBrain | WorldBrain.io - Collective Web Intelligence
 
+https://nesslabs.com/roam-research-bookmarklet
+https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
 
-https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
+http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
 
-
-PyOhio
-https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
-https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
-
-https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 
 Docs
 https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating.html | Season of Docs announces participating organizations for 2020 | Google Open Source Blog
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
-p5.js
+Rotating p5.js
 https://twitter.com/gr2m/status/1259962901130969088 | Gregor on Twitter: "p5.js project (@p5xjs) is still looking for a project lead: https://t.co/JKBSJKKAku - 20-40h/week contracting, remote - up $50,000 stipend for 1 year - mentorship provided - applications very welcome if you identify with groups underrepresented open-source, art, or technology" / Twitter
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-
-Twitter 
-https://hunterwalk.com/2016/07/18/why-doesnt-twitters-safety-policy-differentiate-between-my-backyard-and-your-backyard-a-simple-proposal/ | Why Doesn’t Twitter’s Safety Policy Differentiate Between My Backyard and Your Backyard? A Simple (?) Proposal. | Hunter Walk
-https://twitter.com/kayvz/status/1261408814961586176 | Kayvon Beykpour on Twitter: "@hunterwalk @freia wanna hop on a broadcast sometime to talk about this live? can be public and open so others can listen too :)" / Twitter
-
 
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
@@ -104,48 +67,30 @@ https://opensource.com/article/19/11/correspondent-program | Announcing the Open
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
+https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
+https://www.apple.com/ipad-keyboards/
 
+https://unix.stackexchange.com/questions/383365/zsh-compinit-insecure-directories-run-compaudit-for-list | shell - zsh compinit: insecure directories, run compaudit for list - Unix & Linux Stack Exchange
 
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+Zoom
+https://us04web.zoom.us/meeting | My Meetings - Zoom
+https://zoom.us/recording | My Recordings - Zoom
+https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
+https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
 
-https://en.wikipedia.org/wiki/Control_flow
+Record a Video
+https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
+https://support.apple.com/en-us/HT208721
+https://github.com/HandBrake | HandBrake
+https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
+https://obsproject.com/ | Open Broadcaster Software | OBS
 
+My YouTube
+https://www.youtube.com/feed/my_videos | (2) Katherine Michel - YouTube
 
-Brian Holt, Frontend Masters
-Traversy Media
-
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
-https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
-real python python basics pdf - Google Search
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-
-https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
-
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-https://github.com/KatherineMichel/100-days-of-code
-
-100 Days of Code
-https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
-
-Code challenges
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-
-Algorithms
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-
-Casey
-https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
-
+Repo
+https://github.com/KatherineMichel/setting-up-an-open-source-project
 
 https://nuzzel.com/KatiMichel/feeds
 https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
@@ -153,11 +98,18 @@ https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
 Stars
 * [Astral App](https://astralapp.com)
 
-http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
+CfPs
+PyOhio
+https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
+https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
 
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
 
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
@@ -210,8 +162,39 @@ https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
 
-https://nesslabs.com/roam-research-bookmarklet
-https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+
+https://en.wikipedia.org/wiki/Control_flow
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+Brian Holt, Frontend Masters
+Traversy Media
+
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
+https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
+real python python basics pdf - Google Search
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
+
+https://github.com/KatherineMichel/100-days-of-code
+
+100 Days of Code
+https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
+https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
+Code challenges
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+
+Algorithms
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
@@ -242,26 +225,13 @@ https://github.com/microsoft/ProjectReunion | microsoft/ProjectReunion: Project 
 https://github.com/microsoft/winget-cli/issues/179 | (2) Please include ability to opt out of telemetry and clear documentation on how to opt out · Issue #179 · microsoft/winget-cli
 https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Windows Package Manager Preview | Windows Command Line
 
+Casey
+https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
 
-
-https://unix.stackexchange.com/questions/383365/zsh-compinit-insecure-directories-run-compaudit-for-list | shell - zsh compinit: insecure directories, run compaudit for list - Unix & Linux Stack Exchange
-
-
-Philosophy of CS
-https://cse.buffalo.edu/~rapaport/Papers/phics.pdf
-
-
-https://www.cnx-software.com/2020/05/13/device-farm-generates-raspbian-armbian-docker-images-for-about-100-arm-linux-sbcs/ | DEVICE.FARM Generates Raspbian/Armbian Docker Images for about 100 Arm Linux SBCs
-
-https://www.techempower.com/benchmarks/#section=test&runid=4c536195-90ff-40b8-8636-a719318a864b&hw=ph&test=plaintext | TechEmpower Framework Benchmarks
-
-https://twitter.com/QualityFrog/status/1261212047640952833 | Ben Simo @ Home on Twitter: "Q: When I was 4, my sister was 2. I am now 44. How old is my sister? Programmer: 44 - (4 - 2) = 42 Tester: https://t.co/0g4i3Q9ugn" / Twitter
-
-https://twitter.com/noahmp/status/1260417537008971787 | Noah Pepper on Twitter: "TIL there are so many "I left SF" blog posts a data scientist did an analysis of them." / Twitter
-https://twitter.com/chrisalbon/status/1260724880208621568 | Chris Albon on Twitter: "Jeremy wrote code to scrape apartment listings and find great apartments with low quality listings (bad photos, etc). Alright that is just cool." / Twitter
 
 
 Linux
@@ -274,31 +244,22 @@ ubuntu release notes - Google Search
 
 https://github.com/axnsan12/drf-yasg/pull/415/files | Improve testing by Jamim · Pull Request #415 · axnsan12/drf-yasg
 
-https://digital.gov/event/2020/05/21/uswds-monthly-call-may-2020/ | USWDS Monthly Call - Cards, Forms, and Data Visualizations – Digital.gov
-
 
 https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
 https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
 
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
-
 https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
 https://schema.org/
-
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
-
-https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
 
 
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
@@ -319,7 +280,6 @@ https://web.dev/fast/ | Fast load times
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
-
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
@@ -469,21 +429,17 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 
 
 <!--
-https://docs.python.org/3/library/asyncio.html
-https://docs.aiohttp.org/en/stable/
 https://scrapy.org/
-https://wiki.python.org/moin/PyQt
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
 https://developer.github.com/v3/libraries/
 
 https://github.com/api-evangelist
 https://github.com/TonnyL/Awesome_APIs
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
 GA/App/Probot People
 https://github.com/swinton/
@@ -590,11 +546,14 @@ Dan Abramov
 
 <!--
 https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
+
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
+https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
 https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
 
 https://github.com/feldroy/django-crash-starter
 
@@ -668,28 +627,29 @@ https://octoverse.github.com/#top-and-trending-projects | The State of the Octov
 https://octoverse.github.com/2018/
 https://octoverse.github.com/2017/
 https://octoverse.github.com/2016/#organizations
+
+https://docs.python.org/3/library/asyncio.html
+https://docs.aiohttp.org/en/stable/
+https://wiki.python.org/moin/PyQt
+
+https://news.ycombinator.com/item?id=22920437
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+https://github.com/simonw/til
+
+https://twitter.com/simonw/status/1250651420660871168
+https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
+
+Simon- Release
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
+https://github.com/dogsheep/github-to-sqlite/releases
 -->
 
+
 <!--
-GitLab
-https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
-https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
-
-Mariatta
-https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
-https://pypi.org/project/pip/ | pip · PyPI
-https://pyup.io/docs/bot/config/ | //docs - Configuration
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
-
-https://marc.info/?l=openbsd-announce&m=158989783626149&w=2 | 'OpenBSD 6.7 released - May 19, 2020' - MARC
-
-https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
-
-
 Python release
 
 Python
@@ -774,6 +734,14 @@ pre-commit
 https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
 
 https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
+
+Mariatta
+https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
+https://pypi.org/project/pip/ | pip · PyPI
+https://pyup.io/docs/bot/config/ | //docs - Configuration
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
 
 Tools Release
 https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
@@ -946,22 +914,6 @@ Example Notes
 https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
 
 
-https://news.ycombinator.com/item?id=22920437
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-https://github.com/simonw/til
-
-https://twitter.com/simonw/status/1250651420660871168
-https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
-
-Simon- Release
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
-https://github.com/dogsheep/github-to-sqlite/releases
-
-
 https://medium.com/tag/release-notes
 https://medium.com/medium-release-notes | Medium Release Notes – Medium
 https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
@@ -979,8 +931,16 @@ Fixed for any bug fixes.
 Security in case of vulnerabilities.
 
 
+https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
+
+https://marc.info/?l=openbsd-announce&m=158989783626149&w=2 | 'OpenBSD 6.7 released - May 19, 2020' - MARC
+
+
 https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
 https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
+GitLab
+https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
+https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
 -->
 
 
@@ -3432,6 +3392,7 @@ Site Deaths and Failures
 <!--
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
+https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
 https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
 
 https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
