@@ -167,6 +167,9 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
+https://csslayout.io/
+https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
+
 https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
 
 https://nuxtjs.org/
@@ -192,6 +195,7 @@ https://redwoodjs.com/
 https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
 https://github.com/redwoodjs/redwood
 https://twitter.com/mojombo/status/1238942353273978880
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 
 https://github.com/hammerframework/hammer
 https://twitter.com/mojombo/status/1156561637450457089
