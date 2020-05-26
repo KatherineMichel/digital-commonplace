@@ -2,6 +2,123 @@
 
 ## Stanford Code in Place Notes
 
+https://www.rpgbx.com/python/masternotes | ALL Notes, Compiled! — rpgbx
+https://static1.squarespace.com/static/5e6685ae2118a020c291f4c0/t/5ec19af73ca6b4722cef1285/1589746454734/MASTER+PDF.pdf | MASTER+PDF.pdf
+
+https://twitter.com/KatiMichel/status/1263737007324332032 | Katherine Michel on Twitter: "Sitting here stunned at what I just did with @GitHub Actions for my Stanford Code in Place final project. Succeeded at something I didn't even know could be done. 🤯" / Twitter
+https://twitter.com/KatiMichel/status/1264308702594527238 | Katherine Michel on Twitter: "Beautiful "negative" image tweeted by @SimbaFriendsBot, my Stanford Code in Place final project, inspired by @chrispiech's dog. My Python script that powers it is run solely via @GitHub Actions, downloading, modifying, and tweeting an image within GitHub. https://t.co/RjlFu8HxYp" / Twitter
+https://www.facebook.com/katherine.michel.5/posts/3238560776163561?comment_id=3239852896034349&notif_id=1590320706494522&notif_t=feed_comment | In April, I posted that I would be taking part... - Katherine Michel
+
+https://en.wikipedia.org/wiki/Proof_of_concept | Proof of concept - Wikipedia
+
+https://developer.twitter.com/en/apps/17971730 | Twitter Developers
+https://mail.google.com/mail/u/3/?ogbl#inbox | Inbox (2) - simbaandfriendsbot@gmail.com - Gmail
+https://twitter.com/SimbaFriendsBot | Katherine Michel (@SimbaFriendsBot) / Twitter
+https://twitter.com/SimbaFriendsBot/status/1263318557380706305 | Katherine Michel on Twitter: "Hello world!" / Twitter
+https://twitter.com/SimbaFriendsBot/status/1263365130760273920 | Katherine Michel on Twitter: "Checkout this cool image! https://t.co/H74aEcH4zp" / Twitter
+https://twitter.com/SimbaFriendsBot/status/1264297922092503043 | Katherine Michel on Twitter: "https://t.co/hJjPthlIlo" / Twitter
+https://twitter.com/SimbaFriendsBot/status/1264291085335101440 | Katherine Michel on Twitter: "https://t.co/rOyk6NSZxP" / 
+Twitter
+
+Stanford
+https://github.com/chrispiech | chrispiech (Chris Piech)
+http://stanford.edu/~cpiech/bio/index.html | Chris Piech
+https://us.edstem.org/courses/490/lessons/1236/slides/6413 | Code in Place – Lessons
+
+https://github.com/codeinplace2020 | codeinplace2020
+
+Final project
+https://compedu.stanford.edu/codeinplace/v1/#/assignment/finalProject | Assignment
+https://us.edstem.org/courses/490/discussion/69666 | Code in Place – Discussion
+https://us.edstem.org/courses/490/discussion/67446 | Code in Place – Discussion
+
+Mark's  project
+https://us.edstem.org/courses/490/discussion/69604 | Code in Place – Discussion
+https://static.us.edusercontent.com/files/N85hJ2IHRnSfFI4iHjknP5hW
+
+My project
+https://us.edstem.org/courses/1470/discussion/67793?comment=197647 | Section 470 – Discussion
+
+Week 4 notes
+https://us.edstem.org/courses/1470/discussion/58899 | (1) Section 470 – Discussion
+https://static.us.edusercontent.com/files/dN7xThik0SRKeqbahSkrKoDJ
+
+https://compedu.stanford.edu/codeinplace/handouts/Recruitment.pdf | Recruitment.pdf
+
+Images
+https://compedu.stanford.edu/codeinplace/v1/#/assignment/images | Assignment
+https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/reference-image.html
+https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf | h10_Image_Reference_Guide.pdf
+
+Python
+https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
+https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Using The urllib Package — Python 3.8.3 documentation
+https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
+https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
+
+Twitter
+https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
+https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
+https://developer.twitter.com/en/application/verification | Confirm Email — Twitter Developers
+https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
+https://developer.twitter.com/en/apps/17971730 | Twitter Developers
+https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
+https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
+https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
+
+https://help.twitter.com/en/rules-and-policies/twitter-automation | Automation rules
+
+Pillow
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
+https://pypi.org/project/requests/ | requests · PyPI
+https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/ImagePalette.html | ImagePalette Module — Pillow (PIL Fork) 5.1.0 documentation
+
+https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
+http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+
+GitHub Action
+https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts | Persisting workflow data using artifacts - GitHub Help
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
+
+https://developer.github.com/v3/actions/secrets/ | Secrets | GitHub Developer Guide
+https://developer.github.com/v3/repos/contents/#create-or-update-a-file | Contents | GitHub Developer Guide
+
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
+https://github.com/nektos/act | nektos/act: Run your GitHub Actions locally 🚀
+https://github.com/actions/checkout | actions/checkout: Action for checking out a repo
+https://github.com/actions/python-versions | actions/python-versions: Python builds for Actions Virtual Environments
+https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
+https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/actions/checkout#Fetch-all-branches | actions/checkout: Action for checking out a repo
+https://github.com/actions/upload-artifact | actions/upload-artifact
+https://github.com/actions/download-artifact | actions/download-artifact
+https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
+https://github.com/actions/virtual-environments | actions/virtual-environments: GitHub Actions virtual environments
+https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
+https://github.com/marketplace?before=Y3Vyc29yOjIx&query=image | GitHub Marketplace · Tools to improve your workflow
+https://github.com/marketplace/actions/add-commit | Add & Commit · Actions · GitHub Marketplace
+https://github.com/topics/bot | bot · GitHub Topics
+
+https://github.com/gettyimages | Getty Images
+
+https://unsplash.com/license | License | Unsplash
+https://source.unsplash.com/collection/
+https://source.unsplash.com/ | Unsplash Source | A Simple API for Embedding Free Photos from Unsplash
+https://unsplash.com/documentation#get-a-random-photo | Unsplash API Documentation | Free HD Photo API | Unsplash
+
+
 https://twitter.com/davidjmalan/status/1258555662688309248 | David J. Malan on Twitter: "A mosaic of screenshots of @CS50's Office Hours via @Zoom_us on 7 May 2020 with 354+ students from &lt;= 114 countries around the world. #computerscience #education #programming #code #community https://t.co/FIB4nX4XVW" / Twitter
 
 https://github.com/codeinplace2020
