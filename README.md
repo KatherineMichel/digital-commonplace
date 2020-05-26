@@ -242,8 +242,6 @@ Ubuntu
 https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
 ubuntu release notes - Google Search
 
-https://github.com/axnsan12/drf-yasg/pull/415/files | Improve testing by Jamim · Pull Request #415 · axnsan12/drf-yasg
-
 
 https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
 
@@ -426,112 +424,6 @@ https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Net
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
 -->
 
-
-
-<!--
-https://scrapy.org/
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-
-https://developer.github.com/v3/libraries/
-
-https://github.com/api-evangelist
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
-GA/App/Probot People
-https://github.com/swinton/
-https://github.com/gr2m/
-https://github.com/JasonEtco/
-https://github.com/mscoutermarsh/
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
-
-https://twitter.com/hayleydenb/status/1257786499933728768
-
-https://twitter.com/webology
-https://static.simonwillison.net
-
-https://twitter.com/housecor | Cory House  (@housecor) | Twitter
-
-https://twitter.com/levelsio
-Feross
-
-The 39 most powerful female engineers of 2018
-https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
-https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
-https://www.forbes.com/top-tech-women/#17ee38b74df0
-
-Jess
-https://github.com/jessfraz/cni-benchmarks | jessfraz/cni-benchmarks: A simple program to benchmark various container networking (CNI) plugins.
-https://github.com/jessfraz | jessfraz (Jess Frazelle)
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
-https://oxide.computer/blog/introducing-the-oxide-computer-company/ | Oxide Computer Company: Oxide Computer Company: Initial boot sequence
-
-https://hypatia.ca
-https://twitter.com/ashleymcnamara
-https://twitter.com/noopkat
-https://twitter.com/sarah_edo
-https://twitter.com/ChloeCondon
-https://twitter.com/alicegoldfuss
-https://twitter.com/nnja
-https://twitter.com/DynamicWebPaige
-https://twitter.com/skamille
-
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
-
-People
-https://www.twitch.tv/directory/following
-
-https://blog.twitch.tv
-https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
-
-Streaming
-* [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
-
-https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
-
-Women and NB on Twitch
-https://twitter.com/nnja/status/1238188427780083712
-
-Sid
-https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
-
-https://twitter.com/di_codes/status/1250553281883131904 | Dustin Ingram on Twitter: "This Friday I'll be pairing with @yufengg, and we'll be live-streaming as we go! https://t.co/WUuSdrqU83" / Twitter
-
-https://github.com/MishManners?tab=followers
-https://twitter.com/MishManners/status/1240839777437364224
-https://twitter.com/MishManners/status/1239360667703885825
-https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
-
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
--->
-
-<!--
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
--->
-
 ## Useful Courses
 
 Wes Bos
@@ -577,15 +469,7 @@ https://wesbos.com/uses/ | Uses | Wes Bos
 update node and npm - Google Search
 https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 
-
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
 
 https://frontendmasters.com
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
@@ -650,6 +534,8 @@ https://github.com/dogsheep/github-to-sqlite/releases
 
 
 <!--
+https://github.com/pyenv/pyenv-update
+
 Python release
 
 Python
@@ -670,16 +556,16 @@ https://docs.djangoproject.com/en/dev/releases/3.1/
 https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
 
 
-Virtualenv
+venv versus virtualenv
 https://twitter.com/hynek/status/1241381814440247299
+https://docs.python.org/3/library/venv.html
+https://github.com/justinmayer/virtualfish/issues/158
 
+https://virtualenv.pypa.io/en/latest/
+https://github.com/pypa/virtualenv/
 virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
 https://twitter.com/gjbernat/status/1226803593535279104
 https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-https://github.com/pyenv/pyenv-update
-
-PyPy
-https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
 
 pip innovation
 https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html
@@ -689,14 +575,6 @@ https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter:
 pip/virtualenv
 https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
 https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Keith-Magee on Twitter: "@jezdez @aaronbassett Not at all! It’s immensely useful - I’ve just completely missed the memo that it existed at all! And somehow, an entire generation of pip tutorials missed it, too..." / Twitter
-
-Pipenv
-https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co | Next Pipenv Release - Google Groups
-
-Conda PyPy
-https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
-
-https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on Twitter: "🎉 Once TOML reaches 1.0 I will start a conversation about getting a parser into the stdlib https://t.co/B4mxWO47BU" / Twitter
 -->
 
 <!--
@@ -1120,6 +998,117 @@ https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackat
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
+-->
+
+<!--
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+
+https://scrapy.org/
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
+
+https://developer.github.com/v3/libraries/
+
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+GA/App/Probot People
+https://github.com/swinton/
+https://github.com/gr2m/
+https://github.com/JasonEtco/
+https://github.com/mscoutermarsh/
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
+
+https://twitter.com/hayleydenb/status/1257786499933728768
+
+https://twitter.com/webology
+https://static.simonwillison.net
+
+https://twitter.com/housecor | Cory House  (@housecor) | Twitter
+
+https://twitter.com/levelsio
+Feross
+
+The 39 most powerful female engineers of 2018
+https://www.businessinsider.com/the-most-powerful-female-engineers-of-2018-2018-4
+https://www.businessinsider.com/most-powerful-female-engineers-of-2017-2017-2
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+https://www.forbes.com/top-tech-women/#17ee38b74df0
+
+Jess
+https://github.com/jessfraz/cni-benchmarks | jessfraz/cni-benchmarks: A simple program to benchmark various container networking (CNI) plugins.
+https://github.com/jessfraz | jessfraz (Jess Frazelle)
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+https://oxide.computer/blog/introducing-the-oxide-computer-company/ | Oxide Computer Company: Oxide Computer Company: Initial boot sequence
+
+https://hypatia.ca
+https://twitter.com/ashleymcnamara
+https://twitter.com/noopkat
+https://twitter.com/sarah_edo
+https://twitter.com/ChloeCondon
+https://twitter.com/alicegoldfuss
+https://twitter.com/nnja
+https://twitter.com/DynamicWebPaige
+https://twitter.com/skamille
+
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
+People
+https://www.twitch.tv/directory/following
+
+https://blog.twitch.tv
+https://help.twitch.tv/s/article/low-latency-video?language=en_US | Low Latency Video
+
+Streaming
+* [Awesome Developers, Streaming GitHub](https://github.com/bnb/awesome-developer-streams)
+
+https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-streaming: a curated list of awesome streaming frameworks, applications, etc
+
+Women and NB on Twitch
+https://twitter.com/nnja/status/1238188427780083712
+
+Sid
+https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
+
+https://twitter.com/di_codes/status/1250553281883131904 | Dustin Ingram on Twitter: "This Friday I'll be pairing with @yufengg, and we'll be live-streaming as we go! https://t.co/WUuSdrqU83" / Twitter
+
+https://github.com/MishManners?tab=followers
+https://twitter.com/MishManners/status/1240839777437364224
+https://twitter.com/MishManners/status/1239360667703885825
+https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
+
+<!--
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
 -->
 
 ## Project-Based Learning
