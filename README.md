@@ -135,6 +135,13 @@ https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo w
 https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
 
+Code challenges
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+
+Algorithms
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
 
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
@@ -191,6 +198,8 @@ https://twitter.com/luumelo14/status/1260687690996920320
 Node
 https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
 
+https://ti.to/netlify/jamstack_virtual | Jamstack Conf Virtual
+
 CHAOSS
 
 Sustain OSS
@@ -216,8 +225,8 @@ https://git-scm.com/docs/git-status
 https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
 
 GH Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
-
+https://github.com/features/codespaces | Codespaces
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
 https://github.com/codespaces-examples | codespaces-examples
 https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
 https://cli.github.com/
@@ -226,6 +235,12 @@ https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for dev
 
 https://mikecoutermarsh.com/ | Mike Coutermarsh
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+
+MS
+https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
+https://github.com/microsoft/ProjectReunion | microsoft/ProjectReunion: Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
+https://github.com/microsoft/winget-cli/issues/179 | (2) Please include ability to opt out of telemetry and clear documentation on how to opt out · Issue #179 · microsoft/winget-cli
+https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Windows Package Manager Preview | Windows Command Line
 
 That site design I like
 https://alabaster.readthedocs.io/en/latest/
@@ -266,6 +281,11 @@ https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrav
 
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
+https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
+
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -299,6 +319,17 @@ https://web.dev/fast/ | Fast load times
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
+
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+
+https://nodejs.org/en/blog/release/v14.3.0/ | Node v14.3.0 (Current) | Node.js
+https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
+https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
+https://github.com/microsoft/ChakraCore | microsoft/ChakraCore: ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
+https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
 
 
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
@@ -501,6 +532,9 @@ https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-con
 Sarah
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
 
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
 https://codepen.io/collection/nMgKxJ
 
@@ -637,6 +671,25 @@ https://octoverse.github.com/2016/#organizations
 -->
 
 <!--
+GitLab
+https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
+https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
+
+Mariatta
+https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
+https://pypi.org/project/pip/ | pip · PyPI
+https://pyup.io/docs/bot/config/ | //docs - Configuration
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
+
+https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
+
+https://marc.info/?l=openbsd-announce&m=158989783626149&w=2 | 'OpenBSD 6.7 released - May 19, 2020' - MARC
+
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
+
 Python release
 
 Python
@@ -688,6 +741,20 @@ https://mobile.twitter.com/brettsky/status/1246233334482489344 | Brett Cannon on
 
 <!--
 More Python
+
+flake8 Plugin
+https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
+https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
+
+Anthony
+https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
+https://www.google.com/search?q=python+curses&oq=python+curses&aqs=chrome..69i57j0l6j69i61.2677j0j7&sourceid=chrome&ie=UTF-8 | python curses - Google Search
+https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
+https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
+
+deadsnakes
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+
 
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
 https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
