@@ -27,10 +27,31 @@ https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_
 https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
 
 Eyes
+http://www.aaronsw.com/weblog/001083 | Eye Exercises (Aaron Swartz: The Weblog)
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
 
 https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382 | The joy of sets - BBC Archive
 https://backgroundsbyikea.com/ | Backgrounds by IKEA, a collection of backgrounds for your video calls
+
+Zoom
+https://us04web.zoom.us/meeting | My Meetings - Zoom
+https://zoom.us/recording | My Recordings - Zoom
+https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
+https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
+
+Record a Video
+https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
+
+Broadcasting
+https://obsproject.com/ | Open Broadcaster Software | OBS
+https://github.com/HandBrake | HandBrake
+https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
+
+My YouTube
+https://www.youtube.com/feed/my_videos | (2) Katherine Michel - YouTube
+
+Repo
+https://github.com/KatherineMichel/setting-up-an-open-source-project
 
 https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
 https://www.apple.com/ipad-keyboards/
@@ -40,12 +61,20 @@ https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your | How do you take
 Tabs
 https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/ | Organize your tabs with tab groups in Google Chrome
 
+Memex
+https://getmemex.com/ | 1 - WorldBrain's Memex
+https://chrome.google.com/webstore/detail/worldbrains-memex/abkfbakhjpmblaafnpgjppbmioombali/related | WorldBrain's Memex - Chrome Web Store
+https://github.com/WorldBrain | WorldBrain.io - Collective Web Intelligence
+
+
 https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
 
 
-ToDo
-https://twitter.com/vmbrasseur/status/1259949081876557824 | VM (Vicky) Brasseur on Twitter: "@KatiMichel @rkoutnik Thank you! If you end up liking it, I'd be grateful for a review on Amazon. It makes a much larger difference for independent authors than it probably should. :-/" / Twitter
-* The intro to OS I wish I'd had
+PyOhio
+https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
+https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
+
+https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
 
 Docs
 https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating.html | Season of Docs announces participating organizations for 2020 | Google Open Source Blog
@@ -177,6 +206,14 @@ https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human 
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
+GitHub
+
+https://github.com/githubevents | GitHub Events
+
+https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
+
+https://git-scm.com/docs/git-status
+https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
 
 GH Satellite
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/#discussions | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
@@ -211,6 +248,10 @@ https://twitter.com/QualityFrog/status/1261212047640952833 | Ben Simo @ Home on 
 https://twitter.com/noahmp/status/1260417537008971787 | Noah Pepper on Twitter: "TIL there are so many "I left SF" blog posts a data scientist did an analysis of them." / Twitter
 https://twitter.com/chrisalbon/status/1260724880208621568 | Chris Albon on Twitter: "Jeremy wrote code to scrape apartment listings and find great apartments with low quality listings (bad photos, etc). Alright that is just cool." / Twitter
 
+
+Linux
+https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf | LPT_LISA
+https://www.ornl.gov/ | Oak Ridge National Laboratory | ORNL
 
 Ubuntu
 https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
@@ -258,7 +299,6 @@ https://web.dev/fast/ | Fast load times
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
-
 
 
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
@@ -515,6 +555,8 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 <!--
+https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
+https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
 https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
@@ -1112,6 +1154,8 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
+
 https://ghost.org/docs/ | Ghost Docs
 https://demo.ghost.io/
 https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
