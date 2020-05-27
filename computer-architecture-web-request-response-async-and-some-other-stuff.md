@@ -1,6 +1,8 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
+
 Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
@@ -222,6 +224,8 @@ https://jwt.io/ | JSON Web Tokens - jwt.io
 ## JSON Schema
 
 <!--
+https://schema.org/
+
 www.json.org
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
 
