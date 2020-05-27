@@ -1024,6 +1024,8 @@ https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on T
 -->
 
 
+## Tools
+
 <!--
 https://scrapy.org/
 https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
@@ -1063,79 +1065,6 @@ https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-
 https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
 https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
 https://github.com/dogsheep/github-to-sqlite/releases
--->
-
-
-## To Read- Tools
-
-Marketplaces
-* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
-* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
-
-
-## GitHub Features
-
-GitHub Features
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
-
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-* [GitHub Packages](https://github.com/features/packages)
-
-<!--
-https://github.com/actions | GitHub Actions
--->
-
-GitHub Web Hooks  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
-
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-GitHub Services- Deprecated
-* [Service GitHub](https://github.com/github/github-services)
-
-GitHub Community
-* [GitHub Community](https://github.community/)
-
-<!--
-https://resources.github.com/webcasts/
-https://resources.github.com/whitepapers/
-https://experiments.github.com
-
-Reports
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2401-the-github-diversity-report	
-
-https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
-https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
-https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
-https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
-https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
-
-https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
-https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-https://primer.style/css/ | Primer CSS
-https://github.com/primer | Primer
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/features/code-review/
-https://github.com/personal
-https://github.com/enterprise#administration
-https://github.com/features/project-management/
-
-https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
-
-https://github.com/sponsors | GitHub Sponsors
 -->
 
 <!--
@@ -1224,6 +1153,78 @@ https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 -->
 
+
+## To Read- Tools
+
+Marketplaces
+* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
+* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
+
+
+## GitHub Features
+
+GitHub Features
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Packages](https://github.com/features/packages)
+
+<!--
+https://github.com/actions | GitHub Actions
+-->
+
+GitHub Web Hooks  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
+
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+GitHub Services- Deprecated
+* [Service GitHub](https://github.com/github/github-services)
+
+GitHub Community
+* [GitHub Community](https://github.community/)
+
+<!--
+https://resources.github.com/webcasts/
+https://resources.github.com/whitepapers/
+https://experiments.github.com
+
+Reports
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
+https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
+https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
+https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
+https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
+
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+https://primer.style/css/ | Primer CSS
+https://github.com/primer | Primer
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/features/code-review/
+https://github.com/personal
+https://github.com/enterprise#administration
+https://github.com/features/project-management/
+
+https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
+
+https://github.com/sponsors | GitHub Sponsors
+-->
 
 ## GitHub Security
 
