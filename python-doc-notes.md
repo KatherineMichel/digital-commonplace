@@ -50,69 +50,6 @@ https://compedu.stanford.edu/codeinplace/v1/#/assignment/images | Assignment
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/reference-image.html
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf | h10_Image_Reference_Guide.pdf
 
-Python
-https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
-https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Using The urllib Package — Python 3.8.3 documentation
-https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
-https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
-
-Twitter
-https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
-https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
-https://developer.twitter.com/en/application/verification | Confirm Email — Twitter Developers
-https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
-https://developer.twitter.com/en/apps/17971730 | Twitter Developers
-https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
-https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
-https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
-
-https://help.twitter.com/en/rules-and-policies/twitter-automation | Automation rules
-
-Pillow
-https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
-https://pypi.org/project/requests/ | requests · PyPI
-https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/ImagePalette.html | ImagePalette Module — Pillow (PIL Fork) 5.1.0 documentation
-
-https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
-http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-GitHub Action
-https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts | Persisting workflow data using artifacts - GitHub Help
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
-
-https://developer.github.com/v3/actions/secrets/ | Secrets | GitHub Developer Guide
-https://developer.github.com/v3/repos/contents/#create-or-update-a-file | Contents | GitHub Developer Guide
-
-https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
-https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
-https://github.com/nektos/act | nektos/act: Run your GitHub Actions locally 🚀
-https://github.com/actions/checkout | actions/checkout: Action for checking out a repo
-https://github.com/actions/python-versions | actions/python-versions: Python builds for Actions Virtual Environments
-https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
-https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
-https://github.com/actions/checkout#Fetch-all-branches | actions/checkout: Action for checking out a repo
-https://github.com/actions/upload-artifact | actions/upload-artifact
-https://github.com/actions/download-artifact | actions/download-artifact
-https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
-https://github.com/actions/virtual-environments | actions/virtual-environments: GitHub Actions virtual environments
-https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
-https://github.com/marketplace?before=Y3Vyc29yOjIx&query=image | GitHub Marketplace · Tools to improve your workflow
-https://github.com/marketplace/actions/add-commit | Add & Commit · Actions · GitHub Marketplace
-https://github.com/topics/bot | bot · GitHub Topics
-
-https://github.com/gettyimages | Getty Images
-
 https://unsplash.com/license | License | Unsplash
 https://source.unsplash.com/collection/
 https://source.unsplash.com/ | Unsplash Source | A Simple API for Embedding Free Photos from Unsplash
