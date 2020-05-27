@@ -20,6 +20,13 @@ https://twitter.com/SimbaFriendsBot/status/1264297922092503043 | Katherine Miche
 https://twitter.com/SimbaFriendsBot/status/1264291085335101440 | Katherine Michel on Twitter: "https://t.co/rOyk6NSZxP" / 
 Twitter
 
+https://help.twitter.com/en/rules-and-policies/twitter-automation | Automation rules
+https://unsplash.com/license | License | Unsplash
+
+https://source.unsplash.com/collection/
+https://source.unsplash.com/ | Unsplash Source | A Simple API for Embedding Free Photos from Unsplash
+https://unsplash.com/documentation#get-a-random-photo | Unsplash API Documentation | Free HD Photo API | Unsplash
+
 Stanford
 https://github.com/chrispiech | chrispiech (Chris Piech)
 http://stanford.edu/~cpiech/bio/index.html | Chris Piech
@@ -49,12 +56,6 @@ Images
 https://compedu.stanford.edu/codeinplace/v1/#/assignment/images | Assignment
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/reference-image.html
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf | h10_Image_Reference_Guide.pdf
-
-https://unsplash.com/license | License | Unsplash
-https://source.unsplash.com/collection/
-https://source.unsplash.com/ | Unsplash Source | A Simple API for Embedding Free Photos from Unsplash
-https://unsplash.com/documentation#get-a-random-photo | Unsplash API Documentation | Free HD Photo API | Unsplash
-
 
 https://twitter.com/davidjmalan/status/1258555662688309248 | David J. Malan on Twitter: "A mosaic of screenshots of @CS50's Office Hours via @Zoom_us on 7 May 2020 with 354+ students from &lt;= 114 countries around the world. #computerscience #education #programming #code #community https://t.co/FIB4nX4XVW" / Twitter
 
