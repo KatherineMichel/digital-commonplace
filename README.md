@@ -233,6 +233,23 @@ https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
 
 
+https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
+
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
 
 Linux
 https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf | LPT_LISA
@@ -243,21 +260,15 @@ https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supers
 ubuntu release notes - Google Search
 
 
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
-https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
-
-https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
-
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
-https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
-https://schema.org/
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+
 
 
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
@@ -292,17 +303,6 @@ https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on
 
 https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
 https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
-
-
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 https://medium.com/javascript-scene/
 https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
@@ -383,444 +383,33 @@ https://mobile.twitter.com/stevesi/status/1249862470006493184
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
+https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
+
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+Content-creating flywheel
+https://twitter.com/sarahleary/status/1255321982029234176
+https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
+
 https://growth.design/psychology/
 
 Lean Enterprise
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
 
+https://www.nngroup.com
+
 https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
 https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
 https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
 https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
-
-Content-creating flywheel
-https://twitter.com/sarahleary/status/1255321982029234176
-https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
-
-https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
-http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
-
-https://www.nngroup.com
 
 Human Factors
 https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
 https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
-
-Viral Funnel model
-https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
-
-https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
-
-https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
-https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
-https://kk.org/thetechnium/1000-true-fans/
-https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
-
-https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
-
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
 -->
-
-## Useful Courses
-
-Wes Bos
-* [Wes Bos Courses](https://wesbos.com/courses/)
-* [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
-* [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
-* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
-* [React for Beginners](https://reactforbeginners.com/)
-
-Dan Abramov
-* [Just JavaScript](https://justjavascript.com/)
-
-<!--
-https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
-
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
-
-https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
-https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
-
-https://github.com/feldroy/django-crash-starter
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-
-Wes Bos
-https://app.slack.com/client/T0B6Z0ZL1/
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-https://wesbos.com/uses/ | Uses | Wes Bos
-update node and npm - Google Search
-https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
-
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
-
-https://frontendmasters.com
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
-
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
-Front End Masters Handbook
-https://github.com/FrontendMasters/front-end-handbook-2019
-https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
-https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
-
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-https://www.udemy.com/user/brad-traversy/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
--->
-
-<!--
-Homebrew Analytics
-https://github.com/Homebrew/homebrew-formula-analytics
-
-https://plugins.jetbrains.com/
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-High traffic projects
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://octoverse.github.com/2018/
-https://octoverse.github.com/2017/
-https://octoverse.github.com/2016/#organizations
-
-https://docs.python.org/3/library/asyncio.html
-https://docs.aiohttp.org/en/stable/
-https://wiki.python.org/moin/PyQt
-
-https://news.ycombinator.com/item?id=22920437
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-https://github.com/simonw/til
-
-https://twitter.com/simonw/status/1250651420660871168
-https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
-
-Simon- Release
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
-https://github.com/dogsheep/github-to-sqlite/releases
--->
-
-
-<!--
-https://github.com/pyenv/pyenv-update
-
-Python release
-
-Python
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-
-https://www.python.org/download/pre-releases/
-https://www.python.org/dev/peps/pep-0596/
-
-Django What’s New
-https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
-
-Django Security
-https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
-
-https://docs.djangoproject.com/en/dev/releases/3.1/
-https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
-
-
-venv versus virtualenv
-https://twitter.com/hynek/status/1241381814440247299
-https://docs.python.org/3/library/venv.html
-https://github.com/justinmayer/virtualfish/issues/158
-
-https://virtualenv.pypa.io/en/latest/
-https://github.com/pypa/virtualenv/
-virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-
-pip innovation
-https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html
-http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
-https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter: "Starting this year, pip will be more consistent + stricter in the dependencies it installs. https://t.co/vYkAAczeKM Here's what will change, when, and how you can help (testing, talking to our researchers, &amp; spreading the word) https://t.co/8dv6J0YCF8" / Twitter
-
-pip/virtualenv
-https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
-https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Keith-Magee on Twitter: "@jezdez @aaronbassett Not at all! It’s immensely useful - I’ve just completely missed the memo that it existed at all! And somehow, an entire generation of pip tutorials missed it, too..." / Twitter
--->
-
-<!--
-More Python
-
-flake8 Plugin
-https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
-https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
-
-Anthony
-https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
-https://www.google.com/search?q=python+curses&oq=python+curses&aqs=chrome..69i57j0l6j69i61.2677j0j7&sourceid=chrome&ie=UTF-8 | python curses - Google Search
-https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
-https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
-
-deadsnakes
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
-
-
-https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
-https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-flake8
-https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
-https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
-
-https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
-
-https://pycodestyle.pycqa.org/en/latest/intro.html
-
-https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
-
-pre-commit
-https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
-
-https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
-
-Mariatta
-https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
-https://pypi.org/project/pip/ | pip · PyPI
-https://pyup.io/docs/bot/config/ | //docs - Configuration
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-Tools Release
-https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
-https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
-https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
--->
-
-<!--
-Django 
-
-Daphne
-https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
-jpezG5fYgd" / Twitter
-
-django-allauth
-https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
--->
-
-
-<!--
-Google Chrome Ship
-https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
-https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
-
-
-https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
-
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
-
-
-https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
-https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
-
-Distro
-http://distrowatch.com/table.php?distribution=ubuntu
-https://en.wikipedia.org/wiki/Linux_distribution
-
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
-https://twitter.com/codewithanthony/status/1255261241880252417
-
-pypy manylinux wheels
-https://twitter.com/codewithanthony/status/1256274470076993536
-https://cffi.readthedocs.io/en/latest/
-
-
-https://github.com/denoland/deno/pull/5273
-
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
-
-node.js Release Schedule
-https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
-https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
-https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
-https://nodejs.org/en/about/releases/
-https://nodejs.org/en/about/working-groups/
-https://github.com/nodejs/Release
-
-node as Example
-https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
-
-https://nextjs.org/ | Next.js by Vercel - The React Framework
-https://nextjs.org/blog/next-9-4 | Blog - Next.js 9.4 | Next.js
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-
-https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1
-
-Gatsby Case Study
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/gatsbyjs
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/
-
-[Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
-https://github.com/tailwindcss/tailwindcss/discussions/1656
-
-
-Go
-https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
-
-* [Rust Roadmap 2019](https://blog.rust-lang.org/2019/04/23/roadmap.html)
-https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
-
-https://www.erlang.org/news/140
-https://gcc.gnu.org/gcc-10/
-
-
-ML
-https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
-https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
-https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html | Release Highlights for scikit-learn 0.23 — scikit-learn 0.23.0 documentationhttps://scikit-learn.org/stable/whats_new/v0.23.html#changes-0-23 | Version 0.23.0 — scikit-learn 0.23.0 documentation
-
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
-
-
-Microsoft
-https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://primer.style/doctocat/usage/deployment
-
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2020-release/ | Python in Visual Studio Code – May 2020 Release | Python
-https://code.visualstudio.com/updates/v1_45 | Visual Studio Code April 2020
-
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-MS OS
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-
-Ansible
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
-
-
-Azure OS
-https://azure.microsoft.com/en-us/updates/?v=17.23h | Azure updates | Microsoft Azure
-https://azure.microsoft.com/en-us/roadmap/?v=17.23h
-
-VS Code OS and Release
-https://github.com/github/VisualStudio/releases
-https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2018-roadmap | Visual Studio Roadmap for 2018 | Microsoft Docs
-https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap | Visual Studio Roadmap | Microsoft Docs
-https://github.com/Microsoft/vscode-python/blob/master/CHANGELOG.md
-https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2020-release/ | Python in Visual Studio Code – January 2020 Release | Python
-
-.NET Release Examples
-https://github.com/dotnet/core/blob/master/roadmap.md
-http://www.hanselman.com/blog/NETCore10IsNowReleased.aspx
-https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard/
-https://github.com/dotnet/core/tree/master/release-notes
-https://github.com/dotnet/designs
-https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
-https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
-
-MS Edge
-https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
-
-
-Roadmap example
-https://github.com/aws/elastic-beanstalk-roadmap/projects/1
-https://gitlab.com/groups/meltano/-/epics/40 | Meltano Roadmap Vision (&40) · Epics · meltano · GitLab
-
-Examples
-https://github.com/bazelbuild/bazel/releases/tag/1.0.0 | Release 1.0.0 · bazelbuild/bazel
-https://github.com/zeit/next.js/blob/canary/contributing.md
-
-Example Notes
-https://lyft.github.io/confidant/changelog.html | Changelog — confidant 6.1.0-d64d57 documentation
-
-
-https://medium.com/tag/release-notes
-https://medium.com/medium-release-notes | Medium Release Notes – Medium
-https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3
-
-https://keepachangelog.com/en/1.0.0/
-
-Links change log lines to PRs
-
-Types of changes
-Added for new features.
-Changed for changes in existing functionality.
-Deprecated for soon-to-be removed features.
-Removed for now removed features.
-Fixed for any bug fixes.
-Security in case of vulnerabilities.
-
-
-https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
-
-https://marc.info/?l=openbsd-announce&m=158989783626149&w=2 | 'OpenBSD 6.7 released - May 19, 2020' - MARC
-
-
-https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
-https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
-GitLab
-https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
-https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
--->
-
 
 ## Good Habits
 
@@ -830,6 +419,131 @@ https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter:
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+-->
+
+## Website and Blog Resources
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+<!--
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
+
+https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
+
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+-->
+
+## Shortcuts
+
+<!--
+Mac
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
+Twitter
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+VS Code Mac
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+GitHub
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+GitHub Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
+https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
+
+https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
+-->
+
+## Visual Studio Code
+
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+<!--
+Tips
+https://twitter.com/mattbierner/status/1261355671452217344
+https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
+
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+
+https://github.com/microsoft/vscode
+https://github.com/Microsoft/vscode-python
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+
+https://marketplace.visualstudio.com/vscode
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+https://code.visualstudio.com/docs/python/environments
+https://code.visualstudio.com/docs/python/tutorial-django
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
+https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
+https://code.visualstudio.com/docs/python/editing#_formatting
+https://pypi.org/project/autopep8/
+https://github.com/psf/black
+https://code.visualstudio.com/docs/python/linting
+https://code.visualstudio.com/docs/python/linting#_specific-linters
+https://code.visualstudio.com/docs/python/debugging
+https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
+https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
+https://code.visualstudio.com/docs/python/testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+https://docs.python.org/3/library/unittest.html
+https://docs.pytest.org/en/latest/
+https://code.visualstudio.com/docs/python/editing#_refactoring
+https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
+
+https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
+
+GitHub
+https://visualstudio.github.com/
+https://github.com/github/VisualStudio
+https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+
+https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
+
+https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio | Default Keyboard Shortcuts in Visual Studio
+https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+https://github.com/sdras/night-owl-vscode-theme
 -->
 
 ## Engineering Performance Resources
@@ -919,6 +633,99 @@ Programming Language Leveling Up and Comparison Sites
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
+## Patterns
+
+Refactoring
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+<!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+-->
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+## Useful Courses
+
+Wes Bos
+* [Wes Bos Courses](https://wesbos.com/courses/)
+* [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
+* [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
+* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
+* [React for Beginners](https://reactforbeginners.com/)
+
+Dan Abramov
+* [Just JavaScript](https://justjavascript.com/)
+
+<!--
+https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
+
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
+https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
+https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
+
+https://github.com/feldroy/django-crash-starter
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+
+Wes Bos
+https://app.slack.com/client/T0B6Z0ZL1/
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+https://wesbos.com/uses/ | Uses | Wes Bos
+update node and npm - Google Search
+https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+https://www.udemy.com/user/brad-traversy/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+-->
+
 ## Trends
 
 Nuzzel
@@ -944,50 +751,49 @@ Product Hunt
 * [Product Hunt](https://www.producthunt.com)
 * [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
 
-Product Hunt Leader Boards
-* [Hunts.xyz](https://hunts.xyz)
+Product Hunt Product Leader Boards
 * [Top 5 Twitter](https://twitter.com/PHTop5)
 * [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
 * [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Products](http://500products.com)
+
+<!--
+* [Hunts.xyz](https://hunts.xyz)
+
+https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
+https://upcoming.org/about | About - Upcoming
+-->
+
+## Makers
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Hunters](http://500hunters.com)
 * [Maker Rank](https://makerrank.co)
 * [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 
-Hackathons and Festivals
+<!--
+https://womenmake.com/ | Women Make
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+## Hackathons, Festivals, Communities
+
 * [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
 <!--
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
--->
-
-<!-- 
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
-https://womenmake.com/ | Women Make
-https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
--->
-
-<!--
-https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
-https://upcoming.org/about | About - Upcoming
-
 https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
 
 https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
 https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
 
 https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
 https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
@@ -1000,26 +806,10 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
 
+
+## Makers
+
 <!--
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
-
-https://scrapy.org/
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-
-https://developer.github.com/v3/libraries/
-
-https://github.com/api-evangelist
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-
 GA/App/Probot People
 https://github.com/swinton/
 https://github.com/gr2m/
@@ -1061,22 +851,6 @@ https://twitter.com/nnja
 https://twitter.com/DynamicWebPaige
 https://twitter.com/skamille
 
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
-
 People
 https://www.twitch.tv/directory/following
 
@@ -1106,9 +880,21 @@ https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisti
 -->
 
 <!--
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
 ## Project-Based Learning
@@ -1157,72 +943,7 @@ https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Lea
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
-
-## Website and Blog Resources
-
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
-
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
-
-<!--
-https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
-
-https://ghost.org/docs/ | Ghost Docs
-https://demo.ghost.io/
-https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
-https://gatsby.ghost.org/
-https://github.com/TryGhost/gatsby-starter-ghost
-https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
-https://lyra.ghost.io/ | Lyra
-https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
-https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
-https://massively.ghost.io/ | This is Massively
-https://editorial.ghost.io/ | Editorial for Ghost
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
-
-## Shortcuts
-
-<!--
-Mac
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
-
-Twitter
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-VS Code Mac
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-GitHub
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
-GitHub Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
--->
-
-## To Read- Git, GitHub, Open Source, Hosting
+## Git, GitHub, Open Source, Hosting
 
 GitHub More
 * [GitHub Explore](https://github.com/explore)
@@ -1251,6 +972,8 @@ https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfe
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
 
+## Open Source Guides
+
 GitHub Open Source Guides
 * [GitHub Help](https://help.github.com) 
 * [GitHub Open Source Guide](https://opensource.guide)
@@ -1262,7 +985,7 @@ Google Open Source Guides
 * [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
-## To Read- Technical Writing
+## Technical Writing Guides
 
 <!--
 Docs- Important!
@@ -1300,222 +1023,48 @@ Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 -->
 
-## To Read- Release Management
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
-
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org)
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 
 <!--
-https://docs.djangoproject.com/en/dev/internals/contributing/
+https://scrapy.org/
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
-Working through
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+https://developer.github.com/v3/libraries/
 
-https://www.python.org/dev/peps/pep-0602/
-https://devguide.python.org/
-https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle/
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
+
+
+https://news.ycombinator.com/item?id=22920437
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+https://github.com/simonw/til
+
+https://twitter.com/simonw/status/1250651420660871168
+https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
+
+Simon- Release
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
+https://github.com/dogsheep/github-to-sqlite/releases
 -->
 
-## To Read- Patterns
-
-Refactoring
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
-## Site Reliability and High Performance
-
-Google Site Reliability Engineering Books
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-
-<!--
-https://www.redhat.com/en/blog
-
-https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-
-
-http://engineering.khanacademy.org/posts/engineering-principles.htm
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
-
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
--->
-
-<!--
-https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
-
-https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-Coursera DevOps Course
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
--->
-
-## Philosophies
-
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-* [The Reactive Manifesto](http://www.reactivemanifesto.org)
-* [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
-* [Open Microservices Guide](https://openmicroservices.org/)
-
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
-<!--
-https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
-
-http://highscalability.com/all-time-favorites/
-
-  * [Microservices Dot IO](http://microservices.io)
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
-
-https://github.com/microservices/cli
-
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
--->
-
-## General Software Design Patterns
-
-## Architectures
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
-
-Architectures
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
-
-<!--
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
-
-Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
-https://en.wikipedia.org/wiki/Software_architecture
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Messaging_pattern
-
-https://en.wikipedia.org/wiki/Request%E2%80%93response
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
--->
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
-
-## Interesting
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
--->
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-Lists
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-
-https://github.com/Droogans/unmaintainable-code
-
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
--->
 
 ## To Read- Tools
 
@@ -1523,67 +1072,186 @@ Marketplaces
 * [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
 * [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
 
-## Visual Studio Code
 
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+## GitHub Features
+
+GitHub Features
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Packages](https://github.com/features/packages)
 
 <!--
-Tips
-https://twitter.com/mattbierner/status/1261355671452217344
-https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-https://github.com/microsoft/vscode
-https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-
-https://marketplace.visualstudio.com/vscode
-https://marketplace.visualstudio.com/items?itemName=ms-python.python
-https://code.visualstudio.com/docs/python/environments
-https://code.visualstudio.com/docs/python/tutorial-django
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
-https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
-https://code.visualstudio.com/docs/python/editing#_formatting
-https://pypi.org/project/autopep8/
-https://github.com/psf/black
-https://code.visualstudio.com/docs/python/linting
-https://code.visualstudio.com/docs/python/linting#_specific-linters
-https://code.visualstudio.com/docs/python/debugging
-https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
-https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
-https://code.visualstudio.com/docs/python/testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://docs.python.org/3/library/unittest.html
-https://docs.pytest.org/en/latest/
-https://code.visualstudio.com/docs/python/editing#_refactoring
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
-
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-GitHub
-https://visualstudio.github.com/
-https://github.com/github/VisualStudio
-https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
-https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-
-https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
-
-https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio | Default Keyboard Shortcuts in Visual Studio
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
-https://github.com/sdras/night-owl-vscode-theme
+https://github.com/actions | GitHub Actions
 -->
 
+GitHub Web Hooks  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
+
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+GitHub Services- Deprecated
+* [Service GitHub](https://github.com/github/github-services)
+
+GitHub Community
+* [GitHub Community](https://github.community/)
+
+<!--
+https://resources.github.com/webcasts/
+https://resources.github.com/whitepapers/
+https://experiments.github.com
+
+Reports
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
+https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
+https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
+https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
+https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
+
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+https://primer.style/css/ | Primer CSS
+https://github.com/primer | Primer
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/features/code-review/
+https://github.com/personal
+https://github.com/enterprise#administration
+https://github.com/features/project-management/
+
+https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
+
+https://github.com/sponsors | GitHub Sponsors
+-->
+
+<!--
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
+
+Actions innovations
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
+https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
+
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+
+https://github.com/actions/virtual-environments
+https://github.com/actions/checkout | actions/checkout
+
+https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
+
+Create a release
+https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
+https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://developer.github.com/v3/repos/releases/#get-a-single-release
+-->
+
+<!--
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+GitHub API
+https://developer.github.com/v3/
+GitHub GraphQL API
+https://developer.github.com/v4/
+
+https://graphql.org/learn/best-practices/
+https://developer.github.com/v4/guides/migrating-from-rest/
+
+Settings
+https://github.com/settings/apps
+https://github.com/settings/installations
+
+Apps
+https://developer.github.com/apps
+https://developer.github.com/apps/about-apps/
+https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
+
+Endpoints
+https://developer.github.com/v3/apps/available-endpoints/
+
+Webhooks
+https://developer.github.com/webhooks/creating/
+
+Events!
+https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
+
+Event examples
+https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
+https://developer.github.com/v3/activity/events/types/#issuesevent
+https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
+
+Payloads
+https://developer.github.com/webhooks/#payloads
+https://en.wikipedia.org/wiki/Payload_(computing)
+
+https://developer.github.com/v3/issues/comments/#create-a-comment
+https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://developer.github.com/v3/repos/statuses/#create-a-status
+
+Auth
+https://github.com/settings/tokens | Personal Access Tokens
+https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
+
+Hooks
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+-->
+
+
+## GitHub Security
+
+<!--
+https://dependabot.com/ | Dependabot
+https://dependabot.com/#how-it-works | Dependabot
+https://dependabot.com/github-actions/ | Dependabot
+
+Security
+
+https://github.com/features/security
+
+National Vulnerability Database
+https://nvd.nist.gov/ | NVD - Home
+
+GitHub Security
+https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
+https://github.com/Semmle
+http://github.com/Semmle/qlc
+https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
+https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
+https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
+https://securitylab.github.com/ | GitHub Security Lab
+https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
+https://github.com/advisories | GitHub Advisory Database
+request cve - Google Search
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+-->
 
 
 ## Open Source and Release Examples
@@ -1759,264 +1427,6 @@ Open source report card
 -->
 
 
-## GitHub Features
-
-GitHub Features
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
-
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-* [GitHub Packages](https://github.com/features/packages)
-
-<!--
-https://github.com/actions | GitHub Actions
--->
-
-GitHub Web Hooks  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
-
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-GitHub Services- Deprecated
-* [Service GitHub](https://github.com/github/github-services)
-
-GitHub Community
-* [GitHub Community](https://github.community/)
-
-<!--
-https://resources.github.com/webcasts/
-https://resources.github.com/whitepapers/
-https://experiments.github.com
-
-Reports
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2401-the-github-diversity-report	
-
-https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
-https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
-https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
-https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
-https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
-
-https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
-https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-https://primer.style/css/ | Primer CSS
-https://github.com/primer | Primer
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/features/code-review/
-https://github.com/personal
-https://github.com/enterprise#administration
-https://github.com/features/project-management/
-
-https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
-
-https://github.com/sponsors | GitHub Sponsors
--->
-
-<!--
-https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
-
-Actions innovations
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
-
-https://github.com/actions/virtual-environments
-https://github.com/actions/checkout | actions/checkout
-
-https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
-https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
-
-Create a release
-https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
-https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
-https://developer.github.com/v3/repos/releases/#get-a-single-release
--->
-
-<!--
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-
-GitHub API
-https://developer.github.com/v3/
-GitHub GraphQL API
-https://developer.github.com/v4/
-
-https://graphql.org/learn/best-practices/
-https://developer.github.com/v4/guides/migrating-from-rest/
-
-Settings
-https://github.com/settings/apps
-https://github.com/settings/installations
-
-Apps
-https://developer.github.com/apps
-https://developer.github.com/apps/about-apps/
-https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
-
-Endpoints
-https://developer.github.com/v3/apps/available-endpoints/
-
-Webhooks
-https://developer.github.com/webhooks/creating/
-
-Events!
-https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
-
-Event examples
-https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
-https://developer.github.com/v3/activity/events/types/#issuesevent
-https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
-
-Payloads
-https://developer.github.com/webhooks/#payloads
-https://en.wikipedia.org/wiki/Payload_(computing)
-
-https://developer.github.com/v3/issues/comments/#create-a-comment
-https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://developer.github.com/v3/repos/statuses/#create-a-status
-
-Auth
-https://github.com/settings/tokens | Personal Access Tokens
-https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
-
-Hooks
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
--->
-
-<!--
-https://dependabot.com/ | Dependabot
-https://dependabot.com/#how-it-works | Dependabot
-https://dependabot.com/github-actions/ | Dependabot
-
-Security
-
-https://github.com/features/security
-
-National Vulnerability Database
-https://nvd.nist.gov/ | NVD - Home
-
-GitHub Security
-https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
-https://github.com/Semmle
-http://github.com/Semmle/qlc
-https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
-https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
-https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
-https://securitylab.github.com/ | GitHub Security Lab
-https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
-https://github.com/advisories | GitHub Advisory Database
-request cve - Google Search
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
--->
-
-## Open Source in Orgs
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-  
-<!--
-https://github.com/todogroup/awesome-oss-mgmt
-
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
--->
-
-## Company Playbooks
-
-Handbooks
-* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
-* [Glitch Handbook](https://handbook.glitch.me/)
-* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
-
-## Stuff
-
-Joel Spolsky
-* [Joel on Software](https://www.joelonsoftware.com/)
-* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
-
-Basecamp Product
-* [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
-
-<!--
-https://developer.atlassian.com
-
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
-
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
-
-Atlassian Team Playbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-https://www.atlassian.com/team-playbook/examples
--->
-
 ## Hosting Blogs
 
 Hosting Blogs
@@ -2115,51 +1525,200 @@ Release Phase
 https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
 -->
 
-## GitLab
 
-GitLab- Notable Features
-* [GitLab Blog](https://about.gitlab.com/blog/)
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
 
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+## General Software Design Patterns
 
-Tools and Landscapes
-* [About GitLab](https://about.gitlab.com/)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+## Architectures
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+Architectures
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
 
 <!--
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 
-https://docs.gitlab.com/ee/install/README.html
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Messaging_pattern
 
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
+https://en.wikipedia.org/wiki/Request%E2%80%93response
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+-->
 
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+## Choices
 
-gitlab continuous integration and deployment
-https://www.youtube.com/watch?v=1iXFbchozdY
-https://docs.gitlab.com/ce/ci/
-https://docs.gitlab.com/ce/ci/quick_start/README.html
-https://docs.gitlab.com/ce/ci/environments.html
-https://docs.gitlab.com/ee/ci/autodeploy/index.html
-https://docs.gitlab.com/ee/integration/
-https://about.gitlab.com/features/gitlab-ci-cd/
-https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
-https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
-https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
-https://about.gitlab.com/2016/11/22/introducing-review-apps/
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+<!--
+https://devchecklists.com
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+-->
+
+## Interesting
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+-->
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+Lists
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+
+https://github.com/Droogans/unmaintainable-code
+
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 -->
 
 
+## Stuff
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
+
+<!--
+https://developer.atlassian.com
+
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
+-->
+
+## Site Reliability and High Performance
+
+Google Site Reliability Engineering Books
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+<!--
+https://www.redhat.com/en/blog
+
+https://www.redhat.com/en/resources/digital-transformation-ebook
+https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+
+
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
+
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+-->
+
+<!--
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+-->
+
+## Philosophies
+
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
+* [Open Microservices Guide](https://openmicroservices.org/)
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+<!--
+https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
+
+http://highscalability.com/all-time-favorites/
+
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+
+https://github.com/microservices/cli
+
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+-->
 
 <!--
 https://www.thoughtworks.com
@@ -2232,46 +1791,6 @@ https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplicat
 https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
--->
-
-## Jez Humble
-
-<!--
-Related
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
-
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
--->
-
-## Other Interesting
-
-Incident Response
-* [PagerDuty](https://response.pagerduty.com/)
-
-DevSecOps
-* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
-
-ChatOps
-* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
-* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
-* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-
-Chaos Engineering
-* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
-* [Gremlin](https://www.gremlin.com)
-* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
-
-<!--
-Netflix Suite
-Lynn Root's talks
-
-https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
-https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 -->
 
 ## CI/CD
@@ -2364,54 +1883,6 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
 -->
 
-## Advanced Workflows- Collaborative Development
-
-Collaborative Development Models
-* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
-* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
-* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
-* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
-* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
-
-Pros and Cons
-* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
-
-A Successful Git Branching Model
-* [A Successful Git Branching Model (with reflection now)](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-
-Gitflow Considered Harmful
-* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
-* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
-* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
-* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
-
-Atlassian Workflow
-* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
-* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
-
-GitHub Flow
-* [GitHub Flow](https://help.github.com/articles/github-flow)
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
-GitLab Flow
-* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
-* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
-* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
-
-Other Company Blogs
-* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
-* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
-
-Company or Organization Specific Git Workflows
-* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
-
-<!--
-https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
--->
 
 ## X Driven Development
 
@@ -2469,29 +1940,6 @@ http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf |
 https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
--->
-
-## Cost
-
-* [List of Failed and Overbudget Custom Software Projects Wikipedia](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
-
-<!--
-https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
-
-https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
-
-https://en.wikipedia.org/wiki/Continuous_integration#References | Continuous integration - Wikipedia
-
-https://en.wikipedia.org/wiki/COCOMO
-https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering
-https://www.youtube.com/watch?v=meB_SWzZm8M | (1) Trunk-Based Development economics (Paul Hammant) - YouTube
-https://en.wikipedia.org/wiki/Barry_Boehm
-https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227 | Software Engineering Economics: Barry W. Boehm: 0076092033097: Amazon.com: Books
-
-https://scottwambler.wordpress.com/courses/amdd/
-http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
-http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
-Cost of Software Change
 -->
 
 ## Software Design Tools
@@ -2628,6 +2076,219 @@ Robustness Analysis
 https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
 Robustness Diagrams: An Agile Introduction
 http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
+-->
+
+## Cost
+
+* [List of Failed and Overbudget Custom Software Projects Wikipedia](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
+
+<!--
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+
+https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
+
+https://en.wikipedia.org/wiki/Continuous_integration#References | Continuous integration - Wikipedia
+
+https://en.wikipedia.org/wiki/COCOMO
+https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering
+https://www.youtube.com/watch?v=meB_SWzZm8M | (1) Trunk-Based Development economics (Paul Hammant) - YouTube
+https://en.wikipedia.org/wiki/Barry_Boehm
+https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227 | Software Engineering Economics: Barry W. Boehm: 0076092033097: Amazon.com: Books
+
+https://scottwambler.wordpress.com/courses/amdd/
+http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
+http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
+Cost of Software Change
+-->
+
+## Jez Humble
+
+<!--
+Related
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+-->
+
+## Other Interesting
+
+Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
+
+DevSecOps
+* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+
+ChatOps
+* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
+* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
+* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+
+Chaos Engineering
+* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
+* [Gremlin](https://www.gremlin.com)
+* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
+
+<!--
+Netflix Suite
+Lynn Root's talks
+
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+-->
+
+## Open Source in Orgs
+
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+  
+<!--
+https://github.com/todogroup/awesome-oss-mgmt
+
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
+-->
+
+## Advanced Workflows- Collaborative Development
+
+Collaborative Development Models
+* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
+* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
+* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
+* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
+* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
+
+Pros and Cons
+* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model (with reflection now)](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
+
+Gitflow Considered Harmful
+* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
+* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
+* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
+
+Atlassian Workflow
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
+
+GitHub Flow
+* [GitHub Flow](https://help.github.com/articles/github-flow)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+GitLab Flow
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
+* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+
+Other Company Blogs
+* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
+* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
+
+Company or Organization Specific Git Workflows
+* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
+
+<!--
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
+-->
+
+## Company Playbooks
+
+Handbooks
+* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
+* [Glitch Handbook](https://handbook.glitch.me/)
+* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
+
+## GitLab
+
+GitLab- Notable Features
+* [GitLab Blog](https://about.gitlab.com/blog/)
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+Tools and Landscapes
+* [About GitLab](https://about.gitlab.com/)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+<!--
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+https://docs.gitlab.com/ee/install/README.html
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
 -->
 
 ## Authority Figures and Books
@@ -3401,6 +3062,9 @@ https://en.wikipedia.org/wiki/Marketing_mix
 ## Chicken or Egg Problem
 
 <!--
+https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
+http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
+
 https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
 https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
 -->
@@ -3414,6 +3078,9 @@ A16Z Metrics
 * [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
 
 <!--
+https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
+https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
+
 https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
 -->
 
@@ -3435,6 +3102,13 @@ Distribution, Growth, Sales Hacking
 
 <!--
 Seth Godin
+
+Viral Funnel model
+https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
+
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://kk.org/thetechnium/1000-true-fans/
 -->
 
 Idea Maze
