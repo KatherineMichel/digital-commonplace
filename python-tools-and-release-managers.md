@@ -319,6 +319,17 @@ https://devguide.python.org/devcycle/
 -->
 
 <!--
+* [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
+
+* Stats
+   * [npm trends](http://www.npmtrends.com/)
+   * [NPMCompare](https://npmcompare.com/)
+   * [npm-stat](https://npm-stat.com/)
+* Rank
+   * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
+
+npm package statistics - Google Search
+
 Homebrew Analytics
 https://github.com/Homebrew/homebrew-formula-analytics
 
