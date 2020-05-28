@@ -3,9 +3,6 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-"Leave people better than you found them."
-https://twitter.com/CHERdotdev/status/1257392420754542594
-
 https://twitter.com/commit2tweet/status/1262270462727532544 | A GitHub Action story on Twitter: "Hello, world! @KatiMichel" / Twitter
 
 Genographic Project
@@ -250,12 +247,6 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
-
-Snippets
-https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
-
 https://web.dev/fast/ | Fast load times
 
 Web Vitals
@@ -418,6 +409,13 @@ https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on 
 ## Shortcuts
 
 <!--
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
+
+Snippets
+https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
+https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
+
+
 Mac
 https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
 
@@ -683,6 +681,24 @@ https://github.com/andrews1022/web-development-2020-course-list | andrews1022/we
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 -->
 
+<!--
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+-->
+
 ## Trends
 
 Nuzzel
@@ -778,7 +794,7 @@ GitHub
 
 Women Who Inspire Me
 * [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
 * [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
 * [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
 * [Camille Fournier Twitter](https://twitter.com/skamille)
@@ -831,36 +847,15 @@ https://github.com/manuzhang/awesome-streaming | GitHub - manuzhang/awesome-stre
 Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
 
-Sid
-https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
-
 https://twitter.com/di_codes/status/1250553281883131904 | Dustin Ingram on Twitter: "This Friday I'll be pairing with @yufengg, and we'll be live-streaming as we go! https://t.co/WUuSdrqU83" / Twitter
 
-https://github.com/MishManners?tab=followers
+Cool way to do it
 https://twitter.com/MishManners/status/1240839777437364224
 https://twitter.com/MishManners/status/1239360667703885825
 https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
 
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
--->
-
-<!--
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
 ## Project-Based Learning
@@ -908,6 +903,7 @@ https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions |
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
+
 
 ## Open Source Guides
 
@@ -998,6 +994,10 @@ https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
 
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+
 Simon
 
 https://news.ycombinator.com/item?id=22920437
@@ -1016,16 +1016,16 @@ https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
 https://github.com/dogsheep/github-to-sqlite/releases
 
 
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
+
+https://github.com/marketplace?before=Y3Vyc29yOjIx&query=image | GitHub Marketplace · Tools to improve your workflow
+https://github.com/marketplace/actions/add-commit | Add & Commit · Actions · GitHub Marketplace
+
+https://github.com/nektos/act | nektos/act: Run your GitHub Actions locally 🚀
+
+
 Stanford Code in Place Project
-
-Python
-https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
-https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Using The urllib Package — Python 3.8.3 documentation
-https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
-https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
-
-
-https://developer.github.com/v3/libraries/
 
 API
 https://github.com/api-evangelist
@@ -1064,28 +1064,31 @@ https://twython.readthedocs.io/en/latest/usage/install.html | Installation — T
 https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
 https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
 http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+-->
 
-GitHub Action
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
+<!--
+Password Auth
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
 
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
+https://github.com/topics/bot | bot · GitHub Topics
 
-https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-
-https://help.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts | Persisting workflow data using artifacts - GitHub Help
-
-https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
-
+https://developer.github.com/v3/libraries/
 
 https://developer.github.com/v3/actions/secrets/ | Secrets | GitHub Developer Guide
 https://developer.github.com/v3/repos/contents/#create-or-update-a-file | Contents | GitHub Developer Guide
 
-https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
-https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
+GitHub Actions
 
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
 
-https://github.com/nektos/act | nektos/act: Run your GitHub Actions locally 🚀
+Actions innovations
+https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
+https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
+
+https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
+
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
 
 https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
 https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
@@ -1104,35 +1107,31 @@ https://github.com/actions/download-artifact | actions/download-artifact
 https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
 https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
 
-https://github.com/marketplace?before=Y3Vyc29yOjIx&query=image | GitHub Marketplace · Tools to improve your workflow
-https://github.com/marketplace/actions/add-commit | Add & Commit · Actions · GitHub Marketplace
 
-https://github.com/topics/bot | bot · GitHub Topics
--->
+Python
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
 
 
-<!--
-Password Auth
-https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
-
-GitHub Actions
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
-
-Actions innovations
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow | Configuring a workflow - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#types-of-actions | About actions - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/events-that-trigger-workflows#webhook-events | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#token-permissions | Virtual environments for GitHub-hosted runners - GitHub Help
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables | Virtual environments for GitHub-hosted runners - GitHub Help
+https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
+
+JavaScript or Docker
+https://help.github.com/en/actions/creating-actions/about-actions#types-of-actions
+
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
+
+https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+
+https://help.github.com/en/actions/reference/events-that-trigger-workflows#webhook-events
+
+
+Permissions
+https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#token-permissions
+https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables
+
+Persistence
+https://help.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts | Persisting workflow data using artifacts - GitHub Help
 
 Create a release
 https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
@@ -1197,6 +1196,16 @@ http://githooks.com/
 -->
 
 
+## Hosting Blogs
+
+Hosting Blogs
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+
 ## Git, GitHub, Open Source, Hosting
 
 GitHub More
@@ -1226,18 +1235,6 @@ Competitions
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 -->
-
-
-## Hosting Blogs
-
-Hosting Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-
 
 ## GitHub Features
 
@@ -1317,12 +1314,8 @@ https://github.com/features/codespaces | Codespaces
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
 https://github.com/codespaces-examples | codespaces-examples
 https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
-https://cli.github.com/
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
 
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+https://cli.github.com/
 -->
 
 ## GitHub Security
