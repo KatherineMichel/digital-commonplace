@@ -198,26 +198,6 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
-GitHub
-
-https://github.com/githubevents | GitHub Events
-
-https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
-
-https://git-scm.com/docs/git-status
-https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
-
-GH Satellite
-https://github.com/features/codespaces | Codespaces
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
-https://github.com/codespaces-examples | codespaces-examples
-https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
-https://cli.github.com/
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
-
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 
 MS
 https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
@@ -809,23 +789,45 @@ Guides for Development
 
 ## Makers
 
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+GitHub
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+Women Who Inspire Me
+* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+
 <!--
-GA/App/Probot People
-https://github.com/swinton/
-https://github.com/gr2m/
-https://github.com/JasonEtco/
-https://github.com/mscoutermarsh/
+https://github.com/jessfraz | jessfraz (Jess Frazelle)
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+
+Lorena
+
 https://github.com/mscoutermarsh/profile-tweet
 https://www.amazon.com/gp/product/B00Q8QKGJ0
 
 https://twitter.com/hayleydenb/status/1257786499933728768
 
-https://twitter.com/webology
-https://static.simonwillison.net
-
 https://twitter.com/housecor | Cory House  (@housecor) | Twitter
 
-https://twitter.com/levelsio
 Feross
 
 The 39 most powerful female engineers of 2018
@@ -836,20 +838,7 @@ https://www.forbes.com/top-tech-women/#17ee38b74df0
 
 Jess
 https://github.com/jessfraz/cni-benchmarks | jessfraz/cni-benchmarks: A simple program to benchmark various container networking (CNI) plugins.
-https://github.com/jessfraz | jessfraz (Jess Frazelle)
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
 https://oxide.computer/blog/introducing-the-oxide-computer-company/ | Oxide Computer Company: Oxide Computer Company: Initial boot sequence
-
-https://hypatia.ca
-https://twitter.com/ashleymcnamara
-https://twitter.com/noopkat
-https://twitter.com/sarah_edo
-https://twitter.com/ChloeCondon
-https://twitter.com/alicegoldfuss
-https://twitter.com/nnja
-https://twitter.com/DynamicWebPaige
-https://twitter.com/skamille
 
 People
 https://www.twitch.tv/directory/following
@@ -942,35 +931,6 @@ https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions |
 https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
 https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
-
-## Git, GitHub, Open Source, Hosting
-
-GitHub More
-* [GitHub Explore](https://github.com/explore)
-* [GitHub Discover](https://github.com/dashboard/discover)
-* [GitHub Showcases](https://github.com/showcases)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-* [GitHub YouTube](https://www.youtube.com/user/github/videos)
-
-<!--
-Events
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
--->
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
 
 ## Open Source Guides
 
@@ -1066,6 +1026,15 @@ https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Us
 https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
 https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
 
+
+https://developer.github.com/v3/libraries/
+
+API
+https://github.com/api-evangelist
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+
+
 Twitter
 https://developer.twitter.com/en/apps/17971730 | Twitter Developers
 https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
@@ -1084,12 +1053,6 @@ https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter 
 https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
 https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
 
-https://developer.github.com/v3/libraries/
-
-API
-https://github.com/api-evangelist
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 
 Python API Tools
 https://scrapy.org/
@@ -1145,9 +1108,8 @@ https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/ex
 
 https://github.com/marketplace?before=Y3Vyc29yOjIx&query=image | GitHub Marketplace · Tools to improve your workflow
 https://github.com/marketplace/actions/add-commit | Add & Commit · Actions · GitHub Marketplace
-https://github.com/topics/bot | bot · GitHub Topics
 
-https://github.com/gettyimages | Getty Images
+https://github.com/topics/bot | bot · GitHub Topics
 -->
 
 
@@ -1237,11 +1199,46 @@ http://githooks.com/
 -->
 
 
-## To Read- Tools
+## Git, GitHub, Open Source, Hosting
+
+GitHub More
+* [GitHub Explore](https://github.com/explore)
+* [GitHub Discover](https://github.com/dashboard/discover)
+* [GitHub Showcases](https://github.com/showcases)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+* [GitHub YouTube](https://www.youtube.com/user/github/videos)
 
 Marketplaces
 * [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
 * [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
+
+<!--
+Events
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://securitylab.github.com/events
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+-->
+
+
+## Hosting Blogs
+
+Hosting Blogs
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
 
 
 ## GitHub Features
@@ -1272,7 +1269,10 @@ GitHub Services- Deprecated
 GitHub Community
 * [GitHub Community](https://github.community/)
 
+
 <!--
+https://github.com/githubevents | GitHub Events
+
 https://resources.github.com/webcasts/
 https://resources.github.com/whitepapers/
 https://experiments.github.com
@@ -1307,6 +1307,24 @@ https://github.com/features/project-management/
 https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
+
+
+https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
+
+https://git-scm.com/docs/git-status
+https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
+
+GH Satellite
+https://github.com/features/codespaces | Codespaces
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
+https://github.com/codespaces-examples | codespaces-examples
+https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
+https://cli.github.com/
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 -->
 
 ## GitHub Security
@@ -1509,14 +1527,6 @@ https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organiz
 
 Open source report card
 -->
-
-
-## Hosting Blogs
-
-Hosting Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
 
 ## Heroku
 
