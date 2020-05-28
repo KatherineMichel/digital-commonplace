@@ -1,6 +1,8 @@
 # Organizations
 
 <!--
+https://github.com/gettyimages | Getty Images
+
 https://github.com/NHSX
 
 https://github.com/cumulusnetworks/ | Cumulus Networks
