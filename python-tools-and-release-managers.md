@@ -4,6 +4,7 @@
 https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
 
 
+https://github.com/pyenv/pyenv-update
 
 https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
 https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
@@ -113,6 +114,183 @@ Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 -->
 
+
+## Python 2 or 3, Python 2 EoL
+
+<!--
+six
+https://pypi.org/project/six/ | six · PyPI
+https://six.readthedocs.io/
+https://github.com/benjaminp/six
+
+django.utils.six
+https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
+https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
+
+Django
+https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
+
+`from __future__ import`
+
+New features
+f-strings
+type checking
+
+Packages for upgrading
+https://github.com/asottile/pyupgrade
+https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
+-->
+
+## General Python and Django Links
+
+Python Official Tutorial
+* [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
+
+Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
+* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
+
+Django Install
+* [Django Install](https://docs.djangoproject.com/en/dev/topics/install)
+
+Python Style
+* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+
+Django Coding Style Guide
+* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
+
+Django JavaScript Style Guide
+* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
+
+Django Views
+* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
+
+Django ORM
+* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
+
+<!--
+https://docs.djangoproject.com/en/2.2/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
+
+https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
+
+https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
+-->
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+Django Architecture and Scaling
+* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
+* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
+* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
+
+## Python Non-Official Styleguides and Code Formatting
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+<!--
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
+Python- PEP 8
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+
+<!--
+https://github.com/amontalenti/elements-of-python-style
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+-->
+
+## High Performance Python and Django and Trends
+
+<!--
+https://us.pycon.org/2020/schedule/talks/
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+https://techyaks.com/python-year-tytop.html
+-->
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+<!--
+lyftvm
+
+mergebot
+
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
+
+Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
+
+https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+
+https://www.youtube.com/watch?v=lx5WQjXLlq8&
+https://speakerdeck.com/carljm/instagram-under-the-hood
+https://blog.disqus.com/scaling-django-to-8-billion-page-views
+https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
+https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
+
+https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
+-->
+
+### General Talks
+
+<!--
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+-->
+
+
+
 ## To Read- Release Management
 
 Django
@@ -162,17 +340,15 @@ https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
 
 
-https://github.com/pyenv/pyenv-update
-
 Python release
 
 Python
+https://lwn.net/Articles/819853/
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 https://www.python.org/downloads/release/python-390a5/
 
 https://www.python.org/download/pre-releases/
-https://www.python.org/dev/peps/pep-0596/
 
 Django What’s New
 https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
@@ -183,6 +359,8 @@ https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter
 https://docs.djangoproject.com/en/dev/releases/3.1/
 https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
 
+
+https://github.com/pypa/pipenv/releases/tag/v2020.5.28
 
 venv versus virtualenv
 https://twitter.com/hynek/status/1241381814440247299
@@ -240,6 +418,8 @@ pre-commit
 https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
 
 https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
+
+
 
 Mariatta
 https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
@@ -441,7 +621,8 @@ https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG
 
 https://marc.info/?l=openbsd-announce&m=158989783626149&w=2 | 'OpenBSD 6.7 released - May 19, 2020' - MARC
 
-
+Sid
+https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
 https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
 https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
 GitLab
@@ -449,153 +630,6 @@ https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0
 https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
 -->
 
-
-## General Python and Django Links
-
-Python Official Tutorial
-* [Python Official Tutorial](https://docs.python.org/3/tutorial/) 
-
-Django Tutorials (Official, Mozilla Developer Network and SIBTC) 
-* [Django Official Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01)
-
-Django Install
-* [Django Install](https://docs.djangoproject.com/en/dev/topics/install)
-
-Python Style
-* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-
-Django Coding Style Guide
-* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
-
-Django JavaScript Style Guide
-* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
-
-Django Views
-* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
-
-Django ORM
-* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
-
-<!--
-https://docs.djangoproject.com/en/2.2/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
-https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
-
-https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
--->
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-Django Architecture and Scaling
-* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
-* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
-* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
-
-## Python Non-Official Styleguides and Code Formatting
-
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-<!--
-https://docs.python-guide.org/#writing-great-python-code
--->
-
-Python- PEP 8
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-
-<!--
-https://github.com/amontalenti/elements-of-python-style
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
--->
-
-## High Performance Python and Django and Trends
-
-<!--
-https://us.pycon.org/2020/schedule/talks/
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-<!--
-lyftvm
-
-mergebot
-
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-
-https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
-
-https://www.youtube.com/watch?v=lx5WQjXLlq8&
-https://speakerdeck.com/carljm/instagram-under-the-hood
-https://blog.disqus.com/scaling-django-to-8-billion-page-views
-https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
-https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
-
-https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
--->
-
-### General Talks
-
-<!--
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
 
 ## Great Release Managers
 
@@ -809,72 +843,6 @@ https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – 
 https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
 https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
 https://github.com/chriskuehl/shipit | chriskuehl/shipit
--->
-
-## Python 2 or 3, Python 2 EoL
-
-Python 2 or 3
-* [Python 2 or 3](https://wiki.python.org/moin/Python2orPython3)
-
-Python 2 EOL Websites
-* [Python 3 Readiness](https://tiran.github.io/py3readiness)
-* [Python Readiness](https://pyreadiness.org)
-* [Python 3 Wall of Superpowers](https://python3wos.appspot.com)
-* [Python 3 Porting](http://python3porting.com)
-* [Can I Use Python 3?](https://caniusepython3.com) and [Can I Use Python 3? GitHub](https://github.com/caniusepython3/caniusepython3.com)
-
-<!--
-https://github.com/encode/django-rest-framework/pull/6615 | Dropped Python 2 compatibility. by carltongibson · Pull Request #6615 · encode/django-rest-framework
-
-https://github.blog/changelog/2020-02-27-github-actions-breaking-change-python-2-being-removed-from-all-virtual-environments/ | GitHub Actions Breaking Change: Python 2 being removed from all virtual environments - The GitHub Blog
-
-https://github.com/marketplace/actions/upgrade-to-python-3 | Upgrade to Python 3 · Actions · GitHub Marketplace
-
-https://python-modernize.readthedocs.io/en/latest/ | Python-Modernize — modernize 0.6.1 documentation
-https://pypi.org/project/modernize/ | modernize · PyPI
-
-Python 2 to 3
-https://docs.python.org/3/howto/pyporting.html
-
-Cheat Sheets
-http://python-future.org/ | Easy, clean, reliable Python 2/3 compatibility — Python-Future documentation
-http://python-future.org/automatic_conversion.html | Automatic conversion to Py2/3 — Python-Future documentation
-http://python-future.org/compatible_idioms.html
-https://python-future.org/quickstart.html
-http://python-future.org/futurize.html#forwards-conversion-stage2
-https://python-future.org/quickstart.html#installation
-Python 3.1
-http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
-https://pybit.es/python-porting.html
-http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
-
-https://python-future.org/futurize.html | futurize: Py2 to Py2/3 — Python-Future documentation
-http://python-future.org/futurize_cheatsheet.html | futurize quick-start guide — Python-Future documentation
-https://python-future.org/quickstart.html#to-convert-existing-python-2-code | Quick-start guide — Python-Future documentation
-http://python-future.org/changelog.html#newobject-base-object-defines-fallback-py2-compatible-special-methods | Changes in previous versions — Python-Future documentation
-
-six
-https://pypi.org/project/six/ | six · PyPI
-https://six.readthedocs.io/
-https://github.com/benjaminp/six
-
-django.utils.six
-https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
-https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
-
-Django
-https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-
-`from __future__ import`
-
-New features
-f-strings
-type checking
-
-Packages for upgrading
-https://github.com/asottile/pyupgrade
-https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
 -->
 
 ## Package Tools and Testing
