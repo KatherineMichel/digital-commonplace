@@ -27,6 +27,12 @@ https://source.unsplash.com/collection/
 https://source.unsplash.com/ | Unsplash Source | A Simple API for Embedding Free Photos from Unsplash
 https://unsplash.com/documentation#get-a-random-photo | Unsplash API Documentation | Free HD Photo API | Unsplash
 
+Python
+https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
+https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Using The urllib Package — Python 3.8.3 documentation
+https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
+https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
+
 Stanford
 https://github.com/chrispiech | chrispiech (Chris Piech)
 http://stanford.edu/~cpiech/bio/index.html | Chris Piech
