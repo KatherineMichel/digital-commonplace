@@ -250,14 +250,6 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 
-
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
-https://jquery.com/ | jQuery
-
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
 Snippets
@@ -281,31 +273,12 @@ https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - 
 https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
 
 
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
-https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
-
-https://medium.com/javascript-scene/
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-
-https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
-
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
-
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
 
 Strategy pattern
 https://twitter.com/joelnet/status/1256229458295619585
@@ -991,6 +964,27 @@ https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on T
 ## Tools
 
 <!--
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
+
+https://medium.com/javascript-scene/
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
+
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://jquery.com/ | jQuery
+
 Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/website-starter-kit/
