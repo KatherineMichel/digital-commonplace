@@ -413,6 +413,8 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
+https://github.com/wowthemesnet/mundana-theme-jekyll
+
 https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
 
 https://ghost.org/docs/ | Ghost Docs
@@ -523,6 +525,8 @@ https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Edi
 https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
+
+Sarah
 https://github.com/sdras/night-owl-vscode-theme
 -->
 
@@ -806,6 +810,7 @@ Women Who Inspire Me
 * [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
 * [Camille Fournier Twitter](https://twitter.com/skamille)
 * [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
 * [Leigh Honeywell](https://hypatia.ca)
 * [Nina Zakharenko Twitter](https://twitter.com/nnja)
 * [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
@@ -815,7 +820,6 @@ Product
 * [Pieter Levels Twitter](https://twitter.com/levelsio)
 
 <!--
-https://github.com/jessfraz | jessfraz (Jess Frazelle)
 https://twitter.com/jessfraz
 https://blog.jessfraz.com/
 
