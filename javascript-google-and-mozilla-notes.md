@@ -219,7 +219,8 @@ Microsoft- Web Development
 Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
 * [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Developer Web Tools](https://developers.google.com/web/tools)
 
 Glossaries
@@ -227,6 +228,11 @@ Glossaries
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 
 <!--
+https://developers.google.com/web/showcase
+
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
 
 https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101 | Memory Terminology  |  Tools for Web Developers  |  Google Developers
