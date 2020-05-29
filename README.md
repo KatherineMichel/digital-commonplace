@@ -254,10 +254,6 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
 
