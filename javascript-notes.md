@@ -1,6 +1,21 @@
 # JavaScript Notes
 
 <!--
+http://caniuse.com/#search=service%20worker
+http://caniuse.com/#search=app%20cache
+
+
+* [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+
+https://frontendmasters.com/assets/resources/willsentance/js-the-hard-parts.pdf | js-the-hard-parts.pdf
+https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf | new-hard-parts-slides.pdf
+
+
+https://nodejs.org/en/blog/release/v14.3.0/ | Node v14.3.0 (Current) | Node.js
+
+https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
+
+
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
 https://en.wikipedia.org/wiki/HTTP/3
@@ -18,6 +33,7 @@ https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-ap
 https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
 https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
 
+
 https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
 
 
@@ -34,8 +50,13 @@ https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the E
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
 
+
 https://web.dev/ | web.dev  |  web.dev
 https://web.dev/fast/
+
+Web Vitals
+https://twitter.com/ChromiumDev/status/1257701879242514433
+https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
 
 Performance
 https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
@@ -48,6 +69,7 @@ https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twit
 
 https://github.com/luruke/browser-2020
 https://github.com/phuoc-ng/html-dom
+
 
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
@@ -63,6 +85,7 @@ https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitt
 
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 -->
+
 
 <!--
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
@@ -81,10 +104,22 @@ https://github.com/palashmon/awesome-js-posts
 https://github.com/andyttran/guide_to_algorithms
 
 Node
+* [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
+
+* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
+* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
+
+https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
+
+* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
+* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
+
 https://github.com/azat-co/practicalnode
 https://github.com/sqreen/awesome-nodejs-projects
 https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
 https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
 
   * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
@@ -122,6 +157,8 @@ https://web.dev/angular
 
 https://reactjs.org/docs/composition-vs-inheritance.html | Composition vs Inheritance - React
 
+https://github.com/btholt/react-redux-workshop | btholt/react-redux-workshop: 🇮🇸🇵🇱🇺🇸🇨🇭🇮🇱⚛ A workshop to teach you React and Redux in one day!
+
 https://github.com/btholt/react-hooks-examples | btholt/react-hooks-examples: Created with CodeSandbox
 https://codesandbox.io/s/github/btholt/react-hooks-examples | hooks-examples - CodeSandbox
 
@@ -141,12 +178,29 @@ Kent Dodd- React
 https://frontendmasters.com/teachers/kentcdodds/ | Learn from Kent C. Dodds's courses on Frontend Masters
 https://github.com/kentcdodds?tab=repositories | kentcdodds (Kent C. Dodds) / Repositories
 https://github.com/kentcdodds/react-fundamentals | kentcdodds/react-fundamentals: Material for my React Fundamentals Workshop
+https://frontendmasters.com/courses/advanced-react-patterns/exercises-setup/ | Learn Introducing Advanced React Patterns – Advanced React Patterns
 https://github.com/kentcdodds/advanced-react-patterns-v2/blob/frontend-masters/README.md | advanced-react-patterns-v2/README.md at frontend-masters · kentcdodds/advanced-react-patterns-v2
 https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2 | advanced-react-patterns-v2 - CodeSandbox
 
 Kent Dodd- Testing
 https://github.com/kentcdodds/react-testing-library | kentcdodds/react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 https://github.com/kentcdodds/react-testing-workshop | kentcdodds/react-testing-workshop: A workshop for testing react applications
+
+https://github.com/coryhouse/pluralsight-redux-starter
+https://github.com/coryhouse/react-slingshot
+https://github.com/coryhouse/react-flux-starter-kit
+
+https://github.com/coryhouse
+https://github.com/coryhouse/ps-react
+https://github.com/coryhouse/pluralsight-reusable-components-cra
+https://github.com/coryhouse/reactjsconsulting
+
+https://github.com/coryhouse/react-flux-building-applications
+https://github.com/coryhouse/speaker-starter-kit
+https://github.com/coryhouse/pluralsight-redux-starter
+https://github.com/coryhouse/fluent2017
+
+https://gist.github.com/coryhouse
 
 https://github.com/tiaanduplessis/awesome-react-talks | tiaanduplessis/awesome-react-talks: A curated list of talks about React or topics related to React
 
@@ -265,98 +319,6 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkama
 
 https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
--->
-
-## What To Learn Before A JavaScript Framework
-
-<!--
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
-
-
-https://www.youtube.com/watch?v=INPob8yPyBo&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&index=5 | JavaScript ES6 / ES2015 - [05] Template Literals - YouTube
-https://www.youtube.com/watch?v=Uyei2iDA4Hs | Full Stack React & Django [1] - Basic REST API - YouTube
-https://github.com/bradtraversy/react_crash_todo/tree/master/src | react_crash_todo/src at master · bradtraversy/react_crash_todo
-
-
-https://www.udemy.com/react-redux/
-
-https://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=TRAVERSYMEDIA
-https://www.udemy.com/react-front-to-back/?couponCode=TRAVERSYMEDIA
-
-https://www.youtube.com/user/TechGuyWeb/playlists
-https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
-
-React JS Crash Course - 2019
-https://www.youtube.com/watch?v=sBws8MSXN7A
-https://github.com/bradtraversy/react_crash_todo
-
-Node.js Crash Course
-https://www.youtube.com/watch?v=fBNz5xF-Kx4
-https://github.com/bradtraversy/node_crash_course
-
-https://www.youtube.com/watch?v=Uyei2iDA4Hs
-https://github.com/bradtraversy/lead_manager_react_django
-
-ES6/ES2015- New
-https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-Destructuring Assignment
-Classes and Inheritance
-Template Strings
-String Features
-Math and Number Features
-New Data Structures
-Iterators/Generators
-Promises and Asynchronous Data
-Arrow Functions
-
-What To Learn Before A JavaScript Framework
-https://www.youtube.com/watch?v=qi9VQqYcXqY
-
-
-JavaScript Fundamentals
-Basic syntax
-Variables
-Arrays and object literals
-Events
-Functions, loops, conditionals
-
-Modules
-ES6 Modules, TypeScript (Angular)
-Parcel, Webpack, Babel
-Export and Export Default
-
-Classes
-Structuring a class
-Constructors
-Methods and properties
-Instantiation
-Extending classes
-
-Arrow Functions
-Scope and lexical "this"
-
-Promises/Asynchronous Requests
-Create and receive promises
-.then() and .catch() syntax
-Async/Await
-Fetch API for making HTTP requests
-
-Destructuring
-
-Components and state
-Each component can have its own data and state
-Can also have application level state, usually implemented using a state manager such as Redux, Vuex, etc.
-Nested components (parent and children)
-Can be directly implemented or used in a router
-
-Spread Operator
-
-High Order Array Functions
-forEach()
-map()
-filter()
 -->
 
 ## JavaScript- General
@@ -515,6 +477,11 @@ Explainers
 * Google Chrome- V8, which is also the engine of Node.js
 
 <!--
+https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
+https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+
 https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey | SpiderMonkey - Mozilla | MDN
 SpiderMonkey
 https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals | SpiderMonkey Internals - Mozilla | MDN
@@ -550,6 +517,7 @@ Chrome (Browser, Layout Engine)
 
 <!--
 https://www.chromium.org/ | The Chromium Projects
+https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
 
 V8 (JavaScript Engine)
 * [V8 Dev](https://v8.dev), [V8 Dev Docs](https://v8.dev/docs), and [V8 Dev GitHub](https://github.com/v8/v8.dev)
