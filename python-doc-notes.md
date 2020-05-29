@@ -1,5 +1,18 @@
 # Python Doc Notes
 
+<!--
+Stanford
+https://see.stanford.edu/Course/CS106B/153 | Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 2 - Similarity between C++ & Java: - syntax - variable types - operators - control structures
+http://web.stanford.edu/class/cs106x/ | CS106X Programming Abstractions in C++
+http://web.stanford.edu/class/cs106b/ | CS106B Home
+
+Stanford
+Post-Class Resources
+https://us.edstem.org/courses/490/discussion/71967 | Code in Place – Discussion
+Life after Code in Place
+https://us.edstem.org/courses/490/discussion/71966 | Code in Place – Discussion
+-->
+
 ## Stanford Code in Place Notes
 
 https://www.rpgbx.com/python/masternotes | ALL Notes, Compiled! — rpgbx
@@ -50,6 +63,7 @@ https://us.edstem.org/courses/490/discussion/69604 | Code in Place – Discussio
 https://static.us.edusercontent.com/files/N85hJ2IHRnSfFI4iHjknP5hW
 
 My project
+https://us.edstem.org/courses/490/lessons/1327/slides/7012 | Code in Place – Lessons
 https://us.edstem.org/courses/1470/discussion/67793?comment=197647 | Section 470 – Discussion
 
 Week 4 notes
