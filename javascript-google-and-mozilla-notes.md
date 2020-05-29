@@ -3,6 +3,8 @@
 ## What To Learn Before A JavaScript Framework
 
 <!--
+* [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
 
