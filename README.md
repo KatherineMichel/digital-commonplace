@@ -159,6 +159,13 @@ https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
 
+https://medium.com/the-node-js-collection
+https://blog.risingstack.com
+
+* [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
+* [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+
+
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
 
 https://en.wikipedia.org/wiki/Control_flow
@@ -245,23 +252,6 @@ https://realpython.com/documenting-python-code/ | Documenting Python Code: A Com
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-
-
-https://web.dev/fast/ | Fast load times
-
-Web Vitals
-https://twitter.com/ChromiumDev/status/1257701879242514433
-https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
-
-https://nodejs.org/en/blog/release/v14.3.0/ | Node v14.3.0 (Current) | Node.js
-https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
-https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
-https://github.com/microsoft/ChakraCore | microsoft/ChakraCore: ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
-https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
-https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
 
 
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
@@ -1660,7 +1650,7 @@ https://devchecklists.com/vintas-high-quality-standards/
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 -->
 
-## Interesting
+## Product and Marketing
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
 * [Open Product Management](https://github.com/tron1991/open-product-management)
@@ -1673,23 +1663,17 @@ https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A re
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
 
+## Systems
+
 * [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-
 https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
 
-Lists
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
 https://github.com/lorin/systems-thinking
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
@@ -1698,18 +1682,29 @@ Sys Admin
 https://github.com/trimstray/sysadmin-interview-questions
 https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 
+Laws and Stuff
 https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 
+Resilience
 https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
 
+Architecture
 https://github.com/in28minutes/first-steps-to-software-architect
 https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
 https://github.com/Droogans/unmaintainable-code
 
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+Bash, Command Line
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
 -->
 
 
