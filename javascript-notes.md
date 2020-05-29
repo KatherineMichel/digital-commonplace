@@ -1,20 +1,13 @@
 # JavaScript Notes
 
 <!--
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
-* [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 
 https://frontendmasters.com/assets/resources/willsentance/js-the-hard-parts.pdf | js-the-hard-parts.pdf
 https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf | new-hard-parts-slides.pdf
-
-
-https://nodejs.org/en/blog/release/v14.3.0/ | Node v14.3.0 (Current) | Node.js
-
-https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
-
 
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
@@ -22,10 +15,6 @@ https://en.wikipedia.org/wiki/HTTP/3
 
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
-
-Senior devs should understand
-https://twitter.com/_ericelliott/status/1147563388928745472 | Twitter
-https://twitter.com/js_tut/status/1259507231395110912 | JavaScript Teacher on Twitter: "Stage 1 – HTML (DOM.) Stage 2 – CSS (CSSOM, flex, grid.) Stage 3 – JavaScript / front-end. Stage 4 – git / linux cli Stage 5 – React. Stage 6 – Node. Stage 7 – Express. Stage 8 – Mongo (or MySQL.) Stage 9 – back-end xp @ your 1st job. Stage 10 – You're a Full Stack dev." / Twitter
 
 
 Airbnb- isomorphic
@@ -73,6 +62,9 @@ https://github.com/phuoc-ng/html-dom
 
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
+http://caniuse.com/#search=service%20worker
+http://caniuse.com/#search=app%20cache
 
 https://bestmotherfucking.website/ | Best Motherfucking Website
 
