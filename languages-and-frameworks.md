@@ -279,6 +279,11 @@ Node.js Package Managers (npm (build-step))
 
 <!--    
 * [v5.0.0](http://blog.npmjs.org/post/161081169345/v500)    
+
+https://nodejs.org/en/blog/release/v14.3.0/ | Node v14.3.0 (Current) | Node.js
+
+https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
+
 * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 
 * Finding Packages
