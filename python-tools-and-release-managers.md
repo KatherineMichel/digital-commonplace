@@ -1,19 +1,13 @@
 # Python Tools and Release Managers
 
 <!--
+Nina
 https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
 
-
-https://github.com/pyenv/pyenv-update
-
-https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
-https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
-https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
-
-https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
-https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
-
-
+https://medium.com/processing-foundation/open-call-for-p5-js-project-lead-8f359a78b61b | Open Call for p5.js Project Lead - Processing Foundation - Medium
+https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
+https://github.com/rust-lang/rust/pull/72342 | Warn about unused crate deps by jsgf · Pull Request #72342 · rust-lang/rust
+https://this-week-in-rust.org/blog/2020/05/27/this-week-in-rust-340/ | This Week in Rust 340 · This Week in Rust
 
 https://snarky.ca/thoughts-on-a-tooling-workflow/
 https://twitter.com/brettsky/status/1260782564597366785
@@ -22,23 +16,18 @@ https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-
 
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
-https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
 
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
 
-all-repos
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-https://github.com/anthonywritescode/twitch-chat-bot
-https://github.com/asottile/onigurumacffi/pull/20/files
+https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
+https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
+https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
 
 
 cross linter - Google Search
 
-
-https://pypi.org/project/black/
-
-Mariatta
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
 
 https://pypi.org/project/mousebender/ | mousebender · PyPI
 https://pypi.org/project/pluggy/ | pluggy · PyPI
@@ -346,6 +335,7 @@ https://octoverse.github.com/2018/
 https://octoverse.github.com/2017/
 https://octoverse.github.com/2016/#organizations
 
+Popular Libraries
 https://docs.python.org/3/library/asyncio.html
 https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
@@ -371,12 +361,19 @@ https://docs.djangoproject.com/en/dev/releases/3.1/
 https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
 
 
-https://github.com/pypa/pipenv/releases/tag/v2020.5.28
+https://github.com/pyenv/pyenv-update
+
+Pipenv
+https://github.com/pypa/pipenv/releases/tag/v2020.5.28 | Release Release v2020.5.28 · pypa/pipenv
+https://twitter.com/hynek/status/1265888064427233280 | Hynek Schlawack on Twitter: "Congrats to the Pipenv team on v2020.5.28 – this must have been a hell of a ride! https://t.co/W0d93flAlY" / Twitter
+
+virtualenv
+Performance
+https://github.com/justinmayer/virtualfish/issues/158 | Switch from Virtualenv to Python’s built-in `venv` module · Issue #158 · justinmayer/virtualfish
 
 venv versus virtualenv
 https://twitter.com/hynek/status/1241381814440247299
 https://docs.python.org/3/library/venv.html
-https://github.com/justinmayer/virtualfish/issues/158
 
 https://virtualenv.pypa.io/en/latest/
 https://github.com/pypa/virtualenv/
@@ -402,13 +399,15 @@ https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plug
 https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
 
 Anthony
+https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
+tox -e py - Google Search
+https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
 https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
-https://www.google.com/search?q=python+curses&oq=python+curses&aqs=chrome..69i57j0l6j69i61.2677j0j7&sourceid=chrome&ie=UTF-8 | python curses - Google Search
 https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
 https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
-
-deadsnakes
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
+https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 
 
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
@@ -431,6 +430,9 @@ https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile
 https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
 
 
+
+Mariatta
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
 
 Mariatta
 https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
@@ -800,6 +802,9 @@ https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg |
 https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
 https://testandcode.com/104
 
+deadsnakes
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+
 Builds backported/forwardported pythons for ubuntu with @deadsnakes
 https://twitter.com/codewithanthony/status/1242245981590007808
 https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
@@ -811,7 +816,12 @@ https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
 
 https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
 
+all-repos
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+
+https://github.com/anthonywritescode/twitch-chat-bot
+
+https://github.com/asottile/onigurumacffi/pull/20/files
 https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
 https://github.com/asottile/add-trailing-comma
 https://github.com/asottile/t
