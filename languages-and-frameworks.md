@@ -14,20 +14,6 @@ Lodash
 * [Lodash](https://lodash.com) and [Lodash GitHub](https://github.com/lodash/lodash)
 -->
 
-<!--  
-* [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
-
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
-* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
-
-https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
-
-* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
-* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
--->
-
-
 ## Year in Review and Surveys
 
 * [NPM: 2018 JavaScript Ecosystem Survey](https://www.npmjs.com/2018-javascript-ecosystem-survey)
