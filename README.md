@@ -50,6 +50,8 @@ https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train
 
 Docs
 https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating.html | Season of Docs announces participating organizations for 2020 | Google Open Source Blog
+
+Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 Rotating p5.js
@@ -159,16 +161,36 @@ https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
 
-https://medium.com/the-node-js-collection
-https://blog.risingstack.com
+Chaoss
+https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - YouTube
+https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
-* [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
-* [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
+
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+
+
+Books
+https://twitter.com/Grady_Booch/status/1265665900973133824 | Grady Booch on Twitter: "@hogaur @simonbrown This is what is on my bookshelf. https://t.co/sGmElBE9BK" / Twitter
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
 
 https://en.wikipedia.org/wiki/Control_flow
+
+Debugging
+https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
+
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+Driven
+http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
+
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -609,6 +631,9 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 <!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://keycode.info/ | JavaScript Event KeyCodes
+
 https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
 
 https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
@@ -737,35 +762,6 @@ https://womenmake.com/ | Women Make
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
 
-## Hackathons, Festivals, Communities
-
-* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
-
-<!--
-https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
-
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
--->
-
-
 ## Makers
 
 Django, GitHub, SQL
@@ -777,6 +773,16 @@ GitHub
 * [Jason Etco GitHub](https://github.com/JasonEtco/)
 * [Gregor Martynus GitHub](https://github.com/gr2m/)
 * [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+<!--
+https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
+https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
+https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
+https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
+https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
+-->
 
 Women Who Inspire Me
 * [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
@@ -834,6 +840,7 @@ Women and NB on Twitch
 https://twitter.com/nnja/status/1238188427780083712
 
 https://twitter.com/di_codes/status/1250553281883131904 | Dustin Ingram on Twitter: "This Friday I'll be pairing with @yufengg, and we'll be live-streaming as we go! https://t.co/WUuSdrqU83" / Twitter
+https://twitter.com/di_codes/status/1261415478502854657 | Dustin Ingram on Twitter: "Today I got to pair with @fshwsprr, working on his @pypi PR to add a contributor "credits" page. Matt started working on it almost exactly 2 years ago at the PyCon 2018 sprints (now that is dedication!) and I think we got it to the point where it's nearly ready to merge." / Twitter
 
 Cool way to do it
 https://twitter.com/MishManners/status/1240839777437364224
@@ -843,6 +850,35 @@ https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 -->
+
+## Hackathons, Festivals, Communities
+
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!--
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+-->
+
 
 ## Project-Based Learning
 
@@ -993,13 +1029,19 @@ https://github.com/simonw/til
 https://twitter.com/simonw/status/1250651420660871168
 https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
 
-Simon- Release
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-36 | Changelog — Datasette documentation
+https://twitter.com/simonw/status/1265485373003558912 | Simon Willison on Twitter: "This is a really interesting Twitter account to follows - it tweets when it spots a new GitHub repo published by a known news nerd. Here's a scraper for the Texas Department of State Health Services Covid-19 data, initially released just 25 minutes ago." / Twitter
+https://twitter.com/simonw/status/1265344451632746496 | Simon Willison on Twitter: "What's today's equivalent of the old rite-of-passage exercise for web engineers of building their own blogging engine for their personal website?" / Twitter
+
+
+Simon
+https://simonwillison.net/2020/May/29/weeknotes-datasette-043/ | Weeknotes: Datasette 0.43
+https://datasette.readthedocs.io/en/latest/changelog.html#v0-43 | Changelog — Datasette documentation
 https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
 https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
 https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
 https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
 https://github.com/dogsheep/github-to-sqlite/releases
+https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
 
 
 https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
@@ -1252,6 +1294,15 @@ GitHub Community
 
 
 <!--
+Personal README
+https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
+https://github.com/pifafu | pifafu (kathy)
+https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
+
+GH Learning Lab
+https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
+
+
 https://github.com/githubevents | GitHub Events
 
 https://resources.github.com/webcasts/
@@ -3252,6 +3303,9 @@ Center for Humane Technology
 * [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
 
 <!--
+Digital minimalism
+https://twitter.com/kessler/status/1266049555105103872 | Ben Kessler on Twitter: "Anyone have a great resource for weaning off of social media and phone use (addiction)? The intensity and negativity of the news cycle and commentary on Twitter and Instagram is stressing me out and I need to take a break. cc: @dremilyanhalt @schlaf etc." / Twitter
+
 http://www.tristanharris.com/
 https://medium.com/@tristanharris
 http://www.tristanharris.com/the-need-for-a-new-design-ethics/
