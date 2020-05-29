@@ -224,6 +224,9 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
+https://dabeaz-course.github.io/practical-python/
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://github.com/dabeaz-course/practical-python
 
 MS
 https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
