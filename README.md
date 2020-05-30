@@ -184,9 +184,7 @@ https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin
 https://en.wikipedia.org/wiki/Control_flow
 
 
-
 https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
-
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -220,9 +218,14 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+
+https://github.com/KatherineMichel/practical-python
 https://dabeaz-course.github.io/practical-python/
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://github.com/dabeaz-course/practical-python
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 
 https://glitch.com/@python | Python
 
