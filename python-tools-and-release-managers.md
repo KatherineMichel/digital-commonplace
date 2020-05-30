@@ -93,32 +93,276 @@ Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 -->
 
+## Software Engineering
+
+Software Project Management
+* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+
+## Requirements and Planning
+
+Requirements
+* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
+* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
+* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
+* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
+* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
+* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
+* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
+* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
+* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
+* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
+
 <!--
-Tool Choices
+Requirements baseline
+https://en.wikipedia.org/wiki/Baseline_(configuration_management)
+-->
 
-https://snarky.ca/thoughts-on-a-tooling-workflow/
-https://twitter.com/brettsky/status/1260782564597366785
+Technical
+* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
+* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
+* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
+* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
+* Objective, Assumption, Constraint
 
-https://twitter.com/froidotdev/status/1248661469920714753
-https://twitter.com/simonw/status/1248628140445855745
+## Software Life Cycle and Release Management
 
-https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
+Interesting!
+Software Development Philosophies and Process
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
 
-Simon- Tools
-https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
-This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+Life Cycles
+* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
+* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
-https://mobile.twitter.com/webology/status/1195163668440334337
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+## Continuous Integration, Continuous Deployment, and Test Matrix
+
+Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
+
+Continuous Integration Software
+* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+
+Automation (includes Make)
+* [Build Automation Wikipedia](https://en.wikipedia.org/wiki/Build_automation)
+
+Other Stuff
+* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
+* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
+
+## GitHub- Release Tools
+
+Tags and Releases
+* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
+* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
+* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
+
+<!--
+https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
+-->
+
+## Release Management
+
+Release Management
+* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
+* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
+* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
+
+Software Release Life Cycle and Versioning
+* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
+
+Software Versioning and Semver (See also: npm packages)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+* [CalVer](https://calver.org)
+* [ZeroVer](https://0ver.org)
+
+Not what I thought
+* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
+
+<!--
+Pinax
+https://en.wikipedia.org/wiki/Software_versioning#Release_train
+
+SemVer Criticism
+https://twitter.com/hynek/status/1235848177640542214
+
+SemVer
+https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
+
+https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
+https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
+-->
+
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Rake and Make
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [Make Wikipedia](https://en.wikipedia.org/wiki/Make_(software))
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+
+Files
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+Apple
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
+pyenv?
+command line tools for xcode - Google Search
+
+ZSH	
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/hmml/awesome-zsh
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+Brew script
+
+Homebrew
+https://github.com/Linuxbrew/homebrew-core
+https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
+
+https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
+https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
+https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
+-->
+
+<!--
+aliases, dotfiles, Regex
+
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
+
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
+
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+http://www.linfo.org/usr_sbin.html
+
+https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
+https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
+
+https://en.wikipedia.org/wiki/Shell_script
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+
+Bash
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+File security
+http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
+
+https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
+https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
+
+https://github.com/topics/bash | Topic: bash
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+
+Bash versus Python
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+
+https://en.wikipedia.org/wiki/Regular_expression
+
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+http://www.yaml.org/refcard.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+
+Dotfiles
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
+https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
+https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
+https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
+-->
+
+## Visual Studio Code
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
+
+https://developers.google.com/web/updates/2017/04/headless-chrome
+https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
+
+https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+VC Studio Code
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+
+https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+
+https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
+
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 -->
 
 ## General Python and Django Links
@@ -387,6 +631,8 @@ https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (b
 Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
+
+Deno and Node
 
 https://github.com/denoland/deno/pull/5273
 
@@ -887,6 +1133,49 @@ https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-us
 https://github.com/pypa/sampleproject/blob/master/setup.cfg
 -->
 
+<!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+https://pypi.org/project/flake8-black/ | flake8-black · PyPI
+-->
+
+<!--
+Tool Choices
+
+https://snarky.ca/thoughts-on-a-tooling-workflow/
+https://twitter.com/brettsky/status/1260782564597366785
+
+https://twitter.com/froidotdev/status/1248661469920714753
+
+https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
+
+Simon- Tools
+https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://twitter.com/simonw/status/1248628140445855745
+
+https://github.com/cortesi/devd
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
+https://mobile.twitter.com/webology/status/1195163668440334337
+
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+-->
+
 ## Eldarion
 
 Package Tools
@@ -961,20 +1250,6 @@ Webpack Versus Browserify
 * [Browserify](http://browserify.org)
 * [Browsersync](https://www.browsersync.io/)
 
-
-<!--
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
-
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-https://pypi.org/project/flake8-black/ | flake8-black · PyPI
--->
-
 <!--
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
@@ -1040,278 +1315,6 @@ https://github.com/click-contrib | click-contrib
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
 https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
--->
-
-## Software Engineering
-
-Software Project Management
-* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
-
-Software Engineering/Development 
-* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
-* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
-* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
-* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
-* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
-
-## Requirements and Planning
-
-Requirements
-* [Product Requirements Document Wikipedia](http://en.wikipedia.org/wiki/Product_requirements_document)
-* [Requirement Wikipedia](https://en.wikipedia.org/wiki/Requirement)
-* [Business Requirements Wikipedia](https://en.wikipedia.org/wiki/Business_requirements)
-* [Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Functional_requirement)
-* [Non-Functional Requirement Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
-* [Specification Wikipedia](https://en.wikipedia.org/wiki/Specification_(technical_standard))
-* [Functional Specification Wikipedia](https://en.wikipedia.org/wiki/Functional_specification)
-* [Requirement Analysis Wikipedia](https://en.wikipedia.org/wiki/Requirements_analysis)
-* [Requirement Prioritization Wikipedia](https://en.wikipedia.org/wiki/Requirement_prioritization)
-* [Requirement Management Wikipedia](http://en.wikipedia.org/wiki/Requirements_management)
-
-<!--
-Requirements baseline
-https://en.wikipedia.org/wiki/Baseline_(configuration_management)
--->
-
-Technical
-* [Software Prototyping Wikipedia](http://en.wikipedia.org/wiki/Software_prototyping) 
-* [Proof of Concept Wikipedia](https://en.wikipedia.org/wiki/Proof_of_concept)
-* [Technology Roadmap Wikipedia](http://en.wikipedia.org/wiki/Technology_roadmap)
-* [Solution Architecture Wikipedia](https://en.wikipedia.org/wiki/Solution_architecture)
-* Objective, Assumption, Constraint
-
-## Software Life Cycle and Release Management
-
-Interesting!
-Software Development Philosophies and Process
-* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
-* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
-
-Life Cycles
-* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
-* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
-
-## Continuous Integration, Continuous Deployment, and Test Matrix
-
-Continuousness
-* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
-
-Continuous Integration Software
-* [Continuous Integration Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
-
-Automation (includes Make)
-* [Build Automation Wikipedia](https://en.wikipedia.org/wiki/Build_automation)
-
-Other Stuff
-* [Code Coverage Wikipedia](https://en.wikipedia.org/wiki/Code_coverage)
-* [Traceability Matrix Wikipedia](https://en.wikipedia.org/wiki/Traceability_matrix)
-
-## GitHub- Release Tools
-
-Tags and Releases
-* [GitHub About Milestones](https://help.github.com/en/articles/about-milestones)
-* [GitHub About Releases](https://help.github.com/articles/about-releases) and [GitHub Creating Releases](https://help.github.com/articles/creating-releases)
-* [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
-
-<!--
-https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
--->
-
-## Release Management
-
-Release Management
-* [Release Management Wikipedia](https://en.wikipedia.org/wiki/Release_management)
-* [Release Engineering Wikipedia](https://en.wikipedia.org/wiki/Release_engineering)
-* [Release Deployment Wikipedia](https://en.wikipedia.org/wiki/Software_deployment)
-
-Software Release Life Cycle and Versioning
-* [Software Release Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle)
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Rolling Release Wikipedia](https://en.wikipedia.org/wiki/Rolling_release)
-
-Software Versioning and Semver (See also: npm packages)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-* [CalVer](https://calver.org)
-* [ZeroVer](https://0ver.org)
-
-Not what I thought
-* [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
-
-<!--
-Pinax
-https://en.wikipedia.org/wiki/Software_versioning#Release_train
-
-SemVer Criticism
-https://twitter.com/hynek/status/1235848177640542214
-
-SemVer
-https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
-
-https://twitter.com/_ericelliott/status/1201639694800433152 | Eric Elliott on Twitter: "): Major.Minor.Patch :) Breaking.Feature.Fix https://t.co/jDFNzOZZDu #JavaScript" / Twitter
-https://medium.com/javascript-scene/software-versions-are-broken-3d2dc0da0783 | Software Versions are Broken - JavaScript Scene - Medium
--->
-
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Rake and Make
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [Make Wikipedia](https://en.wikipedia.org/wiki/Make_(software))
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-
-Files
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-<!--
-Apple
-
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
-pyenv?
-command line tools for xcode - Google Search
-
-ZSH	
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://github.com/hmml/awesome-zsh
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
-Brew script
-
-Homebrew
-https://github.com/Linuxbrew/homebrew-core
-https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
-
-https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
-https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
-https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
--->
-
-<!--
-aliases, dotfiles, Regex
-
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
-
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
-
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-http://www.linfo.org/usr_sbin.html
-
-https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
-https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
-https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
-
-https://en.wikipedia.org/wiki/Shell_script
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-File security
-http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
-
-https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
-https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
-
-https://github.com/topics/bash | Topic: bash
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-
-Bash versus Python
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-
-https://en.wikipedia.org/wiki/Regular_expression
-
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
-Dotfiles
-https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
-https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
-https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
-https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
--->
-
-## Visual Studio Code
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-
-https://developers.google.com/web/updates/2017/04/headless-chrome
-https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
-
-https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-VC Studio Code
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-
-https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
-
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 -->
 
 ## Azure
