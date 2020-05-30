@@ -1,16 +1,8 @@
 # Python Tools and Release Managers
 
 <!--
-Nina
-https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
-
-https://medium.com/processing-foundation/open-call-for-p5-js-project-lead-8f359a78b61b | Open Call for p5.js Project Lead - Processing Foundation - Medium
-https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
 https://github.com/rust-lang/rust/pull/72342 | Warn about unused crate deps by jsgf · Pull Request #72342 · rust-lang/rust
 https://this-week-in-rust.org/blog/2020/05/27/this-week-in-rust-340/ | This Week in Rust 340 · This Week in Rust
-
-https://snarky.ca/thoughts-on-a-tooling-workflow/
-https://twitter.com/brettsky/status/1260782564597366785
 
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
@@ -19,8 +11,6 @@ https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on T
 
 https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
 
-https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
-https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
@@ -101,6 +91,34 @@ https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applicatio
 
 Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+-->
+
+<!--
+Tool Choices
+
+https://snarky.ca/thoughts-on-a-tooling-workflow/
+https://twitter.com/brettsky/status/1260782564597366785
+
+https://twitter.com/froidotdev/status/1248661469920714753
+https://twitter.com/simonw/status/1248628140445855745
+
+https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
+
+Simon- Tools
+https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
+https://mobile.twitter.com/webology/status/1195163668440334337
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
 -->
 
 ## General Python and Django Links
@@ -364,6 +382,7 @@ https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (b
 
 ## Non-Python
 
+
 <!--
 Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
@@ -465,8 +484,15 @@ https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
 
 MS Edge
 https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
--->
 
+Sid
+https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
+https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
+https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
+GitLab
+https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
+https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
+-->
 
 
 <!--
@@ -504,6 +530,12 @@ https://wiki.python.org/moin/PyQt
 -->
 
 <!--
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
+https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
+
 More Python
 
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
@@ -548,13 +580,6 @@ https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on
 
 
 <!--
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
-
-
 Inspired Pinax
 https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
 https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
@@ -614,14 +639,6 @@ Security in case of vulnerabilities.
 https://github.com/kubernetes/sig-release | kubernetes/sig-release: Repo for SIG release
 
 https://marc.info/?l=openbsd-announce&m=158989783626149&w=2 | 'OpenBSD 6.7 released - May 19, 2020' - MARC
-
-Sid
-https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
-https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
-https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
-GitLab
-https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
-https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
 -->
 
 
@@ -679,37 +696,52 @@ https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
 Not sure...
 https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
 
-General
-https://twitter.com/jacobian/status/1115362291099283456
-
+PyPI long description
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
 http://mypy-lang.org/
 
 Formatting and Stuff
+
+fan of 79 characters line lengths. 
 https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
 https://treyhunner.com/2017/07/craft-your-python-like-poetry/
 
+settings
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
 https://prettier.io/
+pre-commit config
 https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
+
+Change Log
+https://pypi.org/project/towncrier/
 
 Packaging
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
-https://www.youtube.com/watch?v=btqFjNDdTlE
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
 
+Alex Grönholm - Automating testing and deployment with Github and Travis
+https://www.youtube.com/watch?v=btqFjNDdTlE
+
+credential management
 https://github.com/joerick/cibuildwheel
 https://github.com/explosion/wheelwright
 
+setup.py
 https://github.com/python-attrs/attrs/blob/master/setup.py
+canonical package data
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
+rexexps
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
 https://github.com/sdispater/poetry/issues/1036
+
+Change Log
 https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
 https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
+
+Extra change log entries
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
+Example
 https://pypi.org/project/attrs/
+
 https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
 https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
 https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
@@ -970,46 +1002,6 @@ http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors wit
 flake8 
 noqa: E501
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
--->
-
-<!--
-Tool Choices
-
-https://twitter.com/froidotdev/status/1248661469920714753
-https://twitter.com/simonw/status/1248628140445855745
-
-https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
-
-Simon- Tools
-https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
-This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
-
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
-https://mobile.twitter.com/webology/status/1195163668440334337
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
-
-pipenv
-https://twitter.com/simonw/status/1211735682135101440 | Simon Willison on Twitter: "@llanga @webology That's the main reason I use pipenv - it keeps my virtual environments outside Dropbox for me" / Twitter
-
-pyenv
-https://twitter.com/webology/status/1206676626311917568 | ❄☃ Jeff Triplett 🎄🔔 on Twitter: "Same. If you run macOS and develop with Python, pyenv is the way to go IMO. https://t.co/9sy5GBtGIw" / Twitter
-https://twitter.com/webology/status/1199446555809460231 | 🍂 Jeff Triplett 🍂 on Twitter: "🐍 This is a great resource. 🐳 I'd love to see a 4th Docker version. 🎉 If you use macOS, I highly, highly recommend using pyenv to manage your Python version of you. It's on my "just use it" list when I work with any level of dev. https://t.co/R6uPyFbJDr" / Twitter
-https://www.marc-richter.info/using-pyenv-to-manage-your-python-interpreters/ | Using pyenv to manage your Python interpreters - Marc Richter's personal site
-
-direnv
-https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
-https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
-
-PyInstaller
-https://twitter.com/ChPietsch/status/1214592028165787653 | Ꮯhristian Ꮲeach (@chpietsch@digitalcourage.social) on Twitter: "#PyInstaller still is in urgent need  of funding. If there is no sustainable funding until end of January, the current maintainer will officially retire. Which basically means: no more releases. Help funding! Details: https://t.co/veL9hfsnm5 #Python #FOSS #FLOSS #OpenSource" / Twitter
 -->
 
 ## Code Formatting Tools
@@ -1322,6 +1314,29 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 -->
 
+## Azure
+
+<!--
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
+
+Hynek- Azure Pipelines
+Publish Python packages in Azure Pipelines
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+https://github.com/Azure/azure-quickstart-templates
+
+https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
+-->
+
 ## Hosts, Containers, Serverless, Functions, Pipelines
 
 Containers
@@ -1345,30 +1360,16 @@ https://boto3.readthedocs.io/en/latest/index.html
 
 https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
 
+Google Cloud
+
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
 Google Cloud Django/Python
 https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
 https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
 
 https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
-
-https://github.com/Azure/azure-quickstart-templates
-
-https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
-
-https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
-
-Hynek- Azure Pipelines
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
 
 https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
@@ -1414,7 +1415,6 @@ https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-do
 https://readthedocs.org/
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
 https://readthedocs.org/accounts/login/?next=/accounts/gold/
-https://pypi.org/project/towncrier/
 https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
 https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
 https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
@@ -1809,6 +1809,9 @@ pytest
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
+https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
 https://pythontesting.net/framework/pytest/pytest-introduction/
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
