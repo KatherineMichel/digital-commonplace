@@ -56,6 +56,7 @@ Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 Rotating p5.js
+https://medium.com/processing-foundation/open-call-for-p5-js-project-lead-8f359a78b61b | Open Call for p5.js Project Lead - Processing Foundation - Medium
 https://twitter.com/gr2m/status/1259962901130969088 | Gregor on Twitter: "p5.js project (@p5xjs) is still looking for a project lead: https://t.co/JKBSJKKAku - 20-40h/week contracting, remote - up $50,000 stipend for 1 year - mentorship provided - applications very welcome if you identify with groups underrepresented open-source, art, or technology" / Twitter
 
 Content
@@ -284,6 +285,9 @@ https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
+
+Nina
+https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
 
 Debugging
 https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
