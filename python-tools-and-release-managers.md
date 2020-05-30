@@ -279,7 +279,6 @@ https://github.com/carljm/dotfiles
 -->
 
 
-
 ## To Read- Release Management
 
 Django
@@ -307,8 +306,73 @@ https://devguide.python.org/#contributing | Python Developer’s Guide — Pytho
 https://devguide.python.org/devcycle/
 -->
 
+## Python Release
 
 <!--
+Python release
+
+Python
+https://lwn.net/Articles/819853/
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+
+https://www.python.org/download/pre-releases/
+
+Django What’s New
+https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
+
+Django Security
+https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
+
+https://docs.djangoproject.com/en/dev/releases/3.1/
+https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
+-->
+
+## Mission Critical :)
+
+pip
+* [pip](https://github.com/pypa/pip/)
+
+New pip resolver; PyPA: "Starting this year, pip will be more consistent + stricter in the dependencies it installs"
+* ["New pip resolver to roll out this year"](http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html)
+
+venv and Virtualenv
+* [venv](https://docs.python.org/3/library/venv.html)
+* [Virtualenv GitHub](https://github.com/pypa/virtualenv/) and [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+* [Bernat Gabor: "virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future"](https://twitter.com/gjbernat/status/1226803593535279104)
+* [Virtualenv 20.0.0 Change Log](https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10)
+
+venv versus virtualenv
+* [Hynek: Virtualenv is "fast af"](https://twitter.com/hynek/status/1241381814440247299)
+* ["Switch from Virtualenv to Python’s built-in `venv` module"](https://github.com/justinmayer/virtualfish/issues/158)
+
+Pipenv
+* [Pipenv Release v2020.5.28](https://github.com/pypa/pipenv/releases/tag/v2020.5.28 )
+* [Next Pipenv Release - Google Groups](https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co)
+
+
+
+<!--
+https://hynek.me/articles/python-app-deps-2018/
+
+pip/virtualenv
+export PIP_REQUIRE_VIRTUALENV=true
+https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
+
+New pip resolver
+https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html
+https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip
+https://wiki.python.org/psf/Pip2020DonorFundedRoadmap
+
+https://github.com/pypa/pip/projects/5
+https://github.com/pypa/pip/issues/988
+https://gist.github.com/pradyunsg/5cf4a35b81f08b6432f280aba6f511eb
+https://pradyunsg.me/blog/2019/06/23/oss-update-1/
+https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitter: " Python people! The pip team needs your help! Do you have complex project dependencies? We want you to try to break pip's new dependency resolver... Details here: https://t.co/E1eRK7KjYl Please RT! cc @bernardtyers @simplysecureorg @ThePyPA @ThePSF" / Twitter
+
+
+
 * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
 
 * Stats
@@ -340,56 +404,6 @@ Popular Libraries
 https://docs.python.org/3/library/asyncio.html
 https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
-
-
-Python release
-
-Python
-https://lwn.net/Articles/819853/
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-
-https://www.python.org/download/pre-releases/
-
-Django What’s New
-https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
-
-Django Security
-https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
-
-https://docs.djangoproject.com/en/dev/releases/3.1/
-https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
-
-
-https://github.com/pyenv/pyenv-update
-
-Pipenv
-https://github.com/pypa/pipenv/releases/tag/v2020.5.28 | Release Release v2020.5.28 · pypa/pipenv
-https://twitter.com/hynek/status/1265888064427233280 | Hynek Schlawack on Twitter: "Congrats to the Pipenv team on v2020.5.28 – this must have been a hell of a ride! https://t.co/W0d93flAlY" / Twitter
-
-virtualenv
-Performance
-https://github.com/justinmayer/virtualfish/issues/158 | Switch from Virtualenv to Python’s built-in `venv` module · Issue #158 · justinmayer/virtualfish
-
-venv versus virtualenv
-https://twitter.com/hynek/status/1241381814440247299
-https://docs.python.org/3/library/venv.html
-
-https://virtualenv.pypa.io/en/latest/
-https://github.com/pypa/virtualenv/
-virtualenv 20.0.0 is now released, a first major release of a new better implementation for the future
-https://twitter.com/gjbernat/status/1226803593535279104
-https://virtualenv.pypa.io/en/latest/changelog.html#v20-0-0-2020-02-10
-
-pip innovation
-https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html
-http://pyfound.blogspot.com/2020/03/new-pip-resolver-to-roll-out-this-year.html | Python Software Foundation News: New pip resolver to roll out this year
-https://mobile.twitter.com/ThePyPA/status/1242998150190727169 | PyPA on Twitter: "Starting this year, pip will be more consistent + stricter in the dependencies it installs. https://t.co/vYkAAczeKM Here's what will change, when, and how you can help (testing, talking to our researchers, &amp; spreading the word) https://t.co/8dv6J0YCF8" / Twitter
-
-pip/virtualenv
-https://github.com/pypa/pip/commit/301dc3176fa40c3f6a233fccc131f3981bfbe48b
-https://mobile.twitter.com/freakboy3742/status/1242777058318536704 | Russell Keith-Magee on Twitter: "@jezdez @aaronbassett Not at all! It’s immensely useful - I’ve just completely missed the memo that it existed at all! And somehow, an entire generation of pip tutorials missed it, too..." / Twitter
 -->
 
 <!--
@@ -403,6 +417,7 @@ Anthony
 https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
 tox -e py - Google Search
 https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
+
 https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
 https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
 https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
@@ -417,8 +432,6 @@ https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest
 
 flake8
 https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
-https://twitter.com/codewithanthony/status/1253532129117405184 | Anthony Sottile on Twitter: "whew, just spent 4 hours compiling the changelog for the next #flake8 release (3.8.0a1), will probably finish it up tomorrow zzz" / Twitter
-
 https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
 
 https://pycodestyle.pycqa.org/en/latest/intro.html
