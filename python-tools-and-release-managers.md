@@ -103,34 +103,6 @@ Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 -->
 
-
-## Python 2 or 3, Python 2 EoL
-
-<!--
-six
-https://pypi.org/project/six/ | six · PyPI
-https://six.readthedocs.io/
-https://github.com/benjaminp/six
-
-django.utils.six
-https://docs.djangoproject.com/en/2.2/_modules/django/utils/six/ | django.utils.six | Django documentation | Django
-https://stackoverflow.com/questions/59193514/importerror-cannot-import-name-six-from-django-utils
-
-Django
-https://docs.djangoproject.com/en/3.0/releases/3.0/#removed-private-python-2-compatibility-apis | Django 3.0 release notes | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/releases/2.0/ | Django 2.0 release notes | Django documentation | Django
-
-`from __future__ import`
-
-New features
-f-strings
-type checking
-
-Packages for upgrading
-https://github.com/asottile/pyupgrade
-https://twitter.com/codewithanthony/status/1211814531753795596 | Anthony Sottile on Twitter: "periodic reminder for those of you dropping #python 2 -- here's a utility which will help you automatically burn the bridges and _upgrade_ your syntax! https://t.co/JTmfuCvzAD" / Twitter
--->
-
 ## General Python and Django Links
 
 Python Official Tutorial
@@ -351,8 +323,6 @@ Pipenv
 * [Pipenv Release v2020.5.28](https://github.com/pypa/pipenv/releases/tag/v2020.5.28 )
 * [Next Pipenv Release - Google Groups](https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co)
 
-
-
 <!--
 https://hynek.me/articles/python-app-deps-2018/
 
@@ -370,45 +340,11 @@ https://github.com/pypa/pip/issues/988
 https://gist.github.com/pradyunsg/5cf4a35b81f08b6432f280aba6f511eb
 https://pradyunsg.me/blog/2019/06/23/oss-update-1/
 https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitter: " Python people! The pip team needs your help! Do you have complex project dependencies? We want you to try to break pip's new dependency resolver... Details here: https://t.co/E1eRK7KjYl Please RT! cc @bernardtyers @simplysecureorg @ThePyPA @ThePSF" / Twitter
-
-
-
-* [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
-
-* Stats
-   * [npm trends](http://www.npmtrends.com/)
-   * [NPMCompare](https://npmcompare.com/)
-   * [npm-stat](https://npm-stat.com/)
-* Rank
-   * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
-
-npm package statistics - Google Search
-
-Homebrew Analytics
-https://github.com/Homebrew/homebrew-formula-analytics
-
-https://plugins.jetbrains.com/
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-High traffic projects
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://octoverse.github.com/2018/
-https://octoverse.github.com/2017/
-https://octoverse.github.com/2016/#organizations
-
-Popular Libraries
-https://docs.python.org/3/library/asyncio.html
-https://docs.aiohttp.org/en/stable/
-https://wiki.python.org/moin/PyQt
 -->
 
-<!--
-More Python
+## Anthony Advice
 
+<!--
 flake8 Plugin
 https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
 https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
@@ -424,85 +360,14 @@ https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick
 https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
 https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-
-
-https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
-https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-flake8
-https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
-https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
-
-https://pycodestyle.pycqa.org/en/latest/intro.html
-
-https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
-
-pre-commit
-https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
-
-https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
-
-
-
-Mariatta
-https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
-https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
-https://pypi.org/project/pip/ | pip · PyPI
-https://pyup.io/docs/bot/config/ | //docs - Configuration
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-Tools Release
-https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
-https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
-https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
 -->
 
-<!--
-Django 
-
-Daphne
-https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
-jpezG5fYgd" / Twitter
-
-django-allauth
-https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
--->
-
+## Non-Python
 
 <!--
 Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
-
-
-https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
-
-
-Example Release Process
-https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
-
-https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
-https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
-
-
-https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
-https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
-
-Distro
-http://distrowatch.com/table.php?distribution=ubuntu
-https://en.wikipedia.org/wiki/Linux_distribution
-
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
-https://twitter.com/codewithanthony/status/1255261241880252417
-
-pypy manylinux wheels
-https://twitter.com/codewithanthony/status/1256274470076993536
-https://cffi.readthedocs.io/en/latest/
-
-
 
 https://github.com/denoland/deno/pull/5273
 
@@ -538,7 +403,6 @@ https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/
 [Announcement] Tailwind CSS v1.4 is out, with built-in PurgeCSS support! #1656
 https://github.com/tailwindcss/tailwindcss/discussions/1656
 
-
 Go
 https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
 
@@ -547,17 +411,6 @@ https://blog.rust-lang.org/2020/03/12/Rust-1.42.html
 
 https://www.erlang.org/news/140
 https://gcc.gnu.org/gcc-10/
-
-
-ML
-https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
-https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
-https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html | Release Highlights for scikit-learn 0.23 — scikit-learn 0.23.0 documentationhttps://scikit-learn.org/stable/whats_new/v0.23.html#changes-0-23 | Version 0.23.0 — scikit-learn 0.23.0 documentation
-
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
-
 
 Microsoft
 https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
@@ -612,6 +465,121 @@ https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
 
 MS Edge
 https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
+-->
+
+
+
+<!--
+* [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
+
+* Stats
+   * [npm trends](http://www.npmtrends.com/)
+   * [NPMCompare](https://npmcompare.com/)
+   * [npm-stat](https://npm-stat.com/)
+* Rank
+   * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
+
+npm package statistics - Google Search
+
+Homebrew Analytics
+https://github.com/Homebrew/homebrew-formula-analytics
+
+https://plugins.jetbrains.com/
+
+Top downloaded wheels
+https://pythonwheels.com/
+
+High traffic projects
+https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
+https://formulae.brew.sh/analytics/install-on-request/30d/
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
+https://octoverse.github.com/2018/
+https://octoverse.github.com/2017/
+https://octoverse.github.com/2016/#organizations
+
+Popular Libraries
+https://docs.python.org/3/library/asyncio.html
+https://docs.aiohttp.org/en/stable/
+https://wiki.python.org/moin/PyQt
+-->
+
+<!--
+More Python
+
+https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
+https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+flake8
+https://flake8.pycqa.org/en/latest/release-notes/3.8.0.html | 3.8.0a1 – 2020-04-23 — flake8 3.7.9 documentation
+https://twitter.com/codewithanthony/status/1259948418245390336 | Anthony Sottile on Twitter: "flake8 3.8.0 *final* has been released! This is the first non-pre-release version of flake8 which supports #python 3.8+ (yes, including the walrus operator)! Thanks to all the contributors that helped make this release possible! https://t.co/b8QVoCA88O" / Twitter
+
+https://pycodestyle.pycqa.org/en/latest/intro.html
+https://twitter.com/IanLee1521/status/1259940393052811267 | Ian Lee on Twitter: "Took a lot longer than it should have, but pycodestyle 2.6.0 was finally released today! https://t.co/eH5t3DaTBz Huge shout out to @codewithanthony for their hard working getting this across the finish line. 🎉" / Twitter
+
+pre-commit
+https://twitter.com/codewithanthony/status/1253071084745682945 | Anthony Sottile on Twitter: "pre-commit (https://t.co/nSzLe8s6Go) v2.3.0 has been released! this version is mostly bug fixes but also improves nodejs hook installation to reduce install time / bandwidth! https://t.co/ol1AmFWdhJ" / Twitter
+
+https://twitter.com/imomaliev_/status/1258990966142373888 | Sardorbek Imomaliev on Twitter: "Doing work staff. Fell into the docker-nodejs-alpine rabbit hole. And stumbled upon this https://t.co/CRSbniT2GQ Thanks, past @codewithanthony. Are there projects you hadn't dipped your toes into?))" / Twitter
+
+
+Mariatta
+https://github.com/Mariatta/black_out | Mariatta/black_out: 🐍🌚🤖 GitHub bot that formats code with `black`
+https://github.com/Mariatta/black_out/blob/7c100654fc68330c25a47c2177215a122ccd234d/.pyup.yml | black_out/.pyup.yml at 7c100654fc68330c25a47c2177215a122ccd234d · Mariatta/black_out
+https://pypi.org/project/pip/ | pip · PyPI
+https://pyup.io/docs/bot/config/ | //docs - Configuration
+-->
+
+<!--
+Tools Release
+https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
+https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
+
+Django 
+
+Daphne
+https://twitter.com/carltongibson/status/1207389433756082176 | Carlton Gibson on Twitter: "Little Daphne update (to 2.4.1) for compat with Django 3.0's async_unsafe() and multi-threaded contexts (like the auto-reloader say) pip install -U daphne https://t.co/F3QsaVy19t" / Twitter
+jpezG5fYgd" / Twitter
+
+django-allauth
+https://twitter.com/carltongibson/status/1207370842012880896 | Carlton Gibson on Twitter: "Super work from @pennersr on the back of today's Django security releases: django-allauth already patched and available on PyPI as v0.41.0. Update now. https://t.co/hYwS8cRmpQ" / Twitter
+-->
+
+
+<!--
+Example Release Process
+https://pip.pypa.io/en/stable/development/release-process/ | Release process — pip 19.1.1 documentation
+
+https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
+https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentation
+
+
+Inspired Pinax
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+Distro
+http://distrowatch.com/table.php?distribution=ubuntu
+https://en.wikipedia.org/wiki/Linux_distribution
+
+
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+https://twitter.com/codewithanthony/status/1255261241880252417
+
+pypy manylinux wheels
+https://twitter.com/codewithanthony/status/1256274470076993536
+https://cffi.readthedocs.io/en/latest/
+
+
+ML
+https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
+https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
+https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html | Release Highlights for scikit-learn 0.23 — scikit-learn 0.23.0 documentationhttps://scikit-learn.org/stable/whats_new/v0.23.html#changes-0-23 | Version 0.23.0 — scikit-learn 0.23.0 documentation
+
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
 
 
 Roadmap example
@@ -860,16 +828,10 @@ https://twitter.com/nicoddemus/status/1195088740118618112
 https://twitter.com/blueyed/status/1222578734676484096
 https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
 
-https://www.reddit.com/r/Python/comments/8p578l/pyupgrade_automatically_rewrite_format_calls_to/
-https://pypi.org/project/pyupgrade-docs/
-
 https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
 https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
 https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
 https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
-
-https://github.com/asottile/pyupgrade
-https://twitter.com/nedbat/status/1212802879083315200 | Ned Batchelder on Twitter: "If you are looking to get rid of python-2/3 compatibility code, try https://t.co/yIDeMQxl0n (pro-tip: if you can’t remember where you saw some amazing code-munging thing, @codewithanthony’s GitHub is a good guess!)" / Twitter
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
 https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
