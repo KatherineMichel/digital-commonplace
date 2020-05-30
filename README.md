@@ -167,87 +167,45 @@ Chaoss
 https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - YouTube
 https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
-https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
+
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
-
-https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
-
-
-Books
-https://twitter.com/Grady_Booch/status/1265665900973133824 | Grady Booch on Twitter: "@hogaur @simonbrown This is what is on my bookshelf. https://t.co/sGmElBE9BK" / Twitter
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-
-https://en.wikipedia.org/wiki/Control_flow
 
 
 https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
+
+Node
+https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
+https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
+
+Nina
+https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
+
+Casey
+https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+
+https://repl.it/leaders | Repl.it - Leaderboard
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 Brian Holt, Frontend Masters
 Traversy Media
 
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
-https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
-real python python basics pdf - Google Search
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
-
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-https://github.com/KatherineMichel/100-days-of-code
-
-100 Days of Code
-https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://github.com/KatherineMichel/100-days-of-code | KatherineMichel/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
-
-Code challenges
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-
-Algorithms
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-
 Hacker News, Product Hunt, Lobsters, trending/leaderboards
-
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-
-https://github.com/KatherineMichel/practical-python
-https://dabeaz-course.github.io/practical-python/
-https://github.com/dabeaz-course/practical-python
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
-
-https://glitch.com/@python | Python
-
-https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
-
-Node
-https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
-https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
-
-MS
-https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
-https://github.com/microsoft/ProjectReunion | microsoft/ProjectReunion: Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
-https://github.com/microsoft/winget-cli/issues/179 | (2) Please include ability to opt out of telemetry and clear documentation on how to opt out · Issue #179 · microsoft/winget-cli
-https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Windows Package Manager Preview | Windows Command Line
-
-Casey
-https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
-
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
-
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
@@ -256,25 +214,6 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-
-Linux
-https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf | LPT_LISA
-https://www.ornl.gov/ | Oak Ridge National Laboratory | ORNL
-
-Ubuntu
-https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
-ubuntu release notes - Google Search
-
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -286,11 +225,25 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 
+Linux
+https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf | LPT_LISA
+https://www.ornl.gov/ | Oak Ridge National Laboratory | ORNL
+
+Ubuntu
+https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
+ubuntu release notes - Google Search
+
+MS
+https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
+https://github.com/microsoft/ProjectReunion | microsoft/ProjectReunion: Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
+https://github.com/microsoft/winget-cli/issues/179 | (2) Please include ability to opt out of telemetry and clear documentation on how to opt out · Issue #179 · microsoft/winget-cli
+https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Windows Package Manager Preview | Windows Command Line
+
+
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
 
-Nina
-https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
+https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
 Debugging
 https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
@@ -301,7 +254,6 @@ https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
 
 Driven
 http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
-
 
 Strategy pattern
 https://twitter.com/joelnet/status/1256229458295619585
@@ -351,13 +303,8 @@ https://dl.acm.org/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
-
-PM
-https://mobile.twitter.com/sriramk/status/1249860579994435585
-https://mobile.twitter.com/seanrose/status/1249863535414218752
-https://mobile.twitter.com/stevesi/status/1249862470006493184
-
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
 
 https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
 
@@ -367,22 +314,9 @@ Content-creating flywheel
 https://twitter.com/sarahleary/status/1255321982029234176
 https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
 
-https://growth.design/psychology/
-
 Lean Enterprise
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
-
-https://www.nngroup.com
-
-https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
-https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
-https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
-https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
-
-Human Factors
-https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
-https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 -->
@@ -395,6 +329,136 @@ https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter:
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+-->
+
+## Useful Courses
+
+Wes Bos
+* [Wes Bos Courses](https://wesbos.com/courses/)
+* [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
+* [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
+* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
+* [React for Beginners](https://reactforbeginners.com/)
+
+Dan Abramov
+* [Just JavaScript](https://justjavascript.com/)
+
+<!--
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+file:///Users/katherinemichel/Downloads/cpython-internals-2020-05-29.pdf
+
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
+https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
+real python python basics pdf - Google Search
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+
+https://github.com/KatherineMichel/practical-python
+https://dabeaz-course.github.io/practical-python/
+https://github.com/dabeaz-course/practical-python
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
+https://glitch.com/@python | Python
+
+https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
+
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
+
+https://github.com/KatherineMichel/100-days-of-code
+
+100 Days of Code
+https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
+
+Code challenges
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+
+Algorithms
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+
+Wes Bos
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://app.slack.com/client/T0B6Z0ZL1/
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+https://wesbos.com/uses/ | Uses | Wes Bos
+update node and npm - Google Search
+https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+https://www.udemy.com/user/brad-traversy/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+
+https://frontendmasters.com
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+https://btholt.github.io/intro-to-web-dev-v2/
+https://btholt.github.io/complete-intro-to-containers/
+
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+
+https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
+
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
+https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
+https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
+
+https://github.com/feldroy/django-crash-starter
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+-->
+
+<!--
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
 ## Website and Blog Resources
@@ -641,98 +705,6 @@ Checklists and Cheat Sheets
 Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
-
-## Useful Courses
-
-Wes Bos
-* [Wes Bos Courses](https://wesbos.com/courses/)
-* [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
-* [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
-* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
-* [React for Beginners](https://reactforbeginners.com/)
-
-Dan Abramov
-* [Just JavaScript](https://justjavascript.com/)
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://keycode.info/ | JavaScript Event KeyCodes
-
-https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
-
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
-
-https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
-https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
-
-https://github.com/feldroy/django-crash-starter
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-
-Wes Bos
-https://app.slack.com/client/T0B6Z0ZL1/
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-https://wesbos.com/uses/ | Uses | Wes Bos
-update node and npm - Google Search
-https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
-
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
-
-https://frontendmasters.com
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
-
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://btholt.github.io/intro-to-web-dev-v2/
-https://btholt.github.io/complete-intro-to-containers/
-
-Front End Masters Handbook
-https://github.com/FrontendMasters/front-end-handbook-2019
-https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
-https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
-
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-https://www.udemy.com/user/brad-traversy/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
--->
-
-<!--
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
--->
 
 ## Trends
 
@@ -2762,7 +2734,9 @@ Authorities
 ## Books
 
 <!--
-Books!
+Books
+https://twitter.com/Grady_Booch/status/1265665900973133824 | Grady Booch on Twitter: "@hogaur @simonbrown This is what is on my bookshelf. https://t.co/sGmElBE9BK" / Twitter
+
 http://www.dev-books.com
 https://github.com/chhantyal/influential-cs-books | chhantyal/influential-cs-books: Most influential books on Computer Science/programming
 https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b | The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code
@@ -3602,6 +3576,28 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
+
+## Product and User Research
+
+<!--
+PM
+https://mobile.twitter.com/sriramk/status/1249860579994435585
+https://mobile.twitter.com/seanrose/status/1249863535414218752
+https://mobile.twitter.com/stevesi/status/1249862470006493184
+
+https://www.nngroup.com
+
+https://growth.design/psychology/
+
+https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
+https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
+https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
+https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
+
+Human Factors
+https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
+https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
+-->
 
 ## Persuasian, Ethics
 
