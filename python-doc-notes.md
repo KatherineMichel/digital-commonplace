@@ -1,6 +1,10 @@
 # Python Doc Notes
 
 <!--
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+
+https://en.wikipedia.org/wiki/Control_flow
+
 Stanford
 https://see.stanford.edu/Course/CS106B/153 | Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 2 - Similarity between C++ & Java: - syntax - variable types - operators - control structures
 http://web.stanford.edu/class/cs106x/ | CS106X Programming Abstractions in C++
