@@ -182,15 +182,9 @@ https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin
 
 https://en.wikipedia.org/wiki/Control_flow
 
-Debugging
-https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
 
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 
-Driven
-http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
+https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
 
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
@@ -228,6 +222,14 @@ Hacker News, Product Hunt, Lobsters, trending/leaderboards
 https://dabeaz-course.github.io/practical-python/
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://github.com/dabeaz-course/practical-python
+
+https://glitch.com/@python | Python
+
+https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
+
+Node
+https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
+https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
 
 MS
 https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
@@ -281,6 +283,17 @@ https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
 
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
+
+
+Debugging
+https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
+
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+Driven
+http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
 
 
 Strategy pattern
@@ -1136,6 +1149,26 @@ https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/ex
 ## GitHub Actions Docs
 
 <!--
+GitHub Actions
+https://help.github.com/en/actions/creating-actions/creating-a-javascript-action | Creating a JavaScript action - GitHub Help
+https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events | Configuring a workflow - GitHub Help
+https://help.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions | Metadata syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/workflow-commands-for-github-actions | Workflow commands for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/about-actions#creating-a-readme-file-for-your-action | About actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/about-actions#using-release-management-for-actions | About actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace | Publishing actions in GitHub Marketplace - GitHub Help
+
+GA
+https://github.com/actions/github-script | actions/github-script
+https://help.github.com/en/actions | GitHub Actions Documentation - GitHub Help
+
+https://github.com/actions/labeler | actions/labeler: An action for automatically labelling pull requests
+https://github.com/actions/starter-workflows/blob/master/.github/pull_request_template.md | starter-workflows/pull_request_template.md at master · actions/starter-workflows
+https://github.com/actions/starter-workflows/blob/master/CONTRIBUTING.md | starter-workflows/CONTRIBUTING.md at master · actions/starter-workflows
+https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes | Learn YAML in five minutes! - CodeProject
+
+
+
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
 
 https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
@@ -1144,6 +1177,8 @@ https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
 Python
 https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
 
+JavaScript
+https://help.github.com/en/actions/language-and-framework-guides/github-actions-for-javascript-and-typescript | GitHub Actions for JavaScript and TypeScript - GitHub Help
 
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
 https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
@@ -1446,6 +1481,9 @@ https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-
 
 <!--
 Python 
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
 
 Important
 https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
