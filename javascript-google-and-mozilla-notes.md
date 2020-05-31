@@ -95,42 +95,6 @@ filter()
 -->
 
 <!--
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-Interview Series
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-
-Composition Series
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
-https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
-https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
-https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
-https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
-https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
-https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
-https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
-https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
-
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
--->
-
-<!--
-https://developer.twitter.com/en/docs
-https://www.programmableweb.com/category/all/apis
-
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
@@ -142,6 +106,7 @@ https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/Events | Event reference | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+
 https://developer.mozilla.org/en-US/docs/Glossary/Callback_function | Callback function - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in | in operator - JavaScript | MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval | eval() - JavaScript | MDN
