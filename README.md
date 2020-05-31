@@ -177,12 +177,7 @@ https://wsl-guide.kennethreitz.org/en/latest/
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
 
 
-https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
 https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
-
-Node
-https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
-https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
 
 Nina
 https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
@@ -194,9 +189,6 @@ https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
-
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
 
 https://repl.it/leaders | Repl.it - Leaderboard
 
@@ -214,6 +206,8 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+https://git-scm.com/docs
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -306,6 +300,9 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+
 https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
 
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
@@ -344,6 +341,18 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 <!--
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+https://github.com/sdras/productive-twitter/
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
+
 https://realpython.com/products/cpython-internals-book/
 https://realpython.com/lessons/cpython-book-download/
 https://realpython.com/cpython-internals/resources/
@@ -450,15 +459,8 @@ https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-con
 Sarah
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
 
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
 https://codepen.io/collection/nMgKxJ
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
 ## Website and Blog Resources
@@ -528,10 +530,6 @@ https://help.github.com/en/github/managing-files-in-a-repository/navigating-code
 GitHub Hotkeys
 https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
 https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
-https://twitter.com/hbasraouii/status/1174095327714037768 | Hamza Basraoui on Twitter: "@natfriedman This and 'l' to jump to a line in your code are time savers." / Twitter
-https://twitter.com/natfriedman/status/1174093497017630721 | Nat Friedman on Twitter: "GitHub pro tip: press `t` on a repo's code view to activate the file finder!" / Twitter
-
-https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want to open a new repository or gist in seconds? ➡ https://t.co/nIjVU2f4y0, https://t.co/unFGnzp8WW, https://t.co/yJFm9eM7Hh And go! https://t.co/69wpxZFUK5" / Twitter
 -->
 
 ## Visual Studio Code
@@ -541,10 +539,6 @@ https://twitter.com/github/status/1189320513543397376 | GitHub on Twitter: "Want
 * [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 
 <!--
-Tips
-https://twitter.com/mattbierner/status/1261355671452217344
-https://twitter.com/DThompsonDev/status/1260028790983417856 | Danny Thompson on Twitter: "VS Code TIP! I thought this was well known but it might not be. If you are using VS Code you can press CTRL + Shift + L and highlight text. It will then find every copy of that word and highlight it as well. You can now edit multiple lines at the same time #100DaysOfCode #HTML https://t.co/k2YPRy5hEr" / Twitter
-
 https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
 
 https://github.com/microsoft/vscode
