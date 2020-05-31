@@ -83,24 +83,6 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
-## GitHub and VS Code Integration
-
-<!--
-Glitch/VS Code
-https://www.producthunt.com/posts/glitch-for-vs-code | Glitch for VS Code - Collaborate on code & deploy instantly on Glitch from VSCode | Product Hunt
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
 ## Stack and Built With
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
@@ -168,6 +150,8 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 
 <!--
+https://github.com/vitejs/vite
+
 https://flutter.dev/
 https://dart.dev/
 
