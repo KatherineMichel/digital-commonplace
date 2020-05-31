@@ -1,33 +1,91 @@
 # JavaScript Notes
 
 <!--
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+Interview Series
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+
+Composition Series
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
+https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://html.spec.whatwg.org/multipage/
 https://en.wikipedia.org/wiki/HTTP/3
 
 
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
-https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 
-https://medium.com/javascript-scene/
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-
-https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
+https://github.com/luruke/browser-2020
+https://github.com/phuoc-ng/html-dom
+http://caniuse.com/#search=service%20worker
+http://caniuse.com/#search=app%20cache
 
 
 https://medium.com/the-node-js-collection
 https://blog.risingstack.com
 
+https://medium.com/javascript-scene
+
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
+
+https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
+
+https://expressjs.com/
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+
 Deno
 https://twitter.com/simonw/status/1266861106674294784
 https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
-
-
-https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
 
 
 Airbnb- isomorphic
@@ -49,23 +107,14 @@ https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocki
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
 
 
+https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
+
 https://frontendmasters.com/assets/resources/willsentance/js-the-hard-parts.pdf | js-the-hard-parts.pdf
 https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf | new-hard-parts-slides.pdf
 
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
 https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
-
-
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-
-https://github.com/luruke/browser-2020
-https://github.com/phuoc-ng/html-dom
-
-
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
 
 
 https://web.dev/ | web.dev  |  web.dev
@@ -144,6 +193,106 @@ https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
 -->
+
+## Web Architecture, How Browsers work
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+Explainers
+* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+## Web and JavaScript Engines, Google Chrome
+
+* Mozilla Firefox- Spidermonkey
+* Microsoft Edge- Chakra/ChakraCore
+* Apple Safari- JavaScriptCore
+* Google Chrome- V8, which is also the engine of Node.js
+
+<!--
+https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
+https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey | SpiderMonkey - Mozilla | MDN
+SpiderMonkey
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals | SpiderMonkey Internals - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Bytecodes | Bytecodes - Mozilla | MDN
+
+https://github.com/Microsoft/ChakraCore | Microsoft/ChakraCore: ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+
+https://webkit.org
+-->
+
+JavaScript Engine
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [Comparison of JavaScript Engines (DOM Support) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines_(DOM_support))
+* [Comparison of JavaScript Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+
+Chromium Developers
+* [Chromium Blog](https://blog.chromium.org)
+* [Chromium- For Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+
+Blink (Browser Engine)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+
+V8 (JavaScript Engine)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [V8 Dev](https://v8.dev), [V8 Dev Docs](https://v8.dev/docs), and [V8 Dev GitHub](https://github.com/v8/v8.dev)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+<!--
+https://www.chromium.org/ | The Chromium Projects
+https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
+
+https://v8.dev/docs/source-code
+https://v8.dev/blog/cost-of-javascript-2019 | The cost of JavaScript in 2019 · V8
+https://v8.dev/features/stable-sort | Stable Array.prototype.sort · V8
+
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+https://developer.chrome.com/apps/about_apps
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/hosting
+
+https://v8.dev/blog/background-compilation | Background compilation · V8
+
+Google Chrome Engines
+https://github.com/google/skia | google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+https://github.com/google/angle | google/angle: A conformant OpenGL ES implementation for Windows, Mac and Linux.
+https://github.com/Microsoft/angle | Microsoft/angle: ANGLE: OpenGL ES to DirectX translation for Windows Store, Windows Phone and Desktop
+https://www.opengl.org/ | OpenGL - The Industry Standard for High Performance Graphics
+-->
+
+Google Developers- Chrome
+* [Google Chrome Home](https://developer.chrome.com/home)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/canary/) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Chrome Developers
+* [Chrome Platform Status](https://www.chromestatus.com/features)
+* [Chrome Releases](https://chromereleases.googleblog.com)
+
+Google Web Updates
+* [Web Updates](https://developers.google.com/web/updates/)
 
 ## Jargon, Algorithms, and Patterns
 
@@ -466,103 +615,3 @@ Semantics/SEO/Accessibility
 <!--
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
 -->
-
-## Web Architecture, How Browsers work
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-Explainers
-* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-
-## Web and JavaScript Engines, Google Chrome
-
-* Mozilla Firefox- Spidermonkey
-* Microsoft Edge- Chakra/ChakraCore
-* Apple Safari- JavaScriptCore
-* Google Chrome- V8, which is also the engine of Node.js
-
-<!--
-https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
-https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey | SpiderMonkey - Mozilla | MDN
-SpiderMonkey
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals | SpiderMonkey Internals - Mozilla | MDN
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Bytecodes | Bytecodes - Mozilla | MDN
-
-https://github.com/Microsoft/ChakraCore | Microsoft/ChakraCore: ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
-
-https://webkit.org
--->
-
-JavaScript Engine
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [Comparison of JavaScript Engines (DOM Support) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines_(DOM_support))
-* [Comparison of JavaScript Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-
-Chromium Developers
-* [Chromium Blog](https://blog.chromium.org)
-* [Chromium- For Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-
-Blink (Browser Engine)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-
-V8 (JavaScript Engine)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [V8 Dev](https://v8.dev), [V8 Dev Docs](https://v8.dev/docs), and [V8 Dev GitHub](https://github.com/v8/v8.dev)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-<!--
-https://www.chromium.org/ | The Chromium Projects
-https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
-
-https://v8.dev/docs/source-code
-https://v8.dev/blog/cost-of-javascript-2019 | The cost of JavaScript in 2019 · V8
-https://v8.dev/features/stable-sort | Stable Array.prototype.sort · V8
-
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/apps/about_apps
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/hosting
-
-https://v8.dev/blog/background-compilation | Background compilation · V8
-
-Google Chrome Engines
-https://github.com/google/skia | google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-https://github.com/google/angle | google/angle: A conformant OpenGL ES implementation for Windows, Mac and Linux.
-https://github.com/Microsoft/angle | Microsoft/angle: ANGLE: OpenGL ES to DirectX translation for Windows Store, Windows Phone and Desktop
-https://www.opengl.org/ | OpenGL - The Industry Standard for High Performance Graphics
--->
-
-Google Developers- Chrome
-* [Google Chrome Home](https://developer.chrome.com/home)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/canary/) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Chrome Developers
-* [Chrome Platform Status](https://www.chromestatus.com/features)
-* [Chrome Releases](https://chromereleases.googleblog.com)
-
-Google Web Updates
-* [Web Updates](https://developers.google.com/web/updates/)
