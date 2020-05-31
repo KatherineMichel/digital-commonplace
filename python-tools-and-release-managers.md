@@ -167,6 +167,11 @@ Tags and Releases
 * [GitHub Working with Tags](https://help.github.com/articles/working-with-tags)
 
 <!--
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
+
+https://git-scm.com/book/en/v2/Git-Basics-Tagging
+https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository | Managing releases in a repository - GitHub Help
+
 https://developer.github.com/v3/repos/releases/#create-a-release | Releases | GitHub Developer Guide
 -->
 
@@ -624,17 +629,52 @@ https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 -->
 
-## Non-Python
-
+## Traffic
 
 <!--
-Google Chrome Ship
-https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
-https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
+* [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
 
+* Stats
+   * [npm trends](http://www.npmtrends.com/)
+   * [NPMCompare](https://npmcompare.com/)
+   * [npm-stat](https://npm-stat.com/)
+* Rank
+   * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
+
+npm package statistics - Google Search
+
+Homebrew Analytics
+https://github.com/Homebrew/homebrew-formula-analytics
+
+https://plugins.jetbrains.com/
+
+Top downloaded wheels
+https://pythonwheels.com/
+
+High traffic projects
+https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
+https://formulae.brew.sh/analytics/install-on-request/30d/
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
+https://octoverse.github.com/2018/
+https://octoverse.github.com/2017/
+https://octoverse.github.com/2016/#organizations
+
+Popular Libraries
+https://docs.python.org/3/library/asyncio.html
+https://docs.aiohttp.org/en/stable/
+https://wiki.python.org/moin/PyQt
+-->
+
+## Node
+
+<!--
 Deno and Node
 
 https://github.com/denoland/deno/pull/5273
+
+Node
+https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
+https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
 
 https://www.npmjs.com/package/standard | standard - npm
 https://docs.npmjs.com/packages-and-modules/
@@ -650,6 +690,14 @@ https://github.com/nodejs/Release
 
 node as Example
 https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
+-->
+
+## Non-Python
+
+<!--
+Google Chrome Ship
+https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
+https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
 
 https://nextjs.org/ | Next.js by Vercel - The React Framework
 https://nextjs.org/blog/next-9-4 | Blog - Next.js 9.4 | Next.js
@@ -738,41 +786,6 @@ https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ |
 GitLab
 https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
 https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
--->
-
-
-<!--
-* [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
-
-* Stats
-   * [npm trends](http://www.npmtrends.com/)
-   * [NPMCompare](https://npmcompare.com/)
-   * [npm-stat](https://npm-stat.com/)
-* Rank
-   * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
-
-npm package statistics - Google Search
-
-Homebrew Analytics
-https://github.com/Homebrew/homebrew-formula-analytics
-
-https://plugins.jetbrains.com/
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-High traffic projects
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://octoverse.github.com/2018/
-https://octoverse.github.com/2017/
-https://octoverse.github.com/2016/#organizations
-
-Popular Libraries
-https://docs.python.org/3/library/asyncio.html
-https://docs.aiohttp.org/en/stable/
-https://wiki.python.org/moin/PyQt
 -->
 
 <!--
