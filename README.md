@@ -168,6 +168,8 @@ https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - Y
 https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
 
+https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
+
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 
 That site design I like
@@ -192,6 +194,10 @@ https://www.techopedia.com/it-terms/1
 
 https://repl.it/leaders | Repl.it - Leaderboard
 
+https://codepen.io/tag/python
+
+https://www.coursera.org/learn/ai-for-everyone
+
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 Brian Holt, Frontend Masters
@@ -207,6 +213,22 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
+https://medium.com/javascript-scene
+https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+http://nixos.org
+https://github.com/NixOS/nix
+
+https://www.gnu.org/software/bash/manual/
+https://github.com/toml-lang/toml
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+https://github.com/cortesi/devd
+
+https://github.com/github
+https://github.com/orgs/maintainers/people?page=1
+
 https://git-scm.com/docs
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -218,6 +240,23 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+
+
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+
+Unix
+https://www.youtube.com/watch?v=tc4ROCJYbm0
 
 Linux
 https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf | LPT_LISA
@@ -270,9 +309,6 @@ https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 
 Docker
 https://github.com/docker/compose/issues/3729
-
-PHP
-https://twitter.com/KatiMichel/status/1257133245864402945
 
 Sqlite
 https://twitter.com/brettsky/status/1256026919151169536
@@ -341,6 +377,12 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 <!--
+https://github.com/yyx990803?tab=repositories
+
+Paint
+https://github.com/muan
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
 https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
@@ -550,12 +592,21 @@ https://code.visualstudio.com/docs/editor/tasks
 settings
 https://code.visualstudio.com/docs/getstarted/settings
 
+https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
+
 https://github.com/microsoft/vscode
 https://github.com/Microsoft/vscode-python
 https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
 
+https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
+
+Installed
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+
+https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+
 https://marketplace.visualstudio.com/vscode
-https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
 https://code.visualstudio.com/docs/python/environments
 https://code.visualstudio.com/docs/python/tutorial-django
 https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
@@ -576,21 +627,27 @@ https://docs.python.org/3/library/unittest.html
 https://docs.pytest.org/en/latest/
 https://code.visualstudio.com/docs/python/editing#_refactoring
 https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
 
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-GitHub
-https://visualstudio.github.com/
-https://github.com/github/VisualStudio
 https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
-https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+-->
 
-https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Studio - YouTube
+## GitHub and VS Code Integration
 
-https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio | Default Keyboard Shortcuts in Visual Studio
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
 -->
 
 ## Engineering Performance Resources
@@ -1032,6 +1089,9 @@ https://help.github.com/en/articles/about-maintainer-security-advisories | About
 ## Tools
 
 <!--
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
