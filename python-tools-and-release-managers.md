@@ -669,6 +669,11 @@ Deno and Node
 
 https://github.com/denoland/deno/pull/5273
 
+* [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
+* [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+
+https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In DevTools (Chrome 84)  |  Web  |  Google Developers
+
 Node
 https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
 https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
