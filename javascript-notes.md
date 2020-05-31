@@ -1,44 +1,6 @@
 # JavaScript Notes
 
 <!--
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-Interview Series
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
-
-Composition Series
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
-https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
-https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
-https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
-https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
-https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
-https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
-https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
-https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
-
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
--->
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://html.spec.whatwg.org/multipage/
-https://en.wikipedia.org/wiki/HTTP/3
-
-
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 
@@ -48,29 +10,16 @@ http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
 
 
-https://medium.com/the-node-js-collection
-https://blog.risingstack.com
+https://v8.dev/docs
+https://github.com/v8/node/
+https://tc39.es/ecma262/
+https://github.com/tc39/ecma262
+https://webassembly.github.io/spec/core/
 
-https://medium.com/javascript-scene
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://html.spec.whatwg.org/multipage/
+https://en.wikipedia.org/wiki/HTTP/3
 
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
-
-https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976 | Master the JavaScript Interview: What is a Pure Function?
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-
-https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
 
 https://expressjs.com/
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
@@ -81,7 +30,6 @@ https://deno.land/std
 https://deno.land/x
 https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
-
 
 Deno
 https://twitter.com/simonw/status/1266861106674294784
@@ -105,6 +53,52 @@ https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
 https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+
+https://medium.com/the-node-js-collection
+https://blog.risingstack.com
+
+https://medium.com/javascript-scene
+
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
+
+https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+Interview Series
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
+
+Composition Series
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
+https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
 
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
