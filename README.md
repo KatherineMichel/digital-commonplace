@@ -579,6 +579,9 @@ https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Tw
 * [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 
 <!--
+https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
+https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
+
 https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
 
 node.js
