@@ -8,16 +8,16 @@ https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-
 
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
+https://pypi.org/project/keyring/ | keyring · PyPI
+
+https://pypi.org/project/towncrier/
 
 https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
-
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
 
-
 cross linter - Google Search
-
 
 https://pypi.org/project/mousebender/ | mousebender · PyPI
 https://pypi.org/project/pluggy/ | pluggy · PyPI
@@ -30,6 +30,9 @@ https://pyformat.info/
 -->
 
 <!--
+Python security
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+
 https://hynek.me/articles/document-your-tests/
 
 https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
@@ -83,14 +86,6 @@ https://automationpanda.com/tag/development/
 https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
--->
-
-<!--
-Django versus Flask
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-
-Python security
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 -->
 
 ## Software Engineering
@@ -617,6 +612,8 @@ https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plug
 https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
 
 Anthony
+intro to tox
+https://www.youtube.com/watch?v=75WBE_qbpGk&feature=emb_logo
 https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
 tox -e py - Google Search
 https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
