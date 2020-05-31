@@ -62,7 +62,7 @@ https://compedu.stanford.edu/codeinplace/v1/#/assignment/finalProject | Assignme
 https://us.edstem.org/courses/490/discussion/69666 | Code in Place – Discussion
 https://us.edstem.org/courses/490/discussion/67446 | Code in Place – Discussion
 
-Mark's  project
+Mark's project
 https://us.edstem.org/courses/490/discussion/69604 | Code in Place – Discussion
 https://static.us.edusercontent.com/files/N85hJ2IHRnSfFI4iHjknP5hW
 
