@@ -341,12 +341,18 @@ Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
 <!--
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+
+Sarah
 https://github.com/sdras?tab=repositories
 https://github.com/sdras/night-owl-vscode-theme
 
 Chrome Extension
 https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
 https://github.com/sdras/productive-twitter/
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
 
 CSS/JS
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
@@ -383,14 +389,6 @@ https://github.com/KatherineMichel/100-days-of-code
 100 Days of Code
 https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
 https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
-
-
-Code challenges
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-
-Algorithms
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 
 Wes Bos
@@ -541,6 +539,17 @@ https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Tw
 <!--
 https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
 
+node.js
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+
+C++
+https://code.visualstudio.com/docs/cpp/launch-json-reference
+
+tasks.json
+https://code.visualstudio.com/docs/editor/tasks
+settings
+https://code.visualstudio.com/docs/getstarted/settings
+
 https://github.com/microsoft/vscode
 https://github.com/Microsoft/vscode-python
 https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
@@ -582,13 +591,6 @@ https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w | Microsoft Visual Stud
 
 https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio | Default Keyboard Shortcuts in Visual Studio
 https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
-
-Sarah
-https://github.com/sdras/night-owl-vscode-theme
 -->
 
 ## Engineering Performance Resources
@@ -781,6 +783,8 @@ App Ideas
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
 
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
