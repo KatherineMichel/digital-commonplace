@@ -14,6 +14,8 @@ https://genographic.nationalgeographic.com/results/print | Print | Genographic P
 https://www.amazon.com/MacBook-Plastic-Silicone-Keyboard-Compatible/dp/B07PTY68KQ/ref=sr_1_18?dchild=1&keywords=2020+macbook+pro+case&qid=1589041446&sr=8-18 | Amazon.com: MacBook Pro 13 Case Laptop Plastic Hard Shell Cover 2020 2019 2018 2017 2016 Release A2159/A1989/A1706/A1708 with Silicone Keyboard Cover Compatible Newest Mac Pro 13 Inch (Crystal Clear): Electronics
 https://www.cnn.com/2020/05/07/cnn-underscored/macbook-pro-13-inch-2020-hands-on/index.html | 13-inch MacBook Pro Hands-On: 48 hours with $1,299 and $1,799 models - CNN
 
+https://kinesis-ergo.com/shop/freestyle-pro/
+
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
 https://www.rigb.org/christmas-lectures/2019-secrets-and-lies | CHRISTMAS LECTURES 2019: Secrets and lies | The Royal Institution: Science Lives Here
@@ -188,6 +190,9 @@ Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
 
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
@@ -213,11 +218,6 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
-https://medium.com/javascript-scene
-https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
 http://nixos.org
 https://github.com/NixOS/nix
 
@@ -230,6 +230,9 @@ https://github.com/github
 https://github.com/orgs/maintainers/people?page=1
 
 https://git-scm.com/docs
+
+https://docs.python.org/3/library/python.html
+https://docs.python.org/3/reference/grammar.html
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -254,6 +257,8 @@ https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz 
 release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
 
+
+https://github.com/llvm/llvm-project
 
 Unix
 https://www.youtube.com/watch?v=tc4ROCJYbm0
@@ -1123,12 +1128,14 @@ API
 https://github.com/api-evangelist
 https://github.com/TonnyL/Awesome_APIs
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://www.programmableweb.com/category/all/apis
 
 
 Twitter
 https://developer.twitter.com/en/apps/17971730 | Twitter Developers
 https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
 
+https://developer.twitter.com/en/docs
 https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
 https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
 https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
