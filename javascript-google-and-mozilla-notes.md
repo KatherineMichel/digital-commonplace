@@ -9,11 +9,18 @@ https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaSc
 
 
 https://www.youtube.com/watch?v=INPob8yPyBo&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&index=5 | JavaScript ES6 / ES2015 - [05] Template Literals - YouTube
-https://www.youtube.com/watch?v=Uyei2iDA4Hs | Full Stack React & Django [1] - Basic REST API - YouTube
-https://github.com/bradtraversy/react_crash_todo/tree/master/src | react_crash_todo/src at master · bradtraversy/react_crash_todo
 
+
+React JS Crash Course - 2019
+https://www.youtube.com/watch?v=sBws8MSXN7A
+https://github.com/bradtraversy/react_crash_todo
+
+React and Django
+https://www.youtube.com/watch?v=Uyei2iDA4Hs | Full Stack React & Django [1] - Basic REST API - YouTube
+https://github.com/bradtraversy/lead_manager_react_django
 
 https://www.udemy.com/react-redux/
+
 
 https://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=TRAVERSYMEDIA
 https://www.udemy.com/react-front-to-back/?couponCode=TRAVERSYMEDIA
@@ -21,16 +28,9 @@ https://www.udemy.com/react-front-to-back/?couponCode=TRAVERSYMEDIA
 https://www.youtube.com/user/TechGuyWeb/playlists
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
-React JS Crash Course - 2019
-https://www.youtube.com/watch?v=sBws8MSXN7A
-https://github.com/bradtraversy/react_crash_todo
-
 Node.js Crash Course
 https://www.youtube.com/watch?v=fBNz5xF-Kx4
 https://github.com/bradtraversy/node_crash_course
-
-https://www.youtube.com/watch?v=Uyei2iDA4Hs
-https://github.com/bradtraversy/lead_manager_react_django
 
 ES6/ES2015- New
 https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
@@ -371,66 +371,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 Introduction
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
 
-Deprecated features
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
-
-
-
-Meta programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming
-
-Closures
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
-
-Concurrency model and Event Loop
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
-
-Misc
 JavaScript technologies overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-Enumerability and ownership of properties
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties
-Iteration protocols
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols
 
-Template literals
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-
-<!--
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-Arrays and object literals
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
--->
-
-
-WebAssembly
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly
-
-import
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
-
-import.meta
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import.meta
-
-debugger
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger
-
-<!--
-DataView
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView
-
-Expression closures
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Expression_closures
-Object initializer
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer
-Property accessors
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors
-new.target
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target
--->
-
+Deprecated features
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 
 
 ## Call Stack
@@ -451,8 +396,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_gramma
 Grammar and types
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types
 
+Arrays and object literals
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+
 Control flow and error handling
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
+Iteration protocols
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols
 Loops and iteration
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
 Expressions and operators
@@ -468,6 +418,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Text_formatting
 Math
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 
+Closures
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
 Strict mode
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
 Transitioning to strict mode
@@ -476,9 +429,53 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode/Tr
 Memory Management
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
 
+
+Concurrency model and Event Loop
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+
+Misc
+Enumerability and ownership of properties
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties
+
+Template literals
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+WebAssembly
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly
+
+debugger
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger
+
+<!--
+DataView
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView
+
+Expression closures
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Expression_closures
+Object initializer
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer
+Property accessors
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors
+new.target
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target
+-->
+
+
+## Packages
+
+import
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+
+import.meta
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import.meta
+
 ## Objects and Classes
 
 <!--
+Meta programming
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 
