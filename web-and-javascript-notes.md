@@ -1,4 +1,4 @@
-# JavaScript Notes
+# Web and JavaScript Notes
 
 <!--
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
@@ -186,6 +186,39 @@ https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni
 
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
+-->
+
+## Mozilla, Microsoft, and Google- General Docs
+
+Mozilla- Documentation
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Microsoft- Web Development
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Developer Web Tools](https://developers.google.com/web/tools)
+
+Glossaries
+* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+
+<!--
+https://developers.google.com/web/showcase
+
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101 | Memory Terminology  |  Tools for Web Developers  |  Google Developers
+
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 -->
 
 ## Web Architecture, How Browsers work
