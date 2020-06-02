@@ -18,7 +18,8 @@ https://kinesis-ergo.com/shop/freestyle-pro/
 
 https://personal.vanguard.com/us/funds/tools/marketsummary
 
-https://www.rigb.org/christmas-lectures/2019-secrets-and-lies | CHRISTMAS LECTURES 2019: Secrets and lies | The Royal Institution: Science Lives Here
+Why We Sleep
+https://www.amazon.com/dp/B0752XRB5F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 https://www.outsideonline.com/2413303/in-praise-of-walking-book-excerpt-shane-omara
 
@@ -172,6 +173,7 @@ https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
 https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
 
+https://awesomeblog.club/ | Awesomeblog.club - explore
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 
 That site design I like
@@ -248,6 +250,9 @@ https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File
 
 https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
+
+GitHub Metrics
+https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
 
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
 
@@ -851,6 +856,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
 
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
@@ -904,6 +911,8 @@ Google Open Source Guides
 ## Technical Writing Guides
 
 <!--
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
+
 Docs- Important!
 minimum viable documentation
 https://documentation.divio.com/
@@ -3698,6 +3707,8 @@ Center for Humane Technology
 * [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
 
 <!--
+https://twitter.com/webology/status/1266931277791473665 | Jeff says, "wear a mask" 😷 on Twitter: "@kennethlove The Nighthawk client does a good job or lean on mute lists." / Twitter
+
 Digital minimalism
 https://twitter.com/kessler/status/1266049555105103872 | Ben Kessler on Twitter: "Anyone have a great resource for weaning off of social media and phone use (addiction)? The intensity and negativity of the news cycle and commentary on Twitter and Instagram is stressing me out and I need to take a break. cc: @dremilyanhalt @schlaf etc." / Twitter
 
