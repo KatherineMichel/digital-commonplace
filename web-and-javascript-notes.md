@@ -13,6 +13,8 @@ http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
 
 
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
+
 https://v8.dev/docs
 https://github.com/v8/node/
 https://tc39.es/ecma262/
