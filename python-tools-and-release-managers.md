@@ -1,8 +1,36 @@
 # Python Tools and Release Managers
 
 <!--
+Anthony
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
+https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+https://twitter.com/codewithanthony/status/1267519000507936768 | Anthony Sottile on Twitter: "I just set up #python 3.10 nightly builds for deadsnakes -- try them out early as there's going to be a lot of breakage just due to the version number! (see also https://t.co/uH3AFUX3cW and https://t.co/Xac4BDY14X) -- https://t.co/08JnhWa7qT" / Twitter
+https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
+
+Tox
+https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
+
+Python
+https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
+
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
+
+Django
+https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
+environs[django] - Google Search
+
+Release
+https://lwn.net/Articles/821829/ | The 5.7 kernel is out [LWN.net]
+https://www.tensorflow.org/hub/tutorials | Tutorials  |  TensorFlow Hub
+https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html | Chromium Blog: Chrome 84 Beta: Web OTP, Web Animations, New Origin Trials and More
 https://github.com/rust-lang/rust/pull/72342 | Warn about unused crate deps by jsgf · Pull Request #72342 · rust-lang/rust
 https://this-week-in-rust.org/blog/2020/05/27/this-week-in-rust-340/ | This Week in Rust 340 · This Week in Rust
+https://debian-handbook.info/browse/stable/ | The Debian Administrator's Handbook
+
+
 
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
