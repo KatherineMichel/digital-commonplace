@@ -281,6 +281,12 @@ https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Wi
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
 
+Space Systems
+https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9 | spacex - What computer and software is used by the Falcon 9? - Space Exploration Stack Exchange
+https://twitter.com/Grady_Booch/status/1266970700885012480 | Grady Booch on Twitter: "But, there is a new implementation of this pattern emerging: Kubernetes. Same system design principle, just a different deployment. Assume that nodes will fail; use K8 orchestration to attend to failover. Really quite brilliant. https://t.co/a9ro47TPGw" / Twitter
+https://twitter.com/Grady_Booch/status/1266969676979949569 | Grady Booch on Twitter: "An tremendous of software these days is bespoke: frameworks upon frameworks with glue code to tie it all together and somewhere woven within and around, all the domain-specific bits. It appears that Dragon’s UI is no exception." / Twitter
+https://twitter.com/Grady_Booch/status/1266970085773565952 | Grady Booch on Twitter: "And as system design, triple redundancy with voting is a classic, proven pattern, used for decades. https://t.co/09RfE4kdY4" / Twitter
+
 https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
 Debugging
