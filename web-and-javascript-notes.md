@@ -1,6 +1,8 @@
 # Web and JavaScript Notes
 
 <!--
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
+
 React
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started | Getting started with React - Learn web development | MDN
 
@@ -13,17 +15,22 @@ http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
 
 
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
-
 https://v8.dev/docs
 https://github.com/v8/node/
 https://tc39.es/ecma262/
 https://github.com/tc39/ecma262
 https://webassembly.github.io/spec/core/
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md | Design of V8 bindings
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 https://html.spec.whatwg.org/multipage/
 https://en.wikipedia.org/wiki/HTTP/3
+
+
+Traversy
+https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
+https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
+https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
 
 
 https://expressjs.com/
@@ -39,6 +46,7 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 Deno
 https://twitter.com/simonw/status/1266861106674294784
 https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
+https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
 
 
 Airbnb- isomorphic
@@ -161,7 +169,6 @@ https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldci
 https://github.com/azat-co/practicalnode
 https://github.com/sqreen/awesome-nodejs-projects
 https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
-https://github.com/i0natan/nodebestpractices | i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 
 
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
