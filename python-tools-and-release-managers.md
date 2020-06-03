@@ -1,13 +1,6 @@
 # Python Tools and Release Managers
 
 <!--
-Anthony
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos | anthonywritescode - YouTube
-https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-https://twitter.com/codewithanthony/status/1267519000507936768 | Anthony Sottile on Twitter: "I just set up #python 3.10 nightly builds for deadsnakes -- try them out early as there's going to be a lot of breakage just due to the version number! (see also https://t.co/uH3AFUX3cW and https://t.co/Xac4BDY14X) -- https://t.co/08JnhWa7qT" / Twitter
-https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
-
 Tox
 https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
 
@@ -635,6 +628,8 @@ https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitte
 ## Anthony Advice
 
 <!--
+https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
+
 flake8 Plugin
 https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
 https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
@@ -646,12 +641,16 @@ https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi
 tox -e py - Google Search
 https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
 
+Anthony
+https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
+https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
+https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
+
 https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
 https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
 https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
-https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
-https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 -->
 
 ## Traffic
@@ -827,6 +826,8 @@ https://pip.pypa.io/en/stable/user_guide/ | User Guide — pip 20.1 documentatio
 
 More Python
 
+https://twitter.com/codewithanthony/status/1267519000507936768 | Anthony Sottile on Twitter: "I just set up #python 3.10 nightly builds for deadsnakes -- try them out early as there's going to be a lot of breakage just due to the version number! (see also https://t.co/uH3AFUX3cW and https://t.co/Xac4BDY14X) -- https://t.co/08JnhWa7qT" / Twitter
+
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
 https://twitter.com/codewithanthony/status/1258763966110511105 | Anthony Sottile on Twitter: "we back baby &lt;3 #pytest https://t.co/NXbjpHpzn2" / Twitter
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
@@ -855,6 +856,9 @@ https://pyup.io/docs/bot/config/ | //docs - Configuration
 Tools Release
 https://twitter.com/tiangolo/status/1208366425880059904 | Sebastián Ramírez on Twitter: "Let's make these guys Python Software Foundation fellows! @_tomchristie created DRF, Starlette, Uvicorn, MkDocs, HTTPX. @sethmlarson maintains urllib3, the most downloaded Python package daily, used by ...everything. https://t.co/CSzLlQ0PUM" / Twitter
 https://github.com/tomwojcik/starlette-context | tomwojcik/starlette-context: Middleware for Starlette (and FastAPI) that allows you to store and access context data, like correlation id or metadata.
+
+https://twitter.com/_tomchristie/status/1263789447826604033 | Tom Christie on Twitter: "HTTPX 0.13 is now out. 🎉 This one's a big deal for us since it switches to `httpcore` for the underlying transport. * Identical network behaviour for the sync &amp; async cases. * HTTP/2 support for sync. * No `urllib3` dependancy, tho we have a URLLib3 transport if you want it." / Twitter
+
 https://twitter.com/_tomchristie/status/1215240517962870784 | Tom Christie on Twitter: "Our latest release of HTTPX now has both sync &amp; async support again. 👍🎉 HTTPX 0.11 gives you: * A fully featured requests-like API. * Sync &amp; Async support. * Support for both asyncio and Trio. * HTTP/1.1 (both cases) and HTTP/2 (currently async only). https://t.co/BDO5YRdH35" / Twitter
 
 Django 
