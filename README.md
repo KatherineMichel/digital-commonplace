@@ -173,6 +173,8 @@ https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
 https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
 
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+
 https://awesomeblog.club/ | Awesomeblog.club - explore
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 
@@ -248,11 +250,18 @@ https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
 https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
 
+Python
+https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
+https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
+
 https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
 
 GitHub Metrics
 https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
+
+GitHub Actions
+https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
 
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
 
@@ -1428,12 +1437,17 @@ https://github.com/cschleiden/github-actions-hero | cschleiden/github-actions-he
 https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
 https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
 
-More Example actions
+Brian Douglas
 https://github.com/bdougie/github-actions-continuous-delivery
+https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+
+More Example actions
 https://github.com/paulirish/lighthouse-ci-action
 https://twitter.com/jacobian/status/1192500227078529026 | jacobian on Twitter: "@simonw This was also my first time using Github actions - which are pretty damn sweet! I was able to set up CI and automated releases to PyPI in a matter of minutes." / Twitter
 https://github.com/boyney123/github-actions
 https://twitter.com/simonw/status/1199851134564884480
+https://github.com/thechangelog/nightly | thechangelog/nightly: Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
+https://www.gharchive.org/ | GH Archive
 
 pre-commit action
 https://twitter.com/codewithanthony/status/1198774749473558528
