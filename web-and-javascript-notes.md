@@ -128,6 +128,8 @@ https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node
 https://web.dev/ | web.dev  |  web.dev
 https://web.dev/fast/
 
+https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
+
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
