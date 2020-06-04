@@ -51,6 +51,9 @@ https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 ## CPython Internals Book
 
 <!--
+https://docs.python.org/3/library/python.html
+https://docs.python.org/3/reference/grammar.html
+
 https://docs.python.org/3/library/dis.html | 404 Not Found
 
 https://en.wikipedia.org/wiki/Bootstrapping_(compilers) | Bootstrapping (compilers) - Wikipedia
@@ -59,6 +62,7 @@ https://en.wikipedia.org/wiki/Source-to-source_compiler | Source-to-source compi
 https://github.com/lark-parser/lark
 C System API
 https://docs.python.org/3.8/extending/extending.html
+
 https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
 https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
 https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
@@ -68,6 +72,10 @@ https://www.pypy.org/ | PyPy
 ## Dave
 
 <!--
+https://github.com/KatherineMichel/practical-python
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
 https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
 https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
 -->
