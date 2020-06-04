@@ -239,19 +239,28 @@ https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66f
 http://nixos.org
 https://github.com/NixOS/nix
 
-https://www.gnu.org/software/bash/manual/
-https://github.com/toml-lang/toml
 https://direnv.net/ | direnv – unclutter your .profile | direnv
 https://github.com/cortesi/devd
 
+https://en.wikipedia.org/wiki/Env | env - Wikipedia
+
+https://github.com/toml-lang/toml
+
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+
+Regular expression
 https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
 https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+Strings
 https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
 https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://en.wikipedia.org/wiki/Env | env - Wikipedia
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
 https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
 https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
