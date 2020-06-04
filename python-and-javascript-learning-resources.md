@@ -13,6 +13,10 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 -->
 
 <!--
+https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
+
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
 Calvin
 https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
 
@@ -22,9 +26,17 @@ https://store.lerner.co.il/python-for-non-programmers-live | Python for non-prog
 Aaron
 https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
 
+
 People
 
-https://twitter.com/ramalhoorg
+* [Adam Johnson GitHub](https://github.com/adamchainz)
+* [Anthony Shaw](https://twitter.com/anthonypjshaw) and [Anthony Shaw GitHub](https://github.com/tonybaloney/)
+* [Armin Ronacher](https://lucumr.pocoo.org)
+* [Jack Diederich](https://twitter.com/jackdied) and [Jack Diederich GitHub](https://github.com/jackdied)
+* [Luciano Ramalho](https://twitter.com/ramalhoorg)
+* [Pablo Galindo](https://github.com/pablogsal)
+* [Raymond Hettinger](https://rhettinger.github.io/)
+
 
 Michael
 https://mherman.org/talks | Talks and Trainings
@@ -76,21 +88,6 @@ https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner 
 
 https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
 
-Armin
-https://lucumr.pocoo.org
-
-Anthony Shaw
-https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
-https://twitter.com/anthonypjshaw/status/1218730494637953024
-https://twitter.com/anthonypjshaw
-https://github.com/tonybaloney/
-https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
-https://twitter.com/anthonypjshaw/status/1225985709409890304
-https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
-
-https://github.com/adamchainz
-https://github.com/pablogsal?tab=following
-
 https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
 https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
 
@@ -100,6 +97,13 @@ http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | P
 
 Brandon Rhodes
 https://www.youtube.com/watch?v=fYlnfvKVDoM
+
+Anthony Shaw
+https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
+https://twitter.com/anthonypjshaw/status/1218730494637953024
+https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
+https://twitter.com/anthonypjshaw/status/1225985709409890304
+https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
 
 Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
 https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
@@ -115,14 +119,10 @@ https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
 
-https://rhettinger.github.io/ | Raymond Hettinger – US Pycon 2019 — US Pycon December 2019 documentation
 https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
 https://www.youtube.com/results?search_query=raymond+hettinger&sp=CAM%253D | raymond hettinger - YouTube
 https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA | Raymond Hettinger Talks - YouTube
 https://twitter.com/search?q=raymondh%20slides&src=typd&lang=en | raymondh slides - Twitter Search
-
-https://github.com/jackdied | jackdied (Jack Diederich)
-https://twitter.com/jackdied | Jack Diederich (@jackdied) | Twitter
 
 https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
 https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
@@ -737,20 +737,28 @@ Learning Resources
 * [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 
-Python/Django Teachers and Useful Python Resources
+No Starch Press
 * [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
 * [Al Sweigart: Invent with Python](http://inventwithpython.com) and [Invent with Python Blog](http://inventwithpython.com/blog)
 * [Amit Saha: Doing Math with Python](https://nostarch.com/doingmathwithpython)
-* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-* [Real Python Courses](https://realpython.com/courses)
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
+* [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
+
+<!--
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
+-->
+
+Python/Django Teachers and Useful Python Resources
+* [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+* [Real Python Courses](https://realpython.com/courses)
 * [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [Harry Percival Twitter](https://twitter.com/hjwp)
 * [Jeff Knupp Blog](https://jeffknupp.com/blog), [Jeff Knupp Archives](https://jeffknupp.com/blog/archives), and [Jeff Knupp YouTube](https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ)
@@ -759,7 +767,6 @@ Python/Django Teachers and Useful Python Resources
 * [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
 * [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
-* [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
@@ -797,11 +804,6 @@ Python Websites and Newsletters
 * [Python for Beginners](http://www.pythonforbeginners.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
-
-<!--
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
-https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
--->
 
 ## Django Learning Resources
 
