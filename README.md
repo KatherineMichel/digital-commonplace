@@ -77,6 +77,8 @@ https://www.apple.com/ipad-keyboards/
 
 https://unix.stackexchange.com/questions/383365/zsh-compinit-insecure-directories-run-compaudit-for-list | shell - zsh compinit: insecure directories, run compaudit for list - Unix & Linux Stack Exchange
 
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
 Zoom
 https://us04web.zoom.us/meeting | My Meetings - Zoom
 https://zoom.us/recording | My Recordings - Zoom
@@ -201,13 +203,25 @@ Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
 
+https://www.coursera.org/learn/ai-for-everyone
+
 https://repl.it/leaders | Repl.it - Leaderboard
 
 https://codepen.io/tag/python
 
-https://www.coursera.org/learn/ai-for-everyone
+Python books
+https://nostarch.com/impracticalpythonprojects | Impractical Python Projects | No Starch Press
+https://inventwithpython.com/invent4thed/ | Invent with Python
+crackign codes with python - Google Search
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+100 Days
+https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
+https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
+https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
+
+https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
 
 Brian Holt, Frontend Masters
 Traversy Media
@@ -230,6 +244,18 @@ https://github.com/toml-lang/toml
 https://direnv.net/ | direnv – unclutter your .profile | direnv
 https://github.com/cortesi/devd
 
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://en.wikipedia.org/wiki/Env | env - Wikipedia
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+
+https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
+
 https://github.com/github
 https://github.com/orgs/maintainers/people?page=1
 
@@ -247,14 +273,20 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-
 Python
 https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
+
+https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
+pyanalyze - Engineering at Quora - Quora
+https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
 
 
 GitHub Metrics
@@ -572,6 +604,10 @@ https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on 
 ## Shortcuts
 
 <!--
+https://code.visualstudio.com/docs/editor/command-line | The Visual Studio Code command-line options
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
+
+
 https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
 
 Snippets
