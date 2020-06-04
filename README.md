@@ -3,12 +3,6 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://github.com/gr2m/twitter-together/commit/c441bff058eb2abf4f37efdee0c2ba3ec9fa574a | Create kati-tweet.tweet · gr2m/twitter-together@c441bff
-https://twitter.com/commit2tweet/status/1262270462727532544 | A GitHub Action story on Twitter: "Hello, world! @KatiMichel" / Twitter
-
-
-https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your | How do you take notes and organize your knowledge? | Lobsters
-
 Tabs
 https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/ | Organize your tabs with tab groups in Google Chrome
 
@@ -31,7 +25,6 @@ https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating
 Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
-
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
 https://opensource.com/how-submit-article | Write for us | Opensource.com
@@ -51,7 +44,6 @@ https://us04web.zoom.us/meeting | My Meetings - Zoom
 https://zoom.us/recording | My Recordings - Zoom
 https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
 https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
-
 
 Record a Video
 https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
@@ -127,10 +119,11 @@ https://events.linuxfoundation.org/open-source-summit-north-america/
 https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
-
 Chaoss
 https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - YouTube
 https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
+
+
 
 
 https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
@@ -149,9 +142,6 @@ https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your 
 
 https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
 
-Nina
-https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
-
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
@@ -169,10 +159,6 @@ https://repl.it/leaders | Repl.it - Leaderboard
 
 https://codepen.io/tag/python
 
-Python books
-https://nostarch.com/impracticalpythonprojects | Impractical Python Projects | No Starch Press
-https://inventwithpython.com/invent4thed/ | Invent with Python
-crackign codes with python - Google Search
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -196,40 +182,10 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
-http://nixos.org
-https://github.com/NixOS/nix
-
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-https://github.com/cortesi/devd
-
-https://en.wikipedia.org/wiki/Env | env - Wikipedia
-
-https://github.com/toml-lang/toml
-
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-
-Regular expression
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-Strings
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
-https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
 https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
 
-https://github.com/github
 https://github.com/orgs/maintainers/people?page=1
-
-https://git-scm.com/docs
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -247,23 +203,8 @@ https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | action
 
 https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-
-https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
-
-https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
-pyanalyze - Engineering at Quora - Quora
 https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
 
-https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
-
-
-GitHub Metrics
-https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
-
-GitHub Actions
-https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
 
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
 
@@ -296,12 +237,6 @@ https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Wi
 
 https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
-
-Space Systems
-https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9 | spacex - What computer and software is used by the Falcon 9? - Space Exploration Stack Exchange
-https://twitter.com/Grady_Booch/status/1266970700885012480 | Grady Booch on Twitter: "But, there is a new implementation of this pattern emerging: Kubernetes. Same system design principle, just a different deployment. Assume that nodes will fail; use K8 orchestration to attend to failover. Really quite brilliant. https://t.co/a9ro47TPGw" / Twitter
-https://twitter.com/Grady_Booch/status/1266969676979949569 | Grady Booch on Twitter: "An tremendous of software these days is bespoke: frameworks upon frameworks with glue code to tie it all together and somewhere woven within and around, all the domain-specific bits. It appears that Dragon’s UI is no exception." / Twitter
-https://twitter.com/Grady_Booch/status/1266970085773565952 | Grady Booch on Twitter: "And as system design, triple redundancy with voting is a classic, proven pattern, used for decades. https://t.co/09RfE4kdY4" / Twitter
 
 https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
@@ -391,7 +326,7 @@ https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
 
-## Useful Courses
+## Useful Learning Resources
 
 Wes Bos
 * [Wes Bos Courses](https://wesbos.com/courses/)
@@ -406,33 +341,24 @@ Dan Abramov
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
-<!--
 100 Days of Code
-https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
-https://github.com/yyx990803?tab=repositories
+Practice
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com)
+
+<!--
+https://nostarch.com/impracticalpythonprojects | Impractical Python Projects | No Starch Press
+https://inventwithpython.com/invent4thed/ | Invent with Python
+cracking codes with python - Google Search
+
 
 Paint
 https://github.com/muan
 https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
 
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
-
-Sarah
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-https://github.com/sdras/productive-twitter/
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
 
 https://realpython.com/products/cpython-internals-book/
@@ -448,9 +374,6 @@ https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skil
 
 https://glitch.com/@python | Python
 
-https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
-
-https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
 
@@ -459,15 +382,12 @@ https://github.com/KatherineMichel/100-days-of-code
 
 Wes Bos
 https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://app.slack.com/client/T0B6Z0ZL1/
 https://keycode.info/ | JavaScript Event KeyCodes
 https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
 https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 hyper terminal - Google Search
-https://wesbos.com/uses/ | Uses | Wes Bos
 update node and npm - Google Search
-https://github.com/wesbos/cobalt2-vscode | wesbos/cobalt2-vscode: Cobalt2 Theme for VS Code
 
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
@@ -514,6 +434,24 @@ https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: 
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+
+Sarah
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+https://github.com/sdras/productive-twitter/
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
 <!--
@@ -1031,6 +969,14 @@ GitHub Community
 
 
 <!--
+https://git-scm.com/docs
+
+GitHub Metrics
+https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
+
+GitHub Actions
+https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
+
 Personal README
 https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
 https://github.com/pifafu | pifafu (kathy)
@@ -1038,6 +984,8 @@ https://github.com/katmeister/.github | katmeister/.github: Config files for my 
 
 GH Learning Lab
 https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
+
+https://github.com/github
 
 
 https://github.com/githubevents | GitHub Events
@@ -1057,6 +1005,12 @@ https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twi
 https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
 https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
 https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
+
+Space Systems
+https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9 | spacex - What computer and software is used by the Falcon 9? - Space Exploration Stack Exchange
+https://twitter.com/Grady_Booch/status/1266970700885012480 | Grady Booch on Twitter: "But, there is a new implementation of this pattern emerging: Kubernetes. Same system design principle, just a different deployment. Assume that nodes will fail; use K8 orchestration to attend to failover. Really quite brilliant. https://t.co/a9ro47TPGw" / Twitter
+https://twitter.com/Grady_Booch/status/1266969676979949569 | Grady Booch on Twitter: "An tremendous of software these days is bespoke: frameworks upon frameworks with glue code to tie it all together and somewhere woven within and around, all the domain-specific bits. It appears that Dragon’s UI is no exception." / Twitter
+https://twitter.com/Grady_Booch/status/1266970085773565952 | Grady Booch on Twitter: "And as system design, triple redundancy with voting is a classic, proven pattern, used for decades. https://t.co/09RfE4kdY4" / Twitter
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
