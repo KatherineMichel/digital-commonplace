@@ -253,6 +253,7 @@ http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 She
 https://en.wikipedia.org/wiki/Env | env - Wikipedia
 https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
 https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
 
@@ -287,6 +288,8 @@ https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Djang
 https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
 pyanalyze - Engineering at Quora - Quora
 https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
+
+https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
 
 
 GitHub Metrics
