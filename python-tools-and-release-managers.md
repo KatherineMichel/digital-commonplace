@@ -1,8 +1,40 @@
 # Python Tools and Release Managers
 
 <!--
+Nina
+https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
+
+http://nixos.org
+https://github.com/NixOS/nix
+
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+https://github.com/cortesi/devd
+
+https://en.wikipedia.org/wiki/Env | env - Wikipedia
+
+https://github.com/toml-lang/toml
+
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+
+Regular expression
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+Strings
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
+
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
+
 Tox
 https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
+
 
 Python
 https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
@@ -11,9 +43,19 @@ GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
 
+https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
+pyanalyze - Engineering at Quora - Quora
+
 Django
 https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
 environs[django] - Google Search
+
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+
+https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
 
 Release
 https://lwn.net/Articles/821829/ | The 5.7 kernel is out [LWN.net]
