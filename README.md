@@ -6,33 +6,6 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 https://github.com/gr2m/twitter-together/commit/c441bff058eb2abf4f37efdee0c2ba3ec9fa574a | Create kati-tweet.tweet · gr2m/twitter-together@c441bff
 https://twitter.com/commit2tweet/status/1262270462727532544 | A GitHub Action story on Twitter: "Hello, world! @KatiMichel" / Twitter
 
-Genographic Project
-https://genographic.nationalgeographic.com/results/dashboard# | Dashboard | Genographic Project
-https://genographic.nationalgeographic.com/results/print | Print | Genographic Project
-
-2020 MacBook Pro
-https://www.amazon.com/MacBook-Plastic-Silicone-Keyboard-Compatible/dp/B07PTY68KQ/ref=sr_1_18?dchild=1&keywords=2020+macbook+pro+case&qid=1589041446&sr=8-18 | Amazon.com: MacBook Pro 13 Case Laptop Plastic Hard Shell Cover 2020 2019 2018 2017 2016 Release A2159/A1989/A1706/A1708 with Silicone Keyboard Cover Compatible Newest Mac Pro 13 Inch (Crystal Clear): Electronics
-https://www.cnn.com/2020/05/07/cnn-underscored/macbook-pro-13-inch-2020-hands-on/index.html | 13-inch MacBook Pro Hands-On: 48 hours with $1,299 and $1,799 models - CNN
-
-https://kinesis-ergo.com/shop/freestyle-pro/
-
-https://personal.vanguard.com/us/funds/tools/marketsummary
-
-Why We Sleep
-https://www.amazon.com/dp/B0752XRB5F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://www.outsideonline.com/2413303/in-praise-of-walking-book-excerpt-shane-omara
-
-Fitness
-https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
-https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
-
-Eyes
-http://www.aaronsw.com/weblog/001083 | Eye Exercises (Aaron Swartz: The Weblog)
-https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
-
-https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382 | The joy of sets - BBC Archive
-https://backgroundsbyikea.com/ | Backgrounds by IKEA, a collection of backgrounds for your video calls
 
 https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your | How do you take notes and organize your knowledge? | Lobsters
 
@@ -58,9 +31,6 @@ https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating
 Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
-Rotating p5.js
-https://medium.com/processing-foundation/open-call-for-p5-js-project-lead-8f359a78b61b | Open Call for p5.js Project Lead - Processing Foundation - Medium
-https://twitter.com/gr2m/status/1259962901130969088 | Gregor on Twitter: "p5.js project (@p5xjs) is still looking for a project lead: https://t.co/JKBSJKKAku - 20-40h/week contracting, remote - up $50,000 stipend for 1 year - mentorship provided - applications very welcome if you identify with groups underrepresented open-source, art, or technology" / Twitter
 
 Content
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
@@ -72,9 +42,6 @@ https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
 
-https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a
-https://www.apple.com/ipad-keyboards/
-
 https://unix.stackexchange.com/questions/383365/zsh-compinit-insecure-directories-run-compaudit-for-list | shell - zsh compinit: insecure directories, run compaudit for list - Unix & Linux Stack Exchange
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
@@ -85,6 +52,7 @@ https://zoom.us/recording | My Recordings - Zoom
 https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
 https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
 
+
 Record a Video
 https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
 https://support.apple.com/en-us/HT208721
@@ -92,17 +60,9 @@ https://github.com/HandBrake | HandBrake
 https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
 https://obsproject.com/ | Open Broadcaster Software | OBS
 
-My YouTube
-https://www.youtube.com/feed/my_videos | (2) Katherine Michel - YouTube
-
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
 
-https://nuzzel.com/KatiMichel/feeds
-https://nuzzel.com/friendsfeeds | Nuzzel - Friends' Feeds
-
-Stars
-* [Astral App](https://astralapp.com)
 
 CfPs
 PyOhio
@@ -271,8 +231,6 @@ https://github.com/orgs/maintainers/people?page=1
 
 https://git-scm.com/docs
 
-https://docs.python.org/3/library/python.html
-https://docs.python.org/3/reference/grammar.html
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -445,7 +403,14 @@ Wes Bos
 Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
 
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
 <!--
+100 Days of Code
+https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
+https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
+
 https://github.com/yyx990803?tab=repositories
 
 Paint
@@ -473,7 +438,6 @@ https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twit
 https://realpython.com/products/cpython-internals-book/
 https://realpython.com/lessons/cpython-book-download/
 https://realpython.com/cpython-internals/resources/
-file:///Users/katherinemichel/Downloads/cpython-internals-2020-05-29.pdf
 
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
@@ -481,11 +445,6 @@ https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – R
 real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
-https://github.com/KatherineMichel/practical-python
-https://dabeaz-course.github.io/practical-python/
-https://github.com/dabeaz-course/practical-python
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 
 https://glitch.com/@python | Python
 
@@ -496,10 +455,6 @@ https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitt
 https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
 
 https://github.com/KatherineMichel/100-days-of-code
-
-100 Days of Code
-https://github.com/CodeBrauer/100daysofcode | CodeBrauer/100daysofcode: A repo with 100 daily small projects (from 2017-01-01 till 2017-04-17) - every day a project!
-https://www.100daysofcode.com/ | #100DaysOfCode Official Website | #100DaysOfCode
 
 
 Wes Bos
