@@ -205,6 +205,8 @@ https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
 https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 
+https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
 https://www.instagram.com/p/B_YSrXvn6F4/
 
 http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5
