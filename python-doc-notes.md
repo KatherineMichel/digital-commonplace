@@ -1,5 +1,16 @@
 # Python Doc Notes
 
+<!--
+Regular expression
+https://en.wikipedia.org/wiki/Regular_expression
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+Strings
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
+->
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
