@@ -204,11 +204,6 @@ https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying
 
 
 <!--
-https://www.pythonmorsels.com/resources/
-https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
-https://github.com/JackMcKew/awesome-python-bytes
-
-
 https://twitter.com/filiplajszczak/status/1228800450515869703
 https://twitter.com/PurpleDiane88/status/1227365692380340224
 
@@ -660,7 +655,7 @@ Learning Resources
 
 No Starch Press
 * [Al Sweigart](http://alsweigart.com)
-* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
+* [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
 * [Al Sweigart: Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/) and [Invent with Python Blog](http://inventwithpython.com/blog)
 * [Al Sweigart: Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
@@ -674,19 +669,23 @@ No Starch Press
 
 <!--
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
+https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+
 https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
 
 Python Crash Course
 https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
 
-Al
-https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
-https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
 https://github.com/asweigart/automateboringstuff1stedition
 https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
+
+http://inventwithpython.com/files/pythonprojects.zip
+https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
+https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
 https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
 
-Al Sweigart Book
 https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
 -->
 
