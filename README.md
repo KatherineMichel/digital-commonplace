@@ -124,8 +124,6 @@ https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - Y
 https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
 
-
-
 https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
 
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
@@ -180,21 +178,15 @@ Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
 
+https://devchecklists.com
+
+Useful Files
+Shell, Unix, Bash, Makefile, Cron, Lint, YAML, Shebang
+
+
 https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
 
 https://github.com/orgs/maintainers/people?page=1
-
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-https://google.github.io/styleguide/pyguide.html
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
@@ -356,7 +348,13 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
+No Starch Books
+
 JavaScript- Hawt
+
+https://www.pythonmorsels.com/resources/
+https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
+https://github.com/JackMcKew/awesome-python-bytes
 
 100 Days
 https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
@@ -423,15 +421,6 @@ https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
-https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
-
-https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
-https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
-
-https://t.co/yOQT0vcPiA?amp=1 | http://inventwithpython.com/files/pythonprojects.zip
-https://automatetheboringstuff.com/chapter17/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://www.udemy.com/course/automate/ Automate the Boring Stuff with Python Programming Course | Udemy
 
 https://github.com/feldroy/django-crash-starter
 
