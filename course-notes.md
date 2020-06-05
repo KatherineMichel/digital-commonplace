@@ -229,6 +229,9 @@ https://twitter.com/davidjmalan/status/1258555662688309248 | David J. Malan on T
 
 https://compedu.stanford.edu/codeinplace/v1/#/example/index.html | Worked Example
 
+Midpoint
+https://static.us.edusercontent.com/files/czQD53Pp3JyBCA4BcERBUHoU | https://static.us.edusercontent.com/files/9p3RFpGWL0DvhAUmoz2p3KUj
+
 Week 2 Notes
 https://us.edstem.org/courses/1470/discussion/46041 | Section 470 – Discussion
 Week 2 Reminder
