@@ -25,22 +25,6 @@ https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+
 https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
 https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 
-## Coding Practice
-
-Coding practice
-https://github.com/smamran/gfg | smamran/gfg: Programming Codes
-https://github.com/rrevanth/leetcode-by-company | rrevanth/leetcode-by-company: leetcode question list by companies, include the premium questions
-https://www.geeksforgeeks.org/company-interview-corner/ | Company Interview Corner - GeeksforGeeks
-
-https://www.google.com/search?q=software+tradeoffs&oq=software+tradeoffs&aqs=chrome..69i57j0j35i39j0l2j69i61l2j69i60.3300j0j7&sourceid=chrome&ie=UTF-8 | software tradeoffs - Google Search
-
-Interviews
-https://github.com/careercup/CtCI-6th-Edition-Python/tree/master/Chapter8 | CtCI-6th-Edition-Python/Chapter8 at master · careercup/CtCI-6th-Edition-Python
-https://www.google.com/search?q=cracking+the+pm+interview&oq=cracking+the+pm+interview&aqs=chrome..69i57j0l7.3147j0j7&sourceid=chrome&ie=UTF-8 | cracking the pm interview - Google Search
-https://dbader.org/blog/how-to-prepare-for-a-python-coding-interview | How to Prepare for a Python Coding Interview – dbader.org
-https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949 | Elements of Programming Interviews in Python: The Insiders' Guide: Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: 9781537713946: Amazon.com: Books
-https://blog.hackerrank.com/how-to-crack-microsoft-interview/ | How to Crack the Microsoft Interview - HackerRank Blog
-
 ## Testing
 
 <!--
