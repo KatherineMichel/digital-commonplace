@@ -140,6 +140,8 @@ https://wsl-guide.kennethreitz.org/en/latest/
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
 
 
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
 https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
 
 Casey
@@ -279,6 +281,7 @@ Sqlite
 https://twitter.com/brettsky/status/1256026919151169536
 
 http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
+Cap Theorem, Systems thinking, tradeoffs
 clrs algorithms
 Refactoring, TDD
 Trade Offs
@@ -353,6 +356,8 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
+JavaScript- Hawt
+
 100 Days
 https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
 https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
@@ -709,6 +714,10 @@ Programming Language Leveling Up and Comparison Sites
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ## Patterns
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
 
 Refactoring
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
