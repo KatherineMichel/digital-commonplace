@@ -1,12 +1,40 @@
 # Python Tools and Release Managers
 
 <!--
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
+
+Regular expression
+https://en.wikipedia.org/wiki/Regular_expression
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+Strings
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
+
+
+https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+
 http://nixos.org
 https://github.com/NixOS/nix
 
 Django
 https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
 environs[django] - Google Search
+
+https://github.com/sloria/environs#usage-with-django
 
 https://direnv.net/ | direnv – unclutter your .profile | direnv
 https://github.com/cortesi/devd
@@ -15,41 +43,9 @@ https://en.wikipedia.org/wiki/Env | env - Wikipedia
 
 https://github.com/toml-lang/toml
 
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-
-Regular expression
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-Strings
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
-https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
 Tox
 https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
-
-
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/
-
-https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
-
-Python
-https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
-
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
-
-https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
-pyanalyze - Engineering at Quora - Quora
 
 
 https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
@@ -58,15 +54,6 @@ https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applicatio
 https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
 
 https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
-
-Release
-https://lwn.net/Articles/821829/ | The 5.7 kernel is out [LWN.net]
-https://www.tensorflow.org/hub/tutorials | Tutorials  |  TensorFlow Hub
-https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html | Chromium Blog: Chrome 84 Beta: Web OTP, Web Animations, New Origin Trials and More
-https://github.com/rust-lang/rust/pull/72342 | Warn about unused crate deps by jsgf · Pull Request #72342 · rust-lang/rust
-https://this-week-in-rust.org/blog/2020/05/27/this-week-in-rust-340/ | This Week in Rust 340 · This Week in Rust
-https://debian-handbook.info/browse/stable/ | The Debian Administrator's Handbook
-
 
 
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
@@ -93,113 +80,6 @@ https://pyup.io/safety/
 
 https://pyformat.info/
 -->
-
-<!--
-Python security
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-
-https://hynek.me/articles/document-your-tests/
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
-
-Telemetry
-https://en.wikipedia.org/wiki/Telemetry
-
-
-Testing
-
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
-
-https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
-
-
-brian okken - Google Search
-
-Test Anything Protocol
-
-PyTest
-https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://testdriven.io/ | Test Driven Development Courses
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://testautomationu.applitools.com/python-tutorial/
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
-
-https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://twitter.com/AutomationPanda/status/1226591212632596480
-https://automationpanda.com/tag/development/
-
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
--->
-
-## Structuring Your Python Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Django Project Structure
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-## Django Classy
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-## Common Django Features
-
-<!--
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
-https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
-
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-Django Request and Response Cycle
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
--->
-
-## Django Performance, Optimization, Deployment, Architecture
-
-<!--
-https://djangobook.com/deploying-django/
--->
-
-## Django Twelve Factor
-
-<!--
-https://12factor.net/config | The Twelve-Factor App
-
-https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
--->
-
 
 ## Software Engineering
 
@@ -353,6 +233,15 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
+
+
 Apple
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
@@ -408,6 +297,7 @@ https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "Wha
 
 Bash
 https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
 https://www.gnu.org/software/bash/manual/bashref.html
 http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
 http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
@@ -432,8 +322,6 @@ https://www.linuxjournal.com/content/understanding-bash-elements-programming
 
 https://www.gnu.org/software/make/manual/make.html
 https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-
-https://en.wikipedia.org/wiki/Regular_expression
 
 https://learnxinyminutes.com/docs/yaml/
 https://en.m.wikipedia.org/wiki/YAML
@@ -776,6 +664,8 @@ https://octoverse.github.com/2017/
 https://octoverse.github.com/2016/#organizations
 
 Popular Libraries
+https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
+pyanalyze - Engineering at Quora - Quora
 https://docs.python.org/3/library/asyncio.html
 https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
@@ -816,6 +706,15 @@ https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twi
 ## Non-Python
 
 <!--
+https://lwn.net/Articles/821829/ | The 5.7 kernel is out [LWN.net]
+https://debian-handbook.info/browse/stable/ | The Debian Administrator's Handbook
+
+https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html | Chromium Blog: Chrome 84 Beta: Web OTP, Web Animations, New Origin Trials and More
+
+https://github.com/rust-lang/rust/pull/72342 | Warn about unused crate deps by jsgf · Pull Request #72342 · rust-lang/rust
+https://this-week-in-rust.org/blog/2020/05/27/this-week-in-rust-340/ | This Week in Rust 340 · This Week in Rust
+
+
 Google Chrome Ship
 https://medium.com/@aboodman/in-march-2011-i-drafted-an-article-explaining-how-the-team-responsible-for-google-chrome-ships-c479ba623a1b | How Chromium Works – Aaron Boodman – Medium
 https://www.mozilla.org/en-US/firefox/76.0/releasenotes/
@@ -983,6 +882,7 @@ https://cffi.readthedocs.io/en/latest/
 
 
 ML
+https://www.tensorflow.org/hub/tutorials | Tutorials  |  TensorFlow Hub
 https://github.com/tensorflow/tensorflow/releases | Releases · tensorflow/tensorflow
 https://github.com/keras-team/keras-io | keras-team/keras-io: Keras documentation, hosted live at keras.io
 https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html | Release Highlights for scikit-learn 0.23 — scikit-learn 0.23.0 documentationhttps://scikit-learn.org/stable/whats_new/v0.23.html#changes-0-23 | Version 0.23.0 — scikit-learn 0.23.0 documentation
@@ -1045,6 +945,14 @@ https://github.com/orgs/tox-dev/people
 https://github.com/orgs/pallets/people
 https://github.com/orgs/pre-commit/people
 https://github.com/python/cpython/graphs/contributors
+
+Encode
+
+https://www.encode.io/projects/
+
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+https://discuss.encode.io/ | Encode
 -->
 
 ### Projects
@@ -1626,6 +1534,55 @@ http://docs.fabfile.org/en/1.13/api/contrib/django.html
 https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
 
+
+## Structuring Your Python Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+## Django Project Structure
+
+Python- Django- Project Stucture
+* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+## Django Classy
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+## Common Django Features
+
+<!--
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
+
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+-->
+
+## Django Performance, Optimization, Deployment, Architecture
+
+<!--
+https://djangobook.com/deploying-django/
+-->
+
+## Django Twelve Factor
+
+<!--
+https://12factor.net/config | The Twelve-Factor App
+
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
+-->
+
+
 ## Debugging
 
 Debugging
@@ -1666,6 +1623,9 @@ Other Types of Testing
 * [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
 * [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
 * [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
+
+Other Types of Testing
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
 
 ## Python Testing
 
@@ -1769,6 +1729,37 @@ OWASP
 Top Ten
 * [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
 
+<!--
+## Security- General
+      
+https://developers.google.com/web/fundamentals/security/
+
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+
+Application Security Verification Standard
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+-->
+
+<!--
+https://www.owasp.org/index.php/Category:Attack
+   
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+
+https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+-->
+
 ### Security Model
 
 Computer Security Model
@@ -1809,78 +1800,24 @@ Broken session management
 Unvalidated redirects/forwards
 Issues requiring an uncommon configuration option
 
-https://www.owasp.org/index.php/SQL_Injection
-https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
-https://www.owasp.org/index.php/Denial_of_Service
--->
-
-
-
-
-<!--
-https://www.owasp.org/index.php/Category:Attack
-
 https://en.wikipedia.org/wiki/Clickjacking
 https://en.wikipedia.org/wiki/Code_injection
 
 https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
 
-## Security- General
-      
-https://developers.google.com/web/fundamentals/security/
-
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
-
-Application Security Verification Standard
-https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
-
-https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
-
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+https://www.owasp.org/index.php/SQL_Injection
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Denial_of_Service
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+
+Prevention
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
 https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
 
+JavaScript
 https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
 https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
--->
-
-
-## Python Profiling
-
-<!--
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-
-Python Profiling 
-
-Third Party Testing and Profiling
-
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
--->
-
-<!--
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 -->
 
 ## Performance
@@ -1935,8 +1872,92 @@ https://wiki.python.org/moin/ConcatenationTestCode
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 -->
 
+## Python Profiling
 
-## Django Testing
+<!--
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
+Python Profiling 
+
+Third Party Testing and Profiling
+
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+-->
+
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
+
+
+<!--
+Python security
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+
+https://hynek.me/articles/document-your-tests/
+
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+
+Telemetry
+https://en.wikipedia.org/wiki/Telemetry
+
+
+Testing
+
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+
+https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
+
+
+brian okken - Google Search
+
+Test Anything Protocol
+
+PyTest
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://testdriven.io/ | Test Driven Development Courses
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/python-tutorial/
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
+
+https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/tag/development/
+
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+-->
+
+
+## Testing
 
 <!--
 TestPyramid
@@ -1948,11 +1969,7 @@ Reading from and writing to databases
 Calling other application's APIs
 Reading from and writing to queues
 Writing to the filesystem"
--->
 
-## Testing
-
-<!--
 Debugging
 https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
 https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
