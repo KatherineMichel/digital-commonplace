@@ -5,15 +5,6 @@ GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
 
-Regular expression
-https://en.wikipedia.org/wiki/Regular_expression
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-Strings
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
-https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-
 
 https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
 
