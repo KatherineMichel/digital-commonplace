@@ -41,61 +41,16 @@ https://dbader.org/blog/how-to-prepare-for-a-python-coding-interview | How to Pr
 https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949 | Elements of Programming Interviews in Python: The Insiders' Guide: Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: 9781537713946: Amazon.com: Books
 https://blog.hackerrank.com/how-to-crack-microsoft-interview/ | How to Crack the Microsoft Interview - HackerRank Blog
 
-## Competitive Programming
-
-## Project-Based Learning
-
-## JavaScript
-
-
 ## Testing
-
-Other Types of Testing
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
 
 <!--
 Kent Beck, TDD
 -->
 
-## Slightly Lower Priority
-
-Static typing
-
-## Python Profiling
-
-## Django Core Dev Security
-
-## Django Security
-
-## Security
-
-<!--
-## Security- General
-      
-https://developers.google.com/web/fundamentals/security/
-
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-
-Application Security Verification Standard
-https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
--->
-
 Look through... career stuff
 
 <!--
-https://devchecklists.com
-
 ## Useful Files
-
-Shell, Unix, Bash, Makefile, Cron, Lint, YAML, Shebang
-
-https://stackoverflow.com/questions/5280906/difference-between-binary-release-and-source-release | Difference between Binary release and source release? - Stack Overflow
-
-From TODO
 
 <!--
 According to the GitHub's [2017 Open Source Survey](https://opensourcesurvey.org/2017/), "Documentation is highly valued, but often overlooked." 
@@ -171,23 +126,3 @@ https://martinfowler.com/bliki/MaturityModel.html
 
 "[Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296)"...
 -->
-
-## GitHub API, GitHub Actions
-
-## Bots
-
-Mariatta- Bot Tutorials
-
-## JavaScript
-
-Hawt
-
-## Database Architectures and Principles
-
-Relational
-Object-Relational Database
-
-## Software Design Patterns
-## Clean Architecture in Python and Django
-## Interesting
-## Curated Resources
