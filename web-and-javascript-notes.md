@@ -4,13 +4,6 @@
 Evan You
 https://github.com/yyx990803?tab=repositories
 
-node
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
-
 React
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started | Getting started with React - Learn web development | MDN
 
@@ -40,87 +33,6 @@ https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Struct
 https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
 https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
 
-
-https://expressjs.com/
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
-
-Deno
-https://twitter.com/simonw/status/1266861106674294784
-https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
-https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
-
-
-Airbnb- isomorphic
-https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
-https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
-https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
-https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
-
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-https://github.com/jsdom/jsdom
-https://github.com/ruyadorno/ipt
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-
-https://medium.com/the-node-js-collection
-https://blog.risingstack.com
-
-https://medium.com/javascript-scene
-
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
-
-https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-Interview Series
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
-https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
-https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-
-https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
-https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
-https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
-
-https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
-
-Composition Series
-https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
-https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
-https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
-https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
-https://medium.com/javascript-scene/functors-categories-61e031bac53f
-https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
-https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
-https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
-https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
-https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
 
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
@@ -162,7 +74,96 @@ https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 
 <!--
-Cheat Sheets and Stuff
+https://medium.com/javascript-scene
+
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac
+
+https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+Interview Series
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.4256pjcfq
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.i84zm53fb
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+
+https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4 | Encapsulation in JavaScript - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6
+https://medium.com/javascript-scene/the-hidden-treasures-of-object-composition-60cd89480381
+https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2 | Behavior Driven Development (BDD) and Functional Testing
+
+https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/ | The JavaScript Beginner's Handbook (2020 Edition)
+
+Composition Series
+https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
+https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30
+https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99
+https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d
+https://medium.com/javascript-scene/functors-categories-61e031bac53f
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093
+https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
+-->
+
+<!--
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+
+Deno
+https://twitter.com/simonw/status/1266861106674294784
+https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
+https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
+
+https://expressjs.com/
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+node
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+Airbnb- isomorphic
+https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
+https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
+https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
+https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+https://github.com/jsdom/jsdom
+https://github.com/ruyadorno/ipt
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+https://medium.com/the-node-js-collection
+https://blog.risingstack.com
+
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
 
 Node
 * [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
@@ -179,7 +180,10 @@ https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldci
 https://github.com/azat-co/practicalnode
 https://github.com/sqreen/awesome-nodejs-projects
 https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
+-->
 
+<!--
+Cheat Sheets and Stuff
 
 https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
 
