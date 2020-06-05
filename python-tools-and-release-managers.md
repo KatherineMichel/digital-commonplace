@@ -1,11 +1,12 @@
 # Python Tools and Release Managers
 
 <!--
-Nina
-https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
-
 http://nixos.org
 https://github.com/NixOS/nix
+
+Django
+https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
+environs[django] - Google Search
 
 https://direnv.net/ | direnv – unclutter your .profile | direnv
 https://github.com/cortesi/devd
@@ -36,6 +37,10 @@ Tox
 https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
 
 
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+
 Python
 https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
 
@@ -46,9 +51,6 @@ https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitte
 https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
 pyanalyze - Engineering at Quora - Quora
 
-Django
-https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
-environs[django] - Google Search
 
 https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
 
@@ -150,6 +152,54 @@ https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk abou
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 -->
+
+## Structuring Your Python Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+## Django Project Structure
+
+Python- Django- Project Stucture
+* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+## Django Classy
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+## Common Django Features
+
+<!--
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
+
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+-->
+
+## Django Performance, Optimization, Deployment, Architecture
+
+<!--
+https://djangobook.com/deploying-django/
+-->
+
+## Django Twelve Factor
+
+<!--
+https://12factor.net/config | The Twelve-Factor App
+
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
+-->
+
 
 ## Software Engineering
 
@@ -1576,44 +1626,181 @@ http://docs.fabfile.org/en/1.13/api/contrib/django.html
 https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
 
-## Python Profiling
+## Debugging
+
+Debugging
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+
+## Testing Terminology
+
+* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
+* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
+* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
+* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
+
+## Types of Software Testing
+
+Software Testing
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+Functional and Unit Testing
+* [Functional Testing Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+
+Other Types of Testing- Performance/Stress
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
+
+Other Types of Testing- Acceptance
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+
+Other Types of Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
+* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
+
+## Python Testing
+
+Python and Django Debugging
+* [bdb](https://docs.python.org/3/library/bdb.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+
+Python Testing Built-In Tools
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+* [doctest](https://docs.python.org/3/library/doctest.html)
+* [mock](https://docs.python.org/dev/library/unittest.mock.html)
+
+### pytest
+
+pytest 
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
+https://pythontesting.net/framework/pytest/pytest-introduction/
 
-Python Profiling 
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
-Third Party Testing and Profiling
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
 
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
 
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
+https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
 
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+
+https://docs.pytest.org/en/latest/assert.html#assert
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
 -->
 
+### Django Testing
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
 <!--
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
+https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
+
+https://docs.python.org/3/library/unittest.html#assert-methods
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
+
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
 -->
 
-## Django Core Dev Security
+## Django- Important Topics
 
-<!--
-https://docs.djangoproject.com/en/dev/releases/security/
-https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues
+### Django Core Dev Security
+
+* [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
+* [How Django Discloses Security Issues](https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues)
+
+### Django Security
+
+* [Clickjacking Protection](https://docs.djangoproject.com/en/dev/ref/clickjacking/)
+* [HTTP Strict Transport Security](https://docs.djangoproject.com/en/dev/ref/middleware/#http-strict-transport-security)
+* [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
+
+### Django Performance, Optimization, Deployment
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
+### Security
+
+Security- General
+* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
+* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
+* [Information Security Wikipedia](https://en.wikipedia.org/wiki/Information_security)
+* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
+* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
+
+OWASP
+* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
+* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
+
+Top Ten
+* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
+
+### Security Model
+
+Computer Security Model
+* [Computer Security Model Wikipedia](https://en.wikipedia.org/wiki/Computer_security_model)
+
+Types
+* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
+* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
+
+Same Origin
+* [Same-Origin Policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+### Security Risk
 
 High
-https://en.wikipedia.org/wiki/Arbitrary_code_execution
-https://en.wikipedia.org/wiki/SQL_injection
+* [Arbitrary Code Execution Wikipedia](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
+* [SQL Injection Wikipedia](https://en.wikipedia.org/wiki/SQL_injection)
 
 Medium
 * [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
-https://en.wikipedia.org/wiki/Cross-site_request_forgery
-https://en.wikipedia.org/wiki/Denial-of-service_attack
+* [Cross-Site Request Forgery Wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+* [Denial of Service Attack Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+
+<!--
+Medium
 Broken authentication
 
 Low
@@ -1628,54 +1815,14 @@ https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
 https://www.owasp.org/index.php/Denial_of_Service
 -->
 
-## Django Security
+
+
 
 <!--
-https://docs.djangoproject.com/en/2.1/ref/middleware/#django.middleware.security.SecurityMiddleware | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/middleware/#http-strict-transport-security | Middleware | Django documentation | Django
-https://docs.djangoproject.com/en/2.1/ref/clickjacking/ | Clickjacking Protection | Django documentation | Django
-
-
-https://en.wikipedia.org/wiki/Information_security
-
 https://www.owasp.org/index.php/Category:Attack
--->
 
-## Security
-
-Security- General
-* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
-* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
-* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
-* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
-
-OWASP
-* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
-* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
-
-Top Ten
-* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
-
-Types
-* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
-* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
-
-Same Origin
-* [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
-<!--
 https://en.wikipedia.org/wiki/Clickjacking
 https://en.wikipedia.org/wiki/Code_injection
-
-https://en.wikipedia.org/wiki/Computer_security_model
-https://en.wikipedia.org/wiki/Operations_security | Operations security - Wikipedia
 
 https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
 
@@ -1712,12 +1859,29 @@ https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
 -->
 
 
-Django Performance and Optimization
-* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
-* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+## Python Profiling
 
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+<!--
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
+Python Profiling 
+
+Third Party Testing and Profiling
+
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+-->
+
+<!--
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+-->
 
 ## Performance
 
@@ -1771,47 +1935,8 @@ https://wiki.python.org/moin/ConcatenationTestCode
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 -->
 
-## Debugging
-
-Debugging
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-
-## Types of Software Testing
-
-Software Testing
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-
-Functional and Unit Testing
-* [Functional Testing Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-
-Other Types of Testing- Performance/Stress
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
-
-Other Types of Testing- Acceptance
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-
-Other Types of Testing
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
-* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
 
 ## Django Testing
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
 <!--
 TestPyramid
@@ -1823,44 +1948,9 @@ Reading from and writing to databases
 Calling other application's APIs
 Reading from and writing to queues
 Writing to the filesystem"
-
-https://docs.python.org/3/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
-
-https://docs.pytest.org/en/latest/assert.html#assert
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
-https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
-
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
-https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-
-https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
 -->
 
-## Python Testing
-
-Python and Django Debugging
-* [bdb](https://docs.python.org/3/library/bdb.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-
-Python Testing Built-In Tools
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-* [doctest](https://docs.python.org/3/library/doctest.html)
-* [mock](https://docs.python.org/dev/library/unittest.mock.html)
-
-Terminology
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
-* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
-* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
-* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
+## Testing
 
 <!--
 Debugging
@@ -1895,28 +1985,7 @@ https://pypi.org/project/selenium/ | selenium · PyPI
 https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 -->
 
-## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools
-
-pytest 
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-
-<!--
-https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
-https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
-
-https://pythontesting.net/framework/pytest/pytest-introduction/
-
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
-https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
-https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
-https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
-
-https://docs.pytest.org/en/latest/example/parametrize.html
-https://docs.pytest.org/en/latest/parametrize.html
--->
+## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest)
 
 Django
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
@@ -1940,6 +2009,9 @@ Python- Django- Debug Toolbar an dPanel
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 <!--
+https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
 https://github.com/behave/behave | behave/behave: BDD, Python style.
 https://hypothesis.readthedocs.io/en/latest/
 https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
