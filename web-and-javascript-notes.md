@@ -191,9 +191,6 @@ https://twitter.com/js_tut/status/1224057215092477952
 
 https://github.com/jgthms/javascript-in-14-minutes
 
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-
   * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -210,139 +207,6 @@ https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
 https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
 -->
-
-## Mozilla, Microsoft, and Google- General Docs
-
-Mozilla- Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Microsoft- Web Development
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
-* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Developer Web Tools](https://developers.google.com/web/tools)
-
-Glossaries
-* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-
-<!--
-https://developers.google.com/web/showcase
-
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101 | Memory Terminology  |  Tools for Web Developers  |  Google Developers
-
-https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
--->
-
-## Web Architecture, How Browsers work
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-Explainers
-* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-
-## Web and JavaScript Engines, Google Chrome
-
-* Mozilla Firefox- Spidermonkey
-* Microsoft Edge- Chakra/ChakraCore
-* Apple Safari- JavaScriptCore
-* Google Chrome- V8, which is also the engine of Node.js
-
-<!--
-https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
-https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey | SpiderMonkey - Mozilla | MDN
-SpiderMonkey
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals | SpiderMonkey Internals - Mozilla | MDN
-https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Bytecodes | Bytecodes - Mozilla | MDN
-
-https://github.com/Microsoft/ChakraCore | Microsoft/ChakraCore: ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
-
-https://webkit.org
--->
-
-JavaScript Engine
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [Comparison of JavaScript Engines (DOM Support) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines_(DOM_support))
-* [Comparison of JavaScript Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-
-Chromium Developers
-* [Chromium Blog](https://blog.chromium.org)
-* [Chromium- For Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-
-Blink (Browser Engine)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-
-V8 (JavaScript Engine)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [V8 Dev](https://v8.dev), [V8 Dev Docs](https://v8.dev/docs), and [V8 Dev GitHub](https://github.com/v8/v8.dev)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-<!--
-https://www.chromium.org/ | The Chromium Projects
-https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
-
-https://v8.dev/docs/source-code
-https://v8.dev/blog/cost-of-javascript-2019 | The cost of JavaScript in 2019 · V8
-https://v8.dev/features/stable-sort | Stable Array.prototype.sort · V8
-
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/apps/about_apps
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/hosting
-
-https://v8.dev/blog/background-compilation | Background compilation · V8
-
-Google Chrome Engines
-https://github.com/google/skia | google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-https://github.com/google/angle | google/angle: A conformant OpenGL ES implementation for Windows, Mac and Linux.
-https://github.com/Microsoft/angle | Microsoft/angle: ANGLE: OpenGL ES to DirectX translation for Windows Store, Windows Phone and Desktop
-https://www.opengl.org/ | OpenGL - The Industry Standard for High Performance Graphics
--->
-
-Google Developers- Chrome
-* [Google Chrome Home](https://developer.chrome.com/home)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/canary/) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Chrome Developers
-* [Chrome Platform Status](https://www.chromestatus.com/features)
-* [Chrome Releases](https://chromereleases.googleblog.com)
-
-Google Web Updates
-* [Web Updates](https://developers.google.com/web/updates/)
 
 ## Jargon, Algorithms, and Patterns
 
@@ -363,6 +227,15 @@ https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScri
 
 https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+
+https://github.com/palashmon/awesome-js-posts
+https://github.com/andyttran/guide_to_algorithms
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 -->
 
 ## Recommended
@@ -602,6 +475,38 @@ Server-Side JavaScript
 * [Server-Side JavaScript Wikipedia](https://en.wikipedia.org/wiki/JavaScript#Server-side_JavaScript)
 * [List of Server-Side JavaScript Implementations Wikipedia](https://en.wikipedia.org/wiki/List_of_server-side_JavaScript_implementations)
 
+## Mozilla, Microsoft, and Google- General Docs
+
+Mozilla- Documentation
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Microsoft- Web Development
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Developer Web Tools](https://developers.google.com/web/tools)
+
+Glossaries
+* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+
+<!--
+https://developers.google.com/web/showcase
+
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101 | Memory Terminology  |  Tools for Web Developers  |  Google Developers
+
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
+-->
 
 ## Google Chrome Dev Tools
 
@@ -665,3 +570,104 @@ Semantics/SEO/Accessibility
 <!--
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
 -->
+
+## Web Architecture, How Browsers work
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+Explainers
+* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+## Web and JavaScript Engines, Google Chrome
+
+* Mozilla Firefox- Spidermonkey
+* Microsoft Edge- Chakra/ChakraCore
+* Apple Safari- JavaScriptCore
+* Google Chrome- V8, which is also the engine of Node.js
+
+<!--
+https://twitter.com/Zizzamia/status/1264449302153146368 | Leonardo Zizzamia on Twitter: "🤯 Even if very similar, two loops can have drastic performance differences, just because one uses integer and the other floating-point. 🧮 In general, CPUs execute integer operations much faster than floating-point operations. #WebPerf ⏱️JsPerf: https://t.co/fLsBGgZIz5 https://t.co/PMfsjGcRpc" / Twitter
+https://twitter.com/Zizzamia/status/1264436495345041408 | Leonardo Zizzamia on Twitter: "🎙️"JavaScript engine fundamentals: the good, the bad, and the ugly" by @mathias &amp; @bmeurer One of my favorites roller coaster 😁 👩‍💻 JavaScript source code➡️ parser ➡️Abstract Syntax Tree ➡️interpreter ➡️bytecode ➡️optimizing compiler ➡️optimized code 🎢 https://t.co/8SvPiDXwqQ" / Twitter
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey | SpiderMonkey - Mozilla | MDN
+SpiderMonkey
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals | SpiderMonkey Internals - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Bytecodes | Bytecodes - Mozilla | MDN
+
+https://github.com/Microsoft/ChakraCore | Microsoft/ChakraCore: ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge
+
+https://webkit.org
+-->
+
+JavaScript Engine
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [Comparison of JavaScript Engines (DOM Support) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines_(DOM_support))
+* [Comparison of JavaScript Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+
+Chromium Developers
+* [Chromium Blog](https://blog.chromium.org)
+* [Chromium- For Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+
+Blink (Browser Engine)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+
+V8 (JavaScript Engine)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [V8 Dev](https://v8.dev), [V8 Dev Docs](https://v8.dev/docs), and [V8 Dev GitHub](https://github.com/v8/v8.dev)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+<!--
+https://www.chromium.org/ | The Chromium Projects
+https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - The Chromium Projects
+
+https://v8.dev/docs/source-code
+https://v8.dev/blog/cost-of-javascript-2019 | The cost of JavaScript in 2019 · V8
+https://v8.dev/features/stable-sort | Stable Array.prototype.sort · V8
+
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+https://developer.chrome.com/apps/about_apps
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/hosting
+
+https://v8.dev/blog/background-compilation | Background compilation · V8
+
+Google Chrome Engines
+https://github.com/google/skia | google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+https://github.com/google/angle | google/angle: A conformant OpenGL ES implementation for Windows, Mac and Linux.
+https://github.com/Microsoft/angle | Microsoft/angle: ANGLE: OpenGL ES to DirectX translation for Windows Store, Windows Phone and Desktop
+https://www.opengl.org/ | OpenGL - The Industry Standard for High Performance Graphics
+-->
+
+Google Developers- Chrome
+* [Google Chrome Home](https://developer.chrome.com/home)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/canary/) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Chrome Developers
+* [Chrome Platform Status](https://www.chromestatus.com/features)
+* [Chrome Releases](https://chromereleases.googleblog.com)
+
+Google Web Updates
+* [Web Updates](https://developers.google.com/web/updates/)
+
