@@ -162,11 +162,6 @@ https://codepen.io/tag/python
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-100 Days
-https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
-https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
-https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
-
 https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
 
 Brian Holt, Frontend Masters
@@ -190,7 +185,15 @@ https://github.com/orgs/maintainers/people?page=1
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
+https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+https://google.github.io/styleguide/pyguide.html
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
@@ -350,16 +353,10 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
-https://nostarch.com/impracticalpythonprojects | Impractical Python Projects | No Starch Press
-https://inventwithpython.com/invent4thed/ | Invent with Python
-cracking codes with python - Google Search
-
-
-Paint
-https://github.com/muan
-https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
-
-
+100 Days
+https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
+https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
+https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
 
 https://realpython.com/products/cpython-internals-book/
 https://realpython.com/lessons/cpython-book-download/
@@ -380,6 +377,11 @@ https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solvi
 https://github.com/KatherineMichel/100-days-of-code
 
 
+Paint
+https://github.com/muan
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
+
 Wes Bos
 https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
 https://keycode.info/ | JavaScript Event KeyCodes
@@ -391,6 +393,9 @@ update node and npm - Google Search
 
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://btholt.github.io/intro-to-web-dev-v2/
+
 http://www.traversymedia.com
 https://twitter.com/traversymedia
 https://www.udemy.com/user/brad-traversy/
@@ -400,13 +405,12 @@ https://github.com/andrews1022/web-development-2020-course-list | andrews1022/we
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 
 https://frontendmasters.com
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+
 https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
 
 https://codepen.io/btholt/ | Brian Holt on CodePen
 http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
 
-https://btholt.github.io/intro-to-web-dev-v2/
 https://btholt.github.io/complete-intro-to-containers/
 
 Front End Masters Handbook
@@ -639,8 +643,6 @@ https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companie
 
 https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
-
-https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
 
 https://medium.com/@skfroi/want-to-be-a-senior-developer-mentor-another-3ba383587669 | Want to be a Senior Developer? Mentor Another – Froilan Irizarry – Medium
 
