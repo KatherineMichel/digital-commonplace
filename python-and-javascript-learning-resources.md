@@ -13,8 +13,6 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 -->
 
 <!--
-https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
-
 https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
 
 Calvin
@@ -28,15 +26,6 @@ https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gi
 
 
 People
-
-* [Adam Johnson GitHub](https://github.com/adamchainz)
-* [Anthony Shaw](https://twitter.com/anthonypjshaw) and [Anthony Shaw GitHub](https://github.com/tonybaloney/)
-* [Armin Ronacher](https://lucumr.pocoo.org)
-* [Jack Diederich](https://twitter.com/jackdied) and [Jack Diederich GitHub](https://github.com/jackdied)
-* [Luciano Ramalho](https://twitter.com/ramalhoorg)
-* [Pablo Galindo](https://github.com/pablogsal)
-* [Raymond Hettinger](https://rhettinger.github.io/)
-
 
 Michael
 https://mherman.org/talks | Talks and Trainings
@@ -69,19 +58,6 @@ https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique se
 
 Raymond Course
 https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
-
-Python Crash Course
-https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
-
-Al
-https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
-https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
-https://github.com/asweigart/automateboringstuff1stedition
-https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
-https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
-
-Al Sweigart Book
-https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
 
 Exercises
 https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
@@ -182,15 +158,12 @@ https://github.com/search?q=django+feature+flags | Search · django feature flag
 https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
 
 
-
-
 https://github.com/20tab/django-continuous-delivery
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 
 https://twitter.com/jpadilla_/status/1189752115566133248
 
-https://github.com/jpadilla/
 https://github.com/jpadilla/django-rest-framework-jwt
 https://github.com/jpadilla/django-project-template
 
@@ -230,147 +203,28 @@ https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying
 -->
 
 
-## Structuring Your Python Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Django Project Structure
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-## Django Classy
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-## Common Django Features
-
 <!--
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
-https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
-
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-Django Request and Response Cycle
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
--->
-
-## Django Performance, Optimization, Deployment, Architecture
-
-<!--
-https://djangobook.com/deploying-django/
--->
-
-## Django Twelve Factor
-
-<!--
-https://12factor.net/config | The Twelve-Factor App
-
-https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
--->
-
-
-<!--
-https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
-https://www.freecodecamp.org/news/best-python-tutorial/
-
 https://www.pythonmorsels.com/resources/
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 https://github.com/JackMcKew/awesome-python-bytes
 
 
-https://www.cosmicpython.com/
-
-https://pythonspeed.com/ | Ship better Python software, faster
-
-
-https://dbader.org/blog/ultimate-list-of-python-podcasts
-
-https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
-
-https://google.github.io/styleguide/pyguide.html
-
-Google Python
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
-
-https://developers.google.com/machine-learning/crash-course
-
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
-
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/
-
-https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-
-
-https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
-
-https://inventwithpython.com/ | https://inventwithpython.com
-
-https://www.hackinscience.org/ | HackInScience - Python course
-
-https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
-https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
-
-Kushal Das
-https://pymbook.readthedocs.io/en/latest/index.html
-
-Naomi Ceder
-https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
-
-Good Print, hello debugger, DjangoCon
-https://twitter.com/nnja/status/1255592930917507072
-https://twitter.com/nnja/status/1217933709577342976
-https://www.learnpython.dev/
-https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
-Nina
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
-MS Python
-https://twitter.com/ch9/status/1256271884934541312
-https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
-https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
-
-https://cs50.harvard.edu/x/2020/
-
-https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
-
-MIT/Harvard
-https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
-https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
-
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
-
 https://twitter.com/filiplajszczak/status/1228800450515869703
 https://twitter.com/PurpleDiane88/status/1227365692380340224
 
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style
 https://github.com/satwikkansal/wtfpython
 https://github.com/jakevdp/WhirlwindTourOfPython
 https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
 https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+https://dbader.org/blog/ultimate-list-of-python-podcasts
+
+https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
+
+https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
+https://www.freecodecamp.org/news/best-python-tutorial/
+
+https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
 -->
 
 ## Python and Django- Specific Learning Resources
@@ -524,17 +378,6 @@ https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
 
 ## Tutorials and Learning Platforms
-
-<!--
-https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
-https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
-
-Nina
-https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
-https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
-https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
-http://takingnot.es/
--->
 
 Python Official Resources
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
@@ -711,11 +554,89 @@ https://learnpythonthehardway.org/book/
 https://www.toptal.com/python/python-design-patterns
 https://www.packtpub.com/application-development/python-3-object-oriented-programming
 http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 -->
 
 ## Python and Django Teachers
+
+<!--
+https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
+https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
+
+Nina
+https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
+https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
+http://takingnot.es/
+
+
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+
+Google Python
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+
+https://developers.google.com/machine-learning/crash-course
+
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
+
+https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
+
+https://www.hackinscience.org/ | HackInScience - Python course
+
+https://www.cosmicpython.com/
+
+https://pythonspeed.com/ | Ship better Python software, faster
+
+Kushal Das
+https://pymbook.readthedocs.io/en/latest/index.html
+
+Naomi Ceder
+https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
+https://twitter.com/nnja/status/1255592930917507072
+https://twitter.com/nnja/status/1217933709577342976
+https://www.learnpython.dev/
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+MS Python
+https://twitter.com/ch9/status/1256271884934541312
+https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
+https://cs50.harvard.edu/x/2020/
+
+https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
+
+MIT/Harvard
+https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
+https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
+-->
+
+* [Adam Johnson GitHub](https://github.com/adamchainz)
+* [Anthony Shaw](https://twitter.com/anthonypjshaw) and [Anthony Shaw GitHub](https://github.com/tonybaloney/)
+* [Armin Ronacher](https://lucumr.pocoo.org)
+* [Jack Diederich](https://twitter.com/jackdied) and [Jack Diederich GitHub](https://github.com/jackdied)
+* [José Padilla GitHub](https://github.com/jpadilla/)
+* [Luciano Ramalho](https://twitter.com/ramalhoorg)
+* [Pablo Galindo](https://github.com/pablogsal)
+* [Raymond Hettinger](https://rhettinger.github.io/)
 
 Many Talks
 * [David Beazley Tutorials](http://www.dabeaz.com/tutorials.html) and [David Beazley Speaker Deck](https://speakerdeck.com/dabeaz)
@@ -741,17 +662,32 @@ No Starch Press
 * [Al Sweigart](http://alsweigart.com)
 * [Al Sweigart: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0), [Automate the Boring Stuff with Python Code](https://www.nostarch.com/automatestuff), [Automate the Boring Stuff with Python YouTube](https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ), [Automate the Boring Stuff with Python Udemy](https://www.udemy.com/automate/learn/v4/t/lecture/3309062?start=0)
 * [Al Sweigart: Cracking Codes with Python](http://inventwithpython.com/cracking) and [Cracking Codes with Python](https://nostarch.com/crackingcodes)
-* [Al Sweigart: Invent with Python](http://inventwithpython.com) and [Invent with Python Blog](http://inventwithpython.com/blog)
+* [Al Sweigart: Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/) and [Invent with Python Blog](http://inventwithpython.com/blog)
+* [Al Sweigart: Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 * [Amit Saha: Doing Math with Python](https://nostarch.com/doingmathwithpython)
 * [Eric Matthes: Introduction to Python](http://introtopython.org)
 * [Eric Matthes: Python Crash Course](https://ehmatthes.github.io/pcc), [Python Crash Course Book](https://www.nostarch.com/pythoncrashcourse), and [Python Crash Course GitHub](https://github.com/ehmatthes/pcc)
 * [Eric Matthes: Python Crash Course Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Eric Matthes: Python Crash Course Updates](http://ehmatthes.github.io/pcc/chapter_18/README.html#updates)
+* [Lee Vaughan: Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
 https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
+
+Python Crash Course
+https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
+
+Al
+https://inventwithpython.com/blog/2019/08/15/python-error-messages-gotta-catch-em-all/ | Python Error Messages: Gotta Catch Em All - The Invent with Python Blog
+https://inventwithpython.com/blogstatic/pythonerrorsgottacatchemall.pdf | pythonerrorsgottacatchemall.pdf
+https://github.com/asweigart/automateboringstuff1stedition
+https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
+https://github.com/asweigart/alsweigartsprogrammingadvicefaq | asweigart/alsweigartsprogrammingadvicefaq: Al Sweigart's Frequently Asked Questions document for beginner and intermediate programming advice.
+
+Al Sweigart Book
+https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitter: "@theavalkyrie Oh man, this is the exact approach I had in mind for that "Math for Self-Taught Programmers" book idea." / Twitter
 -->
 
 Python/Django Teachers and Useful Python Resources
