@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedi
 Strings
 https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
 https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-->
+-->
 
 ## General Links
 
@@ -135,35 +135,37 @@ https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
 11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
 11.2. Templating
 https://docs.python.org/3/tutorial/stdlib2.html#templating
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string.Template
 11.3. Working with Binary Data Record Layouts
 https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
 11.4. Multi-threading
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
+https://docs.python.org/3/library/logging.html#module-logging
 11.6. Weak References
 https://docs.python.org/3/tutorial/stdlib2.html#weak-references
+https://docs.python.org/3/glossary.html#term-garbage-collection
 11.7. Tools for Working with Lists
 https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
 11.8. Decimal Floating Point Arithmetic
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
-
-
 ## Interpreter
-
-https://docs.python.org/3/tutorial/interpreter.html
-
-14. Interactive Input Editing and History Substitution
-14.1. Tab Completion and History Editing
-14.2. Alternatives to the Interactive Interpreter
-
-https://docs.python.org/3/tutorial/interactive.html#interactive-input-editing-and-history-substitution
-
-https://docs.python.org/3/tutorial/interactive.html#tab-completion-and-history-editing
-https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interactive-interpreter
 
 2. Using the Python Interpreter
 2.1. Invoking the Interpreter
@@ -172,10 +174,22 @@ https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interact
 2.2. The Interpreter and Its Environment
 2.2.1. Source Code Encoding
 
+https://docs.python.org/3/tutorial/interpreter.html
 https://docs.python.org/3/tutorial/interpreter.html#invoking-the-interpreter
+https://docs.python.org/3/tutorial/interpreter.html#argument-passing
+https://docs.python.org/3/using/cmdline.html#using-on-general
+
 https://docs.python.org/3/tutorial/interpreter.html#interactive-mode
 https://docs.python.org/3/tutorial/interpreter.html#the-interpreter-and-its-environment
 https://docs.python.org/3/tutorial/interpreter.html#source-code-encoding
+
+14. Interactive Input Editing and History Substitution
+https://docs.python.org/3/tutorial/interactive.html#interactive-input-editing-and-history-substitution
+14.1. Tab Completion and History Editing
+https://docs.python.org/3/tutorial/interactive.html#tab-completion-and-history-editing
+14.2. Alternatives to the Interactive Interpreter
+https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interactive-interpreter
+
 
 31. Custom Python Interpreters
 31.1. code — Interpreter base classes
@@ -207,7 +221,10 @@ https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
 https://docs.python.org/3/library/venv.html#api
 https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
 
+
 ## Grammar
+
+Some of this will be deprecated
 
 1.2. Notation
 https://docs.python.org/3/reference/introduction.html#notation
@@ -217,6 +234,7 @@ https://docs.python.org/3/reference/grammar.html
 https://docs.python.org/3/reference/grammar.html#full-grammar-specification
 
 https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+
 
 <!--
 https://twitter.com/aaronchall/status/1114713624453554176
@@ -228,12 +246,14 @@ https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information techn
 https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
 -->
 
+
 ## Internals
 
 30.11. __future__ — Future statement definitions
 https://docs.python.org/3/library/__future__.html
 https://docs.python.org/3/reference/simple_stmts.html#future-statements
 
+Deprecated
 Automated Python 2 to 3 code translation
 https://docs.python.org/3/library/2to3.html
 https://docs.python.org/3/library/2to3.html#using-2to3
@@ -244,15 +264,24 @@ https://docs.python.org/3/library/2to3.html#module-lib2to3
 https://docs.python.org/3/library/gc.html
 
 https://docs.python.org/3/reference/executionmodel.html
+https://docs.python.org/3/library/functions.html#eval
+https://docs.python.org/3/library/functions.html#exec
+
 https://docs.python.org/3/reference/executionmodel.html#structure-of-a-program
 https://docs.python.org/3/reference/executionmodel.html#naming-and-binding
 
 https://docs.python.org/3/reference/executionmodel.html#binding-of-names
 https://docs.python.org/3/reference/executionmodel.html#resolution-of-names
 https://docs.python.org/3/reference/executionmodel.html#builtins-and-restricted-execution
+https://docs.python.org/3/library/__main__.html#module-__main__
+
 https://docs.python.org/3/reference/executionmodel.html#interaction-with-dynamic-features
 
 https://docs.python.org/3/reference/executionmodel.html#exceptions
+
+https://docs.python.org/3/library/functions.html#built-in-funcs
+https://docs.python.org/3/library/constants.html#built-in-consts
+https://docs.python.org/3/library/functions.html#open
 
 https://en.wikipedia.org/wiki/Lexical_analysis | Lexical analysis - Wikipedia
 
@@ -290,6 +319,8 @@ https://docs.python.org/3/library/dis.html#opcode-collections
 https://docs.python.org/3/library/dis.html#python-bytecode-instructions
 https://docs.python.org/3/library/dis.html#bytecode-analysis
 https://docs.python.org/3/library/dis.html#analysis-functions
+
+
 
 30.13. inspect — Inspect live objects
 https://docs.python.org/3/library/inspect.html
