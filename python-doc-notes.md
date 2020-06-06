@@ -38,16 +38,33 @@ https://docs.python.org/3/tutorial/introduction.html
 https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
 https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
 https://docs.python.org/3/tutorial/introduction.html#numbers
+https://docs.python.org/3/tutorial/introduction.html#strings
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+Fibonacci series 
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
 
 1. Whetting Your Appetite
 https://docs.python.org/3/tutorial/appetite.html
 
 https://docs.python.org/3/tutorial/appendix.html
 https://docs.python.org/3/tutorial/appendix.html#appendix
-https://docs.python.org/3/tutorial/appendix.html#interactive-mode
-https://docs.python.org/3/tutorial/appendix.html#error-handling
+
+Unix
 https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
 https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
+
+https://docs.python.org/3/tutorial/appendix.html#interactive-mode
+https://docs.python.org/3/tutorial/appendix.html#error-handling
+https://docs.python.org/3/reference/compound_stmts.html#try
+https://docs.python.org/3/reference/compound_stmts.html#except
+https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
+https://docs.python.org/3/reference/compound_stmts.html#finally
+https://docs.python.org/3/reference/simple_stmts.html#from
+https://docs.python.org/3/reference/simple_stmts.html#raise
+https://docs.python.org/3/library/constants.html#None
+
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
 https://docs.python.org/3/tutorial/stdlib.html
@@ -56,71 +73,84 @@ https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-librar
 11. Brief Tour of the Standard Library — Part II
 https://docs.python.org/3/tutorial/stdlib2.html
 
+
 10. Brief Tour of the Standard Library
-10.1. Operating System Interface
-10.2. File Wildcards
-10.3. Command Line Arguments
-10.4. Error Output Redirection and Program Termination
-10.5. String Pattern Matching
-10.6. Mathematics
-10.7. Internet Access
-10.8. Dates and Times
-10.9. Data Compression
-10.10. Performance Measurement
-10.11. Quality Control
-10.12. Batteries Included
-
 https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
-
-<!--
+10.1. Operating System Interface
+https://docs.python.org/3/library/os.html#module-os
 https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
--->
-
+https://docs.python.org/3/library/os.html#os.open
+https://docs.python.org/3/library/os.path.html#module-os.path
+https://docs.python.org/3/library/os.path.html#os.path.join
+https://docs.python.org/3/library/shutil.html#module-shutil
+10.2. File Wildcards
 https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-
+https://docs.python.org/3/library/glob.html#module-glob
+10.3. Command Line Arguments
 https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#module-sys
+
+10.4. Error Output Redirection and Program Termination
 https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
+https://docs.python.org/3/library/sys.html#module-sys
+https://docs.python.org/3/library/sys.html#sys.argv
+https://docs.python.org/3/library/sys.html#sys.path
+10.5. String Pattern Matching
 https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-
-<!--
+https://docs.python.org/3/library/re.html#module-re
+10.6. Mathematics
 https://docs.python.org/3/tutorial/stdlib.html#mathematics
--->
-
+https://docs.python.org/3/library/random.html#module-random
 10.7. Internet Access
 https://docs.python.org/3/tutorial/stdlib.html#internet-access
-
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+https://docs.python.org/3/library/smtplib.html#module-smtplib
+10.8. Dates and Times
 https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-
+https://docs.python.org/3/library/datetime.html#module-datetime
+10.9. Data Compression
 https://docs.python.org/3/tutorial/stdlib.html#data-compression
-
+10.10. Performance Measurement
 https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+https://docs.python.org/3/library/profile.html#module-profile
+https://docs.python.org/3/library/timeit.html#module-timeit
+https://docs.python.org/3/library/profile.html#module-pstats
+10.11. Quality Control
 https://docs.python.org/3/tutorial/stdlib.html#quality-control
+10.12. Batteries Included
 https://docs.python.org/3/tutorial/stdlib.html#batteries-included
+https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
+https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
+https://docs.python.org/3/library/email.html#module-email
+https://docs.python.org/3/library/smtplib.html#module-smtplib
+https://docs.python.org/3/library/poplib.html#module-poplib
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+https://docs.python.org/3/library/xml.dom.html#module-xml.dom
+https://docs.python.org/3/library/xml.sax.html#module-xml.sax
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
 11. Brief Tour of the Standard Library — Part II
-11.1. Output Formatting
-11.2. Templating
-11.3. Working with Binary Data Record Layouts
-11.4. Multi-threading
-11.5. Logging
-11.6. Weak References
-11.7. Tools for Working with Lists
-11.8. Decimal Floating Point Arithmetic
-
 https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
-
+11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+11.2. Templating
 https://docs.python.org/3/tutorial/stdlib2.html#templating
+11.3. Working with Binary Data Record Layouts
 https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
+11.4. Multi-threading
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
-
-<!--
+11.6. Weak References
 https://docs.python.org/3/tutorial/stdlib2.html#weak-references
+11.7. Tools for Working with Lists
 https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+11.8. Decimal Floating Point Arithmetic
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
--->
+
+
 
 ## Interpreter
 
