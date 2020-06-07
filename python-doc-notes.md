@@ -1050,6 +1050,7 @@ https://docs.python.org/3/library/2to3.html#module-lib2to3
 
 
 
+
 ## Built-In Functions- Modules
 
 This function is invoked by the import statement. It can be replaced (by importing the builtins module and assigning to builtins.__import__) in order to change semantics of the import statement, but doing so is strongly discouraged
@@ -1344,18 +1345,7 @@ https://docs.python.org/3/library/functions.html#dir
 Return True if the object argument appears callable, False if not. 
 ```callable()```
 
-## Identity Operators
 
-True if same object/identify (id)
-
-```is``` 
-
-True if different object/identity (id)
-
-```is not```
-
-https://docs.python.org/3/reference/expressions.html#is
-https://docs.python.org/3/reference/expressions.html#is-not
 
 ## Attributes and Properties
 
@@ -1377,17 +1367,6 @@ https://en.wikipedia.org/wiki/Property_(programming)
 Return a property attribute.
 ```property()```
 
-## Negation
-
-https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
-
-https://docs.python.org/3/library/stdtypes.html#the-null-object
-https://docs.python.org/3/library/stdtypes.html#the-notimplemented-object
-
-None
-https://docs.python.org/3/library/constants.html#None
-
-NotImplemented
 
 ## Arguments and Parameters
 
