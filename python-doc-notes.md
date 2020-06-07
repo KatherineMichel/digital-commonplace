@@ -11,6 +11,161 @@ https://docs.python.org/3.4/library/string.html | 6.1. string — Common string 
 https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
 -->
 
+## Interpreter
+
+2. Using the Python Interpreter
+2.1. Invoking the Interpreter
+2.1.1. Argument Passing
+2.1.2. Interactive Mode
+2.2. The Interpreter and Its Environment
+2.2.1. Source Code Encoding
+
+https://docs.python.org/3/tutorial/interpreter.html
+https://docs.python.org/3/tutorial/interpreter.html#invoking-the-interpreter
+https://docs.python.org/3/tutorial/interpreter.html#argument-passing
+https://docs.python.org/3/using/cmdline.html#using-on-general
+
+https://docs.python.org/3/tutorial/interpreter.html#interactive-mode
+https://docs.python.org/3/tutorial/interpreter.html#the-interpreter-and-its-environment
+https://docs.python.org/3/tutorial/interpreter.html#source-code-encoding
+
+14. Interactive Input Editing and History Substitution
+https://docs.python.org/3/tutorial/interactive.html#interactive-input-editing-and-history-substitution
+14.1. Tab Completion and History Editing
+https://docs.python.org/3/tutorial/interactive.html#tab-completion-and-history-editing
+14.2. Alternatives to the Interactive Interpreter
+https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interactive-interpreter
+
+
+31. Custom Python Interpreters
+31.1. code — Interpreter base classes
+31.2. codeop — Compile Python code
+
+Not There
+https://docs.python.org/3/library/custominterp.html#custom-python-interpreters
+https://docs.python.org/3/library/code.html#module-code
+https://docs.python.org/3/library/code.html#interactive-interpreter-objects
+https://docs.python.org/3/library/code.html#interactive-console-objects
+https://docs.python.org/3/library/codeop.html#module-codeop
+
+
+## Packages and Importing
+
+29.4. __main__ — Top-level script environment
+5.7. Special considerations for __main__
+https://docs.python.org/3/library/__main__.html
+https://docs.python.org/3/reference/import.html#special-considerations-for-main
+
+https://docs.python.org/3/installing/index.html
+
+https://docs.python.org/3/distributing/index.html
+
+29.1. distutils — Building and installing Python modules
+https://docs.python.org/3/library/distutils.html
+
+https://docs.python.org/3/reference/simple_stmts.html#the-import-statement
+https://docs.python.org/3/tutorial/modules.html
+https://docs.python.org/3/tutorial/modules.html#packages
+https://docs.python.org/3/library/modules.html
+https://docs.python.org/3/library/distribution.html
+
+https://docs.python.org/3/tutorial/modules.html#modules
+https://docs.python.org/3/tutorial/modules.html#more-on-modules
+https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts
+https://docs.python.org/3/tutorial/modules.html#the-module-search-path
+https://docs.python.org/3/tutorial/modules.html#compiled-python-files
+https://docs.python.org/3/tutorial/modules.html#packages
+https://docs.python.org/3/tutorial/modules.html#importing-from-a-package
+https://docs.python.org/3/tutorial/modules.html#intra-package-references
+https://docs.python.org/3/tutorial/modules.html#packages-in-multiple-directories
+
+https://docs.python.org/3/reference/import.html
+https://docs.python.org/3/reference/import.html#importlib
+https://docs.python.org/3/reference/import.html#packages
+
+https://docs.python.org/3/reference/import.html#regular-packages
+https://docs.python.org/3/reference/import.html#namespace-packages
+
+https://docs.python.org/3/reference/import.html#searching
+
+https://docs.python.org/3/reference/import.html#the-module-cache
+https://docs.python.org/3/reference/import.html#finders-and-loaders
+https://docs.python.org/3/reference/import.html#import-hooks
+https://docs.python.org/3/reference/import.html#the-meta-path
+
+https://docs.python.org/3/reference/import.html#loading
+
+https://docs.python.org/3/reference/import.html#loaders
+https://docs.python.org/3/reference/import.html#submodules
+https://docs.python.org/3/reference/import.html#module-spec
+https://docs.python.org/3/reference/import.html#import-related-module-attributes
+https://docs.python.org/3/reference/import.html#module-path
+https://docs.python.org/3/reference/import.html#module-reprs
+https://docs.python.org/3/reference/import.html#cached-bytecode-invalidation
+
+https://docs.python.org/3/reference/import.html#the-path-based-finder
+
+https://docs.python.org/3/reference/import.html#path-entry-finders
+https://docs.python.org/3/reference/import.html#path-entry-finder-protocol
+
+https://docs.python.org/3/reference/import.html#replacing-the-standard-import-system
+https://docs.python.org/3/reference/import.html#special-considerations-for-main
+
+https://docs.python.org/3/reference/import.html#main-spec
+
+5.8. Open issues
+https://docs.python.org/3/reference/import.html#open-issues
+5.9. References
+https://docs.python.org/3/reference/import.html#references
+
+https://docs.python.org/3/library/importlib.html
+https://docs.python.org/3/library/importlib.html#introduction
+https://docs.python.org/3/library/importlib.html#functions
+https://docs.python.org/3/library/importlib.html#module-importlib.abc
+https://docs.python.org/3/library/importlib.html#module-importlib.resources
+https://docs.python.org/3/library/importlib.html#module-importlib.machinery
+https://docs.python.org/3/library/importlib.html#module-importlib.util
+https://docs.python.org/3/library/importlib.html#examples
+https://docs.python.org/3/library/importlib.html#importing-programmatically
+https://docs.python.org/3/library/importlib.html#checking-if-a-module-can-be-imported
+https://docs.python.org/3/library/importlib.html#importing-a-source-file-directly
+https://docs.python.org/3/library/importlib.html#setting-up-an-importer
+https://docs.python.org/3/library/importlib.html#approximating-importlib-import-module
+
+9. Top-level components
+9.1. Complete Python programs
+9.2. File input
+9.3. Interactive input
+9.4. Expression input
+
+https://docs.python.org/3/reference/toplevel_components.html
+https://docs.python.org/3/reference/toplevel_components.html#complete-python-programs
+https://docs.python.org/3/reference/toplevel_components.html#file-input
+https://docs.python.org/3/reference/toplevel_components.html#interactive-input
+https://docs.python.org/3/reference/toplevel_components.html#expression-input
+
+32. Importing Modules
+32.2. pkgutil — Package extension utility
+32.3. modulefinder — Find modules used by a script
+32.4. runpy — Locating and executing Python modules
+32.5. importlib — The implementation of import
+
+https://docs.python.org/3/library/pkgutil.html
+https://docs.python.org/3/library/modulefinder.html
+https://docs.python.org/3/library/modulefinder.html#example-usage-of-modulefinder
+https://docs.python.org/3/library/runpy.html
+
+32.1. zipimport — Import modules from Zip archives
+https://docs.python.org/3/library/zipimport.html
+https://docs.python.org/3/library/zipimport.html#zipimporter-objects
+https://docs.python.org/3/library/zipimport.html#examples
+
+29.2. ensurepip — Bootstrapping the pip installer
+https://docs.python.org/3/library/ensurepip.html
+https://docs.python.org/3/library/ensurepip.html#command-line-interface
+https://docs.python.org/3/library/ensurepip.html#module-api
+
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
@@ -75,6 +230,7 @@ https://docs.python.org/3/tutorial/stdlib2.html
 
 10. Brief Tour of the Standard Library
 https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
+
 10.1. Operating System Interface
 https://docs.python.org/3/library/os.html#module-os
 https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
@@ -132,6 +288,7 @@ https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
 11. Brief Tour of the Standard Library — Part II
 https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
+
 11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
 https://docs.python.org/3/library/functions.html#repr
@@ -165,71 +322,50 @@ https://docs.python.org/3/library/heapq.html#module-heapq
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
 
+## Standard
 
-## Interpreter
+https://docs.python.org/3/reference/lexical_analysis.html
 
-2. Using the Python Interpreter
-2.1. Invoking the Interpreter
-2.1.1. Argument Passing
-2.1.2. Interactive Mode
-2.2. The Interpreter and Its Environment
-2.2.1. Source Code Encoding
+https://docs.python.org/3/library/stdtypes.html#internal-objects
+https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
 
-https://docs.python.org/3/tutorial/interpreter.html
-https://docs.python.org/3/tutorial/interpreter.html#invoking-the-interpreter
-https://docs.python.org/3/tutorial/interpreter.html#argument-passing
-https://docs.python.org/3/using/cmdline.html#using-on-general
+https://docs.python.org/3/library/stdtypes.html#code-objects
+https://docs.python.org/3/library/stdtypes.html#type-objects
 
-https://docs.python.org/3/tutorial/interpreter.html#interactive-mode
-https://docs.python.org/3/tutorial/interpreter.html#the-interpreter-and-its-environment
-https://docs.python.org/3/tutorial/interpreter.html#source-code-encoding
+https://docs.python.org/3/reference/datamodel.html#types
+https://docs.python.org/3/library/stdtypes.html#built-in-types
+https://docs.python.org/3/library/stdtypes.html#other-built-in-types
 
-14. Interactive Input Editing and History Substitution
-https://docs.python.org/3/tutorial/interactive.html#interactive-input-editing-and-history-substitution
-14.1. Tab Completion and History Editing
-https://docs.python.org/3/tutorial/interactive.html#tab-completion-and-history-editing
-14.2. Alternatives to the Interactive Interpreter
-https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interactive-interpreter
+https://docs.python.org/3/library/builtins.html
+https://docs.python.org/3/library/functions.html#built-in-funcs
+https://docs.python.org/3/library/constants.html#built-in-consts
 
+https://docs.python.org/3/reference/expressions.html#expression-lists
+https://docs.python.org/3/reference/simple_stmts.html#expression-statements
+https://docs.python.org/3/reference/expressions.html
 
-31. Custom Python Interpreters
-31.1. code — Interpreter base classes
-31.2. codeop — Compile Python code
+https://docs.python.org/3/tutorial/modules.html#standard-modules
 
-Not There
-https://docs.python.org/3/library/custominterp.html#custom-python-interpreters
-https://docs.python.org/3/library/code.html#module-code
-https://docs.python.org/3/library/code.html#interactive-interpreter-objects
-https://docs.python.org/3/library/code.html#interactive-console-objects
-https://docs.python.org/3/library/codeop.html#module-codeop
+3.1. Constants added by the site module
+
+Special attribute and method names
+https://docs.python.org/3/glossary.html#term-special-method
+https://docs.python.org/3/reference/datamodel.html#special-method-names
+"Some of these are not reported by the dir() built-in function."
+https://docs.python.org/3/library/stdtypes.html#special-attributes
+https://docs.python.org/3/reference/lexical_analysis.html#reserved-classes-of-identifiers
 
 
-## Grammar
+https://docs.python.org/3/glossary.html#term-decorator
+https://docs.python.org/3/glossary.html#term-descriptor
+https://docs.python.org/3/reference/datamodel.html#descriptors
 
-Some of this will be deprecated
-
-1.2. Notation
-https://docs.python.org/3/reference/introduction.html#notation
-
-10. Full Grammar specification
-https://docs.python.org/3/reference/grammar.html
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification
-
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+dot notation
+https://docs.python.org/3/library/stdtypes.html#modules
 
 
-<!--
-https://twitter.com/aaronchall/status/1114713624453554176
 
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
-
-
-## Internals
+## General Stuff
 
 30.11. __future__ — Future statement definitions
 https://docs.python.org/3/library/__future__.html
@@ -255,6 +391,43 @@ https://docs.python.org/3/library/functions.html#built-in-funcs
 https://docs.python.org/3/library/constants.html#built-in-consts
 https://docs.python.org/3/library/functions.html#open
 
+
+https://docs.python.org/3/library/stdtypes.html#the-ellipsis-object
+
+4.7.6. Documentation Strings
+https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
+
+12.4. marshal — Internal Python object serialization
+https://docs.python.org/3/library/marshal.html
+
+
+
+## Grammar
+
+Some of this will be deprecated
+
+1.2. Notation
+https://docs.python.org/3/reference/introduction.html#notation
+
+10. Full Grammar specification
+https://docs.python.org/3/reference/grammar.html
+https://docs.python.org/3/reference/grammar.html#full-grammar-specification
+
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+
+<!--
+https://twitter.com/aaronchall/status/1114713624453554176
+
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
+
+## Lexical Analysis
+
 https://en.wikipedia.org/wiki/Lexical_analysis | Lexical analysis - Wikipedia
 
 Lexical Analysis
@@ -271,22 +444,6 @@ https://docs.python.org/3/reference/lexical_analysis.html#whitespace-between-tok
 https://docs.python.org/3/reference/lexical_analysis.html#line-structure
 https://docs.python.org/3/reference/lexical_analysis.html#other-tokens
 https://docs.python.org/3/reference/lexical_analysis.html#identifiers
-
-https://docs.python.org/3/library/stdtypes.html#the-ellipsis-object
-
-4.7.6. Documentation Strings
-https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
-
-12.4. marshal — Internal Python object serialization
-https://docs.python.org/3/library/marshal.html
-
-36.11. resource — Resource usage information
-https://docs.python.org/3/library/resource.html
-https://docs.python.org/3/library/resource.html#resource-limits
-https://docs.python.org/3/library/resource.html#resource-usage
-
-
-
 
 ## Internals
 
@@ -325,6 +482,13 @@ https://docs.python.org/3/library/pyclbr.html
 https://docs.python.org/3/library/py_compile.html
 33.11. compileall — Byte-compile Python libraries
 https://docs.python.org/3/library/compileall.html
+
+## Performance
+
+36.11. resource — Resource usage information
+https://docs.python.org/3/library/resource.html
+https://docs.python.org/3/library/resource.html#resource-limits
+https://docs.python.org/3/library/resource.html#resource-usage
 
 ## Python and Django Testing
 
@@ -815,124 +979,6 @@ https://docs.python.org/3/library/logging.handlers.html#queuehandler
 https://docs.python.org/3/library/logging.handlers.html#queuelistener
 
 
-## Packages and Importing
-
-29.4. __main__ — Top-level script environment
-5.7. Special considerations for __main__
-https://docs.python.org/3/library/__main__.html
-https://docs.python.org/3/reference/import.html#special-considerations-for-main
-
-https://docs.python.org/3/installing/index.html
-
-https://docs.python.org/3/distributing/index.html
-
-29.2. ensurepip — Bootstrapping the pip installer
-https://docs.python.org/3/library/ensurepip.html
-https://docs.python.org/3/library/ensurepip.html#command-line-interface
-https://docs.python.org/3/library/ensurepip.html#module-api
-
-29.1. distutils — Building and installing Python modules
-https://docs.python.org/3/library/distutils.html
-
-https://docs.python.org/3/reference/simple_stmts.html#the-import-statement
-https://docs.python.org/3/tutorial/modules.html
-https://docs.python.org/3/tutorial/modules.html#packages
-https://docs.python.org/3/library/modules.html
-https://docs.python.org/3/library/distribution.html
-
-https://docs.python.org/3/tutorial/modules.html#modules
-https://docs.python.org/3/tutorial/modules.html#more-on-modules
-https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts
-https://docs.python.org/3/tutorial/modules.html#the-module-search-path
-https://docs.python.org/3/tutorial/modules.html#compiled-python-files
-https://docs.python.org/3/tutorial/modules.html#packages
-https://docs.python.org/3/tutorial/modules.html#importing-from-a-package
-https://docs.python.org/3/tutorial/modules.html#intra-package-references
-https://docs.python.org/3/tutorial/modules.html#packages-in-multiple-directories
-
-https://docs.python.org/3/reference/import.html
-https://docs.python.org/3/reference/import.html#importlib
-https://docs.python.org/3/reference/import.html#packages
-
-https://docs.python.org/3/reference/import.html#regular-packages
-https://docs.python.org/3/reference/import.html#namespace-packages
-
-https://docs.python.org/3/reference/import.html#searching
-
-https://docs.python.org/3/reference/import.html#the-module-cache
-https://docs.python.org/3/reference/import.html#finders-and-loaders
-https://docs.python.org/3/reference/import.html#import-hooks
-https://docs.python.org/3/reference/import.html#the-meta-path
-
-https://docs.python.org/3/reference/import.html#loading
-
-https://docs.python.org/3/reference/import.html#loaders
-https://docs.python.org/3/reference/import.html#submodules
-https://docs.python.org/3/reference/import.html#module-spec
-https://docs.python.org/3/reference/import.html#import-related-module-attributes
-https://docs.python.org/3/reference/import.html#module-path
-https://docs.python.org/3/reference/import.html#module-reprs
-https://docs.python.org/3/reference/import.html#cached-bytecode-invalidation
-
-https://docs.python.org/3/reference/import.html#the-path-based-finder
-
-https://docs.python.org/3/reference/import.html#path-entry-finders
-https://docs.python.org/3/reference/import.html#path-entry-finder-protocol
-
-https://docs.python.org/3/reference/import.html#replacing-the-standard-import-system
-https://docs.python.org/3/reference/import.html#special-considerations-for-main
-
-https://docs.python.org/3/reference/import.html#main-spec
-
-5.8. Open issues
-https://docs.python.org/3/reference/import.html#open-issues
-5.9. References
-https://docs.python.org/3/reference/import.html#references
-
-https://docs.python.org/3/library/importlib.html
-https://docs.python.org/3/library/importlib.html#introduction
-https://docs.python.org/3/library/importlib.html#functions
-https://docs.python.org/3/library/importlib.html#module-importlib.abc
-https://docs.python.org/3/library/importlib.html#module-importlib.resources
-https://docs.python.org/3/library/importlib.html#module-importlib.machinery
-https://docs.python.org/3/library/importlib.html#module-importlib.util
-https://docs.python.org/3/library/importlib.html#examples
-https://docs.python.org/3/library/importlib.html#importing-programmatically
-https://docs.python.org/3/library/importlib.html#checking-if-a-module-can-be-imported
-https://docs.python.org/3/library/importlib.html#importing-a-source-file-directly
-https://docs.python.org/3/library/importlib.html#setting-up-an-importer
-https://docs.python.org/3/library/importlib.html#approximating-importlib-import-module
-
-9. Top-level components
-9.1. Complete Python programs
-9.2. File input
-9.3. Interactive input
-9.4. Expression input
-
-https://docs.python.org/3/reference/toplevel_components.html
-https://docs.python.org/3/reference/toplevel_components.html#complete-python-programs
-https://docs.python.org/3/reference/toplevel_components.html#file-input
-https://docs.python.org/3/reference/toplevel_components.html#interactive-input
-https://docs.python.org/3/reference/toplevel_components.html#expression-input
-
-32. Importing Modules
-32.1. zipimport — Import modules from Zip archives
-32.2. pkgutil — Package extension utility
-32.3. modulefinder — Find modules used by a script
-32.4. runpy — Locating and executing Python modules
-32.5. importlib — The implementation of import
-
-https://docs.python.org/3/library/zipimport.html
-https://docs.python.org/3/library/zipimport.html#zipimporter-objects
-https://docs.python.org/3/library/zipimport.html#examples
-
-https://docs.python.org/3/library/pkgutil.html
-https://docs.python.org/3/library/modulefinder.html
-https://docs.python.org/3/library/modulefinder.html#example-usage-of-modulefinder
-https://docs.python.org/3/library/runpy.html
-
-
-
 ## Internals- Detailed
 
 33.12. dis — Disassembler for Python bytecode
@@ -1009,10 +1055,19 @@ https://docs.python.org/3/library/2to3.html#module-lib2to3
 This function is invoked by the import statement. It can be replaced (by importing the builtins module and assigning to builtins.__import__) in order to change semantics of the import statement, but doing so is strongly discouraged
 ```__import__()```
 
-## return and Formatting
 
-7.6. The return statement
-https://docs.python.org/3/reference/simple_stmts.html#the-return-statement
+## Mapping Operators to Functions
+
+Mapping Operators to Functions
+
+"For backward compatibility, many of these have a variant with the double underscores kept."
+https://docs.python.org/3/library/operator.html
+https://docs.python.org/3/library/operator.html#module-operator
+https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
+https://docs.python.org/3/library/operator.html#inplace-operators
+
+
+## Formatting
 
 8.12. reprlib — Alternate repr() implementation
 https://docs.python.org/3/library/reprlib.html
@@ -1070,122 +1125,7 @@ Convert a value to a “formatted” representation, as controlled by format_spe
 Return a string containing a printable representation of an object. 
 ```repr()```
 
-## Reserved Keywords
 
-<!--
-(See Python Crash Course “Python Keywords and Built-in Functions” on page 489.)
-
-Keywords!
-https://docs.python.org/3/reference/lexical_analysis.html#keywords
--->
-
-```python
-class
-def
-```
-
-```python
-try
-except
-raise
-assert
-```
-
-```python
-for
-while
-else
-if
-elif
-with
-```
-
-```python
-continue
-pass
-break
-```
-
-Boolean
-
-```python
-True
-False
-```
-
-```python
-and
-not
-or
-```
-
-```python
-import
-from
-```
-
-```python
-global
-nonlocal
-```
-
-```python
-async
-await
-```
-
-```python
-None
-as
-del
-finally
-in
-is
-lambda
-return
-yield
-```
-
-## Standard
-
-https://docs.python.org/3/reference/lexical_analysis.html
-
-https://docs.python.org/3/library/stdtypes.html#internal-objects
-https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
-
-https://docs.python.org/3/library/stdtypes.html#code-objects
-https://docs.python.org/3/library/stdtypes.html#type-objects
-
-https://docs.python.org/3/reference/datamodel.html#types
-https://docs.python.org/3/library/stdtypes.html#built-in-types
-https://docs.python.org/3/library/stdtypes.html#other-built-in-types
-
-https://docs.python.org/3/library/builtins.html
-https://docs.python.org/3/library/functions.html#built-in-funcs
-https://docs.python.org/3/library/constants.html#built-in-consts
-
-https://docs.python.org/3/reference/expressions.html#expression-lists
-https://docs.python.org/3/reference/simple_stmts.html#expression-statements
-https://docs.python.org/3/reference/expressions.html
-
-https://docs.python.org/3/tutorial/modules.html#standard-modules
-
-3.1. Constants added by the site module
-
-Special attribute and method names
-https://docs.python.org/3/glossary.html#term-special-method
-https://docs.python.org/3/reference/datamodel.html#special-method-names
-"Some of these are not reported by the dir() built-in function."
-https://docs.python.org/3/library/stdtypes.html#special-attributes
-https://docs.python.org/3/reference/lexical_analysis.html#reserved-classes-of-identifiers
-
-
-https://docs.python.org/3/glossary.html#term-decorator
-https://docs.python.org/3/glossary.html#term-descriptor
-https://docs.python.org/3/reference/datamodel.html#descriptors
-
-dot notation
-https://docs.python.org/3/library/stdtypes.html#modules
 
 
 <!--
@@ -1806,43 +1746,6 @@ Sums start and the items of an iterable from left to right and returns the total
 
 ```sum()```
 
-## Common Naming Conventions
-
-<!--
-case sensitivity
-underscore
-starting underscore
--->
-
-```python
-CapWords
-snake_case
-MACRO_CASE
-camelCase
-```
-
-snake_case
-
-```python
-module_name
-package_name
-function_name
-method_name
-variable_name
-```
-
-CapWords
-
-```python
-ClassName
-ExceptionName
-```
-
-MACRO_CASE
-
-```python
-CONSTANT_NAME
-```
 
 ## Example Module File
 
@@ -1891,191 +1794,6 @@ class NewClass(object): #CapWords
 
 # Newline at end of file
 ```
-
-## Python Code Block Examples
-
-Python structuring
-* colons
-* indentation (a.k.a. nesting)
-
-## Colons
-
-Python structures that end blocks with a colon (:)
-* function statement
-* class statement
-* if-elif-else statement (branching)
-* for-else statement (loop)
-* while-else statement (loop)
-* with statement
-* try-except-else statement
-
-Python structures that don't end blocks with a colon (:)
-* range/list comprehension functions
-
-Compound or complex statements
-
-```python
-header: 
-   suite
-header:
-   suite 
-header:
-   suite
-```
-
-## Class or Function Syntax
-
-Define a function or class
-
-```python
-def function():
-class Class:
-```
-
-Function statement
-
-```python
-def function():
-    """Description"""
-    action
-
-function()
-```
-
-Class statement
-
-```python
-class Class:
-    """Description"""
-    def __init__(self, attribute):
-        self.attribute = attribute
- 
-    def method(self):
-        action
-```
-
-## Exceptions
-
-Two kinds of errors
-* syntax errors
-* logical errors
-
-Traceback
-* 1: file name, line number, module (if applicable)
-* 2: line, ^ (caret) where the error is
-* 3: type of error and description
-     
-Example
-
-```python
-$ python program.py
-  File "program.py", line 3, in <module>
-print 'Hello world! ^
-SyntaxError: EOL while scanning string literal
-```
-
-try-except-else statement
-
-```python
-try:
-    something
-except Exception:
-    do something else
-else:
-    do something else
-```
-
-<!--
-8.4. The try statement
-https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
-https://docs.python.org/3/reference/compound_stmts.html#finally
-
-7.8. The raise statement
-https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement
--->
-
-## pass Statements
-
-Nothing happens when the pass statement executes.
-
-null operation
-4.5. pass Statements
-https://docs.python.org/3/tutorial/controlflow.html#pass-statements
-7.4. The pass statement
-https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
-
-## Control Flow Statement Examples
-
-if-elif-else statement
-
-```python
-if condition true:
-    action
-elif condition true:
-    action
-else:
-    action
-```
-
-for-else statement
-
-```python
-for condition:
-    action
-else:
-    action
-```
-
-while-else statement
-
-```python
-while condition true:
-    action
-else:
-    action
-```
-
-with statement
-
-```python
-with condition:
-```
-
-with-else statement
-
-```python
-
-```
-
-## Python and Django Control Flow
-
-3 Types of Control structures
-* true or false branch evaluation (if statement)
-* repeating while a condition is True (while loop)
-* sequential processing (for loop)
-
-## if Statements
-
-Conditional test
-* evaluates statements one by one until one is found to be True (Boolean operation)
-* that statement is executed (no other part of if statement is executed or evaluated)
-* if all statements are False, else statement, if present, is executed
-
-Number of statements
-* can have as many elif statement as needed
-* else statement is always optional
-
-https://docs.python.org/3/tutorial/controlflow.html#if-statements
-https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
-
-## while Statements
-
-Conditional test
-* repeats a block of code while the condition is True (Boolean operation)
-* if the condition does not become False, the loop runs indefinitely as an infinite loop.
-* if the while statements becomes False, the else statement, if present, is executed
-
-https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
 
 
 
@@ -2458,129 +2176,7 @@ Given a string representing one Unicode character, return an integer representin
 ```ord()```
 
 
-## Enter and Exit the Python Interactive Shell
-
-Enter the Python interactive shell
-
-```python
-$ python
-```
-
-You will know you are in the Python interactive shell when you see the Python prompt.
-
-```python
->>>
-```
-
-The default prompt of Python interactive shell when entering code for an indented code block
-
-```python
-...
-```
-
-Exit the Python interactive shell
-
-```python
->>> exit()
-```
-
-## Python Version and Run a Program
-
-Import a module
-
-```python
->>> import <module>
-```
-
-Python version
-
-```python
->>> import sys
->>> print(sys.version)
-```
-
-<!--
-https://docs.python.org/3/library/sys.html#sys.version
--->
-
-Run program
-
-```bash
-$ python program.py
-```
-
-Alternatively
-
-```bash
-$ python directory/program.py
-```
-
-## Help
-
-<!--
-https://docs.python.org/3/library/functions.html#help
--->
-
-Enter the Python help utility
-
-```python
->>> help()
-```
-
-Obtain help for a specific object
-
-```python
->>> help(object)
-```
-
-Exit the Python help utility
-
-```python
->>> q
-```
-
 ## Python and Django Style
-
-### Python- General
-
-The Zen of Python by Tim Peters
-* [The Zen of Python by Tim Peters](https://www.python.org/dev/peps/pep-0020)
-
-The Zen of Python, by Tim Peters
-
-```bash
->>> import this
-```
-
-Simple is Better than Complex
-* if two solutions work, but one is simple, choose the simple one
-
-Comment- One Line
-
-```python
-# Comment
-```
-
-Alternatively
-
-```python
-print('Hello world!') # Comment
-```
-
-Pound sign will print within string
-
-```python
-print('#1')
-```
-
-Docstring- (multi-line, dumb quotes versus smart quotes)
-
-```python
-"""Write docstrings for ALL public classes, functions and methods.
-First line of a docstring is short and next to the quotes.
-Closing quotes are on their own line
-"""
-```
   
 ## Hacks for Understanding Code
 
@@ -2623,45 +2219,9 @@ String escape
 \n\n (two lines)
 ```
 
-## General Style Rules
 
-* Readability counts
-* Use four spaces per indentation level.
-* Keep your lines to 79 characters or fewer.
-* Use single blank lines to group parts of your program visually.
 
-## Statements Versus Expressions
 
-* Simple statement, expression statement, assignment statement
-* A statement is executed
-* An expression is evaluated
-* An assignment statement assigns a value to a variable
-
-### Assignment Statement
-
-Variable
-
-```python
->>> <variable> = x
->>> <variable>
-x
-```
-
-### Variables and Strings
-
-Hello World
-
-```python
->>> print('Hello World')
-```
-
-Hello World stored in variable
-
-```python
->>> greeting = 'Hello World'
->>> print(greeting)
-Hello World
-```
 
 ### Three Types of Assignment
 
@@ -2670,22 +2230,6 @@ Hello World
 >>> another_string = my_string               # right hand side is another variable
 >>> another_string = another_string + '!'    # right hand side is an operation
 ```
-
-## Print and Return Statements
-
-Parentheses are not needed in Python 2. Print is a function in Python 3, which is why parentheses are needed.
-
-```print()``` 
-
-Store data in a variable, then print it
-
-```python
-variable = <variable>
-
-print(variable)
-``` 
-  
-```return()```
 
 ## Modules
 
@@ -2748,213 +2292,6 @@ function()
 ```
 
 
-## Operators and Delimiters
-
-2.5. Operators
-https://docs.python.org/3/reference/lexical_analysis.html#operators
-2.6. Delimiters
-https://docs.python.org/3/reference/lexical_analysis.html#delimiters
-
-## Evaluation order/Operator precedence
-
-6.15. Evaluation order
-https://docs.python.org/3/reference/expressions.html#evaluation-order
-6.16. Operator precedence
-https://docs.python.org/3/reference/expressions.html#operator-precedence
-
-6.1. Arithmetic conversions
-https://docs.python.org/3/reference/expressions.html#arithmetic-conversions
-
-<!--
-## Operators in Order of Operation
--->
-
-### PEDMAS
-
-* Generally speaking Python follows PEDMAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction)
-
-### Parenthesis
-
-```()```
-
-### Exponentiation
-
-```**```
-
-6.5. The power operator
-https://docs.python.org/3/reference/expressions.html#the-power-operator
-
-### Unary Operators: Plus, Minus, Invert (interact with a single variable or expression)
-
-```+ - ~```
-
-6.6. Unary arithmetic and bitwise operations
-https://docs.python.org/3/reference/expressions.html#unary-arithmetic-and-bitwise-operations
-
-### Multiplication, Floating Point Division, Floor Division, Modulo/Modulus/Remainder 
-
-```* / // %```
-
-Python 2 and 3- different behavior when mixing division by integers and floats
-
-https://docs.python.org/3/reference/lexical_analysis.html#floating-point-literals
-https://docs.python.org/3/tutorial/floatingpoint.html#floating-point-arithmetic-issues-and-limitations
-
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
-
-15. Floating Point Arithmetic: Issues and Limitations
-https://docs.python.org/3/tutorial/floatingpoint.html
-15.1. Representation Error
-https://docs.python.org/3/tutorial/floatingpoint.html#representation-error
-
-### Addition and Subtraction
-
-```+ -```
-
-### Bitwise
-
-* Right and left bitwise shift (>> <<)
-* Bitwise AND (&)
-* Bitwise exclusive OR and standard OR (^|)
-
-6.7. Binary arithmetic operations
-https://docs.python.org/3/reference/expressions.html#binary-arithmetic-operations
-6.8. Shifting operations
-https://docs.python.org/3/reference/expressions.html#shifting-operations
-6.9. Binary bitwise operations
-https://docs.python.org/3/reference/expressions.html#binary-bitwise-operations
-
-https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types
-https://docs.python.org/3/library/stdtypes.html#bytes-and-bytearray-operations
-
-### Comparison Operators: Greater Than, Greater Than or Equal, Less Than, Less Than or Equal
-
-```> >= < <=```
-
-### Equality Operators: Equivalent, Not equivalent
-
-```== !=```
-
-### Assignment Operators
-
-Assignment 
-
-```=```
-
-Addition, Subtraction
-
-```+= -=```
-
-Multiplication, Floating Point Division, Floor Division, Modulo/Remainder
-
-```*= /= //= %=```
-
-Exponentiation
-
-```**=```
-
-7.2. Assignment statements	
-https://docs.python.org/3/reference/simple_stmts.html#assignment-statements
-
-https://docs.python.org/3/reference/simple_stmts.html#augmented-assignment-statements
-https://docs.python.org/3/reference/simple_stmts.html#annotated-assignment-statements
-
-### Identity Operators (```is```/```is not```)
-
-### Membership Operators
-
-```
-in
-not in
-```
-
-(built-in sequences, set types, and dictionaries)
-
-https://docs.python.org/3/reference/expressions.html#membership-test-operations
-https://docs.python.org/3/reference/expressions.html#in
-https://docs.python.org/3/reference/expressions.html#not-in
-
-## Negation (Null Object, ```None```, ```NotImplemented```)
-
-### Logical Operators
-
-```
-and
-or
-not
-```
-
-## Boolean Values (See also: Logical Operators)
-
-```python
-True
-False
-```
-
-Assigning Boolean Values ("boolean values are often used to keep track of certain conditions within a program")
-
-```python
-true_value = True
-false_value = False
-```
-
-6.11. Boolean operations
-https://docs.python.org/3/reference/expressions.html#boolean-operations
-
-https://docs.python.org/3/library/stdtypes.html#boolean-values
-
-4.2. Boolean Operations — and, or, not
-https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not
-
-## Conditions, Comparisons
-
-5.7. More on Conditions
-https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions
-
-"Chapter Objects, values and types states that objects have a value (in addition to type and identity)."
-https://docs.python.org/3/reference/expressions.html#value-comparisons
-
-6.10. Comparisons
-https://docs.python.org/3/reference/expressions.html#comparisons
-
-4.3. Comparisons
-https://docs.python.org/3/library/stdtypes.html#comparisons
-
-4.1. Truth Value Testing
-https://docs.python.org/3/library/stdtypes.html#truth-value-testing
-
-“ternary operator” have the lowest priority of all Python operations
-6.12. Conditional expressions
-https://docs.python.org/3/reference/expressions.html#conditional-expressions
-
-5.8. Comparing Sequences and Other Types
-https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
-
-## Mapping Operators to Functions
-
-Mapping Operators to Functions
-
-"For backward compatibility, many of these have a variant with the double underscores kept."
-https://docs.python.org/3/library/operator.html
-https://docs.python.org/3/library/operator.html#module-operator
-https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
-https://docs.python.org/3/library/operator.html#inplace-operators
-
-## Built-In Functions- Numbers
-
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
-
-Return x to the power y; if z is present, return x to the power y, modulo z
-
-```pow()```
-
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
-
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
 
 
 ## Utilities
