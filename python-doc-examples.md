@@ -1022,6 +1022,358 @@ Conditional test
 
 https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
 
+## Sequences
+
+Sequence Types — list, tuple, range, string
+
+Sequence Types — list, tuple, range, string
+https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/library/stdtypes.html#string-methods
+
+immutable
+https://docs.python.org/3/library/stdtypes.html#immutable-sequence-types
+mutable
+https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types
+
+mutable and immutable
+https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
+
+https://docs.python.org/3/reference/expressions.html#subscriptions
+
+Range
+https://docs.python.org/3/reference/expressions.html#slicings
+
+List, dictionaries, etc. 
+https://docs.python.org/3/tutorial/datastructures.html#the-del-statement
+https://docs.python.org/3/reference/simple_stmts.html#the-del-statement
+
+Not common
+https://docs.python.org/3/library/stdtypes.html#binaryseq
+
+## Iterators
+
+Difference between Sequences, Iterators, Iterables
+https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-and-iteration
+
+Iterators
+https://www.python.org/dev/peps/pep-0234/
+
+string, list, tuple dict, set, or other iterator
+
+4.5. Iterator Types
+https://docs.python.org/3/library/stdtypes.html#iterator-types
+
+5.6. Looping Techniques
+https://docs.python.org/3/tutorial/datastructures.html#looping-techniques
+
+## Built-In Functions- Data Sequence/Iterator
+
+Return an iterator object. 
+
+```iter()```
+
+https://docs.python.org/3/library/functions.html#iter
+
+Retrieve the next item from the iterator by calling its __next__() method. 
+
+```next()```
+
+Construct an iterator from those elements of iterable for which function returns true. 
+
+```filter()```
+
+Return True if all elements of the iterable are true (or if the iterable is empty). 
+
+```all()```	
+
+Return True if any element of the iterable is true. If the iterable is empty, return False. 
+
+```any()```
+
+Return a reverse iterator. 
+
+```reversed()```
+
+Return a new sorted list from the items in iterable.
+
+```sorted()```
+
+https://docs.python.org/3/library/functions.html#reversed
+https://docs.python.org/3/library/functions.html#sorted
+
+## Built-In Looping Functions- Data Sequence/Iterator
+
+Return an enumerate object. iterable must be a sequence, an iterator, or some other object which supports iteration. 
+
+```enumerate()```
+
+https://docs.python.org/3/library/functions.html#enumerate
+
+8.13. enum — Support for enumerations
+https://docs.python.org/3/library/enum.html
+https://docs.python.org/3/library/enum.html#module-contents
+https://docs.python.org/3/library/enum.html#creating-an-enum
+https://docs.python.org/3/library/enum.html#programmatic-access-to-enumeration-members-and-their-attributes
+https://docs.python.org/3/library/enum.html#duplicating-enum-members-and-values
+https://docs.python.org/3/library/enum.html#ensuring-unique-enumeration-values
+https://docs.python.org/3/library/enum.html#using-automatic-values
+https://docs.python.org/3/library/enum.html#iteration
+https://docs.python.org/3/library/enum.html#comparisons
+https://docs.python.org/3/library/enum.html#allowed-members-and-attributes-of-enumerations
+https://docs.python.org/3/library/enum.html#restricted-subclassing-of-enumerations
+https://docs.python.org/3/library/enum.html#pickling
+https://docs.python.org/3/library/enum.html#functional-api
+https://docs.python.org/3/library/enum.html#derived-enumerations
+https://docs.python.org/3/library/enum.html#intenum
+https://docs.python.org/3/library/enum.html#intflag
+https://docs.python.org/3/library/enum.html#flag
+https://docs.python.org/3/library/enum.html#others
+https://docs.python.org/3/library/enum.html#interesting-examples
+https://docs.python.org/3/library/enum.html#omitting-values
+https://docs.python.org/3/library/enum.html#orderedenum
+https://docs.python.org/3/library/enum.html#duplicatefreeenum
+https://docs.python.org/3/library/enum.html#planet
+https://docs.python.org/3/library/enum.html#timeperiod
+https://docs.python.org/3/library/enum.html#how-are-enums-different
+https://docs.python.org/3/library/enum.html#enum-classes
+https://docs.python.org/3/library/enum.html#enum-members-aka-instances
+https://docs.python.org/3/library/enum.html#finer-points
+
+Make an iterator that aggregates elements from each of the iterables. Returns an iterator of tuples
+
+```zip()```
+
+https://docs.python.org/3/library/functions.html#zip
+
+## for Statements
+
+What it does
+* iterates over the items of any sequence in the order in which they appear in the sequence
+* when all iteration has been completed, the else statement, if present, is executed
+
+https://docs.python.org/3/tutorial/controlflow.html#for-statements
+https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
+
+## break and continue Statements (for or while Loops), and else Clauses on Loops
+
+4.4. break and continue Statements, and else Clauses on Loops
+https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+
+"The break statement breaks out of the innermost enclosing for or while loop."
+
+7.9. The break statement
+https://docs.python.org/3/reference/simple_stmts.html#the-break-statement
+
+"The continue statement continues with the next iteration of the (for or while) loop."
+
+7.10. The continue statement
+https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
+
+## pass Statement
+
+## range() Function (for Statement for Numbers)
+
+What it does
+* iterates over a sequence of numbers
+
+How
+* starts at 0 by default
+* stops one number below the number passed to it
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+https://docs.python.org/3/library/stdtypes.html#ranges
+
+4.3. The range() Function
+https://docs.python.org/3/tutorial/controlflow.html#the-range-function
+
+## Built-In Functions- Range
+
+Return a slice object representing the set of indices specified by range(start, stop, step). See itertools.islice() for an alternate version that returns an iterator.
+
+```slice()```
+
+https://docs.python.org/3.7/library/itertools.html#itertools.islice
+
+## for Statement Alternatives
+
+* list comprehension
+* map function
+* generator expressions
+
+## List Comprehensions (range function)
+
+What it does
+* a more efficient way to do a for loop
+
+Two Types of Listed Comprehensions
+* List Comprehensions
+* Nested List Comprehensions
+
+5.1.3. List Comprehensions
+https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
+
+## Nested List Comprehensions
+
+matrix?
+5.1.4. Nested List Comprehensions
+https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions
+
+## Built-In Function- ```map()```
+
+Return an iterator that applies function to every item of iterable, yielding the results. see itertools.starmap().
+
+```map()```
+
+https://docs.python.org/3/library/functions.html#map
+https://docs.python.org/3/library/itertools.html#itertools.starmap
+
+## Generators
+
+https://docs.python.org/3/glossary.html#term-generator
+
+Types
+https://docs.python.org/3/library/stdtypes.html#iterator-types
+https://docs.python.org/3/library/stdtypes.html#generator-types
+
+Classes
+9.8. Iterators
+https://docs.python.org/3/tutorial/classes.html#iterators
+9.9. Generators
+https://docs.python.org/3/tutorial/classes.html#generators
+9.10. Generator Expressions
+https://docs.python.org/3/tutorial/classes.html#generator-expressions
+
+## Generator Expression
+
+https://docs.python.org/3/glossary.html#term-generator-expression
+
+https://docs.python.org/3/reference/expressions.html#generator-expressions
+
+## Asynchronous Generator
+
+https://docs.python.org/3/reference/expressions.html#asynchronous-generator-functions
+https://docs.python.org/3/reference/expressions.html#asynchronous-generator-iterator-methods
+
+## Generator Iterator
+
+https://docs.python.org/3/glossary.html#term-generator-iterator
+https://docs.python.org/3/reference/expressions.html#generator-iterator-methods
+https://docs.python.org/3/reference/expressions.html#examples
+
+## yield Statements (used with a generator function or asynchronous generator function)
+
+https://docs.python.org/3/reference/expressions.html#yield-expressions
+
+7.7. The yield statement
+https://docs.python.org/3/reference/simple_stmts.html#the-yield-statement
+
+## Coroutines
+
+async/await
+Similar to generator iterator
+
+https://docs.python.org/3/reference/datamodel.html#coroutines
+https://docs.python.org/3/reference/compound_stmts.html#coroutines
+
+https://docs.python.org/3/reference/expressions.html#await-expression
+
+https://docs.python.org/3/reference/compound_stmts.html#coroutine-function-definition
+https://docs.python.org/3/reference/compound_stmts.html#the-async-for-statement
+https://docs.python.org/3/reference/compound_stmts.html#the-async-with-statement
+
+Data Model
+https://docs.python.org/3/reference/datamodel.html#awaitable-objects
+https://docs.python.org/3/reference/datamodel.html#coroutine-objects
+https://docs.python.org/3/reference/datamodel.html#asynchronous-iterators
+https://docs.python.org/3/reference/datamodel.html#asynchronous-context-managers
+
+## Built-In Looping Functions- Dictionary
+
+dictionary views
+"The objects returned by dict.keys(), dict.values() and dict.items() are view objects. They provide a dynamic view on the dictionary’s entries, which means that when the dictionary changes, the view reflects these changes."
+https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects
+
+Dictionaries
+
+```items()```
+
+https://docs.python.org/3/library/stdtypes.html#dict.items
+
+More dictionary helpers
+* try statement
+* get method
+* dict.setdefault
+* collections.defaultdict
+
+Dictionary alternatives
+https://docs.python.org/3/reference/compound_stmts.html#try
+https://wiki.python.org/moin/KeyError
+
+https://docs.python.org/3/library/stdtypes.html#dict.get
+
+https://docs.python.org/3/library/stdtypes.html#dict.setdefault
+https://docs.python.org/3/library/collections.html#collections.defaultdict
+
+## Lambda Expressions
+
+4.7.5. Lambda Expressions
+https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions
+6.13. Lambdas
+https://docs.python.org/3/reference/expressions.html#lambda
+
+## with Statements
+
+8.5. The with statement
+https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
+
+https://docs.python.org/3/reference/compound_stmts.html#with
+
+4.11. Context Manager Types
+https://docs.python.org/3/library/stdtypes.html#context-manager-types
+
+https://docs.python.org/3/reference/datamodel.html#context-managers
+
+30.7. contextlib — Utilities for with-statement contexts
+
+https://docs.python.org/3/library/contextlib.html
+https://docs.python.org/3/library/contextlib.html#utilities
+https://docs.python.org/3/library/contextlib.html#examples-and-recipes
+https://docs.python.org/3/library/contextlib.html#supporting-a-variable-number-of-context-managers
+https://docs.python.org/3/library/contextlib.html#catching-exceptions-from-enter-methods
+https://docs.python.org/3/library/contextlib.html#cleaning-up-in-an-enter-implementation
+https://docs.python.org/3/library/contextlib.html#replacing-any-use-of-try-finally-and-flag-variables
+https://docs.python.org/3/library/contextlib.html#using-a-context-manager-as-a-function-decorator
+https://docs.python.org/3/library/contextlib.html#single-use-reusable-and-reentrant-context-managers
+https://docs.python.org/3/library/contextlib.html#reentrant-context-managers
+https://docs.python.org/3/library/contextlib.html#reusable-context-managers
+
+## Functional Programming: itertools, functools, and operator
+
+"The functions fall into categories that perform object comparisons, logical operations, mathematical operations and sequence operations."
+
+Functional programming modules
+* itertools
+* functools
+* operator
+
+10. Functional Programming Modules
+10.1. itertools — Functions creating iterators for efficient looping
+10.2. functools — Higher-order functions and operations on callable objects
+10.3. operator — Standard operators as functions
+
+https://docs.python.org/3/library/functional.html
+
+https://docs.python.org/3/library/itertools.html
+https://docs.python.org/3/library/itertools.html#itertool-functions
+https://docs.python.org/3/library/itertools.html#itertools-recipes
+
+https://docs.python.org/3/library/itertools.html#itertools.chain
+
+https://docs.python.org/3/library/functools.html
+https://docs.python.org/3/library/functools.html#partial-objects
+
 ## Object-Oriented Programming
 
 ### Built-In Object Methods
