@@ -73,7 +73,6 @@ https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-librar
 11. Brief Tour of the Standard Library — Part II
 https://docs.python.org/3/tutorial/stdlib2.html
 
-
 10. Brief Tour of the Standard Library
 https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
 10.1. Operating System Interface
@@ -165,6 +164,8 @@ https://docs.python.org/3/library/heapq.html#module-heapq
 11.8. Decimal Floating Point Arithmetic
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
+
+
 ## Interpreter
 
 2. Using the Python Interpreter
@@ -202,25 +203,6 @@ https://docs.python.org/3/library/code.html#interactive-interpreter-objects
 https://docs.python.org/3/library/code.html#interactive-console-objects
 https://docs.python.org/3/library/codeop.html#module-codeop
 
-## virtualenv
-
-12. Virtual Environments and Packages
-12.1. Introduction
-12.2. Creating Virtual Environments
-12.3. Managing Packages with pip
-
-29.3. venv — Creation of virtual environments
-
-https://docs.python.org/3/library/venv.html
-
-https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages
-https://docs.python.org/3/tutorial/venv.html#introduction
-https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
-https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
-
-https://docs.python.org/3/library/venv.html#api
-https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
-
 
 ## Grammar
 
@@ -252,16 +234,6 @@ https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_
 30.11. __future__ — Future statement definitions
 https://docs.python.org/3/library/__future__.html
 https://docs.python.org/3/reference/simple_stmts.html#future-statements
-
-Deprecated
-Automated Python 2 to 3 code translation
-https://docs.python.org/3/library/2to3.html
-https://docs.python.org/3/library/2to3.html#using-2to3
-https://docs.python.org/3/library/2to3.html#fixers
-https://docs.python.org/3/library/2to3.html#module-lib2to3
-
-30.12. gc — Garbage Collector interface
-https://docs.python.org/3/library/gc.html
 
 https://docs.python.org/3/reference/executionmodel.html
 https://docs.python.org/3/library/functions.html#eval
@@ -313,73 +285,46 @@ https://docs.python.org/3/library/resource.html
 https://docs.python.org/3/library/resource.html#resource-limits
 https://docs.python.org/3/library/resource.html#resource-usage
 
+
+
+
+## Internals
+
+30.12. gc — Garbage Collector interface
+https://docs.python.org/3/library/gc.html
+
 33.12. dis — Disassembler for Python bytecode
 https://docs.python.org/3/library/dis.html
-https://docs.python.org/3/library/dis.html#opcode-collections
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions
-https://docs.python.org/3/library/dis.html#bytecode-analysis
-https://docs.python.org/3/library/dis.html#analysis-functions
-
-
 
 30.13. inspect — Inspect live objects
 https://docs.python.org/3/library/inspect.html
-https://docs.python.org/3/library/inspect.html#types-and-members
-https://docs.python.org/3/library/inspect.html#retrieving-source-code
-https://docs.python.org/3/library/inspect.html#introspecting-callables-with-the-signature-object
-https://docs.python.org/3/library/inspect.html#classes-and-functions
-https://docs.python.org/3/library/inspect.html#the-interpreter-stack
-https://docs.python.org/3/library/inspect.html#fetching-attributes-statically
-https://docs.python.org/3/library/inspect.html#current-state-of-generators-and-coroutines
-https://docs.python.org/3/library/inspect.html#code-objects-bit-flags
-https://docs.python.org/3/library/inspect.html#command-line-interface
 
 Where is this?
 https://docs.python.org/3/library/inspect.html#inspect.getmro
 
 33. Python Language Services
 33.1. parser — Access Python parse trees
-33.2. ast — Abstract Syntax Trees
-33.3. symtable — Access to the compiler’s symbol tables
-33.4. symbol — Constants used with Python parse trees
-33.5. token — Constants used with Python parse trees
-33.6. keyword — Testing for Python keywords
-33.7. tokenize — Tokenizer for Python source
-33.8. tabnanny — Detection of ambiguous indentation
-33.9. pyclbr — Python class browser support
-33.10. py_compile — Compile Python source files
-33.11. compileall — Byte-compile Python libraries
-
 https://docs.python.org/3/library/parser.html
-https://docs.python.org/3/library/parser.html#creating-st-objects
-https://docs.python.org/3/library/parser.html#converting-st-objects
-https://docs.python.org/3/library/parser.html#queries-on-st-objects
-https://docs.python.org/3/library/parser.html#exceptions-and-error-handling
-https://docs.python.org/3/library/parser.html#st-objects
-https://docs.python.org/3/library/parser.html#example-emulation-of-compile
+33.2. ast — Abstract Syntax Trees
 https://docs.python.org/3/library/ast.html
-https://docs.python.org/3/library/ast.html#node-classes
-https://docs.python.org/3/library/ast.html#abstract-grammar
-https://docs.python.org/3/library/ast.html#ast-helpers
-
+33.3. symtable — Access to the compiler’s symbol tables
 https://docs.python.org/3/library/symtable.html
-https://docs.python.org/3/library/symtable.html#generating-symbol-tables
-
-https://docs.python.org/3/library/symbol.html#module-symbol
+33.4. symbol — Constants used with Python parse trees
+https://docs.python.org/3/library/symbol.html
+33.5. token — Constants used with Python parse trees
 https://docs.python.org/3/library/token.html
+33.6. keyword — Testing for Python keywords
 https://docs.python.org/3/library/keyword.html
+33.7. tokenize — Tokenizer for Python source
 https://docs.python.org/3/library/tokenize.html
-https://docs.python.org/3/library/tokenize.html#tokenizing-input
-https://docs.python.org/3/library/tokenize.html#command-line-usage
-https://docs.python.org/3/library/tokenize.html#examples
+33.8. tabnanny — Detection of ambiguous indentation
 https://docs.python.org/3/library/tabnanny.html
+33.9. pyclbr — Python class browser support
 https://docs.python.org/3/library/pyclbr.html
-https://docs.python.org/3/library/pyclbr.html#function-objects
-https://docs.python.org/3/library/pyclbr.html#class-objects
+33.10. py_compile — Compile Python source files
 https://docs.python.org/3/library/py_compile.html
+33.11. compileall — Byte-compile Python libraries
 https://docs.python.org/3/library/compileall.html
-https://docs.python.org/3/library/compileall.html#command-line-use
-https://docs.python.org/3/library/compileall.html#public-functions
 
 ## Python and Django Testing
 
@@ -510,6 +455,7 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-wi
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
+Internal Use
 https://docs.python.org/3/library/test.html
 https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
 https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
@@ -590,8 +536,9 @@ https://docs.python.org/3/library/tracemalloc.html#traceback
 
 ## Exceptions, Errors, Warnings
 
+Repeat
 16.1.1. Error Handling
-https://docs.python.org/3.4/tutorial/appendix.html#error-handling
+https://docs.python.org/3/tutorial/appendix.html#error-handling
 
 8. Errors and Exceptions
 8.1. Syntax Errors
@@ -867,6 +814,80 @@ https://docs.python.org/3/library/logging.handlers.html#httphandler
 https://docs.python.org/3/library/logging.handlers.html#queuehandler
 https://docs.python.org/3/library/logging.handlers.html#queuelistener
 
+
+## Internals- Detailed
+
+33.12. dis — Disassembler for Python bytecode
+https://docs.python.org/3/library/dis.html#opcode-collections
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions
+https://docs.python.org/3/library/dis.html#bytecode-analysis
+https://docs.python.org/3/library/dis.html#analysis-functions
+
+30.13. inspect — Inspect live objects
+https://docs.python.org/3/library/inspect.html#types-and-members
+https://docs.python.org/3/library/inspect.html#retrieving-source-code
+https://docs.python.org/3/library/inspect.html#introspecting-callables-with-the-signature-object
+https://docs.python.org/3/library/inspect.html#classes-and-functions
+https://docs.python.org/3/library/inspect.html#the-interpreter-stack
+https://docs.python.org/3/library/inspect.html#fetching-attributes-statically
+https://docs.python.org/3/library/inspect.html#current-state-of-generators-and-coroutines
+https://docs.python.org/3/library/inspect.html#code-objects-bit-flags
+https://docs.python.org/3/library/inspect.html#command-line-interface
+
+https://docs.python.org/3/library/parser.html#creating-st-objects
+https://docs.python.org/3/library/parser.html#converting-st-objects
+https://docs.python.org/3/library/parser.html#queries-on-st-objects
+https://docs.python.org/3/library/parser.html#exceptions-and-error-handling
+https://docs.python.org/3/library/parser.html#st-objects
+https://docs.python.org/3/library/parser.html#example-emulation-of-compile
+
+https://docs.python.org/3/library/ast.html#node-classes
+https://docs.python.org/3/library/ast.html#abstract-grammar
+https://docs.python.org/3/library/ast.html#ast-helpers
+
+https://docs.python.org/3/library/symtable.html#generating-symbol-tables
+
+https://docs.python.org/3/library/symbol.html#module-symbol
+
+https://docs.python.org/3/library/tokenize.html#tokenizing-input
+https://docs.python.org/3/library/tokenize.html#command-line-usage
+https://docs.python.org/3/library/tokenize.html#examples
+https://docs.python.org/3/library/pyclbr.html#function-objects
+https://docs.python.org/3/library/pyclbr.html#class-objects
+https://docs.python.org/3/library/compileall.html#command-line-use
+https://docs.python.org/3/library/compileall.html#public-functions
+
+## virtualenv
+
+12. Virtual Environments and Packages
+12.1. Introduction
+12.2. Creating Virtual Environments
+12.3. Managing Packages with pip
+
+29.3. venv — Creation of virtual environments
+
+https://docs.python.org/3/library/venv.html
+
+https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages
+https://docs.python.org/3/tutorial/venv.html#introduction
+https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
+https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
+
+https://docs.python.org/3/library/venv.html#api
+https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
+
+## 2 to 3- Deprecated
+
+Automated Python 2 to 3 code translation
+https://docs.python.org/3/library/2to3.html
+https://docs.python.org/3/library/2to3.html#using-2to3
+https://docs.python.org/3/library/2to3.html#fixers
+https://docs.python.org/3/library/2to3.html#module-lib2to3
+
+
+
+
+
 ## Packages and Importing
 
 29.4. __main__ — Top-level script environment
@@ -977,6 +998,7 @@ https://docs.python.org/3/reference/toplevel_components.html#expression-input
 https://docs.python.org/3/library/zipimport.html
 https://docs.python.org/3/library/zipimport.html#zipimporter-objects
 https://docs.python.org/3/library/zipimport.html#examples
+
 https://docs.python.org/3/library/pkgutil.html
 https://docs.python.org/3/library/modulefinder.html
 https://docs.python.org/3/library/modulefinder.html#example-usage-of-modulefinder
