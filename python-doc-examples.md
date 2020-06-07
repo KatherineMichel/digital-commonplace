@@ -171,6 +171,17 @@ The Zen of Python, by Tim Peters
 Simple is Better than Complex
 * if two solutions work, but one is simple, choose the simple one
 
+## Python and Django Style
+
+### General Style Rules
+
+* Readability counts
+* Use four spaces per indentation level.
+* Keep your lines to 79 characters or fewer.
+* Use single blank lines to group parts of your program visually.
+
+### Comments
+
 Comment- One Line
 
 ```python
@@ -197,8 +208,6 @@ First line of a docstring is short and next to the quotes.
 Closing quotes are on their own line
 """
 ```
-
-## Python and Django Style
 
 ### Common Naming Conventions
 
@@ -238,6 +247,23 @@ MACRO_CASE
 CONSTANT_NAME
 ```
 
+### Statements Versus Expressions
+
+* Simple statement, expression statement, assignment statement
+* A statement is executed
+* An expression is evaluated
+* An assignment statement assigns a value to a variable
+
+### Assignment Statement
+
+Variable
+
+```python
+>>> <variable> = x
+>>> <variable>
+x
+```
+
 ## Variables and Strings
 
 Hello World
@@ -269,6 +295,9 @@ print(variable)
 ``` 
   
 ```return()```
+
+7.6. The return statement
+https://docs.python.org/3/reference/simple_stmts.html#the-return-statement
 
 ## Operators and Delimiters
 
@@ -453,16 +482,6 @@ https://docs.python.org/3/reference/expressions.html#conditional-expressions
 5.8. Comparing Sequences and Other Types
 https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
 
-## Mapping Operators to Functions
-
-Mapping Operators to Functions
-
-"For backward compatibility, many of these have a variant with the double underscores kept."
-https://docs.python.org/3/library/operator.html
-https://docs.python.org/3/library/operator.html#module-operator
-https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
-https://docs.python.org/3/library/operator.html#inplace-operators
-
 ## Built-In Functions- Numbers
 
 Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
@@ -477,3 +496,188 @@ Return number rounded to ndigits precision after the decimal point.
 
 Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
 ```abs()```
+
+## Python Code Block Examples
+
+Python structuring
+* colons
+* indentation (a.k.a. nesting)
+
+## Colons
+
+Python structures that end blocks with a colon (:)
+* function statement
+* class statement
+* if-elif-else statement (branching)
+* for-else statement (loop)
+* while-else statement (loop)
+* with statement
+* try-except-else statement
+
+Python structures that don't end blocks with a colon (:)
+* range/list comprehension functions
+
+Compound or complex statements
+
+```python
+header: 
+   suite
+header:
+   suite 
+header:
+   suite
+```
+
+## Class or Function Syntax
+
+Define a function or class
+
+```python
+def function():
+class Class:
+```
+
+Function statement
+
+```python
+def function():
+    """Description"""
+    action
+
+function()
+```
+
+Class statement
+
+```python
+class Class:
+    """Description"""
+    def __init__(self, attribute):
+        self.attribute = attribute
+ 
+    def method(self):
+        action
+```
+
+## Exceptions
+
+Two kinds of errors
+* syntax errors
+* logical errors
+
+Traceback
+* 1: file name, line number, module (if applicable)
+* 2: line, ^ (caret) where the error is
+* 3: type of error and description
+     
+Example
+
+```python
+$ python program.py
+  File "program.py", line 3, in <module>
+print 'Hello world! ^
+SyntaxError: EOL while scanning string literal
+```
+
+try-except-else statement
+
+```python
+try:
+    something
+except Exception:
+    do something else
+else:
+    do something else
+```
+
+<!--
+8.4. The try statement
+https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
+https://docs.python.org/3/reference/compound_stmts.html#finally
+
+7.8. The raise statement
+https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement
+-->
+
+## pass Statements
+
+Nothing happens when the pass statement executes.
+
+null operation
+4.5. pass Statements
+https://docs.python.org/3/tutorial/controlflow.html#pass-statements
+7.4. The pass statement
+https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
+
+## Control Flow Statement Examples
+
+if-elif-else statement
+
+```python
+if condition true:
+    action
+elif condition true:
+    action
+else:
+    action
+```
+
+for-else statement
+
+```python
+for condition:
+    action
+else:
+    action
+```
+
+while-else statement
+
+```python
+while condition true:
+    action
+else:
+    action
+```
+
+with statement
+
+```python
+with condition:
+```
+
+with-else statement
+
+```python
+
+```
+
+## Python and Django Control Flow
+
+3 Types of Control structures
+* true or false branch evaluation (if statement)
+* repeating while a condition is True (while loop)
+* sequential processing (for loop)
+
+## if Statements
+
+Conditional test
+* evaluates statements one by one until one is found to be True (Boolean operation)
+* that statement is executed (no other part of if statement is executed or evaluated)
+* if all statements are False, else statement, if present, is executed
+
+Number of statements
+* can have as many elif statement as needed
+* else statement is always optional
+
+https://docs.python.org/3/tutorial/controlflow.html#if-statements
+https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
+
+## while Statements
+
+Conditional test
+* repeats a block of code while the condition is True (Boolean operation)
+* if the condition does not become False, the loop runs indefinitely as an infinite loop.
+* if the while statements becomes False, the else statement, if present, is executed
+
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
