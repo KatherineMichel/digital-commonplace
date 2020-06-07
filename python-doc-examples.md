@@ -247,7 +247,7 @@ MACRO_CASE
 CONSTANT_NAME
 ```
 
-### Statements Versus Expressions
+## Statements Versus Expressions
 
 * Simple statement, expression statement, assignment statement
 * A statement is executed
@@ -298,6 +298,29 @@ print(variable)
 
 7.6. The return statement
 https://docs.python.org/3/reference/simple_stmts.html#the-return-statement
+
+
+## Type, Identity, Hash Value
+
+With one argument, return the type of an object. 
+
+```type()```
+
+https://docs.python.org/3/library/functions.html#type
+
+Return the “identity” of an object. 
+
+```id()```
+
+https://docs.python.org/3/library/functions.html#id
+
+Return the hash value of the object (if it has one). Hash values are integers. 
+
+```hash()```
+
+https://docs.python.org/3/library/functions.html#hash
+https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
+
 
 ## Operators and Delimiters
 
@@ -413,6 +436,17 @@ https://docs.python.org/3/reference/simple_stmts.html#annotated-assignment-state
 
 ### Identity Operators (```is```/```is not```)
 
+True if same object/identify (id)
+
+```is``` 
+
+True if different object/identity (id)
+
+```is not```
+
+https://docs.python.org/3/reference/expressions.html#is
+https://docs.python.org/3/reference/expressions.html#is-not
+
 ### Membership Operators
 
 ```
@@ -426,8 +460,6 @@ https://docs.python.org/3/reference/expressions.html#membership-test-operations
 https://docs.python.org/3/reference/expressions.html#in
 https://docs.python.org/3/reference/expressions.html#not-in
 
-## Negation (Null Object, ```None```, ```NotImplemented```)
-
 ### Logical Operators
 
 ```
@@ -436,7 +468,7 @@ or
 not
 ```
 
-## Boolean Values (See also: Logical Operators)
+### Boolean Values (See also: Logical Operators)
 
 ```python
 True
@@ -482,20 +514,328 @@ https://docs.python.org/3/reference/expressions.html#conditional-expressions
 5.8. Comparing Sequences and Other Types
 https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
 
-## Built-In Functions- Numbers
+## Negation (Null Object, ```None```, ```NotImplemented```)
 
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
+https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
 
-Return x to the power y; if z is present, return x to the power y, modulo z
+https://docs.python.org/3/library/stdtypes.html#the-null-object
+https://docs.python.org/3/library/stdtypes.html#the-notimplemented-object
 
-```pow()```
+None
+https://docs.python.org/3/library/constants.html#None
 
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
+NotImplemented
 
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
+## Important Data Questions
+
+https://docs.python.org/3/reference/expressions.html#atoms
+https://docs.python.org/3/reference/expressions.html#atom-identifiers
+https://docs.python.org/3/reference/expressions.html#literals
+https://docs.python.org/3/reference/expressions.html#parenthesized-forms
+
+Dictionaries, lists, sets
+https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries
+https://docs.python.org/3/reference/expressions.html#list-displays
+https://docs.python.org/3/reference/expressions.html#set-displays
+https://docs.python.org/3/reference/expressions.html#dictionary-displays
+
+https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects
+
+Data Structures
+* Is order important?
+* Does your data need to shrink or grow?
+
+## Data Types
+
+Data Types
+* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
+
+https://docs.python.org/3/library/datatypes.html
+
+https://docs.python.org/3/reference/lexical_analysis.html#literals
+Escape sequence chart
+https://docs.python.org/3/reference/lexical_analysis.html#string-and-bytes-literals
+https://docs.python.org/3/reference/lexical_analysis.html#numeric-literals
+https://docs.python.org/3/reference/lexical_analysis.html#integer-literals
+https://docs.python.org/3/reference/lexical_analysis.html#imaginary-literals
+
+## Mutability
+
+* Mutable- individual item can be changed
+* Immutable- individual item cannot be changed
+* Sequence- 
+* Non-Sequence-
+* Iterable-
+
+After change
+* mutable data structure will have same id
+* immutable data structure will have new id
+
+## Data Types and Structures- Primitives 
+
+Methods
+https://docs.python.org/3/library/stdtypes.html#additional-methods-on-integer-types
+https://docs.python.org/3/library/stdtypes.html#additional-methods-on-float
+
+Primitive (a.k.a. atomic data types)
+* integer (numeric)
+* float (numeric)
+* string (sequence, "This is a string.", 'This is also a string.')
+* boolean
+* complex number (numeric)
+
+## Data Types and Structures- User Defined
+
+User Defined
+* list []
+* tuple () or (item,) (singleton)
+* range
+* set {}
+* dictionary {}
+
+## Data Types Categorized by Mutable or Immutable, Sequence or Non-Sequence
+
+<!--
+Sequence/looping
+lists: item
+strings: character
+-->
+
+Immutable Sequence Types- Common
+* string (text sequence type, primitive)
+
+Mutable Sequence Types- Common
+* list
+
+Mutable Non-Sequence Types
+* dictionary (built-in mapping/hash table)
+* set
+
+Set Types
+* set
+* frozenset (immutable and hashable)
+
+Immutable Sequence Types- Less Common
+* tuple
+
+Sequence Types
+* range (immutable)
+
+Other Data Structures
+* hashes
+
+## Linear and Non-Linear
+
+Linear Data Structures (left to right, top to bottom)
+* list, stack, queue, deque, array are examples
+
+List (Sequence) Linear and Non-Linear Implementations
+* Linear: stack and queue
+* Non-Linear: graph and tree
+
+<!--
+5.1.1. Using Lists as Stacks
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
+
+5.1.2. Using Lists as Queues
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
+-->
+
+## Data Types
+
+6.3. Primaries
+https://docs.python.org/3/reference/expressions.html#primaries
+
+4.4. Numeric Types — int, float, complex
+https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
+
+4.7. Text Sequence Type — str
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+
+## Binary
+
+Binary Sequence Types
+* bytes (immutable)
+* byte array/bytearray (mutable)
+* memoryview
+
+4.8. Binary Sequence Types — bytes, bytearray, memoryview
+https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview
+
+https://docs.python.org/3/library/stdtypes.html#bytes-objects
+https://docs.python.org/3/library/stdtypes.html#bytearray-objects
+https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
+https://docs.python.org/3/library/stdtypes.html#memory-views
+
+## Strings
+
+https://docs.python.org/3/tutorial/introduction.html#strings
+
+https://docs.python.org/3/library/stdtypes.html#str
+
+<!--
+operator overloading
+https://docs.python.org/3/glossary.html#term-coercion
+
+https://docs.python.org/3/reference/lexical_analysis.html#string-literal-concatenation
+-->
+
+## Lists
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+
+https://docs.python.org/3/library/stdtypes.html#lists
+
+3.1.3. Lists
+https://docs.python.org/3/tutorial/introduction.html#lists
+
+5.1. More on Lists
+https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+
+## Arrays
+
+array — Efficient arrays of numeric values
+https://docs.python.org/3/library/array.html
+
+bisect — Array bisection algorithm
+https://docs.python.org/3/library/bisect.html
+https://docs.python.org/3/library/bisect.html#searching-sorted-lists
+https://docs.python.org/3/library/bisect.html#other-examples
+
+## Tuples
+
+https://docs.python.org/3/library/stdtypes.html#tuples
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+
+Tuple
+https://docs.python.org/3/glossary.html#term-struct-sequence
+
+## Dictionaries
+
+https://docs.python.org/3/library/stdtypes.html#dict
+
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+
+https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
+
+https://docs.python.org/3/glossary.html#term-mapping
+https://docs.python.org/3/glossary.html#term-hashable
+
+## Sets
+
+"A set object is an unordered collection of distinct hashable objects"
+
+set, frozenset
+https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+https://docs.python.org/3/tutorial/datastructures.html#sets
+
+## Collections
+
+collections- mutability?
+
+8.3. collections — Container datatypes
+https://docs.python.org/3/library/collections.html
+
+"alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple."
+
+Container datatypes
+* namedtuple()
+* deque
+* ChainMap
+* Counter
+* OrderedDict (see example)
+* defaultdict
+* UserDict
+* UserList
+* UserString
+
+Abstract Base Classes for Containers
+* collections.abc
+
+https://docs.python.org/3/library/collections.html#collections.namedtuple	
+https://docs.python.org/3/library/collections.html#collections.OrderedDict	
+
+https://docs.python.org/3/library/collections.html#chainmap-objects
+https://docs.python.org/3/library/collections.html#chainmap-examples-and-recipes
+https://docs.python.org/3/library/collections.html#counter-objects
+https://docs.python.org/3/library/collections.html#deque-objects
+https://docs.python.org/3/library/collections.html#deque-recipes
+https://docs.python.org/3/library/collections.html#defaultdict-objects
+https://docs.python.org/3/library/collections.html#defaultdict-examples
+https://docs.python.org/3/library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields
+https://docs.python.org/3/library/collections.html#ordereddict-objects
+https://docs.python.org/3/library/collections.html#ordereddict-examples-and-recipes
+https://docs.python.org/3/library/collections.html#userdict-objects
+https://docs.python.org/3/library/collections.html#userlist-objects
+https://docs.python.org/3/library/collections.html#userstring-objects
+
+https://docs.python.org/3/glossary.html#term-abstract-base-class
+
+8.4. collections.abc — Abstract Base Classes for Containers
+https://docs.python.org/3/library/collections.abc.html
+https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
+
+29.7. abc — Abstract Base Classes
+https://docs.python.org/3/library/abc.html
+
+## Built-In Data Type and Data Structure Conversions (Casting)
+
+Return an integer object constructed from a number or string x, or return 0 if no arguments are given. 
+
+```int()```
+
+Return a floating point number constructed from a number or string x.
+
+```float()```
+
+Return a Boolean value, i.e. one of True or False. 
+
+```bool()```
+
+Return a complex number with the value real + imag*1j or convert a string or number to a complex number. 
+
+```complex()```	
+
+Return a str version of object. 
+
+```str()```
+    
+Rather than being a function, list is actually a mutable sequence type.
+
+```list()```
+
+Create a new dictionary. 
+
+```dict()```
+
+Rather than being a function, tuple is actually an immutable sequence type
+
+```tuple()```
+
+Rather than being a function, range is actually an immutable sequence type, 
+
+```range()```
+
+Return a new set object, optionally with elements taken from iterable. 
+
+```set()```
+
+Return a new frozenset object, optionally with elements taken from iterable. frozenset is a built-in class. 
+
+```frozenset()```
+
+Return a new “bytes” object, which is an immutable sequence of integers in the range 0 <= x < 256. 
+
+```bytes()```
+
+Return a new array of bytes. The bytearray class is a mutable sequence of integers in the range 0 <= x < 256. 
+
+```bytearray()```
+
+Return a “memory view” object created from the given argument. 
+
+```memoryview()```
 
 ## Python Code Block Examples
 
@@ -681,3 +1021,29 @@ Conditional test
 * if the while statements becomes False, the else statement, if present, is executed
 
 https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
+
+## Object-Oriented Programming
+
+### Built-In Object Methods
+
+Return a new featureless object. object is a base for all classes. It has the methods that are common to all instances of Python classes. 
+
+```object()```
+
+Return a proxy object that delegates method calls to a parent or sibling class of type. This is useful for accessing inherited methods that have been overridden in a class. 
+
+```super()```
+
+https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+
+### Class and Object `Is` Functions
+
+Return true if the object argument is an instance of the classinfo argument, or of a (direct, indirect or virtual) subclass thereof. 
+
+```isinstance()```
+
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+Return true if class is a subclass (direct, indirect or virtual) of classinfo. 
+
+```issubclass()```
