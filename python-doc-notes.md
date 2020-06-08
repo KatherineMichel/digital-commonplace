@@ -485,12 +485,6 @@ https://docs.python.org/3/library/py_compile.html
 33.11. compileall — Byte-compile Python libraries
 https://docs.python.org/3/library/compileall.html
 
-## Performance
-
-36.11. resource — Resource usage information
-https://docs.python.org/3/library/resource.html
-https://docs.python.org/3/library/resource.html#resource-limits
-https://docs.python.org/3/library/resource.html#resource-usage
 
 ## Python and Django Testing
 
@@ -627,6 +621,13 @@ https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-pack
 https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
 https://docs.python.org/3/library/test.html#module-test.support
 https://docs.python.org/3/library/test.html#module-test.support.script_helper
+
+## Performance
+
+36.11. resource — Resource usage information
+https://docs.python.org/3/library/resource.html
+https://docs.python.org/3/library/resource.html#resource-limits
+https://docs.python.org/3/library/resource.html#resource-usage
 
 ## Debugging and Profiling
 
@@ -1484,6 +1485,8 @@ https://docs.python.org/3/library/urllib.parse.html#parsing-ascii-encoded-bytes
 https://docs.python.org/3/library/urllib.parse.html#structured-parse-results
 https://docs.python.org/3/library/urllib.parse.html#url-quoting
 
+"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
+
 https://docs.python.org/3/library/urllib.error.html#module-urllib.error
 https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
 
@@ -1732,7 +1735,7 @@ https://docs.python.org/3/library/json.html#command-line-options
 https://docs.python.org/3/library/markup.html
 https://docs.python.org/3/library/html.html
 
-https://docs.python.org/3/library/html.parser.html#
+https://docs.python.org/3/library/html.parser.html
 https://docs.python.org/3/library/html.parser.html#example-html-parser-application
 https://docs.python.org/3/library/html.parser.html#htmlparser-methods
 https://docs.python.org/3/library/html.parser.html#examples
@@ -1942,123 +1945,6 @@ https://docs.python.org/3/library/types.html#dynamic-type-creation
 https://docs.python.org/3/library/types.html#standard-interpreter-types
 https://docs.python.org/3/library/types.html#additional-utility-classes-and-functions
 https://docs.python.org/3/library/types.html#coroutine-utility-functions
-
-
-## Sorting, Queues
-
-https://docs.python.org/3/howto/sorting.html
-
-Collections
-https://docs.python.org/3/library/collections.html#collections.deque
-
-8.5. heapq — Heap queue algorithm
-https://docs.python.org/3/library/heapq.html
-https://docs.python.org/3/library/heapq.html#basic-examples
-https://docs.python.org/3/library/heapq.html#theory
-
-https://en.wikipedia.org/wiki/Priority_queue
-https://docs.python.org/3/library/heapq.html#priority-queue-implementation-notes
-
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
 
 
 
