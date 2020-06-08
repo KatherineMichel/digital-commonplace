@@ -307,6 +307,14 @@ Variable
 x
 ```
 
+### Three Types of Assignment
+
+```python
+>>> my_string = 'Hello World'                # right hand side is a simple expression
+>>> another_string = my_string               # right hand side is another variable
+>>> another_string = another_string + '!'    # right hand side is an operation
+```
+
 ## Variables and Strings
 
 Hello World
@@ -363,6 +371,114 @@ Return the hash value of the object (if it has one). Hash values are integers.
 
 https://docs.python.org/3/library/functions.html#hash
 https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
+
+## Modules
+
+* Store functions in a seperate file (called a module)
+* Store module in same directory as your main program
+* Import the functions you need into the file containing your main program
+
+## UTF-8 and ASCII encodings
+
+For special language characters, put this at top of file to avoid ASCII encodings errors
+
+```python
+# -*- coding: utf-8 -*-
+```
+
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Unicode
+https://en.wikipedia.org/wiki/UTF-8
+
+## Import
+
+Import an entire module (every function in the module is available in the program file)
+
+```python
+import module
+
+module.function()
+```
+
+Selective import (only imported function is available in the program file)
+
+```python
+from module import function
+
+function()
+```
+
+Give a module an alias
+
+```python
+import module as alias
+
+alias.function()
+```
+
+Give a function an alias
+
+```python
+from module import function as alias
+
+alias()
+```
+
+Import all functions from a module (anti-pattern)
+
+```python
+from module import *
+
+function()
+```
+
+## Example Module File
+
+Attribution
+* [RichardBronosky PEP8 Cheatsheet](https://gist.github.com/RichardBronosky/454964087739a449da04)
+
+```python
+"""This module's multi-line docstring.
+Paragraphs are separated with blank lines.
+Lines conform to 79 character rule.
+1234567891011121314151617181920212223242526272829303132333435363738394041424344
+"""
+
+
+import standard_library  # STD lib imports first, alphabetical
+
+import third_party_library  # 3rd party library imports next, alphabetical
+
+import local_library  # local library imports last
+import library_one, library_two  # anti-pattern
+from library import *  # anti-pattern, including pyflake problem # noqa
+# Using # noqa in the line above avoids flake8 warnings about line length!
+
+
+# 2 empty lines between top-level functions + classes
+def new_function(): # snake_case
+    """Description"""
+    action
+    
+
+class NewClass(object): #CapWords
+    """Description"""
+
+    def __init__(self, attribute):
+        self.attribute = attribute
+
+    # 1 empty line between in-class definitions
+    def new_method(self): # snake_class, always use self as first argument
+        """Description"""
+        action
+
+    @classmethod
+    def new_class_method(cls):
+        """Description"""
+        action
+
+# Newline at end of file
+```
 
 
 ## Operators and Delimiters
