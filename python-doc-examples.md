@@ -191,13 +191,13 @@ Comment- One Line
 Alternatively
 
 ```python
-print('Hello world!') # Comment
+print("Hello world!") # Comment
 ```
 
 Pound sign will print within string
 
 ```python
-print('#1')
+print("#1")
 ```
 
 Docstring- (multi-line, dumb quotes versus smart quotes)
@@ -310,9 +310,9 @@ x
 ### Three Types of Assignment
 
 ```python
->>> my_string = 'Hello World'                # right hand side is a simple expression
+>>> my_string = "Hello World"                # right hand side is a simple expression
 >>> another_string = my_string               # right hand side is another variable
->>> another_string = another_string + '!'    # right hand side is an operation
+>>> another_string = another_string + "!"    # right hand side is an operation
 ```
 
 ## Variables and Strings
@@ -480,6 +480,30 @@ class NewClass(object): #CapWords
 # Newline at end of file
 ```
 
+## Arguments and Parameters
+
+Difference between kwargs and zip
+
+Information passed to a function is called an argument
+information received by a function is called a parameter.
+
+Interpreter
+2.1.1. Argument Passing
+https://docs.python.org/3/tutorial/interpreter.html#argument-passing
+sys.argv[0]
+
+4.7.1. Default Argument Values
+https://docs.python.org/3/tutorial/controlflow.html#default-argument-values
+4.7.2. Keyword Arguments
+https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments
+4.7.3. Arbitrary Argument Lists
+https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists
+4.7.4. Unpacking Argument Lists
+https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
+
+positional, keyword
+https://docs.python.org/3/glossary.html#term-argument
+https://docs.python.org/3/glossary.html#term-parameter
 
 ## Operators and Delimiters
 
@@ -1616,3 +1640,23 @@ https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-opera
 Return true if class is a subclass (direct, indirect or virtual) of classinfo. 
 
 ```issubclass()```
+
+### Attributes and Properties
+
+Object attributes
+
+```delattr()```
+```getattr()```
+```__getattribute__()```
+```hasattr()```
+```setattr()```
+
+https://en.wikipedia.org/wiki/Mutator_method
+https://docs.python.org/3/library/functions.html#setattr
+https://docs.python.org/3/library/functions.html#getattr
+https://docs.python.org/3/library/functions.html#hasattr
+https://docs.python.org/3/library/functions.html#delattr
+https://en.wikipedia.org/wiki/Property_(programming)
+
+Return a property attribute.
+```property()```
