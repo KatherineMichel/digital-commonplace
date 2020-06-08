@@ -2023,19 +2023,28 @@ https://docs.python.org/3/tutorial/stdlib.html#mathematics
 9.7.4. Exceptions
 exception statistics.StatisticsError
 
-9. Numeric and Mathematical Modules
-9.1. numbers — Numeric abstract base classes
-9.2. math — Mathematical functions
-9.3. cmath — Mathematical functions for complex numbers
-9.4. decimal — Decimal fixed point and floating point arithmetic
-9.5. fractions — Rational numbers
-9.6. random — Generate pseudo-random numbers
-9.7. statistics — Mathematical statistics functions
 
+9. Numeric and Mathematical Modules
 https://docs.python.org/3/library/numeric.html
+9.1. numbers — Numeric abstract base classes
+https://docs.python.org/3/library/numbers.html
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html
+9.3. cmath — Mathematical functions for complex numbers
+https://docs.python.org/3/library/cmath.html
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html
+9.6. random — Generate pseudo-random numbers
+https://docs.python.org/3/library/random.html
+9.7. statistics — Mathematical statistics functions
+https://docs.python.org/3/library/statistics.html
+
+
+
 https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
 
-https://docs.python.org/3/library/numbers.html
 https://docs.python.org/3/library/numbers.html#module-numbers
 https://docs.python.org/3/library/numbers.html#the-numeric-tower
 https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
@@ -2043,7 +2052,6 @@ https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
 https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
 
 9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
 https://docs.python.org/3/library/math.html#module-math
 https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
 https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
@@ -2053,7 +2061,6 @@ https://docs.python.org/3/library/math.html#hyperbolic-functions
 https://docs.python.org/3/library/math.html#special-functions
 https://docs.python.org/3/library/math.html#constants
 
-https://docs.python.org/3/library/cmath.html
 https://docs.python.org/3/library/cmath.html#module-cmath
 https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
 https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
@@ -2063,7 +2070,6 @@ https://docs.python.org/3/library/cmath.html#classification-functions
 https://docs.python.org/3/library/cmath.html#constants
 
 9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
 https://docs.python.org/3/library/decimal.html#module-decimal
 https://docs.python.org/3/library/decimal.html#quick-start-tutorial
 https://docs.python.org/3/library/decimal.html#decimal-objects
@@ -2080,12 +2086,10 @@ https://docs.python.org/3/library/decimal.html#recipes
 https://docs.python.org/3/library/decimal.html#decimal-faq
 
 9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
 https://docs.python.org/3/library/fractions.html#module-fractions
 
 9.6. random — Generate pseudo-random numbers
 See also section
-https://docs.python.org/3/library/random.html
 https://docs.python.org/3/library/random.html#module-random
 https://docs.python.org/3/library/random.html#bookkeeping-functions
 https://docs.python.org/3/library/random.html#functions-for-integers
@@ -2096,7 +2100,6 @@ https://docs.python.org/3/library/random.html#notes-on-reproducibility
 tutorials
 https://docs.python.org/3/library/random.html#examples-and-recipes
 
-https://docs.python.org/3/library/statistics.html
 https://docs.python.org/3/library/statistics.html#module-statistics
 https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
 https://docs.python.org/3/library/statistics.html#measures-of-spread
@@ -2104,6 +2107,8 @@ https://docs.python.org/3/library/statistics.html#function-details
 https://docs.python.org/3/library/statistics.html#exceptions
 
 9.3. cmath — Mathematical functions for complex numbers
+
+
 
 ## Concurrent Execution
 
