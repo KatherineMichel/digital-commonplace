@@ -209,6 +209,49 @@ Closing quotes are on their own line
 """
 ```
 
+## Python and Django Style
+  
+### Hacks for Understanding Code
+
+* write comments explaining what code does and how it works
+* read the code backwards, so not attaching meaning to code
+* read your code out loud
+
+### Whitespace
+
+Whitespace
+* nonprinting character
+
+Whitespace Examples
+* spaces
+* tabs
+* end-of-line symbols
+
+Strip whitespace (right, left, both sides)
+
+```python
+lstrip()
+rstrip()
+strip()
+```
+
+<!--
+String methods
+https://docs.python.org/3.7/library/stdtypes.html#string-methods
+
+https://docs.python.org/3.7/library/stdtypes.html#str.lstrip
+https://docs.python.org/3.7/library/stdtypes.html#str.rstrip
+https://docs.python.org/3.7/library/stdtypes.html#str.strip
+-->
+
+String escape
+
+```python
+\t
+\n (one line)
+\n\n (two lines)
+```
+
 ### Common Naming Conventions
 
 <!--
@@ -836,6 +879,64 @@ Return a new array of bytes. The bytearray class is a mutable sequence of intege
 Return a “memory view” object created from the given argument. 
 
 ```memoryview()```
+
+## Built-In Functions- Numbers
+
+Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
+```divmod()```
+
+Return x to the power y; if z is present, return x to the power y, modulo z
+
+```pow()```
+
+Return number rounded to ndigits precision after the decimal point. 
+```round()```
+
+Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
+```abs()```
+
+## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
+
+Return the largest item in an iterable or the largest of two or more arguments.
+
+```max()```
+
+Return the smallest item in an iterable or the smallest of two or more arguments.
+
+```min()```
+
+## Built-In Functions- Length and Sum- Addressed in Sequences Section
+
+Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
+
+```len()```
+
+Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
+
+```sum()```
+
+## Less Common Built-in Functions		
+
+Return the __dict__ attribute for a module, class, instance, or any other object with a __dict__ attribute.
+```vars()```
+
+Convert an integer number to a binary string prefixed with “0b”. 
+```bin()```
+
+As repr(), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by repr() 
+```ascii()```
+
+Return the string representing a character whose Unicode code point is the integer i. 
+```chr()```
+
+Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. 
+```hex()```
+
+Convert an integer number to an octal string prefixed with “0o”. 
+```oct()```
+
+Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
+```ord()```
 
 ## Python Code Block Examples
 
