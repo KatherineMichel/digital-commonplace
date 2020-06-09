@@ -1,6 +1,13 @@
 # Python Doc Notes
 
 <!--
+https://docs.python.org/3/py-modindex.html | Python Module Index — Python 3.8.3 documentation
+
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+
+https://docs.python.org/3/library/doctest.html | doctest — Test interactive Python examples — Python 3.8.3 documentation
+https://docs.python.org/3/tutorial/controlflow.html#documentation-strings | 4. More Control Flow Tools — Python 3.8.3 documentation
+
 Regular expression
 https://en.wikipedia.org/wiki/Regular_expression
 https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
