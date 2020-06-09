@@ -104,6 +104,37 @@ the print() function automatically adds a newline character to the end of the st
 multiple string values to print()
 you could replace the default separating string by passing the sep keyword
 The Call Stack
+Call stack explanation
+Local and Global Scope
+local variable, global variable
+"There is only one global scope, and it is created when your program begins. When your program terminates, the global scope is destroyed, and all its variables are forgotten."
+"A local scope is created whenever a function is called. Any variables assigned in the function exist within the function’s local scope. When the function returns, the local scope is destroyed, and these variables are forgotten. The next time you call the function, the local variables will not remember the values stored in them from the last time the function was called. Local variables are also stored in frame objects on the call stack."
+Global statement
+try except statement
+zig-zag program
+time.sleep()
+https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
+https://docs.python.org/3/tutorial/errors.html#handling-exceptions
+https://docs.python.org/3/library/exceptions.html#ValueError
+https://docs.python.org/3/library/exceptions.html#UnboundLocalError
+https://automatetheboringstuff.com/2e/chapter4/
+https://docs.python.org/3/library/exceptions.html#IndexError
+negative indexes
+list methods
+using a for loop with lists
+(Sequences are described in “Sequence Data Types” on page 93.)
+A common Python technique is to use range(len(someList)) with a for loop to iterate over the indexes of a list. 
+"Using range(len(supplies)) in the previously shown for loop is handy because the code in the loop can access the index (as the variable i) and the value at that index (as supplies[i])."
+in and not in
+The Multiple Assignment Trick
+The multiple assignment trick (technically called tuple unpacking)
+ValueError
+"Instead of using the range(len(someList)) technique with a for loop to obtain the integer index of the items in the list, you can call the enumerate() function instead. The enumerate() function is useful if you need both the item and the item’s index in the loop’s block."
+Using the random.choice() and random.shuffle() Functions with Lists
+"You can consider random.choice(someList) to be a shorter form of someList[random.randint(0, len(someList) – 1]."
+Augmented Assignment Operators
+The += operator can also do string and list concatenation, and the *= operator can do string and list replication.
+List methods
 
 ## CPython Internals Book
 
