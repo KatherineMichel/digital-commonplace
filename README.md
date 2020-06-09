@@ -124,8 +124,6 @@ https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - Y
 https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
 
 
-https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
-
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
 https://awesomeblog.club/ | Awesomeblog.club - explore
@@ -138,10 +136,7 @@ https://wsl-guide.kennethreitz.org/en/latest/
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
 
 
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-
-https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
-
+Pinax
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
@@ -159,6 +154,10 @@ https://repl.it/leaders | Repl.it - Leaderboard
 
 https://codepen.io/tag/python
 
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+https://virus.cafe/ | Virus Cafe
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -171,22 +170,80 @@ Hacker News, Product Hunt, Lobsters, trending/leaderboards
 
 https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
 
+!!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://devchecklists.com
 
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
 
-https://devchecklists.com
-
 Useful Files
 Shell, Unix, Bash, Makefile, Cron, Lint, YAML, Shebang
 
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
+
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+
+Jekyll
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
+
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
+
+https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
+https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
+https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
+
+CHAOSS
+https://chaoss.community/blog-post/2020/05/29/the-scms-is-an-official-chaoss-metric/ | THE SCMS is an official CHAOSS Metric! - CHAOSS
+https://discourse.sustainoss.org/t/research-project-into-motivation-in-open-source/415 | Research Project into Motivation in Open Source - Sustain Open Source Forum
+https://nau.co1.qualtrics.com/jfe/form/SV_a4M3Xafx5aEInZz?source=twitter | Online Survey Software | Qualtrics Survey Solutions
+
+Shields
+https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
 https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
 
 https://github.com/orgs/maintainers/people?page=1
+
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+
+https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
+
+https://news.python.sc/ | Pythonic News
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+
+CPython
+https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
+https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
+https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
+https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
+
+https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
+
+Python
+https://twitter.com/gvanrossum/status/1255164435502489600 | Guido van Rossum on Twitter: "Python 3.9a6 is out! With new parser (PEP 617), dict|dict (PEP 584), list[int] (PEP 585), str.remove{prefix,suffix}() (PEP 616), and much more! Please test with your favorite packages. https://t.co/jhJ24UBGrw" / Twitter
+https://docs.python.org/3/whatsnew/3.8.html | What’s New In Python 3.8 — Python 3.8.3 documentation
+https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
+https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
+
+Barry
+https://www.wefearchange.org/ | We Fear Change
 
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
@@ -210,6 +267,37 @@ https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz 
 
 release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+
+Pillow
+https://python-pillow.org/ | Python Pillow
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.1.2 documentation
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+Important
+https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
+https://github.com/pypa/setuptools | pypa/setuptools: Official project repository for the Setuptools build system
+https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
+
+PyPI GitHub Actions
+https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
+
+
+https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
+https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell - JavaScript Scene - Medium
+https://github.com/ericelliott/redux-dsm | ericelliott/redux-dsm: Declarative state machines for Redux: Reduce your async-state boilerplate.
+
+JavaScript
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints | Adapting to Users with Client Hints  |  Web Fundamentals
+
+https://nodejs.org/en/ | #BlackLivesMatter
+https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 
 
 https://github.com/llvm/llvm-project
