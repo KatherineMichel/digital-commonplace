@@ -48,6 +48,10 @@ https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
 https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 -->
 
+## Automate the Boring Stuff with Python
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+
 ## CPython Internals Book
 
 <!--
@@ -115,6 +119,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ### Final Project
 
 <!--
+Stanford Reflections
+https://twitter.com/faridaelchuzade/status/1266107357496578050 | Farida Elchuzade on Twitter: "We have come to the end of 'Code in Place' Program organized by great professors and leaders of Stanford University. I made a sketch-note to summarize the topics I learned during the 5-week program. Let me know your thoughts about the note😊 #codeinplace #sketchandcode https://t.co/94bbbijduq" / Twitter
+
 Simba
 https://us.edstem.org/courses/490/lessons/1236/slides/6413 | Code in Place – Lessons
 
