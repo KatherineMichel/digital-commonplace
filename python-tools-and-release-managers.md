@@ -601,6 +601,9 @@ https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitte
 ## Anthony Advice
 
 <!--
+typing
+https://www.youtube.com/watch?v=HESA7oukEqE | (1) typing __getitem__ (python / mypy) (intermediate) anthony explains #045 - YouTube
+
 https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
 
 flake8 Plugin
