@@ -4,6 +4,8 @@
 GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
+https://about.gitlab.com/handbook/communication/#top-misused-terms | GitLab Communication | GitLab
+https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
 
 
 https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
@@ -605,14 +607,14 @@ flake8 Plugin
 https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
 https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
 
-Anthony
+https://www.youtube.com/watch?v=sW1qUZ_nSXk&feature=emb_logo | python packaging: src layout (intermediate) anthony explains #048 - YouTube
+
 intro to tox
 https://www.youtube.com/watch?v=75WBE_qbpGk&feature=emb_logo
 https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
 tox -e py - Google Search
 https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
 
-Anthony
 https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
 https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
 
@@ -1085,6 +1087,9 @@ Special Projects
 * [babi-editor](https://github.com/babi-editor)
 
 <!--
+https://github.com/pre-commit-ci | pre-commit-ci
+https://github.com/pre-commit-ci/pre-commit.ci | pre-commit-ci/pre-commit.ci: Website for https://pre-commit.ci
+
 https://discordapp.com/invite/HxpQ3px | anthonywritescode
 https://www.twitch.tv/team/livecoders | (1) Twitch
 
