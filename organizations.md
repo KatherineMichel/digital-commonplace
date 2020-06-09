@@ -1,6 +1,8 @@
 # Organizations
 
 <!--
+https://github.com/RedHatInsights | cloud.redhat.com
+
 https://github.com/atlassian-labs | Atlassian Labs
 
 https://github.com/gettyimages | Getty Images
