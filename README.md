@@ -272,6 +272,7 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 Pillow
 https://python-pillow.org/ | Python Pillow
 https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/3.0.x/handbook/tutorial.html
 
 Black
 https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
