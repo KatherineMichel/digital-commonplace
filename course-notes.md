@@ -52,6 +52,59 @@ https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 
+Valid variable names
+https://automatetheboringstuff.com/2e/chapter1/
+https://docs.python.org/3/library/exceptions.html#TypeError
+Boolean values
+True/False matrix
+Boolean operators
+Table 2-2: The and Operator’s Truth Tabl
+Table 2-3: The or Operator’s Truth Table
+Table 2-4: The not Operator’s Truth Table
+Break statement (while loop)
+https://automatetheboringstuff.com/2e/chapter2/
+Infinite loop
+continue statement (same thing that happens when execution reaches end of the loop)
+while True
+Truthy and falsy values
+An Equivalent while Loop
+https://autbor.com/fivetimeswhile/
+
+```bash
+print('My name is')
+i = 0
+while i < 5:
+    print('Jimmy Five Times (' + str(i) + ')')
+    i = i + 1
+```
+
+range loop -1
+Optionally, more module names, as long as they are separated by commas
+Don't overwrite module names
+from import Statements
+sys.exit()
+A Short Program: Rock, Paper, Scissors
+
+https://automatetheboringstuff.com/2e/chapter3/
+deduplication
+parameter versus argument
+"that the value stored in a parameter is forgotten when the function returns."
+https://docs.python.org/3/library/exceptions.html#NameError
+global and local scope
+Define, Call, Pass, Argument, Parameter
+Return Values and return Statements
+Magic eight ball program
+The None Value
+https://docs.python.org/3/library/constants.html#None
+(Other programming languages might call this value null, nil, or undefined.) 
+keyword arguments, optional parameters
+end''
+end and sep
+the print() function automatically adds a newline character to the end of the string it is passed
+multiple string values to print()
+you could replace the default separating string by passing the sep keyword
+The Call Stack
+
 ## CPython Internals Book
 
 <!--
