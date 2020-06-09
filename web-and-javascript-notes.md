@@ -69,6 +69,11 @@ http://diana-adrianne.com/purecss-francine/ | Francine
 https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
 
+Single Div
+https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on Twitter: "If you ever think you're good at CSS, check out this website. These designs are all done with a single &lt;div&gt; element. It's insane! https://t.co/tleibWDJys" / Twitter
+https://a.singlediv.com/ | A Single Div
+
+
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 -->
 
