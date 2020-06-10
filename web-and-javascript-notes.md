@@ -1,6 +1,18 @@
 # Web and JavaScript Notes
 
 <!--
+https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
+https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell - JavaScript Scene - Medium
+https://github.com/ericelliott/redux-dsm | ericelliott/redux-dsm: Declarative state machines for Redux: Reduce your async-state boilerplate.
+
+JavaScript
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints | Adapting to Users with Client Hints  |  Web Fundamentals
+
+
 Evan You
 https://github.com/yyx990803?tab=repositories
 
@@ -26,13 +38,6 @@ https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/render
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 https://html.spec.whatwg.org/multipage/
 https://en.wikipedia.org/wiki/HTTP/3
-
-
-Traversy
-https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
-https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
-https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
-
 
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
