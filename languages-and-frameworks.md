@@ -65,6 +65,9 @@ Glitch Examples
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
+http://nixos.org
+https://github.com/NixOS/nix
+
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
 
 https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
