@@ -3,26 +3,7 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-Tabs
-https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/ | Organize your tabs with tab groups in Google Chrome
-
-Memex
-https://getmemex.com/ | 1 - WorldBrain's Memex
-https://chrome.google.com/webstore/detail/worldbrains-memex/abkfbakhjpmblaafnpgjppbmioombali/related | WorldBrain's Memex - Chrome Web Store
-https://github.com/WorldBrain | WorldBrain.io - Collective Web Intelligence
-
-https://nesslabs.com/roam-research-bookmarklet
-https://golden.com/blog/introducing-golden/ | Introducing Golden: Mapping human knowledge
-
-http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
-
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-Docs
-https://opensource.googleblog.com/2020/05/season-of-docs-announces-participating.html | Season of Docs announces participating organizations for 2020 | Google Open Source Blog
-
-Django
+Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 Content
@@ -34,8 +15,6 @@ https://opensource.com/article/19/11/correspondent-program | Announcing the Open
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
-
-https://unix.stackexchange.com/questions/383365/zsh-compinit-insecure-directories-run-compaudit-for-list | shell - zsh compinit: insecure directories, run compaudit for list - Unix & Linux Stack Exchange
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
@@ -141,35 +120,6 @@ Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
 
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://www.coursera.org/learn/ai-for-everyone
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://codepen.io/tag/python
-
-https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
-https://virus.cafe/ | Virus Cafe
-https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
-
-Brian Holt, Frontend Masters
-Traversy Media
-
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
-
-https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
-
 !!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
@@ -179,49 +129,25 @@ Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
 
-Useful Files
-Shell, Unix, Bash, Makefile, Cron, Lint, YAML, Shebang
-
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-
-https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
-
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
-
-Jekyll
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
-
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 
-
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-
-https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
-
-https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
-https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
-https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
-
-CHAOSS
-https://chaoss.community/blog-post/2020/05/29/the-scms-is-an-official-chaoss-metric/ | THE SCMS is an official CHAOSS Metric! - CHAOSS
-https://discourse.sustainoss.org/t/research-project-into-motivation-in-open-source/415 | Research Project into Motivation in Open Source - Sustain Open Source Forum
-https://nau.co1.qualtrics.com/jfe/form/SV_a4M3Xafx5aEInZz?source=twitter | Online Survey Software | Qualtrics Survey Solutions
-
-Shields
-https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
-
-https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
 
 https://github.com/orgs/maintainers/people?page=1
 
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 
+https://github.com/tox-dev/action
 
-https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
 
-https://news.python.sc/ | Pythonic News
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
 
 https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
@@ -236,6 +162,7 @@ https://docs.python.org/3/library/markup.html | Structured Markup Processing Too
 Python
 https://twitter.com/gvanrossum/status/1255164435502489600 | Guido van Rossum on Twitter: "Python 3.9a6 is out! With new parser (PEP 617), dict|dict (PEP 584), list[int] (PEP 585), str.remove{prefix,suffix}() (PEP 616), and much more! Please test with your favorite packages. https://t.co/jhJ24UBGrw" / Twitter
 https://docs.python.org/3/whatsnew/3.8.html | What’s New In Python 3.8 — Python 3.8.3 documentation
+
 https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
 https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
 https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
@@ -269,34 +196,6 @@ release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
 
 
-Pillow
-https://python-pillow.org/ | Python Pillow
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/3.0.x/handbook/tutorial.html
-
-Black
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-Important
-https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
-https://github.com/pypa/setuptools | pypa/setuptools: Official project repository for the Setuptools build system
-https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
-
-PyPI GitHub Actions
-https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
-
-
-https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
-https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell - JavaScript Scene - Medium
-https://github.com/ericelliott/redux-dsm | ericelliott/redux-dsm: Declarative state machines for Redux: Reduce your async-state boilerplate.
-
-JavaScript
-https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
-https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints | Adapting to Users with Client Hints  |  Web Fundamentals
-
 https://nodejs.org/en/ | #BlackLivesMatter
 https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 
@@ -319,9 +218,6 @@ https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twi
 https://github.com/microsoft/ProjectReunion | microsoft/ProjectReunion: Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
 https://github.com/microsoft/winget-cli/issues/179 | (2) Please include ability to opt out of telemetry and clear documentation on how to opt out · Issue #179 · microsoft/winget-cli
 https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Windows Package Manager Preview | Windows Command Line
-
-
-https://github.com/Zizzamia/perfume.js | Zizzamia/perfume.js: Web performance library for measuring all User-centric performance metrics
 
 
 https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
@@ -437,6 +333,18 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+Hacker News, Product Hunt, Lobsters, trending/leaderboards
+
+
+https://glitch.com/@python | Python
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://codepen.io/tag/python
+
+
 No Starch Books
 
 JavaScript- Hawt
@@ -459,9 +367,6 @@ https://realpython.com/account/purchases/ | Your Purchases – Real Python
 https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
 real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-
-https://glitch.com/@python | Python
 
 
 https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
@@ -487,6 +392,11 @@ https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a begin
 
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://btholt.github.io/intro-to-web-dev-v2/
+
+Traversy
+https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
+https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
+https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
 
 http://www.traversymedia.com
 https://twitter.com/traversymedia
@@ -717,35 +627,6 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
-## Engineering Management Resources
-
-https://github.com/yoshiori/manager-readme | yoshiori / manager-readme
-https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
-
-https://medium.com/@skfroi/want-to-be-a-senior-developer-mentor-another-3ba383587669 | Want to be a Senior Developer? Mentor Another – Froilan Irizarry – Medium
-
-
-Scaling Engineering
-* [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
-
-Great engineers
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-
-Top Engineers
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
-
-https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
-
-software development competency framework
-
-https://uvwx.github.io/hierarchy.html | On a hierarchy of software engineering discourse
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
 https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
 
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
@@ -853,6 +734,13 @@ Product Hunt Product Leader Boards
 
 https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
 https://upcoming.org/about | About - Upcoming
+
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
 -->
 
 ## Hackathons, Festivals, Communities
@@ -1060,22 +948,7 @@ GitHub Community
 <!--
 https://git-scm.com/docs
 
-GitHub Metrics
-https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
-
-GitHub Actions
-https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
-
-Personal README
-https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
-https://github.com/pifafu | pifafu (kathy)
-https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
-
-GH Learning Lab
-https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
-
 https://github.com/github
-
 
 https://github.com/githubevents | GitHub Events
 
@@ -1120,6 +993,14 @@ https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
 https://github.com/sponsors | GitHub Sponsors
 
+GH Learning Lab
+https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
+
+
+Personal README
+https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
+https://github.com/pifafu | pifafu (kathy)
+https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
 
 https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
 
@@ -1214,11 +1095,17 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 https://pypi.org/project/requests/ | requests · PyPI
 
 Pillow
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
 https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
 https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
 https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
 https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
 
 Python API Tools
@@ -1266,6 +1153,19 @@ https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/ex
 ## GitHub Actions Docs
 
 <!--
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
+
+https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
+https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
+https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
+
+GitHub Actions
+https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
+
+
+
 GitHub Actions
 https://help.github.com/en/actions/creating-actions/creating-a-javascript-action | Creating a JavaScript action - GitHub Help
 https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events | Configuring a workflow - GitHub Help
@@ -1444,6 +1344,9 @@ https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Action
 
 <!--
 GitHub Action and Other Automation Examples
+
+GitHub Metrics
+https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
 
 https://github.com/nektos/act
 
@@ -1674,8 +1577,12 @@ GitHub
 * [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
 
 <!--
+Lorena
+
 https://mikecoutermarsh.com/ | Mike Coutermarsh
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
 
 https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
 https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
@@ -1703,13 +1610,14 @@ Product
 * [Pieter Levels Twitter](https://twitter.com/levelsio)
 
 <!--
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+
+https://virus.cafe/ | Virus Cafe
+
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+
 https://twitter.com/jessfraz
 https://blog.jessfraz.com/
-
-Lorena
-
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
 
 https://twitter.com/hayleydenb/status/1257786499933728768
 
