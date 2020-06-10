@@ -216,6 +216,10 @@ Project: Phone Number and Email Address Extractor
 Ideas for Similar Programs
 https://www.regular-expressions.info/
 https://pythex.org/
+https://pypi.org/project/PyInputPlus/
+Project: How to Keep an Idiot Busy for Hours
+Project: Multiplication Quiz
+https://automatetheboringstuff.com/2e/chapter9/
 
 
 ## CPython Internals Book
