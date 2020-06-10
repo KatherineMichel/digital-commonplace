@@ -65,6 +65,10 @@ Glitch Examples
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 https://vercel.com/blog/zeit-is-now-vercel
