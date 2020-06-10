@@ -70,8 +70,6 @@ https://github.com/NixOS/nix
 
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
 
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
 https://vercel.com/blog/zeit-is-now-vercel
@@ -124,6 +122,8 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 * [Sass Basics](http://sass-lang.com/guide)
 
 <!--
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
 https://jekyllrb.com/docs/deployment-methods
 https://jekyllrb.com/docs/continuous-integration
 
@@ -217,6 +217,8 @@ Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
 <!--
+https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
+
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
 
 https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
