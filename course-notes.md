@@ -135,6 +135,88 @@ Using the random.choice() and random.shuffle() Functions with Lists
 Augmented Assignment Operators
 The += operator can also do string and list concatenation, and the *= operator can do string and list replication.
 List methods
+Exceptions to indentation rules in Python
+You can also split up a single instruction across multiple lines using the \ line continuation character at the end. 
+Magic 8 ball redux
+messages: random.randint (0, len(messages)
+Sequence Data Types
+Mutable and Immutable Data Types
+tuple data type
+trailing comma
+Identity and the id() Function
+Passing References
+References are particularly important for understanding how arguments get passed to functions. When a function is called, the values of the arguments are copied to the parameter variables. For lists (and dictionaries, which I’ll describe in the next chapter), this means a copy of the reference is used for the parameter. 
+copy() and deepcopy()
+A Short Program: Conway’s Game of Life
+Conway’s Game of Life is an example of cellular automata:
+"Variables do not store list values directly; they store references to lists. This is an important distinction when you are copying variables or passing lists as arguments in function calls. Because the value that is being copied is the list reference, be aware that any changes you make to the list might impact another variable in your program."
+https://automatetheboringstuff.com/2e/chapter5/
+dictionary data type
+key-value pair
+Dictionaries can still use integer values as keys, just like lists use integers for indexes, but they do not have to start at 0 and can be any number.
+Unlike lists, items in dictionaries are unordered. 
+Birthdays program
+Ordered dictionaries in Python 3.7
+The keys(), values(), and items() Methods
+But these data types (dict_keys, dict_values, and dict_items, respectively) can be used in for loops. 
+"Notice that the values in the dict_items value returned by the items() method are tuples of the key and value.
+If you want a true list from one of these methods, pass its list-like return value to the list() function. "
+You can also use the multiple assignment trick in a for loop to assign the key and value to separate variables. 
+Dictionary methods
+Pretty printing: pprint() and pformat() functions
+The pprint.pprint() function is especially helpful when the dictionary itself contains nested lists or dictionaries.
+pprint.pprint(someDictionaryValue)
+print(pprint.pformat(someDictionaryValue))
+Algebraic chess notation
+Tic tac toe board
+https://nostarch.com/automatestuff2/
+Nested Dictionaries and Lists
+https://automatetheboringstuff.com/2e/chapter6/
+escape characters
+raw strings
+Multiline Strings with Triple Quotes
+Multiline Comments
+string methods
+in and out operator
+Putting strings inside strings
+The isX() Method (interesting)
+The join() and split() Methods
+Splitting Strings with the partition() Method
+Removing Whitespace with the strip(), rstrip(), and lstrip() Methods
+Numeric Values of Characters with the ord() and chr() Functions
+Unicode code point
+These functions are useful when you need to do an ordering or mathematical operation on characters:
+"There is more to Unicode and code points, but those details are beyond the scope of this book. If you’d like to know more, I recommend watching Ned Batchelder’s 2012 PyCon talk, “Pragmatic Unicode, or, How Do I Stop the Pain?” at https://youtu.be/sgHbC6udIqc."
+Turn to Appendix B to learn how to run your Python scripts conveniently and be able to pass command line arguments to them. 
+Copying and Pasting Strings with the pyperclip Module
+The pyperclip module has copy() and paste() functions that can send text to and receive text from your computer’s clipboard. 
+Project: Multi-Clipboard Automatic Messages
+Project: Adding Bullets to Wiki Markup
+A Short Progam: Pig Latin
+Another way to manipulate large amounts of text is reading and writing files directly off the hard drive. You’ll learn how to do this with Python in Chapter 9.
+https://github.com/asweigart/pythonstdiogames/
+https://automatetheboringstuff.com/2e/chapter7/
+Regex
+I’ll show you basic matching with regular expressions and then move on to some more powerful features, such as string substitution and creating your own character classes. 
+Regex object
+Passing a string value representing your regular expression to re.compile() returns a Regex pattern object (or simply, a Regex object)
+Matching Multiple Groups with the Pipe
+Character classes (important!)
+Making your own character classes
+The Caret and Dollar Sign Characters
+The Wildcard Character
+Matching Everything with Dot-Star
+Matching Newlines with the Dot Character
+Review of Regex Symbols
+Case-Insensitive Matching
+Substituting Strings with the sub() Method
+Managing Complex Regexes
+Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE
+Project: Phone Number and Email Address Extractor
+Ideas for Similar Programs
+https://www.regular-expressions.info/
+https://pythex.org/
+
 
 ## CPython Internals Book
 
