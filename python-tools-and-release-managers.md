@@ -3,9 +3,7 @@
 <!--
 GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://twitter.com/sytses/status/1267851764356624385 | Sid Sijbrandij on Twitter: "@paulg @JohnDCook Here is a reference https://t.co/k4H0S3sNZK https://t.co/Ualql6zW6c" / Twitter
-https://about.gitlab.com/handbook/communication/#top-misused-terms | GitLab Communication | GitLab
-https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
 
 
 Shields
@@ -31,8 +29,6 @@ https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init_
 
 
 https://pypi.org/project/keyring/ | keyring · PyPI
-
-https://pypi.org/project/towncrier/
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
@@ -512,6 +508,9 @@ Python release
 Python
 https://lwn.net/Articles/819853/
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://twitter.com/gvanrossum/status/1255164435502489600 | Guido van Rossum on Twitter: "Python 3.9a6 is out! With new parser (PEP 617), dict|dict (PEP 584), list[int] (PEP 585), str.remove{prefix,suffix}() (PEP 616), and much more! Please test with your favorite packages. https://t.co/jhJ24UBGrw" / Twitter
+
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 https://www.python.org/downloads/release/python-390a5/
 
@@ -764,16 +763,9 @@ https://github.com/dotnet/designs
 https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/
 https://blogs.msdn.microsoft.com/dotnet/2016/08/30/the-week-in-net-8302016/
 
-MS Edge
-https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/ | Microsoft Edge: Making the web better through more open source collaboration - Windows Experience BlogWindows Experience Blog
-
-Sid
-https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/issue-group-search-partitioning.html | Partitioning - Issue group search | GitLab
-https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
-https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/ | GitLab.com is moving to 13.0, with narrow breaking changes | GitLab
 GitLab
-https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/ | GitLab 13.0 released with Gitaly Clusters, Epic Hierarchy on Roadmaps, and Auto Deploy to ECS | GitLab
-https://twitter.com/sytses/status/1263216521175642112 | Sid Sijbrandij on Twitter: "I'm grateful for the red team at GitLab doing an amazingly realistic phishing attack https://t.co/de4XNecH1K with custom domains and realistic web pages. The outcome was that 20% of team-members gave credentials and 12% reported the attack." / Twitter
+https://about.gitlab.com/releases
+https://gitlab.com/gitlab-org/gitlab/-/issues/217348 | Automatically Convert HTML Tables to Markdown (#217348) · Issues · GitLab.org / GitLab · GitLab
 -->
 
 <!--
@@ -1137,33 +1129,6 @@ https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
 https://github.com/chriskuehl/shipit | chriskuehl/shipit
 -->
 
-## Package Tools and Testing
-
-<!--
-Pinax release docs
-`python setup.py test`
-https://github.com/pypa/setuptools/issues/931
-https://github.com/pytest-dev/pytest/issues/5534
-https://github.com/pypa/setuptools/issues/1684#issuecomment-508156856
-https://github.com/pypa/setuptools/issues/1684
-
-https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files
-https://github.com/pypa/sampleproject/blob/master/setup.cfg
--->
-
-<!--
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
-
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-https://pypi.org/project/flake8-black/ | flake8-black · PyPI
--->
-
 <!--
 Tool Choices
 
@@ -1192,6 +1157,23 @@ https://twitter.com/jonasrk/status/1227028183469449216
 https://twitter.com/WillingCarol/status/1227331652046770176
 https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
 https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+-->
+
+
+## Package Tools and Testing
+
+<!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+https://pypi.org/project/flake8-black/ | flake8-black · PyPI
 -->
 
 ## Eldarion
@@ -1613,12 +1595,27 @@ Python Testing Built-In Tools
 * [doctest](https://docs.python.org/3/library/doctest.html)
 * [mock](https://docs.python.org/dev/library/unittest.mock.html)
 
-### pytest
+### pytest and Selenium
 
 pytest 
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
+Selenium
+* [Selenium](http://www.seleniumhq.org)
+* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
+
 <!--
+Test automation
+https://en.wikipedia.org/wiki/Headless_browser
+
+https://martinfowler.com/bliki/PageObject.html
+https://selenium-python.readthedocs.io/page-objects.html
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects
+https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
+
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
+
 https://pythontesting.net/framework/pytest/pytest-introduction/
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
@@ -1963,27 +1960,12 @@ https://thoughtbot.com/blog/i-mock-your-fixtures-too
 
 state behavior versus behavior verification
 https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
-
-Test automation
-https://en.wikipedia.org/wiki/Headless_browser
-
-https://martinfowler.com/bliki/PageObject.html
-https://selenium-python.readthedocs.io/page-objects.html
-https://github.com/SeleniumHQ/selenium/wiki/PageObjects
-https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
-
-https://pypi.org/project/selenium/ | selenium · PyPI
-https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 -->
 
-## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest)
+## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
 
 Django
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
-Selenium
-* [Selenium](http://www.seleniumhq.org)
-* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
 
 PyLint
 * [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
