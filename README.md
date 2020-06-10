@@ -144,6 +144,8 @@ https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
@@ -1051,9 +1053,12 @@ https://help.github.com/en/articles/about-maintainer-security-advisories | About
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
 
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+
+jQuery
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+http://youmightnotneedjquery.com/
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://jquery.com/ | jQuery
