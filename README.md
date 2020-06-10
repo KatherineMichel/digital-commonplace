@@ -161,10 +161,6 @@ https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARR
 
 https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
 
-Python
-https://twitter.com/gvanrossum/status/1255164435502489600 | Guido van Rossum on Twitter: "Python 3.9a6 is out! With new parser (PEP 617), dict|dict (PEP 584), list[int] (PEP 585), str.remove{prefix,suffix}() (PEP 616), and much more! Please test with your favorite packages. https://t.co/jhJ24UBGrw" / Twitter
-https://docs.python.org/3/whatsnew/3.8.html | What’s New In Python 3.8 — Python 3.8.3 documentation
-
 https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
 https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
 https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
