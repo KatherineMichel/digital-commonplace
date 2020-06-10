@@ -8,37 +8,18 @@ https://about.gitlab.com/handbook/communication/#top-misused-terms | GitLab Comm
 https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/#google-docs-as-a-remote-whiteboard
 
 
-https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+Shields
+https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
 
-http://nixos.org
-https://github.com/NixOS/nix
+Important
+https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
+https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
 
-Django
-https://twitter.com/bmispelon/status/1266337389406048260 | Baptiste Mispelon on Twitter: "What are the cool Django kids using these days to pull their settings from environment variables? A quick search is already giving me way too many options: python-dotenv django-dotenv environs django-environ envparse python-decouple ..." / Twitter
-environs[django] - Google Search
+PyPI GitHub Actions
+https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
 
-https://github.com/sloria/environs#usage-with-django
-
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-https://github.com/cortesi/devd
-
-https://en.wikipedia.org/wiki/Env | env - Wikipedia
-
-https://github.com/toml-lang/toml
-
-
-Tox
-https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
 
 https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
@@ -49,15 +30,9 @@ https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File
 https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
 
 
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
-
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
-
 https://pypi.org/project/keyring/ | keyring · PyPI
 
 https://pypi.org/project/towncrier/
-
-https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
@@ -226,10 +201,9 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
 
-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 
 https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
 https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
@@ -247,7 +221,9 @@ command line tools for xcode - Google Search
 
 ZSH	
 https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
 https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
 https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
 
 https://www.iterm2.com/
@@ -429,12 +405,6 @@ https://docs.python-guide.org/#writing-great-python-code
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 
-<!--
-https://github.com/amontalenti/elements-of-python-style
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
--->
-
 ## High Performance Python and Django and Trends
 
 <!--
@@ -580,6 +550,8 @@ Pipenv
 * [Next Pipenv Release - Google Groups](https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co)
 
 <!--
+https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
+
 https://hynek.me/articles/python-app-deps-2018/
 
 pip/virtualenv
@@ -1244,6 +1216,9 @@ Testing Tools
 * [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
 
 <!--
+Tox GitHub Action
+https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
+
 https://docs.codecov.io/docs/python
 https://codecov.io/#features | Codecov
 
