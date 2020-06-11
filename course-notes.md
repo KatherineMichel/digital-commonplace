@@ -11,6 +11,8 @@ https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin
 
 https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
 
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
 https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
 https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
@@ -59,6 +61,8 @@ https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-pyth
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 frame object - Google Search
 https://docs.python.org/3/library/inspect.html#the-interpreter-stack
+
+https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
 
 negative indexes python - Google Search
 
@@ -429,6 +433,8 @@ Mu debugger
 ## CPython Internals Book
 
 <!--
+https://www.youtube.com/watch?time_continue=1&v=3hl39VMd0f0&feature=emb_logo | What's inside my new Python book - YouTube
+
 https://docs.python.org/3/library/python.html
 https://docs.python.org/3/reference/grammar.html
 
