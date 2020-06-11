@@ -467,11 +467,18 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ### Final Project
 
 <!--
+https://twitter.com/chrispiech/status/1268934076381007872 | chrispiech on Twitter: "When I was a child in Kenya, I lost my vision (first one eye, then the other). Just before losing vision in the second eye I met a doctor in Kenyatta Hospital who had dedicated his life to others. He helped me regain my vision -- it required a scary injection..." / Twitter
+
 Stanford Reflections
+https://www.stanforddaily.com/2020/06/08/code-in-place-makes-cs-accessible-to-thousands-worldwide/ | Code in Place makes CS accessible to thousands worldwide - The Stanford Daily
 https://twitter.com/faridaelchuzade/status/1266107357496578050 | Farida Elchuzade on Twitter: "We have come to the end of 'Code in Place' Program organized by great professors and leaders of Stanford University. I made a sketch-note to summarize the topics I learned during the 5-week program. Let me know your thoughts about the note😊 #codeinplace #sketchandcode https://t.co/94bbbijduq" / Twitter
+https://www.linkedin.com/in/sanjay-mirchandani-54bb212/ | (86) Sanjay Mirchandani | LinkedIn
 
 Simba
 https://us.edstem.org/courses/490/lessons/1236/slides/6413 | Code in Place – Lessons
+
+https://compedu.stanford.edu/codeinplace/public/projectlist.html | Project List
+https://www.facebook.com/katherine.michel.5/posts/3283829794969992?comment_id=3285660654786906&notif_id=1591753826009940&notif_t=feed_comment | The final projects students created for the... - Katherine Michel
 
 Final project
 https://compedu.stanford.edu/codeinplace/v1/#/assignment/finalProject | Assignment
