@@ -346,6 +346,59 @@ print() call
 os.walk()
 zipfile module
 
+https://automatetheboringstuff.com/2e/chapter11/
+Raising Exceptions
+try, except, raise
+A call to the Exception() function
+If there are no try and except statements covering the raise statement that raised the exception, the program simply crashes and displays the exception’s error message.
+Often it’s the code that calls the function, rather than the function itself, that knows how to handle an exception. That means you will commonly see a raise statement inside a function and the try and except statements in the code calling the function. 
+Getting the Traceback as a String
+This sequence of calls is called the call stack.
+Python displays the traceback whenever a raised exception goes unhandled. But you can also obtain it as a string by calling traceback.format_exc(). This function is useful if you want the information from an exception’s traceback but also want an except statement to gracefully handle the exception. You will need to import Python’s traceback module before calling this function. For example, instead of crashing your program right when an exception occurs, you can write the traceback information to a text file and keep your program running. You can look at the text file later, when you’re ready to debug your program. 
+
+>>> import traceback
+>>> try:
+...          raise Exception('This is the error message.')
+except:
+...          errorFile = open('errorInfo.txt', 'w')
+...          errorFile.write(traceback.format_exc())
+...          errorFile.close()
+...          print('The traceback info was written to errorInfo.txt.')
+
+In “Logging” on page 255, you’ll learn how to use the logging module, which is more effective than simply writing this error information to text files.
+
+Assertions
+sanity checks
+The assert keyword
+A condition (that is, an expression that evaluates to True or False)
+A comma
+A string to display when the condition is False
+In plain English, an assert statement says, “I assert that the condition holds true, and if not, there is a bug somewhere, so immediately stop the program.” 
+
+reverse() list method instead of the sort() list method
+“failing fast”
+Assertions are for programmer errors, not user errors. Assertions should only fail while the program is under development; a user should never see an assertion error in a finished program. For errors that your program can run into as a normal part of its operation (such as a file not being found or the user entering invalid data), raise an exception instead of detecting it with an assert statement. You shouldn’t use assert statements in place of raising exceptions, because users can choose to turn off assertions. If you run a Python script with python -O myscript.py instead of python myscript.py, Python will skip assert statements. Users might disable assertions when they’re developing a program and need to run it in a production setting that requires peak performance. (Though, in many cases, they’ll leave assertions enabled even then.)
+Using an Assertion in a Traffic Light Simulation
+Logging
+logging module
+import logging
+logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s -  %(levelname)
+s -  %(message)s')
+How it works
+logging.debug() function
+This debug() function will call basicConfig(), and a line of information will be printed. This information will be in the format we specified in basicConfig() and will include the messages we passed to debug(). 
+Don’t Debug with the print() Function
+you can always disable them later by adding a single logging.disable(logging.CRITICAL) call. Unlike print(), the logging module makes it easy to switch between showing and hiding log messages.
+Log messages are intended for the programmer, not the user. 
+Logging Levels
+The benefit of logging levels is that you can change what priority of logging message you want to see. Passing logging.DEBUG to the basicConfig() function’s level keyword argument will show messages from all the logging levels (DEBUG being the lowest level). But after developing your program some more, you may be interested only in errors. In that case, you can set basicConfig()’s level argument to logging.ERROR. This will show only ERROR and CRITICAL messages and skip the DEBUG, INFO, and WARNING messages.
+Disabling Logging
+logging.disable()
+Logging to a File
+import logging
+logging.basicConfig(filename='myProgramLog.txt', level=logging.DEBUG, format='
+%(asctime)s -  %(levelname)s -  %(message)s')
+Mu debugger
 
 ## CPython Internals Book
 
