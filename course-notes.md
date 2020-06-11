@@ -219,7 +219,132 @@ https://pythex.org/
 https://pypi.org/project/PyInputPlus/
 Project: How to Keep an Idiot Busy for Hours
 Project: Multiplication Quiz
+
 https://automatetheboringstuff.com/2e/chapter9/
+You can think of a file’s contents as a single string value, potentially gigabytes in size. 
+A file has two key properties: a filename (usually written as one word) and a path. 
+root folder
+On macOS and Linux, the root folder is /. 
+On macOS, they appear as new folders under the /Volumes folder. 
+The macOS and Linux operating systems, however, use the forward slash (/) as their path separator. If you want your programs to work on all operating systems, you will have to write your Python scripts to handle both cases.
+Fortunately, this is simple to do with the Path() function in the pathlib module. If you pass it the string values of individual file and folder names in your path, Path() will return a string with a file path using the correct path separators. 
+https://docs.python.org/3/library/pathlib.html
+Note that the convention for importing pathlib is to run from pathlib import Path, since otherwise we’d have to enter pathlib.Path everywhere Path shows up in our code. Not only is this extra typing redundant, but it’s also redundant.
+If you want to get a simple text string of this path, you can pass it to the str() function, which in our example returns 'spam\\bacon\\eggs'. 
+(POSIX is a set of standards for Unix-like operating systems such as Linux.)
+These Path objects (really, WindowsPath or PosixPath objects, depending on your operating system) will be passed to several of the file-related functions introduced in this chapter. For example, the following code joins names from a list of filenames to the end of a folder’s name:
+However, you can use backslashes in filenames on macOS and Linux. 
+the same command would refer to a single folder (or file) named spam\eggs on macOS and Linux. For this reason, it’s usually a good idea to always use forward slashes in your Python code 
+Using the / Operator to Join Paths
+Using the / operator with Path objects makes joining paths just as easy as string concatenation. It’s also safer than using string concatenation or the join() method, like we do in this example:
+The pathlib module solves these problems by reusing the / math division operator to join paths correctly, no matter what operating system your code is running on. 
+The only thing you need to keep in mind when using the / operator for joining paths is that one of the first two values must be a Path object. 
+Diagram
+current working directory, or cwd. Any filenames or paths that do not begin with the root folder are assumed to be under the current working directory.
+You can get the current working directory as a string value with the Path.cwd() function and change it using os.chdir(). 
+You can get a Path object of the home folder by calling Path.home():
+On Mac, home directories are under /Users.
+Absolute vs. Relative Paths
+A single period (“dot”) for a folder name is shorthand for “this directory.” Two periods (“dot-dot”) means “the parent folder.”
+Creating New Folders Using the os.makedirs() Function
+To make a directory from a Path object, call the mkdir() method. 
+Note that mkdir() can only make one directory at a time; it won’t make several subdirectories at once like os.makedirs().
+Handling Absolute and Relative Paths
+Calling the is_absolute() method on a Path object will return True if it represents an absolute path or False if it represents a relative path. 
+To get an absolute path from a relative path, you can put Path.cwd() / in front of the relative Path object. 
+If your relative path is relative to another path besides the current working directory, just replace Path.cwd() with that other path instead. 
+os.path.abspath(path)
+os.path.isabs(path)
+os.path.relpath(path, start)
+os.path.relpath()
+Getting the Parts of a File Path
+Diagram
+os.path.dirname(path)
+os.path.basename(path)
+os.path.split()
+os.path.dirname() and os.path.basename()
+os.sep. (Note that sep is in os, not os.path.)
+Finding File Sizes and Folder Contents
+os.path.getsize(path)
+os.listdir(path)
+os.path.getsize()
+os.path.join()
+Modifying a List of Files Using Glob Patterns
+If you want to work on specific files, the glob() method is simpler to use than listdir(). Path objects have a glob() method for listing the contents of a folder according to a glob pattern. Glob patterns are like a simplified form of regular expressions often used in command line commands. The glob() method returns a generator object (which are beyond the scope of this book) that you’ll need to pass to list() to easily view in the interactive shell:
+The asterisk (*) stands for “multiple of any characters,” so p.glob('*') returns a generator of all files in the path stored in p. Like with regexes, you can create complex expressions:
+The glob pattern '*.txt' will return files that start with any combination of characters as long as it ends with the string '.txt', which is the text file extension.
+In contrast with the asterisk, the question mark (?) stands for any single character:
+Finally, you can also combine the asterisk and question mark to create even more complex glob expressions, like this:
+The glob expression '*.?x?' will return files with any name and any three-character extension where the middle character is an 'x'.
+By picking out files with specific attributes, the glob() method lets you easily specify the files in a directory you want to perform some operation on. You can use a for loop to iterate over the generator that glob() returns:
+If you want to perform some operation on every file in a directory, you can use either os.listdir(p) or p.glob('*').
+Checking Path Validity
+p.exists()
+p.is_file()
+p.is_dir()
+The File Reading/Writing Process
+plaintext files
+Binary files are all other file types
+If you open a binary file in Notepad or TextEdit, it will look like scrambled nonsense, like in Figure 9-6.
+The pathlib module’s read_text() method returns a string of the full contents of a text file. Its write_text() method creates a new text file (or overwrites an existing one) with the string passed to it.
+Call the open() function to return a File object.
+Call the read() or write() method on the File object.
+Close the file by calling the close() method on the File object.
+Opening Files with the open() Function
+Both these commands will open the file in “reading plaintext” mode, or read mode for short. 
+But if you don’t want to rely on Python’s defaults, you can explicitly specify the mode by passing the string value 'r' as a second argument to open(). So open('/Users/Al/hello.txt', 'r') and open('/Users/Al/hello.txt') do the same thing.
+Reading the Contents of Files
+If you think of the contents of a file as a single large string value, the read() method returns the string that is stored in the file.
+Alternatively, you can use the readlines() method to get a list of string values from the file, one string for each line of text. 
+Writing to Files
+Python allows you to write content to a file in a way similar to how the print() function “writes” strings to the screen. You can’t write to a file you’ve opened in read mode, though. Instead, you need to open it in “write plaintext” mode or “append plaintext” mode, or write mode and append mode for short.
+Write mode will overwrite the existing file and start from scratch, just like when you overwrite a variable’s value with a new value. Pass 'w' as the second argument to open() to open the file in write mode. Append mode, on the other hand, will append text to the end of the existing file. 
+Pass 'a' as the second argument to open() to open the file in append mode.
+If the filename passed to open() does not exist, both write and append mode will create a new, blank file. 
+After reading or writing a file, call the close() method before opening the file again.
+Saving Variables with the shelve Module
+shelve.open()
+On macOS, only a single mydata.db file will be created.
+Saving Variables with the pprint.pformat() Function
+pprint.pformat()
+The benefit of creating a .py file (as opposed to saving variables with the shelve module) is that because it is a text file, the contents of the file can be read and modified by anyone with a simple text editor. For most applications, however, saving data using the shelve module is the preferred way to save variables to a file. Only basic data types such as integers, floats, strings, lists, and dictionaries can be written to a file as simple text. File objects, for example, cannot be encoded as text.
+Project: Generating Random Quiz Files
+Project: Updatable Multi-Clipboard
+Summary
+https://automatetheboringstuff.com/2e/chapter10/
+Making copies of all PDF files (and only the PDF files) in every subfolder of a folder
+Removing the leading zeros in the filenames for every file in a folder of hundreds of files named spam001.txt, spam002.txt, spam003.txt, and so on
+Compressing the contents of several folders into one ZIP file (which could be a simple backup system)
+The shutil Module
+The shutil (or shell utilities) module has functions to let you copy, move, rename, and delete files in your Python programs.
+Copying Files and Folders
+shutil.copy()
+shutil.copytree()
+shutil.copytree(source, destination)
+Moving and Renaming Files and Folders
+Calling shutil.move(source, destination) will move the file or folder at the path source to the path destination and will return a string of the absolute path of the new location.
+shutil.move()
+move()
+Permanently Deleting Files and Folders
+os.rmdir(path) 
+shutil.rmtree(path)
+os.unlink()
+os.unlink(filename)
+Safe Deletes with the send2trash Module
+Walking a Directory Tree
+os.walk()
+similar to range()
+Compressing Files with the zipfile Module
+Reading ZIP Files
+Extracting from ZIP Files
+Creating and Adding to ZIP Files
+Project: Renaming Files with American-Style Dates to European-Style Dates
+Project: Backing Up a Folder into a ZIP File
+os and shutil modules
+send2trash module
+print() call
+os.walk()
+zipfile module
 
 
 ## CPython Internals Book
