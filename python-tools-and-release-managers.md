@@ -520,6 +520,9 @@ Python
 https://lwn.net/Articles/819853/
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
 
+https://mail.python.org/archives/list/python-committers@python.org/message/JFBZ7OHPQLHBYDCGGLG554JBXWGTKT23/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b3 is now available for testing - python-committers - python.org
+https://twitter.com/pyblogsal/status/1271115432590807041 | __qualname__ on Twitter: "Ah, don't you love the sound of 11630 lines of code that disappear at the same time? The old parser is dead! Long live the new parser!! https://t.co/xU9vTdxi0r" / Twitter
+
 https://twitter.com/gvanrossum/status/1255164435502489600 | Guido van Rossum on Twitter: "Python 3.9a6 is out! With new parser (PEP 617), dict|dict (PEP 584), list[int] (PEP 585), str.remove{prefix,suffix}() (PEP 616), and much more! Please test with your favorite packages. https://t.co/jhJ24UBGrw" / Twitter
 
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
