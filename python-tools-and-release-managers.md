@@ -6,6 +6,17 @@ https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | En
 https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
 
 
+Anthony
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://twitter.com/codewithanthony/status/1270774728207130624 | Anthony Sottile on Twitter: "I'll be streaming in ~80 minutes! new streaming schedule (Mon / Wed / Fri noon pacific, Sat 11am pacific). Today I *hope* to be looking at setting up a GitHub app and messing with webhooks, we'll see how much of that happens -- come by and chat! https://t.co/qughWG5TvG" / Twitter
+https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
+
+https://twitter.com/pganssle/status/1270056171861401601
+Release
+https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
+
+
 Shields
 https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
