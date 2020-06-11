@@ -46,6 +46,23 @@ https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN We
   
 https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
 https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+
+https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
+https://docs.python.org/3/library/constants.html#None | Built-in Constants — Python 3.8.3 documentation
+
+https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
+https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
+https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
+
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+frame object - Google Search
+https://docs.python.org/3/library/inspect.html#the-interpreter-stack
+
+negative indexes python - Google Search
+
+https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
 -->
 
 ## Twilio
