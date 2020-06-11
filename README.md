@@ -11,6 +11,7 @@ https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python
 https://opensource.com/how-submit-article | Write for us | Opensource.com
 https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
 https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
+https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
@@ -131,12 +132,44 @@ https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66f
 
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 
+https://github.com/python/cpython/pulls | Pull requests · python/cpython
+https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
+CPython
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
+https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
+https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://devchecklists.com/django-apps-checklist/ | DevChecklists | Django Apps Checklist
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+
+https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 https://github.com/orgs/maintainers/people?page=1
 
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 
 https://github.com/tox-dev/action
+
+https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
+
+https://beta.openai.com/ | OpenAI API
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -196,6 +229,10 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 
 https://nodejs.org/en/ | #BlackLivesMatter
 https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
+
+Deno
+https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
 
 
 https://github.com/llvm/llvm-project
@@ -1614,6 +1651,7 @@ Product
 https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
 
 https://virus.cafe/ | Virus Cafe
+https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
 
 https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 
@@ -3540,6 +3578,8 @@ https://en.wikipedia.org/wiki/Marketing_mix
 ## Chicken or Egg Problem
 
 <!--
+https://twitter.com/gregisenberg/status/1271084004326940673 | Greg Isenberg on Twitter: "Building "the anti-product" is often a successful way to build compelling products How do you build the: - The anti-Instagram - The anti-YouTube - The anti-Amazon - The anti-Netflix - etc You'll be surprised with what you come up with" / Twitter
+
 https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
 http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
 
