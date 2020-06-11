@@ -48,6 +48,15 @@ https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
 https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 -->
 
+## Twilio
+
+<!--
+Twilio
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
+-->
+
 ## Automate the Boring Stuff with Python
 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
