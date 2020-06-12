@@ -171,6 +171,20 @@ https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middl
 
 https://beta.openai.com/ | OpenAI API
 
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/building-github-apps/
+https://developer.github.com/v4/guides/
+https://github.com/whiteinge/ok.sh
+https://github.com/octokit/rest.js
+https://octokit.github.io/rest.js/v18
+https://github.com/pksunkara/octonode
+
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
