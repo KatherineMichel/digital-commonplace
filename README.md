@@ -115,17 +115,7 @@ https://wsl-guide.kennethreitz.org/en/latest/
 
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
 
-
-https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
-
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-
-https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
-
-es6 javascript features
-
-node on gh-pages
-https://www.npmjs.com/package/gh-pages | gh-pages - npm
+https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
 
 
 Pinax
@@ -136,6 +126,8 @@ Awesome- Pinax
 Release
 https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
 
+https://github.com/tox-dev/action
+
 
 !!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
@@ -145,53 +137,20 @@ https://devchecklists.com
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
+https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
+https://github.com/ericelliott/riteway
 
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py
 
-https://github.com/python/cpython/pulls | Pull requests · python/cpython
-https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
-CPython
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
-https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
-https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
-
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
-
-
-https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://github.com/orgs/maintainers/people?page=1
-
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-
-https://github.com/tox-dev/action
-
-https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
+https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
 
 Simon
 https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
 https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
 https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
-
-https://beta.openai.com/ | OpenAI API
+https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
 
 Using the GitHub AP in Your App
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
@@ -207,8 +166,62 @@ https://github.com/octokit/rest.js
 https://octokit.github.io/rest.js/v18
 https://github.com/pksunkara/octonode
 
+https://nodejs.org/en/ | #BlackLivesMatter
+https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
+
+Deno
+https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
+
+
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+https://github.com/python/cpython/pulls | Pull requests · python/cpython
+https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
+CPython
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://github.com/orgs/maintainers/people?page=1
+
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+
+
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+
+es6 javascript features
+
+node on gh-pages
+https://www.npmjs.com/package/gh-pages | gh-pages - npm
+
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+https://beta.openai.com/ | OpenAI API
+
+
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
@@ -250,31 +263,12 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
-Python
-https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
-
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
 https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
 
 
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
-
-
-https://nodejs.org/en/ | #BlackLivesMatter
-https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
-
-Deno
-https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
-https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
-
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
 
 https://github.com/llvm/llvm-project
 
@@ -356,6 +350,10 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
+
+https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
+
+https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
 
 https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
 https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
