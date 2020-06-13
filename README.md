@@ -3,6 +3,8 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
+
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
@@ -99,9 +101,7 @@ https://events.linuxfoundation.org/open-source-summit-north-america/
 https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
-Chaoss
-https://www.youtube.com/watch?v=sWyHzCVz8e0 | CHAOSS.GrimoireLab.May.19.2020 - YouTube
-https://fireside.fm/s/iyJHs6Al+iQXUbIUr | CHAOSScast Episode 1: "Hello, World!"
+https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
 
 
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
@@ -116,9 +116,25 @@ https://wsl-guide.kennethreitz.org/en/latest/
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
 
 
+https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+
+https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
+
+es6 javascript features
+
+node on gh-pages
+https://www.npmjs.com/package/gh-pages | gh-pages - npm
+
+
 Pinax
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
+Awesome- Pinax
+Release
+https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
 
 
 !!!!!
@@ -145,7 +161,6 @@ https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semant
 https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://devchecklists.com/django-apps-checklist/ | DevChecklists | Django Apps Checklist
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
@@ -153,6 +168,8 @@ https://devguide.python.org/ | Python Developer’s Guide — Python Developer's
 Cheat sheets
 https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
 https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
 
 
 https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
@@ -168,6 +185,11 @@ https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and 
 https://github.com/tox-dev/action
 
 https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
+
+Simon
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
+https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
+https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
 
 https://beta.openai.com/ | OpenAI API
 
@@ -187,6 +209,11 @@ https://github.com/pksunkara/octonode
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
 
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
