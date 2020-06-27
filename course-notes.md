@@ -496,6 +496,29 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 
 ## Stanford Code in Place
 
+<!--
+https://twitter.com/chrispiech/status/1244692768431038473 | chrispiech on Twitter: "Mehran Sahami and I are going to host a community-service online coding course called Code in Place alongside CS106A. Led by a army of volunteer teachers. We are keeping a teacher to student ratio of 10:1. Calling for volunteers and students! Please share: https://t.co/y6QAkshwTA https://t.co/s92Z4MBjf5" / Twitter
+
+Introductory video
+https://twitter.com/KatiMichel/status/1249787619342336000
+
+https://twitter.com/KatiMichel/status/1250932687780450305 | Katherine Michel on Twitter: "Just finished solving the assignment problems for Stanford's Code in 
+Place course. Fun but challenging. It took some hours and I had a few light bulb moments. I thought I was done at one point, but my answer didn't pass all the test cases. 🤣 Will solve the bonus material now. 👩‍💻" / Twitter
+
+Midpoint message
+https://twitter.com/KatiMichel/status/1256097561024163840
+
+https://twitter.com/KatiMichel/status/1259262140394827778 | Katherine Michel on Twitter: "In the running for coolest thing I've learned this week is how to use Python to replace a green background in a photo with the background of a different photo (greenscreening) via Stanford Code in Place. 💚" / Twitter
+https://twitter.com/KatiMichel/status/1263737007324332032 | Katherine Michel on Twitter: "Sitting here stunned at what I just did with @GitHub Actions for my Stanford Code in Place final project. Succeeded at something I didn't even know could be done. 🤯" / Twitter
+
+"Negative" image tweet
+https://twitter.com/KatiMichel/status/1264308702594527238
+https://twitter.com/KatiMichel/status/1264702476797673472
+
+My [first programmatic tweet of text](https://twitter.com/SimbaFriendsBot/status/1263318557380706305)
+My [first programmatic tweet of text and an image](https://twitter.com/SimbaFriendsBot/status/1263365130760273920). 
+-->
+
 ### Final Project
 
 <!--
