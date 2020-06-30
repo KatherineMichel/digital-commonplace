@@ -103,6 +103,9 @@ https://www.oreilly.com/conferences/oscon.html
 
 https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
 
+https://github.com/FlaskCon/website | FlaskCon/website
+https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
+
 
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
@@ -140,6 +143,16 @@ https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66f
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
 https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
 https://github.com/ericelliott/riteway
+
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
+https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
+
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
+
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
 
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py
@@ -298,6 +311,7 @@ https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on T
 Joel
 https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
 
 Driven
 http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
