@@ -497,6 +497,21 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ## Stanford Code in Place
 
 <!--
+https://us.edstem.org/courses/490/discussion/78319 | Code in Place – Discussion
+https://us.edstem.org/courses/490/discussion/71966 | Code in Place – Discussion
+
+https://www.youtube.com/watch?time_continue=178&v=U5KT89HJIw4&feature=emb_logo | (2) Goodbye Code in Place - YouTube
+https://us.edstem.org/courses/1470/discussion/ | Section 470 – Discussion
+
+https://twitter.com/KatiMichel/status/1276539905535959041 | Katherine Michel on Twitter: "Thanks again to @chrispiech and Mehran Sahami for a wonderful Stanford Code in Place experience. I wrote a post about what the experience was like for me and some of my thoughts about it! https://t.co/W9qTI2SLuw" / Twitter
+
+https://dl.acm.org/doi/pdf/10.1145/3051457.3053985 | Deep Knowledge Tracing On Programming Exercises
+
+http://karel.sourceforge.net/ | Karel The Robot
+
+tikinter pong game - Google Search
+
+
 https://twitter.com/chrispiech/status/1244692768431038473 | chrispiech on Twitter: "Mehran Sahami and I are going to host a community-service online coding course called Code in Place alongside CS106A. Led by a army of volunteer teachers. We are keeping a teacher to student ratio of 10:1. Calling for volunteers and students! Please share: https://t.co/y6QAkshwTA https://t.co/s92Z4MBjf5" / Twitter
 
 Introductory video
