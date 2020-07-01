@@ -1,6 +1,29 @@
 # Python Tools and Release Managers
 
 <!--
+https://launchpad.net/ubuntu | Ubuntu in Launchpad
+
+Python
+Django self-update
+https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
+
+Anthony
+https://www.youtube.com/watch?v=1SCyDlt4DGw | (1) replay - deadsnakes nightly github actions - 2020-06-22 - YouTube
+https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
+https://www.youtube.com/watch?v=_K4mjPrROGQ&feature=emb_logo | (1) python __future__ "module" (beginner - intermediate) anthony explains #055 - YouTube
+https://www.youtube.com/watch?v=BMn0nSpeITY | hacker mode tmux debugging (intermediate) anthony explains #051 - YouTube
+https://www.youtube.com/watch?v=KREsXvnZIt0 | (1) replay - pre-commit ci WIP demo and a lot of chat - 2020-06-17 - YouTube
+https://www.youtube.com/watch?v=MXZhe0KduyE&feature=emb_logo | (2) web security: what is a csrf exploit? (intermediate) anthony explains #053 - YouTube
+
+https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
+ttps://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
+https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
+
+
+GitLab Release
+https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/ | GitLab 13.1 released with Alert Management and Code Quality Enhancements | GitLab
+https://about.gitlab.com/press/releases/2020-06-11-gitlab-acquires-peach-tech-and-fuzzit-to-expand-devsecops-offering.html | GitLab Acquires Peach Tech and Fuzzit to Expand its DevSecOps Offering | GitLab
+
 GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
