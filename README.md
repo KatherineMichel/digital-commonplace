@@ -1710,6 +1710,9 @@ https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
 https://jasonet.co/ | Jason Etcovitch · jasonet.co
 https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
 https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
+
+https://github.com/tj
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 -->
 
 Women Who Inspire Me
@@ -1733,8 +1736,6 @@ https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) 
 
 https://virus.cafe/ | Virus Cafe
 https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
-
-https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 
 https://twitter.com/jessfraz
 https://blog.jessfraz.com/
