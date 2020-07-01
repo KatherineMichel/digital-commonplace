@@ -132,6 +132,9 @@ https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | t
 https://github.com/tox-dev/action
 
 
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
 !!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
@@ -143,6 +146,8 @@ https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66f
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
 https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
 https://github.com/ericelliott/riteway
+https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
 
 https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
@@ -156,7 +161,7 @@ https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
 
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py
-
+https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
 https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
 
 Simon
@@ -164,6 +169,9 @@ https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — 
 https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
 https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
 https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
+
+https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
+https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
 Using the GitHub AP in Your App
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
@@ -199,8 +207,14 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 
 
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
 Cheat sheets
+
+https://codingbat.com/ | CodingBat
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
 https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
 https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+Automate the Boring Stuff
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
@@ -210,6 +224,14 @@ https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community
 https://github.com/orgs/maintainers/people?page=1
 
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+Sphinx to Markdown
+https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+
+Read the Docs
+https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
+https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+
 
 
 
@@ -229,7 +251,6 @@ release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
 
 https://beta.openai.com/ | OpenAI API
-
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -368,6 +389,8 @@ https://leerob.io/blog/how-stripe-designs-beautiful-websites
 https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
 
 https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+
+https://adamthewan.com/blog/meetbutter/how-we-built-meetbutter-three-weeks/ | How We Built and Shipped MeetButter in 3 Weeks | adamthewan.com
 
 https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
 https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
@@ -542,6 +565,11 @@ https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twit
 <!--
 Netlify
 https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+
+Cassidy
+
+Sarah
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
 
 Sarah
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
