@@ -104,7 +104,10 @@ https://www.oreilly.com/conferences/oscon.html
 https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
 
 https://github.com/FlaskCon/website | FlaskCon/website
-https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
+
+PyCon
+https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e234500&WT.mc_id=pycon2020-social-ninaz | PyCon 2020 Content Board
+https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
 
 
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
@@ -130,6 +133,47 @@ Release
 https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
 
 https://github.com/tox-dev/action
+
+
+
+SemVer
+https://twitter.com/ncoghlan_dev/status/882576856938987521
+
+https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+
+Plan
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+
+http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
+
+Interesting!
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
+Productivity
+https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
+
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+
+https://www.producthunt.com/ask/574-what-are-the-best-products-created-entirely-by-a-team-of-one
+
+http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+
+Bias
+https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
+
+https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
+https://github.com/sustainers | Sustain
 
 
 Cassidy
@@ -297,6 +341,10 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
@@ -317,12 +365,6 @@ Ubuntu
 https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
 ubuntu release notes - Google Search
 
-MS
-https://twitter.com/idocrime/status/1264324850933542918 | ❄️Norpy🌈 on Twitter: "Y'all, why didn't any of you tell me about this? 🤦🤷 https://t.co/oCDx89xGaR" / Twitter
-https://github.com/microsoft/ProjectReunion | microsoft/ProjectReunion: Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.
-https://github.com/microsoft/winget-cli/issues/179 | (2) Please include ability to opt out of telemetry and clear documentation on how to opt out · Issue #179 · microsoft/winget-cli
-https://devblogs.microsoft.com/commandline/windows-package-manager-preview/ | Windows Package Manager Preview | Windows Command Line
-
 
 https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
@@ -333,6 +375,13 @@ Joel
 https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+Case Studies
+https://blog.bugsnag.com/bug-day-ariane-5-disaster/ | The Worst Computer Bugs in History: The Ariane 5 Disaster
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
+http://c2.com/xp/IntegrationHell.html | Integration Hell
+https://around.com/ariane.html | A Bug and a Crash by James Gleick
+https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/
 
 Driven
 http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
