@@ -5,6 +5,11 @@
 <!--
 https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
 
+https://gumroad.com/l/suydt | Speed Up Your Django Tests
+adamchainz/time-machine - Google Search
+
+code kata - Google Search
+
 Codeforces
 
 Python Exercise
