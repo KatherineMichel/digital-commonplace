@@ -497,6 +497,34 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ## Stanford Code in Place
 
 <!--
+Karel
+https://www.jetbrains.com/help/pycharm/github.html | GitHub - Help | PyCharm
+https://karelhelper.com/ | Karel Helper
+http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5 | Learn to Program
+
+Stanford
+https://compedu.stanford.edu/codeinplace/v1/#/admitted | Admitted Student
+https://compedu.stanford.edu/karel-reader/docs/python/en/ide.html | Karel Reader
+https://compedu.stanford.edu/karel-reader/docs/python/en/reference.html | Karel Reader
+https://compedu.stanford.edu/karel-reader/docs/python/en/chapter9.html | Karel Reader
+https://compedu.stanford.edu/karel-reader/docs/python/en/chapter8.html | Karel Reader
+
+Code in Place
+https://compedu.stanford.edu/codeinplace/v1/#/assignment/karel | Assignment
+https://compedu.stanford.edu/codeinplace/v1/#/handout/karelInPycharm.pdf | Handout
+https://compedu.stanford.edu/codeinplace/v1/#/karel/section1/arches | Code in Place Application
+https://compedu.stanford.edu/codeinplace/assn0/#/exercises/warmup | Assn0
+
+http://stanford.edu/~cpiech/karel/lessons.html#/english/unit9/lesson1 | Learn to Program
+
+https://us.edstem.org/courses/490/discussion/27750 | Code in Place – Discussion
+https://us.edstem.org/courses/490/discussion/28037 | Code in Place – Discussion
+https://us.edstem.org/courses/490/discussion/33978 | Code in Place – Discussion
+https://us.edstem.org/courses/490/discussion/33861 | Matt posted an announcement Zoom Meeting Invitation
+https://us.edstem.org/courses/1470/discussion/30564 | Section 470 – Discussion
+https://us.edstem.org/courses/1470/discussion/34173 | Section 470 – Discussion
+
+
 https://us.edstem.org/courses/490/discussion/78319 | Code in Place – Discussion
 https://us.edstem.org/courses/490/discussion/71966 | Code in Place – Discussion
 
