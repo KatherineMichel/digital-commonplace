@@ -497,6 +497,18 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ## Stanford Code in Place
 
 <!--
+https://twitter.com/search?q=stanford%20code%20in%20place&src=typed_query&f=live | stanford code in place - Twitter Search / Twitter
+
+https://compedu.stanford.edu/codeinplace/diagnostic/ae76ma.pdf | ae76ma.pdf
+https://us.edstem.org/courses/490/discussion/49678 | Code in Place – Discussion
+https://us.edstem.org/courses/490/discussion/47208 | Code in Place – Discussion
+
+https://compedu.stanford.edu/codeinplace/v1/#/handout/submissionA2.html | Handout
+https://us.edstem.org/courses/490/lessons/1198/slides/5976 | Code in Place – Lessons
+https://us.edstem.org/courses/490/lessons/1236/slides/6431 | Code in Place – Lessons
+https://us.edstem.org/courses/490/lessons/1135/slides/5433 | Code in Place – Lessons
+
+
 Karel
 https://www.jetbrains.com/help/pycharm/github.html | GitHub - Help | PyCharm
 https://karelhelper.com/ | Karel Helper
