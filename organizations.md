@@ -1,6 +1,9 @@
 # Organizations
 
 <!--
+https://github.com/historicalsource | historicalsource (Historical Source)
+https://mobile.twitter.com/OpenSFHistory
+
 https://github.com/RedHatInsights | cloud.redhat.com
 
 https://github.com/atlassian-labs | Atlassian Labs
