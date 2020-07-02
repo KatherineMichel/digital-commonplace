@@ -18,6 +18,8 @@ https://opensource.com/submission-style-guide | Article submission and style gui
 https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 
+https://www.writethedocs.org
+
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
@@ -110,6 +112,10 @@ https://opensource.org/StateOfTheSource | State of the Source Summit | Open Sour
 
 https://github.com/FlaskCon/website | FlaskCon/website
 
+https://twitter.com/NaomiCeder/status/1278049368583659525 | Naomi Ceder on Twitter: "So @ManningBooks is putting together a streaming Python conf mid-July and there are some spots open for minority women, LGBTQ+, etc. Hour stream and 10 min lightning talk slots available. Let me know if you have any interest, and I can tell you more and hook you up." / Twitter
+
+https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
+
 PyCon
 https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e234500&WT.mc_id=pycon2020-social-ninaz | PyCon 2020 Content Board
 https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
@@ -134,6 +140,16 @@ SemVer
 https://twitter.com/ncoghlan_dev/status/882576856938987521
 
 
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+https://github.com/pganssle/til | pganssle/til
+
+https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
+
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+
 https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
 
 Advice
@@ -143,8 +159,34 @@ https://twitter.com/housecor/status/1007813012705587200 | Cory House 🏠 on Twi
 https://twitter.com/simonw/status/1182077259839991808 | Simon Willison on Twitter: "What's the easiest way of running a stateful web application these days? Stateful as in it supports a process which can accept web requests and is allowed to write to a durable disk So not Heroku/Zeit Now/Cloud Run etc" / Twitter
 https://news.ycombinator.com/item?id=22290362 | Ask HN: What’s the most important modern simple invention? | Hacker News
 https://twitter.com/Suhail/status/1198016569114103808 | Suhail on Twitter: "Are there any good tools for software engineers to draw the architecture/design of a complex system?" / Twitter
+https://twitter.com/saronyitbarek/status/1258205078982443011 | Saron on Twitter: "Where do you get your ideas for apps and side projects?" / Twitter
+https://news.ycombinator.com/item?id=14375014 | Ask HN: How can I do social good through programming? | Hacker News
+https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career
+http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
+https://news.ycombinator.com/item?id=18000410 | Ask HN: What topics/subjects are worth learning for a new software engineer? | Hacker News
+
+Philosophy
+https://www.fast.ai/2016/10/08/teaching-philosophy/ | Providing a Good Education in Deep Learning · fast.ai
+
+https://stackoverflow.blog/2020/06/08/how-an-interview-code-submission-that-wasnt-even-submitted-changed-our-process/?cb=1 | How an interview code submission that wasn’t even submitted changed our process - Stack Overflow Blog
+
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+https://medium.com/@stevenrouk/day-1-of-the-two-hour-web-app-project-e19f1e8405b6#.l8ukg3rjo | Day 1 of the Two-Hour Web App Project – Medium
+
+http://www.forbes.com/sites/stevedenning/2017/01/08/resisting-the-lure-of-short-termism-how-to-achieve-long-term-growth/#3ebd36dd3ab9 | Resisting The Lure Of Short-Termism: Kill 'The World's Dumbest Idea'
+
+https://www-cs-faculty.stanford.edu/~knuth/ | Don Knuth's Home Page
+
+https://plato.stanford.edu/entries/computer-science/ | The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
+https://plato.stanford.edu/entries/simplicity/ | Simplicity (Stanford Encyclopedia of Philosophy)
 
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
 
 https://awesomeblog.club/ | Awesomeblog.club - explore
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
@@ -161,6 +203,9 @@ http://wireframe.vn/books/Don't%20Make%20Me%20Think%20-%20A%20Common%20Sense%20A
 
 http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
 
+GitHub notifications
+https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
+
 Interesting!
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
 
@@ -169,6 +214,8 @@ https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (
 
 Productivity
 https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
+
+https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 
 Bias
 https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
@@ -179,11 +226,10 @@ https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-
 
 http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
 
+https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
+
 Human Design
 https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
-
-https://plato.stanford.edu/entries/computer-science/ | The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
-https://plato.stanford.edu/entries/simplicity/ | Simplicity (Stanford Encyclopedia of Philosophy)
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
 
@@ -193,6 +239,7 @@ https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/
 
 https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
 
 https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
@@ -240,6 +287,11 @@ https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
 https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
 
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+ 
 
 https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
 
@@ -261,17 +313,28 @@ https://nodejs.org/en/ | #BlackLivesMatter
 https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 
 Deno
+https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
 https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
 https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
+
+https://twitter.com/gauravssnl/status/1260477661878632449
+https://jaxenter.com/deno-interview-ryan-dahl-171425.html
+https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
+https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
 
 Playwright
 https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
 
 https://codingbat.com/ | CodingBat
+
+Traversy
+https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
 No Starch
 https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
@@ -288,6 +351,8 @@ Automate the Boring Stuff
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+http://www.avabodh.com/cin/cin.html | C Internals
 
 https://github.com/python/cpython/pulls | Pull requests · python/cpython
 https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
@@ -320,6 +385,12 @@ https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitte
 
 https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
 
+
+Git
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
 
 https://github.com/sustainers | Sustain
 
@@ -372,6 +443,9 @@ http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Co
 
 https://amitness.com/2019/08/math-for-programmers/
 
+Algebra/functions
+https://mobile.twitter.com/newsyc20/status/1250402036262277120
+
 https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
 
@@ -384,6 +458,8 @@ Joel
 https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ | Developers who use spaces make more money than those who use tabs - Stack Overflow Blog
 
 Case Studies
 https://blog.bugsnag.com/bug-day-ariane-5-disaster/ | The Worst Computer Bugs in History: The Ariane 5 Disaster
@@ -436,7 +512,8 @@ https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonis
 
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
-https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
+Falsehoods
+http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-11.html#e2019-11-10T11_06_39.htm | Knowing and Doing: November 2019 Archives
 
 
 
@@ -479,9 +556,17 @@ https://access.redhat.com/documentation/en-us/
 ACM Library
 https://dl.acm.org/
 
+https://www.youtube.com/watch?v=t186rW-45nk&feature=emb_logo | Upload Videos to Cloudinary In 5 Minutes or Less - YouTube
+https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/ | Ladies and Gentlemen… Cloudflare TV!
+https://www.oracle.com/cloud/free/ | Oracle Cloud Free Tier | Oracle
+
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
 https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
+https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
+
+https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
 
 
 Docker
@@ -490,6 +575,7 @@ https://github.com/docker/compose/issues/3729
 Sqlite
 https://twitter.com/brettsky/status/1256026919151169536
 
+https://trusted-cgi.reddec.net/ | Trusted-CGI | Trusted CGI
 
 
 https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
@@ -514,6 +600,13 @@ Lean Enterprise
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
+
+https://twitter.com/rabois/status/1245098773346279424 | Keith Rabois on Twitter: "Endorse. https://t.co/G4T6wv3c8e" / Twitter
+
+https://m.signalvnoise.com/enough/ | Enough - Signal v. Noise
+
+https://twitter.com/pomeranian99/status/884471460248420354 | Clive Thompson on Twitter: "I love this: Pick the level at which you want something explained. News sites should have this for every story: https://t.co/olUq1r9Hdc https://t.co/uf2ObuaaNj"
+http://kottke.org/17/05/a-biologist-explains-crispr-to-people-at-five-different-levels-of-knowledge | A biologist explains CRISPR to people at five different levels of knowledge
 
 Amazing
 https://twitter.com/devdevcharlie/status/958090220779352064 | Charlie Gerard on Twitter: "Forgot to share I FINALLY got the mental commands from the @emotiv to work in JavaScript! 🎉😃 Here's a quick example of me pushing a #threejs cube just by thinking about it! https://t.co/oE6vxI9uWw #javascript #Nodejs #iot #EEG… https://t.co/DWaOtvRDVv"
