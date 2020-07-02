@@ -3,6 +3,21 @@
 ## Django Organization Tools
 
 <!--
+https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
+
+Codeforces
+
+Python Exercise
+https://store.lerner.co.il/wpe | Weekly Python Exercise
+
+Interviewing
+https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
+
+https://learncodethehardway.org/more-python/
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+
+
 https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
 https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
 
