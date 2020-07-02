@@ -3,6 +3,9 @@
 ## Django Organization Tools
 
 <!--
+Hello Web Design
+https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
+
 https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
 https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
 
