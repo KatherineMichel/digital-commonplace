@@ -134,6 +134,16 @@ SemVer
 https://twitter.com/ncoghlan_dev/status/882576856938987521
 
 
+https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
+
+Advice
+https://news.ycombinator.com/item?id=17217210 | Ask HN: What's your favorite way of getting a web app up quickly in 2018? | Hacker News
+http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
+https://twitter.com/housecor/status/1007813012705587200 | Cory House 🏠 on Twitter: "Anyone have recommendations for a free/cheap provider to host a simple web api and a small database? Ideally quick to set up."
+https://twitter.com/simonw/status/1182077259839991808 | Simon Willison on Twitter: "What's the easiest way of running a stateful web application these days? Stateful as in it supports a process which can accept web requests and is allowed to write to a durable disk So not Heroku/Zeit Now/Cloud Run etc" / Twitter
+https://news.ycombinator.com/item?id=22290362 | Ask HN: What’s the most important modern simple invention? | Hacker News
+https://twitter.com/Suhail/status/1198016569114103808 | Suhail on Twitter: "Are there any good tools for software engineers to draw the architecture/design of a complex system?" / Twitter
+
 https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
 https://awesomeblog.club/ | Awesomeblog.club - explore
@@ -143,10 +153,19 @@ https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you pl
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
+
+http://wireframe.vn/books/Don't%20Make%20Me%20Think%20-%20A%20Common%20Sense%20Approach%20To%20Web%20Usability%20(Second%20Edition)%20(2006).pdf | Don't Make Me Think: A Common Sense Approach to Web Usability
+
 http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
 
 Interesting!
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
+Voice
+https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (Google Docs voice typing demo) - YouTube
 
 Productivity
 https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
@@ -160,11 +179,20 @@ https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-
 
 http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
 
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
+Human Design
+https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
 
-https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
+https://plato.stanford.edu/entries/computer-science/ | The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
+https://plato.stanford.edu/entries/simplicity/ | Simplicity (Stanford Encyclopedia of Philosophy)
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
 
 
 https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
