@@ -5,6 +5,9 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
+https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
+https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
+
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
@@ -14,6 +17,8 @@ https://opensource.com/how-submit-article | Write for us | Opensource.com
 https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
 https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
+
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
@@ -110,21 +115,12 @@ https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e
 https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
 
 
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
-
-https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github - DEV
-
-https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
-
-
 Pinax
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
 
@@ -134,20 +130,18 @@ https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | t
 
 https://github.com/tox-dev/action
 
-
-
 SemVer
 https://twitter.com/ncoghlan_dev/status/882576856938987521
 
-https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
 
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-
-Plan
 https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
 
@@ -157,27 +151,43 @@ https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your 
 Productivity
 https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
 
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
-
-https://www.producthunt.com/ask/574-what-are-the-best-products-created-entirely-by-a-team-of-one
-
-http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-
 Bias
 https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
 
 https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
 
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
 
-https://github.com/sustainers | Sustain
+http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
 
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
+
+https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
+
+
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py
+https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
+https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
+
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
+https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
+https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
+https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
+
+https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
+https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
 Cassidy
 https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
 
 !!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
@@ -193,29 +203,17 @@ https://github.com/ericelliott/riteway
 https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
 https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
 
+Eric
+https://twitter.com/_ericelliott/status/860645463674028032 | Eric Elliott on Twitter: "There are 2 categories of programmers & you need both on your team: 1 senior mentors/architects/guides 2 feature-focused devs"
+ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twitter: "Most effective ways to reduce bugs: 1 Code review 2 TDD 3 Spec/design review 4 Pair programming 5 Manual (human) testing #code #tdd"
+1 Code review, 2 TDD, 3 Spec/design review, 4 Pair programming, 5 Manual (human) testing
+https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
+
 https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
 
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
 https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
-
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/
-https://github.com/simonw/datasette/blob/master/tests/test_docs.py
-https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
-https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
-
-Simon
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
-https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
-https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
-https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
-
-https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
-https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
 Using the GitHub AP in Your App
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
@@ -238,28 +236,64 @@ Deno
 https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
 https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
 
+Playwright
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+https://codingbat.com/ | CodingBat
+
+No Starch
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
+https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
+https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
+
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+Automate the Boring Stuff
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 
 https://github.com/python/cpython/pulls | Pull requests · python/cpython
 https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
 CPython
 
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
 Cheat sheets
 
-https://codingbat.com/ | CodingBat
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+CPython
+https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
+https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
+https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
+https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
 
-Automate the Boring Stuff
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
 
+https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
+https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
+
+
+Sphinx to Markdown
+https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+
+Read the Docs
+https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
+https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
+
+https://github.com/sustainers | Sustain
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
 
@@ -269,14 +303,76 @@ https://github.com/orgs/maintainers/people?page=1
 
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 
-Sphinx to Markdown
-https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
 
-Read the Docs
-https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
-https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+Driven
+http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
+
+https://amitness.com/2019/08/math-for-programmers/
+
+https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
 
+https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
+
+Debugging
+https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
+
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+Case Studies
+https://blog.bugsnag.com/bug-day-ariane-5-disaster/ | The Worst Computer Bugs in History: The Ariane 5 Disaster
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
+http://c2.com/xp/IntegrationHell.html | Integration Hell
+https://around.com/ariane.html | A Bug and a Crash by James Gleick
+https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/
+
+
+
+
+
+
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
 
 
 https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
@@ -297,40 +393,10 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 https://beta.openai.com/ | OpenAI API
 
 
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
 
 https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
-CPython
-https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
-https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
-https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
-https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
-
-https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
-
-https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
-https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
-https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
 
 Barry
 https://www.wefearchange.org/ | We Fear Change
@@ -339,15 +405,15 @@ https://www.wefearchange.org/ | We Fear Change
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
 
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://www.tutorialspoint.com/python/os_walk.htm | Python os.walk() Method - Tutorialspoint
+
+
+
+
+https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 
 
 https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
@@ -365,51 +431,6 @@ Ubuntu
 https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
 ubuntu release notes - Google Search
 
-
-https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
-
-Debugging
-https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
-
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-Case Studies
-https://blog.bugsnag.com/bug-day-ariane-5-disaster/ | The Worst Computer Bugs in History: The Ariane 5 Disaster
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
-http://c2.com/xp/IntegrationHell.html | Integration Hell
-https://around.com/ariane.html | A Bug and a Crash by James Gleick
-https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/
-
-Driven
-http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
-
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://amitness.com/2019/08/math-for-programmers/
-
-https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
-
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
-
-https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
-
-Docker
-https://github.com/docker/compose/issues/3729
-
-Sqlite
-https://twitter.com/brettsky/status/1256026919151169536
 
 http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
 Cap Theorem, Systems thinking, tradeoffs
@@ -432,7 +453,15 @@ https://dl.acm.org/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
+https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
+
+Docker
+https://github.com/docker/compose/issues/3729
+
+Sqlite
+https://twitter.com/brettsky/status/1256026919151169536
+
 
 
 https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
@@ -457,6 +486,10 @@ Lean Enterprise
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
+
+Amazing
+https://twitter.com/devdevcharlie/status/958090220779352064 | Charlie Gerard on Twitter: "Forgot to share I FINALLY got the mental commands from the @emotiv to work in JavaScript! 🎉😃 Here's a quick example of me pushing a #threejs cube just by thinking about it! https://t.co/oE6vxI9uWw #javascript #Nodejs #iot #EEG… https://t.co/DWaOtvRDVv"
+http://www.kurzweilai.net/how-to-detect-emotions-remotely-with-wireless-signals | How to detect emotions remotely with wireless signals | KurzweilAI
 -->
 
 ## Good Habits
