@@ -149,6 +149,29 @@ https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-a
 
 https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
 
+https://github.com/dabeaz-course/practical-python
+Practical Python Programming (course by @dabeaz)
+
+https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
+
+https://twitter.com/andrewgodwin/status/1278005514018779136 | Andrew Godwin on Twitter: "Something I'd love to see in programming interviews: ethics/harm reduction. Here's a basic design for a new website, walk me through the changes needed to make it safe, private and non-discriminatory. Not easy to ask, but it's more relevant than "can you reverse a list"." / Twitter
+
+Amazing design
+http://www.hawraf.com/
+https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
+
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+Browser/SM
+https://twitter.com/aaranged/status/844694418493878273
+
+https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
+http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+
+Reverse Engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
 
 https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
 
@@ -273,6 +296,7 @@ Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
+https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
 https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
 https://github.com/ericelliott/riteway
 https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
@@ -292,6 +316,14 @@ https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
 https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
  
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
+API
+HTTP API Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
 
 https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
 
@@ -409,6 +441,12 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
+https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
 
@@ -458,6 +496,8 @@ Joel
 https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
 
 https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ | Developers who use spaces make more money than those who use tabs - Stack Overflow Blog
 
@@ -584,6 +624,8 @@ https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of
 
 https://adamthewan.com/blog/meetbutter/how-we-built-meetbutter-three-weeks/ | How We Built and Shipped MeetButter in 3 Weeks | adamthewan.com
 
+https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
+
 https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
 https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
 
@@ -602,6 +644,12 @@ https://hackernoon.com/product-development-team-self-assessment-c3707f065069?sou
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
 https://twitter.com/rabois/status/1245098773346279424 | Keith Rabois on Twitter: "Endorse. https://t.co/G4T6wv3c8e" / Twitter
+
+https://docs.google.com/document/d/1dWpCE_uAh8EQObiTdfRYcxX5nAmmd_iYwN73D_cv2_0/edit | Founders At Work Notes by Mckay Wrigley - Google Docs
+https://www.principles.com/principles-for-success/
+https://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png
+https://25iq.files.wordpress.com/2016/05/the_global_negotiator.pdf
+https://rework.withgoogle.com/blog/how-OKRs-fuel-innovation/ | re:Work - How OKRs fuel innovation
 
 https://m.signalvnoise.com/enough/ | Enough - Signal v. Noise
 
