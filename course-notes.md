@@ -509,6 +509,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ## Stanford Code in Place
 
 <!--
+Karel Notes
+https://mobile.twitter.com/thankfulfoodie/status/1250214251110645761
+
 https://twitter.com/search?q=stanford%20code%20in%20place&src=typed_query&f=live | stanford code in place - Twitter Search / Twitter
 
 https://compedu.stanford.edu/codeinplace/diagnostic/ae76ma.pdf | ae76ma.pdf
