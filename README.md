@@ -140,6 +140,19 @@ SemVer
 https://twitter.com/ncoghlan_dev/status/882576856938987521
 
 
+Wichita SWE
+
+Ergonomic Chair
+The Aeron. I also added a small inexpensive mesh support I got on Amazon. It should be able to last you 20 years
+https://mobile.twitter.com/shanselman/status/1249173789247705093
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+First round review
+https://mobile.twitter.com/AskAlmanac/status/1245832069315321856
+
 Mondrian
 https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
 
@@ -240,6 +253,9 @@ https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular
 
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 
+Business models
+https://axial.substack.com/p/axial-business-models | Axial - Business models
+
 Bias
 https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
 
@@ -295,6 +311,7 @@ https://devchecklists.com
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
+https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
 https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
 https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
