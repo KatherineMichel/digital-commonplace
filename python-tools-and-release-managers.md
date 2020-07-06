@@ -1524,6 +1524,51 @@ https://squidfunk.github.io/mkdocs-material/getting-started/
 https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
 -->
 
+<!--
+## Docs
+
+https://www.mkdocs.org/ | MkDocs
+https://www.mkdocs.org/#theming-our-documentation | MkDocs
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes | MkDocs Themes · mkdocs/mkdocs Wiki
+
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes#gitbook-theme | MkDocs Themes · mkdocs/mkdocs Wiki
+https://pypi.org/project/mkdocs-gitbook/ | mkdocs-gitbook · PyPI
+https://github.com/connerxyz/common-utils/blob/master/docs/mkdocs.yml | common-utils/mkdocs.yml at master · connerxyz/common-utils
+https://github.com/mkdocs/mkdocs/issue/1452 | Clarify documentation · Issue #1452 · mkdocs/mkdocs
+https://github.com/connerxyz/common-utils/blob/master/docs/mkdocs.yml | common-utils/mkdocs.yml at master · connerxyz/common-utils
+https://github.com/pallets/flask/tree/master/docs | flask/docs at master · pallets/flask
+https://www.mkdocs.org/user-guide/custom-themes/ | Custom Themes - MkDocs
+
+Alabaster
+https://github.com/notpushkin/mkdocs-alabaster | notpushkin/mkdocs-alabaster: Alabaster port for MkDocs
+https://alabaster.readthedocs.io/en/latest/installation.html | Installation — Alabaster documentation
+https://github.com/bitprophet/alabaster | bitprophet/alabaster: Lightweight, configurable Sphinx theme. Now the Sphinx default!
+
+Bootstrap Theme
+https://mkdocs.github.io/mkdocs-bootstrap/ | MkDocs Bootstrap Theme
+https://github.com/mkdocs/mkdocs-bootstrap | mkdocs/mkdocs-bootstrap: MkDocs Bootstrap Theme
+
+GitBook
+https://gitlab.com/lramage/mkdocs-gitbook-theme | Lucas Ramage / Mkdocs - GitBook Theme · GitLab
+https://lramage.gitlab.io/mkdocs-gitbook-theme/ | Home - Mkdocs - GitBook Theme
+https://pypi.org/project/mkdocs-gitbook/ | mkdocs-gitbook · PyPI
+
+Sphinx
+https://github.com/sphinx-doc/sphinx | sphinx-doc/sphinx: Main repository for the Sphinx documentation builder
+http://www.sphinx-doc.org/en/master/usage/quickstart.html | Getting Started — Sphinx 3.0.0+/17d907d4e documentation
+https://www.sphinx-doc.org/en/1.6/markdown.html | Markdown support — Sphinx 1.6.7 documentation
+https://www.sphinx-doc.org/en/master/usage/markdown.html | Markdown — Sphinx 3.0.0+/17d907d4e documentation
+
+http://www.sphinx-doc.org/en/master/contents.html | Sphinx documentation contents — Sphinx 1.8.0+ documentation
+http://www.sphinx-doc.org/en/master/usage/markdown.html#configuration | Markdown — Sphinx 1.8.0+ documentation
+https://github.com/kennethreitz/python-guide/blob/master/requirements.txt | python-guide/requirements.txt at master · kennethreitz/python-guide
+https://sphinx-rtd-theme.readthedocs.io/en/latest/installing.html | Installation — Read the Docs Sphinx Theme 0.3.1 documentation
+
+https://github.com/kennethreitz-archive/kr-sphinx-themes | kennethreitz-archive/kr-sphinx-themes: Sphinx theme I use for most projects. Derivative of Mitsuhiko's Flask theme.
+
+https://docusaurus.io/en/users | Users · Docusaurus
+-->
+
 ## Automation
 
 Terraform
