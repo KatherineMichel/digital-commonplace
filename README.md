@@ -49,6 +49,7 @@ CfPs
 PyOhio
 https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
 https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
+https://womenintechsummit.net/ | The Women In Tech Summit
 
 https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
 
@@ -142,6 +143,9 @@ https://twitter.com/ncoghlan_dev/status/882576856938987521
 
 Wichita SWE
 
+Important
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+
 Ergonomic Chair
 The Aeron. I also added a small inexpensive mesh support I got on Amazon. It should be able to last you 20 years
 https://mobile.twitter.com/shanselman/status/1249173789247705093
@@ -149,6 +153,9 @@ https://mobile.twitter.com/shanselman/status/1249173789247705093
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
 
 First round review
 https://mobile.twitter.com/AskAlmanac/status/1245832069315321856
@@ -279,7 +286,7 @@ https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/
 https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
-
+ 
 
 https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
 
@@ -1971,7 +1978,9 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 https://github.com/mscoutermarsh/profile-tweet
 https://www.amazon.com/gp/product/B00Q8QKGJ0
 
-https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
+https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
+https://github.com/mscoutermarsh?tab=repositories | mscoutermarsh (Mike Coutermarsh) / Repositories
+xhttps://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
 https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
 https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
 https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
