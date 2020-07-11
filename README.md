@@ -157,13 +157,72 @@ https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
 
+MVP
+https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
+
 First round review
 https://mobile.twitter.com/AskAlmanac/status/1245832069315321856
+
+Interesting
+https://mobile.twitter.com/blakeir/status/1250587878100516864
+
+PM
+https://mobile.twitter.com/shreyas/status/1249039638829793280
+
+Advice- PM
+https://news.ycombinator.com/item?id=14828076
+
+
+
+https://lyrebird.ai/demo | Demo - Lyrebird
+
+100 Days
+https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
+
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+https://github.com/pganssle/til | pganssle/til
+
+TIL
+https://mobile.twitter.com/simonw/status/1252647702078218243
+https://mobile.twitter.com/simonw/status/1252227832333209601
+
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
+
+Twitter Dev
+https://developer.twitter.com/en/apps | Twitter Developers
+https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
+
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
 
 Mondrian
 https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
 
-https://github.com/pganssle/til | pganssle/til
+GitHub Actions
+https://github.com/GoogleChrome/lighthouse-stack-packs/issues
+https://mobile.twitter.com/magnetikonline/status/1224837954771668992
+https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
+
+Self-Serve Case Studies
+https://github.com/nodejs/nodejs.org/issues/1230
+
+OS Important
+https://mobile.twitter.com/mariatta/status/1252655621398163458
+
+
+
 
 https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
 
@@ -407,6 +466,7 @@ Automate the Boring Stuff
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
 
 http://www.avabodh.com/cin/cin.html | C Internals
 
