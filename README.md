@@ -24,6 +24,8 @@ https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular
 
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+
 
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
@@ -157,13 +159,6 @@ https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additio
 https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
 
 
-
-
-Node
-https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
-
-https://ti.to/netlify/jamstack_virtual | Jamstack Conf Virtual
-
 CHAOSS
 
 Sustain OSS
@@ -184,6 +179,12 @@ https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLa
 PyCon
 https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e234500&WT.mc_id=pycon2020-social-ninaz | PyCon 2020 Content Board
 https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
+
+Node
+https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
+
+https://ti.to/netlify/jamstack_virtual | Jamstack Conf Virtual
+
 
 
 
@@ -219,15 +220,21 @@ https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-t
 Twitter case study PWA
 https://developers.google.com/web/showcase/2017/twitter
 
+https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
+
+https://lyrebird.ai/demo | Demo - Lyrebird
+
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
 https://twitter.com/fauna
 https://twitter.com/prisma
 https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
 
 https://firebase.google.com/
 
-https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
 
-https://lyrebird.ai/demo | Demo - Lyrebird
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
 
 
 Cassidy
@@ -237,6 +244,12 @@ https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twit
 
 100 Days
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
+
+API
+HTTP API Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
 
 https://github.com/realpython/list-of-python-api-wrappers
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
@@ -325,6 +338,17 @@ https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congra
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
+https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+
+Barry
+https://www.wefearchange.org/ | We Fear Change
+
+
 https://codingbat.com/ | CodingBat
 
 https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
@@ -355,6 +379,8 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 
 
 
 https://stackoverflow.blog/2020/06/08/how-an-interview-code-submission-that-wasnt-even-submitted-changed-our-process/?cb=1 | How an interview code submission that wasn’t even submitted changed our process - Stack Overflow Blog
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
 
 Learning to Code
 https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
@@ -464,12 +490,9 @@ https://wsl-guide.kennethreitz.org/en/latest/
 https://awesomeblog.club/ | Awesomeblog.club - explore
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+http://www.hawraf.com/
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
 
 
 
@@ -509,38 +532,6 @@ https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mas
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
 
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-
-https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
-
-http://www.hawraf.com/
-
-
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
- 
-
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
- 
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
-
-API
-HTTP API Docs
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-
-
-Git
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
 https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
@@ -556,17 +547,15 @@ https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and 
 
 
 
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
-Barry
-https://www.wefearchange.org/ | We Fear Change
-
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
+ 
 
 
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+ 
 
 es6 javascript features
 
@@ -581,10 +570,9 @@ https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz 
 release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
 
-https://beta.openai.com/ | OpenAI API
-
-
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
+
+https://beta.openai.com/ | OpenAI API
 
 
 
@@ -753,6 +741,8 @@ https://trusted-cgi.reddec.net/ | Trusted-CGI | Trusted CGI
 
 https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 
+
+https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
 
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
