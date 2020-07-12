@@ -236,6 +236,9 @@ https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build
 
 https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
 
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
 
 Cassidy
 https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
@@ -444,6 +447,10 @@ https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
 
 https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
 
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+ 
+es6 javascript features
+
 
 http://www.avabodh.com/cin/cin.html | C Internals
 
@@ -534,8 +541,10 @@ https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: 
 
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
 https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+
+GitLab
+https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
 
 https://github.com/sustainers | Sustain
 
@@ -546,18 +555,6 @@ https://github.com/orgs/maintainers/people?page=1
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 
 
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
- 
-
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
- 
-
-es6 javascript features
 
 node on gh-pages
 https://www.npmjs.com/package/gh-pages | gh-pages - npm
@@ -573,7 +570,6 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://beta.openai.com/ | OpenAI API
-
 
 
 
@@ -746,6 +742,8 @@ https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / T
 
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
+ 
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 
 https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
