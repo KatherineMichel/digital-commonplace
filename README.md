@@ -8,6 +8,23 @@ https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twit
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
+http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
+
+GitHub notifications
+https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
+
+Interesting!
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
+Voice
+https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (Google Docs voice typing demo) - YouTube
+
+Productivity
+https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
+
+https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
+
+
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
@@ -17,6 +34,9 @@ https://opensource.com/how-submit-article | Write for us | Opensource.com
 https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
 https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
+https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
+https://www.digitalocean.com/community/pages/write-for-digitalocean
+https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
 
 https://www.writethedocs.org
 
@@ -41,17 +61,47 @@ https://github.com/HandBrake | HandBrake
 https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
 https://obsproject.com/ | Open Broadcaster Software | OBS
 
+Pinax
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Casey
+https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
+Awesome- Pinax
+Release
+https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
+
+https://github.com/tox-dev/action
+
+SemVer
+https://twitter.com/ncoghlan_dev/status/882576856938987521
+https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
+
+https://github.com/features/codespaces/ | Codespaces
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+Sphinx to Markdown
+https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+
+Read the Docs
+https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
+https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
 
 
-CfPs
-PyOhio
-https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
-https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
-https://womenintechsummit.net/ | The Women In Tech Summit
-
+PyconAfrica 2021
 https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
+
+Conference friends
+https://twitter.com/jonafato/status/1245443151420104704
 
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
@@ -59,29 +109,27 @@ http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
-Conference friends
-https://twitter.com/jonafato/status/1245443151420104704
+https://www.acm.org/virtual-conferences | Virtual Conferences
 
+
+Events list
+https://mobile.twitter.com/chrisjrn/status/1248020330532057093
+
+CfPs
+PyOhio
+https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
+
+SF
 https://www.meetup.com/sfpython/events/xkwxvqybchbrb/
 https://twitter.com/sfpythonmeetup/status/1237538712105320448
 https://twitter.com/pirosb3/status/1237497435988979713
 
-https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
-https://mobile.twitter.com/chrisjrn/status/1248020330532057093
 https://2020.pyconuk.org/ | PyCon UK 2020
 
-https://www.acm.org/virtual-conferences | Virtual Conferences
+https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
+https://womenintechsummit.net/ | The Women In Tech Summit
 
-May 6
-https://githubsatellite.com/
-https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
-https://git-merge.com/ | Git Merge 2018 — March, Barcelona
-
-May 19-20
-https://register.build.microsoft.com/
-https://mybuild.microsoft.com/sessions | MyBuild - Session catalog
-
-https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
+To watch
 
 PyCon
 https://us.pycon.org/2020/remote/
@@ -94,6 +142,22 @@ https://discord.com/channels/702724176489873509/702724176489873512
 
 Django Flask demo
 https://twitter.com/luumelo14/status/1260687690996920320
+
+May 6
+https://githubsatellite.com/
+https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
+https://git-merge.com/ | Git Merge 2018 — March, Barcelona
+
+May 19-20
+https://register.build.microsoft.com/
+https://mybuild.microsoft.com/sessions | MyBuild - Session catalog
+
+https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
+
+https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
+
+
+
 
 Node
 https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
@@ -122,29 +186,8 @@ https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e
 https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
 
 
-Pinax
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Casey
-https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
-
-Awesome- Pinax
-Release
-https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
-
-https://github.com/tox-dev/action
-
-SemVer
-https://twitter.com/ncoghlan_dev/status/882576856938987521
-
 
 Wichita SWE
-
-Important
-https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
 
 Ergonomic Chair
 The Aeron. I also added a small inexpensive mesh support I got on Amazon. It should be able to last you 20 years
@@ -160,21 +203,35 @@ https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mas
 MVP
 https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
 
-First round review
-https://mobile.twitter.com/AskAlmanac/status/1245832069315321856
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
 
-Interesting
-https://mobile.twitter.com/blakeir/status/1250587878100516864
+Important
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 
-PM
-https://mobile.twitter.com/shreyas/status/1249039638829793280
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
 
-Advice- PM
-https://news.ycombinator.com/item?id=14828076
+Twitter case study PWA
+https://developers.google.com/web/showcase/2017/twitter
 
+https://twitter.com/fauna
+https://twitter.com/prisma
+https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
 
+https://firebase.google.com/
+
+https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
 
 https://lyrebird.ai/demo | Demo - Lyrebird
+
+
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
 
 100 Days
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
@@ -210,142 +267,8 @@ https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Close
 Mondrian
 https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
 
-GitHub Actions
-https://github.com/GoogleChrome/lighthouse-stack-packs/issues
-https://mobile.twitter.com/magnetikonline/status/1224837954771668992
-https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
-
-Self-Serve Case Studies
-https://github.com/nodejs/nodejs.org/issues/1230
-
-OS Important
-https://mobile.twitter.com/mariatta/status/1252655621398163458
-
-
-
-
-https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-
 https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
 
-https://github.com/dabeaz-course/practical-python
-Practical Python Programming (course by @dabeaz)
-
-https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
-
-https://twitter.com/andrewgodwin/status/1278005514018779136 | Andrew Godwin on Twitter: "Something I'd love to see in programming interviews: ethics/harm reduction. Here's a basic design for a new website, walk me through the changes needed to make it safe, private and non-discriminatory. Not easy to ask, but it's more relevant than "can you reverse a list"." / Twitter
-
-Amazing design
-http://www.hawraf.com/
-https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
-
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-
-Browser/SM
-https://twitter.com/aaranged/status/844694418493878273
-
-https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
-
-http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
-
-Reverse Engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-
-https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
-
-Advice
-https://news.ycombinator.com/item?id=17217210 | Ask HN: What's your favorite way of getting a web app up quickly in 2018? | Hacker News
-http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
-https://twitter.com/housecor/status/1007813012705587200 | Cory House 🏠 on Twitter: "Anyone have recommendations for a free/cheap provider to host a simple web api and a small database? Ideally quick to set up."
-https://twitter.com/simonw/status/1182077259839991808 | Simon Willison on Twitter: "What's the easiest way of running a stateful web application these days? Stateful as in it supports a process which can accept web requests and is allowed to write to a durable disk So not Heroku/Zeit Now/Cloud Run etc" / Twitter
-https://news.ycombinator.com/item?id=22290362 | Ask HN: What’s the most important modern simple invention? | Hacker News
-https://twitter.com/Suhail/status/1198016569114103808 | Suhail on Twitter: "Are there any good tools for software engineers to draw the architecture/design of a complex system?" / Twitter
-https://twitter.com/saronyitbarek/status/1258205078982443011 | Saron on Twitter: "Where do you get your ideas for apps and side projects?" / Twitter
-https://news.ycombinator.com/item?id=14375014 | Ask HN: How can I do social good through programming? | Hacker News
-https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career
-http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
-https://news.ycombinator.com/item?id=18000410 | Ask HN: What topics/subjects are worth learning for a new software engineer? | Hacker News
-
-Philosophy
-https://www.fast.ai/2016/10/08/teaching-philosophy/ | Providing a Good Education in Deep Learning · fast.ai
-
-https://stackoverflow.blog/2020/06/08/how-an-interview-code-submission-that-wasnt-even-submitted-changed-our-process/?cb=1 | How an interview code submission that wasn’t even submitted changed our process - Stack Overflow Blog
-
-Learning to Code
-https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-https://medium.com/@stevenrouk/day-1-of-the-two-hour-web-app-project-e19f1e8405b6#.l8ukg3rjo | Day 1 of the Two-Hour Web App Project – Medium
-
-http://www.forbes.com/sites/stevedenning/2017/01/08/resisting-the-lure-of-short-termism-how-to-achieve-long-term-growth/#3ebd36dd3ab9 | Resisting The Lure Of Short-Termism: Kill 'The World's Dumbest Idea'
-
-https://www-cs-faculty.stanford.edu/~knuth/ | Don Knuth's Home Page
-
-https://plato.stanford.edu/entries/computer-science/ | The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
-https://plato.stanford.edu/entries/simplicity/ | Simplicity (Stanford Encyclopedia of Philosophy)
-
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
-
-http://wireframe.vn/books/Don't%20Make%20Me%20Think%20-%20A%20Common%20Sense%20Approach%20To%20Web%20Usability%20(Second%20Edition)%20(2006).pdf | Don't Make Me Think: A Common Sense Approach to Web Usability
-
-http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
-
-GitHub notifications
-https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
-
-Interesting!
-https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
-
-Voice
-https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (Google Docs voice typing demo) - YouTube
-
-Productivity
-https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
-
-https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
-
-Business models
-https://axial.substack.com/p/axial-business-models | Axial - Business models
-
-Bias
-https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
-
-https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
-
-https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
-
-http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-
-https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
-
-Human Design
-https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
- 
 
 https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
 
@@ -362,11 +285,55 @@ https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middl
 https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
 https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
-Cassidy
-https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
-
 Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
+
+
+https://codingbat.com/ | CodingBat
+
+https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
+
+https://github.com/dabeaz-course/practical-python
+Practical Python Programming (course by @dabeaz)
+
+Traversy
+https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+No Starch
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
+https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
+https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
+
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+Automate the Boring Stuff
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+
+https://stackoverflow.blog/2020/06/08/how-an-interview-code-submission-that-wasnt-even-submitted-changed-our-process/?cb=1 | How an interview code submission that wasn’t even submitted changed our process - Stack Overflow Blog
+
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+https://medium.com/@stevenrouk/day-1-of-the-two-hour-web-app-project-e19f1e8405b6#.l8ukg3rjo | Day 1 of the Two-Hour Web App Project – Medium
+
+http://www.forbes.com/sites/stevedenning/2017/01/08/resisting-the-lure-of-short-termism-how-to-achieve-long-term-growth/#3ebd36dd3ab9 | Resisting The Lure Of Short-Termism: Kill 'The World's Dumbest Idea'
+
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
 
 
 !!!!!
@@ -393,6 +360,161 @@ https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
 
 https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
+
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+npm
+https://www.youtube.com/watch?v=468tirG434E
+https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
+https://blog.npmjs.org/ | The npm Blog
+https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
+https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
+
+https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
+
+
+http://www.avabodh.com/cin/cin.html | C Internals
+
+https://github.com/python/cpython/pulls | Pull requests · python/cpython
+https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
+CPython
+
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+
+CPython
+https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
+https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
+https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
+https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
+
+https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
+
+https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
+https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
+
+
+Advice
+https://news.ycombinator.com/item?id=17217210 | Ask HN: What's your favorite way of getting a web app up quickly in 2018? | Hacker News
+http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
+https://twitter.com/housecor/status/1007813012705587200 | Cory House 🏠 on Twitter: "Anyone have recommendations for a free/cheap provider to host a simple web api and a small database? Ideally quick to set up."
+https://twitter.com/simonw/status/1182077259839991808 | Simon Willison on Twitter: "What's the easiest way of running a stateful web application these days? Stateful as in it supports a process which can accept web requests and is allowed to write to a durable disk So not Heroku/Zeit Now/Cloud Run etc" / Twitter
+https://news.ycombinator.com/item?id=22290362 | Ask HN: What’s the most important modern simple invention? | Hacker News
+https://twitter.com/Suhail/status/1198016569114103808 | Suhail on Twitter: "Are there any good tools for software engineers to draw the architecture/design of a complex system?" / Twitter
+https://twitter.com/saronyitbarek/status/1258205078982443011 | Saron on Twitter: "Where do you get your ideas for apps and side projects?" / Twitter
+https://news.ycombinator.com/item?id=14375014 | Ask HN: How can I do social good through programming? | Hacker News
+https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career
+http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
+https://news.ycombinator.com/item?id=18000410 | Ask HN: What topics/subjects are worth learning for a new software engineer? | Hacker News
+
+
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
+
+
+
+
+GitHub Actions
+https://github.com/GoogleChrome/lighthouse-stack-packs/issues
+https://mobile.twitter.com/magnetikonline/status/1224837954771668992
+https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
+
+https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
+
+
+
+https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
+
+
+
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Self-Serve Case Studies
+https://github.com/nodejs/nodejs.org/issues/1230
+
+Release
+https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
+
+
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
+
+OS Important
+https://mobile.twitter.com/mariatta/status/1252655621398163458
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://joss.theoj.org/ | Journal of Open Source Software
+
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
+
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+
+https://twitter.com/andrewgodwin/status/1278005514018779136 | Andrew Godwin on Twitter: "Something I'd love to see in programming interviews: ethics/harm reduction. Here's a basic design for a new website, walk me through the changes needed to make it safe, private and non-discriminatory. Not easy to ask, but it's more relevant than "can you reverse a list"." / Twitter
+
+http://www.hawraf.com/
+https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
+
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+Browser/SM
+https://twitter.com/aaranged/status/844694418493878273
+
+https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
+http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+
+Reverse Engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+
+
+https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
+
+
+https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
+
+https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
+
+http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+
+Human Design
+https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
+ 
+
 
 https://docs.npmjs.com/getting-started/running-a-security-audit
 https://www.pagerduty.com/blog/security-training-at-pagerduty/
@@ -442,64 +564,10 @@ https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congra
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
+
 https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
 
-https://codingbat.com/ | CodingBat
 
-Traversy
-https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-No Starch
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
-https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
-https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
-
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
-
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
-
-Automate the Boring Stuff
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
-
-http://www.avabodh.com/cin/cin.html | C Internals
-
-https://github.com/python/cpython/pulls | Pull requests · python/cpython
-https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
-CPython
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-
-CPython
-https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
-https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
-https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
-https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
-
-https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
-
-https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
-https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
-https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
-
-
-Sphinx to Markdown
-https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
-
-Read the Docs
-https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
-https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
-
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
 
 
 Git
@@ -511,8 +579,6 @@ https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
 https://github.com/sustainers | Sustain
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 https://github.com/orgs/maintainers/people?page=1
 
@@ -533,6 +599,42 @@ https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | 
 
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+
+
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+
+es6 javascript features
+
+node on gh-pages
+https://www.npmjs.com/package/gh-pages | gh-pages - npm
+
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+https://beta.openai.com/ | OpenAI API
+
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+
+
+Barry
+https://www.wefearchange.org/ | We Fear Change
+
+
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+
+
+https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
+
+
+
 
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
@@ -570,6 +672,12 @@ https://mobile.twitter.com/newsyc20/status/1250402036262277120
 
 https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
 
+Falsehoods
+http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-11.html#e2019-11-10T11_06_39.htm | Knowing and Doing: November 2019 Archives
+
+
+https://www-cs-faculty.stanford.edu/~knuth/ | Don Knuth's Home Page
+
 
 https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
 
@@ -585,64 +693,23 @@ https://blog.codinghorror.com/doing-terrible-things-to-your-code/
 
 https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ | Developers who use spaces make more money than those who use tabs - Stack Overflow Blog
 
+
+https://plato.stanford.edu/entries/computer-science/ | The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
+https://plato.stanford.edu/entries/simplicity/ | Simplicity (Stanford Encyclopedia of Philosophy)
+
+Philosophy
+https://www.fast.ai/2016/10/08/teaching-philosophy/ | Providing a Good Education in Deep Learning · fast.ai
+
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
+
+
 Case Studies
 https://blog.bugsnag.com/bug-day-ariane-5-disaster/ | The Worst Computer Bugs in History: The Ariane 5 Disaster
 https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
 http://c2.com/xp/IntegrationHell.html | Integration Hell
 https://around.com/ariane.html | A Bug and a Crash by James Gleick
 https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/
-
-
-
-
-
-
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
-
-
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-
-es6 javascript features
-
-node on gh-pages
-https://www.npmjs.com/package/gh-pages | gh-pages - npm
-
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
-
-https://beta.openai.com/ | OpenAI API
-
-
-
-
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
-
-Barry
-https://www.wefearchange.org/ | We Fear Change
-
-
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
-
-
-https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
-
-Falsehoods
-http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-11.html#e2019-11-10T11_06_39.htm | Knowing and Doing: November 2019 Archives
-
-
-
-
-https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 
 
 https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
@@ -701,6 +768,8 @@ https://twitter.com/brettsky/status/1256026919151169536
 
 https://trusted-cgi.reddec.net/ | Trusted-CGI | Trusted CGI
 
+https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
+
 
 https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
 
@@ -721,9 +790,24 @@ Content-creating flywheel
 https://twitter.com/sarahleary/status/1255321982029234176
 https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
 
+First round review
+https://mobile.twitter.com/AskAlmanac/status/1245832069315321856
+
+Interesting
+https://mobile.twitter.com/blakeir/status/1250587878100516864
+
+Bias
+https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
+
 Lean Enterprise
 
 https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
+
+PM
+https://mobile.twitter.com/shreyas/status/1249039638829793280
+
+Advice- PM
+https://news.ycombinator.com/item?id=14828076
 
 https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
 
@@ -734,6 +818,9 @@ https://www.principles.com/principles-for-success/
 https://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png
 https://25iq.files.wordpress.com/2016/05/the_global_negotiator.pdf
 https://rework.withgoogle.com/blog/how-OKRs-fuel-innovation/ | re:Work - How OKRs fuel innovation
+
+Business models
+https://axial.substack.com/p/axial-business-models | Axial - Business models
 
 https://m.signalvnoise.com/enough/ | Enough - Signal v. Noise
 
