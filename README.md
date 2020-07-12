@@ -84,6 +84,12 @@ https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
 
 https://github.com/features/codespaces/ | Codespaces
 
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 Sphinx to Markdown
@@ -509,10 +515,19 @@ https://github.com/GoogleChrome/lighthouse-stack-packs/issues
 https://mobile.twitter.com/magnetikonline/status/1224837954771668992
 https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
 
-https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
-
+https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+
+https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
+
+GitLab
+https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
+
 
 
 OS/PSF
@@ -539,13 +554,6 @@ https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mas
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
 
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-
-GitLab
-https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
-
 https://github.com/sustainers | Sustain
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
@@ -554,20 +562,10 @@ https://github.com/orgs/maintainers/people?page=1
 
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 
-
-
 node on gh-pages
 https://www.npmjs.com/package/gh-pages | gh-pages - npm
 
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
-
-https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://beta.openai.com/ | OpenAI API
 
