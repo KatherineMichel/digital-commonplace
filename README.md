@@ -207,6 +207,8 @@ Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
 https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
 
+https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
+
 Important
 https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
 https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
@@ -289,6 +291,40 @@ Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
 
 
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
+
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/building-github-apps/
+https://developer.github.com/v4/guides/
+https://github.com/whiteinge/ok.sh
+https://github.com/octokit/rest.js
+https://octokit.github.io/rest.js/v18
+https://github.com/pksunkara/octonode
+
+https://nodejs.org/en/ | #BlackLivesMatter
+https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
+
+Deno
+https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
+https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
+
+https://twitter.com/gauravssnl/status/1260477661878632449
+https://jaxenter.com/deno-interview-ryan-dahl-171425.html
+https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
+https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
+
+Playwright
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
+
+
 https://codingbat.com/ | CodingBat
 
 https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
@@ -329,6 +365,15 @@ http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 https://medium.com/@stevenrouk/day-1-of-the-two-hour-web-app-project-e19f1e8405b6#.l8ukg3rjo | Day 1 of the Two-Hour Web App Project – Medium
 
 http://www.forbes.com/sites/stevedenning/2017/01/08/resisting-the-lure-of-short-termism-how-to-achieve-long-term-growth/#3ebd36dd3ab9 | Resisting The Lure Of Short-Termism: Kill 'The World's Dumbest Idea'
+
+https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
 
 LinkedIn
 https://news.microsoft.com/skills/ | Microsoft Digital Event
@@ -437,9 +482,7 @@ https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
 https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
 
 
-
 https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-
 
 
 OS/PSF
@@ -451,9 +494,6 @@ https://github.com/nodejs/nodejs.org/issues/1230
 
 Release
 https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
-
-
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
 OS Important
 https://mobile.twitter.com/mariatta/status/1252655621398163458
@@ -473,44 +513,13 @@ https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.
 
 
 
-https://twitter.com/andrewgodwin/status/1278005514018779136 | Andrew Godwin on Twitter: "Something I'd love to see in programming interviews: ethics/harm reduction. Here's a basic design for a new website, walk me through the changes needed to make it safe, private and non-discriminatory. Not easy to ask, but it's more relevant than "can you reverse a list"." / Twitter
-
-http://www.hawraf.com/
-https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
-
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-
-Browser/SM
-https://twitter.com/aaranged/status/844694418493878273
-
 https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
 
-http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
-
-Reverse Engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+http://www.hawraf.com/
 
 
-
-https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
-
-
-https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
-
-https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
-
-http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-
-Human Design
-https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
  
@@ -530,45 +539,6 @@ https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin 
 https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
 
 
-https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
-
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
-
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/building-github-apps/
-https://developer.github.com/v4/guides/
-https://github.com/whiteinge/ok.sh
-https://github.com/octokit/rest.js
-https://octokit.github.io/rest.js/v18
-https://github.com/pksunkara/octonode
-
-https://nodejs.org/en/ | #BlackLivesMatter
-https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
-
-Deno
-https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
-https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
-https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
-
-https://twitter.com/gauravssnl/status/1260477661878632449
-https://jaxenter.com/deno-interview-ryan-dahl-171425.html
-https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
-https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
-
-Playwright
-https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
-https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
-
-
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
-
-
-
 
 Git
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
@@ -585,20 +555,14 @@ https://github.com/orgs/maintainers/people?page=1
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 
 
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
-https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+Barry
+https://www.wefearchange.org/ | We Fear Change
 
-https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
 
 
@@ -620,21 +584,40 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 https://beta.openai.com/ | OpenAI API
 
 
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
-
-Barry
-https://www.wefearchange.org/ | We Fear Change
-
-
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
-
-
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 
 
+
+http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+
+Reverse Engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+https://twitter.com/andrewgodwin/status/1278005514018779136 | Andrew Godwin on Twitter: "Something I'd love to see in programming interviews: ethics/harm reduction. Here's a basic design for a new website, walk me through the changes needed to make it safe, private and non-discriminatory. Not easy to ask, but it's more relevant than "can you reverse a list"." / Twitter
+
+https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
+
+https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
+
+http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+
+Human Design
+https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
@@ -770,6 +753,15 @@ https://trusted-cgi.reddec.net/ | Trusted-CGI | Trusted CGI
 
 https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
 
+
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
+
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
+
+Browser/SM
+https://twitter.com/aaranged/status/844694418493878273
 
 https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
 
