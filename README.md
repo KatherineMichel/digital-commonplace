@@ -123,6 +123,8 @@ https://www.acm.org/virtual-conferences | Virtual Conferences
 Events list
 https://mobile.twitter.com/chrisjrn/status/1248020330532057093
 
+https://twitter.com/simonw/status/1278389840753508352 | Simon Willison on Twitter: "I've somewhat dropped the ball on applying to speak at conferences - any suggestions for Python (or Python-aligned) conferences that I could submit a talk about @datasetteproj stuff to? Would also love to talk to user groups." / Twitter
+
 CfPs
 PyOhio
 https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
@@ -509,6 +511,37 @@ https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
 
+
+https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
+
+https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
+
+https://www.humblebundle.com/software/python-programming-software | Humble Software Bundle: Learn Python Programming with PyCharm (pay what you want and help charity)
+
+Matrix
+https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
+https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
+https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
+
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://github.blog/changelog/2020-07-07-github-actions-ability-to-delete-workflow-runs/ | GitHub Actions: ability to delete workflow runs The GitHub Blog
+https://twitter.com/webology/status/1280303899694465025 | Jeff says, "wear a mask" 😷 on Twitter: "This is a great update. Now you can trigger a GitHub Actions `workflow_dispatch` event via a form in GitHub's UI. Neat." / Twitter
+
+https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
+https://www.bdougie.live/ | bdougie.live
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+https://twitter.com/changelog/status/1276514876228284417
+https://github.com/features/insights | Features · Insights
+
+Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+https://githubsatellite.com/schedule/ | Schedule | GitHub Satellite | Virtual 2020 · May 6
 
 GitHub Actions
 https://github.com/GoogleChrome/lighthouse-stack-packs/issues
