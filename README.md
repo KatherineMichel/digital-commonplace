@@ -16,6 +16,8 @@ https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ |
 Interesting!
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
 
+https://github.com/johannesjo/super-productivity | johannesjo/super-productivity: To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+
 Voice
 https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (Google Docs voice typing demo) - YouTube
 
@@ -62,6 +64,10 @@ https://support.apple.com/en-us/HT208721
 https://github.com/HandBrake | HandBrake
 https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
 https://obsproject.com/ | Open Broadcaster Software | OBS
+
+https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
+https://support.google.com/youtube/answer/57407
+https://www.youtube.com/watch?v=VKf6NF0OD5A
 
 Pinax
 http://gifmaker.me/
@@ -129,15 +135,52 @@ CfPs
 PyOhio
 https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
 
-SF
+https://medium.com/@pirosb3/how-sf-python-hosted-a-remote-meetup-during-the-times-of-covid-19-b6ac10ba4cb8 | How SF Python hosted a remote meetup during the times of COVID-19 | by Daniel Pyrathon | Medium
+
+SF Python and Django
 https://www.meetup.com/sfpython/events/xkwxvqybchbrb/
 https://twitter.com/sfpythonmeetup/status/1237538712105320448
 https://twitter.com/pirosb3/status/1237497435988979713
+https://twitter.com/manishsinhaha/status/1280174370145460224 | Manish Sinha on Twitter: "Interested in giving a talk? Hit me up." / Twitter
+https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
+
+PyBay
+https://sessionize.com/pybay2020-online-edition/ | PyBay2020 Digital Edition: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
+https://medium.com/pybay/pybay2020-aims-to-be-an-online-conference-thats-educational-inspiring-and-social-will-we-7e070fad9288 | PyBay2020 aims to be an online conference that’s educational, inspiring, and SOCIAL — will we succeed?
 
 https://2020.pyconuk.org/ | PyCon UK 2020
+https://blog.europython.eu/post/612113768932098048/europython-2020-call-for-proposals-now-open | EuroPython Blog — EuroPython 2020: Call for Proposals now open
+
+https://2020.pycon.org.au/speak/ | PyCon AU 2020
+
+PyGotham
+https://2020.pygotham.tv/speaking/recording-release/ | Recording Release - PyGotham TV
+https://2020.pygotham.tv/sponsors/prospectus/ | Sponsorship Prospectus - PyGotham TV
+https://cfp.pygotham.tv/ | PyGotham TV
+https://cfp.pygotham.tv/talks | Talks - PyGotham TV
 
 https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
 https://womenintechsummit.net/ | The Women In Tech Summit
+
+CHAOSS
+
+Sustain OSS
+https://sustainoss.org/
+OSS Summit
+https://events.linuxfoundation.org/open-source-summit-north-america/
+https://fosdem.org
+https://www.oreilly.com/conferences/oscon.html
+
+https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
+
+https://twitter.com/NaomiCeder/status/1278049368583659525 | Naomi Ceder on Twitter: "So @ManningBooks is putting together a streaming Python conf mid-July and there are some spots open for minority women, LGBTQ+, etc. Hour stream and 10 min lightning talk slots available. Let me know if you have any interest, and I can tell you more and hook you up." / Twitter
+
+https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
+
+Node
+https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
+
+https://ti.to/netlify/jamstack_virtual | Jamstack Conf Virtual
 
 To watch
 
@@ -153,6 +196,9 @@ https://discord.com/channels/702724176489873509/702724176489873512
 Django Flask demo
 https://twitter.com/luumelo14/status/1260687690996920320
 
+https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e234500&WT.mc_id=pycon2020-social-ninaz | PyCon 2020 Content Board
+https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
+
 May 6
 https://githubsatellite.com/
 https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
@@ -166,34 +212,8 @@ https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additio
 
 https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
 
-
-CHAOSS
-
-Sustain OSS
-https://sustainoss.org/
-OSS Summit
-https://events.linuxfoundation.org/open-source-summit-north-america/
-https://fosdem.org
-https://www.oreilly.com/conferences/oscon.html
-
-https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
-
 https://github.com/FlaskCon/website | FlaskCon/website
-
-https://twitter.com/NaomiCeder/status/1278049368583659525 | Naomi Ceder on Twitter: "So @ManningBooks is putting together a streaming Python conf mid-July and there are some spots open for minority women, LGBTQ+, etc. Hour stream and 10 min lightning talk slots available. Let me know if you have any interest, and I can tell you more and hook you up." / Twitter
-
-https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
-
-PyCon
-https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e234500&WT.mc_id=pycon2020-social-ninaz | PyCon 2020 Content Board
-https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
-
-Node
-https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
-
-https://ti.to/netlify/jamstack_virtual | Jamstack Conf Virtual
-
-
+https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
 
 
 Wichita SWE
@@ -208,6 +228,9 @@ https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
 Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+Stanford
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
 
 MVP
 https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
@@ -248,10 +271,20 @@ https://docs.npmjs.com/getting-started/running-a-security-audit
 https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
 
+https://www.humblebundle.com/software/python-programming-software | Humble Software Bundle: Learn Python Programming with PyCharm (pay what you want and help charity)
+
+Excellent
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
 Cassidy
 https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
 
 https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+
+https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
+
+Narrative
+https://www.andysparks.co/ | Andy Sparks—Home
 
 100 Days
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
@@ -271,6 +304,8 @@ TIL
 https://mobile.twitter.com/simonw/status/1252647702078218243
 https://mobile.twitter.com/simonw/status/1252227832333209601
 
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+
 https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
 https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
 
@@ -282,6 +317,17 @@ https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and 
 
 https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
 https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+Makers
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://www.bdougie.live/ | bdougie.live
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
 https://github.com/apps/update-authors | GitHub Apps - Update Authors
 https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
@@ -331,6 +377,7 @@ https://github.com/octokit/rest.js
 https://octokit.github.io/rest.js/v18
 https://github.com/pksunkara/octonode
 
+
 https://nodejs.org/en/ | #BlackLivesMatter
 https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 
@@ -349,7 +396,12 @@ https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congra
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
+GPT-3
+https://twitter.com/nicklovescode/status/1283157514989625344 | Nick Cammarata on Twitter: "Almost everyone I know who has GPT3 is getting addicted to chatting with it It helped one friend work through an emotional knot they felt sensitive bringing up to others" / Twitter
+https://twitter.com/sharifshameem/status/1282676454690451457 | Sharif Shameem on Twitter: "This is mind blowing. With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you. W H A T https://t.co/w8JkrZO4lk" / Twitter
+
 https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
@@ -512,36 +564,41 @@ https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
 
-https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
 
-https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
-
-https://www.humblebundle.com/software/python-programming-software | Humble Software Bundle: Learn Python Programming with PyCharm (pay what you want and help charity)
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 
 Matrix
 https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
 https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
 https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
 
-https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
 https://github.blog/changelog/2020-07-07-github-actions-ability-to-delete-workflow-runs/ | GitHub Actions: ability to delete workflow runs The GitHub Blog
 https://twitter.com/webology/status/1280303899694465025 | Jeff says, "wear a mask" 😷 on Twitter: "This is a great update. Now you can trigger a GitHub Actions `workflow_dispatch` event via a form in GitHub's UI. Neat." / Twitter
 
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
 https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
-https://www.bdougie.live/ | bdougie.live
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
-https://twitter.com/changelog/status/1276514876228284417
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
 https://github.com/features/insights | Features · Insights
+
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
 
 Satellite
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
 https://githubsatellite.com/schedule/ | Schedule | GitHub Satellite | Virtual 2020 · May 6
+
+
+
+https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
+
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
 
 GitHub Actions
 https://github.com/GoogleChrome/lighthouse-stack-packs/issues
@@ -551,10 +608,6 @@ https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
 https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
 
 https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
 
 https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
 
@@ -708,6 +761,7 @@ https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightma
 http://c2.com/xp/IntegrationHell.html | Integration Hell
 https://around.com/ariane.html | A Bug and a Crash by James Gleick
 https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/
+https://mgba.io/2020/01/25/infinite-loop-holy-grail/ | The Infinite Loop That Wasn't: A Holy Grail Bug Story - mGBA
 
 
 https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
@@ -3341,7 +3395,8 @@ Authorities
 ## Books
 
 <!--
-Books
+https://twitter.com/ravinwashere/status/1283368441341071360 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Here is my top books 📖 for programmer 1. Clean coder How to work in a real project 2. Clean code How to write code 3. The Pragmatic Programmer How to learn, grow, teach 4. The software craftsman How build a pro career 5. Release it How to build reliable software Enjoy 😊" / Twitter
+
 https://twitter.com/Grady_Booch/status/1265665900973133824 | Grady Booch on Twitter: "@hogaur @simonbrown This is what is on my bookshelf. https://t.co/sGmElBE9BK" / Twitter
 
 http://www.dev-books.com
