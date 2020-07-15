@@ -509,6 +509,14 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 ## Stanford Code in Place
 
 <!--
+Demo Video
+https://unsplash.com/collections/2489501/personable-petssource.unsplash.com/collection/2489501/1
+https://developer.twitter.com/en/apps
+https://twitter.com/SimbaFriendsBot
+https://github.com/KatherineMichel/stanford-code-in-place-final-project/actions
+https://note.nkmk.me/en/python-sys-platform-version-info/
+
+
 Karel Notes
 https://mobile.twitter.com/thankfulfoodie/status/1250214251110645761
 
