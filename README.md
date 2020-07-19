@@ -5,6 +5,10 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
+https://jacquesmattheij.com/dealing-with-insomnia/ | Dealing With Insomnia · Jacques Mattheij
+
+https://salman.io/posts/polymath-playbook/ | The Polymath Playbook
+
 https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
 
 https://dayhaysoos.com/don-t-seek-mentors-seek-friends/ | Don't seek mentors, seek friends
@@ -28,6 +32,7 @@ https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (
 
 Productivity
 https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
+http://lsc.cornell.edu/study-skills/cornell-note-taking-system/ | The Cornell Note-taking System – Learning Strategies Center
 
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 
@@ -483,6 +488,7 @@ https://devchecklists.com
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
 https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
 https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
