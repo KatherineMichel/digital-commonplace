@@ -5,6 +5,11 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
+https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
+
+https://dayhaysoos.com/don-t-seek-mentors-seek-friends/ | Don't seek mentors, seek friends
+https://twitter.com/Dayhaysoos/status/1283234586194055169 | Nick DeJesus 🛒🎉 - Pariss Athena Photography on Twitter: "I've noticed a handful of people looking for mentors for helping them learn and grow in the tech community. I'm here to tell you to stop seeking mentors and start seeking friends. This post is about my fave ways to make friends! https://t.co/9OO7htItde" / Twitter
+
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
