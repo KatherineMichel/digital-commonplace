@@ -249,6 +249,13 @@ Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
 https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
 
+https://news.ycombinator.com/item?id=23888215 | How to Gradually Exit Twitter | Hacker News
+https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/ | Set up a Paid Newsletter at Your Own Domain
+https://github.com/KatherineMichel/Lyra | KatherineMichel/Lyra: A paid-members theme for Ghost
+https://balajis.com/how-to-gradually-exit-twitter/ | How to Gradually Exit Twitter
+https://ghost.org/about/ | About Ghost - The Open Source Publishing Platform
+https://twitter.com/balajis/status/1284473850894270465 | balajis.com on Twitter: "It's time to gradually exit Twitter. While Substack is great, it's better to set up a paid newsletter at your own domain. You can do this in an hour and maintain it for less than $30 per month. I wrote up a tutorial here to walk you through it: https://t.co/VCJH4vmtIV" / Twitter
+
 https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
 
 Important
@@ -285,6 +292,8 @@ https://www.humblebundle.com/software/python-programming-software | Humble Softw
 
 Excellent
 https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
+https://dev.to/dthompsondev/from-frying-chicken-in-gas-stations-to-becoming-a-software-engineer-4ff4 | From frying chicken in gas stations to becoming a Software Engineer! - DEV
 
 Cassidy
 https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
@@ -371,6 +380,27 @@ Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
 
 
+Simon
+https://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/ | Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
+https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
+https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
+https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
+https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
+https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
+
+https://twitter.com/simonw/status/1283054946338746368 | Simon Willison on Twitter: "This is a really great format for a newsletter: data journalism and woodworking interspersed with each other. As someone with diverse interests who mainly just writes about tech stuff this is giving me some ideas." / Twitter
+
+https://github.com/simonw/sfpublicworks-tree-removal-notifications | simonw/sfpublicworks-tree-removal-notifications: Scrape https://sfpublicworks.org/tree-removal-notifications daily
+https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+https://github.com/simonw/srccon-2020-datasette | simonw/srccon-2020-datasette: Publishing the SRCCON schedule using Datasette
+
+
 https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
 
 Using the GitHub AP in Your App
@@ -406,11 +436,29 @@ https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congra
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
+https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
 GPT-3
+https://openai.com/blog/openai-api/ | OpenAI API
+https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
 https://twitter.com/nicklovescode/status/1283157514989625344 | Nick Cammarata on Twitter: "Almost everyone I know who has GPT3 is getting addicted to chatting with it It helped one friend work through an emotional knot they felt sensitive bringing up to others" / Twitter
 https://twitter.com/sharifshameem/status/1282676454690451457 | Sharif Shameem on Twitter: "This is mind blowing. With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you. W H A T https://t.co/w8JkrZO4lk" / Twitter
-
-https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+https://twitter.com/michael_nielsen/status/1284937254666768384 | Michael Nielsen on Twitter: "Spent an enjoyable few hours digging into GPT-3, trying to better understand how it works, what the limits are, how it may be improved. The paper is here: https://t.co/pwPhLUUoaM" / Twitter
+https://arxiv.org/pdf/2005.14165.pdf | 2005.14165.pdf
+https://maraoz.com/2020/07/18/openai-gpt3/ | OpenAI's GPT-3 may be the biggest thing since bitcoin
+https://minimaxir.com/2020/07/gpt3-expectations/ | Tempering Expectations for GPT-3 and OpenAI’s API | Max Woolf's Blog
+https://github.com/minimaxir/gpt-3-experiments | minimaxir/gpt-3-experiments: Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
+https://twitter.com/balajis/status/1284905568709169154 | balajis.com on Twitter: "Will GPT-3 be open sourced? The code for GPT-2 was eventually open sourced. We'll see if GPT-3 is as well. Yes, model training cost was significant (I've seen numbers on the order of $10M) but there are organizations that could afford that given code. https://t.co/cMOqza1fyi" / Twitter
+https://twitter.com/zebulgar/status/1284294275430117376 | delian on Twitter: "I wrote up some quick thoughts on GPT3 and tried to do a bit of an explainer for a non-technical folks 30 years ago, Steve Jobs described computers as “bicycles for the mind.” I’d argue that, even in its current form, GPT3 is “a racecar for the mind.” https://t.co/Ae3hOb5yJg" / Twitter
+https://twitter.com/sh_reya/status/1284545976892403714 | Shreya Shankar on Twitter: "Got my invite to the @OpenAI GPT-3 API from @gdb. I actually think it deserves more hype than it’s getting, but not necessarily for the magical reasons Twitter touts. Why? My quick thoughts and impressions: (1/11)" / Twitter
+https://twitter.com/albertwenger/status/1284855044379217923 | Albert Wenger 🌎🔥⌛ on Twitter: "Time to update my 2014 post on "software eating software" https://t.co/zIsFu6nn4A" / Twitter
+https://twitter.com/maraoz/status/1284618159937519616 | Manuel Araoz on Twitter: "GPT-3 explain's bitcoin's proof of work in simple terms: https://t.co/lASf7EEzch" / Twitter
+https://twitter.com/lpolovets/status/1284172187532881922 | Leo Polovets on Twitter: "If you're curious what all of the GPT-3 tweets are about, it's the most advanced text generation model ever. It's a deep learning model w/175 billion parameters, and the content it generates is incredibly good. The thread below has good examples of content written by GPT-3." / Twitter
+https://twitter.com/simonw/status/1284198031932309504 | Simon Willison on Twitter: "This thing is deep, deep dark magic https://t.co/qJzqbQ8gYy" / Twitter
+https://twitter.com/andrestaltz/status/1282758264497766400 | André Staltz on Twitter: "The beginning of the end of the frontend developer job. Before you laugh at this algorithm's limitations and mistakes, they can improve it in 2 years, 5 years, 10 years. You might have to change roles sooner than you think (me too)." / Twitter
+https://twitter.com/xuenay/status/1283312640199196673 | Kaj Sotala on Twitter: "I keep seeing all kinds of crazy reports about people's experiences with GPT-3, so I figured that I'd collect a thread of them." / Twitter
+https://twitter.com/hmason/status/1283588762933637120 | Hilary Mason on Twitter: "The difference between the GPT3 API and a standard RESTful API feels like a microcosm of the difference between machine learning and software engineering. You show examples rather than rules." / Twitter
+https://twitter.com/pystar/status/1283453109306564608 | pystar on Twitter: "Frontend devs, be afraid, be very afraid. 😭😭😭" / Twitter
 
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
@@ -480,6 +528,9 @@ https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to w
 https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
 
 
+https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
+https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
+
 !!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
@@ -488,6 +539,7 @@ https://devchecklists.com
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
 https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
