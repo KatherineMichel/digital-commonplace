@@ -226,6 +226,14 @@ https://github.com/FlaskCon/website | FlaskCon/website
 https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
 
 
+Conferences
+https://sessionize.com/pybay2020-online-edition/ | PyBay2020 Digital Edition: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
+https://twitter.com/transitionswpz/status/1283220099198005248 | Kojo STAY AT HOME Idrissa on Twitter: "A pause in my Twitter sabbatical: @pyconafrica registration is open, "Pay What You Can" model. Global selection of keynotes &amp; speakers! @willyhakim @loooorenanicole @risingodegua @AishaXBello @ftnext @cheukting_ho @terrameijar https://t.co/lEOwEWUxok" / Twitter
+https://africa.pycon.org/speakers/ | Speakers | PyCon Africa 2020
+https://2020.pyconuk.org/ | PyCon UK 2020
+https://docs.google.com/forms/d/e/1FAIpQLScAZM9G-qNA3DIxY_iYyuFFkh4ix0xidpGuT9aGPkP-KVOzFg/closedform | OSI State of the Source: Call for Proposals
+
+
 Wichita SWE
 
 Ergonomic Chair
@@ -394,11 +402,14 @@ https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27
 https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
 https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
 
-https://twitter.com/simonw/status/1283054946338746368 | Simon Willison on Twitter: "This is a really great format for a newsletter: data journalism and woodworking interspersed with each other. As someone with diverse interests who mainly just writes about tech stuff this is giving me some ideas." / Twitter
+https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
 
 https://github.com/simonw/sfpublicworks-tree-removal-notifications | simonw/sfpublicworks-tree-removal-notifications: Scrape https://sfpublicworks.org/tree-removal-notifications daily
 https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
 https://github.com/simonw/srccon-2020-datasette | simonw/srccon-2020-datasette: Publishing the SRCCON schedule using Datasette
+https://twitter.com/simonw/status/1275897355435307014 | Simon Willison on Twitter: "This is outstanding. The WaPo story investigating the low-flying helicopters over the protests in DC is now accompanied by a GitHub repo showing their workings, including notebooks with their analysis of the helicopters' flight paths" / Twitter
+
+https://twitter.com/simonw/status/1283054946338746368 | Simon Willison on Twitter: "This is a really great format for a newsletter: data journalism and woodworking interspersed with each other. As someone with diverse interests who mainly just writes about tech stuff this is giving me some ideas." / Twitter
 
 
 https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
