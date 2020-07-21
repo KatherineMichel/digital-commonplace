@@ -387,20 +387,26 @@ https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitte
 Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
 
+https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
+https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
 
-Simon
+Simon- Weeknotes
 https://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/ | Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more
-https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
-http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
-https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
 https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
 https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
 https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
 https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
 https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
+
+Simon- Doc Unit Tests
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+Simon- Self-Rewriting
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
 
 https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
 
