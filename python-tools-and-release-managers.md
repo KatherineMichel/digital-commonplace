@@ -1,6 +1,32 @@
 # Python Tools and Release Managers
 
 <!--
+https://github.com/Mariatta/requirements_atoz
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
+https://github.com/hbristow/cookiecutter-cpp/blob/master/.travis.yml
+https://github.com/jambonsw/cookiecutter-static-site
+
+Release
+https://github.com/asottile/pygments-pre-commit/blob/6cea7146c56d45ecf53fe07f63b4fb712a84f66c/pygments_pre_commit.py#L46-L52 | pygments-pre-commit/pygments_pre_commit.py at 6cea7146c56d45ecf53fe07f63b4fb712a84f66c · asottile/pygments-pre-commit
+https://github.com/pre-commit/pre-commit.com/blob/c52accfb14034a280e158d2a42ef8b2dc372ff5e/.github/workflows/deploy.yml#L20 | pre-commit.com/deploy.yml at c52accfb14034a280e158d2a42ef8b2dc372ff5e · pre-commit/pre-commit.com
+https://twitter.com/thesquashSH/status/1278116325764800513 | Nick Sweeting on Twitter: "Awww yesss look what I just found in the Python 3.9 changelog! @pganssle https://t.co/Y8BdZZkpeY" / Twitter
+https://github.com/tonybaloney/pytest-azurepipelines/blob/master/azure-pipelines.yml#L136-L196 | pytest-azurepipelines/azure-pipelines.yml at master · tonybaloney/pytest-azurepipelines
+https://github.com/pre-commit/pre-commit/releases/tag/v2.6.0 | Release pre-commit v2.6.0 · pre-commit/pre-commit
+
+Pinning
+https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
+
+beta pip
+https://mobile.twitter.com/ThePyPA/status/1252641910679879681
+
+Gidgethub
+https://mobile.twitter.com/mariatta/status/1251733060812369920
+
+pip Resolver
+https://mobile.twitter.com/metalikus/status/1251497611028238336
+
+
 https://launchpad.net/ubuntu | Ubuntu in Launchpad
 
 Python
@@ -8,12 +34,30 @@ Django self-update
 https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
 
 Anthony
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
+https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
+https://github.com/asottile2/demo2 | asottile2/demo2
 https://www.youtube.com/watch?v=1SCyDlt4DGw | (1) replay - deadsnakes nightly github actions - 2020-06-22 - YouTube
 https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
 https://www.youtube.com/watch?v=_K4mjPrROGQ&feature=emb_logo | (1) python __future__ "module" (beginner - intermediate) anthony explains #055 - YouTube
 https://www.youtube.com/watch?v=BMn0nSpeITY | hacker mode tmux debugging (intermediate) anthony explains #051 - YouTube
 https://www.youtube.com/watch?v=KREsXvnZIt0 | (1) replay - pre-commit ci WIP demo and a lot of chat - 2020-06-17 - YouTube
 https://www.youtube.com/watch?v=MXZhe0KduyE&feature=emb_logo | (2) web security: what is a csrf exploit? (intermediate) anthony explains #053 - YouTube
+
+Anthony
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://twitter.com/codewithanthony/status/1270774728207130624 | Anthony Sottile on Twitter: "I'll be streaming in ~80 minutes! new streaming schedule (Mon / Wed / Fri noon pacific, Sat 11am pacific). Today I *hope* to be looking at setting up a GitHub app and messing with webhooks, we'll see how much of that happens -- come by and chat! https://t.co/qughWG5TvG" / Twitter
+https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
+
+Anthony
+https://www.youtube.com/watch?v=BMn0nSpeITY&feature=emb_logo | hacker mode tmux debugging (intermediate) anthony explains #051 - YouTube
+https://www.youtube.com/watch?v=5za6eRdHjpw&feature=emb_logo | stdin / stdout / stderr (beginner - intermediate) anthony explains #050 - YouTube
+
+https://twitter.com/pganssle/status/1270056171861401601
+Release
+https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
 
 https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
 ttps://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
@@ -37,20 +81,6 @@ https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semant
 https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
 https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-Anthony
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
-https://twitter.com/codewithanthony/status/1270774728207130624 | Anthony Sottile on Twitter: "I'll be streaming in ~80 minutes! new streaming schedule (Mon / Wed / Fri noon pacific, Sat 11am pacific). Today I *hope* to be looking at setting up a GitHub app and messing with webhooks, we'll see how much of that happens -- come by and chat! https://t.co/qughWG5TvG" / Twitter
-https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
-
-Anthony
-https://www.youtube.com/watch?v=BMn0nSpeITY&feature=emb_logo | hacker mode tmux debugging (intermediate) anthony explains #051 - YouTube
-https://www.youtube.com/watch?v=5za6eRdHjpw&feature=emb_logo | stdin / stdout / stderr (beginner - intermediate) anthony explains #050 - YouTube
-
-https://twitter.com/pganssle/status/1270056171861401601
-Release
-https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
 
 
 Shields
