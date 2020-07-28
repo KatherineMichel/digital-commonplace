@@ -270,7 +270,10 @@ Important
 https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
 https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
 
 Twitter case study PWA
