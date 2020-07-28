@@ -316,12 +316,19 @@ https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter
 Narrative
 https://www.andysparks.co/ | Andy Sparks—Home
 
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
+
 100 Projects
 https://twitter.com/sarah_edo/status/1287441437701754882 | Sarah Drasner on Twitter: "This is so cool, @ceeoreo_ kicked off #100DaysOfProjects, looks like it's open to anyone! Seems like a nice way of creating community while learning :)" / Twitter
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 
 100 Days
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
+
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
 
 API
 HTTP API Docs
@@ -331,19 +338,6 @@ https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best
 
 https://github.com/realpython/list-of-python-api-wrappers
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://github.com/pganssle/til | pganssle/til
-
-TIL
-https://mobile.twitter.com/simonw/status/1252647702078218243
-https://mobile.twitter.com/simonw/status/1252227832333209601
-
-https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
 
 https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
@@ -362,14 +356,31 @@ https://developer.twitter.com/en/labs | Labs
 https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
 https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
 
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+
+
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
+
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/building-github-apps/
+https://developer.github.com/v4/guides/
+https://github.com/whiteinge/ok.sh
+https://github.com/octokit/rest.js
+https://octokit.github.io/rest.js/v18
+https://github.com/pksunkara/octonode
+
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
 https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
 
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
 
 Makers
 Mariatta
@@ -390,29 +401,53 @@ https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Langu
 
 https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
 
+https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
+https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
+https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
 
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
 
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/
-https://github.com/simonw/datasette/blob/master/tests/test_docs.py
-https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
-https://github.com/simonw/til/blob/master/update_readme.py | til/update_readme.py at master · simonw/til
 
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+
+https://github.com/pganssle/til | pganssle/til
+
+TIL
+https://mobile.twitter.com/simonw/status/1252647702078218243
+https://mobile.twitter.com/simonw/status/1252227832333209601
+
+
+Simon- Self-Rewriting
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
+https://github.com/simonw/simonw/blob/master/build_readme.py | simonw/build_readme.py at master · simonw/simonw
+
+https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
+
+
+Release
 https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
 https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
+
 https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
 https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
 
+Weeknotes
 https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
-https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
-https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
 
 Simon- Weeknotes
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
 https://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/ | Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more
 https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
 https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
@@ -426,39 +461,33 @@ http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyl
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
 
-Simon- Self-Rewriting
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
-https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
-
-https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
+https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
 
 https://github.com/simonw/sfpublicworks-tree-removal-notifications | simonw/sfpublicworks-tree-removal-notifications: Scrape https://sfpublicworks.org/tree-removal-notifications daily
 https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
 https://github.com/simonw/srccon-2020-datasette | simonw/srccon-2020-datasette: Publishing the SRCCON schedule using Datasette
 https://twitter.com/simonw/status/1275897355435307014 | Simon Willison on Twitter: "This is outstanding. The WaPo story investigating the low-flying helicopters over the protests in DC is now accompanied by a GitHub repo showing their workings, including notebooks with their analysis of the helicopters' flight paths" / Twitter
 
+Datasette
+https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
+
 https://twitter.com/simonw/status/1283054946338746368 | Simon Willison on Twitter: "This is a really great format for a newsletter: data journalism and woodworking interspersed with each other. As someone with diverse interests who mainly just writes about tech stuff this is giving me some ideas." / Twitter
 
 
-https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
 
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/building-github-apps/
-https://developer.github.com/v4/guides/
-https://github.com/whiteinge/ok.sh
-https://github.com/octokit/rest.js
-https://octokit.github.io/rest.js/v18
-https://github.com/pksunkara/octonode
+Node
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
 
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 
 https://nodejs.org/en/ | #BlackLivesMatter
 https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
+
+https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
 
 Deno
 https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
@@ -650,6 +679,9 @@ https://news.ycombinator.com/item?id=14375014 | Ask HN: How can I do social good
 https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career
 http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
 https://news.ycombinator.com/item?id=18000410 | Ask HN: What topics/subjects are worth learning for a new software engineer? | Hacker News
+https://twitter.com/Vagishagupta23/status/1286394188112699393 | Vagisha Gupta on Twitter: "What is the next thing you do if you can't find a solution on stackoverflow?" / Twitter
+https://twitter.com/shanselman/status/1285821908672380928 | Scott Hanselman on Twitter: "Getting a talk ready for new coders. What are some common things later-in-career coders ALWAYS check for? What can we teach them? IP addresses SSL Certs Ports/Firewalls DNS What directory are you in? What file do you think you’re accessing?" / Twitter
+https://news.ycombinator.com/item?id=23849070 | Ask HN: How do I teach intermediate Python engineering skills? | Hacker News
 
 
 That site design I like
@@ -665,9 +697,18 @@ https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
 
-
+GitHub Stuff
 
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+Open API
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
+https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+
+GA- Best
+https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
 
 Matrix
 https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
@@ -677,9 +718,8 @@ https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workf
 https://github.blog/changelog/2020-07-07-github-actions-ability-to-delete-workflow-runs/ | GitHub Actions: ability to delete workflow runs The GitHub Blog
 https://twitter.com/webology/status/1280303899694465025 | Jeff says, "wear a mask" 😷 on Twitter: "This is a great update. Now you can trigger a GitHub Actions `workflow_dispatch` event via a form in GitHub's UI. Neat." / Twitter
 
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
+https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
+https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
 
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 
@@ -693,14 +733,7 @@ Satellite
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
 https://githubsatellite.com/schedule/ | Schedule | GitHub Satellite | Virtual 2020 · May 6
 
-
-
-https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
+https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
 
 GitHub Actions
 https://github.com/GoogleChrome/lighthouse-stack-packs/issues
@@ -711,11 +744,22 @@ https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | action
 
 https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
 
-https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
+https://github.com/primer/design | primer/design: Primer Design Guidelines
 
-GitLab
-https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
+https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
 
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+
+
+Google
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 
 
 OS/PSF
@@ -756,6 +800,16 @@ https://www.npmjs.com/package/gh-pages | gh-pages - npm
 https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
 
 https://beta.openai.com/ | OpenAI API
+
+
+https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+GitLab
+https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
+
 
 
 
