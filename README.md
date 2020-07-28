@@ -60,6 +60,8 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
+https://twitter.com/thoward37/status/1286752245736865792 | Troy Howard / Executive Chef for Antifa on Twitter: "@kathleencodes -Who are your customers and what are they trying to accomplish? -Did you schedule time to write docs in your development plan? -What do you see as the distinction between these two things? -Can this be immutable?" / Twitter
+
 
 PyconAfrica 2021
 https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
@@ -174,6 +176,7 @@ https://2020.pyconuk.org/ | PyCon UK 2020
 https://docs.google.com/forms/d/e/1FAIpQLScAZM9G-qNA3DIxY_iYyuFFkh4ix0xidpGuT9aGPkP-KVOzFg/closedform | OSI State of the Source: Call for Proposals
 
 
+
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
 Zoom
@@ -223,6 +226,7 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
+
 Sphinx to Markdown
 https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
 
@@ -250,7 +254,14 @@ GitHub Stuff
 
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 
+https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
+https://github.com/github/roadmap
+https://twitter.com/natfriedman/status/1288155000560967680
+https://twitter.com/sriramk/status/1288158435226218498
+https://twitter.com/johncutlefish/status/1288160977087684613
+
 Open API
+https://github.com/github/rest-api-description
 https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
 https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
 
