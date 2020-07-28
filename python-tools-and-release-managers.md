@@ -1,6 +1,27 @@
 # Python Tools and Release Managers
 
 <!--
+Bernat
+https://ep2020.europython.eu/talks/D2SG8Vb-lessons-from-the-trenches-rewriting-and-re-releasing-virtualenv/ | Lessons from the Trenches: rewriting and re-releasing virtualenv — EuroPython 2020 Online · 23-26 July 2020
+
+virtualenv
+https://github.com/gaborbernat/virtualenv-rewrite-eupy20 | gaborbernat/virtualenv-rewrite-eupy20
+
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+
+Python Docker
+https://twitter.com/brettsky/status/1146835613628293120 | Twitter
+https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
+
+pip lock
+https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+pathlib
+https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
+
+pytest type
+https://twitter.com/gvanrossum/status/1282175743493935104 | Guido van Rossum on Twitter: "Yay type annotations in pytest!" / Twitter
+
 https://github.com/Mariatta/requirements_atoz
 https://github.com/Mariatta/cookiecutter_sprint_guide
 https://github.com/Mariatta/pep_cookiecutter
