@@ -43,6 +43,7 @@ Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 Content
+https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
 https://opensource.com/how-submit-article | Write for us | Opensource.com
 https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
@@ -236,10 +237,6 @@ https://docs.google.com/forms/d/e/1FAIpQLScAZM9G-qNA3DIxY_iYyuFFkh4ix0xidpGuT9aG
 
 Wichita SWE
 
-Ergonomic Chair
-The Aeron. I also added a small inexpensive mesh support I got on Amazon. It should be able to last you 20 years
-https://mobile.twitter.com/shanselman/status/1249173789247705093
-
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
@@ -247,8 +244,13 @@ https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
 
-Stanford
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://twitter.com/hunterwalk/status/1283863580585025536 | 👨🏻‍💻☕️ on Twitter: "if you're designing social spaces for humans, and have never read Bartle's 1996 paper on player types and motivations... https://t.co/MxZzuqWl0d https://t.co/fn4hrnIT88" / Twitter
+http://mud.co.uk/richard/hcds.htm | Richard A. Bartle: Players Who Suit MUDs
+https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr. 🚀 on Twitter: "Must-read" / Twitter
+
+PM
+https://twitter.com/justindross/status/1287061321754673155 | JD Ross on Twitter: "A good early stage PM should be an editor of other teammates’ work and ideas Steve Jobs wasn’t a designer, nor Elon a car/rocket engineer For a long time, Square called PMs “Product Editors” and I think that’s a better title. I wish it stuck" / Twitter
+https://mixpanel.com/blog/steven-sinofsky-product-leadership/ | Steven Sinofsky on product leadership
 
 MVP
 https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
@@ -305,6 +307,10 @@ https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-
 
 https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
 
+Think like a programmer
+https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
+https://en.wikipedia.org/wiki/Pseudocode
+
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 
 Narrative
@@ -333,6 +339,11 @@ https://mobile.twitter.com/simonw/status/1252647702078218243
 https://mobile.twitter.com/simonw/status/1252227832333209601
 
 https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
 
 https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
