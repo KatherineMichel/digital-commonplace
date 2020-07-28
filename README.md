@@ -61,67 +61,6 @@ https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
 
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
-
-Zoom
-https://us04web.zoom.us/meeting | My Meetings - Zoom
-https://zoom.us/recording | My Recordings - Zoom
-https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
-https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
-
-Record a Video
-https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
-https://support.apple.com/en-us/HT208721
-https://github.com/HandBrake | HandBrake
-https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
-https://obsproject.com/ | Open Broadcaster Software | OBS
-
-https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
-https://support.google.com/youtube/answer/57407
-https://www.youtube.com/watch?v=VKf6NF0OD5A
-
-Pinax
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Casey
-https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
-
-Awesome- Pinax
-Release
-https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
-
-https://github.com/tox-dev/action
-
-SemVer
-https://twitter.com/ncoghlan_dev/status/882576856938987521
-https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
-
-https://github.com/features/codespaces/ | Codespaces
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-Sphinx to Markdown
-https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
-
-Read the Docs
-https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
-https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
-
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
-
-Repo
-https://github.com/KatherineMichel/setting-up-an-open-source-project
-
-
 PyconAfrica 2021
 https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
 
@@ -233,6 +172,199 @@ https://twitter.com/transitionswpz/status/1283220099198005248 | Kojo STAY AT HOM
 https://africa.pycon.org/speakers/ | Speakers | PyCon Africa 2020
 https://2020.pyconuk.org/ | PyCon UK 2020
 https://docs.google.com/forms/d/e/1FAIpQLScAZM9G-qNA3DIxY_iYyuFFkh4ix0xidpGuT9aGPkP-KVOzFg/closedform | OSI State of the Source: Call for Proposals
+
+
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
+Zoom
+https://us04web.zoom.us/meeting | My Meetings - Zoom
+https://zoom.us/recording | My Recordings - Zoom
+https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
+https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
+
+Record a Video
+https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
+https://support.apple.com/en-us/HT208721
+https://github.com/HandBrake | HandBrake
+https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
+https://obsproject.com/ | Open Broadcaster Software | OBS
+
+https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
+https://support.google.com/youtube/answer/57407
+https://www.youtube.com/watch?v=VKf6NF0OD5A
+
+
+Pinax
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Casey
+https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
+
+Awesome- Pinax
+Release
+https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
+
+https://github.com/tox-dev/action
+
+SemVer
+https://twitter.com/ncoghlan_dev/status/882576856938987521
+https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
+
+https://github.com/features/codespaces/ | Codespaces
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+Sphinx to Markdown
+https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+
+Read the Docs
+https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
+https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+
+
+GitHub Stuff
+
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+Open API
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
+https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+
+GA- Best
+https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
+
+Matrix
+https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
+https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
+https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
+
+https://github.blog/changelog/2020-07-07-github-actions-ability-to-delete-workflow-runs/ | GitHub Actions: ability to delete workflow runs The GitHub Blog
+https://twitter.com/webology/status/1280303899694465025 | Jeff says, "wear a mask" 😷 on Twitter: "This is a great update. Now you can trigger a GitHub Actions `workflow_dispatch` event via a form in GitHub's UI. Neat." / Twitter
+
+https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
+https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
+https://github.com/features/insights | Features · Insights
+
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+
+Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+https://githubsatellite.com/schedule/ | Schedule | GitHub Satellite | Virtual 2020 · May 6
+
+https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
+
+GitHub Actions
+https://github.com/GoogleChrome/lighthouse-stack-packs/issues
+https://mobile.twitter.com/magnetikonline/status/1224837954771668992
+https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
+
+https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
+
+https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
+
+https://github.com/primer/design | primer/design: Primer Design Guidelines
+
+https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
+
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+
+
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+Google
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Self-Serve Case Studies
+https://github.com/nodejs/nodejs.org/issues/1230
+
+Release
+https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
+
+OS Important
+https://mobile.twitter.com/mariatta/status/1252655621398163458
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://joss.theoj.org/ | Journal of Open Source Software
+
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
+
+https://github.com/sustainers | Sustain
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://github.com/orgs/maintainers/people?page=1
+
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+node on gh-pages
+https://www.npmjs.com/package/gh-pages | gh-pages - npm
+
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+https://beta.openai.com/ | OpenAI API
+
+
+https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+GitLab
+https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
+
+
+Repo
+https://github.com/KatherineMichel/setting-up-an-open-source-project
+
 
 
 Wichita SWE
@@ -475,35 +607,6 @@ https://twitter.com/simonw/status/1283054946338746368 | Simon Willison on Twitte
 
 
 
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Node
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
-
-https://nodejs.org/en/ | #BlackLivesMatter
-https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
-
-https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
-
-Deno
-https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
-https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
-https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
-
-https://twitter.com/gauravssnl/status/1260477661878632449
-https://jaxenter.com/deno-interview-ryan-dahl-171425.html
-https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
-https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
-
-Playwright
-https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
-https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
-
-
 https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
 
 GPT-3
@@ -596,6 +699,32 @@ https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to w
 https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
 
 
+
+http://www.avabodh.com/cin/cin.html | C Internals
+
+https://github.com/python/cpython/pulls | Pull requests · python/cpython
+https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
+CPython
+
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+
+CPython
+https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
+https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
+https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
+https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
+
+https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
+
+https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
+https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
+
+
+
 https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
 https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
 
@@ -627,7 +756,17 @@ https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ |
 https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
 
 
-https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
+
+https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
+
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+ 
+es6 javascript features
 
 npm
 https://www.youtube.com/watch?v=468tirG434E
@@ -636,35 +775,28 @@ https://blog.npmjs.org/ | The npm Blog
 https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
 https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
 
-https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
+https://nodejs.org/en/ | #BlackLivesMatter
+https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
- 
-es6 javascript features
+Node
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
 
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 
-http://www.avabodh.com/cin/cin.html | C Internals
+Deno
+https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
+https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
 
-https://github.com/python/cpython/pulls | Pull requests · python/cpython
-https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
-CPython
+https://twitter.com/gauravssnl/status/1260477661878632449
+https://jaxenter.com/deno-interview-ryan-dahl-171425.html
+https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
+https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
 
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-
-CPython
-https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
-https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
-https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
-https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
-
-https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
-
-https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
-https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
-https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
+Playwright
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
 Advice
@@ -682,135 +814,6 @@ https://news.ycombinator.com/item?id=18000410 | Ask HN: What topics/subjects are
 https://twitter.com/Vagishagupta23/status/1286394188112699393 | Vagisha Gupta on Twitter: "What is the next thing you do if you can't find a solution on stackoverflow?" / Twitter
 https://twitter.com/shanselman/status/1285821908672380928 | Scott Hanselman on Twitter: "Getting a talk ready for new coders. What are some common things later-in-career coders ALWAYS check for? What can we teach them? IP addresses SSL Certs Ports/Firewalls DNS What directory are you in? What file do you think you’re accessing?" / Twitter
 https://news.ycombinator.com/item?id=23849070 | Ask HN: How do I teach intermediate Python engineering skills? | Hacker News
-
-
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
-
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-
-GitHub Stuff
-
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
-Open API
-https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
-https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
-
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-
-GA- Best
-https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
-
-Matrix
-https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
-https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
-https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
-
-https://github.blog/changelog/2020-07-07-github-actions-ability-to-delete-workflow-runs/ | GitHub Actions: ability to delete workflow runs The GitHub Blog
-https://twitter.com/webology/status/1280303899694465025 | Jeff says, "wear a mask" 😷 on Twitter: "This is a great update. Now you can trigger a GitHub Actions `workflow_dispatch` event via a form in GitHub's UI. Neat." / Twitter
-
-https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
-https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
-https://github.com/features/insights | Features · Insights
-
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
-
-Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
-https://githubsatellite.com/schedule/ | Schedule | GitHub Satellite | Virtual 2020 · May 6
-
-https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
-
-GitHub Actions
-https://github.com/GoogleChrome/lighthouse-stack-packs/issues
-https://mobile.twitter.com/magnetikonline/status/1224837954771668992
-https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
-
-https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
-
-https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-
-https://github.com/primer/design | primer/design: Primer Design Guidelines
-
-https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
-
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-
-
-Google
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
-
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Self-Serve Case Studies
-https://github.com/nodejs/nodejs.org/issues/1230
-
-Release
-https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
-
-OS Important
-https://mobile.twitter.com/mariatta/status/1252655621398163458
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://joss.theoj.org/ | Journal of Open Source Software
-
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
-
-https://github.com/sustainers | Sustain
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://github.com/orgs/maintainers/people?page=1
-
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-
-node on gh-pages
-https://www.npmjs.com/package/gh-pages | gh-pages - npm
-
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-https://beta.openai.com/ | OpenAI API
-
-
-https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-GitLab
-https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
-
-
 
 
 http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
