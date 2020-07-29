@@ -1,6 +1,25 @@
 # Python Tools and Release Managers
 
 <!--
+pip lock
+https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+Pinning
+https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
+
+beta pip
+https://mobile.twitter.com/ThePyPA/status/1252641910679879681
+
+pip Resolver
+https://mobile.twitter.com/metalikus/status/1251497611028238336
+
+Gidgethub
+https://mobile.twitter.com/mariatta/status/1251733060812369920
+
+pathlib
+https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
+
+
 Bernat
 https://ep2020.europython.eu/talks/D2SG8Vb-lessons-from-the-trenches-rewriting-and-re-releasing-virtualenv/ | Lessons from the Trenches: rewriting and re-releasing virtualenv — EuroPython 2020 Online · 23-26 July 2020
 
@@ -13,39 +32,74 @@ Python Docker
 https://twitter.com/brettsky/status/1146835613628293120 | Twitter
 https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
 
-pip lock
-https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
 
-pathlib
-https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
+Packaging
+https://twitter.com/webKnjaZ/status/1287690737778335744 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony @codewithanthony FYI there's also `wheel unpack` for extracting whl contents" / Twitter
+
+Anthony
+https://github.com/asottile2/demo2 | asottile2/demo2
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
+https://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
+https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
+
+https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
+
+deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
+
+
+Release
+
+pytest
+https://twitter.com/AdamChainz/status/1281483305028923393 | Adam Johnson on Twitter: "Looking like it will be a great release. Some highlights: ✨ The pytest public API is type-annotated ✨ Logging formatting errors exposed ✨ importlib test import mode stops pytest manipulating sys.path ✨ The --durations flag uses more precise test timing" / Twitter
+https://twitter.com/pganssle/status/1281597323274067969 | Paul Ganssle on Twitter: "Just tested all my projects against this: all good! If you are a tox user it's very easy to do, just add `pip_pre = True` to your `[testenv]`, then run `tox` with the `-r` flag. Verify that when `tox` does the run it says `pytest=6.0.0rc1`. (Remove any exact version pins first)." / Twitter
+https://twitter.com/pganssle/status/1281688082815877120 | (2) Paul Ganssle on Twitter: "@jugmac00 @pradyunsg FYI, the PIP_PRE=True environment variable is actually a pip option, it's not tox-specific. You can set any pip option with a PIP_{optionname} environment variable, which is useful for when pip is called under the hood by tools like tox." / Twitter
 
 pytest type
 https://twitter.com/gvanrossum/status/1282175743493935104 | Guido van Rossum on Twitter: "Yay type annotations in pytest!" / Twitter
+
+https://twitter.com/codewithanthony/status/1285329174224240640 | Anthony Sottile on Twitter: "I've just uploaded #python 3.9 beta 5 (and 3.8.5) to deadsnakes! (an #ubuntu ppa) -- this is the last beta for 3.9 so make sure to check that things aren't broken! https://t.co/ttZfgsgobS" / Twitter
+
+Release
+https://github.com/tensorflow/tensorflow/releases/tag/v2.3.0-rc2 | Release TensorFlow 2.3.0-rc2 · tensorflow/tensorflow
+https://blog.tensorflow.org/2020/07/whats-new-in-tensorflow-2-3.html | What's new in TensorFlow 2.3? — The TensorFlow Blog
+https://github.com/GaretJax/django-click/releases/tag/2.2.0 | Release Add support for click >= 7.1; require Python 3.6+ and Django 2.2+. · GaretJax/django-click
+https://github.com/wagtail/wagtail/commit/622d439e6d3905ba5f594ea10360f40e1969e8db | Release note for workflow · wagtail/wagtail@622d439
+
+https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html | Announcing Rust 1.45.0 | Rust Blog
+
+Release
+https://nextjs.org/blog/next-9-5 | Blog - Next.js 9.5 | Next.js
+https://twitter.com/rauchg/status/1287792732472135680 | Guillermo Rauch on Twitter: "Quick thoughts on why Next.js 9.5 is so exciting! &lt;🧵&gt;" / Twitter
+
+node.js
+https://nodejs.org/en/blog/release/v14.6.0/ | Node v14.6.0 (Current) | Node.js
+https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
+
+https://twitter.com/thesquashSH/status/1278116325764800513 | Nick Sweeting on Twitter: "Awww yesss look what I just found in the Python 3.9 changelog! @pganssle https://t.co/Y8BdZZkpeY" / Twitter
+https://github.com/tonybaloney/pytest-azurepipelines/blob/master/azure-pipelines.yml#L136-L196 | pytest-azurepipelines/azure-pipelines.yml at master · tonybaloney/pytest-azurepipelines
+
+Release
+https://github.com/asottile/pygments-pre-commit/blob/6cea7146c56d45ecf53fe07f63b4fb712a84f66c/pygments_pre_commit.py#L46-L52 | pygments-pre-commit/pygments_pre_commit.py at 6cea7146c56d45ecf53fe07f63b4fb712a84f66c · asottile/pygments-pre-commit
+https://github.com/pre-commit/pre-commit.com/blob/c52accfb14034a280e158d2a42ef8b2dc372ff5e/.github/workflows/deploy.yml#L20 | pre-commit.com/deploy.yml at c52accfb14034a280e158d2a42ef8b2dc372ff5e · pre-commit/pre-commit.com
+https://github.com/pre-commit/pre-commit/releases/tag/v2.6.0 | Release pre-commit v2.6.0 · pre-commit/pre-commit
+
+
 
 https://github.com/Mariatta/requirements_atoz
 https://github.com/Mariatta/cookiecutter_sprint_guide
 https://github.com/Mariatta/pep_cookiecutter
 https://github.com/hbristow/cookiecutter-cpp/blob/master/.travis.yml
 https://github.com/jambonsw/cookiecutter-static-site
-
-Release
-https://github.com/asottile/pygments-pre-commit/blob/6cea7146c56d45ecf53fe07f63b4fb712a84f66c/pygments_pre_commit.py#L46-L52 | pygments-pre-commit/pygments_pre_commit.py at 6cea7146c56d45ecf53fe07f63b4fb712a84f66c · asottile/pygments-pre-commit
-https://github.com/pre-commit/pre-commit.com/blob/c52accfb14034a280e158d2a42ef8b2dc372ff5e/.github/workflows/deploy.yml#L20 | pre-commit.com/deploy.yml at c52accfb14034a280e158d2a42ef8b2dc372ff5e · pre-commit/pre-commit.com
-https://twitter.com/thesquashSH/status/1278116325764800513 | Nick Sweeting on Twitter: "Awww yesss look what I just found in the Python 3.9 changelog! @pganssle https://t.co/Y8BdZZkpeY" / Twitter
-https://github.com/tonybaloney/pytest-azurepipelines/blob/master/azure-pipelines.yml#L136-L196 | pytest-azurepipelines/azure-pipelines.yml at master · tonybaloney/pytest-azurepipelines
-https://github.com/pre-commit/pre-commit/releases/tag/v2.6.0 | Release pre-commit v2.6.0 · pre-commit/pre-commit
-
-Pinning
-https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
-
-beta pip
-https://mobile.twitter.com/ThePyPA/status/1252641910679879681
-
-Gidgethub
-https://mobile.twitter.com/mariatta/status/1251733060812369920
-
-pip Resolver
-https://mobile.twitter.com/metalikus/status/1251497611028238336
 
 
 https://launchpad.net/ubuntu | Ubuntu in Launchpad
@@ -54,35 +108,18 @@ Python
 Django self-update
 https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
 
-Anthony
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
-https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
-https://github.com/asottile2/demo2 | asottile2/demo2
-https://www.youtube.com/watch?v=1SCyDlt4DGw | (1) replay - deadsnakes nightly github actions - 2020-06-22 - YouTube
-https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
-https://www.youtube.com/watch?v=_K4mjPrROGQ&feature=emb_logo | (1) python __future__ "module" (beginner - intermediate) anthony explains #055 - YouTube
-https://www.youtube.com/watch?v=BMn0nSpeITY | hacker mode tmux debugging (intermediate) anthony explains #051 - YouTube
-https://www.youtube.com/watch?v=KREsXvnZIt0 | (1) replay - pre-commit ci WIP demo and a lot of chat - 2020-06-17 - YouTube
-https://www.youtube.com/watch?v=MXZhe0KduyE&feature=emb_logo | (2) web security: what is a csrf exploit? (intermediate) anthony explains #053 - YouTube
+
+
+Videos
 
 Anthony
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
-https://twitter.com/codewithanthony/status/1270774728207130624 | Anthony Sottile on Twitter: "I'll be streaming in ~80 minutes! new streaming schedule (Mon / Wed / Fri noon pacific, Sat 11am pacific). Today I *hope* to be looking at setting up a GitHub app and messing with webhooks, we'll see how much of that happens -- come by and chat! https://t.co/qughWG5TvG" / Twitter
 https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
 
-Anthony
-https://www.youtube.com/watch?v=BMn0nSpeITY&feature=emb_logo | hacker mode tmux debugging (intermediate) anthony explains #051 - YouTube
-https://www.youtube.com/watch?v=5za6eRdHjpw&feature=emb_logo | stdin / stdout / stderr (beginner - intermediate) anthony explains #050 - YouTube
 
 https://twitter.com/pganssle/status/1270056171861401601
 Release
 https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
 
-https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
-ttps://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
-https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
 
 
 GitLab Release
@@ -673,6 +710,14 @@ https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitte
 ## Anthony Advice
 
 <!--
+https://twitter.com/codewithanthony/status/1285974757750353920 | Anthony Sottile on Twitter: "@chaitan94 you may be interested to learn there's other ways of postmortem debugging as well! https://t.co/wbz8AyhmLP" / Twitter
+
+Anthony Advice
+https://www.youtube.com/watch?time_continue=2&v=bfyIrX4_yL8&feature=emb_logo | python packaging: data files (intermediate) anthony explains #071 - YouTube
+https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
+https://www.youtube.com/watch?v=ZpOoRSkm-dQ&feature=emb_logo | what is PATH? (beginner - intermediate) anthony explains #070 - YouTube
+
+
 typing
 https://www.youtube.com/watch?v=HESA7oukEqE | (1) typing __getitem__ (python / mypy) (intermediate) anthony explains #045 - YouTube
 
@@ -2022,11 +2067,6 @@ https://hynek.me/articles/document-your-tests/
 
 https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
 
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures | Comparison of instruction set architectures - Wikipedia
 
@@ -2272,7 +2312,8 @@ Python- Python/Django- Internationalization and Localization, Translation
 * [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
 * [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
 * [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
+
 <!--
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
