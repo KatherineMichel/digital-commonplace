@@ -316,6 +316,15 @@ https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Spo
 https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
 
 
+https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
+https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
+
+https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+
 
 http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
 https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
@@ -374,6 +383,17 @@ https://twitter.com/changelog/status/1276514876228284417
 
 GitLab
 https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
+
+
+What is
+https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
+https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s JavaScript Glossary
+https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
+https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+
+
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+
 
 
 Repo
@@ -438,8 +458,6 @@ https://cloud.google.com/blog/products/management-tools/sre-principles-in-practi
 https://docs.npmjs.com/getting-started/running-a-security-audit
 https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
-
-https://www.humblebundle.com/software/python-programming-software | Humble Software Bundle: Learn Python Programming with PyCharm (pay what you want and help charity)
 
 Excellent
 https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
@@ -531,6 +549,8 @@ Mariatta
 Jessica
 https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
 https://www.bdougie.live/ | bdougie.live
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://github.com/bdougie/blog | bdougie/blog: My blog
 https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
 https://github.com/apps/update-authors | GitHub Apps - Update Authors
