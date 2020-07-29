@@ -379,8 +379,6 @@ https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
 
-
-
 Wichita SWE
 
 Spaces
