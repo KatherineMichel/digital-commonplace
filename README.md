@@ -207,6 +207,13 @@ Twitter language
 https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
 https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 
+http://www.collaborativefund.com/blog
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
+
 People
 https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
 https://github.com/twitterdev | @TwitterDev
@@ -289,6 +296,9 @@ https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 100 Days
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
 
+https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
+https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
+
 
 https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
 
@@ -370,6 +380,8 @@ https://github.com/jefftriplett/links/
 http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
 https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
 
+
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
 
 Simon- Self-Rewriting
 https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
@@ -516,14 +528,14 @@ https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses 
 
 
 
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+
 http://www.avabodh.com/cin/cin.html | C Internals
 
 https://github.com/python/cpython/pulls | Pull requests · python/cpython
 https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
 CPython
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
 
 CPython
 https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
