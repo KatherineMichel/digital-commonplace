@@ -3,6 +3,17 @@
 ## General Notes
 
 <!--
+Python- 100 Days
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards | 10. Brief Tour of the Standard Library — Python 3.8.5 documentation
+https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
+https://docs.python.org/3/library/sys.html#module-sys | sys — System-specific parameters and functions — Python 3.8.5 documentation
+https://docs.python.org/3/tutorial/modules.html#standard-modules | 6. Modules — Python 3.8.5 documentation
+https://docs.python.org/3/library/argparse.html | argparse — Parser for command-line options, arguments and sub-commands — Python 3.8.5 documentation
+https://docs.python.org/3/howto/argparse.html | Argparse Tutorial — Python 3.8.5 documentation
+https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.8.5 documentation
+https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
+https://docs.python.org/3.3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
+
 HTMl and CSS
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS | CSS: Cascading Style Sheets | MDN
