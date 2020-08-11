@@ -8,6 +8,9 @@ https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twit
 Fish
 https://twitter.com/carltongibson/status/1290932913618460672 | Carlton Gibson 🇪🇺 on Twitter: ""How can I do dev on my iPad?" @ShellFishApp finally nails it for me: Remote folders available via the Files app, and a great terminal too. There have been terminal options before but the file syncing is the killer. (The developer is nice too.) Having lots of fun. 👍" / Twitter
 
+https://www.apple.com/voiceover/info/guide/_1137.html
+https://help.apple.com/voiceover/info/guide/10.12/#/vo2681 | VoiceOver overview - VoiceOver Getting Started Guide
+
 https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
 
 https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
@@ -259,6 +262,9 @@ https://www.bdougie.live/ | bdougie.live
 https://jasonet.co/ | Jason Etcovitch · jasonet.co
 https://github.com/bdougie/blog | bdougie/blog: My blog
 https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
+https://twitter.com/johncutlefish/
+https://medium.com/@johnpcutler
 
 Product
 https://twitter.com/patrickc/status/514620429244190720 | Patrick Collison on Twitter: "The most influential thing I've read over the last year on the subject of product design: http://t.co/reomEbasNq" / Twitter
