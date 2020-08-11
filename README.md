@@ -136,7 +136,7 @@ https://mobile.twitter.com/AlSweigart/status/1249858205649260544
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
 
-Wichita SWE
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
@@ -211,6 +211,23 @@ People
 https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
 https://github.com/twitterdev | @TwitterDev
 https://github.com/orgs/twitterdev/people | People · @TwitterDev
+
+Product
+https://sriramk.substack.com
+https://evhead.com/ | evhead
+https://www.eugenewei.com/ | Remains of the Day
+http://www.eugenewei.com/blog/2017/6/7/my-most-popular-posts | My most popular posts — Remains of the Day
+https://github.com/wongmjane | wongmjane (Jane Manchun Wong)
+
+https://cassidoo.co/ | Cassidy Williams
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
 Makers
 Mariatta
@@ -451,6 +468,10 @@ https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
 No Starch
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+https://ehmatthes.github.io/pcc_2e/recommended_reading/recommended_reading/ | Recommended Reading - Python Crash Course, 2nd Edition
+
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
 https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
 https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
 https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
@@ -466,8 +487,6 @@ https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on T
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 
-
-https://stackoverflow.blog/2020/06/08/how-an-interview-code-submission-that-wasnt-even-submitted-changed-our-process/?cb=1 | How an interview code submission that wasn’t even submitted changed our process - Stack Overflow Blog
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
 
@@ -594,23 +613,6 @@ https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
 Playwright
 https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
-
-
-Advice
-https://news.ycombinator.com/item?id=17217210 | Ask HN: What's your favorite way of getting a web app up quickly in 2018? | Hacker News
-http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
-https://twitter.com/housecor/status/1007813012705587200 | Cory House 🏠 on Twitter: "Anyone have recommendations for a free/cheap provider to host a simple web api and a small database? Ideally quick to set up."
-https://twitter.com/simonw/status/1182077259839991808 | Simon Willison on Twitter: "What's the easiest way of running a stateful web application these days? Stateful as in it supports a process which can accept web requests and is allowed to write to a durable disk So not Heroku/Zeit Now/Cloud Run etc" / Twitter
-https://news.ycombinator.com/item?id=22290362 | Ask HN: What’s the most important modern simple invention? | Hacker News
-https://twitter.com/Suhail/status/1198016569114103808 | Suhail on Twitter: "Are there any good tools for software engineers to draw the architecture/design of a complex system?" / Twitter
-https://twitter.com/saronyitbarek/status/1258205078982443011 | Saron on Twitter: "Where do you get your ideas for apps and side projects?" / Twitter
-https://news.ycombinator.com/item?id=14375014 | Ask HN: How can I do social good through programming? | Hacker News
-https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career
-http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before | web development - What technical details should a programmer of a web application consider before making the site public? - Programmers Stack Exchange
-https://news.ycombinator.com/item?id=18000410 | Ask HN: What topics/subjects are worth learning for a new software engineer? | Hacker News
-https://twitter.com/Vagishagupta23/status/1286394188112699393 | Vagisha Gupta on Twitter: "What is the next thing you do if you can't find a solution on stackoverflow?" / Twitter
-https://twitter.com/shanselman/status/1285821908672380928 | Scott Hanselman on Twitter: "Getting a talk ready for new coders. What are some common things later-in-career coders ALWAYS check for? What can we teach them? IP addresses SSL Certs Ports/Firewalls DNS What directory are you in? What file do you think you’re accessing?" / Twitter
-https://news.ycombinator.com/item?id=23849070 | Ask HN: How do I teach intermediate Python engineering skills? | Hacker News
 
 
 http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
@@ -3728,6 +3730,8 @@ https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-eboo
 
 http://fourhourworkweek.com
 http://fourhourworkweek.com/sitemap.xml
+
+https://tim.blog/2008/09/15/rolf-potts-qa-the-art-of-long-term-world-travel-and-travel-writing/ | Rolf Potts Q&A: The Art of Long-term World Travel… and Travel Writing | The Blog of Author Tim Ferriss
 
 Rec from Tim Ferris
 http://fourhourworkweek.com/2013/11/11/vagabonding/ | The Tim Ferriss Book Club Launches — Book #1: Vagabonding | The Blog of Author Tim Ferriss
