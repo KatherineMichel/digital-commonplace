@@ -5,19 +5,10 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
-https://jacquesmattheij.com/dealing-with-insomnia/ | Dealing With Insomnia · Jacques Mattheij
-
-https://salman.io/posts/polymath-playbook/ | The Polymath Playbook
-
 https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
-
-https://dayhaysoos.com/don-t-seek-mentors-seek-friends/ | Don't seek mentors, seek friends
-https://twitter.com/Dayhaysoos/status/1283234586194055169 | Nick DeJesus 🛒🎉 - Pariss Athena Photography on Twitter: "I've noticed a handful of people looking for mentors for helping them learn and grow in the tech community. I'm here to tell you to stop seeking mentors and start seeking friends. This post is about my fave ways to make friends! https://t.co/9OO7htItde" / Twitter
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
-
-http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
 
 GitHub notifications
 https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
@@ -25,32 +16,31 @@ https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ |
 Interesting!
 https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
 
-https://github.com/johannesjo/super-productivity | johannesjo/super-productivity: To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-
-Voice
-https://www.youtube.com/watch?v=d64ohzVlur4&feature=youtu.be | Laziness Skills (Google Docs voice typing demo) - YouTube
-
-Productivity
-https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/ | Stop Taking Regular Notes; Use a Zettelkasten Instead
-http://lsc.cornell.edu/study-skills/cornell-note-taking-system/ | The Cornell Note-taking System – Learning Strategies Center
-
-https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
-
 https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
 
+Prioritization
+Deep Work
+Checklist Manifesto
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
 
-Season of Docs- Django
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
+
+https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/ | Set up a Paid Newsletter at Your Own Domain
+https://github.com/KatherineMichel/Lyra | KatherineMichel/Lyra: A paid-members theme for Ghost
+https://ghost.org/about/ | About Ghost - The Open Source Publishing Platform
 
 Content
+https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
+Open Source
 https://opensource.com/how-submit-article | Write for us | Opensource.com
 https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
 https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
-https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
+Digital Ocean
 https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
 https://www.digitalocean.com/community/pages/write-for-digitalocean
+Traversy Media
 https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
 
 https://www.writethedocs.org
@@ -60,11 +50,10 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
+Season of Docs- Django
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+
 https://twitter.com/thoward37/status/1286752245736865792 | Troy Howard / Executive Chef for Antifa on Twitter: "@kathleencodes -Who are your customers and what are they trying to accomplish? -Did you schedule time to write docs in your development plan? -What do you see as the distinction between these two things? -Can this be immutable?" / Twitter
-
-
-PyconAfrica 2021
-https://twitter.com/pystar/status/1264194727630516224 | pystar on Twitter: "@KatiMichel PyconAfrica 2021" / Twitter
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
@@ -75,44 +64,37 @@ http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
-https://www.acm.org/virtual-conferences | Virtual Conferences
+https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
 
+PyCon
+https://us.pycon.org/2020/remote/
+https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
 
-Events list
-https://mobile.twitter.com/chrisjrn/status/1248020330532057093
+https://pybay.com/ | PyBay2020
+https://africa.pycon.org/speakers/ | Speakers | PyCon Africa 2020
+https://ep2020.europython.eu/
+https://2020.pyconuk.org/ | PyCon UK 2020
+https://2020.pycon.org.au/
+https://2020.pygotham.tv/
+https://www.pyohio.org/2020/
+https://www.youtube.com/playlist?list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB | PyOhio 2020 - YouTube
+https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
 
-https://twitter.com/simonw/status/1278389840753508352 | Simon Willison on Twitter: "I've somewhat dropped the ball on applying to speak at conferences - any suggestions for Python (or Python-aligned) conferences that I could submit a talk about @datasetteproj stuff to? Would also love to talk to user groups." / Twitter
-
-CfPs
-PyOhio
-https://twitter.com/PyOhio/status/1264296854625402880 | PyOhio on Twitter: "Filling out CFPs can be overwhelming but ours is pretty simple! We really just need a title, short description and the desired takeaway of your talk. The hardest part is filling out your bio and you don't have to have a final version of that until July 😉 https://t.co/hxl0j4uOue" / Twitter
-
-https://medium.com/@pirosb3/how-sf-python-hosted-a-remote-meetup-during-the-times-of-covid-19-b6ac10ba4cb8 | How SF Python hosted a remote meetup during the times of COVID-19 | by Daniel Pyrathon | Medium
-
-SF Python and Django
-https://www.meetup.com/sfpython/events/xkwxvqybchbrb/
-https://twitter.com/sfpythonmeetup/status/1237538712105320448
-https://twitter.com/pirosb3/status/1237497435988979713
-https://twitter.com/manishsinhaha/status/1280174370145460224 | Manish Sinha on Twitter: "Interested in giving a talk? Hit me up." / Twitter
+https://www.meetup.com/pythonsd/
+https://www.meetup.com/sfpython/
 https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
 
-PyBay
-https://sessionize.com/pybay2020-online-edition/ | PyBay2020 Digital Edition: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
-https://medium.com/pybay/pybay2020-aims-to-be-an-online-conference-thats-educational-inspiring-and-social-will-we-7e070fad9288 | PyBay2020 aims to be an online conference that’s educational, inspiring, and SOCIAL — will we succeed?
+https://github.com/FlaskCon/website | FlaskCon/website
+https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
 
-https://2020.pyconuk.org/ | PyCon UK 2020
-https://blog.europython.eu/post/612113768932098048/europython-2020-call-for-proposals-now-open | EuroPython Blog — EuroPython 2020: Call for Proposals now open
+https://mybuild.microsoft.com/
+https://aws.amazon.com/events/aws-innovate/
 
-https://2020.pycon.org.au/speak/ | PyCon AU 2020
+https://githubsatellite.com/
+https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
+https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 
-PyGotham
-https://2020.pygotham.tv/speaking/recording-release/ | Recording Release - PyGotham TV
-https://2020.pygotham.tv/sponsors/prospectus/ | Sponsorship Prospectus - PyGotham TV
-https://cfp.pygotham.tv/ | PyGotham TV
-https://cfp.pygotham.tv/talks | Talks - PyGotham TV
-
-https://twitter.com/b0rk/status/1263483087498948615 | 🔎Julia Evans🔍 on Twitter: "are there any conferences for people who teach on the internet? (kind of like write the docs, but a bit more about learning than about documentation)" / Twitter
-https://womenintechsummit.net/ | The Women In Tech Summit
+https://www.defcon.org/html/defcon-26/dc-26-schedule.html | DEF CON® 26 Hacking Conference Schedule
 
 CHAOSS
 
@@ -125,65 +107,14 @@ https://www.oreilly.com/conferences/oscon.html
 
 https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
 
-https://twitter.com/NaomiCeder/status/1278049368583659525 | Naomi Ceder on Twitter: "So @ManningBooks is putting together a streaming Python conf mid-July and there are some spots open for minority women, LGBTQ+, etc. Hour stream and 10 min lightning talk slots available. Let me know if you have any interest, and I can tell you more and hook you up." / Twitter
-
 https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
-
-Node
-https://sessionize.com/nodeconf-eu-2020/ | NodeConf Remote: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
-
-https://ti.to/netlify/jamstack_virtual | Jamstack Conf Virtual
-
-To watch
-
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-
-Microsoft
-https://www.youtube.com/watch?v=gCkFkvFVLjY&feature=youtu.be
-https://discordapp.com/invite/b8YJQPx
-https://discord.com/channels/702724176489873509/702724176489873512
-
-Django Flask demo
-https://twitter.com/luumelo14/status/1260687690996920320
-
-https://www.microsoft.com/en-us/boards/pycon2020.aspx?ocid=AID3006292&token=688e234500&WT.mc_id=pycon2020-social-ninaz | PyCon 2020 Content Board
-https://gist.github.com/asw101/d419045badf17c6672c48a44908e80af | PYTHON-VIRTUAL-LABS.md
-
-May 6
-https://githubsatellite.com/
-https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
-https://git-merge.com/ | Git Merge 2018 — March, Barcelona
-
-May 19-20
-https://register.build.microsoft.com/
-https://mybuild.microsoft.com/sessions | MyBuild - Session catalog
-
-https://aws.amazon.com/events/aws-innovate/?innovate-agenda.sort-by=item.additionalFields.category&innovate-agenda.sort-order=asc | AWS INNOVATE ONLINE CONFERENCE
-
-https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
-
-https://github.com/FlaskCon/website | FlaskCon/website
-https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
-
-
-Conferences
-https://sessionize.com/pybay2020-online-edition/ | PyBay2020 Digital Edition: Call for Speakers / Call for Papers (CfP) @ Sessionize.com
-https://twitter.com/transitionswpz/status/1283220099198005248 | Kojo STAY AT HOME Idrissa on Twitter: "A pause in my Twitter sabbatical: @pyconafrica registration is open, "Pay What You Can" model. Global selection of keynotes &amp; speakers! @willyhakim @loooorenanicole @risingodegua @AishaXBello @ftnext @cheukting_ho @terrameijar https://t.co/lEOwEWUxok" / Twitter
-https://africa.pycon.org/speakers/ | Speakers | PyCon Africa 2020
-https://2020.pyconuk.org/ | PyCon UK 2020
-https://docs.google.com/forms/d/e/1FAIpQLScAZM9G-qNA3DIxY_iYyuFFkh4ix0xidpGuT9aGPkP-KVOzFg/closedform | OSI State of the Source: Call for Proposals
-
 
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
-Zoom
-https://us04web.zoom.us/meeting | My Meetings - Zoom
-https://zoom.us/recording | My Recordings - Zoom
-https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
-https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
 Record a Video
 https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
@@ -192,16 +123,31 @@ https://github.com/HandBrake | HandBrake
 https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
 https://obsproject.com/ | Open Broadcaster Software | OBS
 
-https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
-https://support.google.com/youtube/answer/57407
-https://www.youtube.com/watch?v=VKf6NF0OD5A
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
 
-
-Pinax
 http://gifmaker.me/
 OSX/Gif
 https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+
+Repo
+https://github.com/KatherineMichel/setting-up-an-open-source-project
+
+Wichita SWE
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+
+
+
+https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
+
+Pinax
+https://docs.github.com/en/actions/configuring-and-managing-workflows/sharing-workflow-templates-within-your-organization | Sharing workflow templates within your organization - GitHub Docs
 
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
@@ -243,6 +189,7 @@ That site design I like
 https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
 
+
 https://awesomeblog.club/ | Awesomeblog.club - explore
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
 https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
@@ -251,139 +198,32 @@ http://www.hawraf.com/
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
-
-
-GitHub Stuff
-
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
+GitHub and Twitter Roadmaps
 https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
 https://github.com/github/roadmap
-https://twitter.com/natfriedman/status/1288155000560967680
-https://twitter.com/sriramk/status/1288158435226218498
-https://twitter.com/johncutlefish/status/1288160977087684613
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
 
-Open API
-https://github.com/github/rest-api-description
-https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
-https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+Twitter language
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
 
-GA- Best
-https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
-
-Matrix
-https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
-https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
-https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
-
-https://github.blog/changelog/2020-07-07-github-actions-ability-to-delete-workflow-runs/ | GitHub Actions: ability to delete workflow runs The GitHub Blog
-https://twitter.com/webology/status/1280303899694465025 | Jeff says, "wear a mask" 😷 on Twitter: "This is a great update. Now you can trigger a GitHub Actions `workflow_dispatch` event via a form in GitHub's UI. Neat." / Twitter
-
-https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
-https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
-https://github.com/features/insights | Features · Insights
-
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
-
-Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
-https://githubsatellite.com/schedule/ | Schedule | GitHub Satellite | Virtual 2020 · May 6
-
-https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
-
-GitHub Actions
-https://github.com/GoogleChrome/lighthouse-stack-packs/issues
-https://mobile.twitter.com/magnetikonline/status/1224837954771668992
-https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
-
-https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
-
-https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-
-https://github.com/primer/design | primer/design: Primer Design Guidelines
-
-https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
-
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-
-https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
-https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
-
-https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
-
-http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+Makers
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://www.bdougie.live/ | bdougie.live
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
 
 
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
-Google
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-
-https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
-
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Self-Serve Case Studies
-https://github.com/nodejs/nodejs.org/issues/1230
-
-Release
-https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
-
-OS Important
-https://mobile.twitter.com/mariatta/status/1252655621398163458
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://joss.theoj.org/ | Journal of Open Source Software
-
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
-
-https://github.com/sustainers | Sustain
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://github.com/orgs/maintainers/people?page=1
-
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-
-node on gh-pages
-https://www.npmjs.com/package/gh-pages | gh-pages - npm
-
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-https://beta.openai.com/ | OpenAI API
-
-
-https://twitter.com/mariatta/status/1278038611338772480 | Mariatta 🤦 on Twitter: "Starting to work with @contentful webhooks and I'm impressed. If the default webhook payload is too noisy/too much information, you can customize it and send only the data you want!! 🤯 https://t.co/arwsniEpG6" / Twitter
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-GitLab
-https://twitter.com/gitlab/status/1260944722803163136 | GitLab on Twitter: " 15 Years of Git! Back in May 2014, Git 2.0 was released with important updates around the default behavior for git push and changes to the git add command. #Git15 https://t.co/tw7pRnvwa2" / Twitter
-
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
 
 What is
 https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
@@ -391,59 +231,12 @@ https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s J
 https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
 https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
+Narrative
+https://www.andysparks.co/ | Andy Sparks—Home
 
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
 
-
-
-Repo
-https://github.com/KatherineMichel/setting-up-an-open-source-project
-
-Wichita SWE
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-https://twitter.com/hunterwalk/status/1283863580585025536 | 👨🏻‍💻☕️ on Twitter: "if you're designing social spaces for humans, and have never read Bartle's 1996 paper on player types and motivations... https://t.co/MxZzuqWl0d https://t.co/fn4hrnIT88" / Twitter
-http://mud.co.uk/richard/hcds.htm | Richard A. Bartle: Players Who Suit MUDs
-https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr. 🚀 on Twitter: "Must-read" / Twitter
-
-PM
-https://twitter.com/justindross/status/1287061321754673155 | JD Ross on Twitter: "A good early stage PM should be an editor of other teammates’ work and ideas Steve Jobs wasn’t a designer, nor Elon a car/rocket engineer For a long time, Square called PMs “Product Editors” and I think that’s a better title. I wish it stuck" / Twitter
-https://mixpanel.com/blog/steven-sinofsky-product-leadership/ | Steven Sinofsky on product leadership
-
-MVP
-https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-https://news.ycombinator.com/item?id=23888215 | How to Gradually Exit Twitter | Hacker News
-https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/ | Set up a Paid Newsletter at Your Own Domain
-https://github.com/KatherineMichel/Lyra | KatherineMichel/Lyra: A paid-members theme for Ghost
-https://balajis.com/how-to-gradually-exit-twitter/ | How to Gradually Exit Twitter
-https://ghost.org/about/ | About Ghost - The Open Source Publishing Platform
-https://twitter.com/balajis/status/1284473850894270465 | balajis.com on Twitter: "It's time to gradually exit Twitter. While Substack is great, it's better to set up a paid newsletter at your own domain. You can do this in an hour and maintain it for less than $30 per month. I wrote up a tutorial here to walk you through it: https://t.co/VCJH4vmtIV" / Twitter
-
-https://twitter.com/boo/status/1268006424551944192 | bruce falck() 🦗 on Twitter: "I believe in these principles 🏻" / Twitter
-
-Important
-https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
-https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
-
-Twitter case study PWA
-https://developers.google.com/web/showcase/2017/twitter
 
 https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
-
-https://lyrebird.ai/demo | Demo - Lyrebird
-
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 https://twitter.com/fauna
 https://twitter.com/prisma
@@ -453,16 +246,12 @@ https://firebase.google.com/
 
 https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
 
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-
 https://docs.npmjs.com/getting-started/running-a-security-audit
 https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
 
 Excellent
 https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
-
-https://dev.to/dthompsondev/from-frying-chicken-in-gas-stations-to-becoming-a-software-engineer-4ff4 | From frying chicken in gas stations to becoming a Software Engineer! - DEV
 
 Cassidy
 https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
@@ -475,13 +264,6 @@ https://en.wikipedia.org/wiki/Pseudocode
 
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 
-Narrative
-https://www.andysparks.co/ | Andy Sparks—Home
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
 
 100 Projects
 https://twitter.com/sarah_edo/status/1287441437701754882 | Sarah Drasner on Twitter: "This is so cool, @ceeoreo_ kicked off #100DaysOfProjects, looks like it's open to anyone! Seems like a nice way of creating community while learning :)" / Twitter
@@ -489,6 +271,7 @@ https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 
 100 Days
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
+
 
 https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
 
@@ -501,7 +284,24 @@ https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best
 https://github.com/realpython/list-of-python-api-wrappers
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
+
+
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/building-github-apps/
+https://developer.github.com/v4/guides/
+https://github.com/whiteinge/ok.sh
+https://github.com/octokit/rest.js
+https://octokit.github.io/rest.js/v18
+https://github.com/pksunkara/octonode
+
+
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
 https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
@@ -521,40 +321,11 @@ https://developer.twitter.com/en/docs/api-reference-index | API reference index 
 https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 
 
-https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
-
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
-
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/building-github-apps/
-https://developer.github.com/v4/guides/
-https://github.com/whiteinge/ok.sh
-https://github.com/octokit/rest.js
-https://octokit.github.io/rest.js/v18
-https://github.com/pksunkara/octonode
-
-
 Getting Started: Building a Chrome Extension
 https://developer.chrome.com/extensions/getstarted
 
 https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
 
-
-Makers
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://www.bdougie.live/ | bdougie.live
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://github.com/bdougie/blog | bdougie/blog: My blog
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
 
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 
@@ -581,13 +352,6 @@ https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SE
 https://github.com/jefftriplett/links/
 http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
 https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-
-https://github.com/pganssle/til | pganssle/til
-
-TIL
-https://mobile.twitter.com/simonw/status/1252647702078218243
-https://mobile.twitter.com/simonw/status/1252227832333209601
 
 
 Simon- Self-Rewriting
@@ -635,9 +399,10 @@ https://twitter.com/simonw/status/1275897355435307014 | Simon Willison on Twitte
 Datasette
 https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
-https://twitter.com/simonw/status/1283054946338746368 | Simon Willison on Twitter: "This is a really great format for a newsletter: data journalism and woodworking interspersed with each other. As someone with diverse interests who mainly just writes about tech stuff this is giving me some ideas." / Twitter
 
 
+https://lyrebird.ai/demo | Demo - Lyrebird
+https://beta.openai.com/ | OpenAI API
 
 https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
 
@@ -1670,6 +1435,134 @@ https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on T
 -->
 
 
+<!--
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+Google
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+
+DevOps
+https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
+https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339/ref=as_sl_pc_tf_til?tag=nicolefv-20&linkCode=w00&linkId=1d7fac0c03a9a8cd9e853ea3003241a3&creativeASIN=1942788339 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: Nicole Forsgren PhD, Jez Humble, Gene Kim: 9781942788331: Amazon.com: Books
+
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Self-Serve Case Studies
+https://github.com/nodejs/nodejs.org/issues/1230
+
+Release
+https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
+
+OS Important
+https://mobile.twitter.com/mariatta/status/1252655621398163458
+
+
+https://joss.theoj.org/ | Journal of Open Source Software
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+
+
+
+
+GitHub Stuff
+
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+Open API
+https://github.com/github/rest-api-description
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
+https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+GA- Best
+https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
+
+Matrix
+https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
+https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
+https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
+
+https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
+https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
+https://github.com/features/insights | Features · Insights
+
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+
+Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+
+https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
+
+GitHub Actions
+https://github.com/GoogleChrome/lighthouse-stack-packs/issues
+https://mobile.twitter.com/magnetikonline/status/1224837954771668992
+https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
+
+https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
+
+https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
+
+https://github.com/primer/design | primer/design: Primer Design Guidelines
+
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+
+
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
+https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
+https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
+
+https://github.com/sustainers | Sustain
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://github.com/orgs/maintainers/people?page=1
+
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+node on gh-pages
+https://www.npmjs.com/package/gh-pages | gh-pages - npm
+
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+-->
+
+
 ## Hosting Blogs
 
 Hosting Blogs
@@ -1756,18 +1649,6 @@ https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's
 https://github.com/ten | Thank you for making 10 years of GitHub possible
 https://github.com/blog/2401-the-github-diversity-report	
 
-https://twitter.com/natfriedman/status/1151654491349032960 | Nat Friedman on Twitter: "😻 Raises an interesting question: if there were a museum of code, what would be the most popular exhibits? https://t.co/bcbqZ4JHB2" / Twitter
-https://twitter.com/natfriedman/status/1118645836647256064 | Nat Friedman on Twitter: "This is a fascinating question.… "
-https://twitter.com/srinathkrishna/status/1151658060491837440 | Srinath Krishna on Twitter: "@natfriedman Original BSD sockets, Ada lovelace's program, Mars rover, sys v, windows" / Twitter
-https://twitter.com/natfriedman/status/1106965646665879552 | Nat Friedman on Twitter: "What are your favorite add-ons to GitHub? Apps, bots, browser extensions — what tools make GitHub better for you?"
-https://twitter.com/natfriedman/status/1114226984597385216 | Nat Friedman on Twitter: "Of all the source code that exists today, if you could only preserve 1000 pages for future generations, what would it be? What's the most important and irreplaceable ~100,000 lines of code on earth?"
-
-Space Systems
-https://space.stackexchange.com/questions/9243/what-computer-and-software-is-used-by-the-falcon-9 | spacex - What computer and software is used by the Falcon 9? - Space Exploration Stack Exchange
-https://twitter.com/Grady_Booch/status/1266970700885012480 | Grady Booch on Twitter: "But, there is a new implementation of this pattern emerging: Kubernetes. Same system design principle, just a different deployment. Assume that nodes will fail; use K8 orchestration to attend to failover. Really quite brilliant. https://t.co/a9ro47TPGw" / Twitter
-https://twitter.com/Grady_Booch/status/1266969676979949569 | Grady Booch on Twitter: "An tremendous of software these days is bespoke: frameworks upon frameworks with glue code to tie it all together and somewhere woven within and around, all the domain-specific bits. It appears that Dragon’s UI is no exception." / Twitter
-https://twitter.com/Grady_Booch/status/1266970085773565952 | Grady Booch on Twitter: "And as system design, triple redundancy with voting is a classic, proven pattern, used for decades. https://t.co/09RfE4kdY4" / Twitter
-
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
@@ -1795,7 +1676,6 @@ Personal README
 https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
 https://github.com/pifafu | pifafu (kathy)
 https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
-
 https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
 
 https://git-scm.com/docs/git-status
@@ -1808,6 +1688,7 @@ https://github.com/codespaces-examples | codespaces-examples
 https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
 
 https://cli.github.com/
+https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
 -->
 
 ## GitHub Security
@@ -3638,58 +3519,6 @@ https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on T
 https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
 -->
 
-## Tech Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-
-Look at Daily
-* [Indie Hackers](https://www.indiehackers.com)
-* [Techmeme](https://www.techmeme.com)
-
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
-## Engineering Management
-
-<!--
-Silent critique
-https://twitter.com/dustanner/status/1176518182850351104
-
-Gasca- Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
-https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
-https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
-
-https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
-
-https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-http://www.camilletalk.com/ | Camille Fournier
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
-
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
--->
-
 ## Web Development- General
 
 Wikipedia Tech Portals
@@ -3770,58 +3599,6 @@ https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepren
 https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
 
-## Health and Well Being
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-Habits with a High Rate of Return in Life
-* [DHH](https://twitter.com/dhh/status/990742238257864705)
-* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
-* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
-
-Mind-Body Connection
-* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
-
-Meditation
-* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
-
-Sleep
-* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
-* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
-
-<!--
-https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
-
-https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
-https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
-
-https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
-
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
-
-https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
--->
-
-Stress
-
-<!--
-The Upside of Stress
-https://www.amazon.com/dp/B00OI5PGWU
-http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
-
-A Brief History of Existential Terror
-https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
--->
-
-Sapiens
-* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
-
-<!--
-https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
--->
-
 ## Articles and Blog Posts
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
@@ -3869,6 +3646,23 @@ Agency
 * [Strategyzer Blog](http://blog.strategyzer.com)
 * [XPLANE Blog](http://xblog.xplane.com) and [XPLANE Medium](https://medium.com/the-xplane-collection)
 
+<!--
+https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
+-->
+
+## Tech Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+Look at Daily
+* [Indie Hackers](https://www.indiehackers.com)
+* [Techmeme](https://www.techmeme.com)
+
+Articles
+* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
+
 ## Management Books
 
 Books- Management and Scaling
@@ -3885,6 +3679,27 @@ http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 Marty Cagan Inspired
 
 https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
+-->
+
+## Mental Models
+
+Mental Models
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+* [Farnham Street Mental Models](https://fs.blog/mental-models/)
+* [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
+* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
+
+<!--
+https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
 -->
 
 ## How to Live
@@ -3925,34 +3740,60 @@ https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 -->
 
-## Mental Models
+## Health and Well Being
 
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://fs.blog/mental-models/)
-* [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
-Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
-* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
+Habits with a High Rate of Return in Life
+* [DHH](https://twitter.com/dhh/status/990742238257864705)
+* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
+* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
+
+Mind-Body Connection
+* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
+
+Meditation
+* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
+
+Sleep
+* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
+* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
 
 <!--
-https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
 
-https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+Why We Sleep
+http://amazon.com/dp/B06Y649387/
+https://jacquesmattheij.com/dealing-with-insomnia/ | Dealing With Insomnia · Jacques Mattheij
+
+https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
+
+https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
+
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
 -->
 
-## Types of Intelligence
+Stress
 
 <!--
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+The Upside of Stress
+https://www.amazon.com/dp/B00OI5PGWU
+http://online.stanford.edu/course/upside-stress
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
 
-https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+A Brief History of Existential Terror
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
+-->
+
+Sapiens
+* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
+
+<!--
+https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
 -->
 
 ## Retrospective
@@ -3969,6 +3810,31 @@ https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/
 https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
 -->
 
+<!--
+## Tips
+
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://dayhaysoos.com/don-t-seek-mentors-seek-friends/ | Don't seek mentors, seek friends
+https://twitter.com/Dayhaysoos/status/1283234586194055169 | Nick DeJesus 🛒🎉 - Pariss Athena Photography on Twitter: "I've noticed a handful of people looking for mentors for helping them learn and grow in the tech community. I'm here to tell you to stop seeking mentors and start seeking friends. This post is about my fave ways to make friends! https://t.co/9OO7htItde" / Twitter
+-->
+
+## Types of Intelligence
+
+<!--
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
+https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+-->
+
 ## Learning Methods
 
 Dr. Barbara Oakley: Learning How to Learn
@@ -3978,6 +3844,8 @@ Dr. Barbara Oakley
 * [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
 
 <!--
+https://salman.io/posts/polymath-playbook/ | The Polymath Playbook
+
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
@@ -4015,7 +3883,7 @@ https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communicat
 https://fs.blog/2015/03/carol-dweck-mindset/
 -->
 
-## Goal Setting and Habits
+## Goal Setting and Habit Methods
 
 <!--
 Goals
@@ -4031,14 +3899,14 @@ https://twitter.com/aaronchall/status/1010176883999281153 | Aaron Hall, 🐍 Pro
 https://twitter.com/AdamMGrant/status/1031523746702606336 | Adam Grant on Twitter: "After reaching a goal, raising the bar often increases motivation but decreases happiness. To enjoy your success, imagine how your past self would see your current achievements. If you knew 5 years ago what you’d accomplish now, how proud would you have been? #MondayMotivation"
 -->
 
-Effort and Results
-* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
-
 Practice
 * [Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method))
 
 Deliberate Practice
 * [Deliberate Practice Wikipedia](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice)
+
+Effort and Results
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
 
 Fear Setting
 * [Fear Setting TED Talk](https://tim.blog/2017/05/15/fear-setting)
@@ -4067,7 +3935,7 @@ http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Pr
 https://twitter.com/james_clear/status/891390900101926912 | James Clear on Twitter: "1/ The success you see others experiencing is rarely as sexy as it appears to be."
 -->
 
-## Priorities
+## Prioritization
 
 <!--
 https://gamestorming.com/impact-effort-matrix-2/
@@ -4096,44 +3964,6 @@ https://hatrabbits.com/en/how-to-pick-the-best-ideas-after-a-brainstorm/ | How T
 https://www.nngroup.com/articles/prioritization-matrices/ | Using Prioritization Matrices to Inform UX Decisions
 -->
 
-<!--
-## Tips
-
-Creativity
-https://bored.solutions/
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
-
-Redirect Emails
-https://twitter.com/sawaba/status/1222680741705846785
-get automated emails out of main inbox
-
-Schedule Emails
-https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en | Schedule emails to send - Computer - Gmail Help
-
-Naveen
-https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
-
-Knowledge Base
-https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
-http://devonzuegel.com/post/memex-my-personal-knowledge-base
-https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
-https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
-https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
-
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
--->
-
 ## Productivity
 
 Mind Tools
@@ -4156,6 +3986,8 @@ Productivity- The Art of Focus
 * [Index](https://bitcq.com/torrent/3196010)
 
 <!--
+http://www.effectiveengineer.com/blog/high-leverage-work-isnt-always-deep | The Highest-Leverage Activities Aren’t Always Deep Work
+
 https://gettingthingsdone.com/ | Getting Things Done® - David Allen's GTD® Methodology
 
 https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
@@ -4179,23 +4011,89 @@ https://www.uwb.edu/business/faculty/sleroy | School of Business Faculty - Facul
 -->
 
 <!--
+https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
 https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/guide-to-staying-productive: If you're looking for ways to stay motivated and focused, while still having fun, this guide is for you! Contributions and any kind of improvements are very welcome!
 
-Essentialism
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
 https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
-
-
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
-https://en.wikipedia.org/wiki/Productivity | Productivity - Wikipedia
 
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
 -->
 
-## Memory
+## Digital Commonplace and Knowledge Base
+
+<!--
+Naveen
+https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
+
+Knowledge Base
+https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
+http://devonzuegel.com/post/memex-my-personal-knowledge-base
+https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
+https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
+https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
+
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+-->
+
+## Productivity Tools
+
+Emails
+* [Create Rules to Filter Your Emails](https://support.google.com/mail/answer/6579?hl=en)
+* [Schedule Emails](https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en)
+
+Pocket
+* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
+* [Pocket Recommended](https://getpocket.com/a/recommended)
+
+Google Docs Voice
+* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
+* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
+
+YouTube
+* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
+* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
+
+<!--
+Zoom
+https://us04web.zoom.us/meeting | My Meetings - Zoom
+https://zoom.us/recording | My Recordings - Zoom
+https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
+https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
+
+https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
+https://support.google.com/youtube/answer/57407
+https://www.youtube.com/watch?v=VKf6NF0OD5A
+
+https://twitter.com/sawaba/status/1222680741705846785
+
+Google Chrome Voice
+https://chrome.google.com/webstore/detail/voice-recognition/ikjmfindklfaonkodbnidahohdfbdhkn?hl=en
+https://chrome.google.com/webstore/detail/speech-recognition-anywhe/kdnnmhpmcakdilnofmllgcigkibjonof?hl=en
+-->
+
+## Checklists
+
+<!--
+https://zapier.com/blog/the-checklist-manifesto/
+
+The Checklist Manifesto: How to Get Things Right, Atul Gawande
+https://www.amazon.com/dp/B0030V0PEW
+
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+-->
+
+## Speed Reading and Memory
 
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -4207,6 +4105,8 @@ Pattern
 * [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
 
 <!--
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
 https://en.wikipedia.org/wiki/Mnemonic
 https://en.wikipedia.org/wiki/Memory_sport
 
@@ -4224,33 +4124,44 @@ https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
 https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
 -->
 
-## Checklists
+
+## Engineering Management
 
 <!--
-https://zapier.com/blog/the-checklist-manifesto/
+Silent critique
+https://twitter.com/dustanner/status/1176518182850351104
 
-The Checklist Manifesto: How to Get Things Right, Atul Gawande
-https://www.amazon.com/dp/B0030V0PEW
+Gasca- Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
 
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
--->
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
-## Productivity Tools
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
+https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
 
-Pocket
-* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
-* [Pocket Recommended](https://getpocket.com/a/recommended)
+https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
 
-Voice
-* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
-* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
-* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
-* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
+https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
 
-<!--
-http://dictate.ms
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+http://www.camilletalk.com/ | Camille Fournier
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 -->
 
 ## Business Effectiveness and Productivity
@@ -4319,6 +4230,8 @@ Site Deaths and Failures
 * [Failure Museum](http://failuremuseum.com)
 
 <!--
+https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
 https://patrickcollison.com/fast | Fast · Patrick Collison
 
 https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
@@ -4348,6 +4261,12 @@ http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_met
 
 https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
 https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
+-->
+
+<!--
+https://twitter.com/hunterwalk/status/1283863580585025536 | 👨🏻‍💻☕️ on Twitter: "if you're designing social spaces for humans, and have never read Bartle's 1996 paper on player types and motivations... https://t.co/MxZzuqWl0d https://t.co/fn4hrnIT88" / Twitter
+http://mud.co.uk/richard/hcds.htm | Richard A. Bartle: Players Who Suit MUDs
+https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr. 🚀 on Twitter: "Must-read" / Twitter
 -->
 
 ## Ratios
@@ -4436,9 +4355,16 @@ The Elements of Value
 
 <!--
 PM
+https://twitter.com/justindross/status/1287061321754673155 | JD Ross on Twitter: "A good early stage PM should be an editor of other teammates’ work and ideas Steve Jobs wasn’t a designer, nor Elon a car/rocket engineer For a long time, Square called PMs “Product Editors” and I think that’s a better title. I wish it stuck" / Twitter
+https://mixpanel.com/blog/steven-sinofsky-product-leadership/ | Steven Sinofsky on product leadership
+
+PM
 https://mobile.twitter.com/sriramk/status/1249860579994435585
 https://mobile.twitter.com/seanrose/status/1249863535414218752
 https://mobile.twitter.com/stevesi/status/1249862470006493184
+
+MVP
+https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
 
 https://www.nngroup.com
 
