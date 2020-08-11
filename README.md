@@ -5,6 +5,11 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
+Fish
+https://twitter.com/carltongibson/status/1290932913618460672 | Carlton Gibson 🇪🇺 on Twitter: ""How can I do dev on my iPad?" @ShellFishApp finally nails it for me: Remote folders available via the Files app, and a great terminal too. There have been terminal options before but the file syncing is the killer. (The developer is nice too.) Having lots of fun. 👍" / Twitter
+
+https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
+
 https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
@@ -52,6 +57,9 @@ https://bugs.python.org/issue33649
 
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+
+https://opensource.googleblog.com/2018/02/gsoc-2018-organizations.html | Introducing the mentor organizations for Google Summer of Code 2018 | Google Open Source Blog
+https://summerofcode.withgoogle.com/organizations/ | Organizations | Google Summer of Code
 
 https://twitter.com/thoward37/status/1286752245736865792 | Troy Howard / Executive Chef for Antifa on Twitter: "@kathleencodes -Who are your customers and what are they trying to accomplish? -Did you schedule time to write docs in your development plan? -What do you see as the distinction between these two things? -Can this be immutable?" / Twitter
 
@@ -207,6 +215,10 @@ Twitter language
 https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
 https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 
+Twitter
+Site case study
+https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
+
 http://www.collaborativefund.com/blog
 
 https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
@@ -219,6 +231,8 @@ https://twitter.com/StanfordEng/following | People followed by Stanford Engineer
 https://github.com/twitterdev | @TwitterDev
 https://github.com/orgs/twitterdev/people | People · @TwitterDev
 
+https://vimeo.com/298147468 | Building Product in the age of Distrust by Ryan Freitas on Vimeo
+
 Product
 https://sriramk.substack.com
 https://evhead.com/ | evhead
@@ -227,6 +241,7 @@ http://www.eugenewei.com/blog/2017/6/7/my-most-popular-posts | My most popular p
 https://github.com/wongmjane | wongmjane (Jane Manchun Wong)
 
 https://cassidoo.co/ | Cassidy Williams
+https://github.com/jessfraz/
 
 https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
 
@@ -245,9 +260,33 @@ https://jasonet.co/ | Jason Etcovitch · jasonet.co
 https://github.com/bdougie/blog | bdougie/blog: My blog
 https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
+Product
+https://twitter.com/patrickc/status/514620429244190720 | Patrick Collison on Twitter: "The most influential thing I've read over the last year on the subject of product design: http://t.co/reomEbasNq" / Twitter
+http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf
+
+https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experience-team-pxt-25fdbb201a9 | Think of it like this: We are a Product Experience Team (PXT) – Medium
+
+TikTok
+https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat | TikTok and the Sorting Hat — Remains of the Day
+https://twitter.com/sriramk/status/1290641522933678080 | Sriram Krishnan on Twitter: "Another insight/reckoning from @eugenewei’s latest magnum opus: a powerful algorithm can take the place of cultural research ( or any research) or even thoughtful product design. There is a parallel to GPT3: AI taking the place of what required human effort before." / Twitter
+https://twitter.com/ruima/status/1290710909464133632 | Rui Ma 马睿同学 on Twitter: "Since there's still some confusion on why TikTok is so disruptive / successful ... this is old, old news but ... There are a few main ingredients but the core is the Algorithmic Distribution of Content. It's not social OR interest graph based." / Twitter
+https://akashsenapaty.com/understanding-tik-tok-app/ | How Tik Tok became the most downloaded app of Q1 2018
+
+TikTok Algo
+https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithms-work-aff01b6c-8f33-454f-9b4a-7d52292ce501.html | TikTok's new CEO says company will reveal how its algorithms work - Axios
+
+Basecamp- Product
+https://mobile.twitter.com/HarshVitra/status/1248429426196361217
+
+Make
+https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
+
 
 
 https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
 
 What is
 https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
