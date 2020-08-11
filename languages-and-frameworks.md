@@ -65,10 +65,13 @@ Glitch Examples
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
+https://emmet.io/ | Emmet — the essential toolkit for web-developers
+
+https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+
 http://nixos.org
 https://github.com/NixOS/nix
-
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
 
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 
