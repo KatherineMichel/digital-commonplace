@@ -393,6 +393,160 @@ https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/se
 https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 -->
 
+## Website and Blog Resources
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+<!--
+https://github.com/wowthemesnet/mundana-theme-jekyll
+
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
+
+https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
+
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+-->
+
+## Shortcuts
+
+<!--
+https://code.visualstudio.com/docs/editor/command-line | The Visual Studio Code command-line options
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
+
+Snippets
+https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
+https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
+
+
+Mac
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
+Twitter
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+VS Code Mac
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+GitHub
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+GitHub Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+-->
+
+## Visual Studio Code
+
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+<!--
+https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
+https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
+
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+
+node.js
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+
+C++
+https://code.visualstudio.com/docs/cpp/launch-json-reference
+
+tasks.json
+https://code.visualstudio.com/docs/editor/tasks
+settings
+https://code.visualstudio.com/docs/getstarted/settings
+
+https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
+
+https://github.com/microsoft/vscode
+https://github.com/Microsoft/vscode-python
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+
+https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
+
+Installed
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+
+https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/environments
+https://code.visualstudio.com/docs/python/tutorial-django
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
+https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
+https://code.visualstudio.com/docs/python/editing#_formatting
+https://pypi.org/project/autopep8/
+https://github.com/psf/black
+https://code.visualstudio.com/docs/python/linting
+https://code.visualstudio.com/docs/python/linting#_specific-linters
+https://code.visualstudio.com/docs/python/debugging
+https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
+https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
+https://code.visualstudio.com/docs/python/testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+https://docs.python.org/3/library/unittest.html
+https://docs.pytest.org/en/latest/
+https://code.visualstudio.com/docs/python/editing#_refactoring
+https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
+
+https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
+-->
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
 ## Visual Studio Code
 
 Python and Visual Studio Code
