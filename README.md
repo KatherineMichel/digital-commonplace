@@ -153,12 +153,18 @@ Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
 
 
-
-
 https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
 
 Pinax
 https://docs.github.com/en/actions/configuring-and-managing-workflows/sharing-workflow-templates-within-your-organization | Sharing workflow templates within your organization - GitHub Docs
+
+Inspired Pinax
+https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
+https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
+
+Distro
+http://distrowatch.com/table.php?distribution=ubuntu
+https://en.wikipedia.org/wiki/Linux_distribution
 
 Casey
 https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
@@ -303,20 +309,6 @@ https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionat
 Narrative
 https://www.andysparks.co/ | Andy Sparks—Home
 
-
-
-https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
-
-https://twitter.com/fauna
-https://twitter.com/prisma
-https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
-
-https://firebase.google.com/
-
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
 
 Excellent
@@ -503,13 +495,13 @@ https://twitter.com/hmason/status/1283588762933637120 | Hilary Mason on Twitter:
 https://twitter.com/pystar/status/1283453109306564608 | pystar on Twitter: "Frontend devs, be afraid, be very afraid. 😭😭😭" / Twitter
 
 
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
 https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
-Barry
-https://www.wefearchange.org/ | We Fear Change
 
 
 https://codingbat.com/ | CodingBat
@@ -570,31 +562,6 @@ LinkedIn
 https://news.microsoft.com/skills/ | Microsoft Digital Event
 https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
 https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
-
-
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-
-http://www.avabodh.com/cin/cin.html | C Internals
-
-https://github.com/python/cpython/pulls | Pull requests · python/cpython
-https://help.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources | Configuring autolinks to reference external resources - GitHub Help
-CPython
-
-CPython
-https://github.com/python/cpython/blob/3.9/Parser/pegen/pegen.h#L23 | cpython/pegen.h at 3.9 · python/cpython
-https://github.com/python/cpython/blob/master/Parser/pegen/pegen.h#L23 | cpython/pegen.h at master · python/cpython
-https://github.com/python/cpython/search?q=PyPARSE_BARRY_AS_BDFL&unscoped_q=PyPARSE_BARRY_AS_BDFL | Search · PyPARSE_BARRY_AS_BDFL
-https://github.com/python/cpython/pull/19721 | bpo-40334: Support CO_FUTURE_BARRY_AS_BDFL in the new parser by pablogsal · Pull Request #19721 · python/cpython
-
-https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
-
-https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
-https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
-https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
 
 
 
@@ -670,6 +637,17 @@ https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
 Playwright
 https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
+
+
+https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
+
+https://firebase.google.com/
+
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
 
 
 http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
@@ -854,6 +832,7 @@ https://twitter.com/aaranged/status/844694418493878273
 https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
 
 https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+
 
 https://adamthewan.com/blog/meetbutter/how-we-built-meetbutter-three-weeks/ | How We Built and Shipped MeetButter in 3 Weeks | adamthewan.com
 
