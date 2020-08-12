@@ -90,6 +90,7 @@ https://2020.pygotham.tv/
 https://www.pyohio.org/2020/
 https://www.youtube.com/playlist?list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB | PyOhio 2020 - YouTube
 https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
+https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
 
 https://www.meetup.com/pythonsd/
 https://www.meetup.com/sfpython/
@@ -249,6 +250,18 @@ https://www.eugenewei.com/ | Remains of the Day
 http://www.eugenewei.com/blog/2017/6/7/my-most-popular-posts | My most popular posts — Remains of the Day
 https://github.com/wongmjane | wongmjane (Jane Manchun Wong)
 
+https://twitter.com/johncutlefish/
+https://medium.com/@johnpcutler
+
+Makers
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://www.bdougie.live/ | bdougie.live
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
 https://cassidoo.co/ | Cassidy Williams
 https://github.com/jessfraz/
 
@@ -260,21 +273,16 @@ https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
-Makers
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://www.bdougie.live/ | bdougie.live
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://github.com/bdougie/blog | bdougie/blog: My blog
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+Superfans
+https://a16z.com/2020/08/10/turning-open-source-developers-into-superfans/ | a16z Podcast: Turning Open Source Developers Into Superfans - Andreessen Horowitz
+https://en.wikipedia.org/wiki/Kathy_Sierra | Kathy Sierra - Wikipedia
+https://headrush.typepad.com/creating_passionate_users/2005/05/users_dont_care.html | Creating Passionate Users: Users don't care if you are the best.
 
-https://twitter.com/johncutlefish/
-https://medium.com/@johnpcutler
+https://twitter.com/thisiskp_/status/1292793344272236545 | KP on Twitter: "Most founders struggle with how to acquire their first 100 beta sign ups for a new idea. I’ve done it for 2 products in the last few months (one has 1500+ beta sign ups and the other has 500+) without even going on @ProductHunt Here’s how I did it: 👇🏽 (a thread) 🧵" / Twitter
 
 Product
 https://twitter.com/patrickc/status/514620429244190720 | Patrick Collison on Twitter: "The most influential thing I've read over the last year on the subject of product design: http://t.co/reomEbasNq" / Twitter
-http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf
+https://web.archive.org/web/20190330075819/http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf | Wayback Machine
 
 https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experience-team-pxt-25fdbb201a9 | Think of it like this: We are a Product Experience Team (PXT) – Medium
 
@@ -475,24 +483,6 @@ https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter:
 GPT-3
 https://openai.com/blog/openai-api/ | OpenAI API
 https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
-https://twitter.com/nicklovescode/status/1283157514989625344 | Nick Cammarata on Twitter: "Almost everyone I know who has GPT3 is getting addicted to chatting with it It helped one friend work through an emotional knot they felt sensitive bringing up to others" / Twitter
-https://twitter.com/sharifshameem/status/1282676454690451457 | Sharif Shameem on Twitter: "This is mind blowing. With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you. W H A T https://t.co/w8JkrZO4lk" / Twitter
-https://twitter.com/michael_nielsen/status/1284937254666768384 | Michael Nielsen on Twitter: "Spent an enjoyable few hours digging into GPT-3, trying to better understand how it works, what the limits are, how it may be improved. The paper is here: https://t.co/pwPhLUUoaM" / Twitter
-https://arxiv.org/pdf/2005.14165.pdf | 2005.14165.pdf
-https://maraoz.com/2020/07/18/openai-gpt3/ | OpenAI's GPT-3 may be the biggest thing since bitcoin
-https://minimaxir.com/2020/07/gpt3-expectations/ | Tempering Expectations for GPT-3 and OpenAI’s API | Max Woolf's Blog
-https://github.com/minimaxir/gpt-3-experiments | minimaxir/gpt-3-experiments: Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
-https://twitter.com/balajis/status/1284905568709169154 | balajis.com on Twitter: "Will GPT-3 be open sourced? The code for GPT-2 was eventually open sourced. We'll see if GPT-3 is as well. Yes, model training cost was significant (I've seen numbers on the order of $10M) but there are organizations that could afford that given code. https://t.co/cMOqza1fyi" / Twitter
-https://twitter.com/zebulgar/status/1284294275430117376 | delian on Twitter: "I wrote up some quick thoughts on GPT3 and tried to do a bit of an explainer for a non-technical folks 30 years ago, Steve Jobs described computers as “bicycles for the mind.” I’d argue that, even in its current form, GPT3 is “a racecar for the mind.” https://t.co/Ae3hOb5yJg" / Twitter
-https://twitter.com/sh_reya/status/1284545976892403714 | Shreya Shankar on Twitter: "Got my invite to the @OpenAI GPT-3 API from @gdb. I actually think it deserves more hype than it’s getting, but not necessarily for the magical reasons Twitter touts. Why? My quick thoughts and impressions: (1/11)" / Twitter
-https://twitter.com/albertwenger/status/1284855044379217923 | Albert Wenger 🌎🔥⌛ on Twitter: "Time to update my 2014 post on "software eating software" https://t.co/zIsFu6nn4A" / Twitter
-https://twitter.com/maraoz/status/1284618159937519616 | Manuel Araoz on Twitter: "GPT-3 explain's bitcoin's proof of work in simple terms: https://t.co/lASf7EEzch" / Twitter
-https://twitter.com/lpolovets/status/1284172187532881922 | Leo Polovets on Twitter: "If you're curious what all of the GPT-3 tweets are about, it's the most advanced text generation model ever. It's a deep learning model w/175 billion parameters, and the content it generates is incredibly good. The thread below has good examples of content written by GPT-3." / Twitter
-https://twitter.com/simonw/status/1284198031932309504 | Simon Willison on Twitter: "This thing is deep, deep dark magic https://t.co/qJzqbQ8gYy" / Twitter
-https://twitter.com/andrestaltz/status/1282758264497766400 | André Staltz on Twitter: "The beginning of the end of the frontend developer job. Before you laugh at this algorithm's limitations and mistakes, they can improve it in 2 years, 5 years, 10 years. You might have to change roles sooner than you think (me too)." / Twitter
-https://twitter.com/xuenay/status/1283312640199196673 | Kaj Sotala on Twitter: "I keep seeing all kinds of crazy reports about people's experiences with GPT-3, so I figured that I'd collect a thread of them." / Twitter
-https://twitter.com/hmason/status/1283588762933637120 | Hilary Mason on Twitter: "The difference between the GPT3 API and a standard RESTful API feels like a microcosm of the difference between machine learning and software engineering. You show examples rather than rules." / Twitter
-https://twitter.com/pystar/status/1283453109306564608 | pystar on Twitter: "Frontend devs, be afraid, be very afraid. 😭😭😭" / Twitter
 
 
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
@@ -901,6 +891,130 @@ https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
 
+## Trends
+
+Nuzzel
+* [Nuzzel](http://nuzzel.com)
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+Hacker News and Lobsters
+* [Hacker News Current Best](https://news.ycombinator.com/best), 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+* [Lobsters](https://lobste.rs)
+
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+<!--
+* [Hunts.xyz](https://hunts.xyz)
+
+https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
+https://upcoming.org/about | About - Upcoming
+
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+-->
+
+## Hackathons, Festivals, Communities
+
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!--
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+-->
+
+## Project-Based Learning
+
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+-->
+
+## Competitive Programming
+
+Coding Competitions
+* Kaggle
+* Hackathons
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+* Project-Based Learning
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+
 ## Useful Learning Resources
 
 Wes Bos
@@ -1213,22 +1327,6 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
-## Engineering Performance Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
 ## Python Syntax and Python Versus JavaScript
 
 Programming Language Leveling Up and Comparisons- Python
@@ -1295,129 +1393,21 @@ Python Patterns
 * [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
-## Trends
+## Engineering Performance Resources
 
-Nuzzel
-* [Nuzzel](http://nuzzel.com)
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-Hacker News and Lobsters
-* [Hacker News Current Best](https://news.ycombinator.com/best), 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-* [Lobsters](https://lobste.rs)
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
-* [Hunts.xyz](https://hunts.xyz)
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
 
-https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
-https://upcoming.org/about | About - Upcoming
-
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 -->
-
-## Hackathons, Festivals, Communities
-
-* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
-
-<!--
-https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
-
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
--->
-
-## Project-Based Learning
-
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
-<!--
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
--->
-
-## Competitive Programming
-
-Coding Competitions
-* Kaggle
-* Hackathons
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-* Project-Based Learning
-
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
--->
-
 
 ## Open Source Guides
 
