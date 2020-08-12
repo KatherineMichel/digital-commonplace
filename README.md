@@ -253,26 +253,6 @@ https://github.com/wongmjane | wongmjane (Jane Manchun Wong)
 https://twitter.com/johncutlefish/
 https://medium.com/@johnpcutler
 
-Makers
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://www.bdougie.live/ | bdougie.live
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://github.com/bdougie/blog | bdougie/blog: My blog
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
-
-https://cassidoo.co/ | Cassidy Williams
-https://github.com/jessfraz/
-
-https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
-
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
 Superfans
 https://a16z.com/2020/08/10/turning-open-source-developers-into-superfans/ | a16z Podcast: Turning Open Source Developers Into Superfans - Andreessen Horowitz
 https://en.wikipedia.org/wiki/Kathy_Sierra | Kathy Sierra - Wikipedia
@@ -305,173 +285,9 @@ https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivE
 
 https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
 
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-What is
-https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
-https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s JavaScript Glossary
-https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
-https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 Narrative
 https://www.andysparks.co/ | Andy Sparks—Home
-
-
-
-Excellent
-https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
-
-Cassidy
-https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
-
-https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
-
-Think like a programmer
-https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
-https://en.wikipedia.org/wiki/Pseudocode
-
-https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
-
-
-100 Projects
-https://twitter.com/sarah_edo/status/1287441437701754882 | Sarah Drasner on Twitter: "This is so cool, @ceeoreo_ kicked off #100DaysOfProjects, looks like it's open to anyone! Seems like a nice way of creating community while learning :)" / Twitter
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-
-100 Days
-https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
-
-https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
-https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
-
-
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
-
-API
-HTTP API Docs
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
-
-
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
-
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/building-github-apps/
-https://developer.github.com/v4/guides/
-https://github.com/whiteinge/ok.sh
-https://github.com/octokit/rest.js
-https://octokit.github.io/rest.js/v18
-https://github.com/pksunkara/octonode
-
-
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
-https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
-
-https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
-https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
-https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
-
-Twitter Dev
-https://developer.twitter.com/en/apps | Twitter Developers
-https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
-https://developer.twitter.com/en/labs | Labs
-https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
-https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
-
-https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-
-
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
-
-
-https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
-
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
-Mondrian
-https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
-
-https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
-
-https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
-https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
-https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
-
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-
-
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-
-https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
-
-Simon- Self-Rewriting
-https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
-https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
-https://github.com/simonw/simonw/blob/master/build_readme.py | simonw/build_readme.py at master · simonw/simonw
-
-https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
-
-
-Release
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
-https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
-
-https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
-https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
-
-Weeknotes
-https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
-
-
-Simon- Weeknotes
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-https://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/ | Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more
-https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
-https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
-https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
-https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
-https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
-
-Simon- Doc Unit Tests
-https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
-http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
-
-https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
-
-https://github.com/simonw/sfpublicworks-tree-removal-notifications | simonw/sfpublicworks-tree-removal-notifications: Scrape https://sfpublicworks.org/tree-removal-notifications daily
-https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
-https://github.com/simonw/srccon-2020-datasette | simonw/srccon-2020-datasette: Publishing the SRCCON schedule using Datasette
-https://twitter.com/simonw/status/1275897355435307014 | Simon Willison on Twitter: "This is outstanding. The WaPo story investigating the low-flying helicopters over the protests in DC is now accompanied by a GitHub repo showing their workings, including notebooks with their analysis of the helicopters' flight paths" / Twitter
-
-Datasette
-https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 
 
 
@@ -488,11 +304,24 @@ https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-S
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
 Cheat sheets
 
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
 
 https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
+
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
+
+https://github.com/KatherineMichel/100-days-of-code
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
 
 https://codingbat.com/ | CodingBat
 
@@ -923,6 +752,13 @@ Product Hunt Product Leader Boards
 * [Top 500 Products](http://500products.com)
 
 <!--
+https://glitch.com/@python | Python
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://codepen.io/tag/python
+
+
 * [Hunts.xyz](https://hunts.xyz)
 
 https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
@@ -934,6 +770,178 @@ https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
+-->
+
+## API
+
+<!--
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+
+API
+HTTP API Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
+
+
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/building-github-apps/
+https://developer.github.com/v4/guides/
+https://github.com/whiteinge/ok.sh
+https://github.com/octokit/rest.js
+https://octokit.github.io/rest.js/v18
+https://github.com/pksunkara/octonode
+
+
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
+
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
+https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
+
+Twitter Dev
+https://developer.twitter.com/en/apps | Twitter Developers
+https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
+https://developer.twitter.com/en/labs | Labs
+https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
+https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
+
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+-->
+
+## Projects
+
+<!--
+Makers
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://www.bdougie.live/ | bdougie.live
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
+https://cassidoo.co/ | Cassidy Williams
+https://github.com/jessfraz/
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+
+Excellent
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+
+Think like a programmer
+https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
+https://en.wikipedia.org/wiki/Pseudocode
+
+https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
+
+
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
+https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
+https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
+
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+
+
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
+
+Simon- Self-Rewriting
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
+https://github.com/simonw/simonw/blob/master/build_readme.py | simonw/build_readme.py at master · simonw/simonw
+
+https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
+
+
+Release
+https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
+https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
+
+https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
+https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
+
+Weeknotes
+https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
+
+
+Simon- Weeknotes
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+https://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/ | Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more
+https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
+https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
+https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
+https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
+https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
+
+Simon- Doc Unit Tests
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
+
+https://github.com/simonw/sfpublicworks-tree-removal-notifications | simonw/sfpublicworks-tree-removal-notifications: Scrape https://sfpublicworks.org/tree-removal-notifications daily
+https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+https://github.com/simonw/srccon-2020-datasette | simonw/srccon-2020-datasette: Publishing the SRCCON schedule using Datasette
+https://twitter.com/simonw/status/1275897355435307014 | Simon Willison on Twitter: "This is outstanding. The WaPo story investigating the low-flying helicopters over the protests in DC is now accompanied by a GitHub repo showing their workings, including notebooks with their analysis of the helicopters' flight paths" / Twitter
+
+Datasette
+https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 -->
 
 ## Hackathons, Festivals, Communities
@@ -962,6 +970,23 @@ https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackat
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
+-->
+
+## Competitive Programming
+
+Coding Competitions
+* Kaggle
+* Hackathons
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+* Project-Based Learning
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
 -->
 
 ## Project-Based Learning
@@ -997,24 +1022,6 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
-## Competitive Programming
-
-Coding Competitions
-* Kaggle
-* Hackathons
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-* Project-Based Learning
-
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
--->
-
-
 ## Useful Learning Resources
 
 Wes Bos
@@ -1039,16 +1046,22 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+100 Projects
+https://twitter.com/sarah_edo/status/1287441437701754882 | Sarah Drasner on Twitter: "This is so cool, @ceeoreo_ kicked off #100DaysOfProjects, looks like it's open to anyone! Seems like a nice way of creating community while learning :)" / Twitter
+https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 
-Hacker News, Product Hunt, Lobsters, trending/leaderboards
+100 Days
+https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
+https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
 
+https://github.com/Kallaway/100-days-of-code
+https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
+https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
 
-https://glitch.com/@python | Python
+100 Days Tweets
+https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
+https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
 
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://codepen.io/tag/python
 
 
 No Starch Books
@@ -1059,14 +1072,6 @@ https://www.pythonmorsels.com/resources/
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 https://github.com/JackMcKew/awesome-python-bytes
 
-100 Days
-https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
-https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
-https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
-
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
 
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
@@ -1075,14 +1080,22 @@ real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
 
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-https://github.com/KatherineMichel/100-days-of-code
-
 
 Paint
 https://github.com/muan
 https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+What is
+https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
+https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s JavaScript Glossary
+https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
+https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
 
 
 Wes Bos
@@ -1173,159 +1186,6 @@ https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've
 https://codepen.io/collection/nMgKxJ
 -->
 
-## Website and Blog Resources
-
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
-
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
-
-<!--
-https://github.com/wowthemesnet/mundana-theme-jekyll
-
-https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
-
-https://ghost.org/docs/ | Ghost Docs
-https://demo.ghost.io/
-https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
-https://gatsby.ghost.org/
-https://github.com/TryGhost/gatsby-starter-ghost
-https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
-https://lyra.ghost.io/ | Lyra
-https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
-https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
-https://massively.ghost.io/ | This is Massively
-https://editorial.ghost.io/ | Editorial for Ghost
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
-
-## Shortcuts
-
-<!--
-https://code.visualstudio.com/docs/editor/command-line | The Visual Studio Code command-line options
-https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
-
-Snippets
-https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
-
-
-Mac
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
-
-Twitter
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-VS Code Mac
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-GitHub
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
-GitHub Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
--->
-
-## Visual Studio Code
-
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-<!--
-https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
-https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-node.js
-https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
-
-C++
-https://code.visualstudio.com/docs/cpp/launch-json-reference
-
-tasks.json
-https://code.visualstudio.com/docs/editor/tasks
-settings
-https://code.visualstudio.com/docs/getstarted/settings
-
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-https://github.com/microsoft/vscode
-https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
-
-Installed
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/environments
-https://code.visualstudio.com/docs/python/tutorial-django
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
-https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
-https://code.visualstudio.com/docs/python/editing#_formatting
-https://pypi.org/project/autopep8/
-https://github.com/psf/black
-https://code.visualstudio.com/docs/python/linting
-https://code.visualstudio.com/docs/python/linting#_specific-linters
-https://code.visualstudio.com/docs/python/debugging
-https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
-https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
-https://code.visualstudio.com/docs/python/testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://docs.python.org/3/library/unittest.html
-https://docs.pytest.org/en/latest/
-https://code.visualstudio.com/docs/python/editing#_refactoring
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-
-https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
--->
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
 
 ## Python Syntax and Python Versus JavaScript
 
