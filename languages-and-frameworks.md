@@ -1,6 +1,12 @@
 # Languages and Frameworks
 
 <!--
+https://emmet.io/ | Emmet — the essential toolkit for web-developers
+
+https://twitter.com/fauna
+https://twitter.com/prisma
+https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
+
 Go
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
 
@@ -65,8 +71,6 @@ Glitch Examples
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
-https://emmet.io/ | Emmet — the essential toolkit for web-developers
-
 https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
 https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
 
