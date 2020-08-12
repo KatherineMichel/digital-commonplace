@@ -33,6 +33,9 @@ http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Sche
 
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
 
+Narrative
+https://www.andysparks.co/ | Andy Sparks—Home
+
 https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/ | Set up a Paid Newsletter at Your Own Domain
 https://github.com/KatherineMichel/Lyra | KatherineMichel/Lyra: A paid-members theme for Ghost
 https://ghost.org/about/ | About Ghost - The Open Source Publishing Platform
@@ -50,6 +53,9 @@ https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years 
 https://www.digitalocean.com/community/pages/write-for-digitalocean
 Traversy Media
 https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
+
+http://www.paulgraham.com/talk.html | Write Like You Talk
+https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
 
 https://www.writethedocs.org
 
@@ -145,6 +151,10 @@ https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
 
 
+https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
+
+https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
+
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
 
@@ -154,10 +164,12 @@ Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
 
 
+
 https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
 
 Pinax
 https://docs.github.com/en/actions/configuring-and-managing-workflows/sharing-workflow-templates-within-your-organization | Sharing workflow templates within your organization - GitHub Docs
+https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
 
 Inspired Pinax
 https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
@@ -216,6 +228,26 @@ http://www.hawraf.com/
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
+https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+
+https://github.com/KatherineMichel/100-days-of-code
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
+
+
 GitHub and Twitter Roadmaps
 https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
 https://github.com/github/roadmap
@@ -228,6 +260,8 @@ https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-l
 Twitter
 Site case study
 https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
+
 
 http://www.collaborativefund.com/blog
 
@@ -282,15 +316,6 @@ Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
 
 
-
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-
-
-Narrative
-https://www.andysparks.co/ | Andy Sparks—Home
-
-
-
 https://lyrebird.ai/demo | Demo - Lyrebird
 https://beta.openai.com/ | OpenAI API
 
@@ -308,80 +333,6 @@ https://realpython.com/products/cpython-internals-book/
 https://realpython.com/lessons/cpython-book-download/
 https://realpython.com/cpython-internals/resources/
 
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
-
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
-
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-https://github.com/KatherineMichel/100-days-of-code
-
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
-
-https://codingbat.com/ | CodingBat
-
-https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
-
-https://github.com/dabeaz-course/practical-python
-Practical Python Programming (course by @dabeaz)
-
-Traversy
-https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-No Starch
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-https://ehmatthes.github.io/pcc_2e/recommended_reading/recommended_reading/ | Recommended Reading - Python Crash Course, 2nd Edition
-
-https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
-https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
-https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
-
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
-
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
-
-Automate the Boring Stuff
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-
-Learning to Code
-https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-https://medium.com/@stevenrouk/day-1-of-the-two-hour-web-app-project-e19f1e8405b6#.l8ukg3rjo | Day 1 of the Two-Hour Web App Project – Medium
-
-http://www.forbes.com/sites/stevedenning/2017/01/08/resisting-the-lure-of-short-termism-how-to-achieve-long-term-growth/#3ebd36dd3ab9 | Resisting The Lure Of Short-Termism: Kill 'The World's Dumbest Idea'
-
-https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
-
 
 
 https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
@@ -395,67 +346,6 @@ https://devchecklists.com
 Product Roadmap
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
 
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
-https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
-https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
-https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
-https://github.com/ericelliott/riteway
-https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
-
-Eric
-https://twitter.com/_ericelliott/status/860645463674028032 | Eric Elliott on Twitter: "There are 2 categories of programmers & you need both on your team: 1 senior mentors/architects/guides 2 feature-focused devs"
-ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twitter: "Most effective ways to reduce bugs: 1 Code review 2 TDD 3 Spec/design review 4 Pair programming 5 Manual (human) testing #code #tdd"
-1 Code review, 2 TDD, 3 Spec/design review, 4 Pair programming, 5 Manual (human) testing
-https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
-
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
-https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
-
-
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
-
-https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
-
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
- 
-es6 javascript features
-
-npm
-https://www.youtube.com/watch?v=468tirG434E
-https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
-https://blog.npmjs.org/ | The npm Blog
-https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
-https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
-
-https://nodejs.org/en/ | #BlackLivesMatter
-https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
-
-Node
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
-
-Deno
-https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
-https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
-https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
-
-https://twitter.com/gauravssnl/status/1260477661878632449
-https://jaxenter.com/deno-interview-ryan-dahl-171425.html
-https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
-https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
-
-Playwright
-https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
-https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
 https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
@@ -469,27 +359,6 @@ https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
 
 
-http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
-
-Reverse Engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-https://twitter.com/andrewgodwin/status/1278005514018779136 | Andrew Godwin on Twitter: "Something I'd love to see in programming interviews: ethics/harm reduction. Here's a basic design for a new website, walk me through the changes needed to make it safe, private and non-discriminatory. Not easy to ask, but it's more relevant than "can you reverse a list"." / Twitter
-
-https://twitter.com/dotpem/status/918995251737456640 | Nathan LeClaire on Twitter: "Remember these fallacies of distributed computing. Especially the first one. https://t.co/lC9qzabAoa"
-
-https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd | Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of…
-
-http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-
-Human Design
-https://www.reddit.com/r/humandesign/comments/7zsobo/splenic_authority_projector_biggest_insights_from/ | Splenic Authority Projector: Biggest Insights From Experience : humandesign
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
 https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
 
@@ -512,202 +381,11 @@ http://django.wikispaces.asu.edu/Observer+Design+Pattern
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
 
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
 Driven
 http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
-
-https://amitness.com/2019/08/math-for-programmers/
-
-Algebra/functions
-https://mobile.twitter.com/newsyc20/status/1250402036262277120
-
-https://twitter.com/tlakomy/status/1236419321460592640 | T o m a s z Ł a k o m y on Twitter: "What's the most difficult programming concept you can explain in a tweet?" / Twitter
-
-Falsehoods
-http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-11.html#e2019-11-10T11_06_39.htm | Knowing and Doing: November 2019 Archives
-
-
-https://www-cs-faculty.stanford.edu/~knuth/ | Don Knuth's Home Page
-
-
-https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/9056995006
-
-Debugging
-https://twitter.com/JoeHughesDev/status/1264151345780666368 | Joseph Hughes on Twitter: "https://t.co/EUvhJFH9v7" / Twitter
-
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-https://blog.codinghorror.com/doing-terrible-things-to-your-code/
-
-https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ | Developers who use spaces make more money than those who use tabs - Stack Overflow Blog
-
-
-https://plato.stanford.edu/entries/computer-science/ | The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)
-https://plato.stanford.edu/entries/simplicity/ | Simplicity (Stanford Encyclopedia of Philosophy)
-
-Philosophy
-https://www.fast.ai/2016/10/08/teaching-philosophy/ | Providing a Good Education in Deep Learning · fast.ai
-
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-https://github.com/papers-we-love/papers-we-love#info | papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.
-
-
-Case Studies
-https://blog.bugsnag.com/bug-day-ariane-5-disaster/ | The Worst Computer Bugs in History: The Ariane 5 Disaster
-https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
-http://c2.com/xp/IntegrationHell.html | Integration Hell
-https://around.com/ariane.html | A Bug and a Crash by James Gleick
-https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/
-https://mgba.io/2020/01/25/infinite-loop-holy-grail/ | The Infinite Loop That Wasn't: A Holy Grail Bug Story - mGBA
-
-
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
-
-https://github.com/llvm/llvm-project
-
-Unix
-https://www.youtube.com/watch?v=tc4ROCJYbm0
-
-Linux
-https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf | LPT_LISA
-https://www.ornl.gov/ | Oak Ridge National Laboratory | ORNL
-
-Ubuntu
-https://distr1.org/release-notes/supersilverhaze/ | Release Notes: distri supersilverhaze (2020-05-16)
-ubuntu release notes - Google Search
-
-
-http://stackoverflow.com/questions/2394983/is-unix-coded-in-c-or-c-or-both
-Cap Theorem, Systems thinking, tradeoffs
-clrs algorithms
-Refactoring, TDD
-Trade Offs
-
-set theory and databases - Google Search
-https://en.wikipedia.org/wiki/Set_(mathematics) | Set (mathematics) - Wikipedia
-
-AMD
-Arm, Intel
-https://newsroom.intel.com
-
-https://foundation.mozilla.org/
-https://access.redhat.com/documentation/en-us/
-
-ACM Library
-https://dl.acm.org/
-
-https://www.youtube.com/watch?v=t186rW-45nk&feature=emb_logo | Upload Videos to Cloudinary In 5 Minutes or Less - YouTube
-https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/ | Ladies and Gentlemen… Cloudflare TV!
-https://www.oracle.com/cloud/free/ | Oracle Cloud Free Tier | Oracle
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
-
-https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g243486f17e_0_0 | programmer interfaces - Google Slides
-
-https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
-
-
-Docker
-https://github.com/docker/compose/issues/3729
-
-Sqlite
-https://twitter.com/brettsky/status/1256026919151169536
-
-https://trusted-cgi.reddec.net/ | Trusted-CGI | Trusted CGI
-
-https://en.wikipedia.org/wiki/Smalltalk | Smalltalk - Wikipedia
-
-
-https://twitter.com/i/lists/1221942510081036293 | @Scobleizer/Amazing Tweets / Twitter
-
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
- 
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-
-https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g45c0dfe953_54_6
-
-Browser/SM
-https://twitter.com/aaranged/status/844694418493878273
-
-https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework | Digital, Data and Technology Profession Capability Framework - GOV.UK
-
-https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
-
-
-https://adamthewan.com/blog/meetbutter/how-we-built-meetbutter-three-weeks/ | How We Built and Shipped MeetButter in 3 Weeks | adamthewan.com
-
-https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
-
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
-
-https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
-
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-Content-creating flywheel
-https://twitter.com/sarahleary/status/1255321982029234176
-https://www.andyjohns.co/posts/flywheels-and-how-to-create-content-communities
-
-First round review
-https://mobile.twitter.com/AskAlmanac/status/1245832069315321856
-
-Interesting
-https://mobile.twitter.com/blakeir/status/1250587878100516864
-
-Bias
-https://twitter.com/ValaAfshar/status/916513915621838848 | Vala Afshar on Twitter: "20 cognitive biases that impact decisions https://t.co/g4oK6eXXm9"
-
-Lean Enterprise
-
-https://hackernoon.com/product-development-team-self-assessment-c3707f065069?source=ifttt--------------1
-
-PM
-https://mobile.twitter.com/shreyas/status/1249039638829793280
-
-Advice- PM
-https://news.ycombinator.com/item?id=14828076
-
-https://twitter.com/balajis/status/1202456511441715201 | Balaji S. Srinivasan on Twitter: "This is the flow for sending a notification in Slack. Software is hard. https://t.co/IJRSxZQlTk" / Twitter
-
-https://twitter.com/rabois/status/1245098773346279424 | Keith Rabois on Twitter: "Endorse. https://t.co/G4T6wv3c8e" / Twitter
-
-https://docs.google.com/document/d/1dWpCE_uAh8EQObiTdfRYcxX5nAmmd_iYwN73D_cv2_0/edit | Founders At Work Notes by Mckay Wrigley - Google Docs
-https://www.principles.com/principles-for-success/
-https://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png
-https://25iq.files.wordpress.com/2016/05/the_global_negotiator.pdf
-https://rework.withgoogle.com/blog/how-OKRs-fuel-innovation/ | re:Work - How OKRs fuel innovation
-
-Business models
-https://axial.substack.com/p/axial-business-models | Axial - Business models
-
-https://m.signalvnoise.com/enough/ | Enough - Signal v. Noise
-
-https://twitter.com/pomeranian99/status/884471460248420354 | Clive Thompson on Twitter: "I love this: Pick the level at which you want something explained. News sites should have this for every story: https://t.co/olUq1r9Hdc https://t.co/uf2ObuaaNj"
-http://kottke.org/17/05/a-biologist-explains-crispr-to-people-at-five-different-levels-of-knowledge | A biologist explains CRISPR to people at five different levels of knowledge
-
-Amazing
-https://twitter.com/devdevcharlie/status/958090220779352064 | Charlie Gerard on Twitter: "Forgot to share I FINALLY got the mental commands from the @emotiv to work in JavaScript! 🎉😃 Here's a quick example of me pushing a #threejs cube just by thinking about it! https://t.co/oE6vxI9uWw #javascript #Nodejs #iot #EEG… https://t.co/DWaOtvRDVv"
-http://www.kurzweilai.net/how-to-detect-emotions-remotely-with-wireless-signals | How to detect emotions remotely with wireless signals | KurzweilAI
 -->
 
 ## Good Habits
@@ -752,13 +430,6 @@ Product Hunt Product Leader Boards
 * [Top 500 Products](http://500products.com)
 
 <!--
-https://glitch.com/@python | Python
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://codepen.io/tag/python
-
-
 * [Hunts.xyz](https://hunts.xyz)
 
 https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
@@ -772,73 +443,105 @@ https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
 -->
 
-## API
+## Makers
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 
 <!--
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+https://womenmake.com/ | Women Make
 
-API
-HTTP API Docs
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
-
-
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
-
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/building-github-apps/
-https://developer.github.com/v4/guides/
-https://github.com/whiteinge/ok.sh
-https://github.com/octokit/rest.js
-https://octokit.github.io/rest.js/v18
-https://github.com/pksunkara/octonode
-
-
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
-https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
-
-https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
-https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
-https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
-
-Twitter Dev
-https://developer.twitter.com/en/apps | Twitter Developers
-https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
-https://developer.twitter.com/en/labs | Labs
-https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
-https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
-
-https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+GitHub
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+<!--
+Lorena
+
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
+
+https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
+https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
+https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
+https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
+https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+
+https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
+https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
+
+https://github.com/tj
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+-->
+
+Women Who Inspire Me
+* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+
+<!--
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://cassidoo.co/ | Cassidy Williams
+https://github.com/jessfraz/
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+
+https://virus.cafe/ | Virus Cafe
+https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
+
+https://twitter.com/hayleydenb/status/1257786499933728768
+
+Cool way to do it
+https://twitter.com/MishManners/status/1240839777437364224
+https://twitter.com/MishManners/status/1239360667703885825
+https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
+
 
 ## Projects
 
 <!--
-Makers
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://www.bdougie.live/ | bdougie.live
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://github.com/bdougie/blog | bdougie/blog: My blog
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
-
-https://cassidoo.co/ | Cassidy Williams
-https://github.com/jessfraz/
-
-https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+Advice
 
 Julia
 https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
@@ -846,6 +549,11 @@ https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
 Excellent
 https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
@@ -860,15 +568,10 @@ https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like
 https://en.wikipedia.org/wiki/Pseudocode
 
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
+-->
 
 
-
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
-
-
+<!--
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 
 https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
@@ -878,25 +581,12 @@ https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Langu
 
 https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
 
-https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
-https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
-https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
-
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-
-
 https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
 https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
 
 https://github.com/jefftriplett/links/
 http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
 https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-
-https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
 
 Simon- Self-Rewriting
 https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
@@ -905,7 +595,11 @@ https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a
 https://github.com/simonw/simonw/blob/master/build_readme.py | simonw/build_readme.py at master · simonw/simonw
 
 https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
+-->
 
+
+<!--
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
 
 Release
 https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
@@ -934,15 +628,29 @@ https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation 
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
 
 https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
-
-https://github.com/simonw/sfpublicworks-tree-removal-notifications | simonw/sfpublicworks-tree-removal-notifications: Scrape https://sfpublicworks.org/tree-removal-notifications daily
-https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
-https://github.com/simonw/srccon-2020-datasette | simonw/srccon-2020-datasette: Publishing the SRCCON schedule using Datasette
-https://twitter.com/simonw/status/1275897355435307014 | Simon Willison on Twitter: "This is outstanding. The WaPo story investigating the low-flying helicopters over the protests in DC is now accompanied by a GitHub repo showing their workings, including notebooks with their analysis of the helicopters' flight paths" / Twitter
-
-Datasette
-https://twitter.com/simonw/status/1273008353883459584 | Simon Willison on Twitter: "EFS support for AWS Lambda suddenly makes running Datasette on Lambda very interesting indeed" / Twitter
 -->
+
+<!--
+Simon
+
+https://twitter.com/simonw/status/1250651420660871168
+https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
+
+https://twitter.com/simonw/status/1265485373003558912 | Simon Willison on Twitter: "This is a really interesting Twitter account to follows - it tweets when it spots a new GitHub repo published by a known news nerd. Here's a scraper for the Texas Department of State Health Services Covid-19 data, initially released just 25 minutes ago." / Twitter
+https://twitter.com/simonw/status/1265344451632746496 | Simon Willison on Twitter: "What's today's equivalent of the old rite-of-passage exercise for web engineers of building their own blogging engine for their personal website?" / Twitter
+
+Simon
+https://simonwillison.net/2020/May/29/weeknotes-datasette-043/ | Weeknotes: Datasette 0.43
+https://datasette.readthedocs.io/en/latest/changelog.html#v0-43 | Changelog — Datasette documentation
+https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
+https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
+https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
+https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
+https://github.com/dogsheep/github-to-sqlite/releases
+https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
+https://simonwillison.net/2020/May/21/apple-photos-sqlite/ | Using SQL to find my best photo of a pelican according to Apple Photos
+-->
+
 
 ## Hackathons, Festivals, Communities
 
@@ -1001,6 +709,24 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hndex.org/
+
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+
+https://glitch.com/@python | Python
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
 https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
 
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
@@ -1021,6 +747,173 @@ https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
+
+## Tools
+
+<!--
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
+
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
+
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
+https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
+https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
+https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
+https://github.com/ericelliott/riteway
+https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
+
+Eric
+https://twitter.com/_ericelliott/status/860645463674028032 | Eric Elliott on Twitter: "There are 2 categories of programmers & you need both on your team: 1 senior mentors/architects/guides 2 feature-focused devs"
+ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twitter: "Most effective ways to reduce bugs: 1 Code review 2 TDD 3 Spec/design review 4 Pair programming 5 Manual (human) testing #code #tdd"
+1 Code review, 2 TDD, 3 Spec/design review, 4 Pair programming, 5 Manual (human) testing
+https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
+
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
+https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
+
+
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+JS/Deno OS Management
+https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
+https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
+
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+ 
+es6 javascript features
+
+npm
+https://www.youtube.com/watch?v=468tirG434E
+https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
+https://blog.npmjs.org/ | The npm Blog
+https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
+https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
+
+https://nodejs.org/en/ | #BlackLivesMatter
+https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
+
+Node
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+
+Deno
+https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
+https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
+
+https://twitter.com/gauravssnl/status/1260477661878632449
+https://jaxenter.com/deno-interview-ryan-dahl-171425.html
+https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
+https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
+
+Playwright
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
+
+
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+
+jQuery
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+http://youmightnotneedjquery.com/
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://jquery.com/ | jQuery
+
+
+Glitch
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+
+Traversy
+https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
+
+Python
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+-->
+
+<!--
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+
+Cassidy
+
+Sarah
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+
+Sarah
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
+https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
+https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
+
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+
+Sarah
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+
+Chrome Extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+https://github.com/sdras/productive-twitter/
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
+Paint
+https://github.com/muan
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+-->
+
 
 ## Useful Learning Resources
 
@@ -1063,10 +956,37 @@ https://twitter.com/learn__together | Let's learn together 🤖 (@learn__togethe
 https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
 
 
+https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
+https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
 
-No Starch Books
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+No Starch
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+https://ehmatthes.github.io/pcc_2e/recommended_reading/recommended_reading/ | Recommended Reading - Python Crash Course, 2nd Edition
+
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
+https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
+https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
+
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+Automate the Boring Stuff
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+
+
 
 JavaScript- Hawt
+
+https://codingbat.com/ | CodingBat
 
 https://www.pythonmorsels.com/resources/
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
@@ -1080,10 +1000,6 @@ real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
 
-
-Paint
-https://github.com/muan
-https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
 
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
@@ -1150,529 +1066,72 @@ https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: 
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-
-
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
-
-Sarah
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-
-Chrome Extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-https://github.com/sdras/productive-twitter/
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
--->
-
-<!--
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-
-Cassidy
-
-Sarah
-https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
-
-Sarah
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
 -->
 
 
-## Python Syntax and Python Versus JavaScript
 
-Programming Language Leveling Up and Comparisons- Python
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparison Sites
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-## Patterns
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Refactoring
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
-## Engineering Performance Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
-## Open Source Guides
-
-GitHub Open Source Guides
-* [GitHub Help](https://help.github.com) 
-* [GitHub Open Source Guide](https://opensource.guide)
-* [GitHub Guides](https://guides.github.com/)
-
-Google Open Source Guides
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
-## Technical Writing Guides
-
-<!--
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
-
-Docs- Important!
-minimum viable documentation
-https://documentation.divio.com/
-https://twitter.com/webology/status/1257759193743929347
-https://docs.fast.ai/gen_doc_main.html
-
-https://en.wikipedia.org/wiki/Five_Ws
-
-http://www.writethedocs.org/
-https://github.com/writethedocs/www
-https://github.com/jnordberg/wintersmith/wiki/Showcase
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
-https://developers.google.com/style/
-https://developers.google.com/tech-writing
-https://developers.google.com/tech-writing/one
-
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
--->
-
-
-<!--
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-Google
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-
-DevOps
-https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
-https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339/ref=as_sl_pc_tf_til?tag=nicolefv-20&linkCode=w00&linkId=1d7fac0c03a9a8cd9e853ea3003241a3&creativeASIN=1942788339 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: Nicole Forsgren PhD, Jez Humble, Gene Kim: 9781942788331: Amazon.com: Books
-
-
-https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
-
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Self-Serve Case Studies
-https://github.com/nodejs/nodejs.org/issues/1230
-
-Release
-https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
-
-OS Important
-https://mobile.twitter.com/mariatta/status/1252655621398163458
-
-
-https://joss.theoj.org/ | Journal of Open Source Software
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-
-
-
-
-GitHub Stuff
-
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
-Open API
-https://github.com/github/rest-api-description
-https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
-https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
-
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
-
-GA- Best
-https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
-
-Matrix
-https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
-https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
-https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
-
-https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
-https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
-https://github.com/features/insights | Features · Insights
-
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
-
-Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
-
-https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
-
-GitHub Actions
-https://github.com/GoogleChrome/lighthouse-stack-packs/issues
-https://mobile.twitter.com/magnetikonline/status/1224837954771668992
-https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
-
-https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
-
-https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-
-https://github.com/primer/design | primer/design: Primer Design Guidelines
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
-
-
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
-https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
-https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
-
-http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
-
-
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
-
-https://github.com/sustainers | Sustain
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://github.com/orgs/maintainers/people?page=1
-
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-
-node on gh-pages
-https://www.npmjs.com/package/gh-pages | gh-pages - npm
-
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
--->
-
-
-## Hosting Blogs
-
-Hosting Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-
-## Git, GitHub, Open Source, Hosting
-
-GitHub More
-* [GitHub Explore](https://github.com/explore)
-* [GitHub Discover](https://github.com/dashboard/discover)
-* [GitHub Showcases](https://github.com/showcases)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-* [GitHub YouTube](https://www.youtube.com/user/github/videos)
-
-Marketplaces
-* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
-* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
-
-<!--
-Events
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
--->
-
-## GitHub Features
-
-GitHub Features
-* [GitHub Features (Code Review, ect.)](https://github.com/features) 
-
-GitHub Integrations
-* [GitHub Marketplace](https://github.com/marketplace)
-
-GitHub- Notable Features
-* [GitHub Actions](https://github.com/features/actions)
-* [GitHub Packages](https://github.com/features/packages)
-
-<!--
-https://github.com/actions | GitHub Actions
--->
-
-GitHub Web Hooks  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
-
-GitHub Developer 
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-GitHub Services- Deprecated
-* [Service GitHub](https://github.com/github/github-services)
-
-GitHub Community
-* [GitHub Community](https://github.community/)
-
-
-<!--
-https://git-scm.com/docs
-
-https://github.com/github
-
-https://github.com/githubevents | GitHub Events
-
-https://resources.github.com/webcasts/
-https://resources.github.com/whitepapers/
-https://experiments.github.com
-
-Reports
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2401-the-github-diversity-report	
-
-https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
-https://github.com/topics/jekyll-theme | Topic: jekyll-theme
-
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-https://primer.style/css/ | Primer CSS
-https://github.com/primer | Primer
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/features/code-review/
-https://github.com/personal
-https://github.com/enterprise#administration
-https://github.com/features/project-management/
-
-https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
-
-https://github.com/sponsors | GitHub Sponsors
-
-GH Learning Lab
-https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
-
-
-Personal README
-https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
-https://github.com/pifafu | pifafu (kathy)
-https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
-https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
-
-https://git-scm.com/docs/git-status
-https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
-
-GH Satellite
-https://github.com/features/codespaces | Codespaces
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
-https://github.com/codespaces-examples | codespaces-examples
-https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
-
-https://cli.github.com/
-https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
--->
-
-## GitHub Security
-
-<!--
-https://dependabot.com/ | Dependabot
-https://dependabot.com/#how-it-works | Dependabot
-https://dependabot.com/github-actions/ | Dependabot
-
-Security
-
-https://github.com/features/security
-
-National Vulnerability Database
-https://nvd.nist.gov/ | NVD - Home
-
-GitHub Security
-https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
-https://github.com/Semmle
-http://github.com/Semmle/qlc
-https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
-https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
-https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
-https://securitylab.github.com/ | GitHub Security Lab
-https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
-https://github.com/advisories | GitHub Advisory Database
-request cve - Google Search
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
--->
-
-
-## Tools
-
-<!--
-GitHub | The GitHub Blog
-https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
-
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-
-jQuery
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
-https://jquery.com/ | jQuery
-
-Glitch
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
-
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
--->
-
-## Stanford Code in Place Project- API
+## API
 
 <!--
 API
 https://github.com/api-evangelist
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 https://www.programmableweb.com/category/all/apis
 
+API
+HTTP API Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
 
-Twitter
-https://developer.twitter.com/en/apps/17971730 | Twitter Developers
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+-->
+
+## Twitter API
+
+<!--
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
+
+Twitter API Tutorials
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
+https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
+-->
+
+<!--
+Twitter API
+https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
+https://developer.twitter.com/en/apps | Twitter Developers
+
 https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
+https://developer.twitter.com/en/apps/17971730 | Twitter Developers
+
+https://developer.twitter.com/en/labs | Labs
+https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
+
+https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
 
 https://developer.twitter.com/en/docs
 https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
 https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
 https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
 https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
+-->
 
-https://pypi.org/project/requests/ | requests · PyPI
-
-Pillow
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
-
-Black
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-JSON, Black
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
-
+<!--
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 
 Python API Tools
 https://scrapy.org/
@@ -1686,8 +1145,43 @@ https://twython.readthedocs.io/en/latest/usage/install.html | Installation — T
 https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
 https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
 http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+
+Requests
+https://pypi.org/project/requests/ | requests · PyPI
+
+Pillow
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 -->
 
+
+## GitHub API
+
+<!--
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/building-github-apps/
+https://developer.github.com/v4/guides/
+https://github.com/whiteinge/ok.sh
+https://github.com/octokit/rest.js
+https://octokit.github.io/rest.js/v18
+https://github.com/pksunkara/octonode
+-->
 
 ## GitHub Actions Tools
 
@@ -1860,6 +1354,540 @@ Hooks
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 -->
+
+## Bots
+
+Mariatta- Bot Tutorials
+* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
+* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
+* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
+
+Tools
+* [aiohttp](https://aiohttp.readthedocs.io)
+* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
+* [sans I/O](https://sans-io.readthedocs.io/)
+
+<!--
+Mariatta- build the bot
+https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
+PyCon Bot Tutorial
+https://twitter.com/mariatta/status/1255558164956807178
+
+https://github.com/Mariatta/github-app-tutorial
+https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
+https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
+
+
+https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
+https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
+https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
+
+Mariatta community automation talk
+https://twitter.com/mariatta/status/1191534648205037569
+
+Mariatta and Andrew
+https://github.com/asvetlov/us-pycon-2019-tutorial
+https://us-pycon-2019-tutorial.readthedocs.io/index.html
+https://docs.python.org/3/library/abc.html
+https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+https://cz.pycon.org/2019/programme/workshops/9/#main
+
+https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
+
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://github.com/berkerpeksag/cpython-merge-bot
+
+* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+
+https://zapier.com/ | Zapier | The easiest way to automate your work
+https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
+
+
+Jessica Twitter Bot
+https://twitter.com/webology/status/1243922072528719874
+
+Bot
+https://twitter.com/webology/status/1243922072528719874
+
+Hubot
+https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
+
+https://botlist.co/
+https://github.com/hubotio/hubot/blob/master/docs/index.md
+https://github.com/hubotio/generator-hubot
+https://github.com/howdyai/botkit
+https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
+
+https://github.com/devict/devict-hubot
+https://github.com/github/hubot
+https://hubot.github.com/
+-->
+
+## Python Syntax and Python Versus JavaScript
+
+Programming Language Leveling Up and Comparisons- Python
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+<!--
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+-->
+
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+## Patterns
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Refactoring
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+<!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+-->
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+## Engineering Performance Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+-->
+
+## Open Source Guides
+
+GitHub Open Source Guides
+* [GitHub Help](https://help.github.com) 
+* [GitHub Open Source Guide](https://opensource.guide)
+* [GitHub Guides](https://guides.github.com/)
+
+Google Open Source Guides
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
+## Technical Writing Guides
+
+<!--
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
+
+Docs- Important!
+minimum viable documentation
+https://documentation.divio.com/
+https://twitter.com/webology/status/1257759193743929347
+https://docs.fast.ai/gen_doc_main.html
+
+https://en.wikipedia.org/wiki/Five_Ws
+
+http://www.writethedocs.org/
+https://github.com/writethedocs/www
+https://github.com/jnordberg/wintersmith/wiki/Showcase
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://developers.google.com/style/
+https://developers.google.com/tech-writing
+https://developers.google.com/tech-writing/one
+
+https://twitter.com/thoward37/status/1227286141537144832
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
+
+2017 Open Source Survey
+https://opensourcesurvey.org/2017/
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+-->
+
+
+<!--
+http://highscalability.com
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+
+http://www.martinfowler.com/eaaCatalog/
+https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+Google
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+
+DevOps
+https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
+https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339/ref=as_sl_pc_tf_til?tag=nicolefv-20&linkCode=w00&linkId=1d7fac0c03a9a8cd9e853ea3003241a3&creativeASIN=1942788339 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: Nicole Forsgren PhD, Jez Humble, Gene Kim: 9781942788331: Amazon.com: Books
+
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
+
+CNCF
+https://www.cncf.io/ | Home - Cloud Native Computing Foundation
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
+
+Metrics
+https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
+https://bitergia.com/resources/webinars/ | Webinars - Bitergia
+
+Docs
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+
+Nadia Eghbal
+https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 | Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862: Amazon.com: Books
+
+Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
+https://github.com/features/insights | Features · Insights
+
+GitHub Stars
+https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
+
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+
+
+
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+Open API
+https://github.com/github/rest-api-description
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
+https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+
+
+
+Self-Serve Case Studies
+https://github.com/nodejs/nodejs.org/issues/1230
+
+Release
+https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
+
+OS Important
+https://mobile.twitter.com/mariatta/status/1252655621398163458
+
+
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+GA- Best
+https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
+
+Matrix
+https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
+https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
+https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
+
+https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
+https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
+
+
+https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
+
+GitHub Actions
+https://github.com/GoogleChrome/lighthouse-stack-packs/issues
+https://mobile.twitter.com/magnetikonline/status/1224837954771668992
+https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
+
+https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
+
+https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
+
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+
+
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
+https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
+https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
+
+https://github.com/sustainers | Sustain
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://github.com/orgs/maintainers/people?page=1
+
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+node on gh-pages
+https://www.npmjs.com/package/gh-pages | gh-pages - npm
+
+https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
+
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+
+Personal README
+https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
+https://github.com/pifafu | pifafu (kathy)
+https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
+https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
+-->
+
+
+## Hosting Blogs
+
+Hosting Blogs
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+
+## Git, GitHub, Open Source, Hosting
+
+GitHub More
+* [GitHub Explore](https://github.com/explore)
+* [GitHub Discover](https://github.com/dashboard/discover)
+* [GitHub Showcases](https://github.com/showcases)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+* [GitHub YouTube](https://www.youtube.com/user/github/videos)
+
+Marketplaces
+* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
+* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
+
+<!--
+Events
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://securitylab.github.com/events
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+-->
+
+## GitHub Features
+
+GitHub Features
+* [GitHub Features (Code Review, ect.)](https://github.com/features) 
+
+GitHub Integrations
+* [GitHub Marketplace](https://github.com/marketplace)
+
+GitHub- Notable Features
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Packages](https://github.com/features/packages)
+
+<!--
+https://github.com/actions | GitHub Actions
+-->
+
+GitHub Web Hooks  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/en/github/extending-github/about-webhooks)
+
+GitHub Developer 
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+GitHub Services- Deprecated
+* [Service GitHub](https://github.com/github/github-services)
+
+GitHub Community
+* [GitHub Community](https://github.community/)
+
+
+<!--
+https://git-scm.com/docs
+
+https://github.com/github
+
+https://github.com/githubevents | GitHub Events
+
+https://resources.github.com/webcasts/
+https://resources.github.com/whitepapers/
+https://experiments.github.com
+
+Reports
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://github.com/blog/2401-the-github-diversity-report	
+
+https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
+https://github.com/topics/jekyll-theme | Topic: jekyll-theme
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+https://primer.style/css/ | Primer CSS
+https://github.com/primer | Primer
+https://github.com/primer/design | primer/design: Primer Design Guidelines
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/features/code-review/
+https://github.com/personal
+https://github.com/enterprise#administration
+https://github.com/features/project-management/
+
+https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
+
+https://github.com/sponsors | GitHub Sponsors
+
+GH Learning Lab
+https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
+
+https://git-scm.com/docs/git-status
+https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
+
+GH Satellite
+https://github.com/features/codespaces | Codespaces
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
+https://github.com/codespaces-examples | codespaces-examples
+https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
+
+https://cli.github.com/
+https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
+-->
+
+## GitHub Security
+
+<!--
+https://dependabot.com/ | Dependabot
+https://dependabot.com/#how-it-works | Dependabot
+https://dependabot.com/github-actions/ | Dependabot
+
+Security
+
+https://github.com/features/security
+
+National Vulnerability Database
+https://nvd.nist.gov/ | NVD - Home
+
+GitHub Security
+https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
+https://github.com/Semmle
+http://github.com/Semmle/qlc
+https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
+https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
+https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
+https://securitylab.github.com/ | GitHub Security Lab
+https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
+https://github.com/advisories | GitHub Advisory Database
+request cve - Google Search
+https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
+-->
+
 
 
 ## GitHub Actions and Automation Stuff
@@ -2116,192 +2144,6 @@ https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically re
 -->
 
 
-## Makers
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://womenmake.com/ | Women Make
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-## Makers
-
-Django, GitHub, SQL
-* [Jeff Triplett Twitter](https://twitter.com/webology)
-* [Simon Willison](https://static.simonwillison.net)
-
-GitHub
-* [Steve Winton GitHub](https://github.com/swinton/)
-* [Jason Etco GitHub](https://github.com/JasonEtco/)
-* [Gregor Martynus GitHub](https://github.com/gr2m/)
-* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
-
-<!--
-Lorena
-
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
-
-https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
-https://github.com/mscoutermarsh?tab=repositories | mscoutermarsh (Mike Coutermarsh) / Repositories
-xhttps://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
-https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
-https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
-https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
-https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
-
-https://github.com/tj
-https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
--->
-
-Women Who Inspire Me
-* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
-* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
-* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
-* [Camille Fournier Twitter](https://twitter.com/skamille)
-* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
-* [Jess Frazelle GitHub](https://github.com/jessfraz)
-* [Leigh Honeywell](https://hypatia.ca)
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
-* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
-* [Suz Hinton Twitter](https://twitter.com/noopkat)
-
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-
-<!--
-https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
-
-https://virus.cafe/ | Virus Cafe
-https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
-
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
-
-https://twitter.com/hayleydenb/status/1257786499933728768
-
-Cool way to do it
-https://twitter.com/MishManners/status/1240839777437364224
-https://twitter.com/MishManners/status/1239360667703885825
-https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
-
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
--->
-
-<!--
-Simon
-
-https://news.ycombinator.com/item?id=22920437
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-https://github.com/simonw/til
-
-https://twitter.com/simonw/status/1250651420660871168
-https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
-
-https://twitter.com/simonw/status/1265485373003558912 | Simon Willison on Twitter: "This is a really interesting Twitter account to follows - it tweets when it spots a new GitHub repo published by a known news nerd. Here's a scraper for the Texas Department of State Health Services Covid-19 data, initially released just 25 minutes ago." / Twitter
-https://twitter.com/simonw/status/1265344451632746496 | Simon Willison on Twitter: "What's today's equivalent of the old rite-of-passage exercise for web engineers of building their own blogging engine for their personal website?" / Twitter
-
-Simon
-https://simonwillison.net/2020/May/29/weeknotes-datasette-043/ | Weeknotes: Datasette 0.43
-https://datasette.readthedocs.io/en/latest/changelog.html#v0-43 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
-https://github.com/dogsheep/github-to-sqlite/releases
-https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
-https://simonwillison.net/2020/May/21/apple-photos-sqlite/ | Using SQL to find my best photo of a pelican according to Apple Photos
--->
-
-## Bots
-
-Mariatta- Bot Tutorials
-* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
-* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
-* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
-
-Tools
-* [aiohttp](https://aiohttp.readthedocs.io)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
-
-<!--
-Mariatta- build the bot
-https://www.youtube.com/watch?v=_xdEAxLuj9Y
-
-PyCon Bot Tutorial
-https://twitter.com/mariatta/status/1255558164956807178
-
-https://github.com/Mariatta/github-app-tutorial
-https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
-https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
-
-
-https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
-https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
-https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
-
-Mariatta community automation talk
-https://twitter.com/mariatta/status/1191534648205037569
-
-Mariatta and Andrew
-https://github.com/asvetlov/us-pycon-2019-tutorial
-https://us-pycon-2019-tutorial.readthedocs.io/index.html
-https://docs.python.org/3/library/abc.html
-https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-https://cz.pycon.org/2019/programme/workshops/9/#main
-
-https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
-
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://github.com/berkerpeksag/cpython-merge-bot
-
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-
-Jessica Twitter Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Hubot
-https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
-
-https://botlist.co/
-https://github.com/hubotio/hubot/blob/master/docs/index.md
-https://github.com/hubotio/generator-hubot
-https://github.com/howdyai/botkit
-https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
-
-https://github.com/devict/devict-hubot
-https://github.com/github/hubot
-https://hubot.github.com/
--->
-
 ## Open Source and Release Examples
 
 <!--
@@ -2473,6 +2315,7 @@ https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organiz
 
 Open source report card
 -->
+
 
 ## Heroku
 
