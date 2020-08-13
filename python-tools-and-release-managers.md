@@ -1,106 +1,13 @@
 # Python Tools and Release Managers
 
 <!--
-pip lock
-https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
-
-Pinning
-https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
-
-beta pip
-https://mobile.twitter.com/ThePyPA/status/1252641910679879681
-
-pip Resolver
-https://mobile.twitter.com/metalikus/status/1251497611028238336
-
-Gidgethub
-https://mobile.twitter.com/mariatta/status/1251733060812369920
-
-pathlib
-https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
-
-
-Bernat
-https://ep2020.europython.eu/talks/D2SG8Vb-lessons-from-the-trenches-rewriting-and-re-releasing-virtualenv/ | Lessons from the Trenches: rewriting and re-releasing virtualenv — EuroPython 2020 Online · 23-26 July 2020
-
-virtualenv
-https://github.com/gaborbernat/virtualenv-rewrite-eupy20 | gaborbernat/virtualenv-rewrite-eupy20
-
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-
-Python Docker
-https://twitter.com/brettsky/status/1146835613628293120 | Twitter
-https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
-
-
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
-Packaging
-https://twitter.com/webKnjaZ/status/1287690737778335744 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony @codewithanthony FYI there's also `wheel unpack` for extracting whl contents" / Twitter
-
-Anthony
-https://github.com/asottile2/demo2 | asottile2/demo2
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
-https://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
-https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
-
-https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
-
-deadsnakes
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
-https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
-
-
-https://github.com/Mariatta/requirements_atoz
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
-https://github.com/hbristow/cookiecutter-cpp/blob/master/.travis.yml
-https://github.com/jambonsw/cookiecutter-static-site
-
-
-https://launchpad.net/ubuntu | Ubuntu in Launchpad
-
-Python
-Django self-update
-https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
-
-
-Videos
-
-Anthony
-https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
-
-
-https://twitter.com/pganssle/status/1270056171861401601
-Release
-https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
-
-
-
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
-
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
 https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
 https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
 https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
 https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
-
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-
-Shields
-https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
-
 
 Important
 https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
@@ -119,6 +26,77 @@ https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File
 
 https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
 
+
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+
+towncrier
+https://twitter.com/webKnjaZ/status/1289309686060048384 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "I'm now accepting name ideas for the #Sphinx extension I completed, that provides a directive for injecting towncrier draft version changelog into Sphinx sites: .. towncrier-draft-entries:: |release| [UNRELEASED DRAFT] 🐍 #Python #Sphinx_doc" / Twitter
+
+pip install
+https://twitter.com/pganssle/status/1289010601415577600 | Paul Ganssle on Twitter: ""Doctor, it hurts when I invoke https://t.co/o3PGyRiVuO install." "Stop doing that then!" (Seriously, always use pip install, never https://t.co/o3PGyRiVuO install)" / Twitter
+
+pip-tools
+https://twitter.com/jonafato/status/1283429696471027713 | Jon Banafato on Twitter: "Listen to Jeff. pip-tools is great." / Twitter
+
+https://twitter.com/llanga/status/986645110518509568 | Łukasz Langa on Twitter: "TIL about https://t.co/BtoFQvaMlW. Compared to Pipenv, the cmdline is different, it uses the standard pyproject.toml for configuration instead of the custom Pipfile, and caret dependencies are a usability improvement. It will be very interesting to see which will win long term."
+
+pip lock
+https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+Pinning
+https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
+
+Gidgethub
+https://mobile.twitter.com/mariatta/status/1251733060812369920
+
+pathlib
+https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
+
+
+Python Docker
+https://twitter.com/brettsky/status/1146835613628293120 | Twitter
+https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
+
+
+https://launchpad.net/ubuntu | Ubuntu in Launchpad
+
+Packaging
+https://twitter.com/webKnjaZ/status/1287690737778335744 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony @codewithanthony FYI there's also `wheel unpack` for extracting whl contents" / Twitter
+
+Anthony
+https://github.com/asottile2/demo2 | asottile2/demo2
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
+https://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
+https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
+
+https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
+
+deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
+
+https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
+
+https://twitter.com/pganssle/status/1270056171861401601
+Release
+https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
+
+
+https://github.com/Mariatta/requirements_atoz
+https://github.com/Mariatta/cookiecutter_sprint_guide
+https://github.com/Mariatta/pep_cookiecutter
+https://github.com/hbristow/cookiecutter-cpp/blob/master/.travis.yml
+https://github.com/jambonsw/cookiecutter-static-site
+
+
+Python
+Django self-update
+https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
+
+Shields
+https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
 https://pypi.org/project/keyring/ | keyring · PyPI
 
@@ -647,78 +625,6 @@ https://docs.python-guide.org/#writing-great-python-code
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 
-## High Performance Python and Django and Trends
-
-<!--
-https://us.pycon.org/2020/schedule/talks/
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-<!--
-lyftvm
-
-mergebot
-
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-
-https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
-
-https://www.youtube.com/watch?v=lx5WQjXLlq8&
-https://speakerdeck.com/carljm/instagram-under-the-hood
-https://blog.disqus.com/scaling-django-to-8-billion-page-views
-https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
-https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
-
-https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
--->
-
-### General Talks
-
-<!--
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
-
-
 ## To Read- Release Management
 
 Django
@@ -798,6 +704,24 @@ Pipenv
 * [Next Pipenv Release - Google Groups](https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co)
 
 <!--
+Bernat
+https://ep2020.europython.eu/talks/D2SG8Vb-lessons-from-the-trenches-rewriting-and-re-releasing-virtualenv/ | Lessons from the Trenches: rewriting and re-releasing virtualenv — EuroPython 2020 Online · 23-26 July 2020
+
+virtualenv
+https://github.com/gaborbernat/virtualenv-rewrite-eupy20 | gaborbernat/virtualenv-rewrite-eupy20
+
+pip
+https://blog.python.org/2020/07/upgrade-pip-20-2-changes-20-3.html | Python Insider: Upgrade to pip 20.2, plus, changes coming in 20.3
+
+pip
+https://twitter.com/ChangesetLLC/status/1291062082574704649 | Changeset Consulting on Twitter: "There is a big change coming to pip in October -- a watershed moment, a minor revolution. It'll be a great foundation for making it easier to deal with #Python packaging. This is a thread where I'll share some of the stuff @ThePyPA can build on that foundation. https://t.co/JGqVy21Dnp" / Twitter
+
+beta pip
+https://mobile.twitter.com/ThePyPA/status/1252641910679879681
+
+pip Resolver
+https://mobile.twitter.com/metalikus/status/1251497611028238336
+
 https://modelpredict.com/python-dependency-management-tools | Overview of python dependency management tools | model.predict
 
 https://hynek.me/articles/python-app-deps-2018/
