@@ -171,16 +171,16 @@ https://github.com/KatherineMichel/setting-up-an-open-source-project
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
-https://substack.com/discover | Substack
-https://twitter.com/explore/tabs/for-you | Explore / Twitter
-https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
-https://www.youtube.com/feed/trending | Trending - YouTube
 
-https://www.infoq.com/
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 
-https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
+https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
 
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 
 Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
@@ -190,11 +190,12 @@ https://www.forem.com/ | For empowering community
 https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
 https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
 
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+
+
+https://stateofjs.com/
+https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
 
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
@@ -204,13 +205,6 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
-https://stateofjs.com/
-
-https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
-
-Product
-https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
-
 https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
 
 Hacking
@@ -219,15 +213,10 @@ https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
 
 https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 
-https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
-
 https://home.cern/topics/birth-web | The birth of the web | CERN
 
 Linux Performance Observability Tools
 https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
 
 Sid
 https://twitter.com/changelog/status/1276514876228284417
@@ -478,8 +467,12 @@ https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
+
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
 https://github.com/zedr/clean-code-python
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
@@ -640,6 +633,13 @@ https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter:
 
 ## Trends
 
+Stars
+* [Astral App](https://astralapp.com)
+
+Nuzzel
+* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
+* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
+
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
@@ -653,11 +653,42 @@ Top Links of All Times
 * [Hacker News Classics](http://jsomers.net/hn)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
+<!--
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+-->
+
+## To Look At
+
 Hacker News and Lobsters
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
 * [Lobsters](https://lobste.rs)
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending Python](https://github.com/trending/python)
+
+Python
+* [Pythonic News](https://news.python.sc/)
+
+<!--
+https://www.infoq.com/
+
+https://substack.com/discover | Substack
+https://twitter.com/explore/tabs/for-you | Explore / Twitter
+https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
+https://www.youtube.com/feed/trending | Trending - YouTube
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+-->
+
+## Project Ideas
 
 Product Hunt
 * [Product Hunt](https://www.producthunt.com)
@@ -670,17 +701,22 @@ Product Hunt Product Leader Boards
 * [Top 500 Products](http://500products.com)
 
 <!--
+https://github.com/trending/developers
+
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hndex.org/
+
+https://glitch.com/@python | Python
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
 * [Hunts.xyz](https://hunts.xyz)
 
 https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
 https://upcoming.org/about | About - Upcoming
-
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
 -->
 
 ## Makers
@@ -710,7 +746,6 @@ GitHub
 <!--
 Lorena
 
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 https://github.com/mscoutermarsh/profile-tweet
 https://www.amazon.com/gp/product/B00Q8QKGJ0
 
@@ -777,12 +812,9 @@ https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-refer
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 -->
 
-
-## Projects
+## Learning
 
 <!--
-Advice
-
 Julia
 https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
 https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
@@ -810,6 +842,9 @@ https://en.wikipedia.org/wiki/Pseudocode
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 -->
 
+
+
+## Projects
 
 <!--
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
@@ -892,7 +927,21 @@ https://simonwillison.net/2020/May/21/apple-photos-sqlite/ | Using SQL to find m
 -->
 
 
-## Hackathons, Festivals, Communities
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
 
 * [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
 
@@ -901,8 +950,6 @@ https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to 
 
 https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
 https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://en.wikipedia.org/wiki/Hackathon | Hackathon - Wikipedia
 
 https://24hrstartup.com/ | The 24 Hour Startup Challenge
 
@@ -920,25 +967,9 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
 
-## Competitive Programming
+## Projects
 
-Coding Competitions
-* Kaggle
-* Hackathons
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-* Project-Based Learning
-
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
--->
-
-## Project-Based Learning
-
+Projects
 * [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
 
 App Ideas
@@ -949,23 +980,26 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hndex.org/
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+
+Traversy
+https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
+
+
 
 https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
 https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
 https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
 https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
 
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-
-https://glitch.com/@python | Python
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
 
 https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
 
@@ -991,20 +1025,6 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 ## Tools
 
 <!--
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
-
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-
-
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
 https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
@@ -1049,6 +1069,8 @@ https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 Node
 https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
 
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
+
 Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 
@@ -1079,35 +1101,13 @@ https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Exampl
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://jquery.com/ | jQuery
-
-
-Glitch
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
-
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-
-Traversy
-https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
-
-Python
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
 -->
 
 <!--
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+
 Netlify
 https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
 
@@ -1121,16 +1121,6 @@ https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-alia
 
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
 https://codepen.io/collection/nMgKxJ
-
-https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
-https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
-https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
-
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-
 
 https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
@@ -1254,6 +1244,18 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
+Glitch
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
+
+
 100 Projects
 https://twitter.com/sarah_edo/status/1287441437701754882 | Sarah Drasner on Twitter: "This is so cool, @ceeoreo_ kicked off #100DaysOfProjects, looks like it's open to anyone! Seems like a nice way of creating community while learning :)" / Twitter
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
@@ -1292,21 +1294,30 @@ https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 Automate the Boring Stuff
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+What is
+https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
+https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s JavaScript Glossary
+https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
+https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 
 JavaScript- Hawt
 
 https://codingbat.com/ | CodingBat
 
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+
 https://www.pythonmorsels.com/resources/
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 https://github.com/JackMcKew/awesome-python-bytes
-
 
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
@@ -1315,19 +1326,7 @@ real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
 
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-What is
-https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
-https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s JavaScript Glossary
-https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
-https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
+https://github.com/feldroy/django-crash-starter
 
 Wes Bos
 https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
@@ -1340,8 +1339,22 @@ update node and npm - Google Search
 
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
+https://frontendmasters.com
+
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://btholt.github.io/intro-to-web-dev-v2/
+
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+https://btholt.github.io/complete-intro-to-containers/
+
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
 Traversy
 https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
@@ -1356,23 +1369,6 @@ https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development I
 https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 
-https://frontendmasters.com
-
-https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
-
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://btholt.github.io/complete-intro-to-containers/
-
-Front End Masters Handbook
-https://github.com/FrontendMasters/front-end-handbook-2019
-https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
-https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
-
-
-https://github.com/feldroy/django-crash-starter
-
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
 https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
@@ -1381,6 +1377,10 @@ https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: 
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 -->
 
 
@@ -1981,6 +1981,20 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval
 -->
 
 
+## Jez Humble
+
+<!--
+Related
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+-->
+
+
 ## Product and Marketing
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
@@ -2000,6 +2014,11 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+
 https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
 
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
@@ -2103,6 +2122,16 @@ Google Open Source Guides
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
 <!--
+GitHub
+https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
+
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
+
+https://github.com/blog/967-github-secrets | GitHub Secrets
+
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
 Satellite
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
 
@@ -2306,6 +2335,51 @@ https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/conf
 https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
 -->
 
+<!--
+Python 
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
+
+Important
+https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
+-->
+
+<!--
+https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
+
+Testing and Release
+
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/commitizen/conventional-commit-types/
+https://github.com/commitizen/conventional-commit-types/blob/master/index.json
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+https://github.com/semantic-release/npm
+https://twitter.com/SemanticRelease
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+
+https://github.com/marketplace/actions/codecov
+
+https://probot.github.io/apps/release-drafter/
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+-->
+
 ## GitHub Actions and Automation Stuff
 
 <!--
@@ -2469,50 +2543,6 @@ https://twitter.com/natfriedman/status/1260431646257528833
 https://help.github.com/en/github/authenticating-to-github
 -->
 
-<!--
-Python 
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-Important
-https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
-https://github.com/pypa/gh-action-pypi-publish/issues/2
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
--->
-
-<!--
-https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
-
-Testing and Release
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/commitizen/conventional-commit-types/
-https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-https://github.com/semantic-release/npm
-https://twitter.com/SemanticRelease
-
-Semantic Release and Merge Release
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-
-https://github.com/marketplace/actions/codecov
-
-https://probot.github.io/apps/release-drafter/
-
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
--->
 
 
 ## Open Source and Release Examples
@@ -2560,35 +2590,8 @@ https://github.com/mongodb/mongo/wiki
 https://github.com/adobe/open-development-template
 -->
 
+
 <!--
-GitHub
-https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
-
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-https://github.com/blog/967-github-secrets | GitHub Secrets
-
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
- 
-Self-Serve Case Studies
-https://github.com/nodejs/nodejs.org/issues/1230
-
-Release
-https://github.com/golang/go/issues/38762 | (1) Proposal: improve UX for major module versions · Issue #38762 · golang/go
-
-Contributing topics
-https://mobile.twitter.com/mariatta/status/1252655621398163458
-
-node on gh-pages
-https://www.npmjs.com/package/gh-pages | gh-pages - npm
-
-https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
-
-https://twitter.com/_ryannystrom/status/1280563147049447429 | Ryan Nystrom on Twitter: "The latest @github iOS/Android release notes are 🤯" / Twitter
-
-
-
 https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
 
 https://github.com/apps/update-authors | GitHub Apps - Update Authors
@@ -2607,6 +2610,7 @@ https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitt
 https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
 
 https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
 
 GA- Best
 https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
@@ -2627,6 +2631,11 @@ https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
 
 https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
 https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
+
+https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
+https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
+https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
 
 Personal README
 https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
@@ -3308,19 +3317,6 @@ https://scottwambler.wordpress.com/courses/amdd/
 http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
 http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
 Cost of Software Change
--->
-
-## Jez Humble
-
-<!--
-Related
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
-
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
 -->
 
 ## Other Interesting
