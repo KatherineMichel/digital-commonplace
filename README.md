@@ -13,6 +13,8 @@ https://help.apple.com/voiceover/info/guide/10.12/#/vo2681 | VoiceOver overview 
 
 https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
 
+https://twitter.com/smc90/status/1100627121116856320 | Sonal Chokshi on Twitter: "such a good heuristic! https://t.co/iC2QtztbYQ"
+
 https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
@@ -188,13 +190,43 @@ https://www.forem.com/ | For empowering community
 https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
 https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
 
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://blog.golang.org/go-brand | Go's New Brand - The Go Blog
+
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
+
+Product
+https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+
+Hacking
+https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
+https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+
+https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
+
+https://home.cern/topics/birth-web | The birth of the web | CERN
+
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+
 
 
 https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
@@ -305,6 +337,8 @@ https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
 https://github.com/asottile/importtime-waterfall/
 har http timing
 
+https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
+
 
 
 GitHub and Twitter Roadmaps
@@ -379,10 +413,20 @@ Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
 
 
-https://lyrebird.ai/demo | Demo - Lyrebird
-https://beta.openai.com/ | OpenAI API
-
 https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
+https://arxiv.org/abs/1709.02840
+https://arxiv.org/pdf/1709.02840.pdf
+
+Arxiv
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+https://lyrebird.ai/demo | Demo - Lyrebird
+
+https://beta.openai.com/ | OpenAI API
 
 GPT-3
 https://openai.com/blog/openai-api/ | OpenAI API
@@ -411,6 +455,8 @@ https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66f
 
 https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
 
+https://twitter.com/di_codes/status/1065115520570195968 | Dustin Ingram on Twitter: "This is ridiculously cool: Terrarium (https://t.co/oUTC9UL8PJ) lets you write a C, TypeScript or Rust app via an in-browser editor, compile it to WebAssembly, and deploy it to the edge in seconds. Includes static assets, a key-value store, ability to make HTTP/DNS requests, etc."
+
 https://firebase.google.com/
 
 https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
@@ -418,6 +464,8 @@ https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build
 https://docs.npmjs.com/getting-started/running-a-security-audit
 https://www.pagerduty.com/blog/security-training-at-pagerduty/
 
+
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
 
 https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
 
@@ -1119,6 +1167,7 @@ https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twi
 -->
 
 
+
 ## Useful Learning Resources
 
 Wes Bos
@@ -1307,11 +1356,14 @@ https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-d
 
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
 
 Twitter API Tutorials
 https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
 https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
 https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
+
+https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
 -->
 
 <!--
