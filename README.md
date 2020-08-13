@@ -1044,6 +1044,80 @@ https://github.com/muan
 https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
 -->
 
+## Traffic
+
+<!--
+* [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
+
+* Stats
+   * [npm trends](http://www.npmtrends.com/)
+   * [NPMCompare](https://npmcompare.com/)
+   * [npm-stat](https://npm-stat.com/)
+* Rank
+   * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
+
+npm package statistics - Google Search
+
+Homebrew Analytics
+https://github.com/Homebrew/homebrew-formula-analytics
+
+https://plugins.jetbrains.com/
+
+Top downloaded wheels
+https://pythonwheels.com/
+
+High traffic projects
+https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
+https://formulae.brew.sh/analytics/install-on-request/30d/
+https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
+https://octoverse.github.com/2018/
+https://octoverse.github.com/2017/
+https://octoverse.github.com/2016/#organizations
+
+Popular Libraries
+https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
+pyanalyze - Engineering at Quora - Quora
+https://docs.python.org/3/library/asyncio.html
+https://docs.aiohttp.org/en/stable/
+https://wiki.python.org/moin/PyQt
+-->
+
+## Node
+
+<!--
+node.js
+https://nodejs.org/en/blog/release/v14.6.0/ | Node v14.6.0 (Current) | Node.js
+https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
+
+Deno and Node
+
+https://github.com/denoland/deno/pull/5273
+
+* [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
+* [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+
+https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In DevTools (Chrome 84)  |  Web  |  Google Developers
+
+Node
+https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
+https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
+
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+
+node.js Release Schedule
+https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
+https://medium.com/the-node-js-collection/maintainers-should-consider-following-node-js-release-schedule-ab08ed4de71a
+https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The npm Blog — Updates to Community, Docs & more...
+https://nodejs.org/en/about/releases/
+https://nodejs.org/en/about/working-groups/
+https://github.com/nodejs/Release
+
+node as Example
+https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
+-->
+
 
 ## Useful Learning Resources
 
@@ -1787,6 +1861,10 @@ https://github.com/github/ossar-action | github/ossar-action: Run multiple open 
 
 
 
+GitHub
+https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
 OS
 https://choosealicense.com/ | Choose an open source license | Choose a License
 
@@ -1838,6 +1916,7 @@ https://github.com/pypa/warehouse/milestones | Milestones - pypa/warehouse
 
 Sid
 https://twitter.com/changelog/status/1276514876228284417
+
 
 
 
