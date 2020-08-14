@@ -95,32 +95,6 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [vue.js Showcase](https://madewithvuejs.com/)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Showcase](https://madewithreactjs.com/)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-<!--
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
 ## Jekyll, Foundation, Sass
 
 * [Jekyll](https://jekyllrb.com), [Jekyll GitHub](https://github.com/jekyll/jekyll), and [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
