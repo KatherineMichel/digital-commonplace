@@ -197,7 +197,8 @@ https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compati
 
 
 https://stateofjs.com/
-https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
+
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
 
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
@@ -1054,53 +1055,17 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 ## Tools
 
 <!--
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
-https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
-https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
-https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
-https://github.com/ericelliott/riteway
-https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
-
-Eric
-https://twitter.com/_ericelliott/status/860645463674028032 | Eric Elliott on Twitter: "There are 2 categories of programmers & you need both on your team: 1 senior mentors/architects/guides 2 feature-focused devs"
-ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twitter: "Most effective ways to reduce bugs: 1 Code review 2 TDD 3 Spec/design review 4 Pair programming 5 Manual (human) testing #code #tdd"
-1 Code review, 2 TDD, 3 Spec/design review, 4 Pair programming, 5 Manual (human) testing
-https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
-
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
-https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
-
-
-Playwright
-https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
-https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
-
-GitHub | The GitHub Blog
-https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
-
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-
-jQuery
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
-https://jquery.com/ | jQuery
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
 
 https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
 
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-
 Paint
 https://github.com/muan
+https://github.com/muan/paint-github
 https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
 
 https://thoughtbot.com/blog/how-to-make-a-chrome-extension
@@ -1129,6 +1094,148 @@ https://github.com/sdras/productive-twitter/
 CSS/JS
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+-->
+
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
+
+
+https://v8.dev/docs
+https://github.com/v8/node/
+https://tc39.es/ecma262/
+https://github.com/tc39/ecma262
+https://webassembly.github.io/spec/core/
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md | Design of V8 bindings
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://html.spec.whatwg.org/multipage/
+https://en.wikipedia.org/wiki/HTTP/3
+
+
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+
+Deno
+https://twitter.com/simonw/status/1266861106674294784
+https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
+https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
+
+https://expressjs.com/
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+node
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+Airbnb- isomorphic
+https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
+https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
+https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
+https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+https://github.com/jsdom/jsdom
+https://github.com/ruyadorno/ipt
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+https://medium.com/the-node-js-collection
+https://blog.risingstack.com
+
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
+
+Node
+* [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
+
+* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
+* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
+
+https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
+
+* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
+* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
+
+https://github.com/azat-co/practicalnode
+https://github.com/sqreen/awesome-nodejs-projects
+https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
+-->
+
+<!--
+Cheat Sheets and Stuff
+
+JS Recommendations
+https://twitter.com/jkup/status/1217849585219010560
+
+100 Days of Code
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://github.com/jgthms/javascript-in-14-minutes
+
+  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
+
+https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
+https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
+
+Testing
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
+-->
+
+
+## Jargon, Algorithms, and Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+<!--
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+-->
+
+<!--
+JavaScript Algos
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
+https://github.com/andyttran/guide_to_algorithms
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+
+https://github.com/palashmon/awesome-js-posts
 -->
 
 ## Traffic
@@ -1201,13 +1308,15 @@ https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascr
 https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
 -->
 
-<!--
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
- 
+<!-- 
 es6 javascript features
 
 Vue
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+JavaScript
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
 
 
 npm
@@ -1810,6 +1919,43 @@ Python vs. JavaScript
 
 <!--
 https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+
+http://youmightnotneedjquery.com/
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+jQuery
+https://jquery.com/ | jQuery
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
+
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
+
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+
+https://github.com/luruke/browser-2020
+https://github.com/phuoc-ng/html-dom
+http://caniuse.com/#search=service%20worker
+http://caniuse.com/#search=app%20cache
+
+https://bestmotherfucking.website/ | Best Motherfucking Website
+
+https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
+https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
+
+http://diana-adrianne.com/purecss-francine/ | Francine
+https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
+
+Single Div
+https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on Twitter: "If you ever think you're good at CSS, check out this website. These designs are all done with a single &lt;div&gt; element. It's insane! https://t.co/tleibWDJys" / Twitter
+https://a.singlediv.com/ | A Single Div
 -->
 
 ## Programming Language Comparisons
