@@ -1,56 +1,63 @@
 # Web and JavaScript Notes
 
 <!--
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+
+https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+
+Eric
+https://twitter.com/_ericelliott/status/860645463674028032 | Eric Elliott on Twitter: "There are 2 categories of programmers & you need both on your team: 1 senior mentors/architects/guides 2 feature-focused devs"
+ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twitter: "Most effective ways to reduce bugs: 1 Code review 2 TDD 3 Spec/design review 4 Pair programming 5 Manual (human) testing #code #tdd"
+1 Code review, 2 TDD, 3 Spec/design review, 4 Pair programming, 5 Manual (human) testing
+https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
+
 https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell - JavaScript Scene - Medium
 https://github.com/ericelliott/redux-dsm | ericelliott/redux-dsm: Declarative state machines for Redux: Reduce your async-state boilerplate.
 
-JavaScript
-https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
+https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
+
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
+https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80 | TDD Changed My Life - JavaScript Scene - Medium
+https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
+https://github.com/ericelliott/riteway
+https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
+
+https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
+
+
+
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints | Adapting to Users with Client Hints  |  Web Fundamentals
 
 
-Evan You
-https://github.com/yyx990803?tab=repositories
-
-React
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started | Getting started with React - Learn web development | MDN
-
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-
-https://github.com/luruke/browser-2020
-https://github.com/phuoc-ng/html-dom
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
+Playwright
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
-https://v8.dev/docs
-https://github.com/v8/node/
-https://tc39.es/ecma262/
-https://github.com/tc39/ecma262
-https://webassembly.github.io/spec/core/
-https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md | Design of V8 bindings
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://html.spec.whatwg.org/multipage/
-https://en.wikipedia.org/wiki/HTTP/3
+https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
+https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
 
 
 https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on Twitter: "OK, yes, you can do it without a dependency: var today = new Date(); var year = today.getFullYear(); https://t.co/mu2sC17j5P @shahrukh_nahk" / Twitter
-
-https://frontendmasters.com/assets/resources/willsentance/js-the-hard-parts.pdf | js-the-hard-parts.pdf
-https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf | new-hard-parts-slides.pdf
 
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
 https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
 
 
-https://web.dev/ | web.dev  |  web.dev
+<!--
+Performance
+
 https://web.dev/fast/
 
 https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
@@ -59,29 +66,56 @@ Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
 https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
 
+https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
+
 Performance
 https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
 
 https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
-
-https://bestmotherfucking.website/ | Best Motherfucking Website
-
-https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
-https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
-
-http://diana-adrianne.com/purecss-francine/ | Francine
-https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
-
-Single Div
-https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on Twitter: "If you ever think you're good at CSS, check out this website. These designs are all done with a single &lt;div&gt; element. It's insane! https://t.co/tleibWDJys" / Twitter
-https://a.singlediv.com/ | A Single Div
-
-
-https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 -->
 
+## Recommended
+
+Recommended by Addy Osmani and Eric Elliot
+* [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net), [Eloquent JavaScript PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf), and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
+* [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+* [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
+* [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+* [Nicholas Zakas: Writing Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
+
+<!--
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+
+https://frontendmasters.com/assets/resources/willsentance/js-the-hard-parts.pdf | js-the-hard-parts.pdf
+https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf | new-hard-parts-slides.pdf
+
+https://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=as_li_ss_tl | High Performance JavaScript: Build Faster Web Application Interfaces: Nicholas C. Zakas: 9780596802790: Amazon.com: Books
+-->
+
+<!--
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+
+Programming JavaScript Applications
+by Eric Elliott
+https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
+
+Eric Elliott
+https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
+
+https://ericelliottjs.com/premium-content | Premium Courses
+
+https://gist.github.com/rosario/3e398b4b587d9ab3ae3d6894d7226143 | Eric Elliott's Composing Software Series
+
+Important
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+https://devhub.io/repos/ericelliott-essential-javascript-links
+https://gist.github.com/ericelliott/d576f72441fc1b27dace
+https://github.com/rsperberg/essential-javascript-links
+https://github.com/LewisJEllis/essential-javascript-links
+
+https://devanywhere.io/ | DevAnywhere
+-->
 
 <!--
 https://medium.com/javascript-scene
@@ -127,177 +161,6 @@ https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3
 https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8
 -->
 
-<!--
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
-
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
-
-Deno
-https://twitter.com/simonw/status/1266861106674294784
-https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
-https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
-
-https://expressjs.com/
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-node
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-Airbnb- isomorphic
-https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
-https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
-https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
-https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
-
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-https://github.com/jsdom/jsdom
-https://github.com/ruyadorno/ipt
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-https://medium.com/the-node-js-collection
-https://blog.risingstack.com
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
-
-Node
-* [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
-
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
-* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
-
-https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
-
-* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
-* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-
-https://github.com/azat-co/practicalnode
-https://github.com/sqreen/awesome-nodejs-projects
-https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
--->
-
-<!--
-Cheat Sheets and Stuff
-
-https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
-
-JS Recommendations
-https://twitter.com/jkup/status/1217849585219010560
-
-100 Days of Code
-https://twitter.com/js_tut/status/1224057215092477952
-
-https://github.com/jgthms/javascript-in-14-minutes
-
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
-
-https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
-
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
-
-https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
-
-Testing
-https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
-
-https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
-https://github.com/advanced-js/syllabus#course-outline | advanced-js/syllabus: syllabus for the Advanced JavaScript class at NYU
--->
-
-## Jargon, Algorithms, and Patterns
-
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-JavaScript Algos
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
-
-Important
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-
-https://github.com/palashmon/awesome-js-posts
-https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
--->
-
-## Recommended
-
-Recommended by Addy Osmani and Eric Elliot
-* [Marijn Haverbeke: Eloquent JavaScript](http://eloquentjavascript.net), [Eloquent JavaScript PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf), and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-* [Douglas Crockford: JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-* [David Flanagan: JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
-* [Kyle Simpson: You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS) and [Kyle Simpson: Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-* [Nicholas Zakas: Writing Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680)
-
-<!--
-http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
-
-https://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=as_li_ss_tl | High Performance JavaScript: Build Faster Web Application Interfaces: Nicholas C. Zakas: 9780596802790: Amazon.com: Books
-
-Programming JavaScript Applications
-by Eric Elliott
-https://web.archive.org/web/20180128084038/http://chimera.labs.oreilly.com/books/1234000000262/index.html
--->
-
-<!--
-https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
--->
-
-<!--
-Eric Elliott
-https://leanpub.com/composingsoftware | Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]
-
-https://ericelliottjs.com/premium-content | Premium Courses
-
-https://gist.github.com/rosario/3e398b4b587d9ab3ae3d6894d7226143 | Eric Elliott's Composing Software Series
-
-Important
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-https://devhub.io/repos/ericelliott-essential-javascript-links
-https://gist.github.com/ericelliott/d576f72441fc1b27dace
-https://github.com/rsperberg/essential-javascript-links
-https://github.com/LewisJEllis/essential-javascript-links
-
-https://devanywhere.io/ | DevAnywhere
--->
-
 ## JavaScript People
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
@@ -319,11 +182,14 @@ JavaScript- People
 * [Tyler McGinnis](https://tylermcginnis.com)
 
 <!--
+Evan You
+https://github.com/yyx990803?tab=repositories
+https://twitter.com/youyuxi
+
 Feross
 https://github.com/feross
 
 vue.js
-https://twitter.com/youyuxi
 
 https://flaviocopes.com
 https://medium.com/@js_tut | JavaScript Teacher – Medium
@@ -366,6 +232,8 @@ Brian Holt React Courses
 <!--
 https://web.dev/react
 https://web.dev/angular
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started | Getting started with React - Learn web development | MDN
 
 https://reactjs.org/docs/composition-vs-inheritance.html | Composition vs Inheritance - React
 
