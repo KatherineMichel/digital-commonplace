@@ -468,6 +468,7 @@ https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | A
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
+
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1052,8 +1053,6 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
-## Tools
-
 <!--
 Examples
 https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
@@ -1063,14 +1062,15 @@ https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
 
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
 Paint
 https://github.com/muan
 https://github.com/muan/paint-github
 https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
-
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
 -->
+
 
 <!--
 Netlify
@@ -1097,8 +1097,109 @@ https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twit
 -->
 
 
+
+## Browser Object Model (BOM) and Document Object Model (DOM)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+## ECMA
+
 <!--
-https://web.dev/ | web.dev  |  web.dev
+http://www.ecma-international.org/ecma-262
+-->
+
+## ECMAScript, JavaScript Standards
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+Node: CommonJS
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+<!--
+https://nodejs.org/en/docs/es6
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
+-->
+
+## Types of JavaScript
+
+<!--
+es6 javascript features
+
+JavaScript
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+
+
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+https://github.com/mjavascript/practical-es6
+
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
+-->
+
+## Standards
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript
+* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
+* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
+
+Node
+* [Node.js GitHub](https://github.com/nodejs)
+
+The Chromium Projects
+* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
+
+<!--
+https://github.com/tc39/proposals
+https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
 
 
 https://v8.dev/docs
@@ -1111,10 +1212,19 @@ https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/render
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 https://html.spec.whatwg.org/multipage/
 https://en.wikipedia.org/wiki/HTTP/3
+-->
+
+
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
 
 
 https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 
 Deno
 https://github.com/ry
@@ -1122,14 +1232,21 @@ https://github.com/denoland/deno
 https://deno.land/std
 https://deno.land/x
 
-Deno
-https://twitter.com/simonw/status/1266861106674294784
-https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
-https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
-
 https://expressjs.com/
 
+https://nodejs.org/en/ | #BlackLivesMatter
+https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
+
+https://nodejs.org/en/blog/release/v14.6.0/ | Node v14.6.0 (Current) | Node.js
+https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
+
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+
+Node
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
 
 node
 https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
@@ -1154,54 +1271,16 @@ https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
 https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-https://medium.com/the-node-js-collection
-https://blog.risingstack.com
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
-
-Node
-* [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
-
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
-* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
-
-https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
-
-* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
-* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-
-https://github.com/azat-co/practicalnode
-https://github.com/sqreen/awesome-nodejs-projects
-https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
 -->
 
-<!--
-Cheat Sheets and Stuff
-
-JS Recommendations
-https://twitter.com/jkup/status/1217849585219010560
-
-100 Days of Code
-https://twitter.com/js_tut/status/1224057215092477952
-
-https://github.com/jgthms/javascript-in-14-minutes
-
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
-
-https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
-
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
-
-https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
-
-Testing
-https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
+<!-- 
+npm
+https://www.youtube.com/watch?v=468tirG434E
+https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
+https://blog.npmjs.org/ | The npm Blog
+https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
+https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
 -->
-
 
 ## Jargon, Algorithms, and Patterns
 
@@ -1236,6 +1315,48 @@ https://en.wikipedia.org/wiki/Finite-state_machine
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 
 https://github.com/palashmon/awesome-js-posts
+-->
+
+<!--
+Cheat Sheets and Stuff
+
+https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
+
+* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
+* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
+
+https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In DevTools (Chrome 84)  |  Web  |  Google Developers
+
+* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
+* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
+
+https://github.com/sqreen/awesome-nodejs-projects
+
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
+https://github.com/azat-co/practicalnode
+https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
+
+JS Recommendations
+https://twitter.com/jkup/status/1217849585219010560
+
+100 Days of Code
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://github.com/jgthms/javascript-in-14-minutes
+
+  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
+
+https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
+https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
+
+Testing
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
 -->
 
 ## Traffic
@@ -1276,21 +1397,31 @@ https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
 -->
 
-## Node
+
+## JavaScript Community
 
 <!--
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+
+
+
 * [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
 * [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In DevTools (Chrome 84)  |  Web  |  Google Developers
+node as Example
+https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
+
+JS/Deno OS Management
+https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
+https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
 
 Node
 https://twitter.com/bitandbang | Tierney Cyren (@bitandbang) / Twitter
 https://dev.to/bnb/start-contributing-to-nodejs-in-the-new-year-3dlh | Start Contributing to Node.js in the New Year - DEV
 
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+* [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
 
 node.js Release Schedule
 https://github.blog/2020-04-15-npm-has-joined-github/ | npm has joined GitHub - The GitHub Blog
@@ -1299,59 +1430,6 @@ https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more | The np
 https://nodejs.org/en/about/releases/
 https://nodejs.org/en/about/working-groups/
 https://github.com/nodejs/Release
-
-node as Example
-https://twitter.com/simona_cotin/status/968419418035376128 | Simona Cotin on Twitter: "I LOVE how friendly the @nodejs project is to new contributors. Look at those labels 'good first issue', 'mentor-available' 😍… https://t.co/nDSKNlDRYI"
-
-JS/Deno OS Management
-https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi | A Guide for Contributing to Any Open Source JavaScript Project Ever 💛 - DEV
-https://dev.to/ajcwebdev/deno-internal-organization-10mj | deno internal organization - DEV
--->
-
-<!-- 
-es6 javascript features
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-JavaScript
-https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
-
-
-npm
-https://www.youtube.com/watch?v=468tirG434E
-https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
-https://blog.npmjs.org/ | The npm Blog
-https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
-https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
-
-https://nodejs.org/en/ | #BlackLivesMatter
-https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
-
-https://nodejs.org/en/blog/release/v14.6.0/ | Node v14.6.0 (Current) | Node.js
-https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
-
-Node
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
-
-
-https://twitter.com/gauravssnl/status/1260477661878632449
-https://jaxenter.com/deno-interview-ryan-dahl-171425.html
-https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
-https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
-
-https://github.com/denoland/deno/pull/5273
-
-Deno
-https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
-https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
-https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
 -->
 
 
