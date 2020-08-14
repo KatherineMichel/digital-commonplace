@@ -172,6 +172,8 @@ https://github.com/KatherineMichel/setting-up-an-open-source-project
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 
+https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
+
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 
 https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
@@ -704,6 +706,7 @@ Product Hunt Product Leader Boards
 https://github.com/trending/developers
 
 https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hn.algolia.com/?q=ask+hn
 https://hndex.org/
 
 https://glitch.com/@python | Python
