@@ -8,6 +8,28 @@ https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 
+https://medium.com/the-node-js-collection
+https://blog.risingstack.com
+
+
+Deno
+https://twitter.com/simonw/status/1266861106674294784
+https://www.youtube.com/watch?v=OktBhNexnhY&feature=emb_logo | Deno Express Tutorial - YouTube
+https://twitter.com/nthonyChu/status/1266223868991041538 | Anthony Chu on Twitter: "Want to deploy @deno_land to @Azure App Service? Check out my new GitHub Action! 🦕 Works on any Linux web app including Free Tier! https://t.co/O3l4tXUsY8" / Twitter
+
+https://twitter.com/gauravssnl/status/1260477661878632449
+https://jaxenter.com/deno-interview-ryan-dahl-171425.html
+https://medium.com/lean-mind/deno-node-js-killer-718c8969770b
+https://dev.to/codestackr/deno-node-js-killer-introduction-demo-ryan-dahl-3cdl
+
+https://github.com/denoland/deno/pull/5273
+
+Deno
+https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
+https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
+https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
+
+
 Eric
 https://twitter.com/_ericelliott/status/860645463674028032 | Eric Elliott on Twitter: "There are 2 categories of programmers & you need both on your team: 1 senior mentors/architects/guides 2 feature-focused devs"
 ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twitter: "Most effective ways to reduce bugs: 1 Code review 2 TDD 3 Spec/design review 4 Pair programming 5 Manual (human) testing #code #tdd"
