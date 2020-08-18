@@ -191,6 +191,8 @@ https://twitter.com/boldceo/status/1293720701866782720
 
 https://twitter.com/bryanl/status/1295389406866677760
 
+https://twitter.com/hunterwalk/status/1294699190585454592
+
 https://en.wikipedia.org/wiki/Vlog
 
 https://github.com/search?q=project
@@ -204,20 +206,27 @@ https://github.com/search?l=Python&q=boilerplate&type=Repositories
 
 https://en.wikipedia.org/wiki/Decomposition
 
+https://tom.preston-werner.com/2009/05/19/the-git-parable.html
 https://opensource.microsoft.com/program/#program-contributing
 https://github.com/github/rest-api-description
 https://data-apis.org/blog/announcing_the_consortium/
 https://www.techrepublic.com/article/the-linux-foundation-announces-collective-to-enhance-open-source-software-security/
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
+https://github.com/chrispiech/codeInternational
+
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+https://docs.python.org/2.5/whatsnew/pep-343.html
 https://www.blog.pythonlibrary.org/2020/07/15/python-101-creating-multiple-processes/
 https://addyosmani.com/largescalejavascript/
 
 https://docs.github.com/en/actions/reference/events-that-trigger-workflows#status
 
+https://github.com/JessicaGarson/APIs
+
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html
 https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
+https://github.com/twitter/twemoji
 
 https://www.oreilly.com/radar/the-least-liked-programming-languages/
 Go
@@ -254,11 +263,14 @@ https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 https://twitter.com/karpathy/status/1295410274095095810
 https://github.com/karpathy/minGPT
 https://twitter.com/benhamner/status/1295122190170431489
+https://twitter.com/jsngr
+https://twitter.com/jack/status/1294765289255706624
 https://twitter.com/risingodegua/status/1293540790422196224
 https://github.com/openai/evolution-strategies-starter
 https://www.artbreeder.com/
 
 
+https://roadmap.sh/
 
 https://www.ces.tech/
 https://www.webbyawards.com/
@@ -295,6 +307,8 @@ https://2020.pycon.org.au/news/2020-08-12-program-and-registration/
 https://2020.pycon.org.au/program/fri/
 https://2020.pycon.org.au/program/73uk8x/
 https://blog.europython.eu/post/626322517228961792/europython-2020-live-stream-recordings-available
+https://pretix.eu/pyconau/online2020/
+https://davebsoft.com/teaching/2020/08/15/pybay.html
 
 https://github.com/nextjs-starters/nextjs-starters
 https://twitter.com/di_codes/status/1295793468762136576
