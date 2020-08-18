@@ -15,6 +15,10 @@ https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avo
 
 https://twitter.com/smc90/status/1100627121116856320 | Sonal Chokshi on Twitter: "such a good heuristic! https://t.co/iC2QtztbYQ"
 
+https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
+
+https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
+
 https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
@@ -153,102 +157,6 @@ https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
 
 
-https://github.com/KatherineMichel/100-days-of-code
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
-
-
-https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
-
-https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
-
-Repo
-https://github.com/KatherineMichel/setting-up-an-open-source-project
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-
-https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
-
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
-
-https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-
-
-https://stateofjs.com/
-
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
-
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-https://blog.golang.org/go-brand | Go's New Brand - The Go Blog
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
-
-Hacking
-https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
-https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-
-https://home.cern/topics/birth-web | The birth of the web | CERN
-
-Linux Performance Observability Tools
-https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-
-
-https://en.wikipedia.org/wiki/Release_engineering | Release engineering - Wikipedia
-
-Pinax
-https://docs.github.com/en/actions/configuring-and-managing-workflows/sharing-workflow-templates-within-your-organization | Sharing workflow templates within your organization - GitHub Docs
-https://github.blog/2020-06-22-promote-consistency-across-your-organization-with-workflow-templates/ | Promote consistency across your organization with workflow templates - The GitHub Blog
-
-Inspired Pinax
-https://ubuntu.com/about/release-cycle | Ubuntu release cycle | Ubuntu
-https://github.com/bcoe/release-please-action | bcoe/release-please-action: automated releases based on conventional commits
-
-Distro
-http://distrowatch.com/table.php?distribution=ubuntu
-https://en.wikipedia.org/wiki/Linux_distribution
-
-Casey
-https://twitter.com/cfactoid/status/1258885399277076481 | Casey Faist on Twitter: "To celebrate my time @heroku, my friends and family are (remotely) watching my last project with me - the Heroku PyCon Workshop. Its an intro to deploying Django, and for a brief moment, I'm a wizard. Check out my talk or another amazing #PyCon2020 talk: https://t.co/l33Q3EnLMy" / Twitter
-
-Awesome- Pinax
-Release
-https://github.com/microsoft/terminal/blob/master/doc/terminal-v2-roadmap.md | terminal/terminal-v2-roadmap.md at master · microsoft/terminal
-
-https://github.com/tox-dev/action
-
 SemVer
 https://twitter.com/ncoghlan_dev/status/882576856938987521
 https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
@@ -261,32 +169,78 @@ https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz 
 release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
 
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
 https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
 https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
 
 
-Sphinx to Markdown
-https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+https://github.com/KatherineMichel/100-days-of-code
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
 
-Read the Docs
-https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
-https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+Repo
+https://github.com/KatherineMichel/setting-up-an-open-source-project
 
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
-
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
 
 
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
+https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
+https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
+
+!!!!!
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://devchecklists.com
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+
+GitHub and Twitter Roadmaps
+https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
+https://github.com/github/roadmap
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+
+Twitter language
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
+
+Twitter
+Site case study
+https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
+
+
+https://home.cern/topics/birth-web | The birth of the web | CERN
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
+
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 
 
 Python Features
@@ -311,6 +265,9 @@ https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentele
 https://github.com/phildini/api-driven-django
 https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
 
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://realpython.com/courses/inheritance-composition-python/
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
@@ -337,25 +294,117 @@ har http timing
 https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
 
 
+https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
 
-GitHub and Twitter Roadmaps
-https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
-https://github.com/github/roadmap
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+https://arxiv.org/abs/1709.02840
+https://arxiv.org/pdf/1709.02840.pdf
 
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+Arxiv
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
-Twitter language
-https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
-https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
-Twitter
-Site case study
-https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
+https://lyrebird.ai/demo | Demo - Lyrebird
 
+https://beta.openai.com/ | OpenAI API
+
+GPT-3
+https://openai.com/blog/openai-api/ | OpenAI API
+https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
+
+
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
+
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/zedr/clean-code-python
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+
+Driven
+http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+
+Sphinx to Markdown
+https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+
+Read the Docs
+https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
+https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
+
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
+
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+
+Hacking
+https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
+https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
+
+
+https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
 
 http://www.collaborativefund.com/blog
 
@@ -408,93 +457,6 @@ https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 
 Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
-
-
-https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
-
-https://arxiv.org/abs/1709.02840
-https://arxiv.org/pdf/1709.02840.pdf
-
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-https://lyrebird.ai/demo | Demo - Lyrebird
-
-https://beta.openai.com/ | OpenAI API
-
-GPT-3
-https://openai.com/blog/openai-api/ | OpenAI API
-https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
-
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
-
-
-https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
-https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
-
-!!!!!
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://devchecklists.com
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-
-https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
-
-https://twitter.com/di_codes/status/1065115520570195968 | Dustin Ingram on Twitter: "This is ridiculously cool: Terrarium (https://t.co/oUTC9UL8PJ) lets you write a C, TypeScript or Rust app via an in-browser editor, compile it to WebAssembly, and deploy it to the edge in seconds. Includes static assets, a key-value store, ability to make HTTP/DNS requests, etc."
-
-https://firebase.google.com/
-
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-
-https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
-
-https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-Driven
-http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
 -->
 
 
@@ -633,6 +595,36 @@ https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter:
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+-->
+
+## Learning
+
+<!--
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+Excellent
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+
+Think like a programmer
+https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
+https://en.wikipedia.org/wiki/Pseudocode
+
+https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 -->
 
 ## Trends
@@ -843,36 +835,6 @@ Built With
 https://github.com/sqreen/awesome-nodejs-projects
 
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
-## Learning
-
-<!--
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
-Learning to Code
-https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-Excellent
-https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
-
-Cassidy
-https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
-
-https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
-
-Think like a programmer
-https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
-https://en.wikipedia.org/wiki/Pseudocode
-
-https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 -->
 
 
