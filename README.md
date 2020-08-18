@@ -185,17 +185,26 @@ https://github.com/KatherineMichel/setting-up-an-open-source-project
 ## GitHub and VS Code Integration
 
 
+https://github.com/trending/developers
+
+https://twitter.com/dantley/status/1293906133757747213
+
 https://twitter.com/paltman/status/1294377388084727808
 https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
 https://ben.balter.com/2020/08/14/tools-of-the-trade/
 https://github.com/tiagoarasilva?tab=repositories
 https://github.com/pinax/pinax-eventlog/issues/32
 https://github.com/pinax/pinax-project-symposion/tree/master/project_name/templates
+https://github.com/wagtail/wagtail
 
 https://github.com/laymonage/django-jsonfield-backport
 https://docs.djangoproject.com/en/3.1/releases/3.1/#jsonfield-for-all-supported-database-backends
 
+https://github.com/mfonism/daniel-curtis
+
 https://isoflow.io/
+
+https://twitter.com/lennysan/status/1293648872590331905
 
 https://twitter.com/juliaferraioli/status/1295488155500474368
 
@@ -236,10 +245,16 @@ https://github.com/search?p=96&q=hacker+news+clone&type=Code
 https://github.com/vuejs/vue-hackernews-2.0
 https://github.com/nuxt/hackernews
 https://github.com/techreagan/youtube-clone-nodejs-api
+https://github.com/techreagan/vue-nodejs-youtube-clone
+https://github.com/python-telegram-bot/python-telegram-bot
 
 https://en.wikipedia.org/wiki/Decomposition
 
+https://github.com/joelparkerhenderson/architecture_decision_record
+
 https://tom.preston-werner.com/2009/05/19/the-git-parable.html
+https://github.com/forcedotcom/oss-template
+https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
 https://github.com/github/rest-api-description
 https://data-apis.org/blog/announcing_the_consortium/
@@ -249,13 +264,22 @@ https://github.com/apache/infrastructure-website
 
 https://github.com/chrispiech/codeInternational
 https://dl.acm.org/doi/10.1145/3386527.3405915
+https://twitter.com/BenjiXie/status/1293966654733299712
+
+https://twitter.com/djangoproject/status/1293988923283247111
+https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
 
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+https://github.com/markshannon/pep622-critique
 https://lwn.net/Articles/827179/
 https://docs.python.org/2.5/whatsnew/pep-343.html
 https://github.com/google/pytype
 https://www.blog.pythonlibrary.org/2020/07/15/python-101-creating-multiple-processes/
 https://github.com/cruft/cruft
+
+https://github.com/scrapy/scrapy
+
+https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
 
 https://addyosmani.com/largescalejavascript/
 
@@ -263,10 +287,12 @@ https://docs.github.com/en/actions/reference/events-that-trigger-workflows#statu
 
 https://github.com/JessicaGarson/APIs
 
+https://github.com/twitterdev/real-time-tweet-streamer
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html
 https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
 https://github.com/twitter/twemoji
 
+https://blog.npmjs.org/post/626173315965468672/npm-v7-series-beta-release-and-semver-major
 https://nim-lang.org/
 https://www.oreilly.com/radar/the-least-liked-programming-languages/
 Go
@@ -284,6 +310,9 @@ https://github.com/coding-ai/eyeBlinkedTREX
 
 https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
 
+https://blog.ycombinator.com/announcing-yc-build-sprint-and-20-equity-free-grants/
+
+https://github.com/actions/upload-artifact
 https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
 https://github.com/bdougie/take-action
 https://twitter.com/pawelgrzybek/status/1295128385937715201
@@ -295,6 +324,8 @@ https://github.com/sixfeetup/cookiecutter-sixiedjango
 https://github.com/wsvincent/djangox
 https://github.com/DrkSephy/django-hackathon-starter
 https://github.com/fasouto/django-starter-template
+https://github.com/mozilla/flask-elasticsearch-skeleton
+
 https://netflixtechblog.com/computational-causal-inference-at-netflix-293591691c62
 
 https://twitter.com/llanga/status/1294314763489611779
@@ -321,16 +352,18 @@ https://twitter.com/risingodegua/status/1293540790422196224
 https://github.com/openai/evolution-strategies-starter
 https://www.artbreeder.com/
 http://nlp.seas.harvard.edu/NamedTensor
+https://deepai.org/machine-learning-glossary-and-terms/deep-learning
 
 https://exercism.io/
 https://github.com/yuanguangxin/LeetCode
 https://github.com/labuladong/fucking-algorithm
 
-https://github.com/techreagan/vue-nodejs-youtube-clone
-https://github.com/techreagan/youtube-clone-nodejs-api
 
+
+https://github.com/OWASP/API-Security
 
 https://hndex.ml/
+https://hndex.org/
 
 https://roadmap.sh/
 
@@ -383,12 +416,15 @@ https://madewithreactjs.com/
 https://madewithreact.com/
 https://vuejsexpo.com/
 
+https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 https://github.com/microsoft/playwright-python
 https://github.com/nextjs-starters/nextjs-starters
 https://github.com/storybookjs/storybook
 https://twitter.com/di_codes/status/1295793468762136576
 https://twitter.com/dan_abramov/status/1295667530800025600
 https://realpython.com/python-web-scraping-practical-introduction/
+
+https://portal.mozz.us/gemini/ebc.li/posts/open-standards-are-simple.gmi
 
 
 https://stackshare.io/twitter/twitter
