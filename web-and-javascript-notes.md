@@ -8,6 +8,13 @@ https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 
+Airbnb- isomorphic
+https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
+https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
+https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
+https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+
+
 https://medium.com/the-node-js-collection
 https://blog.risingstack.com
 
