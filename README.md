@@ -189,23 +189,57 @@ https://twitter.com/polotek/status/1294150617389121536
 
 https://twitter.com/boldceo/status/1293720701866782720
 
+https://twitter.com/bryanl/status/1295389406866677760
+
 https://en.wikipedia.org/wiki/Vlog
 
+https://github.com/search?q=project
+https://github.com/search?q=example
+https://github.com/search?q=sample
+https://github.com/search?q=demo
 https://github.com/search?l=JavaScript&o=desc&q=starter&s=stars&type=Repositories
+https://github.com/search?l=JavaScript&q=boilerplate&type=Repositories
 https://github.com/search?l=Python&p=6&q=starter&type=Repositories
+https://github.com/search?l=Python&q=boilerplate&type=Repositories
+
+https://en.wikipedia.org/wiki/Decomposition
+
+https://opensource.microsoft.com/program/#program-contributing
+https://github.com/github/rest-api-description
+https://data-apis.org/blog/announcing_the_consortium/
+https://www.techrepublic.com/article/the-linux-foundation-announces-collective-to-enhance-open-source-software-security/
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 https://www.blog.pythonlibrary.org/2020/07/15/python-101-creating-multiple-processes/
 https://addyosmani.com/largescalejavascript/
 
+https://docs.github.com/en/actions/reference/events-that-trigger-workflows#status
+
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html
+https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
+
+https://www.oreilly.com/radar/the-least-liked-programming-languages/
+Go
+https://blog.golang.org/go1.15
+https://twitter.com/kelseyhightower/status/1293562038610874368
+
 https://github.com/charliegerard
 https://github.com/charliegerard/safe-space/
 https://charliegerard.dev/blog/github-action-toxic-comments/
 https://github.com/charliegerard/safe-space/blob/master/index.js
+https://twitter.com/aicoding_/status/1295011129836568577
+https://github.com/coding-ai/eyeBlinkedTREX
 
+https://js13kgames.com/
+
+https://spookylukey.github.io/django-views-the-right-way/
+
+https://github.com/sixfeetup/cookiecutter-sixiedjango
 https://github.com/wsvincent/djangox
 https://github.com/DrkSephy/django-hackathon-starter
 https://github.com/fasouto/django-starter-template
+https://netflixtechblog.com/computational-causal-inference-at-netflix-293591691c62
 
 https://twitter.com/llanga/status/1294314763489611779
 https://twitter.com/llanga/status/219835329497153536
@@ -219,8 +253,11 @@ https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
 https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 https://twitter.com/karpathy/status/1295410274095095810
 https://github.com/karpathy/minGPT
+https://twitter.com/benhamner/status/1295122190170431489
 https://twitter.com/risingodegua/status/1293540790422196224
 https://github.com/openai/evolution-strategies-starter
+https://www.artbreeder.com/
+
 
 
 https://www.ces.tech/
@@ -243,6 +280,7 @@ https://2020.pycascades.com/schedule/
 https://na.pycon.org/programme/
 http://2020.pytennessee.org/schedule
 https://www.scipy2020.scipy.org/schedule
+https://pybay.com/program/
 https://github.com/pybay
 https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw
 https://www.youtube.com/c/SFPython/videos
@@ -256,6 +294,31 @@ https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ
 https://2020.pycon.org.au/news/2020-08-12-program-and-registration/
 https://2020.pycon.org.au/program/fri/
 https://2020.pycon.org.au/program/73uk8x/
+https://blog.europython.eu/post/626322517228961792/europython-2020-live-stream-recordings-available
+
+https://github.com/nextjs-starters/nextjs-starters
+https://twitter.com/di_codes/status/1295793468762136576
+https://twitter.com/dan_abramov/status/1295667530800025600
+
+https://github.com/rossp/djangosites.org
+https://www.djangosites.org/s/www-eventbrite-com/
+https://reactnative.dev/docs/getting-started
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+https://stackshare.io/vue-native
+https://madewithreactnative.com/
+https://madewithreactjs.com/
+https://madewithreact.com/
+https://vuejsexpo.com/
+
+
+https://stackshare.io/twitter/twitter
+
+https://css-tricks.com/chapter-2-browsers/
+
+Twitter sentiment analysis
+https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
+
+https://www.youtube.com/watch?v=NYaj-CDSqzI
 
 https://generative-art-with-css.commons.host/
 
@@ -279,15 +342,8 @@ https://old.reddit.com/r/learnpython/comments/i4o6vn/what_tasks_are_usually_assi
 TIL
 https://news.ycombinator.com/item?id=22920437
 
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html
-https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
-
 https://twitter.com/simonw/status/1293624443843956736
-
-https://www.oreilly.com/radar/the-least-liked-programming-languages/
-Go
-https://blog.golang.org/go1.15
-https://twitter.com/kelseyhightower/status/1293562038610874368
+https://noumenal.es/posts/weeknotes-2020-wk38/0z/
 
 https://twitter.com/sarah_edo/status/1293541168676892672
 
