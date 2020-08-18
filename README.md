@@ -93,8 +93,9 @@ PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
 
-https://pybay.com/ | PyBay2020
-https://africa.pycon.org/speakers/ | Speakers | PyCon Africa 2020
+https://2020.pycascades.com/schedule/
+https://pybay.com/program/
+https://africa.pycon.org/schedule/
 https://ep2020.europython.eu/
 https://2020.pyconuk.org/ | PyCon UK 2020
 https://2020.pycon.org.au/
@@ -133,6 +134,13 @@ https://opensource.org/StateOfTheSource | State of the Source Summit | Open Sour
 
 https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
 
+https://www.ces.tech/
+https://www.webbyawards.com/
+
+https://www.devrelcon.net/
+https://2018.devrelawards.com/
+https://twitter.com/DevRelAwards
+
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
@@ -140,12 +148,17 @@ Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
+Screenflow
+https://twitter.com/juliaferraioli/status/1295488155500474368
+
 Record a Video
 https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
 https://support.apple.com/en-us/HT208721
 https://github.com/HandBrake | HandBrake
 https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
 https://obsproject.com/ | Open Broadcaster Software | OBS
+
+https://en.wikipedia.org/wiki/Vlog
 
 Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
@@ -155,6 +168,32 @@ http://gifmaker.me/
 OSX/Gif
 https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
+
+
+Important
+https://twitter.com/hunterwalk/status/1294699190585454592
+https://twitter.com/polotek/status/1294150617389121536
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
+https://twitter.com/natfriedman/following
+https://twitter.com/i/lists/1294427753782140928
+https://twitter.com/TwitterEng/lists/memberships
+https://twitter.com/i/lists/1287873548971778048
+https://twitter.com/i/lists/1041844109479034880
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
+
 
 
 SemVer
@@ -312,6 +351,16 @@ https://beta.openai.com/ | OpenAI API
 GPT-3
 https://openai.com/blog/openai-api/ | OpenAI API
 https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
+https://twitter.com/karpathy/status/1295410274095095810
+https://github.com/karpathy/minGPT
+
+https://github.com/fastai/fastbook
+https://twitter.com/jeremyphoward/status/1293698425645498369
+
+https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 
 
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
@@ -401,16 +450,6 @@ https://twitter.com/changelog/status/1276514876228284417
 
 http://www.collaborativefund.com/blog
 
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
-
 https://vimeo.com/298147468 | Building Product in the age of Distrust by Ryan Freitas on Vimeo
 
 Product
@@ -429,6 +468,7 @@ https://en.wikipedia.org/wiki/Kathy_Sierra | Kathy Sierra - Wikipedia
 https://headrush.typepad.com/creating_passionate_users/2005/05/users_dont_care.html | Creating Passionate Users: Users don't care if you are the best.
 
 https://twitter.com/thisiskp_/status/1292793344272236545 | KP on Twitter: "Most founders struggle with how to acquire their first 100 beta sign ups for a new idea. I’ve done it for 2 products in the last few months (one has 1500+ beta sign ups and the other has 500+) without even going on @ProductHunt Here’s how I did it: 👇🏽 (a thread) 🧵" / Twitter
+https://twitter.com/lennysan/status/1293648872590331905
 
 Product
 https://twitter.com/patrickc/status/514620429244190720 | Patrick Collison on Twitter: "The most influential thing I've read over the last year on the subject of product design: http://t.co/reomEbasNq" / Twitter
@@ -667,6 +707,8 @@ Python
 * [Pythonic News](https://news.python.sc/)
 
 <!--
+https://github.com/trending/developers
+
 https://www.infoq.com/
 
 https://substack.com/discover | Substack
@@ -798,6 +840,7 @@ https://twitter.com/MishManners/status/1240839777437364224
 https://twitter.com/MishManners/status/1239360667703885825
 https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
 
+https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 -->
@@ -1020,15 +1063,23 @@ https://code.visualstudio.com/api/extension-capabilities/theming
 
 https://thoughtbot.com/blog/how-to-make-a-chrome-extension
 https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+-->
+
+
+<!--
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://twitter.com/aicoding_/status/1295011129836568577
+https://github.com/coding-ai/eyeBlinkedTREX
 
 Paint
 https://github.com/muan
 https://github.com/muan/paint-github
 https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
--->
 
-
-<!--
 Netlify
 https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
@@ -1116,22 +1167,13 @@ http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 http://www.ecma-international.org/publications/standards/Ecma-402.htm
 -->
 
-
-<!--
-https://web.dev/ | web.dev  |  web.dev
-
-
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
+<!-- 
+npm
+https://www.youtube.com/watch?v=468tirG434E
+https://blog.npmjs.org/ | The npm Blog
+https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
+https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
+https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
 
 https://expressjs.com/
 
@@ -1141,24 +1183,30 @@ https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
 https://nodejs.org/en/blog/release/v14.6.0/ | Node v14.6.0 (Current) | Node.js
 https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
 
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+-->
+
+<!--
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+Node Tutorials
 
-Node
 https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
 
-node
 https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+-->
 
-Airbnb- isomorphic
-https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
-https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
-https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
-https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
+<!--
+Node Docs
 
 HTTP, API, DOM
 https://expressjs.com/en/api.html
@@ -1174,13 +1222,15 @@ https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocki
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
 -->
 
-<!-- 
-npm
-https://www.youtube.com/watch?v=468tirG434E
-https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
-https://blog.npmjs.org/ | The npm Blog
-https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
-https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
+
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
 ## Jargon, Algorithms, and Patterns
@@ -1375,6 +1425,9 @@ https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-d
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
+
+https://github.com/twitterdev/real-time-tweet-streamer
+https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
 
 Twitter API Tutorials
 https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
