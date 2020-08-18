@@ -185,6 +185,20 @@ https://github.com/KatherineMichel/setting-up-an-open-source-project
 ## GitHub and VS Code Integration
 
 
+https://twitter.com/paltman/status/1294377388084727808
+https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
+https://ben.balter.com/2020/08/14/tools-of-the-trade/
+https://github.com/tiagoarasilva?tab=repositories
+https://github.com/pinax/pinax-eventlog/issues/32
+https://github.com/pinax/pinax-project-symposion/tree/master/project_name/templates
+
+https://github.com/laymonage/django-jsonfield-backport
+https://docs.djangoproject.com/en/3.1/releases/3.1/#jsonfield-for-all-supported-database-backends
+
+https://isoflow.io/
+
+https://twitter.com/juliaferraioli/status/1295488155500474368
+
 https://twitter.com/polotek/status/1294150617389121536
 
 https://twitter.com/boldceo/status/1293720701866782720
@@ -193,16 +207,35 @@ https://twitter.com/bryanl/status/1295389406866677760
 
 https://twitter.com/hunterwalk/status/1294699190585454592
 
+Driven
+https://twitter.com/elkevinwolf/status/1294357947255009280
+
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
 https://en.wikipedia.org/wiki/Vlog
+
+https://twitter.com/natfriedman/following
+https://twitter.com/i/lists/1294427753782140928
+https://twitter.com/TwitterEng/lists/memberships
+https://twitter.com/i/lists/1287873548971778048
+https://twitter.com/i/lists/1041844109479034880
 
 https://github.com/search?q=project
 https://github.com/search?q=example
 https://github.com/search?q=sample
 https://github.com/search?q=demo
+https://github.com/search?o=desc&p=5&q=clone&s=stars&type=Repositories
 https://github.com/search?l=JavaScript&o=desc&q=starter&s=stars&type=Repositories
 https://github.com/search?l=JavaScript&q=boilerplate&type=Repositories
 https://github.com/search?l=Python&p=6&q=starter&type=Repositories
 https://github.com/search?l=Python&q=boilerplate&type=Repositories
+https://github.com/search?p=3&q=instagram+clone&type=Repositories
+https://github.com/search?q=slack+clone&type=Repositories
+https://github.com/search?p=96&q=hacker+news+clone&type=Code
+
+https://github.com/vuejs/vue-hackernews-2.0
+https://github.com/nuxt/hackernews
+https://github.com/techreagan/youtube-clone-nodejs-api
 
 https://en.wikipedia.org/wiki/Decomposition
 
@@ -212,12 +245,18 @@ https://github.com/github/rest-api-description
 https://data-apis.org/blog/announcing_the_consortium/
 https://www.techrepublic.com/article/the-linux-foundation-announces-collective-to-enhance-open-source-software-security/
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://github.com/apache/infrastructure-website
 
 https://github.com/chrispiech/codeInternational
+https://dl.acm.org/doi/10.1145/3386527.3405915
 
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+https://lwn.net/Articles/827179/
 https://docs.python.org/2.5/whatsnew/pep-343.html
+https://github.com/google/pytype
 https://www.blog.pythonlibrary.org/2020/07/15/python-101-creating-multiple-processes/
+https://github.com/cruft/cruft
+
 https://addyosmani.com/largescalejavascript/
 
 https://docs.github.com/en/actions/reference/events-that-trigger-workflows#status
@@ -228,10 +267,13 @@ https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitt
 https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
 https://github.com/twitter/twemoji
 
+https://nim-lang.org/
 https://www.oreilly.com/radar/the-least-liked-programming-languages/
 Go
 https://blog.golang.org/go1.15
 https://twitter.com/kelseyhightower/status/1293562038610874368
+https://stitcher.io/blog/new-in-php-8
+https://www.infoq.com/presentations/php-facebook/
 
 https://github.com/charliegerard
 https://github.com/charliegerard/safe-space/
@@ -240,6 +282,11 @@ https://github.com/charliegerard/safe-space/blob/master/index.js
 https://twitter.com/aicoding_/status/1295011129836568577
 https://github.com/coding-ai/eyeBlinkedTREX
 
+https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.com/bdougie/take-action
+https://twitter.com/pawelgrzybek/status/1295128385937715201
 https://js13kgames.com/
 
 https://spookylukey.github.io/django-views-the-right-way/
@@ -254,21 +301,36 @@ https://twitter.com/llanga/status/1294314763489611779
 https://twitter.com/llanga/status/219835329497153536
 https://twitter.com/llanga/status/1294314763489611779
 
+https://github.com/fastai/fastbook
+https://github.com/stanfordnlp/stanza
 https://github.com/machinelearningmindset/deep-learning-roadmap
 https://twitter.com/jeremyphoward/status/1293698425645498369
 https://twitter.com/CoffeyBlog/status/1293527081784139777
+https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
 https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
 https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 https://twitter.com/karpathy/status/1295410274095095810
 https://github.com/karpathy/minGPT
+https://twitter.com/danielgross/status/1294386107837296640
 https://twitter.com/benhamner/status/1295122190170431489
+https://twitter.com/pm/status/1295510877941018624
 https://twitter.com/jsngr
 https://twitter.com/jack/status/1294765289255706624
 https://twitter.com/risingodegua/status/1293540790422196224
 https://github.com/openai/evolution-strategies-starter
 https://www.artbreeder.com/
+http://nlp.seas.harvard.edu/NamedTensor
 
+https://exercism.io/
+https://github.com/yuanguangxin/LeetCode
+https://github.com/labuladong/fucking-algorithm
+
+https://github.com/techreagan/vue-nodejs-youtube-clone
+https://github.com/techreagan/youtube-clone-nodejs-api
+
+
+https://hndex.ml/
 
 https://roadmap.sh/
 
@@ -279,6 +341,7 @@ https://www.devrelcon.net/
 https://2018.devrelawards.com/
 https://twitter.com/DevRelAwards
 
+https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://africa.pycon.org/schedule/
 https://www.pyohio.org/2020/events/schedule/
 https://ep2020.europython.eu/events/
@@ -310,10 +373,6 @@ https://blog.europython.eu/post/626322517228961792/europython-2020-live-stream-r
 https://pretix.eu/pyconau/online2020/
 https://davebsoft.com/teaching/2020/08/15/pybay.html
 
-https://github.com/nextjs-starters/nextjs-starters
-https://twitter.com/di_codes/status/1295793468762136576
-https://twitter.com/dan_abramov/status/1295667530800025600
-
 https://github.com/rossp/djangosites.org
 https://www.djangosites.org/s/www-eventbrite-com/
 https://reactnative.dev/docs/getting-started
@@ -323,6 +382,13 @@ https://madewithreactnative.com/
 https://madewithreactjs.com/
 https://madewithreact.com/
 https://vuejsexpo.com/
+
+https://github.com/microsoft/playwright-python
+https://github.com/nextjs-starters/nextjs-starters
+https://github.com/storybookjs/storybook
+https://twitter.com/di_codes/status/1295793468762136576
+https://twitter.com/dan_abramov/status/1295667530800025600
+https://realpython.com/python-web-scraping-practical-introduction/
 
 
 https://stackshare.io/twitter/twitter
@@ -335,9 +401,6 @@ https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=
 https://www.youtube.com/watch?v=NYaj-CDSqzI
 
 https://generative-art-with-css.commons.host/
-
-https://github.com/yuanguangxin/LeetCode
-https://github.com/labuladong/fucking-algorithm
 
 https://www.freecodecamp.org/news/learn-to-write-cobol-programs-in-vs-code/
 
