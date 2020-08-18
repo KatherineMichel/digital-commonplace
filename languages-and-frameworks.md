@@ -1,6 +1,14 @@
 # Languages and Frameworks
 
 <!--
+https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
+
+https://twitter.com/di_codes/status/1065115520570195968 | Dustin Ingram on Twitter: "This is ridiculously cool: Terrarium (https://t.co/oUTC9UL8PJ) lets you write a C, TypeScript or Rust app via an in-browser editor, compile it to WebAssembly, and deploy it to the edge in seconds. Includes static assets, a key-value store, ability to make HTTP/DNS requests, etc."
+
+https://firebase.google.com/
+
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
 https://emmet.io/ | Emmet — the essential toolkit for web-developers
 
 https://twitter.com/fauna
