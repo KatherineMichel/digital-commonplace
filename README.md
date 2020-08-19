@@ -627,7 +627,6 @@ https://github.com/carljm/dotfiles
 https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
 https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
 
-
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
@@ -654,11 +653,6 @@ https://github.com/DrkSephy/django-hackathon-starter
 https://github.com/cfpb/
 
 
-
-https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
-
-https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
-
 https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
 https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
 
@@ -679,15 +673,15 @@ https://github.com/upday/python-project-template | upday/python-project-template
 
 Django + React/Node
 
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://github.com/fcurella/django-channels-react-redux
 
 https://github.com/divio/react-boilerplate
 https://github.com/divio/node-boilerplate
+
+https://github.com/fcurella/django-channels-react-redux
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
 Django Rest Framework
 
@@ -700,6 +694,10 @@ https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Co
 
 https://twitter.com/nthapen/status/1240936897234513921
 
+
+https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
+
+https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
 
 https://github.com/adamchainz/django-perf-rec
 https://gumroad.com/l/suydt
