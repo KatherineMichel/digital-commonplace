@@ -320,13 +320,16 @@ https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URL
 
 ### Images
 
+<!--
 https://compedu.stanford.edu/codeinplace/v1/#/assignment/images | Assignment
 https://codeinplace2020.github.io/faqs/imageReference.pdf | Microsoft Word - Image Reference.docx
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/reference-image.html
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf | h10_Image_Reference_Guide.pdf
+-->
 
 ### Further Learning
 
+<!--
 Stanford
 Post-Class Resources
 https://us.edstem.org/courses/490/discussion/71967 | Code in Place – Discussion
@@ -343,9 +346,11 @@ Stanford
 https://see.stanford.edu/Course/CS106B/153 | Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 2 - Similarity between C++ & Java: - syntax - variable types - operators - control structures
 http://web.stanford.edu/class/cs106x/ | CS106X Programming Abstractions in C++
 http://web.stanford.edu/class/cs106b/ | CS106B Home
+-->
 
 ### General Info
 
+<!--
 Chris Piech
 https://github.com/chrispiech | chrispiech (Chris Piech)
 http://stanford.edu/~cpiech/bio/index.html | Chris Piech
@@ -373,6 +378,7 @@ https://compedu.stanford.edu/codeinplace/v1/#/handout/submissionInstructions.htm
 https://compedu.stanford.edu/codeinplace/v1/#/submissions | Submissions
 https://compedu.stanford.edu/codeinplace/v1/#/handout/installingPyCharm
 https://compedu.stanford.edu/codeinplace/v1/#/lectures | Lectures
+-->
 
 <!--
 http://web.stanford.edu/class/cs106a/ | CS106A
@@ -385,6 +391,7 @@ https://twitter.com/davidjmalan/status/1258555662688309248 | David J. Malan on T
 
 ### Assignments and Resources
 
+<!--
 https://compedu.stanford.edu/codeinplace/v1/#/example/index.html | Worked Example
 
 Midpoint
@@ -414,6 +421,7 @@ https://codeinplace2020.github.io/faqs/section3-v2.pdf | section3-v2.pdf
 https://codeinplace2020.github.io/faqs/section3-alt.pdf | section3-alt.pdf
 https://codeinplace2020.github.io/faqs/section3.pdf | section3.pdf
 https://codeinplace2020.github.io/faqs/section5.pdf | section5.pdf
+-->
 
 ### Karel
 
