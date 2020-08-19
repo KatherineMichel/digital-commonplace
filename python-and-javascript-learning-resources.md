@@ -3,51 +3,63 @@
 ## Django Organization Tools
 
 <!--
-Python People
-https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
-http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
-https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
 
 Hello Web Design
 https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
 
-https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
-https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
 
 https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
 
-https://gumroad.com/l/suydt | Speed Up Your Django Tests
-adamchainz/time-machine - Google Search
+https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
+https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
 
-code kata - Google Search
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
 
-Codeforces
+Excellent
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+
+Think like a programmer
+https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
+https://en.wikipedia.org/wiki/Pseudocode
+
 
 Python Exercise
 https://store.lerner.co.il/wpe | Weekly Python Exercise
 
-Interviewing
-https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
-https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
-
-https://learncodethehardway.org/more-python/
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
-
-
-https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
-https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
-
-https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
-
-https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
+code kata - Google Search
+Codeforces
 
 https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I've found some coding exercises I submitted when applying for jobs at tech companies. Would you folks be interested in a blog post explaining how I approach such coding challenges and some lessons learned? https://t.co/qzdairdJwH" / Twitter
 
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
 
-https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+Interviewing
+https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
+https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
+
+Reuven Lerner
+https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
+https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
+
+https://gumroad.com/l/suydt | Speed Up Your Django Tests
+adamchainz/time-machine - Google Search
+
+
+
+https://learncodethehardway.org/more-python/
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 -->
 
 <!--
@@ -55,9 +67,6 @@ https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitt
 
 Calvin
 https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
-
-https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
-https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
 
 Aaron
 https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
@@ -142,102 +151,6 @@ https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritpro
 https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
 
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
--->
-
-<!--
-https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
-
-https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
-
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
-https://jazzband.co/ | Jazzband
-https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
-https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
-Django configs- Jazz Band
-https://github.com/jazzband/dj-rest-auth
-
-https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
-
-https://github.com/wemake-services/wemake-python-styleguide
-
-https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
-https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
-wemake-services/dotenv-linter - Google Search
-https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
-
-https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
-
-Django + React/Node
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://github.com/fcurella/django-channels-react-redux
-
-https://github.com/divio/react-boilerplate
-https://github.com/divio/node-boilerplate
-
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-
-Django Rest Framework
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
-
-Feature Flags
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
-
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-
-
-https://github.com/20tab/django-continuous-delivery
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-
-https://twitter.com/jpadilla_/status/1189752115566133248
-
-https://github.com/jpadilla/django-rest-framework-jwt
-https://github.com/jpadilla/django-project-template
-
-https://github.com/adamchainz/django-perf-rec
-
-Cookie Cutter
-https://twitter.com/nthapen/status/1240936897234513921
-https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
-https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
-
-
-Lincoln Loop Stack
-High Performance Django Stack
-
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-model-utils
-
-Jazz Band
-https://twitter.com/jezdez/status/1230635375497969672 | Jannis Leidel on Twitter: "@joshsimmons @vmbrasseur @jazzbandco Yeah, it's been on the slow burner for long, but it's still growing, just passed 600 members and have 43 projects. Need to figure out how to keep it sustainable (read: useful in the long-term). Right now mostly trying to decide which chunk to bite off first." / Twitter
-
-
-https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
-
-https://github.com/lincolnloop/django-alive
-
-https://github.com/jambonsw/django-improved-user
-
-https://github.com/caktus/django-project-template
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
 -->
 
 
