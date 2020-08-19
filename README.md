@@ -812,7 +812,7 @@ https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc05
 https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
 -->
 
-### General Talks
+## General Talks
 
 <!--
 Important talk
@@ -835,6 +835,117 @@ https://www.oddbird.net/talks/set-your-code-free/
 
 https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
+-->
+
+## Companies that Use Python
+
+Companies that Use Python
+* PyCon Slide
+
+High Performance Python- Engineering Blogs
+* [Bloomberg](https://www.techatbloomberg.com/)
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
+## Major Organizations and Projects that Use Python or Django
+
+<!--
+* [23andMe](https://github.com/23andMe) 
+* [Alexa](https://github.com/alexa) 
+* [Amazon Web Services](https://github.com/amazonwebservices)  
+* [Amazon](https://github.com/amzn)
+* [AWS](https://github.com/aws)  
+* [AWS Labs](https://github.com/awslabs)
+* [Apple](https://github.com/apple)
+* [Bloomberg](https://github.com/bloomberg) 
+* [Box](https://github.com/box) 
+* [Britecore](https://github.com/britecore) 
+* [Disney](https://github.com/disney)
+* [Doctor on Demand](https://github.com/doctorondemand)
+* [Dropbox](https://github.com/dropbox) 
+* [Elastic](https://github.com/elastic)
+* [Facebook](https://github.com/facebook)  
+* [Facebook Archive](https://github.com/facebookarchive)  
+* [Facebook Experimental](https://github.com/facebookexperimental)
+* [Facebook Go](https://github.com/facebookgo)
+* [Facebook Incubator](https://github.com/facebookincubator)
+* [Facebook Platform Samples](https://github.com/fbsamples) 
+* [Facebook Research](https://github.com/facebookresearch)
+* [Ford](https://github.com/Ford)
+* [GoDaddy](https://github.com/godaddy)
+
+* [Android](https://github.com/android) 
+* [Google](https://github.com/google)  
+* [Actions on Google](https://github.com/actions-on-google)
+* [Google Ads](https://github.com/googleads)  
+* [Google Chrome](https://github.com/GoogleChrome)  
+* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
+* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
+* [Google Container Tools](https://github.com/GoogleContainerTools)  
+* [Google Creative Lab](https://github.com/googlecreativelab) 
+* [Google Developer Training](https://github.com/google-developer-training) 
+* [Google Drive](https://github.com/googledrive) 
+* [Google Genomics](https://github.com/googlegenomics)  
+* [Google Glass](https://github.com/googleglass)  
+* [Google Knowledge](https://github.com/googleknowledge)  
+* [Google Maps](https://github.com/googlemaps)  
+* [Google Samples](https://github.com/googlesamples) 
+* [G Suite Devs](https://github.com/gsuitedevs )
+* [YouTube](https://github.com/youtube)
+
+* [Grubhub](https://github.com/grubhub) 
+* [IBM](https://github.com/IBM)  
+* [IBM Cloud](https://github.com/IBM-Cloud)
+* [Indeed](https://github.com/indeedeng)
+* [Instagram](https://github.com/Instragram)  
+* [LinkedIn GitHub](https://github.com/linkedin)
+lulumon
+* [Lyft](https://github.com/lyft)
+magic leap
+* [MailChimp](https://github.com/mailchimp) 
+markel corporation!
+MIT
+* [Mozilla](https://github.com/mozilla)
+* [Mozilla Developer Network](https://github.com/mdn)
+* [Mozilla Developer Outreach](https://github.com/mozdevs)
+* [Mozilla devtools-html](https://github.com/devtools-html)
+* [Mozilla Foundation](https://github.com/MozillaFoundation)
+* [Mozilla IoT](https://github.com/mozilla-iot)
+* [Mozilla Services](https://github.com/mozilla-services)
+nasa
+nbc universal
+netapp
+new relic
+* [Nike Inc.](https://github.com/Nike-Inc)
+* [Netflix](https://github.com/Netflix) 
+o'reilly
+* [Patreon](https://github.com/patreon)  
+* [PayPal](https://github.com/paypal) 
+* [Rackspace](https://github.com/rackspace)
+* [Reddit](https://github.com/reddit) 
+redhat
+* [Roverdotcom](https://github.com/roverdotcom)
+* [Salesforce GitHub](https://github.com/salesforce)
+* [Samsung GitHub](https://github.com/Samsung)
+sony 
+* [Spotify](https://github.com/spotify) 
+the walt disney company
+thoughtworks
+* [Tumblr](https://github.com/tumblr) 
+* [Vox Media](https://github.com/voxmedia) 
+* [Walmart Labs](https://github.com/walmartlabs) 
+walt disney animations tudios
+* [Wayfair](https://github.com/wayfair)
+* [Yandex](https://github.com/yandex)
+* [Yelp](https://github.com/Yelp) 
 -->
 
 ## Django Consulting Firms
