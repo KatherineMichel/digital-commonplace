@@ -92,22 +92,42 @@ https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitt
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 
 https://2020.pycascades.com/schedule/
 https://pybay.com/program/
 https://africa.pycon.org/schedule/
-https://ep2020.europython.eu/
+https://ep2020.europython.eu/events/
 https://2020.pyconuk.org/ | PyCon UK 2020
-https://2020.pycon.org.au/
+https://2020.pycon.org.au/program/fri/
 https://2020.pygotham.tv/
 https://www.pyohio.org/2020/
 https://www.youtube.com/playlist?list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB | PyOhio 2020 - YouTube
 https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
 https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
 
-https://www.meetup.com/pythonsd/
+https://www.pyohio.org/2020/events/schedule/
+http://2020.pytennessee.org/schedule
+https://2020.pythonwebconf.com/
+https://remote.python.pizza/
+https://na.pycon.org/programme/
+https://www.scipy2020.scipy.org/schedule
+
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+
+SF Python
 https://www.meetup.com/sfpython/
+https://www.youtube.com/c/SFPython/videos
+
 https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
+https://twitter.com/sfdjangomeetup
+https://twitter.com/sfdjangomeetup/status/1288711058639601664
+https://twitter.com/sfdjangomeetup/following
+
+https://twitter.com/pyladiessf
+
+https://www.meetup.com/pythonsd/
 
 https://github.com/FlaskCon/website | FlaskCon/website
 https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
@@ -232,6 +252,66 @@ https://github.com/KatherineMichel/setting-up-an-open-source-project
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 
 
+
+Reverse Engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
+
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+https://twitter.com/djangoproject/status/1293988923283247111
+https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
+
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+https://github.com/markshannon/pep622-critique
+https://lwn.net/Articles/827179/
+
+https://spookylukey.github.io/django-views-the-right-way/
+
+Bernat
+https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
+
+https://realpython.com/python-web-scraping-practical-introduction/
+https://github.com/scrapy/scrapy
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://js13kgames.com/
+
+https://github.com/nextjs-starters/nextjs-starters
+https://github.com/storybookjs/storybook
+https://github.com/microsoft/playwright-python
+https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
+
+https://github.com/ryanmcdermott/clean-code-javascript
+
+https://github.com/Azure/azure-quickstart-templates
+https://twitter.com/di_codes/status/1295793468762136576
+
+https://github.com/nodejs/nodejs.dev
+https://github.com/jessfraz/dockerfiles
+
+https://reactnative.dev/docs/getting-started
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+https://addyosmani.com/largescalejavascript/
+
+https://github.com/joelparkerhenderson/architecture_decision_record
+
+https://github.com/microsoft/opensource.microsoft.com
+https://opensource.microsoft.com/program/#program-contributing
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+https://github.com/github/rest-api-description
+
+https://github.com/OWASP/API-Security
+
+https://roadmap.sh/
+
+
+
 https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
@@ -262,6 +342,8 @@ GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
 
+https://stackshare.io/twitter/twitter
+
 Twitter language
 https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
 https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
@@ -273,6 +355,8 @@ https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-t
 
 
 https://home.cern/topics/birth-web | The birth of the web | CERN
+
+https://css-tricks.com/chapter-2-browsers/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
@@ -537,6 +621,13 @@ Basecamp Product
 * [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
 
 <!--
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+
 https://developer.atlassian.com
 
 https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
