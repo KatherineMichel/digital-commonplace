@@ -178,8 +178,6 @@ https://github.com/HandBrake | HandBrake
 https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
 https://obsproject.com/ | Open Broadcaster Software | OBS
 
-https://en.wikipedia.org/wiki/Vlog
-
 Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
 https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
@@ -189,37 +187,10 @@ OSX/Gif
 https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
 
+https://en.wikipedia.org/wiki/Vlog
+
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
-
-
-Important
-https://twitter.com/hunterwalk/status/1294699190585454592
-https://twitter.com/polotek/status/1294150617389121536
-https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
-
-https://twitter.com/natfriedman/following
-https://twitter.com/i/lists/1294427753782140928
-https://twitter.com/TwitterEng/lists/memberships
-https://twitter.com/i/lists/1287873548971778048
-https://twitter.com/i/lists/1041844109479034880
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
-
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
-
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
 
 
 SemVer
@@ -238,6 +209,36 @@ https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson �
 https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
 
 
+
+Important
+https://twitter.com/hunterwalk/status/1294699190585454592
+https://twitter.com/polotek/status/1294150617389121536
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
+https://twitter.com/natfriedman/following
+https://twitter.com/i/lists/1294427753782140928
+https://twitter.com/i/lists/1041844109479034880
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
+https://twitter.com/TwitterEng/lists/memberships
+https://twitter.com/i/lists/1287873548971778048
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+
+
 https://github.com/KatherineMichel/100-days-of-code
 https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
 
@@ -249,17 +250,18 @@ https://github.com/KatherineMichel/setting-up-an-open-source-project
 ## Visual Studio Code
 ## GitHub and VS Code Integration
 
+https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
+
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
+
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
-
-
-
-Reverse Engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
 
 https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://www.python.org/events/python-events/past/?page=2
+
+https://spookylukey.github.io/django-views-the-right-way/
+https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
 
 https://twitter.com/djangoproject/status/1293988923283247111
 https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
@@ -268,10 +270,6 @@ https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 https://github.com/markshannon/pep622-critique
 https://lwn.net/Articles/827179/
 
-https://spookylukey.github.io/django-views-the-right-way/
-
-Bernat
-https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
 
 https://realpython.com/python-web-scraping-practical-introduction/
 https://github.com/scrapy/scrapy
@@ -279,6 +277,12 @@ https://github.com/scrapy/scrapy
 https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
 https://js13kgames.com/
 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+https://addyosmani.com/largescalejavascript/
+
+https://reactnative.dev/docs/getting-started
 https://github.com/nextjs-starters/nextjs-starters
 https://github.com/storybookjs/storybook
 https://github.com/microsoft/playwright-python
@@ -292,29 +296,43 @@ https://twitter.com/di_codes/status/1295793468762136576
 https://github.com/nodejs/nodejs.dev
 https://github.com/jessfraz/dockerfiles
 
-https://reactnative.dev/docs/getting-started
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
-https://addyosmani.com/largescalejavascript/
+https://home.cern/topics/birth-web | The birth of the web | CERN
+https://css-tricks.com/chapter-2-browsers/
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+https://roadmap.sh/
+
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
 
 https://github.com/joelparkerhenderson/architecture_decision_record
 
 https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
 
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
 https://github.com/github/rest-api-description
+
+
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
 https://github.com/OWASP/API-Security
 
-https://roadmap.sh/
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 
 
-
-https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
@@ -354,31 +372,10 @@ https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitt
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
 
 
-https://home.cern/topics/birth-web | The birth of the web | CERN
-
-https://css-tricks.com/chapter-2-browsers/
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-
-
 Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
 https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
-https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
@@ -416,6 +413,7 @@ https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
 
 Bernat- rewrite
+https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
 
 Profiling
 https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
@@ -504,16 +502,22 @@ http://www.hawraf.com/
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
-https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
-
-Linux Performance Observability Tools
-https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+Reverse Engineering
+https://en.wikipedia.org/wiki/Reverse_engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
 
 Hacking
 https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
 https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
+
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
+
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
+
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
 
 
 https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
