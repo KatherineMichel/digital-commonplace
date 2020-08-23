@@ -598,6 +598,22 @@ https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
 
+## Engineering Performance Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+-->
+
 ## Technical Writing Guides
 
 <!--
@@ -815,46 +831,6 @@ https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | 
 -->
 
 
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
--->
-
-* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
-
-<!--
-https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
-
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
--->
-
 ## Python Syntax and Python Versus JavaScript
 
 ## Python and JavaScript
@@ -1003,6 +979,7 @@ Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
+
 ## Jargon, Algorithms, and Patterns
 
 JavaScript Patterns
@@ -1043,6 +1020,7 @@ https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#cha
 
 https://github.com/palashmon/awesome-js-posts
 -->
+
 
 <!--
 Cheat Sheets and Stuff
@@ -1487,21 +1465,7 @@ Check if you need a Django app or a regular Python package: Django apps need to 
 -->
 
 
-## Engineering Performance Resources
 
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
 
 ## Trends
 
@@ -1816,6 +1780,46 @@ Doc Unit Tests
 Release, Weeknotes
 -->
 
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!--
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+-->
 
 
 ## GitHub and Hosting Blogs
@@ -2314,40 +2318,35 @@ https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
 -->
 
+## Stuff
 
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
 
-## Orgs
-
-General Open Source Sites
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
-
-Foundations
-* [Choose A Foundation](http://chooseafoundation.com/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
-* [Linux Foundation](https://www.linuxfoundation.org/)
-* [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
-* [JavaScript Foundation](https://js.foundation/)
-* [Open JavaScript Foundation](https://openjsf.org/)
-* [Node Foundation](https://foundation.nodejs.org/)
-
-Important Orgs
-* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
-* [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
 
 <!--
-https://www.eff.org
-https://www.redhat.com
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
 
-"OSI Approved License" badge
-https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
-https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
-https://bestpractices.coreinfrastructure.org/en | BadgeApp
-https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+
+https://developer.atlassian.com
+
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
 -->
 
 ## Open Source Guides
@@ -2362,34 +2361,6 @@ Google Open Source Guides
 * [Google Engineering Practices Guide](https://google.github.io/eng-practices)
 * [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
-<!--
-GitHub
-https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
-
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-
-https://github.com/blog/967-github-secrets | GitHub Secrets
-
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
-
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
-https://github.com/features/insights | Features · Insights
-
-GitHub Stars
-https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
-
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
--->
 
 ## Git, GitHub, Open Source, Hosting
 
@@ -2445,7 +2416,6 @@ GitHub Services- Deprecated
 
 GitHub Community
 * [GitHub Community](https://github.community/)
-
 
 <!--
 https://git-scm.com/docs
@@ -2527,6 +2497,315 @@ https://github.com/advisories | GitHub Advisory Database
 request cve - Google Search
 https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
 -->
+
+## Orgs
+
+General Open Source Sites
+* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Dot Com](https://opensource.com)
+
+Foundations
+* [Choose A Foundation](http://chooseafoundation.com/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Apache Foundation](https://www.apache.org/foundation/)
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [JavaScript Foundation](https://js.foundation/)
+* [Open JavaScript Foundation](https://openjsf.org/)
+* [Node Foundation](https://foundation.nodejs.org/)
+
+Important Orgs
+* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [TODO Group](https://todogroup.org/)
+
+<!--
+https://www.eff.org
+https://www.redhat.com
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+
+"OSI Approved License" badge
+https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
+https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
+https://bestpractices.coreinfrastructure.org/en | BadgeApp
+https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+-->
+
+## Open Source and Assessment
+
+Mozilla Metrics
+* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
+* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
+* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
+* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
+
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+Maturity Models and Frameworks
+* [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
+* [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
+* [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
+* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
+* [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
+* [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
+<!--
+https://en.wikipedia.org/wiki/Capability_Immaturity_Model | Capability Immaturity Model - Wikipedia
+https://en.wikipedia.org/wiki/Capability_Maturity_Model#Maturity_models
+https://community.apache.org/apache-way/apache-project-maturity-model.html#other-open-source-project-models
+
+https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
+
+https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
+https://github.com/opensourceway/open-decision-framework
+https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
+https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
+-->
+
+<!--
+3 methods
+https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
+Metrics
+https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
+https://nadiaeghbal.com/tragedy-of-the-commons
+
+https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
+
+https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
+https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
+
+https://bitergia.com/
+https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
+https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
+https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
+
+https://martinfowler.com/bliki/MaturityModel.html
+https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
+
+http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
+https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
+
+Open source report card
+-->
+
+## Open Source in Orgs
+
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+  
+<!--
+https://github.com/todogroup/awesome-oss-mgmt
+
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
+-->
+
+
+<!--
+GitHub
+https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
+
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
+https://github.com/blog/967-github-secrets | GitHub Secrets
+
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
+https://github.com/features/insights | Features · Insights
+
+GitHub Stars
+https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
+
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+-->
+
+
+<!--
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+http://anonymoushash.vmbrasseur.com
+https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
+
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://github.com/benbalter/github-mention-highlighter
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+https://opensource.guide/metrics/
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+Assessment
+https://coiled.io/blog/stages-of-openness.html
+Service metrics
+https://queue.acm.org/detail.cfm?id=3309571
+https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
+
+Sarah Cope
+https://github.com/saracope/shaping-the-contributor-experience
+https://saracope.github.io/shaping-the-contributor-experience/
+
+https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
+
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+
+Important!
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
+
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+Contributing to Open Source: A Guide
+https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
+http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
+https://stackoverflow.com/help/minimal-reproducible-example
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
+
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
+
+https://opensource.guide/best-practices/
+https://github.com/github/opensource.guide/tree/master/_articles
+https://opensource.guide/starting-a-project/
+https://opensource.guide/finding-users/
+https://opensource.guide/building-community/
+https://opensource.guide/leadership-and-governance/
+
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+https://glasnt.com/talks/2017_08_PyConAU/#/
+-->
+
+<!--
+https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
+https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
+https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
+https://github.com/customer-stories/facebook | Facebook
+
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
+
+JS
+https://twitter.com/openjsf
+
+CNCF
+https://www.cncf.io/ | Home - Cloud Native Computing Foundation
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
+
+Metrics
+https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
+https://bitergia.com/resources/webinars/ | Webinars - Bitergia
+
+ADR
+https://github.blog/2020-08-13-why-write-adrs/
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+
+https://choosealicense.com/ | Choose an open source license | Choose a License
+
+Nadia Eghbal
+https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 | Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862: Amazon.com: Books
+-->
+
+
+
+<!--
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+Google
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+DevOps
+https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
+https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339/ref=as_sl_pc_tf_til?tag=nicolefv-20&linkCode=w00&linkId=1d7fac0c03a9a8cd9e853ea3003241a3&creativeASIN=1942788339 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: Nicole Forsgren PhD, Jez Humble, Gene Kim: 9781942788331: Amazon.com: Books
+-->
+
 
 
 
@@ -2949,283 +3228,6 @@ https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | action
 https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
 -->
 
-
-
-<!--
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-http://anonymoushash.vmbrasseur.com
-https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
-
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://github.com/benbalter/github-mention-highlighter
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
-
-https://opensource.guide/metrics/
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-
-Assessment
-https://coiled.io/blog/stages-of-openness.html
-Service metrics
-https://queue.acm.org/detail.cfm?id=3309571
-https://opensource.com/open-organization/20/3/communication-technology-worksheet?sc_cid=7016000000127ECAAY | A model for assessing technological maturity | Opensource.com
-
-Sarah Cope
-https://github.com/saracope/shaping-the-contributor-experience
-https://saracope.github.io/shaping-the-contributor-experience/
-
-https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
-
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
-
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-
-Important!
-https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
-
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-
-Contributing to Open Source: A Guide
-https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
-http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
-https://stackoverflow.com/help/minimal-reproducible-example
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
-
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
-
-https://opensource.guide/best-practices/
-https://github.com/github/opensource.guide/tree/master/_articles
-https://opensource.guide/starting-a-project/
-https://opensource.guide/finding-users/
-https://opensource.guide/building-community/
-https://opensource.guide/leadership-and-governance/
-
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-https://glasnt.com/talks/2017_08_PyConAU/#/
--->
-
-<!--
-https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
-https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
-https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
-https://github.com/customer-stories/facebook | Facebook
-
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
-https://joss.theoj.org/ | Journal of Open Source Software
-http://jmlr.org/ | Journal of Machine Learning Research Homepage
-
-JS
-https://twitter.com/openjsf
-
-CNCF
-https://www.cncf.io/ | Home - Cloud Native Computing Foundation
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
-
-Metrics
-https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
-https://bitergia.com/resources/webinars/ | Webinars - Bitergia
-
-ADR
-https://github.blog/2020-08-13-why-write-adrs/
-https://adr.github.io/ | Architectural Decision Records | adr.github.io
-https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
-
-https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
-
-https://choosealicense.com/ | Choose an open source license | Choose a License
-
-Nadia Eghbal
-https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 | Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862: Amazon.com: Books
--->
-
-## Open Source and Assessment
-
-Mozilla Metrics
-* [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
-* [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
-* [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
-* [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
-
-Open Source
-* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
-* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
-
-Maturity Models and Frameworks
-* [The Open Organization Maturity Model](https://opensource.com/open-organization/resources/open-org-maturity-model)
-* [Capability Maturity Model Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
-* [Capability Maturity Model Integrated (CMMI®) Wikipedia](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
-* [GitHub Maturity Model GitHub](https://github.com/github/maturity-model)
-* [Apache Project Maturity Model](https://community.apache.org/apache-way/apache-project-maturity-model.html)
-* [The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)
-* [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
-
-<!--
-https://en.wikipedia.org/wiki/Capability_Immaturity_Model | Capability Immaturity Model - Wikipedia
-https://en.wikipedia.org/wiki/Capability_Maturity_Model#Maturity_models
-https://community.apache.org/apache-way/apache-project-maturity-model.html#other-open-source-project-models
-
-https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc | toc/graduation_criteria.adoc at master · cncf/toc
-
-https://github.com/red-hat-people-team/open-decision-framework/tree/master/maturity-model
-https://github.com/opensourceway/open-decision-framework
-https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
-https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
--->
-
-<!--
-3 methods
-https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
-Metrics
-https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
-https://nadiaeghbal.com/tragedy-of-the-commons
-
-https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
-
-https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
-https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
-
-https://bitergia.com/
-https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
-https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
-https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
-
-https://martinfowler.com/bliki/MaturityModel.html
-https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
-
-http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
-https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
-
-Open source report card
--->
-
-## Open Source in Orgs
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-  
-<!--
-https://github.com/todogroup/awesome-oss-mgmt
-
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
--->
-
-## Stuff
-
-Joel Spolsky
-* [Joel on Software](https://www.joelonsoftware.com/)
-* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
-
-Basecamp Product
-* [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
-
-<!--
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-https://blog.codinghorror.com/doing-terrible-things-to-your-code/
-
-https://developer.atlassian.com
-
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
-
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
-
-Atlassian Team Playbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-https://www.atlassian.com/team-playbook/examples
--->
-
-
-
-<!--
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-Google
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-DevOps
-https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
-https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339/ref=as_sl_pc_tf_til?tag=nicolefv-20&linkCode=w00&linkId=1d7fac0c03a9a8cd9e853ea3003241a3&creativeASIN=1942788339 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: Nicole Forsgren PhD, Jez Humble, Gene Kim: 9781942788331: Amazon.com: Books
--->
 
 ## Philosophies
 
