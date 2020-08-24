@@ -66,21 +66,6 @@ Sandboxes
 <!--
 https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificates
 
-Redwood, React, GraphQL, Prisma
-https://twitter.com/mojombo/status/1238942353273978880
-https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
-
-https://www.stackbit.com/
-
-https://csslayout.io/
-https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
-
-https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
-
-https://twitter.com/mojombo/status/1156561637450457089
-MEAN and MERN stacks
-https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
-
 http://nixos.org
 https://github.com/NixOS/nix
 
@@ -116,6 +101,24 @@ Stacks
 * MERN Stack
 
 ## JAMStack
+
+<!--
+https://twitter.com/mojombo/status/1156561637450457089
+MEAN and MERN stacks
+https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
+
+Redwood, React, GraphQL, Prisma
+https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
+https://twitter.com/mojombo/status/1238942353273978880
+https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
+
+https://www.stackbit.com/
+
+https://csslayout.io/
+https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
+
+https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
+-->
 
 ## Python and Django
 
