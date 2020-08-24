@@ -857,10 +857,18 @@ React and Vue
 * [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
+React and Vue
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+Create React App
+* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
+
 <!-- 
 https://www.python.org/
 
 https://wagtail.io/
+
+https://www.scala-lang.org/
 
 Deno
 https://github.com/ry
@@ -869,8 +877,13 @@ https://deno.land/std
 https://deno.land/x
 
 https://reactnative.dev/docs/getting-started
+
 https://github.com/nextjs-starters/nextjs-starters
-https://github.com/storybookjs/storybook
+
+Storybook
+https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+
 https://github.com/microsoft/playwright-python
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 
@@ -880,69 +893,64 @@ https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twit
 
 ## JAMStack
 
-Next
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Emmet](https://emmet.io/)
+
+Next and Nuxt
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
+* [Nuxt](https://nuxtjs.org/)
 
 Svelte
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
 
+Alpine
+* [Alpine GitHub](https://github.com/alpinejs/alpine)
+
 Gatsby
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+* [Hugo](https://gohugo.io/)
 
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+Mojombo
+* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Hammer GitHub](https://github.com/hammerframework/hammer)
+
+Vite (Evan You)
+* [Vite GitHub](https://github.com/vitejs/vite)
+
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 
 <!--
-https://emmet.io/ | Emmet — the essential toolkit for web-developers
-
-https://github.com/vitejs/vite
-
-https://flutter.dev/
-https://dart.dev/
-
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
-https://csslayout.io/
-https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
-
-https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
-
-https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
-
-https://nuxtjs.org/
-https://github.com/sdras/contentful-nuxt-netlify
-https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
-https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
+https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
 
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
+https://github.com/sdras/contentful-nuxt-netlify
+https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
+https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
 
-Svelte, vdom
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+Redwood, React, GraphQL, Prisma
+https://twitter.com/fauna
+https://twitter.com/prisma
+https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
+
+https://github.com/nteract/vdom
+
+vdom
 https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
-https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
 
-https://gohugo.io/ | The world’s fastest framework for building websites | Hugo
-https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificates
+Svelte
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
 
 Next
 https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
-
-https://redwoodjs.com/
-https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-https://github.com/hammerframework/hammer
-https://twitter.com/mojombo/status/1156561637450457089
-MEAN and MERN stacks
-https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
-
-https://www.stackbit.com/
 -->
 
 ## Python Syntax and Python Versus JavaScript
@@ -962,6 +970,8 @@ https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-
 -->
 
 <!--
+https://github.com/phuoc-ng/html-dom
+
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
 
 http://youmightnotneedjquery.com/
@@ -983,7 +993,7 @@ https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 
 https://github.com/luruke/browser-2020
-https://github.com/phuoc-ng/html-dom
+
 http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
 -->
@@ -1127,6 +1137,9 @@ Product Hunt Product Leader Boards
 * [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
 * [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
 * [Top 500 Products](http://500products.com)
+
+Glitch Examples
+* [Glitch Websites](https://glitch.com/@websites)
 
 <!--
 https://github.com/trending/developers
