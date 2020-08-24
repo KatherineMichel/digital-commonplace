@@ -353,9 +353,6 @@ Redux Thunks
 Snapshot Testing
 -->
 
-Preact
-* [Preact](https://preactjs.com)
-
 <!--
 Redux Autogenereated Tests
 Hot Module Reload
