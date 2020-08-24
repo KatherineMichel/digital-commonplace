@@ -117,6 +117,52 @@ https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks
 https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 -->
 
+## Browser Object Model (BOM) and Document Object Model (DOM)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+## Standards
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+JavaScript
+* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
+* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
+
+Node
+* [Node.js GitHub](https://github.com/nodejs)
+
+The Chromium Projects
+* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
+
+<!--
+https://github.com/tc39/proposals
+https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
+
+
+https://v8.dev/docs
+https://github.com/v8/node/
+https://tc39.es/ecma262/
+https://github.com/tc39/ecma262
+https://webassembly.github.io/spec/core/
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md | Design of V8 bindings
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://html.spec.whatwg.org/multipage/
+https://en.wikipedia.org/wiki/HTTP/3
+-->
+
 ## Recommended
 
 Recommended by Addy Osmani and Eric Elliot
