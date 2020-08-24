@@ -9,12 +9,6 @@ https://firebase.google.com/
 
 https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
 
-https://emmet.io/ | Emmet — the essential toolkit for web-developers
-
-https://twitter.com/fauna
-https://twitter.com/prisma
-https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
-
 Go
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
 
@@ -59,12 +53,6 @@ http://stateofjs.com/2016/frontend/ | Front-End Frameworks
 Glitch
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
 
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-* [Zeit Zero Config](https://zeit.co/blog/zero-config)
-
 Hawt- Helpers
 * [Airtable](https://airtable.com) and [Airtable Blog](https://blog.airtable.com/)
 * [Airtable Templates](https://airtable.com/templates), [Airtable Blocks](https://airtable.com/blocks), and [Airtable Guide](https://guide.airtable.com/) 
@@ -75,32 +63,28 @@ Sandboxes
 * [CodeSandbox](https://codesandbox.io)
 * [dark](https://darklang.com/)
 
-Glitch Examples
-* [Glitch Websites](https://glitch.com/@websites)
-
 <!--
-https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificates
+
+Redwood, React, GraphQL, Prisma
+https://twitter.com/mojombo/status/1238942353273978880
+https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
+
+https://www.stackbit.com/
+
+https://csslayout.io/
+https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
+
+https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
+
+https://twitter.com/mojombo/status/1156561637450457089
+MEAN and MERN stacks
+https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
 
 http://nixos.org
 https://github.com/NixOS/nix
 
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
-
-https://vercel.com/blog/zeit-is-now-vercel
-
-https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-
-* [Zeit now](https://zeit.co/now)
-* [Zeit micro](https://github.com/zeit/micro)
-
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
-
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
 ## Jekyll, Foundation, Sass
@@ -133,84 +117,13 @@ Stacks
 
 ## JAMStack
 
-Next
-* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
-
-Svelte
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-
-Gatsby
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-
-<!--
-https://github.com/vitejs/vite
-
-https://flutter.dev/
-https://dart.dev/
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-https://csslayout.io/
-https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
-
-https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
-
-https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
-
-https://nuxtjs.org/
-https://github.com/sdras/contentful-nuxt-netlify
-https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
-https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
-
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
-
-Svelte, vdom
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
-https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
-
-https://gohugo.io/ | The world’s fastest framework for building websites | Hugo
-https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificates
-
-Next
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
-https://nextjs.org/ | Next.js - The React Framework
-
-https://redwoodjs.com/
-https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
-https://github.com/redwoodjs/redwood
-https://twitter.com/mojombo/status/1238942353273978880
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-https://github.com/hammerframework/hammer
-https://twitter.com/mojombo/status/1156561637450457089
-MEAN and MERN stacks
-https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
-
-https://www.stackbit.com/
--->
-
 ## Python and Django
-
-<!--
-https://www.python.org/
--->
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
 
 <!--
 https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
 
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
 
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
 https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
 
 Model Managers
@@ -219,15 +132,7 @@ https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winte
 
 ## Django Rest Framework
 
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
 ## Popular JavaScript Frameworks
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
 Package Managers/Executors
 * [NPM](https://www.npmjs.com), [NPM Blog](http://blog.npmjs.org), [NPM Docs](https://docs.npmjs.com), and [NPM GitHub](https://github.com/npm/npm) 
@@ -263,10 +168,6 @@ Node.js Package Managers (npm (build-step))
 * [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
 
 <!--    
-* [v5.0.0](http://blog.npmjs.org/post/161081169345/v500)    
-
-https://nodejs.org/en/blog/release/v14.3.0/ | Node v14.3.0 (Current) | Node.js
-
 https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on Twitter: "A lot of years studying Computer Science, probability, queue theory, distributed systems, unix, ... so that we could make the @nodejs http Agent a LIFO instead of a FIFO to significantly increase throughput. This is probably worthwhile an article at some point." / Twitter
 
 * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
@@ -276,19 +177,17 @@ https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on
     * [npms.io](https://npms.io/) / [node-modules.com](http://node-modules.com/) / [npmsearch.com](http://npmsearch.com/)
 -->
 
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React and Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
 <!--
 Comparison
 * [Comparison of Web Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript)
 
+Deno
+https://deno.land/v1
+https://www.youtube.com/watch?v=M3BM9TB-8yA&feature=emb_logo
+https://twitter.com/rauchg/status/1260704904693182464
+
+https://twitter.com/Rich_Harris/status/1260711137244598272
+https://deno.land/std/fmt
 
 https://github.blog/2020-03-16-npm-is-joining-github/
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
@@ -300,16 +199,6 @@ https://github.com/tj/n | tj/n: Node version management
 https://github.com/ekalinin/nodeenv | ekalinin/nodeenv: Virtual environment for Node.js & integrator with virtualenv
 https://github.com/remy/nodemon#nodemon
 https://github.com/nock/nock
-
-
-Deno
-https://deno.land/v1
-https://www.youtube.com/watch?v=M3BM9TB-8yA&feature=emb_logo
-
-https://twitter.com/rauchg/status/1260704904693182464
-
-https://twitter.com/Rich_Harris/status/1260711137244598272
-https://deno.land/std/fmt
 -->
 
 ## Languages and Frameworks (Other than Python and Django)
@@ -390,7 +279,6 @@ https://github.com/salesforce/eslint-plugin-lwc
 ## JavaScript Ecosystem
 
 React and Vue
-* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 * [React Fiber Wikipedia](https://en.wikipedia.org/wiki/React_Fiber)
 
 JSX (Syntax Extension; React)
