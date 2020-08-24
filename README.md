@@ -320,28 +320,6 @@ https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring S
 https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 
 
-
-Rapid dev
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://devchecklists.com
-
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-
-GitHub and Twitter Roadmaps
-https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
-https://github.com/github/roadmap
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
-
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
-
 https://stackshare.io/twitter/twitter
 
 Twitter language
@@ -587,6 +565,26 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://devchecklists.com
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+GitHub and Twitter Roadmaps
+https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
+https://github.com/github/roadmap
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+
 !!!!!
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 
@@ -664,28 +662,11 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
-JavaScript- Hawt
-
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 CSS/JS
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
-
-Glitch
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
-https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
-
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
-
 
 https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
 https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
@@ -895,6 +876,20 @@ Facebook- React Native
 
 
 <!-- 
+https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
+https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
+
+Glitch
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
+
 https://reactjs.org/docs/getting-started.html | Getting Started – React
 
 https://reactnative.dev/docs/getting-started
