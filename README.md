@@ -326,11 +326,6 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
-https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
-https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
-
-!!!!!
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 https://devchecklists.com
 
@@ -592,6 +587,9 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+!!!!!
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 
@@ -825,16 +823,10 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
-## Languages and Frameworks
+## Eldarion
 
-<!--
-https://www.python.org/
-
-Vue
-https://wagtail.io/
-
-https://www.scala-lang.org/
--->
+Python
+* [Python](https://www.python.org/)
 
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
@@ -846,6 +838,33 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 
 <!--
 https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+-->
+
+<!--
+https://wagtail.io/
+-->
+
+Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+<!--
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+-->
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!--
+https://github.com/webpack/webpack-cli
+https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serves a webpack app. Updates the browser on changes.
+-->
+
+## Languages and Frameworks
+
+<!--
+https://www.scala-lang.org/
 -->
 
 Node
@@ -865,10 +884,6 @@ Express (based on Sinatra)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
 
 React and Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-React and Vue
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 
 Create React App
@@ -878,6 +893,7 @@ Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
+
 <!-- 
 https://reactjs.org/docs/getting-started.html | Getting Started – React
 
@@ -886,15 +902,12 @@ https://reactnative.dev/docs/getting-started
 https://github.com/nextjs-starters/nextjs-starters
 
 Storybook
-https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 
 https://github.com/puppeteer/puppeteer
 https://github.com/microsoft/playwright-python
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 -->
 
 ## JAMStack
@@ -909,6 +922,7 @@ Next (React) and Nuxt (Vue)
 
 React and Vue Alternatives
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+* [Preact](https://preactjs.com)
 * [Alpine GitHub](https://github.com/alpinejs/alpine)
 
 JamStack Site Frameworks (other than Jekyll)
@@ -974,9 +988,7 @@ https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-
 <!--
 https://github.com/luruke/browser-2020
 http://caniuse.com
-
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
+https://caniuse.com/#feat=es6
 
 https://github.com/phuoc-ng/html-dom
 
@@ -991,7 +1003,6 @@ https://jquery.com/ | jQuery
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
-
 
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
@@ -1116,6 +1127,18 @@ Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
 
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+<!--
+https://womenmake.com/ | Women Make
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
@@ -1129,33 +1152,21 @@ https://hndex.org/
 
 https://codepen.io/tag/python
 http://codepen.io/projects/
--->
 
-<!--
+https://github.com/trending/developers
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+
+https://www.techmeme.com/
+https://www.infoq.com/
+
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
 -->
 
-<!--
-https://github.com/trending/developers
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://www.infoq.com/
-
-https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
--->
-
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
+## Showcases
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source) 
@@ -1175,6 +1186,15 @@ https://madewithreactnative.com/
 
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
 
 ## Projects
 
@@ -1282,100 +1302,6 @@ https://github.com/sdras?tab=repositories
 https://github.com/sdras/night-owl-vscode-theme
 Chrome Extension
 https://github.com/sdras/productive-twitter/
--->
-
-## Makers
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://womenmake.com/ | Women Make
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-Django, GitHub, SQL
-* [Jeff Triplett Twitter](https://twitter.com/webology)
-* [Simon Willison](https://static.simonwillison.net)
-
-GitHub
-* [Steve Winton GitHub](https://github.com/swinton/)
-* [Jason Etco GitHub](https://github.com/JasonEtco/)
-* [Gregor Martynus GitHub](https://github.com/gr2m/)
-* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
-
-<!--
-Lorena
-
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
-
-https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
-https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
-https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
-https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
-https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
-
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://www.bdougie.live/ | bdougie.live
-https://github.com/bdougie/blog | bdougie/blog: My blog
-
-https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
-https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
-
-https://github.com/tj
-https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
--->
-
-Women Who Inspire Me
-* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
-* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
-* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
-* [Camille Fournier Twitter](https://twitter.com/skamille)
-* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
-* [Jess Frazelle GitHub](https://github.com/jessfraz)
-* [Leigh Honeywell](https://hypatia.ca)
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
-* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
-* [Suz Hinton Twitter](https://twitter.com/noopkat)
-
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-
-<!--
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://cassidoo.co/ | Cassidy Williams
-https://github.com/jessfraz/
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
-
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
-
-https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
-
-https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
-
-https://virus.cafe/ | Virus Cafe
-https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
-
-https://twitter.com/hayleydenb/status/1257786499933728768
-
-Cool way to do it
-https://twitter.com/MishManners/status/1240839777437364224
-https://twitter.com/MishManners/status/1239360667703885825
-https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
-
-https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 -->
 
 ## Competitions, Hackathons, Festivals, Communities
@@ -1499,89 +1425,6 @@ Python Patterns
 * [Python Patterns](https://github.com/faif/python-patterns/)
 
 
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
--->
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
--->
-
-
-## High Performance Python and Django and Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-http://highscalability.com
-http://highscalability.com/all-time-favorites/
-
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
 
 ## General Talks
 ## Companies that Use Python
@@ -1723,6 +1566,91 @@ https://devchecklists.com/vintas-high-quality-standards/
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 -->
 
+## High Performance Python and Django and Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+http://highscalability.com
+http://highscalability.com/all-time-favorites/
+
+https://us.pycon.org/2020/schedule/talks/
+
+https://techyaks.com/python-year-tytop.html
+-->
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
+https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
+
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+-->
+
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+-->
 
 
 ## GitHub and Hosting Blogs
@@ -2702,6 +2630,89 @@ https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 -->
 
+
+
+## Makers
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+GitHub
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+<!--
+Lorena
+
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
+
+https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
+https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
+https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
+https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
+https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+
+https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
+https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
+
+https://github.com/tj
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+-->
+
+Women Who Inspire Me
+* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+
+<!--
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://cassidoo.co/ | Cassidy Williams
+https://github.com/jessfraz/
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+
+https://virus.cafe/ | Virus Cafe
+https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
+
+https://twitter.com/hayleydenb/status/1257786499933728768
+
+Cool way to do it
+https://twitter.com/MishManners/status/1240839777437364224
+https://twitter.com/MishManners/status/1239360667703885825
+https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
 
 <!--
 Probot and Such
@@ -3986,6 +3997,8 @@ Nuzzel Custom Feeds
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 <!--
+https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
+
 https://substack.com/discover | Substack
 
 https://twitter.com/explore/tabs/for-you | Explore / Twitter
