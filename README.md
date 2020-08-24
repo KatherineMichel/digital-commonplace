@@ -187,7 +187,9 @@ OSX/Gif
 https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
 
-https://en.wikipedia.org/wiki/Vlog
+http://en.wikipedia.org/wiki/Vlog
+
+https://github.com/matteofigus/awesome-speaking
 
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
@@ -310,6 +312,8 @@ https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
+https://github.com/OAI/OpenAPI-Specification
+
 https://github.com/OWASP/API-Security
 
 https://docs.npmjs.com/getting-started/running-a-security-audit
@@ -320,6 +324,7 @@ https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring S
 https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 
 
+https://github.com/wsvincent/awesome-django
 
 Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
@@ -648,6 +653,9 @@ https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-
 -->
 
 <!--
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+
 https://github.com/luruke/browser-2020
 http://caniuse.com
 https://caniuse.com/#feat=es6
@@ -678,6 +686,8 @@ https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twit
 ## Types of JavaScript
 
 <!--
+https://github.com/sgaurav/understanding-es6
+
 es6 javascript features
 
 JavaScript
@@ -795,6 +805,15 @@ Practice
 
 <!--
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
+
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
+https://github.com/llSourcell/100_Days_of_ML_Code
 
 
 https://github.com/feldroy/django-crash-starter
@@ -1317,12 +1336,6 @@ https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying
 ## Django Org Tools
 
 <!--
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
-
-
 https://github.com/sixfeetup/cookiecutter-sixiedjango
 
 https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
