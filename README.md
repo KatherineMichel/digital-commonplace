@@ -297,6 +297,9 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 
 https://roadmap.sh/
 
+Philosophies
+* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
+
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
@@ -774,6 +777,8 @@ https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | 
 -->
 
 <!--
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 https://web.dev/ | web.dev  |  web.dev
 
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
@@ -791,12 +796,6 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 
 Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
-
-
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
 -->
 
 ## Deploy
@@ -821,13 +820,21 @@ https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
 https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
 
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
 ## Languages and Frameworks
+
+<!--
+https://www.python.org/
+
+Vue
+https://wagtail.io/
+
+https://www.scala-lang.org/
+-->
 
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
@@ -844,6 +851,14 @@ https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class 
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
+<!--
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+-->
+
 Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
@@ -859,18 +874,12 @@ React and Vue
 Create React App
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
+Facebook- React Native
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
 <!-- 
-https://www.python.org/
-
-https://wagtail.io/
-
-https://www.scala-lang.org/
-
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
+https://reactjs.org/docs/getting-started.html | Getting Started – React
 
 https://reactnative.dev/docs/getting-started
 
@@ -880,6 +889,7 @@ Storybook
 https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 
+https://github.com/puppeteer/puppeteer
 https://github.com/microsoft/playwright-python
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 
@@ -893,22 +903,22 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 * [Emmet](https://emmet.io/)
 
-Next and Nuxt
+Next (React) and Nuxt (Vue)
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
 * [Nuxt](https://nuxtjs.org/)
 
-Svelte
+React and Vue Alternatives
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-
-Alpine
 * [Alpine GitHub](https://github.com/alpinejs/alpine)
 
-Site Frameworks (other than Jekyll)
+JamStack Site Frameworks (other than Jekyll)
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 * [Hugo](https://gohugo.io/)
 
 Mojombo
 * [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Prisma](https://www.prisma.io/)
+* [Fauna](https://fauna.com/)
 * [Hammer (React for Rails) GitHub](https://github.com/hammerframework/hammer)
 
 Vite (Evan You)
@@ -918,9 +928,6 @@ Flutter and Dart (Mobile)
 * [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 
 <!--
-https://twitter.com/fauna
-https://twitter.com/prisma
-
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
 https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
@@ -939,12 +946,13 @@ https://github.com/nteract/vdom
 vdom
 https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
 
+https://reactjs.org/docs/faq-internals.html
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
+https://www.youtube.com/watch?v=x7cQ3mrcKaY
+https://github.com/acdlite/react-fiber-architecture
+
 Svelte
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
-https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
-
-Notion API
-https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
 -->
 
 ## Python Syntax and Python Versus JavaScript
@@ -964,6 +972,12 @@ https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-
 -->
 
 <!--
+https://github.com/luruke/browser-2020
+http://caniuse.com
+
+http://caniuse.com/#search=service%20worker
+http://caniuse.com/#search=app%20cache
+
 https://github.com/phuoc-ng/html-dom
 
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
@@ -985,11 +999,6 @@ https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing j
 
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-
-https://github.com/luruke/browser-2020
-
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
 -->
 
 
@@ -1088,23 +1097,39 @@ https://github.com/standard/standard
 https://github.com/standard | Standard JS
 -->
 
-## Trends
+## Project Ideas
 
 Stars
 * [Astral App](https://astralapp.com)
 
-Nuzzel
-* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
-* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
 
-Nuzzel
-* [Nuzzel](http://nuzzel.com)
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+Glitch Examples
+* [Glitch Python](https://glitch.com/@python)
+* [Glitch Websites](https://glitch.com/@websites)
 
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Hacker News Classics](http://jsomers.net/hn)
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+<!--
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hn.algolia.com/?q=ask+hn
+https://hndex.org/
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+-->
 
 <!--
 Tech Terminology
@@ -1118,40 +1143,9 @@ https://repl.it/leaders | Repl.it - Leaderboard
 
 https://www.infoq.com/
 
-https://substack.com/discover | Substack
 https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
 
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
--->
-
-## Project Ideas
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
-
-Glitch Examples
-* [Glitch Python](https://glitch.com/@python)
-* [Glitch Websites](https://glitch.com/@websites)
-
-<!--
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hn.algolia.com/?q=ask+hn
-https://hndex.org/
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-* [Hunts.xyz](https://hunts.xyz)
-
-https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
-https://upcoming.org/about | About - Upcoming
 -->
 
 ## Stack and Built With
@@ -1511,6 +1505,8 @@ Python Patterns
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
 http://rob.conery.io/2016/07/04/imposters-handbook/
@@ -3965,6 +3961,13 @@ Articles
 
 ## To Look At
 
+Nuzzel
+* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
+* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
+
+Nuzzel
+* [Nuzzel](http://nuzzel.com)
+
 Hacker News and Lobsters
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
@@ -3983,6 +3986,8 @@ Nuzzel Custom Feeds
 * [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 <!--
+https://substack.com/discover | Substack
+
 https://twitter.com/explore/tabs/for-you | Explore / Twitter
 https://www.youtube.com/feed/trending | Trending - YouTube
 
