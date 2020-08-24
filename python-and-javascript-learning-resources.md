@@ -39,15 +39,19 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 ## Django Organization Tools
 
 <!--
+https://codingbat.com/ | CodingBat
+
 LinkedIn
 https://news.microsoft.com/skills/ | Microsoft Digital Event
 https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
 https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
 
-https://codingbat.com/ | CodingBat
-
 https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
 https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+
+Automate the Boring Stuff
+https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
 https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
