@@ -667,6 +667,10 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
+JavaScript- Hawt
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
 CSS/JS
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
@@ -682,15 +686,7 @@ https://glitch.com/~starter-react | Glitch
 https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
 https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
 
-
-100 Projects
-https://twitter.com/sarah_edo/status/1287441437701754882 | Sarah Drasner on Twitter: "This is so cool, @ceeoreo_ kicked off #100DaysOfProjects, looks like it's open to anyone! Seems like a nice way of creating community while learning :)" / Twitter
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-
-100 Days
-https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
-https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
-
 https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
 
 
@@ -706,20 +702,12 @@ https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff wit
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-JavaScript- Hawt
-
-
 https://www.pythonmorsels.com/resources/
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 https://github.com/JackMcKew/awesome-python-bytes
 
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
-https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
-real python python basics pdf - Google Search
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
 
@@ -781,6 +769,7 @@ https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: 
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 
+
 https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
 
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
@@ -811,17 +800,285 @@ https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Tod
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+-->
+
+## Deploy
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+* [Zeit Zero Config](https://zeit.co/blog/zero-config)
+
+<!--
+https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+
+https://vercel.com/blog/zeit-is-now-vercel
+
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Zeit now](https://zeit.co/now)
+* [Zeit micro](https://github.com/zeit/micro)
+
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A CMS for Static Site Generators
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+-->
+
+## Languages and Frameworks
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+<!--
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+-->
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React and Vue
+* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+<!-- 
+https://www.python.org/
+
+https://wagtail.io/
+
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+
 https://reactnative.dev/docs/getting-started
 https://github.com/nextjs-starters/nextjs-starters
 https://github.com/storybookjs/storybook
 https://github.com/microsoft/playwright-python
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 
-https://github.com/sqreen/awesome-nodejs-projects
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+-->
 
-https://addyosmani.com/largescalejavascript/
+## JAMStack
 
-https://github.com/ryanmcdermott/clean-code-javascript
+Next
+* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
+
+Svelte
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+
+Gatsby
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+
+<!--
+https://emmet.io/ | Emmet — the essential toolkit for web-developers
+
+https://github.com/vitejs/vite
+
+https://flutter.dev/
+https://dart.dev/
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+https://csslayout.io/
+https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mask" 😷 on Twitter: "🎨 I have been getting a ton of good out of: https://t.co/eTOIJAdTqt 💭 It helps me figure out which CSS properties I need, but have no idea that I need. It meshes really well with @tailwindcss" / Twitter
+
+https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
+
+https://github.com/alpinejs/alpine | alpinejs/alpine: A rugged, minimal framework for composing JavaScript behavior in your markup.
+
+https://nuxtjs.org/
+https://github.com/sdras/contentful-nuxt-netlify
+https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
+https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
+
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
+
+Svelte, vdom
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
+https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
+
+https://gohugo.io/ | The world’s fastest framework for building websites | Hugo
+https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificates
+
+Next
+https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
+https://nextjs.org/ | Next.js - The React Framework
+
+https://redwoodjs.com/
+https://community.redwoodjs.com/ | RedwoodJS Community - Passionate about bringing full-stack to the JAMstack
+https://github.com/redwoodjs/redwood
+https://twitter.com/mojombo/status/1238942353273978880
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+https://github.com/hammerframework/hammer
+https://twitter.com/mojombo/status/1156561637450457089
+MEAN and MERN stacks
+https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack | Introducing the MEAN and MERN stacks | MongoDB
+
+https://www.stackbit.com/
+-->
+
+## Python Syntax and Python Versus JavaScript
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+<!--
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+-->
+
+<!--
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+
+http://youmightnotneedjquery.com/
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+jQuery
+https://jquery.com/ | jQuery
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
+
+
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
+
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+
+https://github.com/luruke/browser-2020
+https://github.com/phuoc-ng/html-dom
+http://caniuse.com/#search=service%20worker
+http://caniuse.com/#search=app%20cache
+-->
+
+
+## Types of JavaScript
+
+<!--
+es6 javascript features
+
+JavaScript
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+https://github.com/mjavascript/practical-es6
+
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
+-->
+
+<!--
+Node Docs
+
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+https://github.com/jsdom/jsdom
+https://github.com/ruyadorno/ipt
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+-->
+
+<!--
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+-->
+
+## ECMA
+
+<!--
+http://www.ecma-international.org/ecma-262
+-->
+
+## ECMAScript, JavaScript Standards
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+Node: CommonJS
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+<!--
+https://nodejs.org/en/docs/es6
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
 -->
 
 ## Trends
@@ -836,10 +1093,6 @@ Nuzzel
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
 Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
@@ -847,9 +1100,6 @@ Top Links of All Times
 * [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
@@ -861,9 +1111,7 @@ https://github.com/trending/developers
 https://www.infoq.com/
 
 https://substack.com/discover | Substack
-https://twitter.com/explore/tabs/for-you | Explore / Twitter
 https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
-https://www.youtube.com/feed/trending | Trending - YouTube
 
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 -->
@@ -941,8 +1189,13 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+JavaScript
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 
+Python
 https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
 
 Cheat sheet
@@ -952,6 +1205,7 @@ https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-
 
 https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
 
+Clones
 https://github.com/CleverProgrammers
 https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
 https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
@@ -963,7 +1217,6 @@ https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶�
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
 
@@ -971,7 +1224,6 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-
 
 https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
 -->
-
 
 ## Projects
 
@@ -1166,124 +1418,6 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
 
-
-
-## Python Syntax and Python Versus JavaScript
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-<!--
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
--->
-
-<!--
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-jQuery
-https://jquery.com/ | jQuery
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
-https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
-
-
-GitHub | The GitHub Blog
-https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
-
-
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-
-https://github.com/luruke/browser-2020
-https://github.com/phuoc-ng/html-dom
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
--->
-
-
-## Types of JavaScript
-
-<!--
-es6 javascript features
-
-JavaScript
-https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
-
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-https://github.com/mjavascript/practical-es6
-
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
--->
-
-<!-- 
-npm
-https://www.youtube.com/watch?v=468tirG434E
-https://blog.npmjs.org/ | The npm Blog
-https://blog.npmjs.org/post/617484925547986944/npm-v7-series-introduction | The npm Blog — npm v7 Series - Introduction
-https://blog.npmjs.org/post/186983646370/npm-cli-roadmap-summer-2019| The npm Blog — npm CLI Roadmap - Summer 2019
-https://github.com/npm/tink | npm/tink: a dependency unwinder for javascript
-
-https://expressjs.com/
-
-https://nodejs.org/en/ | #BlackLivesMatter
-https://github.com/nodejs/node | nodejs/node: Node.js JavaScript runtime
-
-https://nodejs.org/en/blog/release/v14.6.0/ | Node v14.6.0 (Current) | Node.js
-https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e
-
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
--->
-
-<!--
-Node Docs
-
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-https://github.com/jsdom/jsdom
-https://github.com/ruyadorno/ipt
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
--->
-
-<!--
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
--->
-
-
 ## Jargon, Algorithms, and Patterns
 
 JavaScript Patterns
@@ -1292,6 +1426,8 @@ JavaScript Patterns
 * [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 
 <!--
+https://github.com/ryanmcdermott/clean-code-javascript
+
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
 
   * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
@@ -1323,54 +1459,6 @@ https://en.wikipedia.org/wiki/Finite-state_machine
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 
 -->
-
-## ECMA
-
-<!--
-http://www.ecma-international.org/ecma-262
--->
-
-## ECMAScript, JavaScript Standards
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-Node: CommonJS
-* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://flaviocopes.com/node-difference-browser/
-node.js uses CommonJS modules
-https://flaviocopes.com/commonjs/
-browsers use ES modules
-https://flaviocopes.com/es-modules/
-Mozilla docs are ECMAScript Standard
--->
-
-<!--
-https://nodejs.org/en/docs/es6
-
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
-CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
-
-webpack CommonJS Explanation
-https://github.com/webpack/docs/wiki/commonjs
-https://webpack.js.org/api/module-methods/#commonjs
-
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
--->
-
 
 ## Programming Language Comparisons
 
@@ -1410,26 +1498,20 @@ Python Patterns
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
 http://rob.conery.io/2016/07/04/imposters-handbook/
 https://bigmachine.io/imposter/
 
-
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-
 Distributed Systems
-
 https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
 
 System Design
 
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
 
 https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
 https://github.com/lorin/systems-thinking
@@ -3881,6 +3963,18 @@ GitHub Trending
 
 Python
 * [Pythonic News](https://news.python.sc/)
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+<!--
+https://twitter.com/explore/tabs/for-you | Explore / Twitter
+https://www.youtube.com/feed/trending | Trending - YouTube
+
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+-->
 
 ## Management Books
 
