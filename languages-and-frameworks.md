@@ -197,7 +197,6 @@ https://twitter.com/rauchg/status/1260704904693182464
 https://twitter.com/Rich_Harris/status/1260711137244598272
 https://deno.land/std/fmt
 
-https://github.blog/2020-03-16-npm-is-joining-github/
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 
 https://github.com/nodejs/changelog-maker	
@@ -295,8 +294,6 @@ https://www.npmjs.com/package/jsx
 
 React Components	createClass	createClass/ES6	ES6/Function
 
-https://reactjs.org/docs/getting-started.html | Getting Started – React
-
 https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
 https://gridsome.org/
@@ -319,8 +316,6 @@ https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Insta
 -->
 
 Facebook- React Native
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
 Webpack (Bundler)
