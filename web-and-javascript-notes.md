@@ -100,7 +100,50 @@ https://twitter.com/balajis/status/1212459911285788672 | Balaji S. Srinivasan on
 https://www.freecodecamp.org/news/beaucarnes/learn-javascript-full-course--j4Va5cR1p | Learn JavaScript - Full 134-Part Course for Beginners | freeCodeCamp News
 
 https://github.com/javascriptteacher/node | javascriptteacher/node: Vanilla Node API endpoint server scaffold. This is close to what you would come up with if you started writing Node server from scratch. I plan on updating this code with a complete API, so keep an eye on the repo!
+-->
 
+<!--
+Cheat Sheets and Stuff
+
+https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
+
+* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
+* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
+
+https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In DevTools (Chrome 84)  |  Web  |  Google Developers
+
+* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
+* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
+
+https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
+
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
+https://github.com/azat-co/practicalnode
+
+JS Recommendations
+https://twitter.com/jkup/status/1217849585219010560
+
+100 Days of Code
+https://twitter.com/js_tut/status/1224057215092477952
+
+https://github.com/jgthms/javascript-in-14-minutes
+
+  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
+
+https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://github.com/palashmon/awesome-js-posts
+
+https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
+https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
+
+Testing
+https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
+-->
 
 <!--
 Performance
