@@ -1,6 +1,10 @@
 # Web and JavaScript Notes
 
 <!--
+What is
+https://whatthefuck.is/ | Dan’s JavaScript Glossary
+https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+
 https://bestmotherfucking.website/ | Best Motherfucking Website
 
 https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
