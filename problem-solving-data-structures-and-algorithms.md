@@ -486,10 +486,7 @@ https://github.com/gaerae/awesome-algorithms | gaerae/awesome-algorithms: A cura
 https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
 https://github.com/stacygohyunsi/algorithms-primer
 
-https://github.com/TheAlgorithms | The Algorithms
 https://github.com/TheAlgorithms/Project-Euler | TheAlgorithms/Project-Euler: A collection of solved Project Euler problems in various programming languages.
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 Python
 https://github.com/AnthonyDiGirolamo/algorithms-in-python | AnthonyDiGirolamo/algorithms-in-python: Implementing and testing some algorithms in python (and ruby).
