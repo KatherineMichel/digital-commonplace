@@ -213,10 +213,6 @@ Mobile
 * [Android Developer](https://developer.android.com/)
 * [Java](https://www.java.com/en/)
 
-<!--
-https://www.scala-lang.org/
--->
-
 ## JavaScript- Styleguides, Formatting, Linting
 
 JavaScript Styleguides
@@ -289,10 +285,6 @@ JSX (Syntax Extension; React)
 <!--
 https://www.npmjs.com/package/jsx
 
-Storybook
-https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-
 React Components	createClass	createClass/ES6	ES6/Function
 
 https://reactjs.org/docs/getting-started.html | Getting Started – React
@@ -317,9 +309,6 @@ https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 -->
-
-Create React App
-* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
 Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
