@@ -1,8 +1,76 @@
 # Python and JavaScript Learning Resources
 
+## Python Syntax and Python Versus JavaScript
+
+Programming Language Leveling Up and Comparisons- Python
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
+
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+<!--
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+-->
+
 ## Django Organization Tools
 
 <!--
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+
+https://codingbat.com/ | CodingBat
+
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
+https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
+
+https://github.com/Kallaway/100-days-of-code
+https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
+
+100 Days Tweets
+https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
+https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
+
+
+Lincoln Loop Stack
+High Performance Django Stack
+
+https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
+https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
+https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
+https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
+
+
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
 
