@@ -6,6 +6,7 @@ https://whatthefuck.is/ | Dan’s JavaScript Glossary
 https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 https://bestmotherfucking.website/ | Best Motherfucking Website
+https://github.com/KeenRivals/bestmotherfucking.website
 
 https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
 https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
