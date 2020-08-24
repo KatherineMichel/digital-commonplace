@@ -445,10 +445,6 @@ https://realpython.com/lessons/cpython-book-download/
 https://realpython.com/cpython-internals/resources/
 
 
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/zedr/clean-code-python
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
 https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
 
 Driven
@@ -907,13 +903,13 @@ Svelte
 Alpine
 * [Alpine GitHub](https://github.com/alpinejs/alpine)
 
-Gatsby
+Site Frameworks (other than Jekyll)
 * [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 * [Hugo](https://gohugo.io/)
 
 Mojombo
 * [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
-* [Hammer GitHub](https://github.com/hammerframework/hammer)
+* [Hammer (React for Rails) GitHub](https://github.com/hammerframework/hammer)
 
 Vite (Evan You)
 * [Vite GitHub](https://github.com/vitejs/vite)
@@ -922,6 +918,9 @@ Flutter and Dart (Mobile)
 * [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 
 <!--
+https://twitter.com/fauna
+https://twitter.com/prisma
+
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
 https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
@@ -935,11 +934,6 @@ https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twit
 
 https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 
-Redwood, React, GraphQL, Prisma
-https://twitter.com/fauna
-https://twitter.com/prisma
-https://twitter.com/mojombo/status/1278332287948447744 | Tom Preston-Werner on Twitter: "I’m excited to be an investor in @Fauna’s latest round! We need a distributed serverless DB for the future of webapps (e.g. those made with @RedwoodJS) and Fauna is making it happen. Looking forward to @Prisma support for it, too. :)" / Twitter
-
 https://github.com/nteract/vdom
 
 vdom
@@ -949,7 +943,7 @@ Svelte
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
 
-Next
+Notion API
 https://twitter.com/_ijjk/status/1216812149361860608 | JJ Kasper on Twitter: "Excited to share our long-awaited Next.js + Notion statically-generated blog example with the same tech as https://t.co/HVcLCVUO5w! - Edit via Notion - Blazing fast - JAMstack based - Always available - Fully customizable - Incremental SSG - MIT Licensed https://t.co/fD2vWxq2Y6" / Twitter
 -->
 
@@ -1026,7 +1020,10 @@ Node Docs
 
 HTTP, API, DOM
 https://expressjs.com/en/api.html
+
+Playwright
 https://github.com/jsdom/jsdom
+
 https://github.com/ruyadorno/ipt
 
 https://nodejs.org/api/http.html
@@ -1117,6 +1114,7 @@ https://www.techopedia.com/it-terms/1
 
 <!--
 https://github.com/trending/developers
+https://repl.it/leaders | Repl.it - Leaderboard
 
 https://www.infoq.com/
 
@@ -1139,18 +1137,13 @@ Product Hunt Product Leader Boards
 * [Top 500 Products](http://500products.com)
 
 Glitch Examples
+* [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
-https://github.com/trending/developers
-
 https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
 https://hn.algolia.com/?q=ask+hn
 https://hndex.org/
-
-https://glitch.com/@python | Python
-
-https://repl.it/leaders | Repl.it - Leaderboard
 
 https://codepen.io/tag/python
 http://codepen.io/projects/
@@ -1439,30 +1432,37 @@ JavaScript Patterns
 * [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
 
 <!--
-https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
 
   * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
   * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
 -->
 
 <!--
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+
+https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/zedr/clean-code-python
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
-
-https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
 
 JavaScript Algos
 https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
 https://github.com/andyttran/guide_to_algorithms
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
@@ -1593,15 +1593,7 @@ Python Success Stories
 ## Django Consulting Firms
 ## Major Organizations and Projects that Use Django
 
-## Django Org Tools
-
 <!--
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
-
-
 https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
 https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
 
@@ -1610,6 +1602,15 @@ https://github.com/pythonsd/test-driven-django-development | pythonsd/test-drive
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
 https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
+-->
+
+## Django Org Tools
+
+<!--
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
 
 
 https://github.com/sixfeetup/cookiecutter-sixiedjango
