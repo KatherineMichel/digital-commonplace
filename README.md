@@ -278,23 +278,16 @@ https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
 https://js13kgames.com/
 
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-https://addyosmani.com/largescalejavascript/
-
-https://reactnative.dev/docs/getting-started
-https://github.com/nextjs-starters/nextjs-starters
-https://github.com/storybookjs/storybook
-https://github.com/microsoft/playwright-python
-https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
-
-https://github.com/ryanmcdermott/clean-code-javascript
-
 https://github.com/Azure/azure-quickstart-templates
 https://twitter.com/di_codes/status/1295793468762136576
 
 https://github.com/nodejs/nodejs.dev
 https://github.com/jessfraz/dockerfiles
+
+Bash, Command Line
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
 
 
 https://home.cern/topics/birth-web | The birth of the web | CERN
@@ -306,15 +299,6 @@ https://roadmap.sh/
 
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-
-https://github.com/joelparkerhenderson/architecture_decision_record
-
-https://github.com/microsoft/opensource.microsoft.com
-https://opensource.microsoft.com/program/#program-contributing
-
-https://github.com/github/rest-api-description
-
 
 
 Simplicity
@@ -609,6 +593,9 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
 https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
 
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
@@ -654,19 +641,6 @@ https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
--->
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
 
 ## Useful Learning Resources
@@ -723,43 +697,26 @@ https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOf
 https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
 https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
 
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
 No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
 https://ehmatthes.github.io/pcc_2e/recommended_reading/recommended_reading/ | Recommended Reading - Python Crash Course, 2nd Edition
-
 https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
-
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
-Automate the Boring Stuff
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-What is
-https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
-https://whatthefork.is/memoization | What the fork is memoization? ・ Dan’s JavaScript Glossary
-https://whatthefuck.is/closure | What the fuck is a closure? ・ Dan’s JavaScript Glossary
-https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-
 
 JavaScript- Hawt
 
 
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-
 https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 https://github.com/JackMcKew/awesome-python-bytes
 
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
 https://realpython.com/free-courses-march-2020 | Enjoy Free Courses, On Us – Real Python
 real python python basics pdf - Google Search
@@ -776,8 +733,6 @@ https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
 https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 hyper terminal - Google Search
 update node and npm - Google Search
-
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
 https://frontendmasters.com
 
@@ -796,7 +751,14 @@ https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
+Traversy
+https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
 
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 
@@ -805,13 +767,12 @@ https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Struct
 https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
 https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
 
-http://www.traversymedia.com
-https://twitter.com/traversymedia
 https://www.udemy.com/user/brad-traversy/
 https://www.freecodecamp.org/news/web-development-2020/
 https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
 https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+
 
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
@@ -820,10 +781,391 @@ https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: 
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 -->
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node Tutorials
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+https://reactnative.dev/docs/getting-started
+https://github.com/nextjs-starters/nextjs-starters
+https://github.com/storybookjs/storybook
+https://github.com/microsoft/playwright-python
+https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
+
+https://github.com/sqreen/awesome-nodejs-projects
+
+https://addyosmani.com/largescalejavascript/
+
+https://github.com/ryanmcdermott/clean-code-javascript
+-->
+
+## Trends
+
+Stars
+* [Astral App](https://astralapp.com)
+
+Nuzzel
+* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
+* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
+
+Nuzzel
+* [Nuzzel](http://nuzzel.com)
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+<!--
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+-->
+
+<!--
+https://github.com/trending/developers
+
+https://www.infoq.com/
+
+https://substack.com/discover | Substack
+https://twitter.com/explore/tabs/for-you | Explore / Twitter
+https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
+https://www.youtube.com/feed/trending | Trending - YouTube
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+-->
+
+## Project Ideas
+
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+<!--
+https://github.com/trending/developers
+
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hn.algolia.com/?q=ask+hn
+https://hndex.org/
+
+https://glitch.com/@python | Python
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
+* [Hunts.xyz](https://hunts.xyz)
+
+https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
+https://upcoming.org/about | About - Upcoming
+-->
+
+## Stack and Built With
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [vue.js Showcase](https://madewithvuejs.com/)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Showcase](https://madewithreactjs.com/)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+<!--
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
+## Projects
+
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+Cheat sheet
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+
+
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+-->
+
+
+## Projects
+
+<!--
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+-->
+
+<!--
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+Simon- 
+Self-Rewriting README, TIL
+Datasette
+Doc Unit Tests
+Release, Weeknotes
+
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://twitter.com/aicoding_/status/1295011129836568577
+https://github.com/coding-ai/eyeBlinkedTREX
+
+Paint
+https://github.com/muan
+https://github.com/muan/paint-github
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+Cassidy
+
+Sarah
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+Sarah
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
+-->
+
+## Makers
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+<!--
+https://womenmake.com/ | Women Make
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+GitHub
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+<!--
+Lorena
+
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
+
+https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
+https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
+https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
+https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
+https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+
+https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
+https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
+
+https://github.com/tj
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+-->
+
+Women Who Inspire Me
+* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+
+<!--
+Mariatta
+Jessica
+https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
+https://cassidoo.co/ | Cassidy Williams
+https://github.com/jessfraz/
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+
+https://virus.cafe/ | Virus Cafe
+https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
+
+https://twitter.com/hayleydenb/status/1257786499933728768
+
+Cool way to do it
+https://twitter.com/MishManners/status/1240839777437364224
+https://twitter.com/MishManners/status/1239360667703885825
+https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!--
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+-->
+
 
 
 ## Python Syntax and Python Versus JavaScript
@@ -868,6 +1210,7 @@ https://github.com/phuoc-ng/html-dom
 http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
 -->
+
 
 ## Types of JavaScript
 
@@ -918,18 +1261,6 @@ https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twit
 -->
 
 <!--
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node Tutorials
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
--->
-
-<!--
 Node Docs
 
 HTTP, API, DOM
@@ -950,16 +1281,6 @@ https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js 
 https://www.npmjs.com/package/standard | standard - npm
 https://docs.npmjs.com/packages-and-modules/
 https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
--->
-
-<!--
-https://web.dev/ | web.dev  |  web.dev
-
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
 
@@ -1002,59 +1323,6 @@ https://en.wikipedia.org/wiki/Finite-state_machine
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 
 -->
-
-
-<!--
-Cheat Sheets and Stuff
-
-https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj?hl=en
-
-* [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
-* [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-
-https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In DevTools (Chrome 84)  |  Web  |  Google Developers
-
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)     
-* [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-* [Joyent's Production Practices- Design](https://www.joyent.com/node-js/production/design)  
-
-https://github.com/sqreen/awesome-nodejs-projects
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
-https://github.com/azat-co/practicalnode
-https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
-
-JS Recommendations
-https://twitter.com/jkup/status/1217849585219010560
-
-100 Days of Code
-https://twitter.com/js_tut/status/1224057215092477952
-
-https://github.com/jgthms/javascript-in-14-minutes
-
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
-
-https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
-
-https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
-
-https://github.com/palashmon/awesome-js-posts
-
-https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
-https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
-
-Testing
-https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
--->
-
-## Browser Object Model (BOM) and Document Object Model (DOM)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 ## ECMA
 
@@ -1103,44 +1371,6 @@ https://github.com/standard/standard
 https://github.com/standard | Standard JS
 -->
 
-## Standards
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-JavaScript
-* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
-* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
-
-Node
-* [Node.js GitHub](https://github.com/nodejs)
-
-The Chromium Projects
-* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
-
-<!--
-https://github.com/tc39/proposals
-https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
-
-
-https://v8.dev/docs
-https://github.com/v8/node/
-https://tc39.es/ecma262/
-https://github.com/tc39/ecma262
-https://webassembly.github.io/spec/core/
-https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md | Design of V8 bindings
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://html.spec.whatwg.org/multipage/
-https://en.wikipedia.org/wiki/HTTP/3
--->
-
 
 ## Programming Language Comparisons
 
@@ -1180,6 +1410,10 @@ Python Patterns
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+
 https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
 https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
 
@@ -1189,7 +1423,11 @@ https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
 
+Distributed Systems
+
 https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
 
 * [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
 
@@ -1220,11 +1458,19 @@ https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A 
 
 Maintainability
 https://github.com/Droogans/unmaintainable-code
+-->
 
-Bash, Command Line
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
 
 
@@ -1246,62 +1492,7 @@ https://techyaks.com/python-year-tytop.html
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
-<!--
-lyftvm
-
-mergebot
-
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-
-https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
-
-https://www.youtube.com/watch?v=lx5WQjXLlq8&
-https://speakerdeck.com/carljm/instagram-under-the-hood
-https://blog.disqus.com/scaling-django-to-8-billion-page-views
-https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
-https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
-
-https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
--->
-
 ## General Talks
-
-<!--
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
-
 ## Companies that Use Python
 ## Major Organizations and Projects that Use Python or Django
 ## Django Consulting Firms
@@ -1456,359 +1647,6 @@ Hosting Blogs
 
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
-
-## Trends
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Nuzzel
-* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
-* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
-
-Nuzzel
-* [Nuzzel](http://nuzzel.com)
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-<!--
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
--->
-
-<!--
-https://github.com/trending/developers
-
-https://www.infoq.com/
-
-https://substack.com/discover | Substack
-https://twitter.com/explore/tabs/for-you | Explore / Twitter
-https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
-https://www.youtube.com/feed/trending | Trending - YouTube
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
--->
-
-## Project Ideas
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
-
-<!--
-https://github.com/trending/developers
-
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hn.algolia.com/?q=ask+hn
-https://hndex.org/
-
-https://glitch.com/@python | Python
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-* [Hunts.xyz](https://hunts.xyz)
-
-https://betalist.com/ | Discover and get early access to tomorrow's startups | BetaList
-https://upcoming.org/about | About - Upcoming
--->
-
-## Makers
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://womenmake.com/ | Women Make
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-Django, GitHub, SQL
-* [Jeff Triplett Twitter](https://twitter.com/webology)
-* [Simon Willison](https://static.simonwillison.net)
-
-GitHub
-* [Steve Winton GitHub](https://github.com/swinton/)
-* [Jason Etco GitHub](https://github.com/JasonEtco/)
-* [Gregor Martynus GitHub](https://github.com/gr2m/)
-* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
-
-<!--
-Lorena
-
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
-
-https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
-https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
-https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
-https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
-https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
-
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://www.bdougie.live/ | bdougie.live
-https://github.com/bdougie/blog | bdougie/blog: My blog
-
-https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
-https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
-
-https://github.com/tj
-https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
--->
-
-Women Who Inspire Me
-* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
-* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
-* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
-* [Camille Fournier Twitter](https://twitter.com/skamille)
-* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
-* [Jess Frazelle GitHub](https://github.com/jessfraz)
-* [Leigh Honeywell](https://hypatia.ca)
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
-* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
-* [Suz Hinton Twitter](https://twitter.com/noopkat)
-
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-
-<!--
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://cassidoo.co/ | Cassidy Williams
-https://github.com/jessfraz/
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
-
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
-
-https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
-
-https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
-
-https://virus.cafe/ | Virus Cafe
-https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
-
-https://twitter.com/hayleydenb/status/1257786499933728768
-
-Cool way to do it
-https://twitter.com/MishManners/status/1240839777437364224
-https://twitter.com/MishManners/status/1239360667703885825
-https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
-
-https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
--->
-
-## Stack and Built With
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [vue.js Showcase](https://madewithvuejs.com/)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Showcase](https://madewithreactjs.com/)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-<!--
-https://madewithreactnative.com/
-
-https://github.com/sqreen/awesome-nodejs-projects
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
-## Projects
-
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
-<!--
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-Cheat sheet
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-
-Traversy
-https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
-
-
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
--->
-
-
-
-## Projects
-
-<!--
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
--->
-
-<!--
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-
-Mondrian
-https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
-
-https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
-
-Simon- 
-Self-Rewriting README, TIL
-Datasette
-Doc Unit Tests
-Release, Weeknotes
-
-https://charliegerard.dev/blog/github-action-toxic-comments/
-https://github.com/charliegerard
-https://github.com/charliegerard/safe-space/
-https://github.com/charliegerard/safe-space/blob/master/index.js
-
-https://twitter.com/aicoding_/status/1295011129836568577
-https://github.com/coding-ai/eyeBlinkedTREX
-
-Paint
-https://github.com/muan
-https://github.com/muan/paint-github
-https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
-
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Cassidy
-
-Sarah
-https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-Sarah
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-Chrome Extension
-https://github.com/sdras/productive-twitter/
--->
-
-
-
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
-<!--
-https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
-
-https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
-https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
-https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
-https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
--->
-
-* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
-
-<!--
-https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
-
-https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
-https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
-
-https://24hrstartup.com/ | The 24 Hour Startup Challenge
-
-https://www.producthunt.com/makers-festival/wfh
-https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
-
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
-
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
--->
-
 
 ## Heroku
 
@@ -2440,6 +2278,8 @@ https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
 -->
 
 <!--
+https://github.com/github/rest-api-description
+
 https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
 
 https://github.com/blog/967-github-secrets | GitHub Secrets
@@ -2637,12 +2477,15 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
   
 <!--
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-
 https://github.com/todogroup/awesome-oss-mgmt
+
+https://github.com/microsoft/opensource.microsoft.com
+https://opensource.microsoft.com/program/#program-contributing
 
 https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
 https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 
 https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
 https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
@@ -2751,6 +2594,7 @@ ADR
 https://github.blog/2020-08-13-why-write-adrs/
 https://adr.github.io/ | Architectural Decision Records | adr.github.io
 https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record
 
 https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
 
@@ -2761,13 +2605,10 @@ https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 
 -->
 
 
-
 <!--
 https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 -->
-
-
 
 
 <!--
