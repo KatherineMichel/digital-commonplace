@@ -320,17 +320,6 @@ https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring S
 https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 
 
-https://stackshare.io/twitter/twitter
-
-Twitter language
-https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
-https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
-
-Twitter
-Site case study
-https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
-
 
 Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
@@ -638,6 +627,145 @@ Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 -->
 
+## Python Syntax and Python Versus JavaScript
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+<!--
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+-->
+
+<!--
+https://github.com/luruke/browser-2020
+http://caniuse.com
+https://caniuse.com/#feat=es6
+
+https://github.com/phuoc-ng/html-dom
+
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
+
+http://youmightnotneedjquery.com/
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+jQuery
+https://jquery.com/ | jQuery
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
+
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
+
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+-->
+
+
+## Types of JavaScript
+
+<!--
+es6 javascript features
+
+JavaScript
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+https://github.com/mjavascript/practical-es6
+
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
+-->
+
+<!--
+Node Docs
+
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+Playwright
+https://github.com/jsdom/jsdom
+
+https://github.com/ruyadorno/ipt
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+-->
+
+<!--
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+-->
+
+## ECMA
+
+<!--
+http://www.ecma-international.org/ecma-262
+-->
+
+## ECMAScript, JavaScript Standards
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+Node: CommonJS
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+<!--
+https://nodejs.org/en/docs/es6
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
+-->
+
 ## Useful Learning Resources
 
 Wes Bos
@@ -775,6 +903,135 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 
 Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+
+## Project Ideas
+
+Stars
+* [Astral App](https://astralapp.com)
+
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+Glitch Examples
+* [Glitch Python](https://glitch.com/@python)
+* [Glitch Websites](https://glitch.com/@websites)
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+<!--
+https://womenmake.com/ | Women Make
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+<!--
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hn.algolia.com/?q=ask+hn
+https://hndex.org/
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
+https://github.com/trending/developers
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+
+https://www.techmeme.com/
+https://www.infoq.com/
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+-->
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [vue.js Showcase](https://madewithvuejs.com/)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
+* [React Showcase](https://madewithreactjs.com/)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+<!--
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
+## Projects
+
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+JavaScript
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+
+Python
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+Cheat sheet
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+
+
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+Clones
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
 -->
 
 ## Deploy
@@ -964,223 +1221,6 @@ Svelte
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 -->
 
-## Python Syntax and Python Versus JavaScript
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-<!--
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
--->
-
-<!--
-https://github.com/luruke/browser-2020
-http://caniuse.com
-https://caniuse.com/#feat=es6
-
-https://github.com/phuoc-ng/html-dom
-
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-jQuery
-https://jquery.com/ | jQuery
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
-https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
-
-GitHub | The GitHub Blog
-https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
-
-
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
--->
-
-
-## Types of JavaScript
-
-<!--
-es6 javascript features
-
-JavaScript
-https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
-
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-https://github.com/mjavascript/practical-es6
-
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
--->
-
-<!--
-Node Docs
-
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-Playwright
-https://github.com/jsdom/jsdom
-
-https://github.com/ruyadorno/ipt
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
--->
-
-<!--
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
--->
-
-## ECMA
-
-<!--
-http://www.ecma-international.org/ecma-262
--->
-
-## ECMAScript, JavaScript Standards
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-Node: CommonJS
-* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://flaviocopes.com/node-difference-browser/
-node.js uses CommonJS modules
-https://flaviocopes.com/commonjs/
-browsers use ES modules
-https://flaviocopes.com/es-modules/
-Mozilla docs are ECMAScript Standard
--->
-
-<!--
-https://nodejs.org/en/docs/es6
-
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
-CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
-
-webpack CommonJS Explanation
-https://github.com/webpack/docs/wiki/commonjs
-https://webpack.js.org/api/module-methods/#commonjs
-
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
--->
-
-## Project Ideas
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
-
-Glitch Examples
-* [Glitch Python](https://glitch.com/@python)
-* [Glitch Websites](https://glitch.com/@websites)
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://womenmake.com/ | Women Make
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-<!--
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hn.algolia.com/?q=ask+hn
-https://hndex.org/
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-https://github.com/trending/developers
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
-
-https://www.techmeme.com/
-https://www.infoq.com/
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
--->
-
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [vue.js Showcase](https://madewithvuejs.com/)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Showcase](https://madewithreactjs.com/)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-<!--
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
 
 ## Stack
 
@@ -1191,113 +1231,36 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
-## Projects
-
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+## Companies
 
 <!--
-Node
-https://github.com/sqreen/awesome-nodejs-projects
+http://highscalability.com
+http://highscalability.com/all-time-favorites/
 
-JavaScript
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://stackshare.io/twitter/twitter
 
-Python
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-Cheat sheet
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-
-
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-
-Clones
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+Twitter
+Site case study
+https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
 -->
 
-## Projects
+## High Performance Python and Django and Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+https://us.pycon.org/2020/schedule/talks/
 
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+https://techyaks.com/python-year-tytop.html
 -->
 
-<!--
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
 
-Mondrian
-https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
 
-https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
-
-Simon- 
-Self-Rewriting README, TIL
-Datasette
-Doc Unit Tests
-Release, Weeknotes
-
-https://charliegerard.dev/blog/github-action-toxic-comments/
-https://github.com/charliegerard
-https://github.com/charliegerard/safe-space/
-https://github.com/charliegerard/safe-space/blob/master/index.js
-
-https://twitter.com/aicoding_/status/1295011129836568577
-https://github.com/coding-ai/eyeBlinkedTREX
-
-Paint
-https://github.com/muan
-https://github.com/muan/paint-github
-https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
-
-Netlify
-https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
-https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
-
-Cassidy
-
-Sarah
-https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-Sarah
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-Chrome Extension
-https://github.com/sdras/productive-twitter/
--->
 
 ## Competitions, Hackathons, Festivals, Communities
 
@@ -1338,87 +1301,6 @@ https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
-
-## Jargon, Algorithms, and Patterns
-
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
--->
-
-<!--
-https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-
-https://github.com/ryanmcdermott/clean-code-javascript
-https://github.com/zedr/clean-code-python
-
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
-
-
-JavaScript Algos
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-
-https://github.com/andyttran/guide_to_algorithms
-
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
-
--->
-
-## Programming Language Comparisons
-
-## Patterns
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Refactoring
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-<!--
-https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
 
 
 ## General Talks
@@ -1561,92 +1443,6 @@ https://devchecklists.com/vintas-high-quality-standards/
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 -->
 
-## High Performance Python and Django and Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-http://highscalability.com
-http://highscalability.com/all-time-favorites/
-
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
-https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
--->
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
-
-<!--
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
--->
-
 
 ## GitHub and Hosting Blogs
 
@@ -1752,6 +1548,156 @@ https://devcenter.heroku.com/articles/collaborating | Collaborating with Other D
 
 Release Phase
 https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+-->
+
+
+## Jargon, Algorithms, and Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+<!--
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+-->
+
+<!--
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
+
+https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/zedr/clean-code-python
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
+
+
+JavaScript Algos
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+
+https://github.com/andyttran/guide_to_algorithms
+
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+
+-->
+
+## Programming Language Comparisons
+
+## Patterns
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Refactoring
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+<!--
+https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+-->
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
+https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
+
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+-->
+
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+
+<!--
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
 
 
@@ -2511,6 +2457,10 @@ https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google 
 
 
 <!--
+Twitter language
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
+
 GitHub
 https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
 
@@ -2707,6 +2657,66 @@ https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks
 https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
+
+
+## Projects
+
+<!--
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+-->
+
+<!--
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+Simon- 
+Self-Rewriting README, TIL
+Datasette
+Doc Unit Tests
+Release, Weeknotes
+
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://twitter.com/aicoding_/status/1295011129836568577
+https://github.com/coding-ai/eyeBlinkedTREX
+
+Paint
+https://github.com/muan
+https://github.com/muan/paint-github
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
+Netlify
+https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
+https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
+
+Cassidy
+
+Sarah
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+Sarah
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
 -->
 
 <!--
