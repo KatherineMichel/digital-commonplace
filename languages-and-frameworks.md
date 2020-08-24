@@ -128,8 +128,6 @@ https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitt
 ## Python and Django
 
 <!--
-https://wagtail.io/blog/wagtail-2-9/ | Wagtail 2.9 | Wagtail CMS
-
 https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
 
 https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
@@ -317,14 +315,6 @@ https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Insta
 
 Facebook- React Native
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-<!--
-https://github.com/webpack/webpack-cli
-https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serves a webpack app. Updates the browser on changes.
--->
 
 React-Router (React Stack)
 * [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
