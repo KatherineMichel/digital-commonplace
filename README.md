@@ -617,6 +617,8 @@ https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a 
 ## Technical Writing Guides
 
 <!--
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+
 https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 
 Docs- Important!
@@ -691,6 +693,10 @@ Practice
 * [LeetCode](https://leetcode.com)
 
 <!--
+CSS/JS
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
 Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
@@ -711,13 +717,7 @@ https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 https://twitter.com/search?q=%40KatiMichel%20%23100DaysofCode&src=typed_query | @KatiMichel #100DaysofCode - Twitter Search / Twitter
 https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click | #100DaysOfCode - Twitter Search / Twitter
 
-https://github.com/Kallaway/100-days-of-code
-https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
 https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
-
-100 Days Tweets
-https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
-https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
 
 
 https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
@@ -730,9 +730,6 @@ https://nostarch.com/seriouspython | Serious Python | No Starch Press
 https://ehmatthes.github.io/pcc_2e/recommended_reading/recommended_reading/ | Recommended Reading - Python Crash Course, 2nd Edition
 
 https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
-https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
 https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
 
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
@@ -743,8 +740,6 @@ https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on T
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
 
 What is
 https://twitter.com/JavaScriptDaily/status/1287557820473253891 | JavaScript Daily on Twitter: "What The Heck Is.. Memoization? https://t.co/UQhTc3Vy6W" / Twitter
@@ -755,12 +750,10 @@ https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionat
 
 JavaScript- Hawt
 
-https://codingbat.com/ | CodingBat
 
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
 
 https://www.pythonmorsels.com/resources/
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
@@ -803,6 +796,10 @@ https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+
 Traversy
 https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
 https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
@@ -819,11 +816,9 @@ https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_j
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
 https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
 https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
 
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
@@ -860,8 +855,10 @@ https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
 
+
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
 
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
@@ -870,20 +867,6 @@ https://github.com/luruke/browser-2020
 https://github.com/phuoc-ng/html-dom
 http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
-
-
-https://bestmotherfucking.website/ | Best Motherfucking Website
-
-https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
-https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
-
-http://diana-adrianne.com/purecss-francine/ | Francine
-https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
-
-Single Div
-https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on Twitter: "If you ever think you're good at CSS, check out this website. These designs are all done with a single &lt;div&gt; element. It's insane! https://t.co/tleibWDJys" / Twitter
-https://a.singlediv.com/ | A Single Div
 -->
 
 ## Types of JavaScript
@@ -1018,7 +1001,6 @@ https://en.wikipedia.org/wiki/Finite-state_machine
 
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 
-https://github.com/palashmon/awesome-js-posts
 -->
 
 
@@ -1056,6 +1038,8 @@ https://github.com/mbeaudru/modern-js-cheatsheet | mbeaudru/modern-ja-cheatsheet
 https://github.com/lydiahallie/javascript-questions | lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!
 
 https://github.com/leonardomso/33-js-concepts | leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.
+
+https://github.com/palashmon/awesome-js-posts
 
 https://github.com/mjavascript/mastering-modular-javascript | mjavascript/mastering-modular-javascript: 📦 Module thinking, principles, design patterns and best practices.
 https://github.com/jkup/functional-javascript | jkup/functional-javascript: A list of functional javascript resources
@@ -1196,7 +1180,6 @@ Python Patterns
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
-http://highscalability.com
 https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
 https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
 
@@ -1252,6 +1235,7 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
+http://highscalability.com
 http://highscalability.com/all-time-favorites/
 
 https://us.pycon.org/2020/schedule/talks/
@@ -1437,16 +1421,8 @@ https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Rem
 https://github.com/search?q=django+feature+flags | Search · django feature flags
 https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
 https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-
-Lincoln Loop Stack
-High Performance Django Stack
-
-https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
-https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
-http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
-https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
-https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
 -->
+
 
 ## Choices
 
@@ -1466,6 +1442,20 @@ Check if you need a Django app or a regular Python package: Django apps need to 
 
 
 
+## GitHub and Hosting Blogs
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+Hosting Blogs
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
 
 ## Trends
 
@@ -1717,7 +1707,34 @@ https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c
 -->
 
 
+
+## Projects
+
 <!--
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+-->
+
+<!--
+Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+Simon- 
+Self-Rewriting README, TIL
+Datasette
+Doc Unit Tests
+Release, Weeknotes
+
 https://charliegerard.dev/blog/github-action-toxic-comments/
 https://github.com/charliegerard
 https://github.com/charliegerard/safe-space/
@@ -1748,37 +1765,8 @@ https://github.com/sdras?tab=repositories
 https://github.com/sdras/night-owl-vscode-theme
 Chrome Extension
 https://github.com/sdras/productive-twitter/
-
-CSS/JS
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
-## Projects
-
-<!--
-https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
-
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
-Mondrian
-https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
-
-https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
-
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-Simon- 
-Self-Rewriting README, TIL
-Datasette
-Doc Unit Tests
-Release, Weeknotes
--->
 
 
 ## Competitions, Hackathons, Festivals, Communities
@@ -1821,21 +1809,6 @@ https://glitch.com/producthunt | Product Hunt
 Guides for Development
 -->
 
-
-## GitHub and Hosting Blogs
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-Hosting Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
 
 ## Heroku
 
@@ -1931,16 +1904,17 @@ https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev
 
 
 <!--
-Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-
 https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
 
 https://thoughtbot.com/blog/how-to-make-a-chrome-extension
 https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
 -->
 
 ## API
@@ -1962,11 +1936,6 @@ https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best
 
 https://github.com/realpython/list-of-python-api-wrappers
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
 -->
 
 ## Bots
@@ -2470,6 +2439,30 @@ https://cli.github.com/
 https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
 -->
 
+<!--
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
+https://github.com/blog/967-github-secrets | GitHub Secrets
+
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
+
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
+https://github.com/features/insights | Features · Insights
+
+GitHub Stars
+https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
+
+https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
+https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
+https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+-->
+
 ## GitHub Security
 
 <!--
@@ -2520,6 +2513,18 @@ Important Orgs
 * [TODO Group](https://todogroup.org/)
 
 <!--
+JS
+https://twitter.com/openjsf
+
+CNCF
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
+
 https://www.eff.org
 https://www.redhat.com
 https://en.wikipedia.org/wiki/GNU_Project
@@ -2592,6 +2597,7 @@ https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organiz
 Open source report card
 -->
 
+
 ## Open Source in Orgs
 
 Google: Why Open Source
@@ -2631,6 +2637,8 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
   
 <!--
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+
 https://github.com/todogroup/awesome-oss-mgmt
 
 https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
@@ -2642,35 +2650,12 @@ https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google 
 -->
 
 
+
+
 <!--
 GitHub
 https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
 
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-https://github.com/blog/967-github-secrets | GitHub Secrets
-
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Discussions, Codespaces, securing code in private repositories, and more - The GitHub Blog
-
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
-https://github.com/features/insights | Features · Insights
-
-GitHub Stars
-https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
-
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
--->
-
-
-<!--
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
@@ -2736,6 +2721,7 @@ https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
 
+
 <!--
 https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
 https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
@@ -2754,21 +2740,8 @@ https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introd
 https://joss.theoj.org/ | Journal of Open Source Software
 http://jmlr.org/ | Journal of Machine Learning Research Homepage
 
-JS
-https://twitter.com/openjsf
-
-CNCF
-https://www.cncf.io/ | Home - Cloud Native Computing Foundation
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
-
 https://openusage.org/ | Open Usage Commons
 http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
 
 Metrics
 https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
@@ -2792,18 +2765,6 @@ https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 
 <!--
 https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-Google
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-DevOps
-https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
-https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339/ref=as_sl_pc_tf_til?tag=nicolefv-20&linkCode=w00&linkId=1d7fac0c03a9a8cd9e853ea3003241a3&creativeASIN=1942788339 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations: Nicole Forsgren PhD, Jez Humble, Gene Kim: 9781942788331: Amazon.com: Books
 -->
 
 
@@ -3378,6 +3339,11 @@ High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 
 <!--
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
 https://www.redhat.com/en/blog
 
 https://www.redhat.com/en/resources/digital-transformation-ebook
@@ -3464,6 +3430,8 @@ Ops Schools and DevOps Bootcamps
 * [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
 
 <!--
+https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
+
 https://puppet.com/resources/whitepaper/state-of-devops-report
 
 https://devops.com
