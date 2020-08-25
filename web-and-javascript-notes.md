@@ -1,6 +1,16 @@
 # Web and JavaScript Notes
 
 <!--
+JavaScript
+"JavaScript engines are commonly found in web browsers, including V8 in Chrome, SpiderMonkey in Firefox, and Chakra in Edge. Each engine is like a language module for its application, allowing it to support a certain subset of the JavaScript language."
+https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+
+https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
+https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
+
+GitHub | The GitHub Blog
+https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
 What is
 https://whatthefuck.is/ | Dan’s JavaScript Glossary
 https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
@@ -32,10 +42,6 @@ https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-ap
 https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
 https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
 https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
-
-
-https://medium.com/the-node-js-collection
-https://blog.risingstack.com
 
 
 Deno
@@ -172,6 +178,23 @@ W3C DOM4
 * [What is the Document Object Model?](https://www.w3.org/DOM/#what)
 * [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+## ECMA
+
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
+ECMAScript and ES6, ES7 Forthcoming
+* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
+* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
+
+<!--
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+http://www.ecma-international.org/ecma-262
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
+-->
 
 ## Standards
 
@@ -455,6 +478,9 @@ Mozilla JavaScript Tutorials
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 
 <!--
+https://medium.com/the-node-js-collection
+https://blog.risingstack.com
+
 https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
 
 https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
