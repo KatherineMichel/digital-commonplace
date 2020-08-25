@@ -1,6 +1,21 @@
 # Python Tools and Release Managers
 
 <!--
+django-lifecycle
+https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
+
+Test plugins
+https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
+https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
+
+Bernat- rewrite
+https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
 SemVer
 https://twitter.com/ncoghlan_dev/status/882576856938987521
 https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
