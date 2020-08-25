@@ -68,6 +68,7 @@ https://www.gandi.net/en | Gandi.net: Domain Names, Web Hosting, SSL Certificate
 
 http://nixos.org
 https://github.com/NixOS/nix
+https://github.com/NixOS/nixpkgs
 
 * [Airtable Universe](https://airtable.com/universe) and [Airtable Universe Blog Post](https://support.airtable.com/hc/en-us/articles/115004185207-Airtable-Universe)
 -->
