@@ -257,6 +257,8 @@ https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 
+https://github.com/phodal/growth-in-action
+
 https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
 
 https://github.com/python-organizers/conferences/blob/master/2020.csv
@@ -1664,6 +1666,7 @@ System Design
 
 https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
 https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/rShetty/awesome-distributed-systems
 
 https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
 https://github.com/lorin/systems-thinking
