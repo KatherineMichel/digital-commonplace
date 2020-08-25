@@ -6,7 +6,6 @@ https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mas
 https://twitter.com/di_codes/status/1065115520570195968 | Dustin Ingram on Twitter: "This is ridiculously cool: Terrarium (https://t.co/oUTC9UL8PJ) lets you write a C, TypeScript or Rust app via an in-browser editor, compile it to WebAssembly, and deploy it to the edge in seconds. Includes static assets, a key-value store, ability to make HTTP/DNS requests, etc."
 
 https://firebase.google.com/
-
 https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
 
 Go
@@ -583,6 +582,10 @@ https://github.com/johnpapa/angular-styleguide
 -->
 
 ## Top JavaScript Frameworks & Topics to Learn in 2018
+
+<!--
+* [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+-->
 
 * [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2019](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20)
 * [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
