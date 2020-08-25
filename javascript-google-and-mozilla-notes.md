@@ -1,97 +1,13 @@
 # JavaScript- Google and Mozilla Notes
 
-## What To Learn Before A JavaScript Framework
-
 <!--
-* [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2020](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+Memory
 
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
 
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101 | Memory Terminology  |  Tools for Web Developers  |  Google Developers
 
-https://www.youtube.com/watch?v=INPob8yPyBo&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&index=5 | JavaScript ES6 / ES2015 - [05] Template Literals - YouTube
-
-
-React JS Crash Course - 2019
-https://www.youtube.com/watch?v=sBws8MSXN7A
-https://github.com/bradtraversy/react_crash_todo
-
-React and Django
-https://www.youtube.com/watch?v=Uyei2iDA4Hs | Full Stack React & Django [1] - Basic REST API - YouTube
-https://github.com/bradtraversy/lead_manager_react_django
-
-https://www.udemy.com/react-redux/
-
-
-https://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=TRAVERSYMEDIA
-https://www.udemy.com/react-front-to-back/?couponCode=TRAVERSYMEDIA
-
-https://www.youtube.com/user/TechGuyWeb/playlists
-https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
-
-Node.js Crash Course
-https://www.youtube.com/watch?v=fBNz5xF-Kx4
-https://github.com/bradtraversy/node_crash_course
-
-ES6/ES2015- New
-https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-Destructuring Assignment
-Classes and Inheritance
-Template Strings
-String Features
-Math and Number Features
-New Data Structures
-Iterators/Generators
-Promises and Asynchronous Data
-Arrow Functions
-
-What To Learn Before A JavaScript Framework
-https://www.youtube.com/watch?v=qi9VQqYcXqY
-
-
-JavaScript Fundamentals
-Basic syntax
-Variables
-Arrays and object literals
-Events
-Functions, loops, conditionals
-
-Modules
-ES6 Modules, TypeScript (Angular)
-Parcel, Webpack, Babel
-Export and Export Default
-
-Classes
-Structuring a class
-Constructors
-Methods and properties
-Instantiation
-Extending classes
-
-Arrow Functions
-Scope and lexical "this"
-
-Promises/Asynchronous Requests
-Create and receive promises
-.then() and .catch() syntax
-Async/Await
-Fetch API for making HTTP requests
-
-Destructuring
-
-Components and state
-Each component can have its own data and state
-Can also have application level state, usually implemented using a state manager such as Redux, Vuex, etc.
-Nested components (parent and children)
-Can be directly implemented or used in a router
-
-Spread Operator
-
-High Order Array Functions
-forEach()
-map()
-filter()
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 -->
 
 ## Stuff
