@@ -569,9 +569,6 @@ https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 https://devchecklists.com
 
-!!!!!
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 
@@ -655,9 +652,6 @@ https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-
 -->
 
 <!--
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
-
 https://github.com/luruke/browser-2020
 http://caniuse.com
 https://caniuse.com/#feat=es6
@@ -670,43 +664,16 @@ http://youmightnotneedjquery.com/
 https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+
 jQuery
 https://jquery.com/ | jQuery
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
-https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
-
-GitHub | The GitHub Blog
-https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
 
 
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
--->
-
-
-## Types of JavaScript
-
-<!--
-https://github.com/sgaurav/understanding-es6
-
-es6 javascript features
-
-JavaScript
-https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
-
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-https://github.com/mjavascript/practical-es6
-
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
 -->
 
 <!--
@@ -735,24 +702,24 @@ https://docs.npmjs.com/packages-and-modules/
 https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 -->
 
-## ECMA
-
-<!--
-http://www.ecma-international.org/ecma-262
--->
-
-## ECMAScript, JavaScript Standards
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
+## JavaScript Standards
 
 ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 Node: CommonJS
 * [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+https://github.com/mjavascript/practical-es6
+
+Differences
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+-->
 
 <!--
 https://flaviocopes.com/node-difference-browser/
