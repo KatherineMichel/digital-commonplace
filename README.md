@@ -12,11 +12,18 @@ https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-f
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
+Progress
+https://twitter.com/polotek/status/1294150617389121536
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
 https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
 http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
 
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
+
+Prioritization
+https://twitter.com/hunterwalk/status/1294699190585454592
 
 Prioritization
 Deep Work
@@ -188,6 +195,37 @@ Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
 
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
+
+https://github.com/phodal/growth-in-action
+
+https://realpython.com/python-web-scraping-practical-introduction/
+https://github.com/scrapy/scrapy
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://js13kgames.com/
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+
+https://github.com/Azure/azure-quickstart-templates
+https://twitter.com/di_codes/status/1295793468762136576
+
+https://github.com/nodejs/nodejs.dev
+https://github.com/jessfraz/dockerfiles
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+
 
 https://github.com/features/codespaces/ | Codespaces
 
@@ -199,15 +237,6 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 
 https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
 https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-
-
-Prioritization
-https://twitter.com/hunterwalk/status/1294699190585454592
-
-Progress
-https://twitter.com/polotek/status/1294150617389121536
-https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
 
 
 https://twitter.com/natfriedman/following
@@ -226,39 +255,6 @@ https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First 
 https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
 https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
-
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-https://github.com/phodal/growth-in-action
-
-https://realpython.com/python-web-scraping-practical-introduction/
-https://github.com/scrapy/scrapy
-
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://js13kgames.com/
-
-
-https://github.com/Azure/azure-quickstart-templates
-https://twitter.com/di_codes/status/1295793468762136576
-
-https://github.com/nodejs/nodejs.dev
-https://github.com/jessfraz/dockerfiles
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
-
-
 
 https://spookylukey.github.io/django-views-the-right-way/
 https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
@@ -275,6 +271,7 @@ https://lwn.net/Articles/827179/
 Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
 https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
+
 
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 
@@ -299,6 +296,7 @@ https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://realpython.com/courses/inheritance-composition-python/
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
 
 Async
 https://twitter.com/andrewgodwin/status/1290676950529388546 | (1) Andrew Godwin on Twitter: "We're still working on Django async - ORM stuff is probably next - but hey, if you wanted async views, why not try a fresh new copy of Django 3.1? Even better, it also has a cross-compatible JSONField (yes!) and much better hashing for sessions etc., amongst others." / Twitter
@@ -1055,6 +1053,12 @@ https://github.com/CleverProgrammers
 https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
 https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
 https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+
+https://github.com/vuejs/vue-hackernews-2.0
+https://github.com/nuxt/hackernews
+https://github.com/techreagan/youtube-clone-nodejs-api
+https://github.com/techreagan/vue-nodejs-youtube-clone
+https://github.com/python-telegram-bot/python-telegram-bot
 
 Node
 https://github.com/sqreen/awesome-nodejs-projects
