@@ -712,7 +712,7 @@ Node: CommonJS
 
 <!--
 http://es6-features.org/
-http://es6-features.org/#Constants
+http://kangax.github.io/compat-table/es6/
 https://github.com/lukehoban/es6features
 https://github.com/sgaurav/understanding-es6
 https://github.com/mjavascript/practical-es6
