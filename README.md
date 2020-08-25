@@ -273,6 +273,9 @@ https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - L
 https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
 
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
@@ -290,33 +293,15 @@ https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentele
 https://github.com/phildini/api-driven-django
 https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
 
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://realpython.com/courses/inheritance-composition-python/
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
 
-
 Async
 https://twitter.com/andrewgodwin/status/1290676950529388546 | (1) Andrew Godwin on Twitter: "We're still working on Django async - ORM stuff is probably next - but hey, if you wanted async views, why not try a fresh new copy of Django 3.1? Even better, it also has a cross-compatible JSONField (yes!) and much better hashing for sessions etc., amongst others." / Twitter
 
-django-lifecycle
-https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
-
-Test plugins
-https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
-https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
-
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-
-Bernat- rewrite
-https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
 
 https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
 
@@ -1044,11 +1029,28 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/search?q=django
+
+https://github.com/search?q=project
+https://github.com/search?q=example
+https://github.com/search?q=sample
+https://github.com/search?q=demo
+https://github.com/search?q=boilerplate
+https://github.com/search?q=starter
+
+https://github.com/search?q=clone
+https://github.com/search?q=instagram
+https://github.com/search?q=twitter
+https://github.com/search?q=slack
+https://github.com/search?q=hacker+news
+
 JavaScript
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 
 Clones
 https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+https://github.com/techreagan/vue-nodejs-youtube-clone
 https://github.com/CleverProgrammers
 https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
 https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
@@ -1056,8 +1058,6 @@ https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Bott
 
 https://github.com/vuejs/vue-hackernews-2.0
 https://github.com/nuxt/hackernews
-https://github.com/techreagan/youtube-clone-nodejs-api
-https://github.com/techreagan/vue-nodejs-youtube-clone
 https://github.com/python-telegram-bot/python-telegram-bot
 
 Node
