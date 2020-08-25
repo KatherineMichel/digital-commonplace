@@ -5,37 +5,22 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
-Fish
-https://twitter.com/carltongibson/status/1290932913618460672 | Carlton Gibson 🇪🇺 on Twitter: ""How can I do dev on my iPad?" @ShellFishApp finally nails it for me: Remote folders available via the Files app, and a great terminal too. There have been terminal options before but the file syncing is the killer. (The developer is nice too.) Having lots of fun. 👍" / Twitter
-
-https://www.apple.com/voiceover/info/guide/_1137.html
-https://help.apple.com/voiceover/info/guide/10.12/#/vo2681 | VoiceOver overview - VoiceOver Getting Started Guide
-
-https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
-
-https://twitter.com/smc90/status/1100627121116856320 | Sonal Chokshi on Twitter: "such a good heuristic! https://t.co/iC2QtztbYQ"
-
 https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
-https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
-
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
-GitHub notifications
-https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
-
-Interesting!
-https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
-
 https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
 
 Prioritization
 Deep Work
 Checklist Manifesto
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
 
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
 
@@ -162,25 +147,33 @@ https://2018.devrelawards.com/
 https://twitter.com/DevRelAwards
 
 
+
+https://github.com/KatherineMichel/100-days-of-code
+https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
+
+Repo
+https://github.com/KatherineMichel/setting-up-an-open-source-project
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
+
+https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
+
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
-Screenflow
-https://twitter.com/juliaferraioli/status/1295488155500474368
-
-Record a Video
-https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
-https://support.apple.com/en-us/HT208721
-https://github.com/HandBrake | HandBrake
-https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
-https://obsproject.com/ | Open Broadcaster Software | OBS
-
 Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
 https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
+
+Record a Video/Gif
 
 http://gifmaker.me/
 OSX/Gif
@@ -195,9 +188,6 @@ Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
 
-SemVer
-https://twitter.com/ncoghlan_dev/status/882576856938987521
-https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
 
 https://github.com/features/codespaces/ | Codespaces
 
@@ -212,10 +202,13 @@ https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `
 
 
 
-Important
+Prioritization
 https://twitter.com/hunterwalk/status/1294699190585454592
+
+Progress
 https://twitter.com/polotek/status/1294150617389121536
 https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
 
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
@@ -241,39 +234,10 @@ https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
 
 
-https://github.com/KatherineMichel/100-days-of-code
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-Repo
-https://github.com/KatherineMichel/setting-up-an-open-source-project
-
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
-
-https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-
-https://github.com/phodal/growth-in-action
-
-https://twitter.com/NehemiahKiv/status/1276950914876792833 | Nehemiah on Twitter: "The single best piece of advice I can give to anyone learning programming. Write it on paper before you code it. What advice would you give aspiring developers?" / Twitter
-
 https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://www.python.org/events/python-events/past/?page=2
 
-https://spookylukey.github.io/django-views-the-right-way/
-https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
-
-https://twitter.com/djangoproject/status/1293988923283247111
-https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
-
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-https://github.com/markshannon/pep622-critique
-https://lwn.net/Articles/827179/
-
+https://github.com/phodal/growth-in-action
 
 https://realpython.com/python-web-scraping-practical-introduction/
 https://github.com/scrapy/scrapy
@@ -288,45 +252,25 @@ https://twitter.com/di_codes/status/1295793468762136576
 https://github.com/nodejs/nodejs.dev
 https://github.com/jessfraz/dockerfiles
 
-Bash, Command Line
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-
-https://home.cern/topics/birth-web | The birth of the web | CERN
-https://css-tricks.com/chapter-2-browsers/
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-https://roadmap.sh/
-
-Philosophies
-* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
-
-
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
 
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
 
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
-https://github.com/OAI/OpenAPI-Specification
 
-https://github.com/OWASP/API-Security
+https://spookylukey.github.io/django-views-the-right-way/
+https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
 
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-
+https://twitter.com/djangoproject/status/1293988923283247111
+https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
 
 https://github.com/wsvincent/awesome-django
+
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+https://github.com/markshannon/pep622-critique
+https://lwn.net/Articles/827179/
 
 Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
@@ -454,6 +398,31 @@ http://www.hawraf.com/
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
+https://home.cern/topics/birth-web | The birth of the web | CERN
+https://css-tricks.com/chapter-2-browsers/
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+Bash, Command Line
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+
+https://github.com/OAI/OpenAPI-Specification
+
+https://github.com/OWASP/API-Security
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+
+
 Reverse Engineering
 https://en.wikipedia.org/wiki/Reverse_engineering
 https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
@@ -497,6 +466,9 @@ Sid
 https://twitter.com/changelog/status/1276514876228284417
 
 http://www.collaborativefund.com/blog
+
+Philosophies
+* [Ryan Hoover: "Dumb Apps"](http://ryanhoover.me/post/99742063783/dumb-apps)
 
 https://vimeo.com/298147468 | Building Product in the age of Distrust by Ryan Freitas on Vimeo
 
@@ -1784,6 +1756,8 @@ Python Patterns
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://roadmap.sh/
+
 https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
 https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
 
@@ -4440,6 +4414,10 @@ benjamin franklin habits - Google Search
 
 https://fs.blog/2017/08/amateurs-professionals/ | The Difference Between Amateurs and Professionals
 
+https://www.nateliason.com/notes/atomic-habits-james-clear
+https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books
+https://jamesclear.com/habits-scorecard
+
 https://jamesclear.com/atomic-habits
 https://twitter.com/JamesClear
 http://jamesclear.com/deliberate-practice | Lessons on Success and Deliberate Practice from Mozart, Picasso, etc.
@@ -4575,16 +4553,37 @@ YouTube
 * [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
 
 <!--
+GitHub notifications
+https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
+
+Interesting!
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
 Zoom
 https://us04web.zoom.us/meeting | My Meetings - Zoom
 https://zoom.us/recording | My Recordings - Zoom
 https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
 https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
 
+Record a Video
+https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
+https://support.apple.com/en-us/HT208721
+https://github.com/HandBrake | HandBrake
+https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
+https://obsproject.com/ | Open Broadcaster Software | OBS
+
+Screenflow
+https://twitter.com/juliaferraioli/status/1295488155500474368
+
+YouTube Studio
 https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
 https://support.google.com/youtube/answer/57407
 https://www.youtube.com/watch?v=VKf6NF0OD5A
 
+https://www.apple.com/voiceover/info/guide/_1137.html
+https://help.apple.com/voiceover/info/guide/10.12/#/vo2681 | VoiceOver overview - VoiceOver Getting Started Guide
+
+Email
 https://twitter.com/sawaba/status/1222680741705846785
 
 Google Chrome Voice
