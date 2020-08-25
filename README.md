@@ -749,7 +749,31 @@ https://github.com/standard/standard
 https://github.com/standard | Standard JS
 -->
 
+## What To Learn Before A JavaScript Framework
+
 <!--
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+
+https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+
+Traversy
+https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+
+Traversy
+https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
+https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
+https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
+
+https://www.udemy.com/user/brad-traversy/
+https://www.freecodecamp.org/news/web-development-2020/
+https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
+https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+
+
 https://www.youtube.com/watch?v=INPob8yPyBo&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&index=5 | JavaScript ES6 / ES2015 - [05] Template Literals - YouTube
 
 
@@ -880,28 +904,6 @@ https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for D
 https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-
-
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
-
-Traversy
-https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
-
-https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
-
-Traversy
-https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
-https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
-https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
-
-https://www.udemy.com/user/brad-traversy/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 
 
 https://frontendmasters.com
