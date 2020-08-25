@@ -452,6 +452,10 @@ https://twitter.com/rauchg/status/1249415226774061056 | Guillermo Rauch on Twitt
 JavaScript
 * [JavaScript Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 
+Server-Side JavaScript
+* [Server-Side JavaScript Wikipedia](https://en.wikipedia.org/wiki/JavaScript#Server-side_JavaScript)
+* [List of Server-Side JavaScript Implementations Wikipedia](https://en.wikipedia.org/wiki/List_of_server-side_JavaScript_implementations)
+
 JavaScript Libraries/Frameworks
 * [JavaScript Library Wikipedia](https://en.wikipedia.org/wiki/JavaScript_library)
 * [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
@@ -467,90 +471,9 @@ JavaScript Articles
 * [Medium JavaScript](https://medium.com/tag/javascript)
 * [Mybridge JavaScript](https://medium.mybridge.co/tagged/javascript)
 
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-
 <!--
 https://medium.com/the-node-js-collection
 https://blog.risingstack.com
-
-https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
-
-https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
-
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
-Mozilla
-https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
-https://developer.mozilla.org/en-US/ | MDN Web Docs
-https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
--->
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
--->
-
-
-Server-Side JavaScript
-* [Server-Side JavaScript Wikipedia](https://en.wikipedia.org/wiki/JavaScript#Server-side_JavaScript)
-* [List of Server-Side JavaScript Implementations Wikipedia](https://en.wikipedia.org/wiki/List_of_server-side_JavaScript_implementations)
-
-## Mozilla, Microsoft, and Google- General Docs
-
-Mozilla- Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Microsoft- Web Development
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
-* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Developer Web Tools](https://developers.google.com/web/tools)
-
-Glossaries
-* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-
-<!--
-https://developers.google.com/web/showcase
-
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101 | Memory Terminology  |  Tools for Web Developers  |  Google Developers
-
-https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/ | A crash course in memory management ★ Mozilla Hacks – the Web developer blog
 -->
 
 ## Google Chrome Dev Tools
@@ -687,12 +610,6 @@ https://www.chromium.org/Home/chromium-security/memory-safety | Memory safety - 
 https://v8.dev/docs/source-code
 https://v8.dev/blog/cost-of-javascript-2019 | The cost of JavaScript in 2019 · V8
 https://v8.dev/features/stable-sort | Stable Array.prototype.sort · V8
-
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/apps/about_apps
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/hosting
 
 https://v8.dev/blog/background-compilation | Background compilation · V8
 
