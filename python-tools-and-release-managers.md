@@ -1,7 +1,9 @@
 # Python Tools and Release Managers
 
 <!--
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+SemVer
+https://twitter.com/ncoghlan_dev/status/882576856938987521
+https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
 
 https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
 https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
