@@ -1,6 +1,9 @@
 # Organizations
 
 <!--
+https://github.com/FidelityInternational | Fidelity International
+https://github.com/keybase | Keybase
+
 https://github.com/defcon201/
 
 https://github.com/historicalsource | historicalsource (Historical Source)
