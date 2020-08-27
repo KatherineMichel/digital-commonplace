@@ -1,6 +1,15 @@
 # Python Tools and Release Managers
 
 <!--
+Typer
+https://typer.tiangolo.com/ | Typer
+
+Bernat
+https://twitter.com/gjbernat/status/1296550762722590720 | https://twitter.com/gjbernat/status/1296550762722590720
+
+Anthony
+https://github.com/deadsnakes-issues-bot/test | deadsnakes-issues-bot/test
+
 django-lifecycle
 https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
 
