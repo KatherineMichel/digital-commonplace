@@ -160,6 +160,8 @@ https://twitter.com/DevRelAwards
 
 https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
 
+https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
+
 https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
 
 
@@ -228,6 +230,7 @@ https://github.com/labuladong/fucking-algorithm/ | fucking-algorithm/动态规�
 https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
 
 What happens
+https://danluu.com/navigate-url/
 https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
 
@@ -247,24 +250,8 @@ https://typer.tiangolo.com/ | Typer
 
 https://github.com/tiangolo/fastapi | tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
-https://nextjs.org/showcase | Showcase | Next.js
-
-https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
-
-GitHub	
-https://developer.github.com/v3/libraries/ | Libraries | GitHub Developer Guide	
-https://octokit.github.io/rest.js/v18 | octokit/rest.js	
-https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
-
-JS
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
-https://caniuse.com/#feat=es6 | Can I use... Support tables for HTML5, CSS3, etc
-https://twitter.com/adamwathan/status/1297161541129830402
-https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/ | An Update on MDN Web Docs - Mozilla Hacks - the Web developer blog
+RBAC
 https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs | Third-party APIs - Learn web development | MDN
 
 https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
 
@@ -281,6 +268,11 @@ https://github.com/phodal/growth-in-action
 
 https://realpython.com/python-web-scraping-practical-introduction/
 https://github.com/scrapy/scrapy
+
+GitHub	
+https://developer.github.com/v3/libraries/ | Libraries | GitHub Developer Guide	
+https://octokit.github.io/rest.js/v18 | octokit/rest.js	
+https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
 
 https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
 https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
@@ -347,8 +339,6 @@ Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
 https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
-
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
 
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
@@ -1064,6 +1054,8 @@ Built With
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 
 <!--
+https://nextjs.org/showcase | Showcase | Next.js
+
 https://madewithreactnative.com/
 
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
@@ -1200,14 +1192,17 @@ Mozilla JavaScript Tutorials
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 
 <!--
+https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/ | An Update on MDN Web Docs - Mozilla Hacks - the Web developer blog
+
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
 https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
 
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs | Client-side web APIs - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs | Third-party APIs - Learn web development | MDN
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
 
 https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
@@ -1330,6 +1325,7 @@ https://github.com/ry
 https://github.com/denoland/deno
 https://deno.land/std
 https://deno.land/x
+https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
 -->
 
 Express (based on Sinatra)
@@ -1360,10 +1356,15 @@ https://glitch.com/culture/looky-what-we-made | Looky What We Made
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 https://glitch.com/~starter-react | Glitch
+
+404
 https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
 https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
 
 https://reactjs.org/docs/getting-started.html | Getting Started – React
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+
+https://twitter.com/adamwathan/status/1297161541129830402
 
 https://reactnative.dev/docs/getting-started
 
