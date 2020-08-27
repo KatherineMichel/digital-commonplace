@@ -7,6 +7,8 @@ https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twit
 
 https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
 
+https://blog.photoshelter.com/2020/08/sell-photos-with-google-image-licensing/ | Selling Your Photography Just Got Easier with Google Image Licensing - PhotoShelter Blog
+
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
@@ -150,11 +152,15 @@ https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLa
 https://www.ces.tech/
 https://www.webbyawards.com/
 
+https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
+
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
 https://twitter.com/DevRelAwards
 
 https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
+
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
 
 
 
@@ -163,6 +169,8 @@ https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solvi
 
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
+
+https://twitter.com/jowyang/status/1297923146050199552
 
 ## Website and Blog Resources
 ## Shortcuts
@@ -174,7 +182,7 @@ https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
+
 
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
@@ -206,11 +214,6 @@ Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
 
-https://github.com/phodal/growth-in-action
-
-https://realpython.com/python-web-scraping-practical-introduction/
-https://github.com/scrapy/scrapy
-
 https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
 https://js13kgames.com/
 
@@ -232,12 +235,38 @@ Fast
 https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
 https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
 https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
+https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
 
 https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 RISC versus CISC
 https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
 
+Typer	
+https://typer.tiangolo.com/ | Typer
+
+https://github.com/tiangolo/fastapi | tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+https://nextjs.org/showcase | Showcase | Next.js
+
+https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
+
+GitHub	
+https://developer.github.com/v3/libraries/ | Libraries | GitHub Developer Guide	
+https://octokit.github.io/rest.js/v18 | octokit/rest.js	
+https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
+
+JS
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
+https://caniuse.com/#feat=es6 | Can I use... Support tables for HTML5, CSS3, etc
+https://twitter.com/adamwathan/status/1297161541129830402
+https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/ | An Update on MDN Web Docs - Mozilla Hacks - the Web developer blog
+https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs | Third-party APIs - Learn web development | MDN
+
+https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
 
 https://github.com/Azure/azure-quickstart-templates
 https://twitter.com/di_codes/status/1295793468762136576
@@ -246,6 +275,30 @@ https://github.com/nodejs/nodejs.dev
 https://github.com/jessfraz/dockerfiles
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+
+https://github.com/phodal/growth-in-action
+
+https://realpython.com/python-web-scraping-practical-introduction/
+https://github.com/scrapy/scrapy
+
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
+https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
+
+Twitter API
+https://github.com/twitterdev?language=javascript | @TwitterDev
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
+https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
+https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
+https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
+
+Twitter API
+https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
+https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
+https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
+https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
+
+https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
 
 
 
