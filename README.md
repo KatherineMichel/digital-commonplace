@@ -143,6 +143,7 @@ https://fosdem.org
 https://www.oreilly.com/conferences/oscon.html
 
 https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
+https://events.linuxfoundation.org/open-source-summit-europe/register/ | Register | Linux Foundation Events
 
 https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
 
@@ -152,6 +153,8 @@ https://www.webbyawards.com/
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
 https://twitter.com/DevRelAwards
+
+https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
 
 
 
@@ -171,6 +174,7 @@ https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
 
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
@@ -215,6 +219,24 @@ https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "h
 https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
+https://github.com/labuladong/fucking-algorithm/ | fucking-algorithm/动态规划详解进阶.md at master · labuladong/fucking-algorithm
+https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
+
+What happens
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+
+Fast
+https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
+https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
+https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
+
+https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+RISC versus CISC
+https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
 
 
 https://github.com/Azure/azure-quickstart-templates
@@ -709,6 +731,7 @@ https://github.com/standard | Standard JS
 <!--
 http://www.traversymedia.com
 https://twitter.com/traversymedia
+https://github.com/bradtraversy | bradtraversy (Brad Traversy)
 
 https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
 
@@ -921,29 +944,6 @@ https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-cou
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 -->
 
-<!--
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-https://web.dev/ | web.dev  |  web.dev
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node Tutorials
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-
 ## Project Ideas
 
 Stars
@@ -1087,56 +1087,6 @@ https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list mana
 -->
 
 
-## JavaScript Guides
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-
-<!--
-https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
-
-
-https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
-
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
-Mozilla
-https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
-https://developer.mozilla.org/en-US/ | MDN Web Docs
-https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
--->
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
--->
-
-
-
 ## Mozilla, Microsoft, and Google- General Docs
 
 Mozilla- Documentation
@@ -1158,12 +1108,92 @@ Glossaries
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 
 <!--
+https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
+
+
+https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
+
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+
+Mozilla
+https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
+https://developer.mozilla.org/en-US/ | MDN Web Docs
+https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn
+
 https://developers.google.com/web/showcase
 
 The Mobile Site Benchmark Study
 https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
 
 https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+-->
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
+-->
+
+## JavaScript Guides
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
+
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs | Client-side web APIs - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+
+
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+-->
+
+Microsoft- JavaScript
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
+
+<!--
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+-->
+
+
+<!--
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node Tutorials
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
 
@@ -4467,6 +4497,8 @@ Books- Work Methods
 * [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
 
 <!--
+https://www.amazon.com/Indistractable-Control-Your-Attention-Choose-ebook/dp/B07PG2W6DC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1597704118&sr=8-1-spons | Amazon.com: Indistractable: How to Control Your Attention and Choose Your Life eBook: Eyal, Nir: Kindle Store
+
 https://twitter.com/kathleencodes/status/1212945670849490945 | Kathleen Vignos on Twitter: "I’m finding Deep Work by Cal Newport an excellent new year’s read. 4 approaches for deep concentration: 1/Monastic: only deep work 2/Bimodal: short retreats or seasons 3/Rhythmic: daily regular habit 4/Journalistic: alternating betw deep &amp; shallow thru the day. I use # 2; you?" / Twitter
 
 http://calnewport.com/ | Cal Newport - Author of Deep Work, Study Hacks Blog
