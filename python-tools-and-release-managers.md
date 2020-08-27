@@ -1,6 +1,9 @@
 # Python Tools and Release Managers
 
 <!--
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
 Typer
 https://typer.tiangolo.com/ | Typer
 
