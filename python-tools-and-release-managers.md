@@ -8,6 +8,7 @@ Bernat
 https://twitter.com/gjbernat/status/1296550762722590720 | https://twitter.com/gjbernat/status/1296550762722590720
 
 Anthony
+https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
 https://github.com/deadsnakes-issues-bot/test | deadsnakes-issues-bot/test
 
 django-lifecycle
