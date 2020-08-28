@@ -5,11 +5,11 @@ Formerly known as "The List", this is my Digital Commonplace. I came across the 
 <!--
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
-https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
-
 https://blog.photoshelter.com/2020/08/sell-photos-with-google-image-licensing/ | Selling Your Photography Just Got Easier with Google Image Licensing - PhotoShelter Blog
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
+
+https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
@@ -24,14 +24,7 @@ http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Sche
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
 
-Prioritization
-https://twitter.com/hunterwalk/status/1294699190585454592
-
-Prioritization
 Deep Work
-Checklist Manifesto
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
 
 Narrative
 https://www.andysparks.co/ | Andy Sparks—Home
@@ -59,8 +52,6 @@ https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twi
 
 https://www.writethedocs.org
 
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
-
 https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
 https://bugs.python.org/issue33649
 
@@ -74,14 +65,6 @@ https://twitter.com/thoward37/status/1286752245736865792 | Troy Howard / Executi
 
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
 
 PyCon
 https://us.pycon.org/2020/remote/
@@ -209,13 +192,6 @@ Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
 
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
-
 https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
 https://js13kgames.com/
 
@@ -225,35 +201,10 @@ https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
-https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
-https://github.com/labuladong/fucking-algorithm/ | fucking-algorithm/动态规划详解进阶.md at master · labuladong/fucking-algorithm
-https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
 
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-
-Fast
-https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
-https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
-https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
-https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
-
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-RISC versus CISC
-https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
 
 Typer	
 https://typer.tiangolo.com/ | Typer
-
-https://github.com/tiangolo/fastapi | tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-RBAC
-https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
-
-https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
 
 https://github.com/Azure/azure-quickstart-templates
 https://twitter.com/di_codes/status/1295793468762136576
@@ -261,10 +212,6 @@ https://twitter.com/di_codes/status/1295793468762136576
 https://github.com/nodejs/nodejs.dev
 https://github.com/jessfraz/dockerfiles
 
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-
-https://github.com/phodal/growth-in-action
 
 https://realpython.com/python-web-scraping-practical-introduction/
 https://github.com/scrapy/scrapy
@@ -323,25 +270,17 @@ https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-
 https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
 
-https://spookylukey.github.io/django-views-the-right-way/
-https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
-
-https://twitter.com/djangoproject/status/1293988923283247111
-https://docs.google.com/forms/d/15GRScagj29AjfFh1Js0ujCEQ2EUqMer5nMB3Fp1KoG8/viewanalytics
 
 https://github.com/wsvincent/awesome-django
 
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-https://github.com/markshannon/pep622-critique
-https://lwn.net/Articles/827179/
 
 Python Features
 https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
 https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
-
-
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
 
 https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
@@ -353,75 +292,21 @@ https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - S
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 
-https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
-
 https://github.com/phildini/api-driven-django
-https://snarky.ca/clarifying-pep-518/ | Clarifying PEP 518 (a.k.a. pyproject.toml)
 
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 https://realpython.com/courses/inheritance-composition-python/
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
 
-Async
-https://twitter.com/andrewgodwin/status/1290676950529388546 | (1) Andrew Godwin on Twitter: "We're still working on Django async - ORM stuff is probably next - but hey, if you wanted async views, why not try a fresh new copy of Django 3.1? Even better, it also has a cross-compatible JSONField (yes!) and much better hashing for sessions etc., amongst others." / Twitter
-
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
 
 https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
-
-
-https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
-
-https://arxiv.org/abs/1709.02840
-https://arxiv.org/pdf/1709.02840.pdf
-
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-https://lyrebird.ai/demo | Demo - Lyrebird
-
-https://beta.openai.com/ | OpenAI API
-
-GPT-3
-https://openai.com/blog/openai-api/ | OpenAI API
-https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
-https://twitter.com/karpathy/status/1295410274095095810
-https://github.com/karpathy/minGPT
-
-https://github.com/fastai/fastbook
-https://twitter.com/jeremyphoward/status/1293698425645498369
-
-https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
-
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
-
 
 https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
 
 Driven
 http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
 Sphinx to Markdown
@@ -444,70 +329,6 @@ https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson 
 http://www.hawraf.com/
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-https://home.cern/topics/birth-web | The birth of the web | CERN
-https://css-tricks.com/chapter-2-browsers/
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Bash, Command Line
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-
-https://github.com/OAI/OpenAPI-Specification
-
-https://github.com/OWASP/API-Security
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
-
-
-Reverse Engineering
-https://en.wikipedia.org/wiki/Reverse_engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-Hacking
-https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
-https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
-
-https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic Principles of Computers for Everyone eBook: Scott, J Clark: Kindle Store
-
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
-
-Linux Performance Observability Tools
-https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
-
-
-https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
 
 
 Sid
@@ -538,6 +359,8 @@ https://headrush.typepad.com/creating_passionate_users/2005/05/users_dont_care.h
 https://twitter.com/thisiskp_/status/1292793344272236545 | KP on Twitter: "Most founders struggle with how to acquire their first 100 beta sign ups for a new idea. I’ve done it for 2 products in the last few months (one has 1500+ beta sign ups and the other has 500+) without even going on @ProductHunt Here’s how I did it: 👇🏽 (a thread) 🧵" / Twitter
 https://twitter.com/lennysan/status/1293648872590331905
 
+https://twitter.com/stevesi/status/943952109283590145 | 🧘🏻‍♂️Steven Sinofsky ॐ on Twitter: "As a designer you don't just design things, you bring the contexts and constraints of customers, users, business, platform, and engineering… https://t.co/QzSQ49bWsi"
+
 Product
 https://twitter.com/patrickc/status/514620429244190720 | Patrick Collison on Twitter: "The most influential thing I've read over the last year on the subject of product design: http://t.co/reomEbasNq" / Twitter
 https://web.archive.org/web/20190330075819/http://lunar.lostgarden.com/Mixing_Games_and_Applications.pdf | Wayback Machine
@@ -556,6 +379,57 @@ https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithm
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 
+https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
+
+
+https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
+
+https://arxiv.org/abs/1709.02840
+https://arxiv.org/pdf/1709.02840.pdf
+
+Arxiv
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+https://lyrebird.ai/demo | Demo - Lyrebird
+
+
+https://home.cern/topics/birth-web | The birth of the web | CERN
+https://css-tricks.com/chapter-2-browsers/
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
+
+Bash, Command Line
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+
+https://github.com/OAI/OpenAPI-Specification
+
+https://github.com/OWASP/API-Security
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+
+
 Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
 -->
@@ -568,6 +442,115 @@ https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter:
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+-->
+
+## Interesting
+
+<!--
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+Prioritization
+https://twitter.com/hunterwalk/status/1294699190585454592
+
+Checklist Manifesto
+
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
+
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://spookylukey.github.io/django-views-the-right-way/
+https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
+
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+Cheat sheets
+
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
+
+https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
+https://github.com/labuladong/fucking-algorithm/ | fucking-algorithm/动态规划详解进阶.md at master · labuladong/fucking-algorithm
+https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
+
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+
+
+RBAC
+https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+https://github.com/phodal/growth-in-action
+
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
+Reverse Engineering
+https://en.wikipedia.org/wiki/Reverse_engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+Hacking
+https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
+https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
+
+
+https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+Fast
+https://github.com/fastai/fastbook
+https://twitter.com/jeremyphoward/status/1293698425645498369
+https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
+https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
+https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
+https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
+
+https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
+
+https://beta.openai.com/ | OpenAI API
+
+GPT-3
+https://openai.com/blog/openai-api/ | OpenAI API
+https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
+https://twitter.com/karpathy/status/1295410274095095810
+https://github.com/karpathy/minGPT
 -->
 
 ## Engineering Performance Resources
