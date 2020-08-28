@@ -1,25 +1,10 @@
 # Python Tools and Release Managers
 
 <!--
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
-https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+Pinax
+https://en.wikipedia.org/wiki/Software_versioning#Release_train
 
-Typer
-https://typer.tiangolo.com/ | Typer
-
-Bernat
-https://twitter.com/gjbernat/status/1296550762722590720 | https://twitter.com/gjbernat/status/1296550762722590720
-
-Anthony
-https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
-https://github.com/deadsnakes-issues-bot/test | deadsnakes-issues-bot/test
-
-django-lifecycle
-https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
-
-Test plugins
-https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
-https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
 Bernat- rewrite
 https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
@@ -29,19 +14,11 @@ https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
 https://github.com/asottile/importtime-waterfall/
 har http timing
 
-SemVer
-https://twitter.com/ncoghlan_dev/status/882576856938987521
-https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
 
 https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
 https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
-https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
-Important
-https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
-https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
+https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
 PyPI GitHub Actions
 https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
@@ -57,21 +34,11 @@ https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File
 https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
 
 
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
-
-towncrier
-https://twitter.com/webKnjaZ/status/1289309686060048384 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "I'm now accepting name ideas for the #Sphinx extension I completed, that provides a directive for injecting towncrier draft version changelog into Sphinx sites: .. towncrier-draft-entries:: |release| [UNRELEASED DRAFT] 🐍 #Python #Sphinx_doc" / Twitter
-
 pip install
 https://twitter.com/pganssle/status/1289010601415577600 | Paul Ganssle on Twitter: ""Doctor, it hurts when I invoke https://t.co/o3PGyRiVuO install." "Stop doing that then!" (Seriously, always use pip install, never https://t.co/o3PGyRiVuO install)" / Twitter
 
-pip-tools
-https://twitter.com/jonafato/status/1283429696471027713 | Jon Banafato on Twitter: "Listen to Jeff. pip-tools is great." / Twitter
-
 https://twitter.com/llanga/status/986645110518509568 | Łukasz Langa on Twitter: "TIL about https://t.co/BtoFQvaMlW. Compared to Pipenv, the cmdline is different, it uses the standard pyproject.toml for configuration instead of the custom Pipfile, and caret dependencies are a usability improvement. It will be very interesting to see which will win long term."
 
-pip lock
-https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
 
 Pinning
 https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
@@ -87,32 +54,19 @@ Python Docker
 https://twitter.com/brettsky/status/1146835613628293120 | Twitter
 https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
 
-
-https://launchpad.net/ubuntu | Ubuntu in Launchpad
-
 Packaging
 https://twitter.com/webKnjaZ/status/1287690737778335744 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony @codewithanthony FYI there's also `wheel unpack` for extracting whl contents" / Twitter
-
-Anthony
-https://github.com/asottile2/demo2 | asottile2/demo2
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
-https://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
-https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
-
-https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
-
-deadsnakes
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
-https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
 
 https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
 
 https://twitter.com/pganssle/status/1270056171861401601
 Release
 https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
+-->
 
+
+<!--
+Tools
 
 https://github.com/Mariatta/requirements_atoz
 https://github.com/Mariatta/cookiecutter_sprint_guide
@@ -120,17 +74,38 @@ https://github.com/Mariatta/pep_cookiecutter
 https://github.com/hbristow/cookiecutter-cpp/blob/master/.travis.yml
 https://github.com/jambonsw/cookiecutter-static-site
 
+https://launchpad.net/ubuntu | Ubuntu in Launchpad
 
-Python
-Django self-update
-https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
+pip-tools
+https://twitter.com/jonafato/status/1283429696471027713 | Jon Banafato on Twitter: "Listen to Jeff. pip-tools is great." / Twitter
+https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+django-lifecycle
+https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
+
+towncrier
+https://twitter.com/webKnjaZ/status/1289309686060048384 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "I'm now accepting name ideas for the #Sphinx extension I completed, that provides a directive for injecting towncrier draft version changelog into Sphinx sites: .. towncrier-draft-entries:: |release| [UNRELEASED DRAFT] 🐍 #Python #Sphinx_doc" / Twitter
+
+Important- setuptools-scm
+https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
+https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
+
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
+Test plugins
+https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
+https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
+https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
+
+Sphinx/Read the Docs
+https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 
 Shields
 https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
 https://pypi.org/project/keyring/ | keyring · PyPI
 
-https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
 
 cross linter - Google Search
@@ -140,6 +115,9 @@ https://pypi.org/project/pluggy/ | pluggy · PyPI
 
 https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
 
+Python
+Django self-update
+https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
 https://pyup.io/safety/
 
 https://pyformat.info/
@@ -306,6 +284,8 @@ http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
+
+
 <!--
 lyftvm
 
@@ -465,11 +445,10 @@ Not what I thought
 * [Application Release Automation Wikipedia](https://en.wikipedia.org/wiki/Application_release_automation)
 
 <!--
-Pinax
-https://en.wikipedia.org/wiki/Software_versioning#Release_train
-
 SemVer Criticism
 https://twitter.com/hynek/status/1235848177640542214
+https://snarky.ca/why-i-dont-like-semver/ | Why I don't like SemVer anymore
+https://twitter.com/ncoghlan_dev/status/882576856938987521
 
 SemVer
 https://words.steveklabnik.com/what-s-next-for-semver | What’s next for SemVer
@@ -802,6 +781,7 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 -->
 
+
 ## General Python and Django Links
 
 Python Official Tutorial
@@ -987,693 +967,6 @@ https://github.com/pypa/pip/issues/988
 https://gist.github.com/pradyunsg/5cf4a35b81f08b6432f280aba6f511eb
 https://pradyunsg.me/blog/2019/06/23/oss-update-1/
 https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitter: " Python people! The pip team needs your help! Do you have complex project dependencies? We want you to try to break pip's new dependency resolver... Details here: https://t.co/E1eRK7KjYl Please RT! cc @bernardtyers @simplysecureorg @ThePyPA @ThePSF" / Twitter
--->
-
-## Anthony Advice
-
-<!--
-https://twitter.com/codewithanthony/status/1285974757750353920 | Anthony Sottile on Twitter: "@chaitan94 you may be interested to learn there's other ways of postmortem debugging as well! https://t.co/wbz8AyhmLP" / Twitter
-
-Anthony Advice
-https://www.youtube.com/watch?time_continue=2&v=bfyIrX4_yL8&feature=emb_logo | python packaging: data files (intermediate) anthony explains #071 - YouTube
-https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
-https://www.youtube.com/watch?v=ZpOoRSkm-dQ&feature=emb_logo | what is PATH? (beginner - intermediate) anthony explains #070 - YouTube
-
-
-typing
-https://www.youtube.com/watch?v=HESA7oukEqE | (1) typing __getitem__ (python / mypy) (intermediate) anthony explains #045 - YouTube
-
-https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
-
-flake8 Plugin
-https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
-https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
-
-https://www.youtube.com/watch?v=sW1qUZ_nSXk&feature=emb_logo | python packaging: src layout (intermediate) anthony explains #048 - YouTube
-
-intro to tox
-https://www.youtube.com/watch?v=75WBE_qbpGk&feature=emb_logo
-https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
-tox -e py - Google Search
-https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
-
-https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-
-https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
-https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
-
-https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
-https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
-https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
--->
-
-## Great Release Managers
-
-<!--
-People and Projects
-
-Includes issues links
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
-https://www.encode.io/projects/
-
-https://twitter.com/PalletsTeam
-
-https://github.com/orgs/pytest-dev/people
-https://github.com/orgs/pypa/people
-https://github.com/orgs/python/people
-https://github.com/orgs/tox-dev/people
-https://github.com/orgs/pallets/people
-https://github.com/orgs/pre-commit/people
-https://github.com/python/cpython/graphs/contributors
-
-Encode
-
-https://www.encode.io/projects/
-
-https://www.encode.io/reports/july-2019/ | Encode
-http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
-https://discuss.encode.io/ | Encode
--->
-
-### Projects
-
-### Ned Batchelder
-
-* [coverage.py GitHub](https://github.com/nedbat/coveragepy/)
-
-<!--
-https://github.com/nedbat/coveragepy/issues/
--->
-
-### Hynek Schlawack
-
-* [Hynek GitHub](https://github.com/hynek)
-* [Hynek Talks](https://hynek.me/talks/)
-
-<!--
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
-
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
--->
-
-<!--
-## Talks
-
-Contributing- Important
-https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
-
-Not sure...
-https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
-
-PyPI long description
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
-http://mypy-lang.org/
-
-Formatting and Stuff
-
-fan of 79 characters line lengths. 
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
-https://treyhunner.com/2017/07/craft-your-python-like-poetry/
-
-settings
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
-https://prettier.io/
-pre-commit config
-https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
-
-Change Log
-https://pypi.org/project/towncrier/
-
-Packaging
-https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
-
-Alex Grönholm - Automating testing and deployment with Github and Travis
-https://www.youtube.com/watch?v=btqFjNDdTlE
-
-credential management
-https://github.com/joerick/cibuildwheel
-https://github.com/explosion/wheelwright
-
-setup.py
-https://github.com/python-attrs/attrs/blob/master/setup.py
-canonical package data
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
-rexexps
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
-https://github.com/sdispater/poetry/issues/1036
-
-Change Log
-https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
-https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
-
-Extra change log entries
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
-Example
-https://pypi.org/project/attrs/
-
-https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
-https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
-https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
--->
-
-### Paul Ganssle
-
-<!--
-https://twitter.com/pganssle/status/1262094764004040707 | Paul Ganssle on Twitter: "If anyone has strong feelings about how to get a list of available time zones on Python, please comment here — feature freeze is tomorrow! Issue: https://t.co/OnxWURMV1N PR: https://t.co/jOShLh47kD Bit of an oversight that this wasn't in PEP 615... #python" / Twitter
-
-https://github.com/python/cpython/commit/b17e49e0def23238b9e7f48c8a02e2d7bbf1f653
-https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
-https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
--->
-
-### Anthony Sottile
-
-Builds lots of productivity tools, linters, and code formatters
-
-Sponsor Bio
-* [Anthony Sponsor Bio](https://github.com/sponsors/asottile)
-
-Regular Accounts
-* [Anthony Sottile GitHub](https://github.com/asottile/)
-* [Anthony Sottile Archive GitHub](https://github.com/asottile-archive)
-
-Twitch-Related
-* [Twitch](https://www.twitch.tv/anthonywritescode)
-* [Twitch GitHub](https://github.com/anthonywritescode)
-* [Twitch YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos)
-* [Anthony Sottile Twitter](https://twitter.com/codewithanthony)
-
-Advent of Code
-* [Advent of Code GitHub](https://github.com/anthonywritescode/aoc2019/)
-
-Creator
-* [pre-commit](https://pre-commit.com)
-* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
-
-Core Developer
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/)
-* [Tox Read the Docs](https://tox.readthedocs.org)
-
-Maintainer (maintain pyflakes as a member of the @PyCQA)
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Pyflakes GitHub](https://gitlab.com/pycqa/flake8)
-
-pycodestyle
-* [pycodestyle GitHub](https://github.com/PyCQA/pycodestyle)
-
-<!--
-https://github.com/PyCQA/pycodestyle/issues/466
--->
-
-Special Projects
-* [babi](https://github.com/asottile/babi)
-* [babi-editor](https://github.com/babi-editor)
-
-<!--
-https://github.com/pre-commit-ci | pre-commit-ci
-https://github.com/pre-commit-ci/pre-commit.ci | pre-commit-ci/pre-commit.ci: Website for https://pre-commit.ci
-
-https://discordapp.com/invite/HxpQ3px | anthonywritescode
-https://www.twitch.tv/team/livecoders | (1) Twitch
-
-https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
-https://www.youtube.com/watch?v=C2xVBGRXiMY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=80 | (2) Infinity | Beautiful Chill Mix - YouTube
-https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
-https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
-https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
-
-https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg | thumbnails/pythonk.svg at master · anthonywritescode/thumbnails
-
-https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
-https://testandcode.com/104
-
-deadsnakes
-https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
-
-Builds backported/forwardported pythons for ubuntu with @deadsnakes
-https://twitter.com/codewithanthony/status/1242245981590007808
-https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
-https://github.com/deadsnakes
-https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
-
-https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
-https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
-
-https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
-
-all-repos
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
-
-https://github.com/anthonywritescode/twitch-chat-bot
-
-https://github.com/asottile/onigurumacffi/pull/20/files
-https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
-https://github.com/asottile/add-trailing-comma
-https://github.com/asottile/t
-https://github.com/asottile/git-code-debt
-
-https://github.com/asottile/hecate | asottile/hecate: A terrible way of testing terminal applications
-
-Drop python 2 / python3.5 support in pre-commit
-https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0
-https://github.com/pre-commit/pre-commit/issues/1260
-https://github.com/pre-commit/pre-commit/pull/1277
-
-https://pre-commit.com/#python
-https://pre-commit.com/hooks.html
-
-http://linter-runner.com
-https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
-https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
-
-PyTest
-https://twitter.com/codewithanthony/status/1195477147537657856
-https://twitter.com/nicoddemus/status/1195088740118618112
-https://twitter.com/blueyed/status/1222578734676484096
-https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
-
-https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
-https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
-https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
-https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
-
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
-https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
-
-https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
-https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
-https://github.com/chriskuehl/shipit | chriskuehl/shipit
--->
-
-<!--
-Tool Choices
-
-https://snarky.ca/thoughts-on-a-tooling-workflow/
-https://twitter.com/brettsky/status/1260782564597366785
-
-https://twitter.com/froidotdev/status/1248661469920714753
-
-https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
-
-Simon- Tools
-https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
-This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
-https://twitter.com/simonw/status/1248628140445855745
-
-https://github.com/cortesi/devd
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
-https://mobile.twitter.com/webology/status/1195163668440334337
-
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
--->
-
-
-## Package Tools and Testing
-
-<!--
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
-
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
-https://pypi.org/project/flake8-black/ | flake8-black · PyPI
--->
-
-## Eldarion
-
-Package Tools
-* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
-
-<!--
-https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
--->
-
-Continuous Integration and Delivery
-* [CircleCI](https://circleci.com)
-
-Coverage
-* [Codecov](https://codecov.io)
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-
-Testing Tools
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
-* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-
-<!--
-Tox GitHub Action
-https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
-
-https://docs.codecov.io/docs/python
-https://codecov.io/#features | Codecov
-
-"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
-"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
-
-https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
-https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
-
-https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
-https://github.com/pallets/flask/blob/master/tox.ini
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
-https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
-https://github.com/codecov/example-python#how-to-generate-coverage-reports
-"coverage.py is required to collect coverage metrics."
--->
-
-tox Alternative (not used)
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
-
-Import Sorting
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-
-Formatting
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [doc8 GitHub](https://github.com/openstack/doc8)
-* [pydocstyle GitHub](https://github.com/PyCQA/pydocstyle)
-* [mccabe GitHub](https://github.com/PyCQA/mccabe)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-
-<!--
-https://github.com/timothycrosley/isort/issues/694
-
-?
-https://pypi.org/project/pyflakes/
-https://github.com/PyCQA/pyflakes
--->
-
-Not used?
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
-
-Kubernetes
-* [Kubernetes](https://kubernetes.io)
-
-Webpack Versus Browserify
-* [Vue](https://vuejs.org/)
-* [Webpack](https://webpack.js.org)
-* [Copy Webpack Plugin GitHub](https://github.com/webpack-contrib/copy-webpack-plugin)
-* [Browserify](http://browserify.org)
-* [Browsersync](https://www.browsersync.io/)
-
-<!--
-http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
-https://fontawesome.com | Font Awesome 5 | Font Awesome
-
-Black and single quotes
-https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
-
-https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
-
-https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
-https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
-
-https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
-https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
-https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
-https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
-https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
-https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
-
-https://coverage.readthedocs.io/en/coverage-5.0/config.html | Configuration files — Coverage.py 4.4.2 documentation
-
-http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
-
-flake8 
-noqa: E501
-https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
--->
-
-## Code Formatting Tools
-
-Code Formatting
-* [Black GitHub](https://github.com/psf/black)
-* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
-* [Black Out GitHub](https://github.com/mariatta/black_out)
-* [White GitHub](https://github.com/kennethreitz/white)
-* [Google YAPF](https://github.com/google/yapf)
-
-<!--
-https://github.com/bots-for-humanity/black-out
-
-https://black.now.sh/ | Black Playground
-
-https://github.com/eventbrite/invoke-release | eventbrite/invoke-release: A set of command line tools that help software engineers release Python projects quickly, easily, and in a consistent manner.
-https://github.com/twisted/incremental#updating | twisted/incremental: A library for versioning your Python projects.
-
-https://www.youtube.com/watch?v=-BHverY7IwU
-http://www.pyinvoke.org/
-https://github.com/pypa/pip/blob/master/tasks/generate.py
--->
-
-## Command Line
-
-* [Click GitHub](https://github.com/pallets/click)
-* [Chalk GitHub](https://github.com/chalk/chalk)
-
-<!--
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-https://github.com/google/python-fire
-
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
--->
-
-## Azure
-
-<!--
-https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
-
-Hynek- Azure Pipelines
-Publish Python packages in Azure Pipelines
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
-https://github.com/Azure/azure-quickstart-templates
-
-https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
--->
-
-## Hosts, Containers, Serverless, Functions, Pipelines
-
-Containers
-* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
-* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
-* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
-
-AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
-Additional Serverless
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
-* [Firebase Functions](https://firebase.google.com/features/functions)
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
-
-<!--
-https://boto3.readthedocs.io/en/latest/index.html
-
-https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
-
-Google Cloud
-
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
-
-Google Cloud Django/Python
-https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
-https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
-
-https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
-
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-
-https://serverless.com
-https://github.com/serverless/site
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
-http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
-https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
-    
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
--->
-
-## Docs
-
-### Python Docs Themes
-
-Sphinx and Django-Sphinx
-* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
-* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
-* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
-* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
-
-<!--
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://pypi.org/project/codegen/ | codegen · PyPI
-https://aws-amplify.github.io/docs/cli/codegen?sdk=js | Codegen
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
--->
-
-<!--
-Hynek- Docs
-https://www.sphinx-doc.org/en/master/
-https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
-https://readthedocs.org/
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://readthedocs.org/accounts/login/?next=/accounts/gold/
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
-https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
-https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
-https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
-https://docs.python.org/3/library/doctest.html
-https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
-https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
-https://docs.python.org/3/library/logging.html#logging.getLogger
-https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
-https://jml.io/pages/test-docstrings.html
--->
-
-<!--
-https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
-
-https://docutils.sourceforge.io/rst.html | reStructuredText
-https://pandoc.org/ | Pandoc - About pandoc
-
-https://realpython.com/lessons/python-project-documentation-overview/ | Python Project Documentation Overview – Real Python
-https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-https://realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/ | Documenting Python Projects With Sphinx and Read The Docs – Real Python
-
-Mason Egger
-https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
-https://masonegger.com/talks/
-https://masonegger.com/talks/ci-docs/
-https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
-
-https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
-https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
-
-Runbook
-https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
-https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
-https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
-https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
-
-Docs
-https://labs.spotify.com/2019/10/01/solving-documentation-for-monoliths-and-monorepos/
-
-https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
-
-MkDocs
-https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
-https://www.mkdocs.org/user-guide/writing-your-docs/
-https://www.mkdocs.org/user-guide/deploying-your-docs/
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-https://squidfunk.github.io/mkdocs-material/getting-started/
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
--->
-
-<!--
-## Docs
-
-https://www.mkdocs.org/ | MkDocs
-https://www.mkdocs.org/#theming-our-documentation | MkDocs
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes | MkDocs Themes · mkdocs/mkdocs Wiki
-
-https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes#gitbook-theme | MkDocs Themes · mkdocs/mkdocs Wiki
-https://pypi.org/project/mkdocs-gitbook/ | mkdocs-gitbook · PyPI
-https://github.com/connerxyz/common-utils/blob/master/docs/mkdocs.yml | common-utils/mkdocs.yml at master · connerxyz/common-utils
-https://github.com/mkdocs/mkdocs/issue/1452 | Clarify documentation · Issue #1452 · mkdocs/mkdocs
-https://github.com/connerxyz/common-utils/blob/master/docs/mkdocs.yml | common-utils/mkdocs.yml at master · connerxyz/common-utils
-https://github.com/pallets/flask/tree/master/docs | flask/docs at master · pallets/flask
-https://www.mkdocs.org/user-guide/custom-themes/ | Custom Themes - MkDocs
-
-Alabaster
-https://github.com/notpushkin/mkdocs-alabaster | notpushkin/mkdocs-alabaster: Alabaster port for MkDocs
-https://alabaster.readthedocs.io/en/latest/installation.html | Installation — Alabaster documentation
-https://github.com/bitprophet/alabaster | bitprophet/alabaster: Lightweight, configurable Sphinx theme. Now the Sphinx default!
-
-Bootstrap Theme
-https://mkdocs.github.io/mkdocs-bootstrap/ | MkDocs Bootstrap Theme
-https://github.com/mkdocs/mkdocs-bootstrap | mkdocs/mkdocs-bootstrap: MkDocs Bootstrap Theme
-
-GitBook
-https://gitlab.com/lramage/mkdocs-gitbook-theme | Lucas Ramage / Mkdocs - GitBook Theme · GitLab
-https://lramage.gitlab.io/mkdocs-gitbook-theme/ | Home - Mkdocs - GitBook Theme
-https://pypi.org/project/mkdocs-gitbook/ | mkdocs-gitbook · PyPI
-
-Sphinx
-https://github.com/sphinx-doc/sphinx | sphinx-doc/sphinx: Main repository for the Sphinx documentation builder
-http://www.sphinx-doc.org/en/master/usage/quickstart.html | Getting Started — Sphinx 3.0.0+/17d907d4e documentation
-https://www.sphinx-doc.org/en/1.6/markdown.html | Markdown support — Sphinx 1.6.7 documentation
-https://www.sphinx-doc.org/en/master/usage/markdown.html | Markdown — Sphinx 3.0.0+/17d907d4e documentation
-
-http://www.sphinx-doc.org/en/master/contents.html | Sphinx documentation contents — Sphinx 1.8.0+ documentation
-http://www.sphinx-doc.org/en/master/usage/markdown.html#configuration | Markdown — Sphinx 1.8.0+ documentation
-https://github.com/kennethreitz/python-guide/blob/master/requirements.txt | python-guide/requirements.txt at master · kennethreitz/python-guide
-https://sphinx-rtd-theme.readthedocs.io/en/latest/installing.html | Installation — Read the Docs Sphinx Theme 0.3.1 documentation
-
-https://github.com/kennethreitz-archive/kr-sphinx-themes | kennethreitz-archive/kr-sphinx-themes: Sphinx theme I use for most projects. Derivative of Mitsuhiko's Flask theme.
-
-https://docusaurus.io/en/users | Users · Docusaurus
--->
-
-## Automation
-
-Terraform
-* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
-
-Python- Fabric
-* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
-
-<!--
-salt, ansible
-
-http://docs.fabfile.org/en/1.13/api/contrib/django.html
-
-https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
 
 
@@ -2291,6 +1584,386 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
+
+
+## Package Tools and Testing
+
+<!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+https://pypi.org/project/flake8-black/ | flake8-black · PyPI
+-->
+
+## Eldarion
+
+Package Tools
+* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
+
+<!--
+https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
+-->
+
+Continuous Integration and Delivery
+* [CircleCI](https://circleci.com)
+
+Coverage
+* [Codecov](https://codecov.io)
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+
+Testing Tools
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
+* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+
+<!--
+Tox GitHub Action
+https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
+
+https://docs.codecov.io/docs/python
+https://codecov.io/#features | Codecov
+
+"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
+"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
+
+https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
+https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
+
+https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
+https://github.com/pallets/flask/blob/master/tox.ini
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
+https://github.com/codecov/example-python#how-to-generate-coverage-reports
+"coverage.py is required to collect coverage metrics."
+-->
+
+tox Alternative (not used)
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+
+Import Sorting
+* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
+
+Formatting
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [doc8 GitHub](https://github.com/openstack/doc8)
+* [pydocstyle GitHub](https://github.com/PyCQA/pydocstyle)
+* [mccabe GitHub](https://github.com/PyCQA/mccabe)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
+<!--
+https://github.com/timothycrosley/isort/issues/694
+
+?
+https://pypi.org/project/pyflakes/
+https://github.com/PyCQA/pyflakes
+-->
+
+Not used?
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
+
+Kubernetes
+* [Kubernetes](https://kubernetes.io)
+
+Webpack Versus Browserify
+* [Vue](https://vuejs.org/)
+* [Webpack](https://webpack.js.org)
+* [Copy Webpack Plugin GitHub](https://github.com/webpack-contrib/copy-webpack-plugin)
+* [Browserify](http://browserify.org)
+* [Browsersync](https://www.browsersync.io/)
+
+<!--
+http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
+https://fontawesome.com | Font Awesome 5 | Font Awesome
+
+Black and single quotes
+https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+
+https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
+
+https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+
+https://circleci.com/docs/2.0/ | Welcome to CircleCI Documentation - CircleCI
+https://circleci.com/docs/2.0/example-configs/ | Example Public Repos - CircleCI
+https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
+https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
+https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
+https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+
+https://coverage.readthedocs.io/en/coverage-5.0/config.html | Configuration files — Coverage.py 4.4.2 documentation
+
+http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
+
+flake8 
+noqa: E501
+https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
+-->
+
+## Code Formatting Tools
+
+Code Formatting
+* [Black GitHub](https://github.com/psf/black)
+* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
+* [Black Out GitHub](https://github.com/mariatta/black_out)
+* [White GitHub](https://github.com/kennethreitz/white)
+* [Google YAPF](https://github.com/google/yapf)
+
+<!--
+https://github.com/bots-for-humanity/black-out
+
+https://black.now.sh/ | Black Playground
+
+https://github.com/eventbrite/invoke-release | eventbrite/invoke-release: A set of command line tools that help software engineers release Python projects quickly, easily, and in a consistent manner.
+https://github.com/twisted/incremental#updating | twisted/incremental: A library for versioning your Python projects.
+
+https://www.youtube.com/watch?v=-BHverY7IwU
+http://www.pyinvoke.org/
+https://github.com/pypa/pip/blob/master/tasks/generate.py
+-->
+
+## Command Line
+
+* [Click GitHub](https://github.com/pallets/click)
+* [Chalk GitHub](https://github.com/chalk/chalk)
+
+<!--
+Typer
+https://typer.tiangolo.com/ | Typer
+
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+https://github.com/google/python-fire
+
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+-->
+
+## Azure
+
+<!--
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
+
+Hynek- Azure Pipelines
+Publish Python packages in Azure Pipelines
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+https://github.com/Azure/azure-quickstart-templates
+
+https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
+-->
+
+## Hosts, Containers, Serverless, Functions, Pipelines
+
+Containers
+* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+Additional Serverless
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+* [Firebase Functions](https://firebase.google.com/features/functions)
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+
+<!--
+https://boto3.readthedocs.io/en/latest/index.html
+
+https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
+
+Google Cloud
+
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
+Google Cloud Django/Python
+https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+
+https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
+
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+
+https://serverless.com
+https://github.com/serverless/site
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
+http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+    
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
+-->
+
+## Automation
+
+Terraform
+* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
+
+Python- Fabric
+* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
+
+<!--
+salt, ansible
+
+http://docs.fabfile.org/en/1.13/api/contrib/django.html
+
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
+-->
+
+## Docs
+
+### Python Docs Themes
+
+Sphinx and Django-Sphinx
+* [Sphinx](http://sphinx-doc.org) and [Sphinx GitHub](https://github.com/sphinx-doc/sphinx)  
+* [Sphinx Alabaster Theme (Default now) GitHub](https://github.com/bitprophet/alabaster)
+* [Example of Sphinx Alabaster Theme (Python Guide)](https://docs.python-guide.org) and [Example of Sphinx Alabaster Theme (Python Guide) GitHub](https://github.com/realpython/python-guide)
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
+* [Python Docs Theme (Sphinx)](https://github.com/python/python-docs-theme)
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme) 
+
+<!--
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://pypi.org/project/codegen/ | codegen · PyPI
+https://aws-amplify.github.io/docs/cli/codegen?sdk=js | Codegen
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+-->
+
+<!--
+Hynek- Docs
+https://www.sphinx-doc.org/en/master/
+https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/
+https://readthedocs.org/
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+https://readthedocs.org/accounts/login/?next=/accounts/gold/
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L37-L42
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html
+https://raw.githubusercontent.com/python-attrs/attrs/master/docs/api.rst
+https://www.sphinx-doc.org/en/master/usage/extensions/doctest.html
+https://docs.python.org/3/library/doctest.html
+https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/docs/conf.py#L157
+https://docs.python.org/3/library/logging.html#logging.getLogger
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L47-L53
+https://jml.io/pages/test-docstrings.html
+-->
+
+<!--
+https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitter: "Yessssss. We set up netlify hooks for setuptools and it is so great to see the built documentation as part of the PR, hopefully this will be simpler to set up and more accurate! https://t.co/PiouhPzDXl" / Twitter
+
+https://docutils.sourceforge.io/rst.html | reStructuredText
+https://pandoc.org/ | Pandoc - About pandoc
+
+https://realpython.com/lessons/python-project-documentation-overview/ | Python Project Documentation Overview – Real Python
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+https://realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/ | Documenting Python Projects With Sphinx and Read The Docs – Real Python
+
+Mason Egger
+https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
+https://masonegger.com/talks/
+https://masonegger.com/talks/ci-docs/
+https://twitter.com/masonegger | Mason Egger @ #PyGotham (@masonegger) / Twitter
+
+https://www.amazon.com/dp/0134689321/ref=cm_sw_su_dp | Living Documentation: Continuous Knowledge Sharing by Design: Cyrille Martraire: 9780134689326: Amazon.com: Books
+https://www.amazon.com/dp/B0784ZJWSR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: Docs Like Code eBook: Anne Gentle: Kindle Store
+
+Runbook
+https://github.com/Financial-Times/runbook.md | Financial-Times/runbook.md: tools for parsing, validating and importing runbooks from repos
+https://twitter.com/simonw/status/1149641317690953730 | Simon Willison on Twitter: "There's so much smart thinking in here. I'm a huge proponent of docs living in the same repo as code. At the FT they extend that to their runbooks, which document the system for the ops team but also double as high-level "what the heck is this thing" descriptions.… https://t.co/LGG9i3vkN9"
+https://raw.githubusercontent.com/Financial-Times/runbook.md/master/docs/example.md
+https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30 | Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
+
+Docs
+https://labs.spotify.com/2019/10/01/solving-documentation-for-monoliths-and-monorepos/
+
+https://github.com/tomchristie/mkautodoc | tomchristie/mkautodoc: Auto documentation for MkDocs 📘
+
+MkDocs
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+https://www.mkdocs.org/user-guide/writing-your-docs/
+https://www.mkdocs.org/user-guide/deploying-your-docs/
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+https://squidfunk.github.io/mkdocs-material/getting-started/
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins
+-->
+
+<!--
+## Docs
+
+https://www.mkdocs.org/ | MkDocs
+https://www.mkdocs.org/#theming-our-documentation | MkDocs
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes | MkDocs Themes · mkdocs/mkdocs Wiki
+
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes#gitbook-theme | MkDocs Themes · mkdocs/mkdocs Wiki
+https://pypi.org/project/mkdocs-gitbook/ | mkdocs-gitbook · PyPI
+https://github.com/connerxyz/common-utils/blob/master/docs/mkdocs.yml | common-utils/mkdocs.yml at master · connerxyz/common-utils
+https://github.com/mkdocs/mkdocs/issue/1452 | Clarify documentation · Issue #1452 · mkdocs/mkdocs
+https://github.com/connerxyz/common-utils/blob/master/docs/mkdocs.yml | common-utils/mkdocs.yml at master · connerxyz/common-utils
+https://github.com/pallets/flask/tree/master/docs | flask/docs at master · pallets/flask
+https://www.mkdocs.org/user-guide/custom-themes/ | Custom Themes - MkDocs
+
+Alabaster
+https://github.com/notpushkin/mkdocs-alabaster | notpushkin/mkdocs-alabaster: Alabaster port for MkDocs
+https://alabaster.readthedocs.io/en/latest/installation.html | Installation — Alabaster documentation
+https://github.com/bitprophet/alabaster | bitprophet/alabaster: Lightweight, configurable Sphinx theme. Now the Sphinx default!
+
+Bootstrap Theme
+https://mkdocs.github.io/mkdocs-bootstrap/ | MkDocs Bootstrap Theme
+https://github.com/mkdocs/mkdocs-bootstrap | mkdocs/mkdocs-bootstrap: MkDocs Bootstrap Theme
+
+GitBook
+https://gitlab.com/lramage/mkdocs-gitbook-theme | Lucas Ramage / Mkdocs - GitBook Theme · GitLab
+https://lramage.gitlab.io/mkdocs-gitbook-theme/ | Home - Mkdocs - GitBook Theme
+https://pypi.org/project/mkdocs-gitbook/ | mkdocs-gitbook · PyPI
+
+Sphinx
+https://github.com/sphinx-doc/sphinx | sphinx-doc/sphinx: Main repository for the Sphinx documentation builder
+http://www.sphinx-doc.org/en/master/usage/quickstart.html | Getting Started — Sphinx 3.0.0+/17d907d4e documentation
+https://www.sphinx-doc.org/en/1.6/markdown.html | Markdown support — Sphinx 1.6.7 documentation
+https://www.sphinx-doc.org/en/master/usage/markdown.html | Markdown — Sphinx 3.0.0+/17d907d4e documentation
+
+http://www.sphinx-doc.org/en/master/contents.html | Sphinx documentation contents — Sphinx 1.8.0+ documentation
+http://www.sphinx-doc.org/en/master/usage/markdown.html#configuration | Markdown — Sphinx 1.8.0+ documentation
+https://github.com/kennethreitz/python-guide/blob/master/requirements.txt | python-guide/requirements.txt at master · kennethreitz/python-guide
+https://sphinx-rtd-theme.readthedocs.io/en/latest/installing.html | Installation — Read the Docs Sphinx Theme 0.3.1 documentation
+
+https://github.com/kennethreitz-archive/kr-sphinx-themes | kennethreitz-archive/kr-sphinx-themes: Sphinx theme I use for most projects. Derivative of Mitsuhiko's Flask theme.
+
+https://docusaurus.io/en/users | Users · Docusaurus
+-->
+
 ## Python and Django Geo
 
 Python- Django- Rest Framework GIS
@@ -2329,3 +2002,334 @@ SpatiaLite (Spatial Database Extender for SQLite)
 * [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
 * [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
 * [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+## Anthony Advice
+
+<!--
+https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
+
+https://twitter.com/codewithanthony/status/1285974757750353920 | Anthony Sottile on Twitter: "@chaitan94 you may be interested to learn there's other ways of postmortem debugging as well! https://t.co/wbz8AyhmLP" / Twitter
+
+Anthony Advice
+https://www.youtube.com/watch?time_continue=2&v=bfyIrX4_yL8&feature=emb_logo | python packaging: data files (intermediate) anthony explains #071 - YouTube
+https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
+https://www.youtube.com/watch?v=ZpOoRSkm-dQ&feature=emb_logo | what is PATH? (beginner - intermediate) anthony explains #070 - YouTube
+
+
+typing
+https://www.youtube.com/watch?v=HESA7oukEqE | (1) typing __getitem__ (python / mypy) (intermediate) anthony explains #045 - YouTube
+
+https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
+
+flake8 Plugin
+https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
+https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
+
+https://www.youtube.com/watch?v=sW1qUZ_nSXk&feature=emb_logo | python packaging: src layout (intermediate) anthony explains #048 - YouTube
+
+intro to tox
+https://www.youtube.com/watch?v=75WBE_qbpGk&feature=emb_logo
+https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
+tox -e py - Google Search
+https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
+
+https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
+https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
+https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
+
+https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
+https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
+https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
+-->
+
+## Great Release Managers
+
+<!--
+People and Projects
+
+Includes issues links
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+https://www.encode.io/projects/
+
+https://twitter.com/PalletsTeam
+
+https://github.com/orgs/pytest-dev/people
+https://github.com/orgs/pypa/people
+https://github.com/orgs/python/people
+https://github.com/orgs/tox-dev/people
+https://github.com/orgs/pallets/people
+https://github.com/orgs/pre-commit/people
+https://github.com/python/cpython/graphs/contributors
+
+Encode
+
+https://www.encode.io/projects/
+
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+https://discuss.encode.io/ | Encode
+-->
+
+### Projects
+
+### Ned Batchelder
+
+* [coverage.py GitHub](https://github.com/nedbat/coveragepy/)
+
+<!--
+https://github.com/nedbat/coveragepy/issues/
+-->
+
+### Hynek Schlawack
+
+* [Hynek GitHub](https://github.com/hynek)
+* [Hynek Talks](https://hynek.me/talks/)
+
+<!--
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+-->
+
+<!--
+## Talks
+
+Contributing- Important
+https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
+
+Not sure...
+https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
+
+PyPI long description
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
+http://mypy-lang.org/
+
+Formatting and Stuff
+
+fan of 79 characters line lengths. 
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
+https://treyhunner.com/2017/07/craft-your-python-like-poetry/
+
+settings
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
+https://prettier.io/
+pre-commit config
+https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
+
+Change Log
+https://pypi.org/project/towncrier/
+
+Packaging
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+
+Alex Grönholm - Automating testing and deployment with Github and Travis
+https://www.youtube.com/watch?v=btqFjNDdTlE
+
+credential management
+https://github.com/joerick/cibuildwheel
+https://github.com/explosion/wheelwright
+
+setup.py
+https://github.com/python-attrs/attrs/blob/master/setup.py
+canonical package data
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
+rexexps
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
+https://github.com/sdispater/poetry/issues/1036
+
+Change Log
+https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
+https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
+
+Extra change log entries
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
+Example
+https://pypi.org/project/attrs/
+
+https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
+https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
+https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
+-->
+
+### Paul Ganssle
+
+<!--
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+https://twitter.com/pganssle/status/1262094764004040707 | Paul Ganssle on Twitter: "If anyone has strong feelings about how to get a list of available time zones on Python, please comment here — feature freeze is tomorrow! Issue: https://t.co/OnxWURMV1N PR: https://t.co/jOShLh47kD Bit of an oversight that this wasn't in PEP 615... #python" / Twitter
+
+https://github.com/python/cpython/commit/b17e49e0def23238b9e7f48c8a02e2d7bbf1f653
+https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
+https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
+-->
+
+### Anthony Sottile
+
+Builds lots of productivity tools, linters, and code formatters
+
+Sponsor Bio
+* [Anthony Sponsor Bio](https://github.com/sponsors/asottile)
+
+Regular Accounts
+* [Anthony Sottile GitHub](https://github.com/asottile/)
+* [Anthony Sottile Archive GitHub](https://github.com/asottile-archive)
+
+Twitch-Related
+* [Twitch](https://www.twitch.tv/anthonywritescode)
+* [Twitch GitHub](https://github.com/anthonywritescode)
+* [Twitch YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos)
+* [Anthony Sottile Twitter](https://twitter.com/codewithanthony)
+
+Advent of Code
+* [Advent of Code GitHub](https://github.com/anthonywritescode/aoc2019/)
+
+Creator
+* [pre-commit](https://pre-commit.com)
+* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
+
+Core Developer
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+
+Maintainer (maintain pyflakes as a member of the @PyCQA)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Pyflakes GitHub](https://gitlab.com/pycqa/flake8)
+
+pycodestyle
+* [pycodestyle GitHub](https://github.com/PyCQA/pycodestyle)
+
+<!--
+https://github.com/PyCQA/pycodestyle/issues/466
+-->
+
+Special Projects
+* [babi](https://github.com/asottile/babi)
+* [babi-editor](https://github.com/babi-editor)
+
+<!--
+Anthony
+https://github.com/asottile2/demo2 | asottile2/demo2
+https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
+https://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
+https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
+
+https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
+
+deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
+https://github.com/deadsnakes-issues-bot/test | deadsnakes-issues-bot/test
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
+-->
+
+<!--
+https://github.com/pre-commit-ci | pre-commit-ci
+https://github.com/pre-commit-ci/pre-commit.ci | pre-commit-ci/pre-commit.ci: Website for https://pre-commit.ci
+
+https://discordapp.com/invite/HxpQ3px | anthonywritescode
+https://www.twitch.tv/team/livecoders | (1) Twitch
+
+https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
+https://www.youtube.com/watch?v=C2xVBGRXiMY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=80 | (2) Infinity | Beautiful Chill Mix - YouTube
+https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
+https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
+https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
+
+https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg | thumbnails/pythonk.svg at master · anthonywritescode/thumbnails
+
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+https://testandcode.com/104
+
+deadsnakes
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+
+Builds backported/forwardported pythons for ubuntu with @deadsnakes
+https://twitter.com/codewithanthony/status/1242245981590007808
+https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
+https://github.com/deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+
+https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
+https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
+
+https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
+
+all-repos
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+
+https://github.com/anthonywritescode/twitch-chat-bot
+
+https://github.com/asottile/onigurumacffi/pull/20/files
+https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
+https://github.com/asottile/add-trailing-comma
+https://github.com/asottile/t
+https://github.com/asottile/git-code-debt
+
+https://github.com/asottile/hecate | asottile/hecate: A terrible way of testing terminal applications
+
+Drop python 2 / python3.5 support in pre-commit
+https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0
+https://github.com/pre-commit/pre-commit/issues/1260
+https://github.com/pre-commit/pre-commit/pull/1277
+
+https://pre-commit.com/#python
+https://pre-commit.com/hooks.html
+
+http://linter-runner.com
+https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
+
+PyTest
+https://twitter.com/codewithanthony/status/1195477147537657856
+https://twitter.com/nicoddemus/status/1195088740118618112
+https://twitter.com/blueyed/status/1222578734676484096
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
+
+https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
+https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
+https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
+https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
+
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
+https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
+
+https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
+https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
+https://github.com/chriskuehl/shipit | chriskuehl/shipit
+-->
+
+<!--
+Tool Choices
+
+https://snarky.ca/thoughts-on-a-tooling-workflow/
+https://twitter.com/brettsky/status/1260782564597366785
+
+https://twitter.com/froidotdev/status/1248661469920714753
+
+https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
+
+Simon- Tools
+https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://twitter.com/simonw/status/1248628140445855745
+
+https://github.com/cortesi/devd
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
+https://mobile.twitter.com/webology/status/1195163668440334337
+
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+-->
