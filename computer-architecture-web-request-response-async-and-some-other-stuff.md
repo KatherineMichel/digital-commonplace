@@ -1,28 +1,7 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
-https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
-
 https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
-
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-
-https://github.com/lawsecnet/pentesting-with-python
-
-https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: A reading list for infosec engineers
-https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-Hidden vulnerabilities of OS Software
-https://twitter.com/cra/status/1242580570451951619
-
-Social Distancing Survival Guide
-https://twitter.com/Fox0x01/status/1238636233649250304
-https://twitter.com/Fox0x01/status/1238636236962779136
-https://github.com/gwen001/pentest-tools
 
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
@@ -66,38 +45,27 @@ https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 -->
 
-## Protocols
-
-Network Protocols
-* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
-
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+## Security
 
 <!--
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Application_layer
-https://en.wikipedia.org/wiki/Presentation_layer
-https://en.wikipedia.org/wiki/Session_layer
-https://en.wikipedia.org/wiki/Transport_layer
-https://en.wikipedia.org/wiki/Network_layer
-https://en.wikipedia.org/wiki/Data_link_layer
-https://en.wikipedia.org/wiki/Physical_layer
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 
-https://en.wikipedia.org/wiki/Internet_Protocol
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-https://en.wikipedia.org/wiki/Internet_layer
-https://en.wikipedia.org/wiki/Link_layer
+https://github.com/lawsecnet/pentesting-with-python
+
+https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: A reading list for infosec engineers
+https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
+
+Hidden vulnerabilities of OS Software
+https://twitter.com/cra/status/1242580570451951619
+
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
 -->
-
-TCP
-* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
-* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
 ## Computer Architecture
 
@@ -433,91 +401,6 @@ https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_event
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 -->
 
-## Third Party Helpers
-
-Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
-* [NGINX](https://www.nginx.com/)
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-Python Database
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-<!--
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://urllib3.readthedocs.io/en/latest/
-https://github.com/urllib3/urllib3
-
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-### Kenneth
-
-DJ Static, DJ Database URL
-* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
-* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Records, Requests (HTTP for Humans), Requests HTML
-* [Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
-* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
-
-<!--
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/homebrew-pythons
--->
-
 ## Benchmarking
 
 Performance
@@ -583,20 +466,6 @@ https://en.wikipedia.org/wiki/High_availability
 https://en.wikipedia.org/wiki/Failover
 https://en.wikipedia.org/wiki/Fault_tolerance
 -->
-
-## SQL
-
-* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-
-<!--
-http://en.wikipedia.org/wiki/SQL#Queries
--->
-
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
 ## Database Options
 
@@ -667,6 +536,53 @@ http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 -->
+
+## SQL
+
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+<!--
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+## Protocols
+
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+
+<!--
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
+
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
+-->
+
+TCP
+* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
+* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
 ## How Do It Work
 
