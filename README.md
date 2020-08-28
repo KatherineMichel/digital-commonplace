@@ -192,19 +192,6 @@ Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
 
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://js13kgames.com/
-
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
-
-
-Typer	
-https://typer.tiangolo.com/ | Typer
 
 https://github.com/Azure/azure-quickstart-templates
 https://twitter.com/di_codes/status/1295793468762136576
@@ -212,6 +199,9 @@ https://twitter.com/di_codes/status/1295793468762136576
 https://github.com/nodejs/nodejs.dev
 https://github.com/jessfraz/dockerfiles
 
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://js13kgames.com/
 
 https://realpython.com/python-web-scraping-practical-introduction/
 https://github.com/scrapy/scrapy
@@ -269,37 +259,38 @@ https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First 
 https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
 https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
 
 https://github.com/wsvincent/awesome-django
 
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
-
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
 
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 
 Stop Writing Classes
 https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+https://realpython.com/courses/inheritance-composition-python/
 
 https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 
-https://github.com/phildini/api-driven-django
-
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://realpython.com/courses/inheritance-composition-python/
+Pass by value versus pass by reference
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
 
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+
+https://github.com/phildini/api-driven-django
 
 https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
 
@@ -447,6 +438,9 @@ https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter:
 ## Interesting
 
 <!--
+* [Vue](https://vuejs.org/)
+* [Webpack](https://webpack.js.org)
+
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
 https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
@@ -488,6 +482,13 @@ Cheat sheets
 https://realpython.com/products/cpython-internals-book/
 https://realpython.com/lessons/cpython-book-download/
 https://realpython.com/cpython-internals/resources/
+
+https://docs.python.org/3/whatsnew/index.html
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
