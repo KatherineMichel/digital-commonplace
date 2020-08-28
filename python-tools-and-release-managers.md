@@ -392,6 +392,7 @@ Life Cycles
 * [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 * [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
+
 ## General Python and Django Links
 
 Python Official Tutorial
@@ -431,36 +432,65 @@ https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpReq
 https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
 -->
 
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
 Django Architecture and Scaling
 * [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
 * [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
 * [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
 
-## Python Non-Official Styleguides and Code Formatting
 
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
 
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
 
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+## Django Source
 
 <!--
-https://docs.python-guide.org/#writing-great-python-code
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
+https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
+https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
+https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
+
+https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
+https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
+
+Django Source Code
+https://github.com/django/django/blob/master/django/__init__.py	
+https://github.com/django/django/tree/master/django/apps	
+https://github.com/django/django/blob/master/django/apps/config.py	
+https://github.com/django/django/blob/master/django/apps/registry.py
+https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/conf.py	
+https://github.com/django/django/blob/master/django/urls/resolvers.py
+https://github.com/django/django/blob/master/django/middleware/common.py
+
+https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
+https://github.com/django/django/blob/master/django/http
+https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
+https://github.com/django/django/blob/master/django/http/response.py	
+
+https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
+	
+https://github.com/django/django/blob/master/django/shortcuts.py
+https://github.com/django/django/blob/master/django/core/exceptions.py	
+	
+https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
+https://github.com/django/django/blob/master/django/db/models/__init__.py 	
+https://github.com/django/django/blob/master/django/db/models/query.py	
+https://github.com/django/django/blob/master/django/db/models/query.py#L337	
+https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
+https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
-Python- PEP 8
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 
 ## To Read- Release Management
 
@@ -580,6 +610,27 @@ https://twitter.com/nlhkabu/status/1263132447971172352 | Nicole Harris on Twitte
 -->
 
 
+## Python Non-Official Styleguides and Code Formatting
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+<!--
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
+Python- PEP 8
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+
 ## Structuring Your Python Project
 
 Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
@@ -593,6 +644,7 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
 
 ## Django Classy
 
@@ -753,6 +805,15 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javasc
 
 ## Django- Important Topics
 
+### Django Performance, Optimization, Deployment
+
+Django Performance and Optimization
+* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
+* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
 ### Django Core Dev Security
 
 * [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
@@ -764,14 +825,6 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javasc
 * [HTTP Strict Transport Security](https://docs.djangoproject.com/en/dev/ref/middleware/#http-strict-transport-security)
 * [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
 
-### Django Performance, Optimization, Deployment
-
-Django Performance and Optimization
-* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
-* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
-
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
 
 ### Security
 
