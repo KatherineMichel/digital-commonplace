@@ -1,6 +1,9 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://en.wikipedia.org/wiki/Subroutine | Subroutine - Wikipedia
+https://en.wikipedia.org/wiki/Coroutine#:~:text=Coroutines%20are%20computer%20program%20components,iterators%2C%20infinite%20lists%20and%20pipes. | Coroutine - Wikipedia
+
 https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
 
 Feross
@@ -515,150 +518,6 @@ https://github.com/kennethreitz/background | kennethreitz/background: Runs thing
 https://github.com/kennethreitz/homebrew-pythons
 -->
 
-## How Do It Work
-
-<!--
-https://en.wikipedia.org/wiki/CPU_cache
-https://en.wikipedia.org/wiki/Cache_(computing)
-
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
-https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
-http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
-http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
-https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
-https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
-http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
-https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
-https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
-https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
-
-https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
--->
-
-## Architecture- Important Concepts
-
-Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
-* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-
-<!--
-https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
--->
-
-CPU
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-
-Types of CPUs
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
-
-Microprocessor
-* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
-* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-Unix
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg) 
-* [Unix Wars Wikipedia](https://en.wikipedia.org/wiki/Unix_wars) 
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
-* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-<!--
-https://en.wikipedia.org/wiki/Intel
-https://en.wikipedia.org/wiki/Advanced_Micro_Devices
-
-https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
-
-https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
-https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
--->
-
-Linux
-* [Linux GitHub](https://github.com/torvalds/linux)
-
-<!--
-Linux networking tools
-https://twitter.com/b0rk/status/1204839971913379840
-
-https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
-https://linux-kernel-labs.github.io/refs/heads/master/index.html
-
-https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
-https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
-http://pages.cs.wisc.edu/~remzi/OSTEP/
-
-https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
-
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
-
-https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
-
-https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
-
-https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
-https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
-
-https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
-https://twitter.com/brendangregg/status/1150796412931600384/photo/2
-https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
-http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
-https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
-
-Commands
-http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
-https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
-http://man7.org/linux/man-pages/ | Linux man pages online
-https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
--->
-
-Compiler
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
-* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
-* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
-
-<!--	
-https://clang.llvm.org/comparison.html
-
-Apple
-https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
-https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
-https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
-
-https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
--->
-
-<!--
-KLEE LLVM Execution Engine
-https://klee.github.io/ | KLEE	
-
-Deep Learning
-https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
-https://github.com/dlvm-team/ | DLVM	
-
-https://github.com/ovh | OVH
-https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-
-https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
-https://elixir-lang.org/ | Elixir
--->
-
 ## Benchmarking
 
 Performance
@@ -807,4 +666,209 @@ http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 
 http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+-->
+
+## How Do It Work
+
+<!--
+https://en.wikipedia.org/wiki/CPU_cache
+https://en.wikipedia.org/wiki/Cache_(computing)
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
+https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
+http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
+https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
+https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
+https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
+https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
+
+https://read.amazon.com/?asin=B00F25LEVC | Kindle Cloud Reader
+-->
+
+## General
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+
+Low-Level Programming Language, Machine Code, Assembly Language
+* [Low-Level Programming Language Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
+* [Machine Code Wikipedia](https://en.wikipedia.org/wiki/Machine_code)
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+<!--
+https://en.wikipedia.org/wiki/Register_transfer_language | Register transfer language - Wikipedia
+https://en.wikipedia.org/wiki/ANSI_C | ANSI C - Wikipedia
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit | Arithmetic logic unit - Wikipedia
+https://en.wikipedia.org/wiki/Control_unit | Control unit - Wikipedia
+https://en.wikipedia.org/wiki/Processor_register | Processor register - Wikipedia
+https://en.wikipedia.org/wiki/Memory_address_register
+https://en.wikipedia.org/wiki/XOR_gate | XOR gate - Wikipedia
+https://en.wikipedia.org/wiki/NAND_gate | NAND gate - Wikipedia
+https://en.wikipedia.org/wiki/Logical_shift | Logical shift - Wikipedia
+
+http://sparksandflames.com/files/x86InstructionChart.html | Intel x86 Assembler Instruction Set Opcode Table
+-->
+
+<!--
+https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
+https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
+
+https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
+http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
+-->
+
+## Architecture- Important Concepts
+
+Computer Architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+* [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+
+<!--
+https://en.wikipedia.org/wiki/MIPS_architecture | MIPS architecture - Wikipedia
+-->
+
+Microprocessor
+* [Microprocessor Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microprocessor Design Wikipedia](https://en.wikibooks.org/wiki/Microprocessor_Design)
+
+CPU
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+
+Instruction Set (CPU)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+* [Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+* [Instruction Set Architecture Instructions Wikipedia](https://en.wikipedia.org/wiki/Instruction_set_architecture#Instructions)
+* [Computer Architecture Instruction Set Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture#Instruction_set_architecture)
+* [Machine Code Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Machine_code#Instruction_set)
+* [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
+https://en.wikipedia.org/wiki/X86_instruction_listings
+
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
+
+RISC versus CISC
+https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
+
+https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
+-->
+
+Types of CPUs
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [Apple–Intel Architecture Wikipedia](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
+
+Components
+* [Instruction Register Wikipedia](https://en.wikipedia.org/wiki/Instruction_register)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+Unix
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg) 
+* [Unix Wars Wikipedia](https://en.wikipedia.org/wiki/Unix_wars) 
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+* [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
+* [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+<!--
+https://en.wikipedia.org/wiki/Intel
+https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+
+https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
+
+https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source_Code | Lions' Commentary on UNIX 6th Edition, with Source Code - Wikipedia
+https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
+-->
+
+Linux
+* [Linux GitHub](https://github.com/torvalds/linux)
+
+<!--
+Linux networking tools
+https://twitter.com/b0rk/status/1204839971913379840
+
+https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
+https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
+https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
+
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
+https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
+
+https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
+
+https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
+https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
+
+https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
+https://twitter.com/brendangregg/status/1150796412931600384/photo/2
+https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
+https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
+
+Commands
+http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
+https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
+http://man7.org/linux/man-pages/ | Linux man pages online
+https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+-->
+
+Compiler
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
+* [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
+* [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
+* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
+
+<!--	
+https://clang.llvm.org/comparison.html
+
+Apple
+https://github.com/opensource-apple/xnu | opensource-apple/xnu: The Darwin Kernel (mirror)
+https://en.wikipedia.org/wiki/XNU | XNU - Wikipedia
+https://en.wikipedia.org/wiki/Darwin_(operating_system) | Darwin (operating system) - Wikipedia
+
+https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-python-interpreter | What does GCC have to do with a python interpreter? - Stack Overflow	
+-->
+
+<!--
+KLEE LLVM Execution Engine
+https://klee.github.io/ | KLEE	
+
+Deep Learning
+https://github.com/dmlc/tvm | dmlc/tvm: bring deep learning workloads to bare metal	
+https://github.com/dlvm-team/ | DLVM	
+
+https://github.com/ovh | OVH
+https://github.com/ovh/cds | ovh/cds: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+https://erlef.org/ | Erlang Ecosystem Foundation – The Erlang Ecosystem 
+https://elixir-lang.org/ | Elixir
 -->
