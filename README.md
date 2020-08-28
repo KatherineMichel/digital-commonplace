@@ -391,6 +391,8 @@ https://css-tricks.com/chapter-2-browsers/
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
+Bash
+
 https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
 
 Bash, Command Line
@@ -469,6 +471,8 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 
 https://spookylukey.github.io/django-views-the-right-way/
 https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
@@ -552,6 +556,25 @@ https://openai.com/blog/openai-api/ | OpenAI API
 https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
 https://twitter.com/karpathy/status/1295410274095095810
 https://github.com/karpathy/minGPT
+-->
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
 -->
 
 ## Engineering Performance Resources
