@@ -1,15 +1,27 @@
 # Web and JavaScript Notes
 
 <!--
+https://home.cern/topics/birth-web | The birth of the web | CERN
+https://css-tricks.com/chapter-1-birth/
+
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+
+https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+
 JavaScript
 "JavaScript engines are commonly found in web browsers, including V8 in Chrome, SpiderMonkey in Firefox, and Chakra in Edge. Each engine is like a language module for its application, allowing it to support a certain subset of the JavaScript language."
 https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/ | What’s the difference between JavaScript and ECMAScript?
+
 
 https://arp242.net/jquery.html | Why I'm still using jQuery in 2019
 https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need jQuery in 2020? - DEV Community 👩‍💻👨‍💻
 
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
+
 
 What is
 https://whatthefuck.is/ | Dan’s JavaScript Glossary
@@ -28,13 +40,6 @@ https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitt
 Single Div
 https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on Twitter: "If you ever think you're good at CSS, check out this website. These designs are all done with a single &lt;div&gt; element. It's insane! https://t.co/tleibWDJys" / Twitter
 https://a.singlediv.com/ | A Single Div
-
-
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
-
-https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
-
-https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 
 Airbnb- isomorphic
