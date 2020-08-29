@@ -2462,6 +2462,75 @@ https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
 
+## Open Source and Release Examples
+
+<!--
+Doc Examples
+
+https://twitter.com/gr2m/status/1260706056398749696
+https://deno.land/manual/contributing
+
+Docs
+pip for Python on Windows
+https://twitter.com/simonw/status/1243297680886870017
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows
+
+
+Very interested- Postmortem
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+https://github.com/danluu/post-mortems
+
+README, Styleguide
+* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+* [Guides GitHub](https://github.com/NARKOZ/guides)
+* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+
+Templates
+https://github.com/TalAter/open-source-templates | TalAter/open-source-templates: Issue and Pull Request Template Generator featuring Chtulhu and Lewis Carroll
+https://www.talater.com/open-source-templates/#/
+
+Docs
+https://github.com/kylelobo/The-Documentation-Compendium | kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+
+https://github.com/kbariotis/templates
+https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS
+
+CODE_OF_CONDUCT
+https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+https://github.com/VarCI/inspiring-github-templates
+
+Wiki
+https://github.com/mongodb/mongo/wiki
+
+https://github.com/adobe/open-development-template
+-->
+
+
+<!--
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://github.com/sustainers | Sustain
+https://github.com/orgs/maintainers/people?page=1
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+
+Advice
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
+
+https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+-->
+
 
 ## Git, GitHub, Open Source, Hosting
 
@@ -2792,112 +2861,6 @@ https://github.com/customer-stories/facebook | Facebook
 
 https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
--->
-
-## Open Source and Release Examples
-
-<!--
-Doc Examples
-
-https://twitter.com/gr2m/status/1260706056398749696
-https://deno.land/manual/contributing
-
-Docs
-pip for Python on Windows
-https://twitter.com/simonw/status/1243297680886870017
-https://projects.raspberrypi.org/en/projects/using-pip-on-windows
-
-
-Very interested- Postmortem
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-https://github.com/danluu/post-mortems
-
-README, Styleguide
-* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
-* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
-* [Guides GitHub](https://github.com/NARKOZ/guides)
-* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
-
-Templates
-https://github.com/TalAter/open-source-templates | TalAter/open-source-templates: Issue and Pull Request Template Generator featuring Chtulhu and Lewis Carroll
-https://www.talater.com/open-source-templates/#/
-
-Docs
-https://github.com/kylelobo/The-Documentation-Compendium | kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-
-https://github.com/kbariotis/templates
-https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS
-
-CODE_OF_CONDUCT
-https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
-https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
-https://github.com/VarCI/inspiring-github-templates
-
-Wiki
-https://github.com/mongodb/mongo/wiki
-
-https://github.com/adobe/open-development-template
--->
-
-
-<!--
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
-
-http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://github.com/sustainers | Sustain
-https://github.com/orgs/maintainers/people?page=1
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-
-Advice
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
-
-https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
-
-GA- Best
-https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
-
-Matrix
-https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
-https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
-https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
-
-GA
-https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
-https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
-
-GitHub Actions
-https://github.com/GoogleChrome/lighthouse-stack-packs/issues
-https://mobile.twitter.com/magnetikonline/status/1224837954771668992
-https://mobile.twitter.com/webKnjaZ/status/1226585066551291910
-
-https://twitter.com/sindresorhus/status/1285609420098088961 | Sindre Sorhus on Twitter: "TIL: You can style your GitHub readme with CSS. https://t.co/tNyRMZ3766 https://t.co/KRVAKjI1cH" / Twitter
-https://github.com/sindresorhus/css-in-readme-like-wat | sindresorhus/css-in-readme-like-wat: Style your readme using CSS with this simple trick
-
-https://github.com/anuraghazra/github-readme-stats | anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes
-https://github.com/kautukkundan/Awesome-Profile-README-templates | kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile
-https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-https://dev.to/github/10-standout-github-profile-readmes-h2o?signin=true | 10 Standout GitHub Profile READMEs - DEV Community 👩‍💻👨‍💻
-
-Personal README
-https://twitter.com/pifafu/status/1265773172520914944 | kathy ☁️☁️☁️ on Twitter: "hey, so we heard ya &amp; are trying out a thing where you CAN have a readme on your @github profile... @mikekavouras built it btw! re: https://t.co/UC6q3qHjjR https://t.co/kB0kafgovY" / Twitter
-https://github.com/pifafu | pifafu (kathy)
-https://github.com/katmeister/.github | katmeister/.github: Config files for my GitHub profile.
-https://twitter.com/pifafu/status/1262830019706892288 | kathy ☁️☁️☁️ on Twitter: "👋 hiii—if you use @github, i was wondering: what are some of the things you would want others on GitHub to know about you?" / Twitter
-
-https://github.com/bdougie/github-actions-continuous-delivery | bdougie/github-actions-continuous-delivery
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-
-https://github.com/andymckay/actions-ips/blob/master/actions_ips/ips.py | actions-ips/ips.py at master · andymckay/actions-ips
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
 -->
 
 
