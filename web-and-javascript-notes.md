@@ -218,6 +218,9 @@ The Chromium Projects
 * ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
 
 <!--
+https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+https://en.wikipedia.org/wiki/World_Wide_Web_Consortium
+
 https://github.com/tc39/proposals
 https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
 
@@ -231,7 +234,6 @@ https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/render
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 https://html.spec.whatwg.org/multipage/
-https://en.wikipedia.org/wiki/HTTP/3
 -->
 
 ## Recommended
@@ -348,8 +350,6 @@ https://twitter.com/youyuxi
 
 Feross
 https://github.com/feross
-
-vue.js
 
 https://flaviocopes.com
 https://medium.com/@js_tut | JavaScript Teacher – Medium
