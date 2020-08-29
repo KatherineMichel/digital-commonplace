@@ -201,11 +201,15 @@ http://www.ecma-international.org/publications/standards/Ecma-402.htm
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+W3C
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c)
+
+W3C Standards
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+W3C Tools
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 JavaScript
 * [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
@@ -218,8 +222,10 @@ The Chromium Projects
 * ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
 
 <!--
-https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+https://w3c.github.io/
 https://en.wikipedia.org/wiki/World_Wide_Web_Consortium
+
+https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
 
 https://github.com/tc39/proposals
 https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
