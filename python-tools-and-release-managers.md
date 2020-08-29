@@ -1,52 +1,35 @@
 # Python Tools and Release Managers
 
 <!--
-https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
+PyPI GitHub Actions
+https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
 
-Bash, Command Line
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
-
+https://github.com/naftaliharris/tauthon
 
 https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
-Bernat- rewrite
-https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
 
 Profiling
 https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
 https://github.com/asottile/importtime-waterfall/
 har http timing
 
-
 https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
 https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
 
 https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
-PyPI GitHub Actions
-https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
 
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
-
-https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
-
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-
-https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
-
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
 
 pip install -e
 https://twitter.com/pganssle/status/1289038733250113537
 https://twitter.com/pganssle/status/1289010601415577600 | Paul Ganssle on Twitter: ""Doctor, it hurts when I invoke https://t.co/o3PGyRiVuO install." "Stop doing that then!" (Seriously, always use pip install, never https://t.co/o3PGyRiVuO install)" / Twitter
-
-https://twitter.com/llanga/status/986645110518509568 | Łukasz Langa on Twitter: "TIL about https://t.co/BtoFQvaMlW. Compared to Pipenv, the cmdline is different, it uses the standard pyproject.toml for configuration instead of the custom Pipfile, and caret dependencies are a usability improvement. It will be very interesting to see which will win long term."
-
 
 Pinning
 https://twitter.com/carltongibson/status/1249033282831908870 | Carlton Gibson 🇪🇺 on Twitter: "@webology How do they not get unexpected breakages then?" / Twitter
@@ -56,7 +39,6 @@ https://mobile.twitter.com/mariatta/status/1251733060812369920
 
 pathlib
 https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
-
 
 Python Docker
 https://twitter.com/brettsky/status/1146835613628293120 | Twitter
@@ -68,7 +50,7 @@ https://twitter.com/webKnjaZ/status/1287690737778335744 | Sviatoslove.py🐍 �
 https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
 
 https://twitter.com/pganssle/status/1270056171861401601
-Release
+
 https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
 -->
 
@@ -109,6 +91,9 @@ https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267
 Sphinx/Read the Docs
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 
+poetry
+https://twitter.com/llanga/status/986645110518509568 | Łukasz Langa on Twitter: "TIL about https://t.co/BtoFQvaMlW. Compared to Pipenv, the cmdline is different, it uses the standard pyproject.toml for configuration instead of the custom Pipfile, and caret dependencies are a usability improvement. It will be very interesting to see which will win long term."
+
 Shields
 https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
@@ -129,21 +114,6 @@ https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed d
 https://pyup.io/safety/
 
 https://pyformat.info/
--->
-
-## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
-
-* [NGINX](https://www.nginx.com/)
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-<!--
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
 -->
 
 ## Companies that Use Python
@@ -536,39 +506,19 @@ https://docs.djangoproject.com/en/dev/internals/contributing/
 Working through
 https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
 
+https://lwn.net/Articles/819853/
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+Python What's New
+https://www.python.org/download/pre-releases/
+
 https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/
 https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle/
--->
-
-## Python Release
-
-<!--
-Python release
-
-Python
-https://lwn.net/Articles/819853/
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://mail.python.org/archives/list/python-committers@python.org/message/JFBZ7OHPQLHBYDCGGLG554JBXWGTKT23/ | Mailman 3 [python-committers] [RELEASE] Python 3.9.0b3 is now available for testing - python-committers - python.org
-https://twitter.com/pyblogsal/status/1271115432590807041 | __qualname__ on Twitter: "Ah, don't you love the sound of 11630 lines of code that disappear at the same time? The old parser is dead! Long live the new parser!! https://t.co/xU9vTdxi0r" / Twitter
-
-https://twitter.com/gvanrossum/status/1255164435502489600 | Guido van Rossum on Twitter: "Python 3.9a6 is out! With new parser (PEP 617), dict|dict (PEP 584), list[int] (PEP 585), str.remove{prefix,suffix}() (PEP 616), and much more! Please test with your favorite packages. https://t.co/jhJ24UBGrw" / Twitter
 
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 https://www.python.org/downloads/release/python-390a5/
-
-https://www.python.org/download/pre-releases/
-
-Django What’s New
-https://www.youtube.com/watch?v=_BBNVFirvTY&feature=youtu.be | What's New In Django 3.0 - YouTube
-
-Django Security
-https://twitter.com/djangoproject/status/1207234611098607616 | Django on Twitter: "Django security releases issued: 3.0.1, 2.2.9, and 1.11.27 https://t.co/
-
-https://docs.djangoproject.com/en/dev/releases/3.1/
-https://www.djangoproject.com/weblog/2020/apr/01/bugfix-releases/
 -->
 
 ## Mission Critical :)
@@ -596,8 +546,7 @@ Pipenv
 <!--
 Bernat
 https://ep2020.europython.eu/talks/D2SG8Vb-lessons-from-the-trenches-rewriting-and-re-releasing-virtualenv/ | Lessons from the Trenches: rewriting and re-releasing virtualenv — EuroPython 2020 Online · 23-26 July 2020
-
-virtualenv
+https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
 https://github.com/gaborbernat/virtualenv-rewrite-eupy20 | gaborbernat/virtualenv-rewrite-eupy20
 
 pip
@@ -1311,7 +1260,6 @@ SpatiaLite (Spatial Database Extender for SQLite)
 
 
 
-
 ## Website and Blog Resources
 
 GitHub Pages Showcase (Jekyll)
@@ -1590,8 +1538,13 @@ https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Chea
 https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
 
 https://github.com/topics/bash | Topic: bash
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
 https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
 Intro - Hello Web Books
+https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 Bash versus Python
 https://opensource.com/article/19/4/bash-vs-python
@@ -1614,7 +1567,6 @@ https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal do
 https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
 https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 -->
-
 
 ## Third Party Helpers
 
@@ -1684,6 +1636,20 @@ https://github.com/kennethreitz/background | kennethreitz/background: Runs thing
 https://github.com/kennethreitz/homebrew-pythons
 -->
 
+## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
+
+* [NGINX](https://www.nginx.com/)
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+<!--
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
+-->
 
 ## Continuous Integration, Continuous Deployment, and Test Matrix
 
