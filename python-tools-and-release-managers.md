@@ -485,42 +485,6 @@ https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
 
-## To Read- Release Management
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
-
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org)
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
-
-<!--
-https://docs.djangoproject.com/en/dev/internals/contributing/
-
-Working through
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
-
-https://lwn.net/Articles/819853/
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-Python What's New
-https://www.python.org/download/pre-releases/
-
-https://www.python.org/dev/peps/pep-0602/
-https://devguide.python.org/
-https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle/
-
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
--->
-
 ## Mission Critical :)
 
 pip
