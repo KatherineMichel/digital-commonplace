@@ -1,8 +1,15 @@
 # Python Tools and Release Managers
 
 <!--
-Pinax
-https://en.wikipedia.org/wiki/Software_versioning#Release_train
+https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
+
+Bash, Command Line
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+
 
 https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
 
@@ -34,7 +41,8 @@ https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File
 https://twitter.com/Podcast__init__/status/1267634528740311041 | Podcast.__init__ on Twitter: "Do you wish you could extend the life of your Python 2 projects? Then check out Tauthon! In this episode Naftali Harris shares his work on the fork of Python 2 that backports fun and useful features from Python 3. https://t.co/m2kmgv8EcJ" / Twitter
 
 
-pip install
+pip install -e
+https://twitter.com/pganssle/status/1289038733250113537
 https://twitter.com/pganssle/status/1289010601415577600 | Paul Ganssle on Twitter: ""Doctor, it hurts when I invoke https://t.co/o3PGyRiVuO install." "Stop doing that then!" (Seriously, always use pip install, never https://t.co/o3PGyRiVuO install)" / Twitter
 
 https://twitter.com/llanga/status/986645110518509568 | Łukasz Langa on Twitter: "TIL about https://t.co/BtoFQvaMlW. Compared to Pipenv, the cmdline is different, it uses the standard pyproject.toml for configuration instead of the custom Pipfile, and caret dependencies are a usability improvement. It will be very interesting to see which will win long term."
