@@ -1,8 +1,6 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
-
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
 
@@ -10,11 +8,6 @@ https://grpc.io/
 https://grpc.io/docs/guides/
 https://developers.google.com/protocol-buffers/docs/overview
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
-
-Google
-https://github.com/protocolbuffers/protobuf | protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format
-https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protocol Buffers Instead of JSON for Your Next Service - Code Climate
-https://en.wikipedia.org/wiki/Protocol_Buffers | Protocol Buffers - Wikipedia
 
 Innovations
 * [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
@@ -32,14 +25,6 @@ https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
 
 http://restcookbook.com/Miscellaneous/rest-and-http/
-
-HTTP
-https://en.wikipedia.org/wiki/HTTP/3
-https://en.wikipedia.org/wiki/HTTP/2
-https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
-
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
@@ -102,13 +87,34 @@ REST Alternatives
 * [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
 
 <!--
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+
+Python Database
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+
 https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+
+HTTP
+https://en.wikipedia.org/wiki/HTTP/3
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
+
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 https://github.com/graphql-python | GraphQL Python
 -->
 
 REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
+
+<!--
+Serialization- Google's Protocol Buffers versus XML/JSON
+https://github.com/protocolbuffers/protobuf | protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format
+https://en.wikipedia.org/wiki/Protocol_Buffers | Protocol Buffers - Wikipedia
+https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protocol Buffers Instead of JSON for Your Next Service - Code Climate
+-->
 
 Webhooks (Event-driven... the format is usually JSON. The request is done as a HTTP POST request.)
 * [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
@@ -121,11 +127,15 @@ Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
 * [List of Ajax Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript)
 
 <!--
+www.json.org
+
 https://en.m.wikipedia.org/wiki/Serialization
 
 API... usually HTTP + XML or JSON
 https://en.wikipedia.org/wiki/Application_programming_interface
 "When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
+
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 
 Important
 "HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
@@ -158,69 +168,85 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
 https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
 
-https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
 
-https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
-https://developers.google.com/identity/protocols/OAuth2
 https://en.wikipedia.org/wiki/Basic_access_authentication
+https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
+
 https://en.wikipedia.org/wiki/OAuth
 https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
+https://oauth.net/ | OAuth Community Site
+https://oauth.net/2/ | OAuth 2.0 — OAuth
+
+https://developers.google.com/identity/protocols/OAuth2
+
 https://en.wikipedia.org/wiki/OpenID
 https://en.wikipedia.org/wiki/OpenID_Connect
 https://openid.net/ | OpenID Foundation website
-https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
-Social Auth
-https://oauth.net/2/ | OAuth 2.0 — OAuth
-https://oauth.net/ | OAuth Community Site
-https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
+Authentication
+JSON Web Token (JWT)
+https://jwt.io/ | JSON Web Tokens - jwt.io
+https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
+
 https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
 https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
 https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
+https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+
 https://twofactorauth.org/ | 502 Bad Gateway
 https://twofactorauth.org/#banking | Two Factor Auth List
+
+
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+Social Auth
+
+https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
 
 Google Auth
 https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
 -->
 
-<!--
-Auth
-
-https://jwt.io/ | JSON Web Tokens - jwt.io
--->
-
-## JSON Schema
+## JSON
 
 <!--
-https://schema.org/
-
-www.json.org
+Schema
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
-
-https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
-
-JSON Web Token (JWT)
-https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
+https://schema.org/
+https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
 -->
 
 ## API
 
 <!--
+https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
+
 https://github.com/tiangolo/fastapi
 https://fastapi.tiangolo.com/#performance
 
-https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
-
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://github.com/api-evangelist
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://www.programmableweb.com/category/all/apis
 
 Postman	
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 -->
 
 ## Request and Response Cycle, HTTP
