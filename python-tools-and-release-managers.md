@@ -1256,6 +1256,8 @@ https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=A
 
 https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
 
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+
 node.js
 https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
 
