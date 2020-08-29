@@ -24,6 +24,13 @@ WebAssembly
 * [Mozilla WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
 <!--
+RTC Framework (Real Time Communication via APIs)
+* [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
+
+* [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
+* [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
+* [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
+
 https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/ | Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog
 
 WebAssembly
