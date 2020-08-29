@@ -1,8 +1,42 @@
 # Python Tools and Release Managers
 
 <!--
-PyPI GitHub Actions
-https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
+https://github.com/wsvincent/awesome-django
+
+
+https://github.com/Azure/azure-quickstart-templates
+https://twitter.com/di_codes/status/1295793468762136576
+
+https://github.com/jessfraz/dockerfiles
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
+
+https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
+
+https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+
+Stop Writing Classes
+https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+https://realpython.com/courses/inheritance-composition-python/
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+Pass by value versus pass by reference
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+
+https://github.com/phildini/api-driven-django
+
+https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+
 
 https://github.com/naftaliharris/tauthon
 
