@@ -1,22 +1,6 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
-https://grpc.io/
-https://grpc.io/docs/guides/
-https://developers.google.com/protocol-buffers/docs/overview
-* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
-
-Innovations
-* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
-* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
-* [WebRTC Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
-* [WebAssembly GitHub](https://en.wikipedia.org/wiki/WebAssembly)
-* [Web Worker Wikipedia](https://en.wikipedia.org/wiki/Web_worker)
-* [Push Technology Wikipedia](https://en.wikipedia.org/wiki/Push_technology) and [Push Notification Wikipedia](https://en.wikipedia.org/wiki/Push_technology#Push_notification)
-
 Real time services
 chat protocols, IoT protocols
 https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
@@ -30,35 +14,13 @@ https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 -->
 
-## Security
-
-<!--
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-
-https://github.com/lawsecnet/pentesting-with-python
-
-https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: A reading list for infosec engineers
-https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-Hidden vulnerabilities of OS Software
-https://twitter.com/cra/status/1242580570451951619
-
-Social Distancing Survival Guide
-https://twitter.com/Fox0x01/status/1238636233649250304
-https://twitter.com/Fox0x01/status/1238636236962779136
-https://github.com/gwen001/pentest-tools
--->
-
 ## Computer Architecture
 
 CPU versus IO
 * [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
 * [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
 * [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
-* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound | CPU-bound - Wikipedia)
+* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound)
 * [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
 
 Ports
@@ -68,6 +30,18 @@ HTTP and HTTPS
 * [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
 * [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+
+HTTP Versions
+* [HTTP/3 Wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
+* [HTTP/2 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
+* [HTTP/2- Differences from HTTP/1.1 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1)
+
+<!--
+See GraphQL
+
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+-->
 
 HTTP versus WebSocket (HTTP is uni-directional; WebSocket is bi-directional)
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
@@ -94,14 +68,6 @@ Python Database
 
 https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
 
-HTTP
-https://en.wikipedia.org/wiki/HTTP/3
-https://en.wikipedia.org/wiki/HTTP/2
-https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1
-
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
-
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 https://github.com/graphql-python | GraphQL Python
 -->
@@ -109,11 +75,22 @@ https://github.com/graphql-python | GraphQL Python
 REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
+Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+Remote Procedure Call (RPC) Framework (Uses Protocol Buffers)
+* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
+* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
+
 <!--
-Serialization- Google's Protocol Buffers versus XML/JSON
+https://developers.google.com/protocol-buffers/docs/overview
+
 https://github.com/protocolbuffers/protobuf | protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format
 https://en.wikipedia.org/wiki/Protocol_Buffers | Protocol Buffers - Wikipedia
 https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protocol Buffers Instead of JSON for Your Next Service - Code Climate
+
+https://grpc.io/
+https://grpc.io/docs/guides/
 -->
 
 Webhooks (Event-driven... the format is usually JSON. The request is done as a HTTP POST request.)
