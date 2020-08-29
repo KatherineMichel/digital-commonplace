@@ -298,8 +298,6 @@ https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mas
 
 https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
 
-Driven
-http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
 
 
 Sphinx to Markdown
@@ -388,9 +386,6 @@ https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/
 https://lyrebird.ai/demo | Demo - Lyrebird
 
 
-https://home.cern/topics/birth-web | The birth of the web | CERN
-https://css-tricks.com/chapter-2-browsers/
-
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
 Bash Language
@@ -422,6 +417,55 @@ https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
+
+## To Read- Python Release
+
+<!--
+https://docs.djangoproject.com/en/dev/internals/contributing/
+
+Working through
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+
+https://lwn.net/Articles/819853/
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+Python What's New
+https://www.python.org/download/pre-releases/
+
+Peps
+
+https://www.python.org/dev/peps/pep-0602/
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/devcycle/
+
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
+-->
+
+## To Read- Python Packaging
+
+Django
+* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+
+Python Docs- Packaging
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+Python- Official Packaging Info
+* [Sample Project](https://github.com/pypa/sampleproject)
+* [Python Packaging User Guide](https://packaging.python.org)
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging Guides](https://packaging.python.org/guides) 
+* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 
 ## Interesting
 
@@ -475,20 +519,6 @@ https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitt
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-Cheat sheets
-
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
-
-https://docs.python.org/3/whatsnew/index.html
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
@@ -652,42 +682,19 @@ https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-
 <!--
 https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
 
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
-
 Docs- Important!
 minimum viable documentation
 https://documentation.divio.com/
 https://twitter.com/webology/status/1257759193743929347
 https://docs.fast.ai/gen_doc_main.html
 
-https://en.wikipedia.org/wiki/Five_Ws
-
-http://www.writethedocs.org/
-https://github.com/writethedocs/www
-https://github.com/jnordberg/wintersmith/wiki/Showcase
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 
 https://developers.google.com/style/
 https://developers.google.com/tech-writing
 https://developers.google.com/tech-writing/one
-
-https://twitter.com/thoward37/status/1227286141537144832
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 -->
+
 
 ## Stack
 
@@ -2522,13 +2529,45 @@ https://github.com/sustainers | Sustain
 https://github.com/orgs/maintainers/people?page=1
 https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
 
+https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
 Advice
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
 
-https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
 https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
+-->
+
+
+
+## Technical Writing- General
+
+<!--
+https://en.wikipedia.org/wiki/Five_Ws
+
+https://github.com/jnordberg/wintersmith/wiki/Showcase
+
+http://www.writethedocs.org/
+https://github.com/writethedocs/www
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
+
+https://twitter.com/thoward37/status/1227286141537144832
+https://abookapart.com/products/everyday-information-architecture
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
+
+2017 Open Source Survey
+https://opensourcesurvey.org/2017/
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 -->
 
 
@@ -3175,14 +3214,8 @@ Event Paradigm
 * [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
 
 <!--
-https://twitter.com/carltongibson/status/1259466017358647296 | Carlton Gibson 🇪🇺 on Twitter: "The older I get the more I think, optimise for the beginner’s use-case." / Twitter
-
-Discussions
-https://twitter.com/_tomchristie/status/1259781217685307392 | Tom Christie on Twitter: "Don't know when it'll land, but I'm *really* looking forward to @GitHub's "discussions" feature. Going to put up a nice big sign in front of issues directing users to the discussions tab as the starting point, and ensure that the maintenance team gets to decide what to escalate." / Twitter
-
-Maintainer driven issues and PRs
-https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
-https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
+Driven
+http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
 
 https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
 https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
@@ -3191,6 +3224,15 @@ https://trineo.com/blog/2020/01/constraint-driven-development | Constraint Drive
 Driven Dev
 https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
 https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
+
+https://twitter.com/carltongibson/status/1259466017358647296 | Carlton Gibson 🇪🇺 on Twitter: "The older I get the more I think, optimise for the beginner’s use-case." / Twitter
+
+Discussions
+https://twitter.com/_tomchristie/status/1259781217685307392 | Tom Christie on Twitter: "Don't know when it'll land, but I'm *really* looking forward to @GitHub's "discussions" feature. Going to put up a nice big sign in front of issues directing users to the discussions tab as the starting point, and ensure that the maintenance team gets to decide what to escalate." / Twitter
+
+Maintainer driven issues and PRs
+https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
+https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
 
 * [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
 
