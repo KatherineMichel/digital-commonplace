@@ -408,6 +408,13 @@ Django Coding Style Guide
 Django JavaScript Style Guide
 * [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
 
+## Design Choices
+
+Django Architecture and Scaling
+* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
+* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
+* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
+
 ## General Python and Django Links
 
 Django Views
@@ -427,13 +434,6 @@ https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequ
 https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
 https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
 -->
-
-Django Architecture and Scaling
-* [Shared-Nothing Architecture Wikipedia](https://en.wikipedia.org/wiki/Shared-nothing_architecture)
-* [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
-* [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
-
-
 
 ### Django Testing
 
@@ -591,6 +591,21 @@ Important
 * [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
 * [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
 
+<!--
+https://en.wikipedia.org/wiki/Behavior-driven_development
+
+state behavior versus behavior verification
+https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
+
+"Write integration tests for all pieces of code where you either serialize or deserialize data. This happens more often than you might think. Think about:
+
+Calls to your services' REST API
+Reading from and writing to databases
+Calling other application's APIs
+Reading from and writing to queues
+Writing to the filesystem"
+-->
+
 ## Python Testing
 
 Python and Django Debugging
@@ -645,6 +660,120 @@ https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twit
 https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
 -->
 
+
+<!--
+https://pythontesting.net/agile/test-first-programming/
+http://www.extremeprogramming.org/rules/testfirst.html
+https://martinfowler.com/bliki/SelfTestingCode.html
+https://martinfowler.com/bliki/TestDrivenDevelopment.html
+https://learntdd.in/concepts.html
+
+https://en.wikipedia.org/wiki/Scenario_testing
+https://martinfowler.com/articles/mocksArentStubs.html
+https://thoughtbot.com/blog/i-mock-your-fixtures-too
+-->
+
+<!--
+Python security
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+Telemetry
+https://en.wikipedia.org/wiki/Telemetry
+
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+
+JS Scene
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://hynek.me/articles/document-your-tests/
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+
+Django Testing
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
+
+Speaking
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
+-->
+
+
+## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
+
+Django
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Pylint Django
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
+
+Django Test Plus
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
+Python- Django- Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+Important
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+
+https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
+pytest
+
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://www.packtpub.com/web-development/pytest-quick-start-guide
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Test Anything Protocol
+https://en.wikipedia.org/wiki/Test_Anything_Protocol
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+
+Property
+https://hypothesis.readthedocs.io/en/latest/
+https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+
+BDD
+https://automationpanda.com/bdd/
+https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
+https://github.com/behave/behave | behave/behave: BDD, Python style.
+https://cucumber.io/ | Cucumber
+https://github.com/cucumber/gherkin-python
+-->
+
 ## Performance
 
 Python Time Complexity, Performance
@@ -697,6 +826,7 @@ https://wiki.python.org/moin/ConcatenationTestCode
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 -->
 
+
 ## Python Profiling
 
 <!--
@@ -717,195 +847,55 @@ https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do R
 http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 -->
 
-
 <!--
-Python security
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-Telemetry
-https://en.wikipedia.org/wiki/Telemetry
-
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
-
-JS Scene
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://hynek.me/articles/document-your-tests/
-
-Speaking
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-
-2020 Goals
-https://twitter.com/AutomationPanda/status/1226591212632596480
--->
-
-
-<!--
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
-
-
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
-
-
-Test Anything Protocol
-
-PyTest
-https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
-
-
-https://testdriven.io/ | Test Driven Development Courses
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://testautomationu.applitools.com/python-tutorial/
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
-
-https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/
-
-https://automationpanda.com/tag/development/
-
-Django Testing
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
--->
-
-
-## Testing
-
-<!--
-TestPyramid
-
-"Write integration tests for all pieces of code where you either serialize or deserialize data. This happens more often than you might think. Think about:
-
-Calls to your services' REST API
-Reading from and writing to databases
-Calling other application's APIs
-Reading from and writing to queues
-Writing to the filesystem"
-
-
-https://pythontesting.net/agile/test-first-programming/
-http://www.extremeprogramming.org/rules/testfirst.html
-https://martinfowler.com/bliki/SelfTestingCode.html
-https://martinfowler.com/bliki/TestDrivenDevelopment.html
-https://learntdd.in/concepts.html
-
-https://en.wikipedia.org/wiki/Scenario_testing
-https://martinfowler.com/articles/mocksArentStubs.html
-https://thoughtbot.com/blog/i-mock-your-fixtures-too
-
-state behavior versus behavior verification
-https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
--->
-
-<!--
-https://testautomationu.applitools.com/
-https://testautomationu.applitools.com/unit-testing/ | Overview
-https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
-
-Testing pyramid
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-
-https://automationpanda.com/bdd/
-https://automationpanda.com/python/
+Talks
 
 Beyond Unit Tests
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s
 https://github.com/AndyLPK247/djangocon-2019-web-ui-testing
 
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
 https://2018.pygotham.org/talks/egad-how-do-we-start-writing-better-tests/ | Egad! How Do We Start Writing (Better) Tests? - PyGotham 2018
 https://automationpanda.com/2018/08/02/egad-how-do-we-start-writing-better-tests/ | EGAD! How Do We Start Writing (Better) Tests? | Automation Panda
 https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
+https://twitter.com/AutomationPanda/status/1048275359303708673
+
+https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
 
 https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Knight on Twitter: "Cool! Thanks. Let me know if you have questions.… "
 
-* [Automation Panda](https://automationpanda.com)
-https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
-https://github.com/AndyLPK247/python-testing-101 | AndyLPK247/python-testing-101: Example projects for the Python Testing 101 series from Automation Panda
-https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
-
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-
-https://twitter.com/AutomationPanda/status/1097140065577431041
-https://twitter.com/AutomationPanda/status/1048275359303708673
 https://twitter.com/AutomationPanda/status/1023346925771345920
+BDD
 https://twitter.com/AutomationPanda/status/1061393338165837825
-
-DjangoCon Keynote by Ana
-
-https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
 
 https://www.hillelwayne.com/talks/beyond-unit-tests/
 https://www.youtube.com/watch?v=MYucYon2-lk
+
+https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
+
+DjangoCon Keynote by Ana
 -->
 
-
-## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
-
-Django
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
-PyLint
-* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
-
-Pylint Django
-* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
-
-Django Test Plus
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-
-Python- Django- Debug Toolbar an dPanel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
 <!--
-Important
-https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
-https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+Sites
+* [Automation Panda](https://automationpanda.com)
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+https://automationpanda.com/python/
+https://automationpanda.com/tag/development/
 
-https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
-https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+Testing pyramid
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
 
-pytest
+https://testdriven.io/ | Test Driven Development Courses
 
-https://www.packtpub.com/web-development/pytest-quick-start-guide
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/unit-testing/ | Overview
 
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
+https://testautomationu.applitools.com/python-tutorial/
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
 
 Brian Okken
 http://pythontesting.net/start-here/
-https://pythontesting.net/framework/pytest/pytest-introduction/
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-Property
-https://hypothesis.readthedocs.io/en/latest/
-https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
-
-BDD
-https://github.com/behave/behave | behave/behave: BDD, Python style.
-https://cucumber.io/ | Cucumber
-https://github.com/cucumber/gherkin-python
 -->
 
 ## Python and Django Debugging and Testing
