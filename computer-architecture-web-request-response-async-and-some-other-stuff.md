@@ -1,6 +1,11 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
+https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
 Real time services
 chat protocols, IoT protocols
 https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
@@ -198,8 +203,6 @@ https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | J
 ## API
 
 <!--
-https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
-
 https://github.com/tiangolo/fastapi
 https://fastapi.tiangolo.com/#performance
 
