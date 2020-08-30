@@ -195,6 +195,9 @@ Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
 
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
 Pinax
 https://en.wikipedia.org/wiki/Software_versioning#Release_train
 
@@ -217,25 +220,101 @@ https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - commu
 
 https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
 
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+
+Vicky
+https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
+https://archive.org/details/gitlabcommit-fourwaystofurtherfoss/03-gitlabcommit-fourwaystofurtherfoss-practice01.mov | GitLab Commit 2020 : Four ways to Further FOSS : Free Download, Borrow, and Streaming : Internet Archive
+https://ia601504.us.archive.org/29/items/gitlabcommit-fourwaystofurtherfoss/02-gitlabcommit-fourwaystofurtherfoss-with_speaker_notes.pdf | 02-gitlabcommit-fourwaystofurtherfoss-with_speaker_notes.pdf
+https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
+https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
+
+GitLab
+https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
+https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here - August 26, 2020 | GitLab
+https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
+
+
+https://hackerone.com/
+https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
+https://todoist.com/
+
+Important
+https://notes.andymatuschak.org/About_these_notes | About these notes
+
+https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
 
 Prioritization
 https://twitter.com/hunterwalk/status/1294699190585454592
 
 Checklist Manifesto
 
+Important
+https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
+
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
+
+https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
+
+https://twitter.com/hashtag/30DaysOfTesting
+
+No Code Challenge
+https://twitter.com/bentossell/status/1298655018048991232 | https://twitter.com/bentossell/status/1298655018048991232
 
 https://spookylukey.github.io/django-views-the-right-way/
 https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
+
+Grady
+https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
 
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
+https://twitter.com/rsg/status/1299382538025091072 | Bobby Goodlatte on Twitter: "The early days of Form Capital: Before we even raised the fund, we started with a test. We wanted to validate our thinking about design sprints before we structured our entire fund around the concept. Read more in our latest case study! https://t.co/N3pnMjqq7q" / Twitter
+
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
 Bash Language
+
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+
+GitHub
+https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
+
+VS Code
+vscode html css support - Google Search
+
+
+
+Twitter
+https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
+
+Resources
+https://github.com/trekhleb/learn-python | trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
+
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
+
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
+
 
 
 Brand
@@ -263,6 +342,13 @@ https://github.com/nektos/act
 
 https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://www.python.org/events/python-events/past/?page=2
+
+Public Speaking
+https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
+
+https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
+http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
+https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
 
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
@@ -346,6 +432,8 @@ https://evhead.com/ | evhead
 https://www.eugenewei.com/ | Remains of the Day
 http://www.eugenewei.com/blog/2017/6/7/my-most-popular-posts | My most popular posts — Remains of the Day
 https://github.com/wongmjane | wongmjane (Jane Manchun Wong)
+https://wongmjane.com/ | Jane Manchun Wong’s Personal Website
+https://wongmjane.com/post/secret-of-my-reverse-engineering | Not Found
 
 https://twitter.com/johncutlefish/
 https://medium.com/@johnpcutler
@@ -501,7 +589,14 @@ Python- Official Packaging Info
 <!--
 Eldarion projects
 
+https://github.com/jacobwegner | jacobwegner (Jacob Wegner) / Followers
+https://github.com/paltman | paltman (Patrick Altman) / Following
+https://github.com/jtauber | jtauber (James Tauber) / Following
+james harrington
+
 https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
+
+https://github.com/Hedera-Lang-Learn/hedera
 
 https://github.com/eldarion-client/digital-sira
 
@@ -1305,6 +1400,7 @@ https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt t
 https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 -->
 
 ## Deploy
