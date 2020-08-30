@@ -166,7 +166,10 @@ https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+Twitter sentiment analysis
+https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
+
+https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
 
 
 Spaces
@@ -191,6 +194,50 @@ https://github.com/matteofigus/awesome-speaking
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
+
+Pinax
+https://en.wikipedia.org/wiki/Software_versioning#Release_train
+
+https://github.com/features/codespaces/ | Codespaces
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
+
+
+Prioritization
+https://twitter.com/hunterwalk/status/1294699190585454592
+
+Checklist Manifesto
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
+
+https://spookylukey.github.io/django-views-the-right-way/
+https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+Bash Language
+
+
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
 
@@ -213,23 +260,9 @@ https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-gith
 
 https://github.com/nektos/act
 
-https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
 
-
-Pinax
-https://en.wikipedia.org/wiki/Software_versioning#Release_train
-
-https://github.com/features/codespaces/ | Codespaces
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
-
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
 
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
@@ -247,12 +280,32 @@ https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First 
 https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
 https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
+
 Julia
 https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
 https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
+
+https://github.com/OAI/OpenAPI-Specification
+
+https://github.com/OWASP/API-Security
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+Algorithms
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+https://github.com/phodal/growth-in-action
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
 
 Sphinx to Markdown
@@ -275,30 +328,6 @@ https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson 
 http://www.hawraf.com/
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-Fast
-https://github.com/fastai/fastbook
-https://twitter.com/jeremyphoward/status/1293698425645498369
-https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
-https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
-https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
-https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
-
-https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
-
-https://beta.openai.com/ | OpenAI API
-
-GPT-3
-https://openai.com/blog/openai-api/ | OpenAI API
-https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
-https://twitter.com/karpathy/status/1295410274095095810
-https://github.com/karpathy/minGPT
 
 
 Sid
@@ -349,8 +378,29 @@ https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithm
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 
-https://www.amazon.com/dp/B002V1I698/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | The Laws of Simplicity (Simplicity: Design, Technology, Business, Life), Maeda, John, eBook - Amazon.com
 
+https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+Fast
+https://github.com/fastai/fastbook
+https://twitter.com/jeremyphoward/status/1293698425645498369
+https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
+https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
+https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
+https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
+
+https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
+
+https://beta.openai.com/ | OpenAI API
+
+GPT-3
+https://openai.com/blog/openai-api/ | OpenAI API
+https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
+https://twitter.com/karpathy/status/1295410274095095810
+https://github.com/karpathy/minGPT
 
 https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
 
@@ -363,11 +413,6 @@ https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
 
 https://lyrebird.ai/demo | Demo - Lyrebird
-
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Bash Language
 
 
 Practical Dev
@@ -482,53 +527,6 @@ https://github.com/digitaltolkien/
 https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
 https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
 https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
--->
-
-## Interesting
-
-<!--
-Prioritization
-https://twitter.com/hunterwalk/status/1294699190585454592
-
-Checklist Manifesto
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-https://github.com/OAI/OpenAPI-Specification
-
-https://github.com/OWASP/API-Security
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-https://spookylukey.github.io/django-views-the-right-way/
-https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-Algorithms
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-https://github.com/phodal/growth-in-action
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 -->
 
 ## Stuff
@@ -678,17 +676,6 @@ Twitter
 Site case study
 https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
--->
-
-<!--
-https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
-https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
 -->
 
 ## GitHub and Hosting Blogs
