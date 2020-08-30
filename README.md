@@ -191,43 +191,29 @@ https://github.com/matteofigus/awesome-speaking
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 
 
-https://github.com/Azure/azure-quickstart-templates
-https://twitter.com/di_codes/status/1295793468762136576
-
-https://github.com/nodejs/nodejs.dev
-https://github.com/jessfraz/dockerfiles
-
+GitHub Actions Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
 
 https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
 https://js13kgames.com/
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
-https://realpython.com/python-web-scraping-practical-introduction/
-https://github.com/scrapy/scrapy
+https://github.com/nektos/act
 
-GitHub	
-https://developer.github.com/v3/libraries/ | Libraries | GitHub Developer Guide	
-https://octokit.github.io/rest.js/v18 | octokit/rest.js	
-https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
-
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
 https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
-
-Twitter API
-https://github.com/twitterdev?language=javascript | @TwitterDev
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
-https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
-https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
-https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
-
-Twitter API
-https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
-https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
-https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
-https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
-
-https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
 
 
 Pinax
@@ -268,37 +254,6 @@ https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
 
-https://github.com/wsvincent/awesome-django
-
-https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
-https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
-
-https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
-
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-
-Stop Writing Classes
-https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://realpython.com/courses/inheritance-composition-python/
-
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
-Pass by value versus pass by reference
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-http://purplediane.github.io/python/2017/05/14/variables-and-references.html
-
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-
-https://github.com/phildini/api-driven-django
-
-https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
-
-https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
-
-
 
 Sphinx to Markdown
 https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
@@ -320,6 +275,30 @@ https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson 
 http://www.hawraf.com/
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+Fast
+https://github.com/fastai/fastbook
+https://twitter.com/jeremyphoward/status/1293698425645498369
+https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
+https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
+https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
+https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
+
+https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
+
+https://beta.openai.com/ | OpenAI API
+
+GPT-3
+https://openai.com/blog/openai-api/ | OpenAI API
+https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
+https://twitter.com/karpathy/status/1295410274095095810
+https://github.com/karpathy/minGPT
 
 
 Sid
@@ -418,38 +397,43 @@ https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
 
+## Python- What's New
+
+<!--
+What's New
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+
+https://www.python.org/download/pre-releases/
+
+Peps
+https://www.python.org/dev/peps/
+
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
+-->
+
 ## To Read- Python Release
 
 <!--
 https://docs.djangoproject.com/en/dev/internals/contributing/
 
-Working through
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
-
 https://lwn.net/Articles/819853/
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-Python What's New
-https://www.python.org/download/pre-releases/
-
-Peps
 
 https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle/
 
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
+Internals
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
 -->
 
 ## To Read- Python Packaging
@@ -467,7 +451,7 @@ Python- Official Packaging Info
 * [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 
-## Interesting
+## Eldarion
 
 <!--
 Eldarion projects
@@ -475,14 +459,34 @@ Eldarion projects
 * [Vue](https://vuejs.org/)
 * [Webpack](https://webpack.js.org)
 
-Requests library
+https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
 
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+https://github.com/eldarion-client/digital-sira
 
+https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
+https://scaife-viewer.org/ | The Scaife Viewer Project
+https://github.com/scaife-viewer
+https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
+https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
+
+https://greek-learner-texts.org/
+
+http://www.perseus.tufts.edu/
+https://sites.tufts.edu/perseusupdates/
+https://github.com/PerseusDL | PerseusDL
+
+https://digitaltolkien.com/about/
+https://digitaltolkien.com/
+https://github.com/digitaltolkien/
+
+https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
+https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
+https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
+-->
+
+## Interesting
+
+<!--
 Prioritization
 https://twitter.com/hunterwalk/status/1294699190585454592
 
@@ -501,32 +505,20 @@ https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - commu
 
 https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
 
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
-
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
 
 https://github.com/OAI/OpenAPI-Specification
 
 https://github.com/OWASP/API-Security
 https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
-
 https://spookylukey.github.io/django-views-the-right-way/
 https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
 
-
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
-https://github.com/labuladong/fucking-algorithm/ | fucking-algorithm/动态规划详解进阶.md at master · labuladong/fucking-algorithm
-https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
-
+Algorithms
 
 Patterns
 http://www.hillside.net/patterns/patterns-catalog
@@ -534,54 +526,9 @@ http://django.wikispaces.asu.edu/Observer+Design+Pattern
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-
-
-RBAC
-https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
 https://github.com/phodal/growth-in-action
 
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-Reverse Engineering
-https://en.wikipedia.org/wiki/Reverse_engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-Hacking
-https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
-https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
-
-
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-Fast
-https://github.com/fastai/fastbook
-https://twitter.com/jeremyphoward/status/1293698425645498369
-https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
-https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
-https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
-https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
-
-https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
-
-https://beta.openai.com/ | OpenAI API
-
-GPT-3
-https://openai.com/blog/openai-api/ | OpenAI API
-https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
-https://twitter.com/karpathy/status/1295410274095095810
-https://github.com/karpathy/minGPT
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 -->
 
 ## Stuff
@@ -680,6 +627,8 @@ https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-
 ## Technical Writing Guides
 
 <!--
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
 https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
 
 Docs- Important!
@@ -1157,7 +1106,10 @@ jQuery
 https://jquery.com/ | jQuery
 https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 
-
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 -->
@@ -1570,6 +1522,7 @@ https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOf
 
 Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
+
 https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
@@ -1680,88 +1633,33 @@ https://code.visualstudio.com/api/extension-capabilities/theming
 https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
 -->
 
-## Bots
-
-Mariatta- Bot Tutorials
-* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
-* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
-* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
-
-Tools
-* [aiohttp](https://aiohttp.readthedocs.io)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
-Mariatta- build the bot
-https://www.youtube.com/watch?v=_xdEAxLuj9Y
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
 
-PyCon Bot Tutorial
-https://twitter.com/mariatta/status/1255558164956807178
+Twitter API
+https://github.com/twitterdev?language=javascript | @TwitterDev
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
+https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
+https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
+https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
 
-https://github.com/Mariatta/github-app-tutorial
-https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
-https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
+Twitter API
+https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
+https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
+https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
+https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
 
-
-https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
-https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
-https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
-
-Mariatta community automation talk
-https://twitter.com/mariatta/status/1191534648205037569
-
-Mariatta and Andrew
-https://github.com/asvetlov/us-pycon-2019-tutorial
-https://us-pycon-2019-tutorial.readthedocs.io/index.html
-https://docs.python.org/3/library/abc.html
-https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-https://cz.pycon.org/2019/programme/workshops/9/#main
-
-https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
-
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://github.com/berkerpeksag/cpython-merge-bot
-
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-
-Jessica Twitter Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Hubot
-https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
-
-https://botlist.co/
-https://github.com/hubotio/hubot/blob/master/docs/index.md
-https://github.com/hubotio/generator-hubot
-https://github.com/howdyai/botkit
-https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
-
-https://github.com/devict/devict-hubot
-https://github.com/github/hubot
-https://hubot.github.com/
+https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
 -->
 
 <!--
 https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 
 Python API Tools
+https://realpython.com/python-web-scraping-practical-introduction/
 https://scrapy.org/
+https://github.com/scrapy/scrapy
 https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 
@@ -1834,64 +1732,6 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 ## GitHub API
 
 <!--
-Open API
-https://github.com/github/rest-api-description
-https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
-https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
-
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-
-
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
-
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/building-github-apps/
-https://developer.github.com/v4/guides/
-https://github.com/whiteinge/ok.sh
-https://github.com/octokit/rest.js
-https://octokit.github.io/rest.js/v18
-https://github.com/pksunkara/octonode
--->
-
-## GitHub Actions Tools
-
-<!--
-https://github.com/topics/bot | bot · GitHub Topics
-
-
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
-
-https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
-https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
-
-https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
-
-https://github.com/actions/checkout | actions/checkout: Action for checking out a repo
-https://github.com/actions/checkout#Fetch-all-branches | actions/checkout: Action for checking out a repo
-
-https://github.com/actions/python-versions | actions/python-versions: Python builds for Actions Virtual Environments
-https://github.com/actions/virtual-environments | actions/virtual-environments: GitHub Actions virtual environments
-
-https://github.com/actions/upload-artifact | actions/upload-artifact
-https://github.com/actions/download-artifact | actions/download-artifact
-
-https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
-https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
--->
-
-## GitHub Actions Docs
-
-<!--
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-
-https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace
-
-https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
 https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
 https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
 
@@ -1899,19 +1739,20 @@ GitHub Actions
 https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
 
 
+https://github.com/topics/bot | bot · GitHub Topics
 
-GitHub Actions
-https://help.github.com/en/actions/creating-actions/creating-a-javascript-action | Creating a JavaScript action - GitHub Help
-https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events | Configuring a workflow - GitHub Help
-https://help.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions | Metadata syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/reference/workflow-commands-for-github-actions | Workflow commands for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/creating-actions/about-actions#creating-a-readme-file-for-your-action | About actions - GitHub Help
-https://help.github.com/en/actions/creating-actions/about-actions#using-release-management-for-actions | About actions - GitHub Help
-https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace | Publishing actions in GitHub Marketplace - GitHub Help
+Open API
+https://github.com/github/rest-api-description
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
+https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+-->
 
-GA
-https://github.com/actions/github-script | actions/github-script
+## GitHub Actions Tools
+
+<!--
 https://help.github.com/en/actions | GitHub Actions Documentation - GitHub Help
+
+https://github.com/actions/github-script | actions/github-script
 
 https://github.com/actions/labeler | actions/labeler: An action for automatically labelling pull requests
 https://github.com/actions/starter-workflows/blob/master/.github/pull_request_template.md | starter-workflows/pull_request_template.md at master · actions/starter-workflows
@@ -1919,10 +1760,47 @@ https://github.com/actions/starter-workflows/blob/master/CONTRIBUTING.md | start
 https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes | Learn YAML in five minutes! - CodeProject
 
 
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
+
+Python
+https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
+https://github.com/actions/python-versions | actions/python-versions: Python builds for Actions Virtual Environments
+https://github.com/actions/virtual-environments | actions/virtual-environments: GitHub Actions virtual environments
+https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
+
+Node
+https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
+
+https://github.com/actions/checkout | actions/checkout: Action for checking out a repo
+https://github.com/actions/checkout#Fetch-all-branches | actions/checkout: Action for checking out a repo
+
+https://github.com/actions/upload-artifact | actions/upload-artifact
+https://github.com/actions/download-artifact | actions/download-artifact
+
+https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
+-->
+
+## GitHub Actions Docs
+
+<!--
+https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace | Publishing actions in GitHub Marketplace - GitHub Help
+
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+
+GitHub Actions
+https://help.github.com/en/actions/creating-actions/creating-a-javascript-action | Creating a JavaScript action - GitHub Help
+https://help.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions | Metadata syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/workflow-commands-for-github-actions | Workflow commands for GitHub Actions - GitHub Help
+
+https://help.github.com/en/actions/creating-actions/about-actions#creating-a-readme-file-for-your-action | About actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/about-actions#using-release-management-for-actions | About actions - GitHub Help
+
 
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
-
-https://github.blog/changelog/2020-04-30-github-actions-v2-setup-python-action/
 
 
 Python
@@ -1932,7 +1810,9 @@ JavaScript
 https://help.github.com/en/actions/language-and-framework-guides/github-actions-for-javascript-and-typescript | GitHub Actions for JavaScript and TypeScript - GitHub Help
 
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+
 https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
+https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events | Configuring a workflow - GitHub Help
 
 JavaScript or Docker
 https://help.github.com/en/actions/creating-actions/about-actions#types-of-actions
@@ -1940,10 +1820,10 @@ https://help.github.com/en/actions/creating-actions/about-actions#types-of-actio
 https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
 https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
 
+
+Events
 https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-
 https://help.github.com/en/actions/reference/events-that-trigger-workflows#webhook-events
-
 
 Permissions
 https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#token-permissions
@@ -1956,14 +1836,6 @@ Create a release
 https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
 https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
 https://developer.github.com/v3/repos/releases/#get-a-single-release
-
-
-GitHub Actions Innovations
-
-https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/ | GitHub Actions now supports CI/CD, free for public repositories
-https://github.blog/changelog/2019-11-04-github-actions-adds-dependency-caching/ | GitHub Actions adds dependency caching - The GitHub Blog
-
-https://github.blog/changelog/2019-09-18-improvements-to-github-actions/ | Improvements to GitHub Actions - The GitHub Blog
 -->
 
 <!--
@@ -1982,20 +1854,10 @@ https://developer.github.com/v3/
 https://developer.github.com/v3/libraries/
 GitHub GraphQL API
 https://developer.github.com/v4/
+https://developer.github.com/v4/guides/
 
 https://graphql.org/learn/best-practices/
 https://developer.github.com/v4/guides/migrating-from-rest/
-
-Settings
-https://github.com/settings/apps
-https://github.com/settings/installations
-
-Apps
-https://developer.github.com/apps
-https://developer.github.com/apps/about-apps/
-https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
 
 Endpoints
 https://developer.github.com/v3/apps/available-endpoints/
@@ -2030,47 +1892,32 @@ http://githooks.com/
 -->
 
 <!--
-Probot and Such
-https://dev.to/gr2m/ | Gregor Martynus - DEV
 https://github.com/gr2m/
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
+https://octokit.github.io/rest.js/
+https://github.com/octokit/rest.js
+https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
+https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
 
-https://github.com/gr2m/twitter-together
+Settings
+https://github.com/settings/apps
+https://github.com/settings/installations
 
-https://github.com/probot/reminders
+Apps
+https://developer.github.com/apps
+https://developer.github.com/apps/about-apps/
+https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
 
-https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 
 Probot
 https://github.com/probot/probot
 https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-https://probot.github.io/apps/ | Featured Apps | Probot
-https://probot.github.io/docs/hello-world/ | Hello world | Probot
-https://probot.github.io/apps/polls/ | Polls | Probot
-https://probot.github.io/apps/no-response/ | No Response | Probot
-https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
-
-Make semantic-release compatible with GitHub Actions
-https://github.com/semantic-release/semantic-release/issues/1194
-Python Plugin
-https://github.com/semantic-release/git/issues/172#issuecomment-557203217
-
-https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-https://github.com/probot/create-probot-app
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-
-https://github.com/JasonEtco/jasonet.co/pull/46/files
-
-https://octokit.github.io/rest.js/
-https://github.com/octokit/rest.js
-https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
-
-https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
-https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
-https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
 -->
 
 ## Heroku
@@ -2193,6 +2040,11 @@ https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScri
 -->
 
 <!--
+https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
+
+https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
+
+
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
 https://github.com/ryanmcdermott/clean-code-javascript
@@ -2315,8 +2167,19 @@ https://github.com/Droogans/unmaintainable-code
 ## Networking and Security
 
 <!--
+https://docs.npmjs.com/getting-started/running-a-security-audit
+https://www.pagerduty.com/blog/security-training-at-pagerduty/
+
 https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
 https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+
+Reverse Engineering
+https://en.wikipedia.org/wiki/Reverse_engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+Hacking
+https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
+https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
 
 Feross
 https://twitter.com/feross/status/1242173582169407488
