@@ -147,7 +147,7 @@ https://mdn.dev
 
 https://developer.mozilla.org/en-US/docs/
 
-https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 
 https://developer.mozilla.org/en-US/docs/Web/Reference
 https://developer.mozilla.org/en-US/docs/Web/Guide
@@ -155,9 +155,6 @@ https://developer.mozilla.org/en-US/docs/Web/Tutorials
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 https://developer.mozilla.org/en-US/docs/Web/Security
 
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
 
 https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
 https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
@@ -189,7 +186,7 @@ https://developers.google.com/web/tools/lighthouse/audits/dom-size | Uses An Exc
 Events
 * [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
 * [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
-* [DOM/JavaScript Events](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
+* [DOM/JavaScript Events Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
 * [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
 
 <!--
