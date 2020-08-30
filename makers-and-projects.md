@@ -74,6 +74,46 @@ Release, Weeknotes
 -->
 
 <!--
+Probot and Such
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
+
+https://github.com/gr2m/twitter-together
+
+https://github.com/probot/reminders
+
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+
+Probot
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+
+Make semantic-release compatible with GitHub Actions
+https://github.com/semantic-release/semantic-release/issues/1194
+Python Plugin
+https://github.com/semantic-release/git/issues/172#issuecomment-557203217
+
+https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+https://github.com/probot/create-probot-app
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/JasonEtco/jasonet.co/pull/46/files
+
+https://github.com/aws/chalice | aws/chalice: Python Serverless Microframework for AWS
+https://github.com/aws/chalice/blob/master/.dependabot/config.yml | chalice/config.yml at master · aws/chalice
+https://github.com/aws/chalice/blob/master/.github/no-response.yml | chalice/no-response.yml at master · aws/chalice
+-->
+
+<!--
 Python- Publishing
 
 PyPI GitHub Actions
