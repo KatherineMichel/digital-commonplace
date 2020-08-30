@@ -501,9 +501,6 @@ Python- Official Packaging Info
 <!--
 Eldarion projects
 
-* [Vue](https://vuejs.org/)
-* [Webpack](https://webpack.js.org)
-
 https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
 
 https://github.com/eldarion-client/digital-sira
@@ -695,6 +692,11 @@ Hosting Blogs
 
 ## Useful Learning Resources
 
+Practice
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com)
+
 Wes Bos
 * [Wes Bos Courses](https://wesbos.com/courses/)
 * [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
@@ -711,13 +713,16 @@ David Beazley
 100 Days of Code
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
-Practice
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
-
 <!--
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+https://github.com/bradtraversy | bradtraversy (Brad Traversy)
+https://www.udemy.com/user/brad-traversy/
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 
 
 Demos and Boilerplates
@@ -859,7 +864,7 @@ Python- Django- Sites
 Built With
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [vue.js Showcase](https://madewithvuejs.com/)
+* [Vue Showcase](https://madewithvuejs.com/)
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 * [Made with React](http://madewithreact.com)
 * [React Showcase](https://madewithreactjs.com/)
@@ -1077,30 +1082,19 @@ Python vs. JavaScript
 https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
 -->
 
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
+
 <!--
-https://github.com/phuoc-ng/html-dom
-
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
-
-jQuery
-https://jquery.com/ | jQuery
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 -->
-
 
 ## JavaScript Standards
 
@@ -1153,14 +1147,11 @@ https://github.com/standard/standard
 https://github.com/standard | Standard JS
 -->
 
-## Mozilla, Microsoft, and Google- General Docs
+## Mozilla and Google- General Docs
 
 Mozilla- Documentation
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Microsoft- Web Development
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 
 Google Developers
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
@@ -1174,6 +1165,11 @@ Glossaries
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 
 <!--
+https://web.dev/ | web.dev  |  web.dev
+
+Mozilla
+https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
+
 https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
 
 
@@ -1181,12 +1177,6 @@ https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - Y
 
 https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
 https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
-Mozilla
-https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
-https://developer.mozilla.org/en-US/ | MDN Web Docs
-https://developer.mozilla.org/en-US/docs/Glossary | MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn
 
 https://developers.google.com/web/showcase
 
@@ -1196,32 +1186,40 @@ https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twi
 https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
-<!--
-https://web.dev/ | web.dev  |  web.dev
--->
-
-## JavaScript Guides
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+## Mozilla JavaScript and APIs Reference
 
 Mozilla JavaScript Tutorials
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
+
+Web APIs
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [Mozilla Client-Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+* [Mozilla Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+
 
 <!--
-https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/ | An Update on MDN Web Docs - Mozilla Hacks - the Web developer blog
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
+JavaScript Objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
 
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+
+JavaScript Object versus JSON
+https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
+
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
 
 https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
 
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs | Client-side web APIs - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs | Third-party APIs - Learn web development | MDN
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
@@ -1231,24 +1229,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 
 
+let and const Declarations
 https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
-
-Microsoft- JavaScript
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
--->
-
 
 <!--
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
@@ -1291,118 +1276,29 @@ https://docs.npmjs.com/packages-and-modules/
 https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 -->
 
-## What To Learn Before A JavaScript Framework
-
 <!--
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-https://github.com/bradtraversy | bradtraversy (Brad Traversy)
+https://github.com/phuoc-ng/html-dom
 
-https://www.youtube.com/watch?v=pU9Q6oiQNd0 | What is Node.js Exactly? - a beginners introduction to Nodejs - YouTube
+http://youmightnotneedjs.com/ | You Might Not Need JavaScript
 
-Traversy
-https://m.youtube.com/watch?feature=youtu.be&v=8rD9amRSOQY
+http://youmightnotneedjquery.com/
+https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 
-https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
 
-Traversy
-https://www.youtube.com/watch?v=wtynhUwS5hI&feature=youtu.be | Stack Data Structure | JavaScript - YouTube
-https://www.youtube.com/watch?v=NHHhiqwcfRM | Deno Crash Course - YouTube
-https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=919s | Node.js Crash Course - YouTube
+jQuery
+https://jquery.com/ | jQuery
+https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 
-https://www.udemy.com/user/brad-traversy/
-https://www.freecodecamp.org/news/web-development-2020/
-https://www.youtube.com/watch?v=0pThnRneDjw&feature=youtu.be | Web Development In 2020 - A Practical Guide - YouTube
-https://github.com/andrews1022/web-development-2020-course-list | andrews1022/web-development-2020-course-list: A list of Udemy courses from Brad Traversy's Web Development 2020 video
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-
-
-https://www.youtube.com/watch?v=INPob8yPyBo&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&index=5 | JavaScript ES6 / ES2015 - [05] Template Literals - YouTube
-
-
-React JS Crash Course - 2019
-https://www.youtube.com/watch?v=sBws8MSXN7A
-https://github.com/bradtraversy/react_crash_todo
-
-React and Django
-https://www.youtube.com/watch?v=Uyei2iDA4Hs | Full Stack React & Django [1] - Basic REST API - YouTube
-https://github.com/bradtraversy/lead_manager_react_django
-
-https://www.udemy.com/react-redux/
-
-
-https://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=TRAVERSYMEDIA
-https://www.udemy.com/react-front-to-back/?couponCode=TRAVERSYMEDIA
-
-https://www.youtube.com/user/TechGuyWeb/playlists
-https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
-
-Node.js Crash Course
-https://www.youtube.com/watch?v=fBNz5xF-Kx4
-https://github.com/bradtraversy/node_crash_course
-
-ES6/ES2015- New
-https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-Destructuring Assignment
-Classes and Inheritance
-Template Strings
-String Features
-Math and Number Features
-New Data Structures
-Iterators/Generators
-Promises and Asynchronous Data
-Arrow Functions
-
-What To Learn Before A JavaScript Framework
-https://www.youtube.com/watch?v=qi9VQqYcXqY
-
-
-JavaScript Fundamentals
-Basic syntax
-Variables
-Arrays and object literals
-Events
-Functions, loops, conditionals
-
-Modules
-ES6 Modules, TypeScript (Angular)
-Parcel, Webpack, Babel
-Export and Export Default
-
-Classes
-Structuring a class
-Constructors
-Methods and properties
-Instantiation
-Extending classes
-
-Arrow Functions
-Scope and lexical "this"
-
-Promises/Asynchronous Requests
-Create and receive promises
-.then() and .catch() syntax
-Async/Await
-Fetch API for making HTTP requests
-
-Destructuring
-
-Components and state
-Each component can have its own data and state
-Can also have application level state, usually implemented using a state manager such as Redux, Vuex, etc.
-Nested components (parent and children)
-Can be directly implemented or used in a router
-
-Spread Operator
-
-High Order Array Functions
-forEach()
-map()
-filter()
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 -->
-
 
 ## Deploy
 
@@ -1439,27 +1335,12 @@ Python
 Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-<!--
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
--->
-
 <!--
 https://wagtail.io/
 -->
 
 Vue
-* [Vue.js](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue.js GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-<!--
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
--->
+* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
 
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
@@ -1470,6 +1351,15 @@ https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serv
 -->
 
 ## Languages and Frameworks
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+<!--
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+-->
 
 <!--
 https://www.scala-lang.org/
@@ -1492,7 +1382,7 @@ Express (based on Sinatra)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
 
-React and Vue
+React
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 
 Create React App
@@ -1502,6 +1392,13 @@ Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
+Vue
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+<!--
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+-->
 
 <!-- 
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
@@ -1589,11 +1486,6 @@ https://github.com/nteract/vdom
 vdom
 https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
 
-https://reactjs.org/docs/faq-internals.html
-https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
-https://www.youtube.com/watch?v=x7cQ3mrcKaY
-https://github.com/acdlite/react-fiber-architecture
-
 Svelte
 https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 -->
@@ -1643,6 +1535,11 @@ https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twi
 <!--
 https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 
+Requests
+https://pypi.org/project/requests/ | requests · PyPI
+https://www.thepythoncode.com/article/using-github-api-in-python
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
+
 Python API Tools
 https://realpython.com/python-web-scraping-practical-introduction/
 https://scrapy.org/
@@ -1657,9 +1554,6 @@ https://twython.readthedocs.io/en/latest/usage/install.html | Installation — T
 https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
 https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
 http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-Requests
-https://pypi.org/project/requests/ | requests · PyPI
 
 Pillow
 https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
