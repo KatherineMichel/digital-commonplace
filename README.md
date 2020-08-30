@@ -1200,6 +1200,12 @@ Web APIs
 
 
 <!--
+Web API Reference
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+Guide to Web APIs
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
 JavaScript Objects
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
@@ -1212,6 +1218,7 @@ JavaScript Object versus JSON
 https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
 
 Python
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
@@ -1406,13 +1413,15 @@ https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOf
 
 Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
-
-https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
 
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 https://glitch.com/~starter-react | Glitch
+
+
+https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
 
 404
 https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
