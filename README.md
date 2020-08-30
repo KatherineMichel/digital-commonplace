@@ -220,12 +220,13 @@ https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - commu
 
 https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
 
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
 
 Vicky
 https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
-https://archive.org/details/gitlabcommit-fourwaystofurtherfoss/03-gitlabcommit-fourwaystofurtherfoss-practice01.mov | GitLab Commit 2020 : Four ways to Further FOSS : Free Download, Borrow, and Streaming : Internet Archive
-https://ia601504.us.archive.org/29/items/gitlabcommit-fourwaystofurtherfoss/02-gitlabcommit-fourwaystofurtherfoss-with_speaker_notes.pdf | 02-gitlabcommit-fourwaystofurtherfoss-with_speaker_notes.pdf
 https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
 https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
 
@@ -233,6 +234,9 @@ GitLab
 https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
 https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here - August 26, 2020 | GitLab
 https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
+
+https://github.com/eda3/pyconjp2020-slackbot | eda3/pyconjp2020-slackbot
+
 
 
 https://hackerone.com/
@@ -243,6 +247,9 @@ Important
 https://notes.andymatuschak.org/About_these_notes | About these notes
 
 https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
+
+Event
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
 
 Prioritization
 https://twitter.com/hunterwalk/status/1294699190585454592
@@ -264,6 +271,15 @@ https://twitter.com/bentossell/status/1298655018048991232 | https://twitter.com/
 https://spookylukey.github.io/django-views-the-right-way/
 https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
 
+
+Resources
+https://github.com/trekhleb/learn-python | trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
 https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
 https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
 
@@ -273,13 +289,13 @@ https://www.computer.org/publications/tech-news/on-architecture | On Architectur
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
-
-https://twitter.com/rsg/status/1299382538025091072 | Bobby Goodlatte on Twitter: "The early days of Form Capital: Before we even raised the fund, we started with a test. We wanted to validate our thinking about design sprints before we structured our entire fund around the concept. Read more in our latest case study! https://t.co/N3pnMjqq7q" / Twitter
-
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
 Bash Language
+
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
 https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
@@ -291,30 +307,8 @@ https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authent
 VS Code
 vscode html css support - Google Search
 
-
-
-Twitter
-https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
-
-Resources
-https://github.com/trekhleb/learn-python | trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
-
-https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-
+All repos
+https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
 
 
 Brand
@@ -324,6 +318,9 @@ https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples
 Design Centered Design
 https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 
+
+Twitter
+https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
 
 GitHub Actions Examples
 https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
@@ -337,11 +334,18 @@ GitHub Hackathon
 https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
 https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
+https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
+
 https://github.com/nektos/act
 
 
 https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://www.python.org/events/python-events/past/?page=2
+
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
+
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
 
 Public Speaking
 https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
