@@ -288,11 +288,13 @@ JSX (Syntax Extension; React)
 * [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 <!--
+https://reactjs.org/docs/faq-internals.html
+https://www.youtube.com/watch?v=x7cQ3mrcKaY
+https://github.com/acdlite/react-fiber-architecture
+
 https://www.npmjs.com/package/jsx
 
 React Components	createClass	createClass/ES6	ES6/Function
-
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
 
 https://gridsome.org/
 https://github.com/z3by/vuepress-theme-britecore | z3by/vuepress-theme-britecore: BriteCore Vuepress theme
