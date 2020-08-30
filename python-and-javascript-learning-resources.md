@@ -39,6 +39,16 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 ## Django Organization Tools
 
 <!--
+https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
+https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
+
+
 https://codingbat.com/ | CodingBat
 
 LinkedIn
