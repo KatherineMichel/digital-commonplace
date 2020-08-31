@@ -155,12 +155,10 @@ https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solvi
 Repo
 https://github.com/KatherineMichel/setting-up-an-open-source-project
 
-https://twitter.com/jowyang/status/1297923146050199552
+https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
 
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
+Event
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
 
 https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
 
@@ -170,6 +168,13 @@ Twitter sentiment analysis
 https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
 
 https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
+
+https://twitter.com/jowyang/status/1297923146050199552
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
 
 
 Spaces
@@ -222,6 +227,9 @@ https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitt
 
 https://opensourcedesign.net/goals/ | Goals - Open Source Design
 
+Important
+https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
+
 
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
 
@@ -246,31 +254,21 @@ https://todoist.com/
 Important
 https://notes.andymatuschak.org/About_these_notes | About these notes
 
-https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
-
-Event
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
-
 Prioritization
 https://twitter.com/hunterwalk/status/1294699190585454592
 
 Checklist Manifesto
 
-Important
-https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks | by Nina Zakharenko | Medium
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 
 https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
 
-https://twitter.com/hashtag/30DaysOfTesting
-
-No Code Challenge
-https://twitter.com/bentossell/status/1298655018048991232 | https://twitter.com/bentossell/status/1298655018048991232
-
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
 https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
 
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
 Resources
 https://github.com/trekhleb/learn-python | trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -279,12 +277,6 @@ https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises
 https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
-https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
-
-Grady
-https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
 
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
@@ -377,11 +369,6 @@ https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
-
-https://github.com/OAI/OpenAPI-Specification
-
-https://github.com/OWASP/API-Security
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -828,6 +815,11 @@ Demos and Boilerplates
 https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
+
+No Code Challenge
+https://twitter.com/bentossell/status/1298655018048991232 | https://twitter.com/bentossell/status/1298655018048991232
+
+https://twitter.com/hashtag/30DaysOfTesting
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 https://github.com/llSourcell/100_Days_of_ML_Code
@@ -2078,7 +2070,14 @@ Refactoring
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 <!--
+Grady
+https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
+
+https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
+
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
