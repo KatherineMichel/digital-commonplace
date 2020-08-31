@@ -1,8 +1,12 @@
 # Python Tools and Release Managers
 
 <!--
-https://github.com/wsvincent/awesome-django
+https://github.com/OAI/OpenAPI-Specification
 
+https://github.com/OWASP/API-Security
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+https://github.com/wsvincent/awesome-django
 
 https://github.com/Azure/azure-quickstart-templates
 https://twitter.com/di_codes/status/1295793468762136576
