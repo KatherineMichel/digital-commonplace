@@ -102,7 +102,37 @@ Stacks
 
 ## JAMStack
 
+Next (React) and Nuxt (Vue)
+* [Nuxt](https://nuxtjs.org/)
+
+React and Vue Alternatives
+* [Alpine GitHub](https://github.com/alpinejs/alpine)
+
+JamStack Site Frameworks (other than Jekyll)
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+* [Hugo](https://gohugo.io/)
+
+Mojombo
+* [Hammer (React for Rails) GitHub](https://github.com/hammerframework/hammer)
+
+Vite (Evan You)
+* [Vite GitHub](https://github.com/vitejs/vite)
+
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+
 <!--
+https://github.com/sdras/contentful-nuxt-netlify
+https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
+
+https://github.com/nteract/vdom
+
+vdom
+https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
+
+Svelte
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+
 https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f | Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻
 
 Notion API
