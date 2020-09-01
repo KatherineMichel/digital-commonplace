@@ -100,7 +100,20 @@ Stacks
 * [MEAN Stack Wikipedia](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 * MERN Stack
 
+<!--
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
+-->
+
 ## JAMStack
+
+Vue
+* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 Next (React) and Nuxt (Vue)
 * [Nuxt](https://nuxtjs.org/)
