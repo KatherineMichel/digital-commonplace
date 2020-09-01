@@ -302,6 +302,8 @@ https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitt
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
 --user flag
 https://twitter.com/messages/17009144-101186457
 https://pip.pypa.io/en/stable/user_guide/#user-installs
@@ -822,6 +824,8 @@ https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
+https://github.com/sdras
+
 https://github.com/bradtraversy/
 https://www.udemy.com/user/brad-traversy/
 https://github.com/bradtraversy/vanillawebprojects
@@ -911,9 +915,6 @@ https://github.com/sqreen/awesome-nodejs-projects
 
 Python
 https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-Cheat sheet
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
 
 Florin
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
@@ -1217,6 +1218,7 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 
+
 Django + React/Node
 
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
@@ -1228,6 +1230,7 @@ https://github.com/fcurella/django-channels-react-redux
 
 https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+
 
 Django Rest Framework
 
