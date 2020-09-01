@@ -39,6 +39,9 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 ## Django Organization Tools
 
 <!--
+Cheat sheet
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
 https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
 https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
 
