@@ -100,20 +100,7 @@ Stacks
 * [MEAN Stack Wikipedia](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
 * MERN Stack
 
-<!--
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
-https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
--->
-
 ## JAMStack
-
-Vue
-* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 Next (React) and Nuxt (Vue)
 * [Nuxt](https://nuxtjs.org/)
@@ -193,6 +180,9 @@ Package Managers/Executors
 Node.js Package Managers (npm (build-step))
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
 * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
+
+Yarn versus npm
+https://twitter.com/adamwathan/status/1297161541129830402
 -->
 
 CLI, package.json, Lock Files
@@ -229,6 +219,13 @@ https://twitter.com/matteocollina/status/1263500806571069441 | Matteo Collina on
 <!--
 Comparison
 * [Comparison of Web Frameworks- JavaScript Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript)
+
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
 
 Deno
 https://deno.land/v1
@@ -410,6 +407,12 @@ Compiling/Transpiling
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
 
 <!--
+https://github.com/webpack/webpack-cli
+https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serves a webpack app. Updates the browser on changes.
+-->
+
+
+<!--
 https://github.com/Microsoft/TypeScript-Handbook | Microsoft/TypeScript-Handbook: The TypeScript Handbook is a comprehensive guide to the TypeScript language
 https://github.com/Microsoft/TypeScript-Vue-Starter
 https://github.com/microsoft/TypeScript-Node-Starter
@@ -527,6 +530,10 @@ https://reactjs.org/docs/optimizing-performance.html | Optimizing Performance �
 https://reactjs.org/docs/add-react-to-a-website.html | Add React to a Website – React
 https://reactjs.org/docs/faq-internals.html | Virtual DOM and Internals – React
 -->
+
+Vue
+* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
 
 ## Google Progressive Web Apps (PWA)
 
