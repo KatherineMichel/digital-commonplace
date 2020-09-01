@@ -4,6 +4,16 @@
 Microsoft- Web Development
 * [Microsoft Docs](https://docs.microsoft.com/en-us/)
 
+Mozilla
+https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
+
+https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
+
+https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
+
+https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
+https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
+
 Memory
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management | Memory Management - JavaScript | MDN
