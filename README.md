@@ -26,6 +26,18 @@ https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
 
 Deep Work
 
+Prioritization
+https://twitter.com/hunterwalk/status/1294699190585454592
+
+Checklist Manifesto
+
+Important
+https://notes.andymatuschak.org/About_these_notes | About these notes
+
+https://hackerone.com/
+https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
+https://todoist.com/
+
 Narrative
 https://www.andysparks.co/ | Andy Sparks—Home
 
@@ -137,16 +149,61 @@ https://www.webbyawards.com/
 
 https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
 
-https://www.devrelcon.net/
-https://2018.devrelawards.com/
-https://twitter.com/DevRelAwards
-
 https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
 
 https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
 
+https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
+
+Public Speaking
+https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
+
+https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
+http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
+https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
+
+https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
+
+Vicky
+https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
+https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
+https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
+
+GitLab
+https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
+https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here - August 26, 2020 | GitLab
+https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
+
+https://github.com/eda3/pyconjp2020-slackbot | eda3/pyconjp2020-slackbot
+
+
+https://www.devrelcon.net/
+https://2018.devrelawards.com/
+https://twitter.com/DevRelAwards
+
 https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
 
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
+
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+https://twitter.com/natfriedman/following
+https://twitter.com/i/lists/1294427753782140928
+https://twitter.com/i/lists/1041844109479034880
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
+https://twitter.com/TwitterEng/lists/memberships
+https://twitter.com/i/lists/1287873548971778048
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
+https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
 
 https://github.com/KatherineMichel/100-days-of-code
@@ -231,37 +288,7 @@ Important
 https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
 
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-
-Vicky
-https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
-https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
-https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
-
-GitLab
-https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
-https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here - August 26, 2020 | GitLab
-https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
-
-https://github.com/eda3/pyconjp2020-slackbot | eda3/pyconjp2020-slackbot
-
-
-
-https://hackerone.com/
-https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
-https://todoist.com/
-
-Important
-https://notes.andymatuschak.org/About_these_notes | About these notes
-
-Prioritization
-https://twitter.com/hunterwalk/status/1294699190585454592
-
-Checklist Manifesto
-
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
-https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
 
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
@@ -270,11 +297,40 @@ https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitt
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+
+Twitter
+https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
+
+GitHub Actions Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://js13kgames.com/
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
+
+https://github.com/nektos/act
+
+
+
 Resources
 https://github.com/trekhleb/learn-python | trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
-https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
@@ -309,65 +365,6 @@ http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Brand
 https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
 Design Centered Design
 https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
-
-Twitter
-https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
-
-GitHub Actions Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://js13kgames.com/
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
-
-https://github.com/nektos/act
-
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-
-Public Speaking
-https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
-
-https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
-http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
-https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
-
-https://twitter.com/natfriedman/following
-https://twitter.com/i/lists/1294427753782140928
-https://twitter.com/i/lists/1041844109479034880
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
-https://twitter.com/TwitterEng/lists/memberships
-https://twitter.com/i/lists/1287873548971778048
-
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
-
-
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
@@ -785,10 +782,18 @@ Practice
 
 Wes Bos
 * [Wes Bos Courses](https://wesbos.com/courses/)
+
+Favorite Courses
+* [Wes Bos GitHub](https://github.com/wesbos)
 * [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
 * [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 * [React for Beginners](https://reactforbeginners.com/)
+
+<!--
+https://github.com/wesbos/React-For-Beginners-Starter-Files
+https://github.com/wesbos/Advanced-React
+-->
 
 Dan Abramov
 * [Just JavaScript](https://justjavascript.com/)
@@ -802,19 +807,15 @@ David Beazley
 <!--
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
+https://github.com/bradtraversy/
+https://www.udemy.com/user/brad-traversy/
+https://github.com/bradtraversy/vanillawebprojects
+https://github.com/bradtraversy/modern_portfolio
 
 http://www.traversymedia.com
 https://twitter.com/traversymedia
-https://github.com/bradtraversy | bradtraversy (Brad Traversy)
-https://www.udemy.com/user/brad-traversy/
 
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
-
-
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
 
 No Code Challenge
 https://twitter.com/bentossell/status/1298655018048991232 | https://twitter.com/bentossell/status/1298655018048991232
@@ -823,6 +824,9 @@ https://twitter.com/hashtag/30DaysOfTesting
 
 https://github.com/Avik-Jain/100-Days-Of-ML-Code
 https://github.com/llSourcell/100_Days_of_ML_Code
+
+https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
+https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
 
 
 https://github.com/feldroy/django-crash-starter
@@ -854,6 +858,7 @@ https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015
 
 
 CSS/JS
+https://css-tricks.com/learning-to-learn/
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
@@ -878,21 +883,50 @@ https://github.com/JackMcKew/awesome-python-bytes
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
 
-Wes Bos
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
-
-
 https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
 
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+-->
+
+## Projects
+
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+Python
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+Cheat sheet
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+Florin
+https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
 
 ## Project Ideas
@@ -953,15 +987,16 @@ Python- Django- Sites
 * [Python 2 Sites](http://python2sites.com)
 
 Built With
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
 * [React Showcase](https://madewithreactjs.com/)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
 
 <!--
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
 https://nextjs.org/showcase | Showcase | Next.js
 
 https://madewithreactnative.com/
@@ -969,17 +1004,196 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
-## Projects
 
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+## Deploy
 
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
+* [Zeit Zero Config](https://zeit.co/blog/zero-config)
+
+<!--
+https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+
+https://vercel.com/blog/zeit-is-now-vercel
+
+https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Zeit now](https://zeit.co/now)
+* [Zeit micro](https://github.com/zeit/micro)
+
+https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+-->
+
+## Python and Django
+
+Python
+* [Python](https://www.python.org/)
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+<!--
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+-->
+
+<!--
+https://wagtail.io/
+-->
+
+## Languages and Frameworks
+
+<!--
+https://www.scala-lang.org/
+-->
+
+Node
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+
+<!--
+Deno
+https://github.com/ry
+https://github.com/denoland/deno
+https://deno.land/std
+https://deno.land/x
+https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
+-->
+
+Express (based on Sinatra)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+Facebook- React Native
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+Vue
+* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
+* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
+
+<!--
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+-->
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!--
+https://github.com/webpack/webpack-cli
+https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serves a webpack app. Updates the browser on changes.
+-->
+
+<!-- 
+Glitch
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/~starter-react | Glitch
+
+
+https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
+
+404
+https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
+https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
+
+https://reactjs.org/docs/getting-started.html | Getting Started – React
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+
+https://twitter.com/adamwathan/status/1297161541129830402
+
+https://reactnative.dev/docs/getting-started
+
+https://github.com/nextjs-starters/nextjs-starters
+
+Storybook
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+
+https://github.com/puppeteer/puppeteer
+https://github.com/microsoft/playwright-python
+https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
+-->
+
+## JAMStack
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Emmet](https://emmet.io/)
+
+Next (React) and Nuxt (Vue)
+* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
+* [Nuxt](https://nuxtjs.org/)
+
+React and Vue Alternatives
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+* [Preact](https://preactjs.com)
+* [Alpine GitHub](https://github.com/alpinejs/alpine)
+
+JamStack Site Frameworks (other than Jekyll)
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+* [Hugo](https://gohugo.io/)
+
+Mojombo
+* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Prisma](https://www.prisma.io/)
+* [Fauna](https://fauna.com/)
+* [Hammer (React for Rails) GitHub](https://github.com/hammerframework/hammer)
+
+Vite (Evan You)
+* [Vite GitHub](https://github.com/vitejs/vite)
+
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+
+<!--
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
+
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+https://github.com/sdras/contentful-nuxt-netlify
+https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
+https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
+
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+https://github.com/nteract/vdom
+
+vdom
+https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
+
+Svelte
+https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
+-->
+
+
+## Templates
+
+Create React App
+* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
 <!--
 https://github.com/search?q=django
@@ -997,9 +1211,6 @@ https://github.com/search?q=twitter
 https://github.com/search?q=slack
 https://github.com/search?q=hacker+news
 
-JavaScript
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-
 Clones
 https://github.com/techreagan?tab=repositories
 https://github.com/techreagan/youtube-clone-nodejs-api
@@ -1013,35 +1224,12 @@ https://github.com/vuejs/vue-hackernews-2.0
 https://github.com/nuxt/hackernews
 https://github.com/python-telegram-bot/python-telegram-bot
 
-Node
-https://github.com/sqreen/awesome-nodejs-projects
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
 
-Python
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
 
-Cheat sheet
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-Florin
-https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
--->
-
-## Django Org Tools
-
-<!--
 https://github.com/sixfeetup/cookiecutter-sixiedjango
 
 https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
@@ -1398,199 +1586,6 @@ https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 -->
-
-## Deploy
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-* [Zeit Zero Config](https://zeit.co/blog/zero-config)
-
-<!--
-https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
-
-https://vercel.com/blog/zeit-is-now-vercel
-
-https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-
-* [Zeit now](https://zeit.co/now)
-* [Zeit micro](https://github.com/zeit/micro)
-
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
-
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
--->
-
-## Eldarion
-
-Python
-* [Python](https://www.python.org/)
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-<!--
-https://wagtail.io/
--->
-
-Vue
-* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
-
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-<!--
-https://github.com/webpack/webpack-cli
-https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serves a webpack app. Updates the browser on changes.
--->
-
-## Languages and Frameworks
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-<!--
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
--->
-
-<!--
-https://www.scala-lang.org/
--->
-
-Node
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-
-<!--
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
-https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
--->
-
-Express (based on Sinatra)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React
-* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
-
-Create React App
-* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
-
-Facebook- React Native
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-
-Vue
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-<!--
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
--->
-
-<!-- 
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
-
-Glitch
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/~starter-react | Glitch
-
-
-https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
-
-404
-https://glitch.com/culture/react-starter-kit/ | Build a Web App with React
-https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node.js
-
-https://reactjs.org/docs/getting-started.html | Getting Started – React
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-
-https://twitter.com/adamwathan/status/1297161541129830402
-
-https://reactnative.dev/docs/getting-started
-
-https://github.com/nextjs-starters/nextjs-starters
-
-Storybook
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-
-https://github.com/puppeteer/puppeteer
-https://github.com/microsoft/playwright-python
-https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
--->
-
-## JAMStack
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-* [Emmet](https://emmet.io/)
-
-Next (React) and Nuxt (Vue)
-* [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
-* [Nuxt](https://nuxtjs.org/)
-
-React and Vue Alternatives
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-* [Preact](https://preactjs.com)
-* [Alpine GitHub](https://github.com/alpinejs/alpine)
-
-JamStack Site Frameworks (other than Jekyll)
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-* [Hugo](https://gohugo.io/)
-
-Mojombo
-* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
-* [Prisma](https://www.prisma.io/)
-* [Fauna](https://fauna.com/)
-* [Hammer (React for Rails) GitHub](https://github.com/hammerframework/hammer)
-
-Vite (Evan You)
-* [Vite GitHub](https://github.com/vitejs/vite)
-
-Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
-
-<!--
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
-
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://github.com/sdras/contentful-nuxt-netlify
-https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
-https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
-
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-https://github.com/nteract/vdom
-
-vdom
-https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
-
-Svelte
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
--->
-
 
 
 <!--
