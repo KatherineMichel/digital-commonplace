@@ -776,9 +776,9 @@ Hosting Blogs
 ## Useful Learning Resources
 
 Practice
+* [LeetCode](https://leetcode.com)
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
-* [LeetCode](https://leetcode.com)
 
 Wes Bos
 * [Wes Bos Courses](https://wesbos.com/courses/)
@@ -805,6 +805,8 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
+https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
+
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://github.com/bradtraversy/
@@ -817,18 +819,6 @@ https://twitter.com/traversymedia
 
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 
-No Code Challenge
-https://twitter.com/bentossell/status/1298655018048991232 | https://twitter.com/bentossell/status/1298655018048991232
-
-https://twitter.com/hashtag/30DaysOfTesting
-
-https://github.com/Avik-Jain/100-Days-Of-ML-Code
-https://github.com/llSourcell/100_Days_of_ML_Code
-
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-https://github.com/100DaysOfCloud/100DaysOfCloudIdeas | 100DaysOfCloud/100DaysOfCloudIdeas: The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
-
-
 https://github.com/feldroy/django-crash-starter
 
 https://wsvincent.com/books/ | Books - William Vincent
@@ -838,29 +828,6 @@ https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: 
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
 
-
-https://frontendmasters.com
-
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://btholt.github.io/intro-to-web-dev-v2/
-
-https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
-
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://btholt.github.io/complete-intro-to-containers/
-
-Front End Masters Handbook
-https://github.com/FrontendMasters/front-end-handbook-2019
-https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
-https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
-
-
-CSS/JS
-https://css-tricks.com/learning-to-learn/
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
 https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
 https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
@@ -888,6 +855,29 @@ https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Close
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+
+https://frontendmasters.com
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://btholt.github.io/intro-to-web-dev-v2/
+
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
+
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
+
+https://btholt.github.io/complete-intro-to-containers/
+
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+
+CSS/JS
+https://css-tricks.com/learning-to-learn/
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 -->
 
 ## Projects
@@ -1143,50 +1133,23 @@ CSS
 
 Next (React) and Nuxt (Vue)
 * [Next](https://nextjs.org) and [Next GitHub](https://github.com/zeit/next.js)
-* [Nuxt](https://nuxtjs.org/)
 
 React and Vue Alternatives
 * [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-* [Preact](https://preactjs.com)
-* [Alpine GitHub](https://github.com/alpinejs/alpine)
-
-JamStack Site Frameworks (other than Jekyll)
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-* [Hugo](https://gohugo.io/)
+* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
 
 Mojombo
 * [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
 * [Prisma](https://www.prisma.io/)
 * [Fauna](https://fauna.com/)
-* [Hammer (React for Rails) GitHub](https://github.com/hammerframework/hammer)
-
-Vite (Evan You)
-* [Vite GitHub](https://github.com/vitejs/vite)
-
-Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 
 <!--
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
-
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
-https://github.com/sdras/contentful-nuxt-netlify
-https://github.com/sdras/ecommerce-netlify | sdras/ecommerce-netlify: 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions
-https://twitter.com/sarah_edo/status/1163826394389864448 | Sarah Drasner on Twitter: "🎇 For those learning how to create e-commerce experiences, I made an open source project! 📝 Article: Let's Build a JAMstack E-Commerce Store with @Netlify functions: https://t.co/pZ39ixOMDp 💻 Repo: https://t.co/OHLUwsvL5s 🛍 Demo site: https://t.co/xPHZuE1AAc https://t.co/swaydJnZDH" / Twitter
-
 https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-https://github.com/nteract/vdom
-
-vdom
-https://twitter.com/youyuxi/status/1184824857663594499 | Evan You on Twitter: "What if I told you I made vdom faster than Svelte 🙀" / Twitter
-
-Svelte
-https://svelte.dev/blog/virtual-dom-is-pure-overhead | Virtual DOM is pure overhead
 -->
 
 
