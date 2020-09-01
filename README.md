@@ -256,6 +256,9 @@ https://github.com/matteofigus/awesome-speaking
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
 
 As CTO
 https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
@@ -288,6 +291,8 @@ Important
 https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
 
+https://nuzzel.com/friendsfeeds
+
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
@@ -296,6 +301,14 @@ https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitt
 
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+--user flag
+https://twitter.com/messages/17009144-101186457
+https://pip.pypa.io/en/stable/user_guide/#user-installs
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+https://www.meetup.com/KafkaBayArea/events/272643868/
 
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
 
@@ -1052,15 +1065,6 @@ https://www.scala-lang.org/
 Node
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
 
-<!--
-Deno
-https://github.com/ry
-https://github.com/denoland/deno
-https://deno.land/std
-https://deno.land/x
-https://deno.land/std@0.66.0/fmt | std@0.66.0 | Deno
--->
-
 Express (based on Sinatra)
 * [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
@@ -1073,33 +1077,19 @@ Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
-Vue
-* [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
-* [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-<!--
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
--->
-
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
-<!--
-https://github.com/webpack/webpack-cli
-https://github.com/webpack/webpack-dev-server | webpack/webpack-dev-server: Serves a webpack app. Updates the browser on changes.
--->
-
 <!-- 
+PWA
+
 Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
-
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 https://glitch.com/~starter-react | Glitch
-
 
 https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
 
@@ -1109,9 +1099,6 @@ https://glitch.com/you-got-this | You Got This! Zine - Making web apps with Node
 
 https://reactjs.org/docs/getting-started.html | Getting Started – React
 https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-
-https://twitter.com/adamwathan/status/1297161541129830402
-
 https://reactnative.dev/docs/getting-started
 
 https://github.com/nextjs-starters/nextjs-starters
@@ -1409,17 +1396,6 @@ Glossaries
 <!--
 https://web.dev/ | web.dev  |  web.dev
 
-Mozilla
-https://developer.mozilla.org/en-US/docs/Archive | Archive of obsolete content | MDN
-
-https://labs.jensimmons.com/ | Web Design Experiments by Jen Simmons
-
-
-https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w | Mozilla Developer - YouTube
-
-https://insights.developer.mozilla.org/ | Web DNA Report 2019 | MDN
-https://hacks.mozilla.org/2019/12/mozilla-hacks-most-read-blog-posts-of-2019/ | Mozilla Hacks' 10 most-read posts of 2019 - Mozilla Hacks - the Web developer blog
-
 https://developers.google.com/web/showcase
 
 The Mobile Site Benchmark Study
@@ -1442,6 +1418,10 @@ Web APIs
 
 
 <!--
+HTML5 and CSS
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
 Web API Reference
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
 
