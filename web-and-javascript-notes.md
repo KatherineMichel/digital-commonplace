@@ -489,10 +489,6 @@ https://blog.risingstack.com
 
 ## Google Chrome Dev Tools
 
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
-
 <!--
 https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
 
