@@ -598,11 +598,6 @@ Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
 * [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
 * [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
-Chromium Developers
-* [Chromium Blog](https://blog.chromium.org)
-* [Chromium- For Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
 Chrome (Browser)
 * [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
 
@@ -880,6 +875,7 @@ https://twitter.com/rauchg/status/1260704904693182464
 
 https://twitter.com/Rich_Harris/status/1260711137244598272
 https://deno.land/std/fmt
+
 
 https://en.wikipedia.org/wiki/Node.js | Node.js - Wikipedia
 
@@ -1177,11 +1173,11 @@ https://reactjs.org/docs/add-react-to-a-website.html | Add React to a Website â€
 https://reactjs.org/docs/faq-internals.html | Virtual DOM and Internals â€“ React
 -->
 
+## Vue and Angular
+
 Vue
 * [Vue ](https://vuejs.org), [Vue Docs](https://vuejs.org/v2/guide), and [Vue GitHub](https://github.com/vuejs)
 * [Comparison of Vue with Other Frameworks](https://vuejs.org/v2/guide/comparison.html#React)
-
-## Angular
 
 Angular 2+ (React Stack)
 * [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
