@@ -1533,6 +1533,95 @@ https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twit
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 -->
 
+## Google Progressive Web Apps (PWA)
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
+* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
+
+<!--
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+Progressive Web Apps
+https://app.pluralsight.com/library/courses/web-apps-progressive-getting-started
+https://app.pluralsight.com/profile/author/bill-stavroulakis
+http://bstavroulakis.com/pluralsight/courses/progressive-web-apps/
+https://github.com/bstavroulakis/progressive-web-apps/tree/master/car-deals
+
+https://app.pluralsight.com/library/courses/progressive-web-app-fundamentals/table-of-contents
+https://app.pluralsight.com/library/courses/polymer-js-elements-working/table-of-contents
+https://app.pluralsight.com/profile/author/john-papa
+
+https://github.com/bstavroulakis?tab=repositories
+https://github.com/bstavroulakis/progressive-web-apps
+https://github.com/bstavroulakis/progressive-web-apps/blob/master/car-deals/index.html
+https://twitter.com/bstavroulakis
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+
+https://pwa.rocks/ | A selection of Progressive Web Apps
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+## Google Design
+
+Google 
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google \ Design (See also Facebook React)
+* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io/design/ | Design - Material Design
+
+https://material.io/guidelines/resources/roboto-noto-fonts.html
+https://material.io/guidelines/style/typography.html#typography-line-height
+
+https://materialdesignkit.com
+https://material.io/guidelines
+https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
+https://getmdl.io/components/index.html#card-selection
+https://getmdl.io
+-->
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
+
+
+## Chrome
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+
+Chromium Developers
+* [Chromium Blog](https://blog.chromium.org)
+* [Chromium- For Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
 
 <!--
 https://thoughtbot.com/blog/how-to-make-a-chrome-extension
