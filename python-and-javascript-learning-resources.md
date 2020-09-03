@@ -1,5 +1,60 @@
 # Python and JavaScript Learning Resources
 
+<!--
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
+Aaron
+https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
+
+Hello Web Design
+https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
+
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
+
+Automate the Boring Stuff
+https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
+https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
+
+https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
+
+https://learncodethehardway.org/more-python/
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+-->
+
+<!--
+https://github.com/Kallaway/100-days-of-code
+https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
+
+100 Days Tweets
+https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
+https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
+
+
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+
+
+Python Exercise
+https://store.lerner.co.il/wpe | Weekly Python Exercise
+
+code kata - Google Search
+Codeforces
+https://codingbat.com/ | CodingBat
+
+https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I've found some coding exercises I submitted when applying for jobs at tech companies. Would you folks be interested in a blog post explaining how I approach such coding challenges and some lessons learned? https://t.co/qzdairdJwH" / Twitter
+
+
+https://gumroad.com/l/suydt | Speed Up Your Django Tests
+adamchainz/time-machine - Google Search
+-->
+
 ## Python Syntax and Python Versus JavaScript
 
 Programming Language Leveling Up and Comparisons- Python
@@ -39,45 +94,18 @@ https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on T
 ## Django Organization Tools
 
 <!--
-Cheat sheet
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
-https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
+Lincoln Loop Stack
+High Performance Django Stack
 
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
 https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
 
+https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
+https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
 
-https://codingbat.com/ | CodingBat
-
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
-
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-
-Automate the Boring Stuff
-https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
-https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
-
-https://github.com/Kallaway/100-days-of-code
-https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
-
-100 Days Tweets
-https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
-https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
-
-
-Lincoln Loop Stack
-High Performance Django Stack
+Calvin
+https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
 
 https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
 https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
@@ -85,76 +113,43 @@ http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to
 https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
 https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
 
+https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
 
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
+https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
 
-Hello Web Design
-https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
+https://github.com/adamchainz/django-perf-rec
+https://gumroad.com/l/suydt
 
+https://jazzband.co/ | Jazzband
+https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
+https://github.com/jazzband/dj-rest-auth
+https://github.com/jazzband/django-model-utils
 
-https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
+https://twitter.com/jpadilla_/status/1189752115566133248
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
 
-https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
-https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
+https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
 
-Learning to Code
-https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+https://github.com/jambonsw/django-improved-user
 
-Excellent
-https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+https://github.com/lincolnloop/django-alive
 
-Cassidy
-https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
 
-https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+Feature Flags
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
 
-Think like a programmer
-https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
-https://en.wikipedia.org/wiki/Pseudocode
-
-
-Python Exercise
-https://store.lerner.co.il/wpe | Weekly Python Exercise
-
-code kata - Google Search
-Codeforces
-
-https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I've found some coding exercises I submitted when applying for jobs at tech companies. Would you folks be interested in a blog post explaining how I approach such coding challenges and some lessons learned? https://t.co/qzdairdJwH" / Twitter
-
-https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
-
-Interviewing
-https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
-https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
-https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
-
-Reuven Lerner
-https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
-https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
-
-https://gumroad.com/l/suydt | Speed Up Your Django Tests
-adamchainz/time-machine - Google Search
-
-
-
-https://learncodethehardway.org/more-python/
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 -->
 
 <!--
-https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
-
-Calvin
-https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
-
-Aaron
-https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
-
-
 People
 
 Michael
@@ -236,8 +231,50 @@ https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008
 https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
 -->
 
+<!--
+Interview stuff
+
+https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
+
+Interviewing
+https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
+https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
+
+Reuven Lerner
+https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
+https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
+-->
 
 <!--
+Learning to code
+
+https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
+https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
+
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+Excellent
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+
+Think like a programmer
+https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
+https://en.wikipedia.org/wiki/Pseudocode
+-->
+
+<!--
+Cheat sheet
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
 https://twitter.com/filiplajszczak/status/1228800450515869703
 https://twitter.com/PurpleDiane88/status/1227365692380340224
 
