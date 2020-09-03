@@ -210,24 +210,6 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#A_series_of_fortunate_events
 -->
 
-Mozilla- Events and Web APIs
-* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
-
-https://developer.mozilla.org/en-US/docs/Web/API/Window
-https://developer.mozilla.org/en-US/docs/Web/API/Document
-https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
-https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs
--->
-
 <!--
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
@@ -236,10 +218,6 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/V
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
 -->
 
-Desktop
-* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
-* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-       
 Mobile
 * [Mozilla TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
 * [Google 300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [WebKit More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
