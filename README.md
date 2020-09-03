@@ -295,15 +295,6 @@ https://nuzzel.com/friendsfeeds
 
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 
-https://github.com/spookylukey/django-views-the-right-way/tree/master/code
-https://spookylukey.github.io/django-views-the-right-way/
-https://twitter.com/spookylukey/status/1292821570562514951 | Luke Plant on Twitter: "Announcing something I've been working on for a few months: Django Views The Right Way - an opinionated guide - https://t.co/98m7QztGFM Feedback and suggestions very welcome!" / Twitter
-
-https://spookylukey.github.io/django-views-the-right-way/detail-view.html
-"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
 --user flag
 https://twitter.com/messages/17009144-101186457
 https://pip.pypa.io/en/stable/user_guide/#user-installs
@@ -592,6 +583,9 @@ Python- Official Packaging Info
 <!--
 Eldarion projects
 
+https://github.com/eldarion/srs-lang/
+https://github.com/perseids-project/
+
 https://github.com/jacobwegner | jacobwegner (Jacob Wegner) / Followers
 https://github.com/paltman | paltman (Patrick Altman) / Following
 https://github.com/jtauber | jtauber (James Tauber) / Following
@@ -685,6 +679,10 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 
@@ -820,11 +818,21 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
+Project repos
+https://github.com/KatherineMichel/javascript-playground | KatherineMichel/javascript-playground
+https://github.com/KatherineMichel/simple-pinax | KatherineMichel/simple-pinax
+https://github.com/KatherineMichel/django-react | KatherineMichel/django-react
+https://github.com/KatherineMichel/github-action-scraper | KatherineMichel/github-action-scraper
+https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets
+
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://github.com/sdras
+
+Recommendation
+https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
 
 https://github.com/bradtraversy/
 https://www.udemy.com/user/brad-traversy/
@@ -836,14 +844,91 @@ https://twitter.com/traversymedia
 
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 
+Traversy
+https://www.udemy.com/user/brad-traversy/ | Brad Traversy | Full Stack Web Developer & Instructor at Traversy Media | Udemy
+https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
+
+https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/React-For-Beginners-Starter-Files | wesbos/React-For-Beginners-Starter-Files: Starter files for learning React.js with React for Beginners
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://github.com/wesbos/Advanced-React | wesbos/Advanced-React: Starter Files and Solutions for Full Stack Advanced React and GraphQL
+https://github.com/wesbos/advanced-react-rerecord | wesbos/advanced-react-rerecord: Trying things out. Feel free to follow along
+https://github.com/wesbos/rona | wesbos/rona: React + Next + Hooks API
+https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
+https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
+
+
+Projects
+https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
+https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
+https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
+https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
+https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
+
+
+Web Design
+https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
+https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
+https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
+https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
+
+https://startbootstrap.com/templates/shop-homepage/ | Shop Homepage - Bootstrap Ecommerce Store Template - Start Bootstrap
+https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Guides - Start Bootstrap
+https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
+
+
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
+https://spookylukey.github.io/django-views-the-right-way/
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Node
+https://expressjs.com/ | Express - Node.js web application framework
+http://www.passportjs.org/ | Passport.js
+
+https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+Chrome
+https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+
+https://web.dev/progressive-web-apps/
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
+
+https://github.com/feldroy | Feldroy
 https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+
+Cookiecutter
+https://twitter.com/nthapen/status/1240936897234513921
 
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
 https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
 https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
 
 
 https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
@@ -1147,6 +1232,22 @@ Create React App
 * [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
 <!--
+https://github.com/DrkSephy/django-hackathon-starter
+
+
+Django + React/Node
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+https://github.com/divio/react-boilerplate
+https://github.com/divio/node-boilerplate
+
+https://github.com/fcurella/django-channels-react-redux
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+
+
 https://github.com/search?q=django
 
 https://github.com/search?q=project
@@ -1195,8 +1296,6 @@ https://github.com/20tab/django-continuous-delivery
 https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
 https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
 
-https://github.com/DrkSephy/django-hackathon-starter
-
 https://github.com/cfpb/
 
 
@@ -1219,29 +1318,10 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 
 
-Django + React/Node
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://github.com/divio/react-boilerplate
-https://github.com/divio/node-boilerplate
-
-https://github.com/fcurella/django-channels-react-redux
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
-
 Django Rest Framework
 
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
 https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
-
-Cookiecutter
-
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-
-https://twitter.com/nthapen/status/1240936897234513921
 
 
 https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
