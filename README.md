@@ -831,6 +831,9 @@ https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://github.com/sdras
 
+Egghead
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
 Recommendation
 https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
 
@@ -851,6 +854,8 @@ https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_j
 https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
+
+https://github.com/kentcdodds/bookshelf | kentcdodds/bookshelf: Build a ReactJS App workshop
 
 https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
 https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
@@ -900,6 +905,8 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 Node
 https://expressjs.com/ | Express - Node.js web application framework
 http://www.passportjs.org/ | Passport.js
+
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
 https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
@@ -1217,6 +1224,8 @@ Mojombo
 * [Fauna](https://fauna.com/)
 
 <!--
+https://postcss.org/ | PostCSS - a tool for transforming CSS with JavaScript
+
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
@@ -1499,6 +1508,25 @@ Web APIs
 * [Mozilla Client-Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
 * [Mozilla Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
 
+Desktop Events
+* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
+* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+    
+Mozilla- Events and Web APIs
+* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window
+https://developer.mozilla.org/en-US/docs/Web/API/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+-->
 
 <!--
 HTML5 and CSS
@@ -2132,6 +2160,10 @@ https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScri
 -->
 
 <!--
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
+https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
+
+
 https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
 
 https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
