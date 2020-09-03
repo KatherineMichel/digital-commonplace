@@ -433,6 +433,7 @@ https://github.com/kentcdodds/react-fundamentals | kentcdodds/react-fundamentals
 https://frontendmasters.com/courses/advanced-react-patterns/exercises-setup/ | Learn Introducing Advanced React Patterns – Advanced React Patterns
 https://github.com/kentcdodds/advanced-react-patterns-v2/blob/frontend-masters/README.md | advanced-react-patterns-v2/README.md at frontend-masters · kentcdodds/advanced-react-patterns-v2
 https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2 | advanced-react-patterns-v2 - CodeSandbox
+https://github.com/kentcdodds/bookshelf | kentcdodds/bookshelf: Build a ReactJS App workshop
 
 Kent Dodd- Testing
 https://github.com/kentcdodds/react-testing-library | kentcdodds/react-testing-library: 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
