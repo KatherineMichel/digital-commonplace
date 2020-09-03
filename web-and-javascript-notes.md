@@ -130,8 +130,9 @@ https://developers.google.com/web/updates/2020/05/devtools#a11y | What's New In 
 
 https://github.com/sindresorhus/awesome-nodejs | sindresorhus/awesome-nodejs: Delightful Node.js packages and resources
 
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (June 2020)
 https://github.com/azat-co/practicalnode
+
+https://github.com/LetsUpgrade/Javascript-Essentials | LetsUpgrade/Javascript-Essentials
 
 JS Recommendations
 https://twitter.com/jkup/status/1217849585219010560
