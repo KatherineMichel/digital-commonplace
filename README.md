@@ -1496,7 +1496,15 @@ https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twi
 https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
-## Mozilla JavaScript and APIs Reference
+## Mozilla- HTMl5 and CSS Reference
+
+<!--
+HTML5 and CSS
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://developer.mozilla.org/en-US/docs/Web/CSS
+-->
+
+## Mozilla- JavaScript and APIs Reference
 
 Mozilla JavaScript Tutorials
 * [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -1508,13 +1516,7 @@ Web APIs
 * [Mozilla Client-Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
 * [Mozilla Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
 
-Desktop Events
-* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
-* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-    
-Mozilla- Events and Web APIs
-* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+## Mozilla JavaScript- Document Object Model and Window
 
 <!--
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
@@ -1526,13 +1528,72 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window
 https://developer.mozilla.org/en-US/docs/Web/API/Document
 https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
 https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
 -->
 
-<!--
-HTML5 and CSS
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://developer.mozilla.org/en-US/docs/Web/CSS
+## Mozilla Javascript- Popular Events
 
+Desktop Events
+* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
+* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+    
+Mozilla- Events and Web APIs
+* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+
+## Mozilla Javascript- Popular APIs
+
+<!--
+Web API Popular
+
+CSSOM
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
+DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+Fetch API 
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+Geolocation API
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+Payment Request API
+https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
+Permissions API
+https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API
+Push API 
+https://developer.mozilla.org/en-US/docs/Web/API/Push_API
+Server Sent Events
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
+Service Workers API
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+Web Authentication API
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
+Web Notifications
+https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API
+Web Workers API
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+WebRTC
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+Websockets API
+https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API
+-->
+
+## Notable
+
+<!--
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+let and const Declarations
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+-->
+
+
+<!--
 Web API Reference
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
 
@@ -1540,6 +1601,8 @@ Guide to Web APIs
 https://developer.mozilla.org/en-US/docs/Web/Guide/API
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
+
+
 JavaScript Objects
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
@@ -1553,29 +1616,23 @@ https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
 
 
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-
-https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
-
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
-
-
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
 
 <!--
+https://reactjs.org/docs/react-dom.html
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
 https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 
 Node Tutorials
@@ -1659,21 +1716,6 @@ https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive 
 https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
 https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
 https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-Progressive Web Apps
-https://app.pluralsight.com/library/courses/web-apps-progressive-getting-started
-https://app.pluralsight.com/profile/author/bill-stavroulakis
-http://bstavroulakis.com/pluralsight/courses/progressive-web-apps/
-https://github.com/bstavroulakis/progressive-web-apps/tree/master/car-deals
-
-https://app.pluralsight.com/library/courses/progressive-web-app-fundamentals/table-of-contents
-https://app.pluralsight.com/library/courses/polymer-js-elements-working/table-of-contents
-https://app.pluralsight.com/profile/author/john-papa
-
-https://github.com/bstavroulakis?tab=repositories
-https://github.com/bstavroulakis/progressive-web-apps
-https://github.com/bstavroulakis/progressive-web-apps/blob/master/car-deals/index.html
-https://twitter.com/bstavroulakis
 
 * [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
 
