@@ -1,6 +1,9 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+
 https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
 https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
 
