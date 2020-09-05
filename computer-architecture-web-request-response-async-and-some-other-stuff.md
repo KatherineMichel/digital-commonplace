@@ -1,7 +1,20 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications | Create, read, update and delete - Wikipedia
 https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
+https://en.wikipedia.org/wiki/State_(computer_science) | State (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
+Request/Response
+
+APIs
+https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
+https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
+https://hoppscotch.io/
+https://firecamp.io/
+
+https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
+
 https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
 
 https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
