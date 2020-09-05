@@ -1,6 +1,11 @@
 # Web and JavaScript Notes
 
 <!--
+https://www.11ty.dev/
+
+https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
+
+
 https://home.cern/topics/birth-web | The birth of the web | CERN
 https://css-tricks.com/chapter-1-birth/
 
