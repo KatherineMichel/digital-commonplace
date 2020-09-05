@@ -819,11 +819,14 @@ David Beazley
 
 <!--
 Project repos
+https://github.com/KatherineMichel/lead-manager-react-django
 https://github.com/KatherineMichel/javascript-playground | KatherineMichel/javascript-playground
 https://github.com/KatherineMichel/simple-pinax | KatherineMichel/simple-pinax
-https://github.com/KatherineMichel/django-react | KatherineMichel/django-react
 https://github.com/KatherineMichel/github-action-scraper | KatherineMichel/github-action-scraper
 https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets
+https://github.com/KatherineMichel/scrapy
+https://github.com/KatherineMichel/api
+https://github.com/KatherineMichel/travel-organizer
 
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
