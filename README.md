@@ -1156,6 +1156,50 @@ https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class 
 https://wagtail.io/
 -->
 
+<!--
+https://github.com/bradtraversy/lead_manager_react_django/
+https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
+https://www.youtube.com/watch?v=GieYIzvdt2U | (5) Full Stack React & Django [2] - Implementing React - YouTube
+
+Valentino
+https://github.com/valentinogagliardi?tab=repositories | valentinogagliardi (Valentino Gagliardi) / Repositories
+https://github.com/valentinogagliardi/django-rest-react-pycon | valentinogagliardi/django-rest-react-pycon: 🐍 Demo repo for Pycon X talk "Decoupling Django with Django REST (and a sprinkle of React)"
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/ | Modern Django: Part 1: Setting up Django and React — v1k45
+
+https://www.npmjs.com/package/npx | npx - npm
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
+
+DRF
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/ | Home - Django REST framework
+
+https://reactrouter.com/web/guides/quick-start
+https://reactjs.org/docs/introducing-jsx.html
+https://redux.js.org/ | Redux - A predictable state container for JavaScript apps. | Redux
+https://react-redux.js.org/ | React Redux · Official React bindings for Redux
+
+Third Party
+https://github.com/reduxjs/redux-thunk | reduxjs/redux-thunk: Thunk middleware for Redux
+https://www.npmjs.com/package/axios-react | axios-react - npm
+https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
+
+Boostrap/Emmett
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+https://docs.emmet.io/actions/ | Actions
+https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
+https://getbootstrap.com/docs/4.5/components/navbar/ | Navbar · Bootstrap v4.5
+https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate | HTML Boilerplate - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets | ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en | React Developer Tools - Chrome Web Store
+https://github.com/reduxjs/redux-devtools | reduxjs/redux-devtools: DevTools for Redux with hot reloading, action replay, and customizable UI
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=es | Redux DevTools - Chrome Web Store
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Prettier - Code formatter - Visual Studio Marketplace
+https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
+-->
+
 ## Languages and Frameworks
 
 <!--
