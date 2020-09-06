@@ -1334,20 +1334,6 @@ https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating 
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
 
-https://github.com/search?q=django
-
-https://github.com/search?q=project
-https://github.com/search?q=example
-https://github.com/search?q=sample
-https://github.com/search?q=demo
-https://github.com/search?q=boilerplate
-https://github.com/search?q=starter
-
-https://github.com/search?q=clone
-https://github.com/search?q=instagram
-https://github.com/search?q=twitter
-https://github.com/search?q=slack
-https://github.com/search?q=hacker+news
 
 Clones
 https://github.com/techreagan?tab=repositories
@@ -1721,8 +1707,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 Python
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
 Node Tutorials
 
 https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
@@ -1730,6 +1714,9 @@ https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodej
 https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 
 Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
