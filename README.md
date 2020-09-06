@@ -1006,6 +1006,7 @@ https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 
 https://github.com/feldroy | Feldroy
+https://github.com/feldroy/everycheese | feldroy/everycheese
 https://github.com/feldroy/django-crash-starter
 https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
 https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
@@ -1013,6 +1014,17 @@ https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A comm
 
 Cookiecutter
 https://twitter.com/nthapen/status/1240936897234513921
+
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
+https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
+
+Projects
+https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
+https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
+https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
 
 Traversy
 https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
