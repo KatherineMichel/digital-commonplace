@@ -1341,6 +1341,7 @@ https://github.com/divio/react-boilerplate
 https://github.com/divio/node-boilerplate
 
 https://github.com/fcurella/django-channels-react-redux
+https://github.com/channels-frontend/django_redux
 
 https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
