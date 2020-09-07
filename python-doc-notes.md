@@ -2255,6 +2255,44 @@ https://docs.python.org/3/library/ssl.html#multi-processing
 https://docs.python.org/3/library/ssl.html#tls-1-3
 https://docs.python.org/3/library/ssl.html#libressl-support
 
+
+12. Data Persistence
+12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
+https://docs.python.org/3/library/sqlite3.html#connection-objects
+https://docs.python.org/3/library/sqlite3.html#cursor-objects
+https://docs.python.org/3/library/sqlite3.html#row-objects
+https://docs.python.org/3/library/sqlite3.html#exceptions
+https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
+https://docs.python.org/3/library/sqlite3.html#introduction
+https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
+https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
+https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
+https://docs.python.org/3/library/sqlite3.html#controlling-transactions
+https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
+https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
+https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
+https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
+https://docs.python.org/3/library/sqlite3.html#common-issues
+
+https://docs.python.org/3/library/sqlite3.html#multithreading
+
+14. File Formats
+14.5. plistlib — Generate and parse Mac OS X .plist files
+https://docs.python.org/3/library/plistlib.html
+
+
+## The Python General Index and Module Index- Priority
+
+## The Python General Index and Module Index
+
+https://docs.python.org/3/genindex.html
+https://docs.python.org/3/py-modindex.html
+
+
 ## The Python Glossary
 
 BDFL
@@ -2420,37 +2458,6 @@ type alias
 type hint
 https://docs.python.org/3/glossary.html#term-virtual-machine
 
-## The Python General Index and Module Index- Priority
-
-## The Python General Index and Module Index
-
-https://docs.python.org/3/genindex.html
-https://docs.python.org/3/py-modindex.html
-
-12. Data Persistence
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
-
 
 ## Less Common Utilities?
 
@@ -2590,12 +2597,10 @@ https://docs.python.org/3/library/syslog.html
 14.2. configparser — Configuration file parser
 14.3. netrc — netrc file processing
 14.4. xdrlib — Encode and decode XDR data
-14.5. plistlib — Generate and parse Mac OS X .plist files
 
 https://docs.python.org/3/library/configparser.html
 https://docs.python.org/3/library/netrc.html
 https://docs.python.org/3/library/xdrlib.html
-https://docs.python.org/3/library/plistlib.html
 
 7. Binary Data Services
 7.1. struct — Interpret bytes as packed binary data
@@ -2664,6 +2669,7 @@ https://docs.python.org/3/library/othergui.html#other-graphical-user-interface-p
 26.3. tkinter.tix — Extension widgets for Tk
 26.4. tkinter.scrolledtext — Scrolled Text Widget
 
+https://docs.python.org/3/library/tkinter.html
 https://docs.python.org/3/library/tk.html#graphical-user-interfaces-with-tk
 
 25.1. turtle — Turtle graphics
