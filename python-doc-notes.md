@@ -2427,6 +2427,31 @@ https://docs.python.org/3/glossary.html#term-virtual-machine
 https://docs.python.org/3/genindex.html
 https://docs.python.org/3/py-modindex.html
 
+12. Data Persistence
+12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
+https://docs.python.org/3/library/sqlite3.html#connection-objects
+https://docs.python.org/3/library/sqlite3.html#cursor-objects
+https://docs.python.org/3/library/sqlite3.html#row-objects
+https://docs.python.org/3/library/sqlite3.html#exceptions
+https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
+https://docs.python.org/3/library/sqlite3.html#introduction
+https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
+https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
+https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
+https://docs.python.org/3/library/sqlite3.html#controlling-transactions
+https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
+https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
+https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
+https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
+https://docs.python.org/3/library/sqlite3.html#common-issues
+
+https://docs.python.org/3/library/sqlite3.html#multithreading
+
+
 ## Less Common Utilities?
 
 16.16. ctypes — A foreign function library for Python
@@ -2458,28 +2483,6 @@ https://docs.python.org/3/library/xmlrpc.html
 
 12. Data Persistence
 12.1. pickle — Python object serialization
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
 
 https://docs.python.org/3/library/pickle.html
 https://docs.python.org/3/library/pickletools.html
