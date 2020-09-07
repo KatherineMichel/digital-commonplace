@@ -1,94 +1,5 @@
 # Course Notes
 
-## General Notes
-
-<!--
-Wes Bos
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
-
-Python- 100 Days
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards | 10. Brief Tour of the Standard Library — Python 3.8.5 documentation
-https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
-https://docs.python.org/3/library/sys.html#module-sys | sys — System-specific parameters and functions — Python 3.8.5 documentation
-https://docs.python.org/3/tutorial/modules.html#standard-modules | 6. Modules — Python 3.8.5 documentation
-https://docs.python.org/3/library/argparse.html | argparse — Parser for command-line options, arguments and sub-commands — Python 3.8.5 documentation
-https://docs.python.org/3/howto/argparse.html | Argparse Tutorial — Python 3.8.5 documentation
-https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.8.5 documentation
-https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
-https://docs.python.org/3.3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
-
-HTMl and CSS
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS | CSS: Cascading Style Sheets | MDN
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-
-https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
-https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
-https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
-
-https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
-
-https://en.wikipedia.org/wiki/Control_flow
-https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
-https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
-https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
-
-https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
-https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
-
-https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/fileformats.html | File Formats — Python 3.8.3 documentation
-
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-
-https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
-
-https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
-
-https://en.wikipedia.org/wiki/Random-access_memory | Random-access memory - Wikipedia
-https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
-https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
-
-https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-  
-https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
-https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
-
-https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
-https://docs.python.org/3/library/constants.html#None | Built-in Constants — Python 3.8.3 documentation
-
-https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
-https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
-https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
-https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
-
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-frame object - Google Search
-https://docs.python.org/3/library/inspect.html#the-interpreter-stack
-
-https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
-
-negative indexes python - Google Search
-
-https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
--->
-
 ## Twilio
 
 <!--
@@ -100,41 +11,20 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 
 ## Automate the Boring Stuff with Python
 
+<!--
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+-->
 
-## CPython Internals Book
+## Wes Bos
 
 <!--
-https://www.google.com/search?q=C+compiler+toolkit&oq=C+compiler+toolkit&aqs=chrome..69i57j69i64l3.244j0j7&sourceid=chrome&ie=UTF-8 | C compiler toolkit - Google Search
-https://www.google.com/search?q=Extended-BNF+(EBNF)&oq=Extended-BNF+(EBNF)&aqs=chrome..69i57.234j0j7&sourceid=chrome&ie=UTF-8 | Extended-BNF (EBNF) - Google Search
-https://en.wikipedia.org/wiki/Parse_table | Parse table - Wikipedia
-https://docs.python.org/3/using/cmdline.html | 1. Command line and environment — Python 3.8.2rc2 documentation
-https://docs.python.org/3/c-api/memory.html | Memory Management — Python 3.8.2rc2 documentation
-https://github.com/python/cpython/blob/v3.8.0b4/Modules/main.c | cpython/main.c at v3.8.0b4 · python/cpython
-https://github.com/python/cpython/blob/d93605de7232da5e6a182fd1d5c220639e900159/Parser/tokenizer.c#L1110 | cpython/tokenizer.c at d93605de7232da5e6a182fd1d5c220639e900159 · python/cpython
-https://docs.python.org/3/library/ast.html | ast — Abstract Syntax Trees — Python 3.8.2rc1 documentation
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions | dis — Disassembler for Python bytecode — Python 3.8.2rc1 documentation
-https://github.com/python/cpython/blob/master/Include/pymacro.h#L103 | cpython/pymacro.h at master · python/cpython
-
-
-https://www.youtube.com/watch?time_continue=1&v=3hl39VMd0f0&feature=emb_logo | What's inside my new Python book - YouTube
-
-https://docs.python.org/3/library/python.html
-https://docs.python.org/3/reference/grammar.html
-
-https://docs.python.org/3/library/dis.html | 404 Not Found
-
-https://en.wikipedia.org/wiki/Bootstrapping_(compilers) | Bootstrapping (compilers) - Wikipedia
-https://en.wikipedia.org/wiki/Self-hosting_(compilers) | Self-hosting (compilers) - Wikipedia
-https://en.wikipedia.org/wiki/Source-to-source_compiler | Source-to-source compiler - Wikipedia
-https://github.com/lark-parser/lark
-C System API
-https://docs.python.org/3.8/extending/extending.html
-
-https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
-https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
-https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
-https://www.pypy.org/ | PyPy
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
 -->
 
 ## Dave
@@ -178,7 +68,40 @@ Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
 -->
 
+
 ## Stanford Code in Place
+
+### Tweets
+
+<!--
+https://twitter.com/KatiMichel/status/1276539905535959041 | Katherine Michel on Twitter: "Thanks again to @chrispiech and Mehran Sahami for a wonderful Stanford Code in Place experience. I wrote a post about what the experience was like for me and some of my thoughts about it! https://t.co/W9qTI2SLuw" / Twitter
+
+https://twitter.com/KatiMichel/status/1264308702594527238 | Katherine Michel on Twitter: "Beautiful "negative" image tweeted by @SimbaFriendsBot, my Stanford Code in Place final project, inspired by @chrispiech's dog. My Python script that powers it is run solely via @GitHub Actions, downloading, modifying, and tweeting an image within GitHub. https://t.co/RjlFu8HxYp" / Twitter
+https://twitter.com/KatiMichel/status/1264702476797673472
+https://twitter.com/KatiMichel/status/1263737007324332032 | Katherine Michel on Twitter: "Sitting here stunned at what I just did with @GitHub Actions for my Stanford Code in Place final project. Succeeded at something I didn't even know could be done. 🤯" / Twitter
+https://www.facebook.com/katherine.michel.5/posts/3238560776163561?comment_id=3239852896034349&notif_id=1590320706494522&notif_t=feed_comment | In April, I posted that I would be taking part... - Katherine Michel
+
+Midpoint message
+https://twitter.com/KatiMichel/status/1256097561024163840
+
+https://twitter.com/KatiMichel/status/1259262140394827778 | Katherine Michel on Twitter: "In the running for coolest thing I've learned this week is how to use Python to replace a green background in a photo with the background of a different photo (greenscreening) via Stanford Code in Place. 💚" / Twitter
+https://twitter.com/KatiMichel/status/1250932687780450305 | Katherine Michel on Twitter: "Just finished solving the assignment problems for Stanford's Code in Place course. Fun but challenging. It took some hours and I had a few light bulb moments. I thought I was done at one point, but my answer didn't pass all the test cases. 🤣 Will solve the bonus material now. 👩‍💻" / Twitter
+
+Introductory video
+https://twitter.com/KatiMichel/status/1249787619342336000
+
+https://twitter.com/chrispiech/status/1244692768431038473 | chrispiech on Twitter: "Mehran Sahami and I are going to host a community-service online coding course called Code in Place alongside CS106A. Led by a army of volunteer teachers. We are keeping a teacher to student ratio of 10:1. Calling for volunteers and students! Please share: https://t.co/y6QAkshwTA https://t.co/s92Z4MBjf5" / Twitter
+
+Bot
+https://twitter.com/SimbaFriendsBot/status/1264297922092503043 | Katherine Michel on Twitter: "https://t.co/hJjPthlIlo" / Twitter
+https://twitter.com/SimbaFriendsBot/status/1264291085335101440 | Katherine Michel on Twitter: "https://t.co/rOyk6NSZxP" / 
+Twitter
+
+My [first programmatic tweet of text](https://twitter.com/SimbaFriendsBot/status/1263318557380706305)
+My [first programmatic tweet of text and an image](https://twitter.com/SimbaFriendsBot/status/1263365130760273920). 
+-->
+
+### Final Project
 
 <!--
 Demo Video
@@ -188,96 +111,7 @@ https://twitter.com/SimbaFriendsBot
 https://github.com/KatherineMichel/stanford-code-in-place-final-project/actions
 https://note.nkmk.me/en/python-sys-platform-version-info/
 
-
-Karel Notes
-https://mobile.twitter.com/thankfulfoodie/status/1250214251110645761
-
-https://twitter.com/search?q=stanford%20code%20in%20place&src=typed_query&f=live | stanford code in place - Twitter Search / Twitter
-
-https://compedu.stanford.edu/codeinplace/diagnostic/ae76ma.pdf | ae76ma.pdf
-https://us.edstem.org/courses/490/discussion/49678 | Code in Place – Discussion
-https://us.edstem.org/courses/490/discussion/47208 | Code in Place – Discussion
-
-https://compedu.stanford.edu/codeinplace/v1/#/handout/submissionA2.html | Handout
-https://us.edstem.org/courses/490/lessons/1198/slides/5976 | Code in Place – Lessons
-https://us.edstem.org/courses/490/lessons/1236/slides/6431 | Code in Place – Lessons
-https://us.edstem.org/courses/490/lessons/1135/slides/5433 | Code in Place – Lessons
-
-
-Karel
-https://www.jetbrains.com/help/pycharm/github.html | GitHub - Help | PyCharm
-https://karelhelper.com/ | Karel Helper
-http://stanford.edu/~cpiech/karel/lessons.html#/english/unit8/lesson5 | Learn to Program
-
-Stanford
-https://compedu.stanford.edu/codeinplace/v1/#/admitted | Admitted Student
-https://compedu.stanford.edu/karel-reader/docs/python/en/ide.html | Karel Reader
-https://compedu.stanford.edu/karel-reader/docs/python/en/reference.html | Karel Reader
-https://compedu.stanford.edu/karel-reader/docs/python/en/chapter9.html | Karel Reader
-https://compedu.stanford.edu/karel-reader/docs/python/en/chapter8.html | Karel Reader
-
-Code in Place
-https://compedu.stanford.edu/codeinplace/v1/#/assignment/karel | Assignment
-https://compedu.stanford.edu/codeinplace/v1/#/handout/karelInPycharm.pdf | Handout
-https://compedu.stanford.edu/codeinplace/v1/#/karel/section1/arches | Code in Place Application
-https://compedu.stanford.edu/codeinplace/assn0/#/exercises/warmup | Assn0
-
-http://stanford.edu/~cpiech/karel/lessons.html#/english/unit9/lesson1 | Learn to Program
-
-https://us.edstem.org/courses/490/discussion/27750 | Code in Place – Discussion
-https://us.edstem.org/courses/490/discussion/28037 | Code in Place – Discussion
-https://us.edstem.org/courses/490/discussion/33978 | Code in Place – Discussion
-https://us.edstem.org/courses/490/discussion/33861 | Matt posted an announcement Zoom Meeting Invitation
-https://us.edstem.org/courses/1470/discussion/30564 | Section 470 – Discussion
-https://us.edstem.org/courses/1470/discussion/34173 | Section 470 – Discussion
-
-
-https://us.edstem.org/courses/490/discussion/78319 | Code in Place – Discussion
-https://us.edstem.org/courses/490/discussion/71966 | Code in Place – Discussion
-
-https://www.youtube.com/watch?time_continue=178&v=U5KT89HJIw4&feature=emb_logo | (2) Goodbye Code in Place - YouTube
-https://us.edstem.org/courses/1470/discussion/ | Section 470 – Discussion
-
-https://twitter.com/KatiMichel/status/1276539905535959041 | Katherine Michel on Twitter: "Thanks again to @chrispiech and Mehran Sahami for a wonderful Stanford Code in Place experience. I wrote a post about what the experience was like for me and some of my thoughts about it! https://t.co/W9qTI2SLuw" / Twitter
-
-https://dl.acm.org/doi/pdf/10.1145/3051457.3053985 | Deep Knowledge Tracing On Programming Exercises
-
-http://karel.sourceforge.net/ | Karel The Robot
-
-tikinter pong game - Google Search
-
-
-https://twitter.com/chrispiech/status/1244692768431038473 | chrispiech on Twitter: "Mehran Sahami and I are going to host a community-service online coding course called Code in Place alongside CS106A. Led by a army of volunteer teachers. We are keeping a teacher to student ratio of 10:1. Calling for volunteers and students! Please share: https://t.co/y6QAkshwTA https://t.co/s92Z4MBjf5" / Twitter
-
-Introductory video
-https://twitter.com/KatiMichel/status/1249787619342336000
-
-https://twitter.com/KatiMichel/status/1250932687780450305 | Katherine Michel on Twitter: "Just finished solving the assignment problems for Stanford's Code in 
-Place course. Fun but challenging. It took some hours and I had a few light bulb moments. I thought I was done at one point, but my answer didn't pass all the test cases. 🤣 Will solve the bonus material now. 👩‍💻" / Twitter
-
-Midpoint message
-https://twitter.com/KatiMichel/status/1256097561024163840
-
-https://twitter.com/KatiMichel/status/1259262140394827778 | Katherine Michel on Twitter: "In the running for coolest thing I've learned this week is how to use Python to replace a green background in a photo with the background of a different photo (greenscreening) via Stanford Code in Place. 💚" / Twitter
-https://twitter.com/KatiMichel/status/1263737007324332032 | Katherine Michel on Twitter: "Sitting here stunned at what I just did with @GitHub Actions for my Stanford Code in Place final project. Succeeded at something I didn't even know could be done. 🤯" / Twitter
-
-"Negative" image tweet
-https://twitter.com/KatiMichel/status/1264308702594527238
-https://twitter.com/KatiMichel/status/1264702476797673472
-
-My [first programmatic tweet of text](https://twitter.com/SimbaFriendsBot/status/1263318557380706305)
-My [first programmatic tweet of text and an image](https://twitter.com/SimbaFriendsBot/status/1263365130760273920). 
--->
-
-### Final Project
-
-<!--
-https://twitter.com/chrispiech/status/1268934076381007872 | chrispiech on Twitter: "When I was a child in Kenya, I lost my vision (first one eye, then the other). Just before losing vision in the second eye I met a doctor in Kenyatta Hospital who had dedicated his life to others. He helped me regain my vision -- it required a scary injection..." / Twitter
-
-Stanford Reflections
-https://www.stanforddaily.com/2020/06/08/code-in-place-makes-cs-accessible-to-thousands-worldwide/ | Code in Place makes CS accessible to thousands worldwide - The Stanford Daily
-https://twitter.com/faridaelchuzade/status/1266107357496578050 | Farida Elchuzade on Twitter: "We have come to the end of 'Code in Place' Program organized by great professors and leaders of Stanford University. I made a sketch-note to summarize the topics I learned during the 5-week program. Let me know your thoughts about the note😊 #codeinplace #sketchandcode https://t.co/94bbbijduq" / Twitter
-https://www.linkedin.com/in/sanjay-mirchandani-54bb212/ | (86) Sanjay Mirchandani | LinkedIn
+https://mail.google.com/mail/u/3/?ogbl#inbox | Inbox (2) - simbaandfriendsbot@gmail.com - Gmail
 
 Simba
 https://us.edstem.org/courses/490/lessons/1236/slides/6413 | Code in Place – Lessons
@@ -298,27 +132,21 @@ My project
 https://us.edstem.org/courses/490/lessons/1327/slides/7012 | Code in Place – Lessons
 https://us.edstem.org/courses/1470/discussion/67793?comment=197647 | Section 470 – Discussion
 
-https://twitter.com/KatiMichel/status/1263737007324332032 | Katherine Michel on Twitter: "Sitting here stunned at what I just did with @GitHub Actions for my Stanford Code in Place final project. Succeeded at something I didn't even know could be done. 🤯" / Twitter
-https://twitter.com/KatiMichel/status/1264308702594527238 | Katherine Michel on Twitter: "Beautiful "negative" image tweeted by @SimbaFriendsBot, my Stanford Code in Place final project, inspired by @chrispiech's dog. My Python script that powers it is run solely via @GitHub Actions, downloading, modifying, and tweeting an image within GitHub. https://t.co/RjlFu8HxYp" / Twitter
-https://www.facebook.com/katherine.michel.5/posts/3238560776163561?comment_id=3239852896034349&notif_id=1590320706494522&notif_t=feed_comment | In April, I posted that I would be taking part... - Katherine Michel
-
 https://en.wikipedia.org/wiki/Proof_of_concept | Proof of concept - Wikipedia
 
 https://developer.twitter.com/en/apps/17971730 | Twitter Developers
-https://mail.google.com/mail/u/3/?ogbl#inbox | Inbox (2) - simbaandfriendsbot@gmail.com - Gmail
-https://twitter.com/SimbaFriendsBot | Katherine Michel (@SimbaFriendsBot) / Twitter
-https://twitter.com/SimbaFriendsBot/status/1263318557380706305 | Katherine Michel on Twitter: "Hello world!" / Twitter
-https://twitter.com/SimbaFriendsBot/status/1263365130760273920 | Katherine Michel on Twitter: "Checkout this cool image! https://t.co/H74aEcH4zp" / Twitter
-https://twitter.com/SimbaFriendsBot/status/1264297922092503043 | Katherine Michel on Twitter: "https://t.co/hJjPthlIlo" / Twitter
-https://twitter.com/SimbaFriendsBot/status/1264291085335101440 | Katherine Michel on Twitter: "https://t.co/rOyk6NSZxP" / 
-Twitter
-
 https://help.twitter.com/en/rules-and-policies/twitter-automation | Automation rules
-https://unsplash.com/license | License | Unsplash
 
+https://unsplash.com/license | License | Unsplash
 https://source.unsplash.com/collection/
 https://source.unsplash.com/ | Unsplash Source | A Simple API for Embedding Free Photos from Unsplash
 https://unsplash.com/documentation#get-a-random-photo | Unsplash API Documentation | Free HD Photo API | Unsplash
+
+Images
+https://compedu.stanford.edu/codeinplace/v1/#/assignment/images | Assignment
+https://codeinplace2020.github.io/faqs/imageReference.pdf | Microsoft Word - Image Reference.docx
+https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/reference-image.html
+https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf | h10_Image_Reference_Guide.pd
 
 Python
 https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
@@ -327,19 +155,9 @@ https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib 
 https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
 -->
 
-### Images
-
-<!--
-https://compedu.stanford.edu/codeinplace/v1/#/assignment/images | Assignment
-https://codeinplace2020.github.io/faqs/imageReference.pdf | Microsoft Word - Image Reference.docx
-https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1202/handouts/reference-image.html
-https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf | h10_Image_Reference_Guide.pdf
--->
-
 ### Further Learning
 
 <!--
-Stanford
 Post-Class Resources
 https://us.edstem.org/courses/490/discussion/71967 | Code in Place – Discussion
 Life after Code in Place
@@ -351,10 +169,16 @@ https://us.edstem.org/courses/490/discussion/74252 | Code in Place – Discussio
 Stanford Engineering Anywhere
 https://see.stanford.edu/Course#Introduction%20to%20Computer%20Science
 
-Stanford
 https://see.stanford.edu/Course/CS106B/153 | Stanford Engineering Everywhere | CS106B - Programming Abstractions | Lecture 2 - Similarity between C++ & Java: - syntax - variable types - operators - control structures
 http://web.stanford.edu/class/cs106x/ | CS106X Programming Abstractions in C++
 http://web.stanford.edu/class/cs106b/ | CS106B Home
+-->
+
+<!--
+Chris Piech
+https://dl.acm.org/doi/pdf/10.1145/3051457.3053985 | Deep Knowledge Tracing On Programming Exercises
+
+https://twitter.com/chrispiech/status/1268934076381007872 | chrispiech on Twitter: "When I was a child in Kenya, I lost my vision (first one eye, then the other). Just before losing vision in the second eye I met a doctor in Kenyatta Hospital who had dedicated his life to others. He helped me regain my vision -- it required a scary injection..." / Twitter
 -->
 
 ### General Info
@@ -368,11 +192,19 @@ T-Shirt
 https://us.edstem.org/courses/490/discussion/57042 | Code in Place – Discussion
 
 Excellent Notes
+https://mobile.twitter.com/thankfulfoodie/status/1250214251110645761
 https://www.rpgbx.com/python/masternotes | ALL Notes, Compiled! — rpgbx
 https://static1.squarespace.com/static/5e6685ae2118a020c291f4c0/t/5ec19af73ca6b4722cef1285/1589746454734/MASTER+PDF.pdf | MASTER+PDF.pdf
+https://twitter.com/faridaelchuzade/status/1266107357496578050 | Farida Elchuzade on Twitter: "We have come to the end of 'Code in Place' Program organized by great professors and leaders of Stanford University. I made a sketch-note to summarize the topics I learned during the 5-week program. Let me know your thoughts about the note😊 #codeinplace #sketchandcode https://t.co/94bbbijduq" / Twitter
+
+Stanford Reflections
+https://www.stanforddaily.com/2020/06/08/code-in-place-makes-cs-accessible-to-thousands-worldwide/ | Code in Place makes CS accessible to thousands worldwide - The Stanford Daily
+https://www.linkedin.com/in/sanjay-mirchandani-54bb212/ | (86) Sanjay Mirchandani | LinkedIn
 
 Midpoint Message
 https://www.youtube.com/watch?v=yANUka-4mjE&feature=emb_title
+
+https://www.youtube.com/watch?time_continue=178&v=U5KT89HJIw4&feature=emb_logo | (2) Goodbye Code in Place - YouTube
 
 https://compedu.stanford.edu/codeinplace/announcement/
 https://compedu.stanford.edu/codeinplace/assn0/#/splash
