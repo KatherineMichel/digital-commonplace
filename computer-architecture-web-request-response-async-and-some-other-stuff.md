@@ -7,13 +7,16 @@ https://en.wikipedia.org/wiki/State_(computer_science) | State (computer science
 https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
 Request/Response
 
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
+
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+
 APIs
 https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
 https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
 https://hoppscotch.io/
 https://firecamp.io/
-
-https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
 
 https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
 
