@@ -5,9 +5,6 @@
 <!--
 https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
 
-negative indexes python - Google Search
-
-
 https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
 https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
 https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
@@ -21,8 +18,11 @@ https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin
 
 https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
 https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+-->
 
+## Best Practices and Common Tools
 
+<!--
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
@@ -129,6 +129,8 @@ https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
 
 https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 
+negative indexes python - Google Search
+
 https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.8.5 documentation
 https://docs.python.org/3/library/sys.html#module-sys | sys — System-specific parameters and functions — Python 3.8.5 documentation
 
@@ -161,6 +163,26 @@ https://docs.python.org/3/library/urllib.request.html | urllib.request — Exten
 https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Using The urllib Package — Python 3.8.3 documentation
 https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
 https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
+-->
+
+<!--
+## Grammar
+
+Some of this will be deprecated
+
+1.2. Notation
+https://docs.python.org/3/reference/introduction.html#notation
+
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+
+
+https://twitter.com/aaronchall/status/1114713624453554176
+
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
 -->
 
 ## Interpreter
@@ -212,6 +234,7 @@ https://docs.python.org/3/installing/index.html
 
 https://docs.python.org/3/distributing/index.html
 
+Old
 29.1. distutils — Building and installing Python modules
 https://docs.python.org/3/library/distutils.html
 
@@ -553,33 +576,6 @@ https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
 https://docs.python.org/3/library/marshal.html
 
 
-
-
-
-## Grammar
-
-Some of this will be deprecated
-
-1.2. Notation
-https://docs.python.org/3/reference/introduction.html#notation
-
-10. Full Grammar specification
-https://docs.python.org/3/reference/grammar.html
-https://docs.python.org/3/reference/grammar.html#full-grammar-specification
-
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
-
-<!--
-https://twitter.com/aaronchall/status/1114713624453554176
-
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
-
-
 ## Lexical Analysis
 
 https://en.wikipedia.org/wiki/Lexical_analysis | Lexical analysis - Wikipedia
@@ -598,44 +594,6 @@ https://docs.python.org/3/reference/lexical_analysis.html#whitespace-between-tok
 https://docs.python.org/3/reference/lexical_analysis.html#line-structure
 https://docs.python.org/3/reference/lexical_analysis.html#other-tokens
 https://docs.python.org/3/reference/lexical_analysis.html#identifiers
-
-## Internals
-
-30.12. gc — Garbage Collector interface
-https://docs.python.org/3/library/gc.html
-
-33.12. dis — Disassembler for Python bytecode
-https://docs.python.org/3/library/dis.html
-
-30.13. inspect — Inspect live objects
-https://docs.python.org/3/library/inspect.html
-
-Where is this?
-https://docs.python.org/3/library/inspect.html#inspect.getmro
-
-33. Python Language Services
-33.1. parser — Access Python parse trees
-https://docs.python.org/3/library/parser.html
-33.2. ast — Abstract Syntax Trees
-https://docs.python.org/3/library/ast.html
-33.3. symtable — Access to the compiler’s symbol tables
-https://docs.python.org/3/library/symtable.html
-33.4. symbol — Constants used with Python parse trees
-https://docs.python.org/3/library/symbol.html
-33.5. token — Constants used with Python parse trees
-https://docs.python.org/3/library/token.html
-33.6. keyword — Testing for Python keywords
-https://docs.python.org/3/library/keyword.html
-33.7. tokenize — Tokenizer for Python source
-https://docs.python.org/3/library/tokenize.html
-33.8. tabnanny — Detection of ambiguous indentation
-https://docs.python.org/3/library/tabnanny.html
-33.9. pyclbr — Python class browser support
-https://docs.python.org/3/library/pyclbr.html
-33.10. py_compile — Compile Python source files
-https://docs.python.org/3/library/py_compile.html
-33.11. compileall — Byte-compile Python libraries
-https://docs.python.org/3/library/compileall.html
 
 
 ## Python and Django Testing
@@ -1133,48 +1091,6 @@ https://docs.python.org/3/library/logging.handlers.html#httphandler
 https://docs.python.org/3/library/logging.handlers.html#queuehandler
 https://docs.python.org/3/library/logging.handlers.html#queuelistener
 
-
-## Internals- Detailed
-
-33.12. dis — Disassembler for Python bytecode
-https://docs.python.org/3/library/dis.html#opcode-collections
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions
-https://docs.python.org/3/library/dis.html#bytecode-analysis
-https://docs.python.org/3/library/dis.html#analysis-functions
-
-30.13. inspect — Inspect live objects
-https://docs.python.org/3/library/inspect.html#types-and-members
-https://docs.python.org/3/library/inspect.html#retrieving-source-code
-https://docs.python.org/3/library/inspect.html#introspecting-callables-with-the-signature-object
-https://docs.python.org/3/library/inspect.html#classes-and-functions
-https://docs.python.org/3/library/inspect.html#the-interpreter-stack
-https://docs.python.org/3/library/inspect.html#fetching-attributes-statically
-https://docs.python.org/3/library/inspect.html#current-state-of-generators-and-coroutines
-https://docs.python.org/3/library/inspect.html#code-objects-bit-flags
-https://docs.python.org/3/library/inspect.html#command-line-interface
-
-https://docs.python.org/3/library/parser.html#creating-st-objects
-https://docs.python.org/3/library/parser.html#converting-st-objects
-https://docs.python.org/3/library/parser.html#queries-on-st-objects
-https://docs.python.org/3/library/parser.html#exceptions-and-error-handling
-https://docs.python.org/3/library/parser.html#st-objects
-https://docs.python.org/3/library/parser.html#example-emulation-of-compile
-
-https://docs.python.org/3/library/ast.html#node-classes
-https://docs.python.org/3/library/ast.html#abstract-grammar
-https://docs.python.org/3/library/ast.html#ast-helpers
-
-https://docs.python.org/3/library/symtable.html#generating-symbol-tables
-
-https://docs.python.org/3/library/symbol.html#module-symbol
-
-https://docs.python.org/3/library/tokenize.html#tokenizing-input
-https://docs.python.org/3/library/tokenize.html#command-line-usage
-https://docs.python.org/3/library/tokenize.html#examples
-https://docs.python.org/3/library/pyclbr.html#function-objects
-https://docs.python.org/3/library/pyclbr.html#class-objects
-https://docs.python.org/3/library/compileall.html#command-line-use
-https://docs.python.org/3/library/compileall.html#public-functions
 
 ## virtualenv
 
