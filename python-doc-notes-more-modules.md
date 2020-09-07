@@ -1,3 +1,69 @@
+15. Cryptographic Services
+15.1. hashlib — Secure hashes and message digests
+15.2. hmac — Keyed-Hashing for Message Authentication
+
+https://docs.python.org/3/library/crypto.html
+https://docs.python.org/3/library/hashlib.html
+https://docs.python.org/3/library/hashlib.html#hash-algorithms
+https://docs.python.org/3/library/hashlib.html#shake-variable-length-digests
+https://docs.python.org/3/library/hashlib.html#key-derivation
+https://docs.python.org/3/library/hashlib.html#blake2
+https://docs.python.org/3/library/hashlib.html#creating-hash-objects
+https://docs.python.org/3/library/hashlib.html#constants
+https://docs.python.org/3/library/hashlib.html#examples
+https://docs.python.org/3/library/hashlib.html#credits
+https://docs.python.org/3/library/hmac.html
+
+20.5. mimetypes — Map filenames to MIME types
+20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
+https://docs.python.org/3/library/mimetypes.html
+https://docs.python.org/3/library/mimetypes.html#mimetypes-objects
+https://docs.python.org/3/library/base64.html
+
+7.2. codecs — Codec registry and base classes
+https://docs.python.org/3/library/codecs.html
+https://docs.python.org/3/library/codecs.html#codec-base-classes
+https://docs.python.org/3/library/codecs.html#error-handlers
+https://docs.python.org/3/library/codecs.html#stateless-encoding-and-decoding
+https://docs.python.org/3/library/codecs.html#incremental-encoding-and-decoding
+https://docs.python.org/3/library/codecs.html#incrementalencoder-objects
+https://docs.python.org/3/library/codecs.html#incrementaldecoder-objects
+https://docs.python.org/3/library/codecs.html#stream-encoding-and-decoding
+https://docs.python.org/3/library/codecs.html#streamwriter-objects
+https://docs.python.org/3/library/codecs.html#streamreader-objects
+https://docs.python.org/3/library/codecs.html#streamreaderwriter-objects
+https://docs.python.org/3/library/codecs.html#streamrecoder-objects
+https://docs.python.org/3/library/codecs.html#encodings-and-unicode
+https://docs.python.org/3/library/codecs.html#standard-encodings
+https://docs.python.org/3/library/codecs.html#python-specific-encodings
+https://docs.python.org/3/library/codecs.html#text-encodings
+https://docs.python.org/3/library/codecs.html#binary-transforms
+https://docs.python.org/3/library/codecs.html#text-transforms
+https://docs.python.org/3/library/codecs.html#module-encodings.idna
+https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
+https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
+
+22.28. ipaddress — IPv4/IPv6 manipulation library
+https://docs.python.org/3/library/ipaddress.html
+https://docs.python.org/3/library/ipaddress.html#convenience-factory-functions
+https://docs.python.org/3/library/ipaddress.html#ip-addresses
+https://docs.python.org/3/library/ipaddress.html#address-objects
+https://docs.python.org/3/library/ipaddress.html#conversion-to-strings-and-integers
+https://docs.python.org/3/library/ipaddress.html#operators
+https://docs.python.org/3/library/ipaddress.html#comparison-operators
+https://docs.python.org/3/library/ipaddress.html#arithmetic-operators
+https://docs.python.org/3/library/ipaddress.html#ip-network-definitions
+https://docs.python.org/3/library/ipaddress.html#prefix-net-mask-and-host-mask
+https://docs.python.org/3/library/ipaddress.html#network-objects
+https://docs.python.org/3/library/ipaddress.html#id1
+https://docs.python.org/3/library/ipaddress.html#logical-operators
+https://docs.python.org/3/library/ipaddress.html#iteration
+https://docs.python.org/3/library/ipaddress.html#interface-objects
+https://docs.python.org/3/library/ipaddress.html#id2
+https://docs.python.org/3/library/ipaddress.html#id3
+https://docs.python.org/3/library/ipaddress.html#other-module-level-functions
+https://docs.python.org/3/library/ipaddress.html#custom-exceptions
+
 ## I/O
 
 16.2. io — Core tools for working with streams
