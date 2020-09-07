@@ -1005,15 +1005,6 @@ https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
 https://docs.python.org/3/library/venv.html#api
 https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
 
-## 2 to 3- Deprecated
-
-Automated Python 2 to 3 code translation
-https://docs.python.org/3/library/2to3.html
-https://docs.python.org/3/library/2to3.html#using-2to3
-https://docs.python.org/3/library/2to3.html#fixers
-https://docs.python.org/3/library/2to3.html#module-lib2to3
-
-
 
 
 ## Built-In Functions- Modules
@@ -1090,7 +1081,6 @@ Convert a value to a “formatted” representation, as controlled by format_spe
 
 Return a string containing a printable representation of an object. 
 ```repr()```
-
 
 
 
@@ -1720,82 +1710,10 @@ https://docs.python.org/3/library/linecache.html
 
 https://docs.python.org/3/library/macpath.html
 
-22.28. ipaddress — IPv4/IPv6 manipulation library
-https://docs.python.org/3/library/ipaddress.html
-https://docs.python.org/3/library/ipaddress.html#convenience-factory-functions
-https://docs.python.org/3/library/ipaddress.html#ip-addresses
-https://docs.python.org/3/library/ipaddress.html#address-objects
-https://docs.python.org/3/library/ipaddress.html#conversion-to-strings-and-integers
-https://docs.python.org/3/library/ipaddress.html#operators
-https://docs.python.org/3/library/ipaddress.html#comparison-operators
-https://docs.python.org/3/library/ipaddress.html#arithmetic-operators
-https://docs.python.org/3/library/ipaddress.html#ip-network-definitions
-https://docs.python.org/3/library/ipaddress.html#prefix-net-mask-and-host-mask
-https://docs.python.org/3/library/ipaddress.html#network-objects
-https://docs.python.org/3/library/ipaddress.html#id1
-https://docs.python.org/3/library/ipaddress.html#logical-operators
-https://docs.python.org/3/library/ipaddress.html#iteration
-https://docs.python.org/3/library/ipaddress.html#interface-objects
-https://docs.python.org/3/library/ipaddress.html#id2
-https://docs.python.org/3/library/ipaddress.html#id3
-https://docs.python.org/3/library/ipaddress.html#other-module-level-functions
-https://docs.python.org/3/library/ipaddress.html#custom-exceptions
-
 36.10. pipes — Interface to shell pipelines
 https://docs.python.org/3/library/pipes.html
 https://docs.python.org/3/library/pipes.html#template-objects
 
-20.5. mimetypes — Map filenames to MIME types
-20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
-https://docs.python.org/3/library/mimetypes.html
-https://docs.python.org/3/library/mimetypes.html#mimetypes-objects
-https://docs.python.org/3/library/base64.html
-
-7.2. codecs — Codec registry and base classes
-
-https://docs.python.org/3/library/codecs.html
-https://docs.python.org/3/library/codecs.html#codec-base-classes
-https://docs.python.org/3/library/codecs.html#error-handlers
-https://docs.python.org/3/library/codecs.html#stateless-encoding-and-decoding
-https://docs.python.org/3/library/codecs.html#incremental-encoding-and-decoding
-https://docs.python.org/3/library/codecs.html#incrementalencoder-objects
-https://docs.python.org/3/library/codecs.html#incrementaldecoder-objects
-https://docs.python.org/3/library/codecs.html#stream-encoding-and-decoding
-https://docs.python.org/3/library/codecs.html#streamwriter-objects
-https://docs.python.org/3/library/codecs.html#streamreader-objects
-https://docs.python.org/3/library/codecs.html#streamreaderwriter-objects
-https://docs.python.org/3/library/codecs.html#streamrecoder-objects
-https://docs.python.org/3/library/codecs.html#encodings-and-unicode
-https://docs.python.org/3/library/codecs.html#standard-encodings
-https://docs.python.org/3/library/codecs.html#python-specific-encodings
-https://docs.python.org/3/library/codecs.html#text-encodings
-https://docs.python.org/3/library/codecs.html#binary-transforms
-https://docs.python.org/3/library/codecs.html#text-transforms
-https://docs.python.org/3/library/codecs.html#module-encodings.idna
-https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
-https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
-
-15. Cryptographic Services
-15.1. hashlib — Secure hashes and message digests
-15.2. hmac — Keyed-Hashing for Message Authentication
-15.3. secrets — Generate secure random numbers for managing secrets
-
-15. Cryptographic Services
-https://docs.python.org/3/library/crypto.html
-
-15.1. hashlib — Secure hashes and message digests
-https://docs.python.org/3/library/hashlib.html
-
-https://docs.python.org/3/library/hashlib.html#hash-algorithms
-https://docs.python.org/3/library/hashlib.html#shake-variable-length-digests
-https://docs.python.org/3/library/hashlib.html#key-derivation
-https://docs.python.org/3/library/hashlib.html#blake2
-https://docs.python.org/3/library/hashlib.html#creating-hash-objects
-https://docs.python.org/3/library/hashlib.html#constants
-https://docs.python.org/3/library/hashlib.html#examples
-https://docs.python.org/3/library/hashlib.html#credits
-
-https://docs.python.org/3/library/hmac.html
 
 15.3. secrets — Generate secure random numbers for managing secrets
 https://docs.python.org/3/library/secrets.html
@@ -1805,6 +1723,7 @@ https://docs.python.org/3/library/secrets.html#generating-tokens
 https://docs.python.org/3/library/secrets.html#how-many-bytes-should-tokens-use
 https://docs.python.org/3/library/secrets.html#other-functions
 https://docs.python.org/3/library/secrets.html#recipes-and-best-practices
+
 
 24. Internationalization
 24.1. gettext — Multilingual internationalization services
@@ -1917,6 +1836,7 @@ https://docs.python.org/3/library/sqlite3.html#multithreading
 14. File Formats
 14.5. plistlib — Generate and parse Mac OS X .plist files
 https://docs.python.org/3/library/plistlib.html
+
 
 
 ## The Python General Index and Module Index- Priority
@@ -2091,6 +2011,33 @@ type alias
 type hint
 https://docs.python.org/3/glossary.html#term-virtual-machine
 
+
+## 2 to 3- Deprecated
+
+Automated Python 2 to 3 code translation
+https://docs.python.org/3/library/2to3.html
+https://docs.python.org/3/library/2to3.html#using-2to3
+https://docs.python.org/3/library/2to3.html#fixers
+https://docs.python.org/3/library/2to3.html#module-lib2to3
+
+
+15. Cryptographic Services
+15.1. hashlib — Secure hashes and message digests
+15.2. hmac — Keyed-Hashing for Message Authentication
+https://docs.python.org/3/library/crypto.html
+https://docs.python.org/3/library/hashlib.html
+https://docs.python.org/3/library/hmac.html
+
+20.5. mimetypes — Map filenames to MIME types
+20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
+https://docs.python.org/3/library/mimetypes.html
+https://docs.python.org/3/library/base64.html
+
+7.2. codecs — Codec registry and base classes
+https://docs.python.org/3/library/codecs.html
+
+22.28. ipaddress — IPv4/IPv6 manipulation library
+https://docs.python.org/3/library/ipaddress.html
 
 ## I/O
 
