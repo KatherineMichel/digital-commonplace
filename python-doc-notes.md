@@ -1,21 +1,166 @@
 # Python Doc Notes
 
+## General Notes
+
 <!--
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
+
+negative indexes python - Google Search
+
+
+https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
+https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
+https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
+https://www.pypy.org/ | PyPy
+
+HTMl and CSS
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS | CSS: Cascading Style Sheets | MDN
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+
+https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
+https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
+
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+frame object - Google Search
+https://docs.python.org/3/library/inspect.html#the-interpreter-stack
+
+https://en.wikipedia.org/wiki/Random-access_memory | Random-access memory - Wikipedia
+
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+
+https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
+https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
+
+https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
+
+https://www.google.com/search?q=Extended-BNF+(EBNF)&oq=Extended-BNF+(EBNF)&aqs=chrome..69i57.234j0j7&sourceid=chrome&ie=UTF-8 | Extended-BNF (EBNF) - Google Search
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://docs.python.org/3/c-api/
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
+https://docs.python.org/3.8/extending/extending.html
+
+https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
+
+https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
+
+https://docs.python.org/3/library/python.html
 https://docs.python.org/3/py-modindex.html | Python Module Index — Python 3.8.3 documentation
 
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+https://docs.python.org/3/tutorial/modules.html#standard-modules | 6. Modules — Python 3.8.5 documentation
+https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
+
+https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
+
+Kenneth Reitz Advice to Me 
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
+## Method Resolution Order
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+MRO
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
+
+New Style
+https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
+https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+
+Super
+https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+
+https://docs.python.org/3/library/dis.html | 404 Not Found
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions | dis — Disassembler for Python bytecode — Python 3.8.2rc1 documentation
+
+
+https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
+
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
 https://docs.python.org/3/library/doctest.html | doctest — Test interactive Python examples — Python 3.8.3 documentation
 https://docs.python.org/3/tutorial/controlflow.html#documentation-strings | 4. More Control Flow Tools — Python 3.8.3 documentation
 
-Regular expression
-https://en.wikipedia.org/wiki/Regular_expression
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+
+https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
+
+https://docs.python.org/3/library/constants.html#None | Built-in Constants — Python 3.8.3 documentation
+
+https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
+https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
+https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
+
+
+https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
+https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+
+https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+
+https://en.wikipedia.org/wiki/Control_flow
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
+https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+
+https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
+https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
+https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+
+https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.8.5 documentation
+https://docs.python.org/3/library/sys.html#module-sys | sys — System-specific parameters and functions — Python 3.8.5 documentation
+
+https://docs.python.org/3/library/argparse.html | argparse — Parser for command-line options, arguments and sub-commands — Python 3.8.5 documentation
+https://docs.python.org/3/howto/argparse.html | Argparse Tutorial — Python 3.8.5 documentation
 
 Strings
 https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+https://docs.python.org/3.3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
+
 https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+
+https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+
+https://docs.python.org/3/library/fileformats.html | File Formats — Python 3.8.3 documentation
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards | 10. Brief Tour of the Standard Library — Python 3.8.5 documentation
+
+Regular expression
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
+https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
+
+urllib
+https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
+https://docs.python.org/3/howto/urllib2.html | HOWTO Fetch Internet Resources Using The urllib Package — Python 3.8.3 documentation
+https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
+https://docs.python.org/3/library/urllib.parse.html | urllib.parse — Parse URLs into components — Python 3.8.3 documentation
 -->
 
 ## Interpreter
