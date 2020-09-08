@@ -23,25 +23,9 @@ https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN We
 ## Best Practices and Common Tools
 
 <!--
-https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
-
 https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
 frame object - Google Search
 https://docs.python.org/3/library/inspect.html#the-interpreter-stack
-
-https://en.wikipedia.org/wiki/Random-access_memory | Random-access memory - Wikipedia
-
-https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
-
-https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
-https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
-
-https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
-
-https://www.google.com/search?q=Extended-BNF+(EBNF)&oq=Extended-BNF+(EBNF)&aqs=chrome..69i57.234j0j7&sourceid=chrome&ie=UTF-8 | Extended-BNF (EBNF) - Google Search
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 https://docs.python.org/3/c-api/
 https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
@@ -49,19 +33,13 @@ https://docs.python.org/3.8/extending/extending.html
 
 https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
 
-https://docs.python.org/3/glossary.html | Glossary — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Random-access_memory | Random-access memory - Wikipedia
 
-https://docs.python.org/3/library/python.html
-https://docs.python.org/3/py-modindex.html | Python Module Index — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
 
-https://docs.python.org/3/tutorial/modules.html#standard-modules | 6. Modules — Python 3.8.5 documentation
-https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
-https://docs.python.org/3/library/markup.html | Structured Markup Processing Tools — Python 3.8.3 documentation
-
-Kenneth Reitz Advice to Me 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 ## Method Resolution Order
 
@@ -79,26 +57,9 @@ https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
 https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
 http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
 
-Super
-https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
-
-https://docs.python.org/3/library/dis.html | 404 Not Found
-https://docs.python.org/3/library/dis.html#python-bytecode-instructions | dis — Disassembler for Python bytecode — Python 3.8.2rc1 documentation
-
-
-https://www.python.org/dev/peps/pep-0008/#indentation | PEP 8 -- Style Guide for Python Code | Python.org
-
-https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
-
-https://docs.python.org/3/library/doctest.html | doctest — Test interactive Python examples — Python 3.8.3 documentation
-https://docs.python.org/3/tutorial/controlflow.html#documentation-strings | 4. More Control Flow Tools — Python 3.8.3 documentation
-
-
 https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 
 https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
-
-https://docs.python.org/3/library/constants.html#None | Built-in Constants — Python 3.8.3 documentation
 
 https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
@@ -106,57 +67,19 @@ https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exception
 https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
 https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
 
+https://docs.python.org/3/library/python.html
 
-https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
-https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+https://docs.python.org/3/tutorial/modules.html#standard-modules | 6. Modules — Python 3.8.5 documentation
 
-https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
-
-https://en.wikipedia.org/wiki/Control_flow
-https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
-https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
-https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
-
-https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
-https://docs.python.org/3.8/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
-
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-
-https://en.wikipedia.org/wiki/George_Boole#Death | George Boole - Wikipedia
-https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
-
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 
 negative indexes python - Google Search
 
-https://docs.python.org/3/library/os.html | os — Miscellaneous operating system interfaces — Python 3.8.5 documentation
+
 https://docs.python.org/3/library/sys.html#module-sys | sys — System-specific parameters and functions — Python 3.8.5 documentation
 
-https://docs.python.org/3/library/argparse.html | argparse — Parser for command-line options, arguments and sub-commands — Python 3.8.5 documentation
-https://docs.python.org/3/howto/argparse.html | Argparse Tutorial — Python 3.8.5 documentation
-
-Strings
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
-https://docs.python.org/3.3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
-
-https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
-
-https://docs.python.org/3.9/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
 
 https://docs.python.org/3/library/fileformats.html | File Formats — Python 3.8.3 documentation
 https://docs.python.org/3/tutorial/stdlib.html#file-wildcards | 10. Brief Tour of the Standard Library — Python 3.8.5 documentation
-
-Regular expression
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
-https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
 
 urllib
 https://docs.python.org/3/library/urllib.request.html | urllib.request — Extensible library for opening URLs — Python 3.8.3 documentation
@@ -339,6 +262,26 @@ https://docs.python.org/3/library/zipimport.html#examples
 https://docs.python.org/3/library/ensurepip.html
 https://docs.python.org/3/library/ensurepip.html#command-line-interface
 https://docs.python.org/3/library/ensurepip.html#module-api
+
+
+## virtualenv
+
+12. Virtual Environments and Packages
+12.1. Introduction
+12.2. Creating Virtual Environments
+12.3. Managing Packages with pip
+
+29.3. venv — Creation of virtual environments
+
+https://docs.python.org/3/library/venv.html
+
+https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages
+https://docs.python.org/3/tutorial/venv.html#introduction
+https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
+https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
+
+https://docs.python.org/3/library/venv.html#api
+https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
 
 
 ## General Links
@@ -562,10 +505,6 @@ https://docs.python.org/3/reference/executionmodel.html#interaction-with-dynamic
 
 https://docs.python.org/3/reference/executionmodel.html#exceptions
 
-https://docs.python.org/3/library/functions.html#built-in-funcs
-https://docs.python.org/3/library/constants.html#built-in-consts
-https://docs.python.org/3/library/functions.html#open
-
 
 https://docs.python.org/3/library/stdtypes.html#the-ellipsis-object
 
@@ -625,6 +564,112 @@ https://docs.python.org/3/library/doctest.html#outputchecker-objects
 https://docs.python.org/3/library/doctest.html#debugging
 https://docs.python.org/3/library/doctest.html#soapbox
 -->
+
+<!--
+27.4. unittest — Unit testing framework
+27.5. unittest.mock — mock object library
+27.6. unittest.mock — getting started
+27.8. test — Regression tests package for Python
+27.9. test.support — Utilities for the Python test suite
+27.10. test.support.script_helper — Utilities for the Python execution tests
+
+https://docs.python.org/3/library/unittest.html#unittest.TestCase
+
+7.3. The assert statement
+https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
+AssertionError
+
+Where is this?
+https://docs.python.org/3/library/unittest.html#assert-methods
+
+https://docs.python.org/3/library/unittest.html#test-discovery
+
+https://docs.python.org/3/library/unittest.html
+https://docs.python.org/3/library/unittest.html#basic-example
+https://docs.python.org/3/library/unittest.html#command-line-interface
+https://docs.python.org/3/library/unittest.html#command-line-options
+https://docs.python.org/3/library/unittest.html#organizing-test-code
+https://docs.python.org/3/library/unittest.html#re-using-old-test-code
+https://docs.python.org/3/library/unittest.html#skipping-tests-and-expected-failures
+https://docs.python.org/3/library/unittest.html#distinguishing-test-iterations-using-subtests
+https://docs.python.org/3/library/unittest.html#classes-and-functions
+https://docs.python.org/3/library/unittest.html#test-cases
+https://docs.python.org/3/library/unittest.html#deprecated-aliases
+https://docs.python.org/3/library/unittest.html#grouping-tests
+https://docs.python.org/3/library/unittest.html#loading-and-running-tests
+https://docs.python.org/3/library/unittest.html#class-and-module-fixtures
+https://docs.python.org/3/library/unittest.html#setupclass-and-teardownclass
+https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
+https://docs.python.org/3/library/unittest.html#signal-handling
+
+unittest.mock patch
+
+https://docs.python.org/3/library/unittest.mock.html
+https://docs.python.org/3/library/unittest.mock.html#quick-guide
+https://docs.python.org/3/library/unittest.mock.html#the-mock-class
+https://docs.python.org/3/library/unittest.mock.html#calling
+https://docs.python.org/3/library/unittest.mock.html#deleting-attributes
+https://docs.python.org/3/library/unittest.mock.html#mock-names-and-the-name-attribute
+https://docs.python.org/3/library/unittest.mock.html#attaching-mocks-as-attributes
+https://docs.python.org/3/library/unittest.mock.html#the-patchers
+https://docs.python.org/3/library/unittest.mock.html#patch
+https://docs.python.org/3/library/unittest.mock.html#patch-object
+https://docs.python.org/3/library/unittest.mock.html#patch-dict
+https://docs.python.org/3/library/unittest.mock.html#patch-multiple
+https://docs.python.org/3/library/unittest.mock.html#patch-methods-start-and-stop
+https://docs.python.org/3/library/unittest.mock.html#patch-builtins
+https://docs.python.org/3/library/unittest.mock.html#test-prefix
+https://docs.python.org/3/library/unittest.mock.html#nesting-patch-decorators
+https://docs.python.org/3/library/unittest.mock.html#where-to-patch
+https://docs.python.org/3/library/unittest.mock.html#patching-descriptors-and-proxy-objects
+https://docs.python.org/3/library/unittest.mock.html#magicmock-and-magic-method-support
+https://docs.python.org/3/library/unittest.mock.html#mocking-magic-methods
+https://docs.python.org/3/library/unittest.mock.html#magic-mock
+https://docs.python.org/3/library/unittest.mock.html#helpers
+https://docs.python.org/3/library/unittest.mock.html#sentinel
+https://docs.python.org/3/library/unittest.mock.html#default
+https://docs.python.org/3/library/unittest.mock.html#call
+https://docs.python.org/3/library/unittest.mock.html#create-autospec
+https://docs.python.org/3/library/unittest.mock.html#any
+https://docs.python.org/3/library/unittest.mock.html#filter-dir
+https://docs.python.org/3/library/unittest.mock.html#mock-open
+https://docs.python.org/3/library/unittest.mock.html#autospeccing
+https://docs.python.org/3/library/unittest.mock.html#sealing-mocks
+
+https://docs.python.org/3/library/unittest.mock-examples.html
+https://docs.python.org/3/library/unittest.mock-examples.html#unittest-mock-getting-started
+https://docs.python.org/3/library/unittest.mock-examples.html#using-mock
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-patching-methods
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-for-method-calls-on-an-object
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-classes
+https://docs.python.org/3/library/unittest.mock-examples.html#naming-your-mocks
+https://docs.python.org/3/library/unittest.mock-examples.html#tracking-all-calls
+https://docs.python.org/3/library/unittest.mock-examples.html#setting-return-values-and-attributes
+https://docs.python.org/3/library/unittest.mock-examples.html#raising-exceptions-with-mocks
+https://docs.python.org/3/library/unittest.mock-examples.html#side-effect-functions-and-iterables
+https://docs.python.org/3/library/unittest.mock-examples.html#creating-a-mock-from-an-existing-object
+https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
+https://docs.python.org/3/library/unittest.mock-examples.html#further-examples
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-chained-calls
+https://docs.python.org/3/library/unittest.mock-examples.html#partial-mocking
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-generator-method
+https://docs.python.org/3/library/unittest.mock-examples.html#applying-the-same-patch-to-every-test-method
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-unbound-methods
+https://docs.python.org/3/library/unittest.mock-examples.html#checking-multiple-calls-with-mock
+https://docs.python.org/3/library/unittest.mock-examples.html#coping-with-mutable-arguments
+https://docs.python.org/3/library/unittest.mock-examples.html#nesting-patches
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-dictionary-with-magicmock
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-and-their-attributes
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
+https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
+https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
+
+Internal Use
+https://docs.python.org/3/library/test.html
+https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
+https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
+https://docs.python.org/3/library/test.html#module-test.support
+https://docs.python.org/3/library/test.html#module-test.support.script_helper
 
 ## Performance
 
@@ -765,6 +810,7 @@ https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-o
 https://docs.python.org/3/library/warnings.html#available-functions
 https://docs.python.org/3/library/warnings.html#available-context-managers
 
+
 ## Django System Checks, Error Reporting, Exceptions
 
 * [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
@@ -833,103 +879,7 @@ client.RedirectCycleError, 1018
 ProgrammingError, 1017 
 TemplateSyntaxError, 276 
      
-## Built-In Exceptions Hierarchy
-
-The most common exceptions?
-
-Django raises built-in Python exceptions when appropriate.
-https://docs.python.org/3/library/exceptions.html#bltin-exceptions
-
-5.4. Exception hierarchy
-https://docs.python.org/3/library/exceptions.html#exception-hierarchy
-
-BaseException
-  +-- Exception
-      +-- StopIteration
-      +-- StopAsyncIteration
-      
- +-- SystemExit
- +-- KeyboardInterrupt
- +-- GeneratorExit
- 
-      +-- ImportError
-      |    +-- ModuleNotFoundError
-      
-      +-- SyntaxError
-      |    +-- IndentationError
-      |         +-- TabError
-      
-      +-- NameError
-      |    +-- UnboundLocalError
-      
-      +-- TypeError
-      +-- ValueError
-      |    +-- UnicodeError
-      |         +-- UnicodeDecodeError
-      |         +-- UnicodeEncodeError
-      |         +-- UnicodeTranslateError
-      
-      +-- AttributeError 
-      
-      +-- LookupError
-      |    +-- IndexError
-      |    +-- KeyError
-      
-      +-- ArithmeticError
-      |    +-- FloatingPointError
-      |    +-- OverflowError
-      |    +-- ZeroDivisionError
-      
-      +-- EOFError
-      
-      +-- AssertionError
-              
-      +-- ReferenceError
-      
-      +-- OSError
-      |    +-- BlockingIOError
-      |    +-- ChildProcessError
-      |    +-- ConnectionError
-      |    |    +-- BrokenPipeError
-      |    |    +-- ConnectionAbortedError
-      |    |    +-- ConnectionRefusedError
-      |    |    +-- ConnectionResetError
-      |    +-- FileExistsError
-      |    +-- FileNotFoundError
-      |    +-- InterruptedError
-      |    +-- IsADirectoryError
-      |    +-- NotADirectoryError
-      |    +-- PermissionError
-      |    +-- ProcessLookupError
-      |    +-- TimeoutError    
-      
-      +-- SystemError
-      
-      +-- RuntimeError
-      |    +-- NotImplementedError
-      |    +-- RecursionError
-      
-      +-- MemoryError     
-      +-- BufferError
-               
-Python Warnings
-
-      +-- Warning
-
-           +-- SyntaxWarning
-           +-- UserWarning
-           +-- ImportWarning
-	   
-           +-- UnicodeWarning
-           +-- BytesWarning
-	   
-           +-- RuntimeWarning
-           +-- ResourceWarning
-	   
-           +-- FutureWarning	   
-           +-- DeprecationWarning
-           +-- PendingDeprecationWarning
-	   
+    	   
 ## Logging
 
 Logging HOWTO
@@ -984,27 +934,6 @@ https://docs.python.org/3/library/logging.handlers.html#memoryhandler
 https://docs.python.org/3/library/logging.handlers.html#httphandler
 https://docs.python.org/3/library/logging.handlers.html#queuehandler
 https://docs.python.org/3/library/logging.handlers.html#queuelistener
-
-
-## virtualenv
-
-12. Virtual Environments and Packages
-12.1. Introduction
-12.2. Creating Virtual Environments
-12.3. Managing Packages with pip
-
-29.3. venv — Creation of virtual environments
-
-https://docs.python.org/3/library/venv.html
-
-https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages
-https://docs.python.org/3/tutorial/venv.html#introduction
-https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
-https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
-
-https://docs.python.org/3/library/venv.html#api
-https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
-
 
 
 ## Built-In Functions- Modules
@@ -1218,6 +1147,7 @@ This function supports dynamic execution of Python code.
 
 Compile the source into a code or AST object. 
 ```compile()```
+
 
 ## Dataclasses
 
