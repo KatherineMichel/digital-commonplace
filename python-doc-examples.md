@@ -1,5 +1,55 @@
 # Python Doc Examples
 
+<!--
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+
+https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
+https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+
+https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+
+https://en.wikipedia.org/wiki/Control_flow
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
+https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+
+https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
+
+https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
+https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+
+https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
+
+Use Often
+https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3.3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
+https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
+
+Regular expression
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+
+Recommended
+https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
+-->
+
+## Kenneth Reitz Advice to Me 
+
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
 ## Enter and Exit the Python Interactive Shell
 
 Enter the Python interactive shell
@@ -268,6 +318,10 @@ camelCase
 ```
 
 snake_case
+
+<!--
+https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
+-->
 
 ```python
 module_name
