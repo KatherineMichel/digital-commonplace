@@ -1,4 +1,3 @@
-<!--
 10. Full Grammar specification
 https://docs.python.org/3/reference/grammar.html
 https://docs.python.org/3/reference/grammar.html#full-grammar-specification
@@ -82,4 +81,3 @@ https://docs.python.org/3/library/pyclbr.html#function-objects
 https://docs.python.org/3/library/pyclbr.html#class-objects
 https://docs.python.org/3/library/compileall.html#command-line-use
 https://docs.python.org/3/library/compileall.html#public-functions
--->
