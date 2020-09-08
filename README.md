@@ -3,7 +3,10 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-Saturday 11-13
+September 9-10
+https://eventyay.com/e/8fa7fd14/schedule
+
+September 11-13
 https://www.german-russians.info/
 
 September 16
