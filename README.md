@@ -3,6 +3,19 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Saturday 11-13
+https://www.german-russians.info/
+
+September 16
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
+
+September 18-19
+https://cfp.2020.djangocon.eu/porto/schedule/
+
+October 2-3
+https://2020.pygotham.tv/talks/
+
+
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
 
 https://blog.photoshelter.com/2020/08/sell-photos-with-google-image-licensing/ | Selling Your Photography Just Got Easier with Google Image Licensing - PhotoShelter Blog
