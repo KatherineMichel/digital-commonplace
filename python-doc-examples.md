@@ -29,20 +29,33 @@ https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 
 https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 
+https://docs.python.org/3/library/functions.html#built-in-funcs
+https://docs.python.org/3/library/constants.html#built-in-consts
+
+Recommended
+https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
+
+Super
+https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+
 Use Often
 https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
 https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
 https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
 https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3.3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
+https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
+https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
 
 Regular expression
 https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
 https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
 
-Recommended
-https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
+urllib
+https://docs.python.org/3/library/urllib.request.html
+https://docs.python.org/3/library/urllib.parse.html
+https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
 -->
 
 ## Kenneth Reitz Advice to Me 
@@ -906,6 +919,9 @@ https://docs.python.org/3/library/stdtypes.html#memory-views
 
 ## Strings
 
+Common string operations
+https://docs.python.org/3/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+
 https://docs.python.org/3/tutorial/introduction.html#strings
 
 https://docs.python.org/3/library/stdtypes.html#str
@@ -1132,7 +1148,150 @@ Convert an integer number to an octal string prefixed with “0o”.
 Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
 ```ord()```
 
+## Exceptions
+
+Two kinds of errors
+* syntax errors
+* logical errors
+
+Traceback
+* 1: file name, line number, module (if applicable)
+* 2: line, ^ (caret) where the error is
+* 3: type of error and description
+     
+Example
+
+```python
+$ python program.py
+  File "program.py", line 3, in <module>
+print 'Hello world! ^
+SyntaxError: EOL while scanning string literal
+```
+
+try-except-else statement
+
+```python
+try:
+    something
+except Exception:
+    do something else
+else:
+    do something else
+```
+
+<!--
+8.4. The try statement
+https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
+https://docs.python.org/3/reference/compound_stmts.html#finally
+
+7.8. The raise statement
+https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement
+-->
+
+## Python Built-In Exceptions Hierarchy
+
+<!--
+The most common exceptions?
+-->
+
+Django raises built-in Python exceptions when appropriate.
+https://docs.python.org/3/library/exceptions.html#bltin-exceptions
+
+5.4. Exception hierarchy
+https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+
+BaseException
+  +-- Exception
+      +-- StopIteration
+      +-- StopAsyncIteration
+      
+ +-- SystemExit
+ +-- KeyboardInterrupt
+ +-- GeneratorExit
+ 
+      +-- ImportError
+      |    +-- ModuleNotFoundError
+      
+      +-- SyntaxError
+      |    +-- IndentationError
+      |         +-- TabError
+      
+      +-- NameError
+      |    +-- UnboundLocalError
+      
+      +-- TypeError
+      +-- ValueError
+      |    +-- UnicodeError
+      |         +-- UnicodeDecodeError
+      |         +-- UnicodeEncodeError
+      |         +-- UnicodeTranslateError
+      
+      +-- AttributeError 
+      
+      +-- LookupError
+      |    +-- IndexError
+      |    +-- KeyError
+      
+      +-- ArithmeticError
+      |    +-- FloatingPointError
+      |    +-- OverflowError
+      |    +-- ZeroDivisionError
+      
+      +-- EOFError
+      
+      +-- AssertionError
+              
+      +-- ReferenceError
+      
+      +-- OSError
+      |    +-- BlockingIOError
+      |    +-- ChildProcessError
+      |    +-- ConnectionError
+      |    |    +-- BrokenPipeError
+      |    |    +-- ConnectionAbortedError
+      |    |    +-- ConnectionRefusedError
+      |    |    +-- ConnectionResetError
+      |    +-- FileExistsError
+      |    +-- FileNotFoundError
+      |    +-- InterruptedError
+      |    +-- IsADirectoryError
+      |    +-- NotADirectoryError
+      |    +-- PermissionError
+      |    +-- ProcessLookupError
+      |    +-- TimeoutError    
+      
+      +-- SystemError
+      
+      +-- RuntimeError
+      |    +-- NotImplementedError
+      |    +-- RecursionError
+      
+      +-- MemoryError     
+      +-- BufferError
+               
+Python Warnings
+
+      +-- Warning
+
+           +-- SyntaxWarning
+           +-- UserWarning
+           +-- ImportWarning
+	   
+           +-- UnicodeWarning
+           +-- BytesWarning
+	   
+           +-- RuntimeWarning
+           +-- ResourceWarning
+	   
+           +-- FutureWarning	   
+           +-- DeprecationWarning
+           +-- PendingDeprecationWarning
+           
 ## Python Code Block Examples
+
+<!--
+See also: exceptions and pass statement
+-->
 
 Python structuring
 * colons
@@ -1193,57 +1352,7 @@ class Class:
     def method(self):
         action
 ```
-
-## Exceptions
-
-Two kinds of errors
-* syntax errors
-* logical errors
-
-Traceback
-* 1: file name, line number, module (if applicable)
-* 2: line, ^ (caret) where the error is
-* 3: type of error and description
-     
-Example
-
-```python
-$ python program.py
-  File "program.py", line 3, in <module>
-print 'Hello world! ^
-SyntaxError: EOL while scanning string literal
-```
-
-try-except-else statement
-
-```python
-try:
-    something
-except Exception:
-    do something else
-else:
-    do something else
-```
-
-<!--
-8.4. The try statement
-https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
-https://docs.python.org/3/reference/compound_stmts.html#finally
-
-7.8. The raise statement
-https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement
--->
-
-## pass Statements
-
-Nothing happens when the pass statement executes.
-
-null operation
-4.5. pass Statements
-https://docs.python.org/3/tutorial/controlflow.html#pass-statements
-7.4. The pass statement
-https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
-
+           
 ## Control Flow Statement Examples
 
 if-elif-else statement
@@ -1465,7 +1574,15 @@ https://docs.python.org/3/reference/simple_stmts.html#the-break-statement
 7.10. The continue statement
 https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
 
-## pass Statement
+## pass Statements
+
+Nothing happens when the pass statement executes.
+
+null operation
+4.5. pass Statements
+https://docs.python.org/3/tutorial/controlflow.html#pass-statements
+7.4. The pass statement
+https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
 
 ## range() Function (for Statement for Numbers)
 
