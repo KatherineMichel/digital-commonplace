@@ -261,27 +261,6 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 -->
 
-## Types of Algorithms
-
-<!--
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-Types of Algorithms
-https://www.geeksforgeeks.org/searching-algorithms/
-https://www.geeksforgeeks.org/sorting-algorithms/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/bitwise-algorithms/
-https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
-https://www.geeksforgeeks.org/geometric-algorithms/
-https://www.geeksforgeeks.org/mathematical-algorithms/
-https://www.geeksforgeeks.org/randomized-algorithms/
-https://www.geeksforgeeks.org/game-theory/
--->
-
 ## Algorithmic Dictionaries and Libraries
 
 Algorithm Dictionaries and Libraries
@@ -397,10 +376,11 @@ Linked
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 * [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
 
-Singly-Linked and Doubly-Linked Lists
+Singly-Linked, Doubly-Linked Lists, and Circular Linked List
 * [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 * [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+* Circular Linked List
 
 Hash Table (Python Dictionary, "implements an associative array abstract data type")
 * [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
@@ -423,6 +403,10 @@ Queues
 * [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 * [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
 
+Implementations
+* Queue Using Linked List
+* Queue Using Stack
+
 <!--
 https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
 -->
@@ -433,6 +417,17 @@ Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 <!--
+https://en.wikipedia.org/wiki/Priority_queue
+
+https://en.wikipedia.org/wiki/Tree_(graph_theory)
+https://en.wikipedia.org/wiki/Tree_(data_structure)
+
+Binary Heap (Binary Tree)
+https://en.wikipedia.org/wiki/Binary_heap
+https://en.wikipedia.org/wiki/Binary_tree
+
+https://en.wikipedia.org/wiki/Binary_search_tree
+
 https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
 
 Advanced Data Structures
@@ -452,6 +447,14 @@ https://www.geeksforgeeks.org/heap-data-structure/
 https://www.geeksforgeeks.org/hashing-data-structure/
 -->
 
+## Bit and Binary
+
+<!--
+Bit and Binary
+https://en.wikipedia.org/wiki/Binary_number
+https://www.geeksforgeeks.org/binary-representations-in-digital-logic/
+https://en.wikipedia.org/wiki/Bit_array
+-->
 
 <!--
 https://www.cdn.geeksforgeeks.org/data-structures/#Misc
@@ -508,7 +511,6 @@ Sequential Versus Random (Direct) Access
 * Sequential Access List
 * Random (Direct) Access List
 -->
-
 
 
 ## Algorithmic Paradigms
@@ -608,4 +610,112 @@ https://xlinux.nist.gov/dads/HTML/optimalsoltn.html
 https://en.wikipedia.org/wiki/Order_statistic
 https://en.wikipedia.org/wiki/Merge_algorithm
 https://en.wikipedia.org/wiki/Merge_algorithm#Python
+-->
+
+## Types of Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+Types of Algorithms
+https://www.geeksforgeeks.org/searching-algorithms/
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/bitwise-algorithms/
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.geeksforgeeks.org/geometric-algorithms/
+https://www.geeksforgeeks.org/mathematical-algorithms/
+https://www.geeksforgeeks.org/randomized-algorithms/
+https://www.geeksforgeeks.org/game-theory/
+
+<!--
+http://bigocheatsheet.com/
+
+Types of Optimization
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Combinatorial_optimization
+
+https://en.wikipedia.org/wiki/Iterative_method
+
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
+
+Divide and Conquer Algorithms
+* [Divide and Conquer Algorithms Wikipedia](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms)
+
+https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
+
+https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
+https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+
+
+https://en.wikipedia.org/wiki/Fibonacci_number
+
+
+* [Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Search_algorithm)
+
+<!--
+https://en.wikipedia.org/wiki/Category:Search_algorithms
+https://en.wikipedia.org/wiki/Binary_search_algorithm#Binary_search_versus_other_schemes
+-->
+
+
+Sorting
+* [Sorting Wikipedia](https://en.wikipedia.org/wiki/Sorting)
+* [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
+Sequence Search- Sorted lists
+* [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
+
+Array Sorting Algorithms
+
+http://rosettacode.org/wiki/Category:Sorting_Algorithms
+https://en.wikipedia.org/wiki/Category:Sorting_algorithms
+
+
+Sequence Search
+* [Linear Search Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+* [Selection Algorithm Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
+* [Ternary Search Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
+
+
+https://en.wikipedia.org/wiki/Subsequence | Subsequence - Wikipedia
+https://en.wikipedia.org/wiki/Substring
+
+Subsequence and substring
+* [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
+* [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
+* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
+https://en.wikipedia.org/wiki/N-gram
+
+A word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar
+https://en.wikipedia.org/wiki/Palindrome
+
+A word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once
+https://en.wikipedia.org/wiki/Anagram
+
+Uses every letter of the alphabet once
+https://en.wikipedia.org/wiki/Pangram
+
+https://en.wikipedia.org/wiki/ASCII
+
+
+https://en.wikipedia.org/wiki/Graph_theory
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Graph_algorithms
+
+Graph and tree search algorithms
+https://en.wikipedia.org/wiki/Category:Graph_algorithms
+https://en.wikipedia.org/wiki/Category:Search_algorithms
+https://en.wikipedia.org/wiki/Graph_traversal
+https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
+https://en.wikipedia.org/wiki/Tree_traversal
+
+* [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
+* [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Depth-First Search Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
 -->
