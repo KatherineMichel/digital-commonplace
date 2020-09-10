@@ -57,34 +57,27 @@ https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-cod
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 -->
 
-## Problem Solving
+## Famous
 
 <!--
-Problem solving
-https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
-https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
-https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
+https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
+Secretary Problem
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
 
-https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+http://oeis.org/wiki/Welcome#Some_Famous_Sequences
 
-Dynamic programming problems
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
-https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
--->
+https://en.wikipedia.org/wiki/List_of_numbers
+https://en.wikipedia.org/wiki/List_of_mathematical_constants
+https://en.wikipedia.org/wiki/List_of_types_of_numbers
+https://en.wikipedia.org/wiki/List_of_numeral_systems
 
-<!--
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions	
+https://en.wikipedia.org/wiki/Special_functions | Special functions - Wikipedia
 
-https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
-https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
-
-https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
-
-https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
+https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions | Digital Library of Mathematical Functions - Wikipedia
+https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
+http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255 | NIST Handbook of Mathematical Functions Hardback and CD-ROM - Cambridge University Press
+https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wikipedia
 -->
 
 ## Time Complexity and Optimization-Improvement Methods
@@ -173,6 +166,43 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 <!--
 Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+-->
+
+## Problem Solving
+
+<!--
+Problem solving
+https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
+https://www.geeksforgeeks.org/competitive-programming-conquering-a-given-problem/
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
+https://www.geeksforgeeks.org/problem-solving-methodologies/
+https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
+
+Problem solving
+https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
+https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
+https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+
+Dynamic programming problems
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
+https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
+-->
+
+<!--
+http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+
+https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
+
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
 -->
 
 ## Data
@@ -288,6 +318,15 @@ https://www.geeksforgeeks.org/heap-data-structure/
 https://www.geeksforgeeks.org/hashing-data-structure/
 -->
 
+
+<!--
+https://www.cdn.geeksforgeeks.org/data-structures/#Misc
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/matrix/
+-->
+
 ### Sequences
 
 Sequence
@@ -334,87 +373,6 @@ Sequential Versus Random (Direct) Access
 * [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
 * Sequential Access List
 * Random (Direct) Access List
--->
-
-## Famous
-
-<!--
-https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
-Secretary Problem
-
-
-http://oeis.org/wiki/Welcome#Some_Famous_Sequences
-
-https://en.wikipedia.org/wiki/List_of_numbers
-https://en.wikipedia.org/wiki/List_of_mathematical_constants
-https://en.wikipedia.org/wiki/List_of_types_of_numbers
-https://en.wikipedia.org/wiki/List_of_numeral_systems
-
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions	
-https://en.wikipedia.org/wiki/Special_functions | Special functions - Wikipedia
-
-https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions | Digital Library of Mathematical Functions - Wikipedia
-https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
-http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255 | NIST Handbook of Mathematical Functions Hardback and CD-ROM - Cambridge University Press
-https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wikipedia
--->
-
-## Algorithms
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-
-Lists of Algorithms
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
-<!--
-https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
-
-Algorithm implementations	
-https://en.wikibooks.org/wiki/Algorithm_Implementation
-
-https://en.wikipedia.org/wiki/Category:Algorithms
-
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
--->
-
-## Types of Algorithms
-
-<!--
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-Types of Algorithms
-https://www.geeksforgeeks.org/searching-algorithms/
-https://www.geeksforgeeks.org/sorting-algorithms/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/bitwise-algorithms/
-https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
-https://www.geeksforgeeks.org/geometric-algorithms/
-https://www.geeksforgeeks.org/mathematical-algorithms/
-https://www.geeksforgeeks.org/randomized-algorithms/
-https://www.geeksforgeeks.org/game-theory/
--->
-
-
-
-<!--
-Problem solving
-https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
-https://www.geeksforgeeks.org/competitive-programming-conquering-a-given-problem/
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
-https://www.geeksforgeeks.org/problem-solving-methodologies/
-https://www.geeksforgeeks.org/program-to-solve-the-alligation-problem/
-
-
-https://www.cdn.geeksforgeeks.org/data-structures/#Misc
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/matrix/
 -->
 
 
