@@ -90,15 +90,10 @@ Improvement Methods
 
 Improvement Methods
 * [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
-* [Dynamic Programming Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)
 * [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 * [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 
 <!--
-https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
-https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
 lines of code (loc) versus complexity
 
 https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
@@ -134,6 +129,12 @@ Big O Notation- Terminology
 * [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 
 <!--
+https://en.wikipedia.org/wiki/Asymptotic_analysis
+
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
 https://www.youtube.com/watch?v=duvZ-2UK0fc
 
 https://nedbatchelder.com/text/bigo.html
@@ -653,6 +654,9 @@ https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_pr
 
 
 https://en.wikipedia.org/wiki/Fibonacci_number
+
+https://en.wikipedia.org/wiki/Permutation
+https://en.wikipedia.org/wiki/Combination
 
 
 * [Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Search_algorithm)
