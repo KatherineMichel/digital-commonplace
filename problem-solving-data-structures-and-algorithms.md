@@ -2,14 +2,13 @@
 
 <!--
 Anthony
-default dict counter sets - Google Search
+default dict counter sets
+https://docs.python.org/3/library/stdtypes.html?highlight=range#ranges
 
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
 -->
 
 ## Coding Practice
-
-* [100 Days of Code](http://www.100daysofcode.com)
 
 Math/Programming Problems and Projects
 * [Project Euler Problems](http://projecteuler.net/problems) 
@@ -50,9 +49,6 @@ Python Challenges
 * [Python Morsels](https://www.pythonmorsels.com)
 
 <!--
-Python projects
-https://t.co/rzvAPV1wXl | https://glitch.com/@python
-
 https://github.com/jackfrued/Python-100-Days | jackfrued/Python-100-Days: Python - 100天从新手到大师
 
 https://github.com/pybites/challenges | pybites/challenges: PyBites Code Challenges
@@ -177,14 +173,6 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 <!--
 Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
--->
-
-## Algorithms and Data Structures
-
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
-
-<!--
-https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 -->
 
 ## Data
