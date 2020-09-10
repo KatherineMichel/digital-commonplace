@@ -2318,24 +2318,19 @@ https://en.wikipedia.org/wiki/Finite-state_machine
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 -->
 
-
 <!--
+https://github.com/zedr/clean-code-python
+
 * [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
 
 https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
 https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
 https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
 
-https://github.com/zedr/clean-code-python
-
 https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-
-Code challenges
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
 -->
+
 
 
 ## Algorithms- Books 
@@ -2367,6 +2362,53 @@ http://adit.io/errata.html
 https://www.manning.com/books/grokking-algorithms
 -->
 
+## Algorithms
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+
+Lists of Algorithms
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+<!--
+https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+
+Algorithm implementations	
+https://en.wikibooks.org/wiki/Algorithm_Implementation
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+-->
+
+## Algorithms and Data Structures
+
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+<!--
+https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
+-->
+
+## Types of Algorithms
+
+<!--
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+Types of Algorithms
+https://www.geeksforgeeks.org/searching-algorithms/
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/bitwise-algorithms/
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.geeksforgeeks.org/geometric-algorithms/
+https://www.geeksforgeeks.org/mathematical-algorithms/
+https://www.geeksforgeeks.org/randomized-algorithms/
+https://www.geeksforgeeks.org/game-theory/
+-->
 
 ## Algorithmic Dictionaries and Libraries
 
@@ -2404,24 +2446,25 @@ https://github.com/marcosfede/algorithms | marcosfede/algorithms: Solved algorit
 https://github.com/kojino/data-structures-algorithms
 https://github.com/stefan-jansen/python-algorithms | stefan-jansen/python-algorithms: Collection of algorithm implementations from various sources plus own creations.
 
+JavaScript
+https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
+https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
+
 https://www.youtube.com/user/AlgoRythmics/videos | AlgoRythmics - YouTube - YouTube
 https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
 -->
 
 
 <!--
-Algos
-
-JS
-https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
-https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
-
 https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
-
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
+
+Code challenges
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
 -->
 
 ## Programming Language Comparisons
