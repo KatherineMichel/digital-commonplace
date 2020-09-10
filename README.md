@@ -2303,13 +2303,6 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern 
   
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
--->
-
-<!--
-https://github.com/zedr/clean-code-python
-
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
 
 https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
@@ -2323,11 +2316,103 @@ https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
 
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+
+<!--
+* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
+
+https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
+https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
+https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+
+https://github.com/zedr/clean-code-python
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+
+Code challenges
+https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
+-->
+
+
+## Algorithms- Books 
+ 
+James Damore Coding Competition Books
+* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
+* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+
+* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
+
+<!--
+http://www.algorist.com/languages/Python.html
+http://www.algorist.com/languages/JavaScript.html
+
+The Algorithm Design Manual
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
+-->
+
+More Algorithms Books- Python
+* [Data Structures and Algorithms in Python (Goodrich, Tamassia, Goldwasser)](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+
+More Algorithms Books- General
+* [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
+
+<!--
+Grokking
+http://adit.io/errata.html
+https://www.manning.com/books/grokking-algorithms
+-->
+
+
+## Algorithmic Dictionaries and Libraries
+
+Algorithm Dictionaries and Libraries
+* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
+ 
+<!--
+https://www.scriptol.com/programming/list-algorithms.php
+https://github.com/OpenGenus/cosmos#cosmic-structure
+
+https://github.com/andyttran/guide_to_algorithms | andyttran/guide_to_algorithms: A guide to get started in algorithms
+
+Awesome Python Algorithms
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms) 
+
+https://github.com/tayllan/awesome-algorithms | tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.
+
+???
+Awesome Algorithms
+https://github.com/gaerae/awesome-algorithms | gaerae/awesome-algorithms: A curated list to learning and practicing about algorithm.
+
+https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
+https://github.com/stacygohyunsi/algorithms-primer
+
+https://github.com/TheAlgorithms/Project-Euler | TheAlgorithms/Project-Euler: A collection of solved Project Euler problems in various programming languages.
+
+Python
+https://github.com/AnthonyDiGirolamo/algorithms-in-python | AnthonyDiGirolamo/algorithms-in-python: Implementing and testing some algorithms in python (and ruby).
+https://github.com/gcallah/algorithms | gcallah/algorithms: A project to implement the algorithms from Introduction to Algorithms (Cormen, Leiserson, Rivest, and Stein) in Python, Ruby and other programming languages.
+https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
+https://github.com/prakhar1989/Algorithms | prakhar1989/Algorithms: Data Structures and Algorithms in Python
+https://github.com/orsinium/textdistance | orsinium/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface.
+https://github.com/marcosfede/algorithms | marcosfede/algorithms: Solved algorithms and data structures problems in many languages
+https://github.com/kojino/data-structures-algorithms
+https://github.com/stefan-jansen/python-algorithms | stefan-jansen/python-algorithms: Collection of algorithm implementations from various sources plus own creations.
+
+https://www.youtube.com/user/AlgoRythmics/videos | AlgoRythmics - YouTube - YouTube
+https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
+-->
 
 
 <!--
 Algos
 
+JS
 https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/string/longest-common-substring | javascript-algorithms/src/algorithms/string/longest-common-substring at master · trekhleb/javascript-algorithms
 https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 
@@ -2337,8 +2422,6 @@ https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
-
-https://github.com/andyttran/guide_to_algorithms
 -->
 
 ## Programming Language Comparisons
