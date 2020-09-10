@@ -657,10 +657,9 @@ https://en.wikipedia.org/wiki/Fibonacci_number
 
 * [Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Search_algorithm)
 
-<!--
+
 https://en.wikipedia.org/wiki/Category:Search_algorithms
 https://en.wikipedia.org/wiki/Binary_search_algorithm#Binary_search_versus_other_schemes
--->
 
 
 Sorting
