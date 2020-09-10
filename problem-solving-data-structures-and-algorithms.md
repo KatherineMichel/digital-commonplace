@@ -1,52 +1,17 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
-Code challenges
-https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
 
 Secretary Problem
-
-
-Courses and practice
-https://leetcode.com
-https://www.hackerrank.com/home
-https://www.hackerrank.com/challenges/capitalize/problem
-
-Problem solving
-https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
-https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
-https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
-
-https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
-https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
-
-https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
-
 
 Anthony
 default dict counter sets - Google Search
 
+https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
+
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
 
 https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
-
-* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
-
-https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
-https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
-https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
-
-https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
-https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
-http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
-https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
-https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
-https://twitter.com/moshezadka/status/1260611595660439552 | Moshe Zadka on Twitter: "Reminder: coming today 8pm" / Twitterhttps://twitter.com/PolkPhebe/status/1260610995401003008 | Phebe Polk on Twitter: "@moshezadka @AlSweigart Coming up this Sunday! Can I get a retweet to help get the word out?" / Twitter
 -->
 
 ## Coding Practice
@@ -62,6 +27,10 @@ Practice
 * [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
 
 <!--
+https://www.hackerrank.com/challenges/capitalize/problem
+
+https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
+
 https://github.com/jackfrued/Python-100-Days | jackfrued/Python-100-Days: Python - 100天从新手到大师
 https://github.com/pybites/challenges | pybites/challenges: PyBites Code Challenges
 
@@ -97,36 +66,34 @@ https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-cod
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 -->
 
-## Interviewing
+## Problem Solving
 
 <!--
+Problem solving
+https://en.m.wikipedia.org/wiki/George_P%C3%B3lya | George Pólya - Wikipedia
+https://twitter.com/DynamicWebPaige/status/1066470554897547266 | 👩‍💻 DynamicWebPaige 🔜 #NeurIPS2019 on Twitter: ""If you wish to become a problem solver, you have to solve problems." Polya is ♥️. https://t.co/VxWbPc6mHe ("How to Solve It" = also ✨👍✨) https://t.co/95D4ufpqNP" / Twitter
+https://en.wikipedia.org/wiki/How_to_Solve_It | How to Solve It - Wikipedia
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/readings/book.pdf | The art of approximation in science and engineering
+
+https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2 | How to think like a programmer — lessons in problem solving
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81 | How to Learn Anything – freeCodeCamp.org
+
+Dynamic programming problems
+https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve a Dynamic Programming Problem ? - GeeksforGeeks
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
 
 <!--
-http://blog.interviewing.io
-http://blog.interviewing.io/lessons-from-3000-technical-interviews/ | Lessons from 3,000 technical interviews… or how what you do after graduation matters way more than where you went to school – interviewing.io blog
-http://blog.interviewing.io/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire/ | Engineers can’t gauge their own interview performance. And that makes them harder to hire. – interviewing.io blog
-
-https://www.quora.com/Which-is-better-HackerRank-or-GeeksForGeeks-for-interview-preparation
-
-https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8 | ACM-ICPC Live Archive
-
-https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
-http://blog.triplebyte.com/how-to-interview-engineers
-https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
 http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
+
+https://github.com/careercup/CtCI-6th-Edition-Python | careercup/CtCI-6th-Edition-Python: Cracking the Coding Interview 6th Ed. Python Solutions
+https://github.com/careercup/CtCI-6th-Edition-JavaScript | careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed. JavaScript Solutions
+
 https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836 | Amazon.com: Elements of Programming Interviews: The Insiders' Guide (9781479274833): Adnan Aziz, Tsung-Hsien Lee, Amit Prakash: Books
 
 https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
-
-https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
-
-https://github.com/donnemartin/interactive-coding-challenges
 -->
 
 ## Time Complexity and Optimization-Improvement Methods
@@ -144,6 +111,10 @@ Improvement Methods
 * [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 
 <!--
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
 lines of code (loc) versus complexity
 
 https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
@@ -248,71 +219,6 @@ List of Data Structures and Comparison of Data Structures
 https://www.geeksforgeeks.org/abstract-data-types/
 
 * [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
-
-Advanced Data Structures
-https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
-
-Data Structures
-https://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/
-https://www.geeksforgeeks.org/array-data-structure/
-https://www.geeksforgeeks.org/data-structures/linked-list/
-https://www.geeksforgeeks.org/stack-data-structure/
-https://www.geeksforgeeks.org/queue-data-structure/
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/
-https://www.geeksforgeeks.org/binary-tree-data-structure/
-https://www.geeksforgeeks.org/binary-search-tree-data-structure/
-https://www.geeksforgeeks.org/heap-data-structure/
-https://www.geeksforgeeks.org/hashing-data-structure/
--->
-
-<!--
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
-
-Stack
-* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
-* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
-* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
-* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
-* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
-
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-
-* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
-* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
-
-Dynamic Data Structures
-https://en.wikipedia.org/wiki/Dynamization
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-* Sequential Access List
-* Random (Direct) Access List
--->
-
-### Sequences
-
-Sequence
-* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
-
-Types of order
-* [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
-* [Lexicographical Order (Alphabetical Order) Wikipedia](https://en.wikipedia.org/wiki/Lexicographical_order)
-* [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
-* [Numerical Order Wikipedia](https://en.wikipedia.org/wiki/Numerical_order)
-* [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
-
-String
-* [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
-
-<!--
-Also, examples of sequences
-https://en.wikipedia.org/wiki/Sequence
-https://en.wikipedia.org/wiki/Sequence#Analysis
-
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
 -->
 
 ### Linear Data Structures
@@ -329,12 +235,17 @@ List (Sequence)
 * Linear: stack and queue
 * Non-Linear: graph and tree
 
-### Arrays and Lists
+### Strings, Arrays, and Lists
+
+String
+* [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
 
 Contiguous versus Linked Data Structures
 * [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
 * [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
 * [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+
+Linked
 * [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 * [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
@@ -373,6 +284,72 @@ https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
 
 Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+<!--
+Advanced Data Structures
+https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
+
+Data Structures
+https://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/
+https://www.geeksforgeeks.org/array-data-structure/
+https://www.geeksforgeeks.org/data-structures/linked-list/
+https://www.geeksforgeeks.org/stack-data-structure/
+https://www.geeksforgeeks.org/queue-data-structure/
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/
+https://www.geeksforgeeks.org/binary-tree-data-structure/
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+https://www.geeksforgeeks.org/heap-data-structure/
+https://www.geeksforgeeks.org/hashing-data-structure/
+-->
+
+### Sequences
+
+Sequence
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+
+Types of order
+* [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
+* [Lexicographical Order (Alphabetical Order) Wikipedia](https://en.wikipedia.org/wiki/Lexicographical_order)
+* [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
+* [Numerical Order Wikipedia](https://en.wikipedia.org/wiki/Numerical_order)
+* [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
+
+<!--
+Also, examples of sequences
+https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/Sequence#Analysis
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
+-->
+
+
+<!--
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
+Stack
+* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
+* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
+
+* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
+
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+
+* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
+* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
+
+Dynamic Data Structures
+https://en.wikipedia.org/wiki/Dynamization
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+* Sequential Access List
+* Random (Direct) Access List
+-->
 
 ## Famous
 
@@ -433,74 +410,6 @@ https://www.geeksforgeeks.org/randomized-algorithms/
 https://www.geeksforgeeks.org/game-theory/
 -->
 
-## Algorithms- Books 
- 
-James Damore Coding Competition Books
-* [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
-* [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
-
-* [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
-
-<!--
-http://www.algorist.com/languages/Python.html
-http://www.algorist.com/languages/JavaScript.html
-
-The Algorithm Design Manual
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
--->
-
-More Algorithms Books- Python
-* [Data Structures and Algorithms in Python (Goodrich, Tamassia, Goldwasser)](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
-
-More Algorithms Books- General
-* [Introduction to Algorithms Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
-
-<!--
-Grokking
-http://adit.io/errata.html
-https://www.manning.com/books/grokking-algorithms
--->
-
-## Algorithmic Dictionaries and Libraries
-
-Algorithm Dictionaries and Libraries
-* [Open Genus Cosmos](https://github.com/opengenus/cosmos)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) and [Dictionary of Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/Dictionary_of_Algorithms_and_Data_Structures)
- 
-<!--
-https://www.scriptol.com/programming/list-algorithms.php
-https://github.com/OpenGenus/cosmos#cosmic-structure
-
-https://github.com/andyttran/guide_to_algorithms | andyttran/guide_to_algorithms: A guide to get started in algorithms
-
-Awesome Python Algorithms
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms) 
-
-https://github.com/tayllan/awesome-algorithms | tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.
-
-???
-Awesome Algorithms
-https://github.com/gaerae/awesome-algorithms | gaerae/awesome-algorithms: A curated list to learning and practicing about algorithm.
-
-https://algorithmia.com/ | Algorithmia - Open Marketplace for Algorithms
-https://github.com/stacygohyunsi/algorithms-primer
-
-https://github.com/TheAlgorithms/Project-Euler | TheAlgorithms/Project-Euler: A collection of solved Project Euler problems in various programming languages.
-
-Python
-https://github.com/AnthonyDiGirolamo/algorithms-in-python | AnthonyDiGirolamo/algorithms-in-python: Implementing and testing some algorithms in python (and ruby).
-https://github.com/gcallah/algorithms | gcallah/algorithms: A project to implement the algorithms from Introduction to Algorithms (Cormen, Leiserson, Rivest, and Stein) in Python, Ruby and other programming languages.
-https://github.com/keon/algorithms | keon/algorithms: Minimal examples of data structures and algorithms in Python
-https://github.com/prakhar1989/Algorithms | prakhar1989/Algorithms: Data Structures and Algorithms in Python
-https://github.com/orsinium/textdistance | orsinium/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface.
-https://github.com/marcosfede/algorithms | marcosfede/algorithms: Solved algorithms and data structures problems in many languages
-https://github.com/kojino/data-structures-algorithms
-https://github.com/stefan-jansen/python-algorithms | stefan-jansen/python-algorithms: Collection of algorithm implementations from various sources plus own creations.
-
-https://www.youtube.com/user/AlgoRythmics/videos | AlgoRythmics - YouTube - YouTube
-https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
--->
 
 
 <!--
