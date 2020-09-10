@@ -1,20 +1,15 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
-
-Secretary Problem
-
 Anthony
 default dict counter sets - Google Search
 
-https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
-
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
-
-https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
 -->
 
 ## Coding Practice
+
+* [100 Days of Code](http://www.100daysofcode.com)
 
 Math/Programming Problems and Projects
 * [Project Euler Problems](http://projecteuler.net/problems) 
@@ -23,16 +18,12 @@ Practice
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com)
-* [100 Days of Code](http://www.100daysofcode.com)
 * [freeCodeCamp Guide Guide](https://guide.freecodecamp.org/)
 
 <!--
 https://www.hackerrank.com/challenges/capitalize/problem
 
 https://www.codewars.com/ | Train with Programming Challenges/Kata | Codewars
-
-https://github.com/jackfrued/Python-100-Days | jackfrued/Python-100-Days: Python - 100天从新手到大师
-https://github.com/pybites/challenges | pybites/challenges: PyBites Code Challenges
 
 https://www.hackerrank.com/leaderboard
 https://www.hackerrank.com/jobs/search
@@ -61,6 +52,10 @@ Python Challenges
 <!--
 Python projects
 https://t.co/rzvAPV1wXl | https://glitch.com/@python
+
+https://github.com/jackfrued/Python-100-Days | jackfrued/Python-100-Days: Python - 100天从新手到大师
+
+https://github.com/pybites/challenges | pybites/challenges: PyBites Code Challenges
 
 https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python | Explore course: #100DaysOfCode in Python - [Talk Python Training - Python tutorials and courses for developers]
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
@@ -286,6 +281,8 @@ Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 <!--
+https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
+
 Advanced Data Structures
 https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
 
@@ -354,6 +351,10 @@ Sequential Versus Random (Direct) Access
 ## Famous
 
 <!--
+https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
+Secretary Problem
+
+
 http://oeis.org/wiki/Welcome#Some_Famous_Sequences
 
 https://en.wikipedia.org/wiki/List_of_numbers
