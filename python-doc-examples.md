@@ -3,6 +3,16 @@
 <!--
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
+Coding problems
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
+https://docs.python.org/3.10/library/string.html | string — Common string operations — Python 3.10.0a0 documentation
+https://docs.python.org/3/library/array.html | array — Efficient arrays of numeric values — Python 3.8.6rc1 documentation
+https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
+https://docs.python.org/2.3/whatsnew/section-slices.html | 15 Extended Slices
+https://docs.python.org/3.4/library/functions.html?highlight=ord#ord | 2. Built-in Functions — Python 3.4.10 documentation
+https://en.wikipedia.org/wiki/Bit_array | Bit array - Wikipedia
+
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
 https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
 
@@ -43,7 +53,6 @@ https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved Str
 https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
 https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
 https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
 https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
 https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
