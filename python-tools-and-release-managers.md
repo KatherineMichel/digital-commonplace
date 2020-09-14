@@ -3,6 +3,8 @@
 <!--
 Third party
 
+https://github.com/jazzband/django-debug-toolbar
+
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 https://docs.pytest.org/en/stable/ | pytest: helps you write better programs — pytest documentation
 https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
