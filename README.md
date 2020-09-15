@@ -3,23 +3,10 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-September 9-10
-https://eventyay.com/e/8fa7fd14/schedule
-
-September 11-13
-https://www.german-russians.info/
-
-September 16
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
-
-September 18-19
-https://cfp.2020.djangocon.eu/porto/schedule/
-
-October 2-3
-https://2020.pygotham.tv/talks/
-
-
 https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
+
+1 minute breathing exercise
+https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+exercise&oq=brea&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyAggpMggIABCxAxCDATIFCAAQkgMyBQgAEJIDMgUIABCxAzIFCAAQsQMyBQguELEDMgUIABCxAzICCC46CAguELEDEIMBOgIIAEoFCBISATFQ8wpYshBgwiFoAHAAeACAAb0BiAHnBJIBAzAuNJgBAKABAbABCA&sclient=mobile-gws-wiz-hp
 
 https://blog.photoshelter.com/2020/08/sell-photos-with-google-image-licensing/ | Selling Your Photography Just Got Easier with Google Image Licensing - PhotoShelter Blog
 
@@ -29,6 +16,12 @@ https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
+
+https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
+https://twitter.com/MissGallo/status/1302625930037395456
+https://twitter.com/nibrasibn/status/1302254751011213314
+https://twitter.com/mkobach/status/1305329747006754817
+https://twitter.com/jowyang/status/1297923146050199552
 
 Progress
 https://twitter.com/polotek/status/1294150617389121536
@@ -56,12 +49,19 @@ https://todoist.com/
 https://calendly.com/ | Free Online Appointment Scheduling Software - Calendly
 https://carrd.co/ | Carrd - Simple, free, fully responsive one-page sites for pretty much anything
 
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
 Narrative
 https://www.andysparks.co/ | Andy Sparks—Home
 
 https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/ | Set up a Paid Newsletter at Your Own Domain
-https://github.com/KatherineMichel/Lyra | KatherineMichel/Lyra: A paid-members theme for Ghost
+https://github.com/TryGhost/Lyra | A paid-members theme for Ghost
 https://ghost.org/about/ | About Ghost - The Open Source Publishing Platform
+
 
 Content
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
@@ -93,8 +93,53 @@ https://summerofcode.withgoogle.com/organizations/ | Organizations | Google Summ
 
 https://twitter.com/thoward37/status/1286752245736865792 | Troy Howard / Executive Chef for Antifa on Twitter: "@kathleencodes -Who are your customers and what are they trying to accomplish? -Did you schedule time to write docs in your development plan? -What do you see as the distinction between these two things? -Can this be immutable?" / Twitter
 
+
 Conference friends
 https://twitter.com/jonafato/status/1245443151420104704
+
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+September 9-10
+https://eventyay.com/e/8fa7fd14/schedule
+
+September 11-13
+https://www.german-russians.info/
+
+September 16
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
+
+September 18-19
+https://cfp.2020.djangocon.eu/porto/schedule/
+
+October 2-3
+https://2020.pygotham.tv/talks/
+
+
+https://nuzzel.com/friendsfeeds
+
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
+https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
+
+https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
+
+Event
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
+
+SF Python
+https://www.meetup.com/sfpython/
+https://www.youtube.com/c/SFPython/videos
+
+https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
+https://twitter.com/sfdjangomeetup
+https://twitter.com/sfdjangomeetup/status/1288711058639601664
+https://twitter.com/sfdjangomeetup/following
+
+https://twitter.com/pyladiessf
+
+https://www.meetup.com/pythonsd/
+
 
 PyCon
 https://us.pycon.org/2020/remote/
@@ -122,31 +167,14 @@ https://www.scipy2020.scipy.org/schedule
 
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
-
-SF Python
-https://www.meetup.com/sfpython/
-https://www.youtube.com/c/SFPython/videos
-
-https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
-https://twitter.com/sfdjangomeetup
-https://twitter.com/sfdjangomeetup/status/1288711058639601664
-https://twitter.com/sfdjangomeetup/following
-
-https://twitter.com/pyladiessf
-
-https://www.meetup.com/pythonsd/
-
 https://github.com/FlaskCon/website | FlaskCon/website
 https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
-
-https://mybuild.microsoft.com/
-https://aws.amazon.com/events/aws-innovate/
 
 https://githubsatellite.com/
 https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
 https://git-merge.com/ | Git Merge 2018 — March, Barcelona
 
-https://www.defcon.org/html/defcon-26/dc-26-schedule.html | DEF CON® 26 Hacking Conference Schedule
+https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
 
 CHAOSS
 
@@ -162,25 +190,9 @@ https://events.linuxfoundation.org/open-source-summit-europe/register/ | Registe
 
 https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
 
-https://www.ces.tech/
-https://www.webbyawards.com/
-
-https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
-
-https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
-
-https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
-
-https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
-
-Public Speaking
-https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
-
 https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
 http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
 https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
-
-https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
 
 Vicky
 https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
@@ -192,7 +204,23 @@ https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
 https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here - August 26, 2020 | GitLab
 https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
 
+
+https://mybuild.microsoft.com/
+https://aws.amazon.com/events/aws-innovate/
+
+https://www.defcon.org/html/defcon-26/dc-26-schedule.html | DEF CON® 26 Hacking Conference Schedule
+
+https://www.ces.tech/
+https://www.webbyawards.com/
+
+https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
+
+
+https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
+
 https://github.com/eda3/pyconjp2020-slackbot | eda3/pyconjp2020-slackbot
+
+https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
 
 
 https://www.devrelcon.net/
@@ -203,9 +231,6 @@ https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositori
 
 DevRel List
 https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
 
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
@@ -224,37 +249,10 @@ https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-
 https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
 
-https://github.com/KatherineMichel/100-days-of-code
-https://github.com/KatherineMichel/digital-commonplace/edit/master/problem-solving-data-structures-and-algorithms.md
-
-Repo
-https://github.com/KatherineMichel/setting-up-an-open-source-project
-
-https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
-
-Event
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
-
-https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-Twitter sentiment analysis
-https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
-
-https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets	
-
-https://twitter.com/jowyang/status/1297923146050199552
-
 ## Website and Blog Resources
 ## Shortcuts
 ## Visual Studio Code
 ## GitHub and VS Code Integration
-
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
 Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
@@ -277,6 +275,10 @@ https://twitter.com/bryanl/status/1295389406866677760
 Vue
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 
+
+--user flag
+https://twitter.com/messages/17009144-101186457
+https://pip.pypa.io/en/stable/user_guide/#user-installs
 
 As CTO
 https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
@@ -309,19 +311,47 @@ Important
 https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
 
-https://nuzzel.com/friendsfeeds
+Public Speaking
+https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
 
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
---user flag
-https://twitter.com/messages/17009144-101186457
-https://pip.pypa.io/en/stable/user_guide/#user-installs
 
 Talks
 https://twitter.com/simonw/status/1300193439573708800
 https://www.meetup.com/KafkaBayArea/events/272643868/
 
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
+https://spookylukey.github.io/django-views-the-right-way/
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+
+Interesting
+https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
+https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
+https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
+https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+
+https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
+https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
+https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
+
+Twitter sentiment analysis
+https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
 
 Twitter
 https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
@@ -342,18 +372,18 @@ https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
 
 https://github.com/nektos/act
 
+GitHub
+https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
 
 
-Resources
-https://github.com/trekhleb/learn-python | trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
+VS Code
+vscode html css support - Google Search
 
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+All repos
+https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
+
+Bash Language
 
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
@@ -362,34 +392,6 @@ Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
 https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Bash Language
-
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
-
-https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-
-https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
-
-GitHub
-https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
-
-VS Code
-vscode html css support - Google Search
-
-All repos
-https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
-
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -406,19 +408,6 @@ https://github.com/phodal/growth-in-action
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
 
-Sphinx to Markdown
-https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
-
-Read the Docs
-https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
-https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
-
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
-
-That site design I like
-https://alabaster.readthedocs.io/en/latest/
-https://wsl-guide.kennethreitz.org/en/latest/
-
 
 https://awesomeblog.club/ | Awesomeblog.club - explore
 https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
@@ -426,6 +415,14 @@ https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson 
 http://www.hawraf.com/
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 
 
 Sid
@@ -699,9 +696,6 @@ https://developers.google.com/tech-writing/one
 -->
 
 
-
-
-
 ## Stack
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
@@ -784,56 +778,10 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
-Interesting
-https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
-https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
-https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
-https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-
-https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
-https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
-https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
-
-
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-https://github.com/spookylukey/django-views-the-right-way/tree/master/code
-https://spookylukey.github.io/django-views-the-right-way/
-https://spookylukey.github.io/django-views-the-right-way/detail-view.html
-"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
-
-https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-
-https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-Templates
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-Django Rest Framework
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twitter: "And if you like @restframework here's my starter project for that now configured as a Github template. https://t.co/Hzd6ZWcqlc Once I'm done with https://t.co/35KztBCzVL have a number of updates I want to make to this and DjangoX."
 
 No Starch
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
@@ -862,28 +810,41 @@ https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
 https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
 https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
 
+
 https://startbootstrap.com/templates/shop-homepage/ | Shop Homepage - Bootstrap Ecommerce Store Template - Start Bootstrap
 https://startbootstrap.com/previews/blog-post/ | Blog Post - Template Preview - Start Bootstrap
 https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Guides - Start Bootstrap
 https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
 
+Templates
 
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
 
-Node
-https://expressjs.com/ | Express - Node.js web application framework
-http://www.passportjs.org/ | Passport.js
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
 
-https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
 
-Chrome
-https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
-https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
-https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+Tutorials
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
-https://web.dev/progressive-web-apps/
+https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+
+
+https://github.com/bradtraversy/
+https://www.udemy.com/user/brad-traversy/
+http://www.traversymedia.com
+https://twitter.com/traversymedia
 
 
 Recommendation
@@ -898,44 +859,6 @@ https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twit
 
 Egghead
 https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-
-https://github.com/bradtraversy/
-https://www.udemy.com/user/brad-traversy/
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-
-https://github.com/btholt
-https://github.com/kentcdodds/
-https://github.com/wesbos/
-
-https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
-https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/React-For-Beginners-Starter-Files | wesbos/React-For-Beginners-Starter-Files: Starter files for learning React.js with React for Beginners
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://github.com/wesbos/Advanced-React | wesbos/Advanced-React: Starter Files and Solutions for Full Stack Advanced React and GraphQL
-https://github.com/wesbos/advanced-react-rerecord | wesbos/advanced-react-rerecord: Trying things out. Feel free to follow along
-https://github.com/wesbos/rona | wesbos/rona: React + Next + Hooks API
-https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
-https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
-https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
-
-
-Projects
-https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
-https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
-https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
-https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
-https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
-
-
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 
 
 https://frontendmasters.com
@@ -954,7 +877,40 @@ Front End Masters Handbook
 https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+
+
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+
+Projects
+https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
+https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
+https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
+https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
+https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
+
+
+https://github.com/btholt
+https://github.com/kentcdodds/
+https://github.com/wesbos/
+
+https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/React-For-Beginners-Starter-Files | wesbos/React-For-Beginners-Starter-Files: Starter files for learning React.js with React for Beginners
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://github.com/wesbos/Advanced-React | wesbos/Advanced-React: Starter Files and Solutions for Full Stack Advanced React and GraphQL
+https://github.com/wesbos/advanced-react-rerecord | wesbos/advanced-react-rerecord: Trying things out. Feel free to follow along
+https://github.com/wesbos/rona | wesbos/rona: React + Next + Hooks API
+https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
+https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
 -->
+
 
 <!--
 Projects
@@ -965,6 +921,8 @@ https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 
 https://github.com/feldroy | Feldroy
+
+Example projects
 https://github.com/feldroy/everycheese | feldroy/everycheese
 https://github.com/feldroy/django-crash-starter
 https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
@@ -1243,7 +1201,24 @@ Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
 <!-- 
-PWA
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+
+Chrome
+https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
+https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
+https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+
+
+https://web.dev/progressive-web-apps/
+
+Node
+https://expressjs.com/ | Express - Node.js web application framework
+http://www.passportjs.org/ | Passport.js
+
+https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
 
 Glitch
 https://glitch.dev/ | Using Glitch for Developer Relations
@@ -1263,8 +1238,8 @@ https://reactjs.org/docs/getting-started.html | Getting Started – React
 https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
 https://reactnative.dev/docs/getting-started
 
-https://github.com/nextjs-starters/nextjs-starters
 
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 Node API
 https://feathersjs.com/ | Feathers | A framework for real-time applications and REST APIs
@@ -1297,16 +1272,18 @@ Mojombo
 * [Fauna](https://fauna.com/)
 
 <!--
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
 11ty
 https://github.com/11ty/eleventy#major-roadmapped-features | 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
 
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 -->
 
 
