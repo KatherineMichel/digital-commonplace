@@ -877,6 +877,8 @@ https://github.com/pythonsd/test-driven-django-development | pythonsd/test-drive
 https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
+
 https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
@@ -898,7 +900,8 @@ https://twitter.com/wsv3000/status/1137100630072471553 | William Vincent on Twit
 No Starch
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
-https://ehmatthes.github.io/pcc_2e/recommended_reading/recommended_reading/ | Recommended Reading - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
 https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
@@ -1332,6 +1335,10 @@ Mojombo
 * [Fauna](https://fauna.com/)
 
 <!--
+11ty
+https://github.com/11ty/eleventy#major-roadmapped-features | 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
+
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
