@@ -591,8 +591,6 @@ https://developer.atlassian.com
 
 https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
 
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-
 https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
 
 Atlassian Team Playbook
