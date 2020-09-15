@@ -824,6 +824,15 @@ https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching ne
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
 https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
 
+https://github.com/feldroy | Feldroy
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+
 
 Tutorials
 https://tutorial.djangogirls.org/en/ | Introduction · HonKit
@@ -920,15 +929,7 @@ https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-reposito
 https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
 https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 
-https://github.com/feldroy | Feldroy
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
-
+Every Cheese
 
 Cookiecutter
 https://twitter.com/nthapen/status/1240936897234513921
@@ -1193,6 +1194,9 @@ Express (based on Sinatra)
 React
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 
+Create React App
+* [Create React App GitHub](https://github.com/facebook/create-react-app)
+
 Facebook- React Native
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
@@ -1215,8 +1219,8 @@ https://web.dev/progressive-web-apps/
 Node
 https://expressjs.com/ | Express - Node.js web application framework
 http://www.passportjs.org/ | Passport.js
+https://parceljs.org/
 
-https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
 https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
 
 
@@ -1288,9 +1292,6 @@ https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/cri
 
 
 ## Templates
-
-Create React App
-* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
 
 <!--
 https://github.com/DrkSephy/django-hackathon-starter
