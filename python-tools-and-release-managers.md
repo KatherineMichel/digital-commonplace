@@ -1,23 +1,9 @@
 # Python Tools and Release Managers
 
 <!--
-Simon
-https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings
-https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
-https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
+Third party tools
 
-Simon- Automate release notes
-https://twitter.com/HamelHusain/status/1301951834723028992 | Hamel Husain on Twitter: "@simonw : @jeremyphoward and myself are interested in how you automate your release notes. I think? you wrote about this recently? Do you mind re-sharing this? (I tried searching but perhaps wasn't using the right keywords)" / Twitter
-https://twitter.com/simonw/status/1301980202960994304 | Simon Willison on Twitter: "@jeremyphoward @HamelHusain I suck all of the issues, issue comments, commits and PRs from all of my GitHub repositories into one SQLite database using https://t.co/PbhLyR3vve which is really useful for running queries across all my projects at once" / Twitter
-https://twitter.com/simonw/status/1301952427873034240 | Simon Willison on Twitter: "@HamelHusain @jeremyphoward I don't fully automate mine but I start by clicking the "commits since last release" link in the GitHub releases page https://t.co/9MZ0OJFJYx - then turn that into bullet points" / Twitter
-
-Simon's template
-https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
-https://twitter.com/simonw/status/1302806418421030912 | Simon Willison on Twitter: "Made myself another cookiecutter template this morning - this one sets up new open source Python libraries based on my preferred way of doing that (with Github Actions CI for both running tests and publishing the package to PyPI) https://t.co/SsjROare3e" / Twitter
-
-Fastmac
-https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
-https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
 https://pyformat.info/ | PyFormat: Using % and .format() for great good!
 
@@ -69,6 +55,40 @@ https://github.com/django-extensions/django-extensions | django-extensions/djang
 
 https://pypi.org/project/django-countries/ | django-countries · PyPI
 https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
+-->
+
+<!--
+Simon
+https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings
+https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
+https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
+
+Simon- Automate release notes
+https://twitter.com/HamelHusain/status/1301951834723028992 | Hamel Husain on Twitter: "@simonw : @jeremyphoward and myself are interested in how you automate your release notes. I think? you wrote about this recently? Do you mind re-sharing this? (I tried searching but perhaps wasn't using the right keywords)" / Twitter
+https://twitter.com/simonw/status/1301980202960994304 | Simon Willison on Twitter: "@jeremyphoward @HamelHusain I suck all of the issues, issue comments, commits and PRs from all of my GitHub repositories into one SQLite database using https://t.co/PbhLyR3vve which is really useful for running queries across all my projects at once" / Twitter
+https://twitter.com/simonw/status/1301952427873034240 | Simon Willison on Twitter: "@HamelHusain @jeremyphoward I don't fully automate mine but I start by clicking the "commits since last release" link in the GitHub releases page https://t.co/9MZ0OJFJYx - then turn that into bullet points" / Twitter
+
+Simon's template
+https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
+https://twitter.com/simonw/status/1302806418421030912 | Simon Willison on Twitter: "Made myself another cookiecutter template this morning - this one sets up new open source Python libraries based on my preferred way of doing that (with Github Actions CI for both running tests and publishing the package to PyPI) https://t.co/SsjROare3e" / Twitter
+
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+
+
+Sphinx to Markdown
+https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
+
+Read the Docs
+https://twitter.com/pganssle/status/1272560627773513729 | Paul Ganssle on Twitter: "PSA: readthedocs has launched a feature to build project documentation on PR; it's exactly what I've always wanted! Go to Admin &gt; Advanced Settings to enable "Build pull requests for this project". It generates a status hook on every PR. So convenient! https://t.co/0uFheaiTC1 https://t.co/JzqvAJp147" / Twitter
+https://twitter.com/pganssle/status/1271878489172516864 | Paul Ganssle on Twitter: "Potential reviewers: note the readthedocs status hook, which is a super awesome feature that builds and hosts the docs for each PR. The migration guide for this PR is here: https://t.co/a2W2eK7i5v" / Twitter
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
+That site design I like
+https://alabaster.readthedocs.io/en/latest/
+https://wsl-guide.kennethreitz.org/en/latest/
 
 
 https://github.com/OAI/OpenAPI-Specification
@@ -220,8 +240,6 @@ Python
 Django self-update
 https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
 https://pyup.io/safety/
-
-https://pyformat.info/
 -->
 
 ## Companies that Use Python
