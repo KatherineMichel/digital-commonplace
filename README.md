@@ -532,6 +532,8 @@ Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
 -->
 
+## Eldarion
+
 ## Good Habits
 
 <!--
@@ -541,6 +543,67 @@ https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
+
+## Engineering Performance Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://devchecklists.com
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+-->
+
+## Stuff
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
+
+<!--
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+
+https://developer.atlassian.com
+
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
+-->
+
+
 
 ## Python- What's New
 
@@ -596,124 +659,6 @@ Python- Official Packaging Info
 * [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 
-## Eldarion
-
-<!--
-Eldarion projects
-
-https://github.com/eldarion/srs-lang/
-https://github.com/perseids-project/
-
-https://github.com/jacobwegner | jacobwegner (Jacob Wegner) / Followers
-https://github.com/paltman | paltman (Patrick Altman) / Following
-https://github.com/jtauber | jtauber (James Tauber) / Following
-james harrington
-
-https://dalme.org/ | DALME – The Documentary Archaeology of Late Medieval Europe
-
-https://github.com/Hedera-Lang-Learn/hedera
-
-https://github.com/eldarion-client/digital-sira
-
-https://scaife.perseus.org/about/ | Scaife Viewer | About the Scaife Viewer
-https://scaife-viewer.org/ | The Scaife Viewer Project
-https://github.com/scaife-viewer
-https://github.com/scaife-viewer/scaife-viewer | scaife-viewer/scaife-viewer: new reading environment for version 5.0 of the Perseus Digital Library
-https://github.com/scaife-viewer/scaife-skeleton | scaife-viewer/scaife-skeleton: a layout component library for building Scaife Readers
-
-https://greek-learner-texts.org/
-
-http://www.perseus.tufts.edu/
-https://sites.tufts.edu/perseusupdates/
-https://github.com/PerseusDL | PerseusDL
-
-https://digitaltolkien.com/about/
-https://digitaltolkien.com/
-https://github.com/digitaltolkien/
-
-https://github.com/deep-philology/dts-viewer | deep-philology/dts-viewer
-https://github.com/deep-philology/DeepVocabulary | deep-philology/DeepVocabulary: vocabulary server (mostly for Perseus but also standalone)
-https://github.com/deep-philology/DeepReader | deep-reader/DeepReader: a highly modular, Vue.js-based framework designed for building online reading environments for deep reading of texts with rich annotations and integrated learning tools
--->
-
-## Stuff
-
-Joel Spolsky
-* [Joel on Software](https://www.joelonsoftware.com/)
-* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
-
-Basecamp Product
-* [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
-
-<!--
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-https://blog.codinghorror.com/doing-terrible-things-to-your-code/
-
-https://developer.atlassian.com
-
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
-
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
-
-Atlassian Team Playbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-https://www.atlassian.com/team-playbook/examples
--->
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
-## Engineering Performance Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://devchecklists.com
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
 ## Roadmaps
 
 <!--
@@ -752,6 +697,9 @@ https://developers.google.com/style/
 https://developers.google.com/tech-writing
 https://developers.google.com/tech-writing/one
 -->
+
+
+
 
 
 ## Stack
@@ -836,16 +784,6 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
-Project repos
-https://github.com/KatherineMichel/lead-manager-react-django
-https://github.com/KatherineMichel/javascript-playground | KatherineMichel/javascript-playground
-https://github.com/KatherineMichel/simple-pinax | KatherineMichel/simple-pinax
-https://github.com/KatherineMichel/github-action-scraper | KatherineMichel/github-action-scraper
-https://github.com/KatherineMichel/search-tweets/blob/master/fetch.py | search-tweets/fetch.py at master · KatherineMichel/search-tweets
-https://github.com/KatherineMichel/scrapy
-https://github.com/KatherineMichel/api
-https://github.com/KatherineMichel/travel-organizer
-
 Interesting
 https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
 https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
@@ -1019,6 +957,8 @@ https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015
 -->
 
 <!--
+Projects
+
 Git Remote
 https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
 https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
@@ -1030,6 +970,7 @@ https://github.com/feldroy/django-crash-starter
 https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
 https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+
 
 Cookiecutter
 https://twitter.com/nthapen/status/1240936897234513921
@@ -1045,6 +986,7 @@ https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
 https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
 https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
 
+
 Traversy
 https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
@@ -1054,6 +996,7 @@ https://github.com/bradtraversy/modern_portfolio
 https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
 https://breakingbadapi.com/ | The Breaking Bad API
+
 
 https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
 https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
@@ -1209,6 +1152,25 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
 
 ## Deploy
 
