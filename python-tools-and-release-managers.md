@@ -1,9 +1,40 @@
 # Python Tools and Release Managers
 
 <!--
-Third party
+Simon
+https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings
+https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
+https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
 
-https://github.com/jazzband/django-debug-toolbar
+Simon- Automate release notes
+https://twitter.com/HamelHusain/status/1301951834723028992 | Hamel Husain on Twitter: "@simonw : @jeremyphoward and myself are interested in how you automate your release notes. I think? you wrote about this recently? Do you mind re-sharing this? (I tried searching but perhaps wasn't using the right keywords)" / Twitter
+https://twitter.com/simonw/status/1301980202960994304 | Simon Willison on Twitter: "@jeremyphoward @HamelHusain I suck all of the issues, issue comments, commits and PRs from all of my GitHub repositories into one SQLite database using https://t.co/PbhLyR3vve which is really useful for running queries across all my projects at once" / Twitter
+https://twitter.com/simonw/status/1301952427873034240 | Simon Willison on Twitter: "@HamelHusain @jeremyphoward I don't fully automate mine but I start by clicking the "commits since last release" link in the GitHub releases page https://t.co/9MZ0OJFJYx - then turn that into bullet points" / Twitter
+
+Simon's template
+https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
+https://twitter.com/simonw/status/1302806418421030912 | Simon Willison on Twitter: "Made myself another cookiecutter template this morning - this one sets up new open source Python libraries based on my preferred way of doing that (with Github Actions CI for both running tests and publishing the package to PyPI) https://t.co/SsjROare3e" / Twitter
+
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+
+https://pyformat.info/ | PyFormat: Using % and .format() for great good!
+
+https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
+
+Class-based Sites
+https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
+
+https://sphinx-themes.github.io/sphinx-themes.org/ | Sphinx Themes Previews
+https://twitter.com/_tomchristie/status/1298564672354951174 | Tom Christie on Twitter: "I'd love to know folks thoughts on MkDocs vs. Sphinx for the HTTPX docs? https://t.co/zNTUXKnCz8 Wondering if there's a clear consensus at the moment, or if it's a mixed bag?..." / Twitter
+
+pipenv, pipx
+https://github.com/pipxproject/pipx
+https://twitter.com/ken_reitz/status/1296276149014847488 | Ken Reitz on Twitter: "@llanga how?" / Twitter
+
+urllib3
+https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
 
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 https://docs.pytest.org/en/stable/ | pytest: helps you write better programs — pytest documentation
@@ -16,8 +47,15 @@ https://pypi.org/project/pylint/ | pylint · PyPI
 https://pypi.org/project/flake8/ | flake8 · PyPI
 
 https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
-https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
 https://factoryboy.readthedocs.io/en/latest/ | factory_boy — Factory Boy latest documentation
+
+https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
+https://faker.readthedocs.io/en/master/ | Welcome to Faker’s documentation! — Faker 4.1.2 documentation
+https://pypi.org/project/django-faker/ | django-faker · PyPI
+
+https://pypi.org/project/entry-point-inspector/ | entry-point-inspector · PyPI
+
+https://github.com/jazzband/django-debug-toolbar
 
 https://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.9.1 documentation
 https://github.com/django-crispy-forms/django-crispy-forms | django-crispy-forms/django-crispy-forms: The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
