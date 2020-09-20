@@ -1,4 +1,4 @@
-# Python Docs- Basic
+# Python Doc- Basic
 
 ## Enter and Exit the Python Interactive Shell
 
