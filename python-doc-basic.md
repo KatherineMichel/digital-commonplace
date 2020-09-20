@@ -547,6 +547,64 @@ https://docs.python.org/3/library/constants.html#None
 
 NotImplemented
 
+## Built-In Data Type and Data Structure Conversions (Casting)
+
+Return an integer object constructed from a number or string x, or return 0 if no arguments are given. 
+
+```int()```
+
+Return a floating point number constructed from a number or string x.
+
+```float()```
+
+Return a Boolean value, i.e. one of True or False. 
+
+```bool()```
+
+Return a complex number with the value real + imag*1j or convert a string or number to a complex number. 
+
+```complex()```	
+
+Return a str version of object. 
+
+```str()```
+    
+Rather than being a function, list is actually a mutable sequence type.
+
+```list()```
+
+Create a new dictionary. 
+
+```dict()```
+
+Rather than being a function, tuple is actually an immutable sequence type
+
+```tuple()```
+
+Rather than being a function, range is actually an immutable sequence type, 
+
+```range()```
+
+Return a new set object, optionally with elements taken from iterable. 
+
+```set()```
+
+Return a new frozenset object, optionally with elements taken from iterable. frozenset is a built-in class. 
+
+```frozenset()```
+
+Return a new “bytes” object, which is an immutable sequence of integers in the range 0 <= x < 256. 
+
+```bytes()```
+
+Return a new array of bytes. The bytearray class is a mutable sequence of integers in the range 0 <= x < 256. 
+
+```bytearray()```
+
+Return a “memory view” object created from the given argument. 
+
+```memoryview()```
+
 ## Less Common Built-in Functions		
 
 Return the __dict__ attribute for a module, class, instance, or any other object with a __dict__ attribute.
