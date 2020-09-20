@@ -546,3 +546,26 @@ None
 https://docs.python.org/3/library/constants.html#None
 
 NotImplemented
+
+## Less Common Built-in Functions		
+
+Return the __dict__ attribute for a module, class, instance, or any other object with a __dict__ attribute.
+```vars()```
+
+Convert an integer number to a binary string prefixed with “0b”. 
+```bin()```
+
+As repr(), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by repr() 
+```ascii()```
+
+Return the string representing a character whose Unicode code point is the integer i. 
+```chr()```
+
+Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. 
+```hex()```
+
+Convert an integer number to an octal string prefixed with “0o”. 
+```oct()```
+
+Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
+```ord()```
