@@ -81,82 +81,6 @@ Exit the Python help utility
 >>> q
 ```
 
-## Reserved Keywords
-
-<!--
-(See Python Crash Course “Python Keywords and Built-in Functions” on page 489.)
-
-Keywords!
-https://docs.python.org/3/reference/lexical_analysis.html#keywords
--->
-
-```python
-class
-def
-```
-
-```python
-try
-except
-raise
-assert
-```
-
-```python
-for
-while
-else
-if
-elif
-with
-```
-
-```python
-continue
-pass
-break
-```
-
-Boolean
-
-```python
-True
-False
-```
-
-```python
-and
-not
-or
-```
-
-```python
-import
-from
-```
-
-```python
-global
-nonlocal
-```
-
-```python
-async
-await
-```
-
-```python
-None
-as
-del
-finally
-in
-is
-lambda
-return
-yield
-```
-
 ## General
 
 The Zen of Python by Tim Peters
@@ -226,23 +150,6 @@ Whitespace Examples
 * spaces
 * tabs
 * end-of-line symbols
-
-Strip whitespace (right, left, both sides)
-
-```python
-lstrip()
-rstrip()
-strip()
-```
-
-<!--
-String methods
-https://docs.python.org/3.7/library/stdtypes.html#string-methods
-
-https://docs.python.org/3.7/library/stdtypes.html#str.lstrip
-https://docs.python.org/3.7/library/stdtypes.html#str.rstrip
-https://docs.python.org/3.7/library/stdtypes.html#str.strip
--->
 
 String escape
 
@@ -435,79 +342,6 @@ from module import *
 
 function()
 ```
-
-## Example Module File
-
-Attribution
-* [RichardBronosky PEP8 Cheatsheet](https://gist.github.com/RichardBronosky/454964087739a449da04)
-
-```python
-"""This module's multi-line docstring.
-Paragraphs are separated with blank lines.
-Lines conform to 79 character rule.
-1234567891011121314151617181920212223242526272829303132333435363738394041424344
-"""
-
-
-import standard_library  # STD lib imports first, alphabetical
-
-import third_party_library  # 3rd party library imports next, alphabetical
-
-import local_library  # local library imports last
-import library_one, library_two  # anti-pattern
-from library import *  # anti-pattern, including pyflake problem # noqa
-# Using # noqa in the line above avoids flake8 warnings about line length!
-
-
-# 2 empty lines between top-level functions + classes
-def new_function(): # snake_case
-    """Description"""
-    action
-    
-
-class NewClass(object): #CapWords
-    """Description"""
-
-    def __init__(self, attribute):
-        self.attribute = attribute
-
-    # 1 empty line between in-class definitions
-    def new_method(self): # snake_class, always use self as first argument
-        """Description"""
-        action
-
-    @classmethod
-    def new_class_method(cls):
-        """Description"""
-        action
-
-# Newline at end of file
-```
-
-## Arguments and Parameters
-
-Difference between kwargs and zip
-
-Information passed to a function is called an argument
-information received by a function is called a parameter.
-
-Interpreter
-2.1.1. Argument Passing
-https://docs.python.org/3/tutorial/interpreter.html#argument-passing
-sys.argv[0]
-
-4.7.1. Default Argument Values
-https://docs.python.org/3/tutorial/controlflow.html#default-argument-values
-4.7.2. Keyword Arguments
-https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments
-4.7.3. Arbitrary Argument Lists
-https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists
-4.7.4. Unpacking Argument Lists
-https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
-
-positional, keyword
-https://docs.python.org/3/glossary.html#term-argument
-https://docs.python.org/3/glossary.html#term-parameter
 
 ## Operators and Delimiters
 
