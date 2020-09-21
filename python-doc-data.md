@@ -1,4 +1,4 @@
-# Python Docs- Data
+# Python Doc- Data
 
 ## General Notes
 
@@ -104,6 +104,444 @@ https://docs.python.org/3.7/library/stdtypes.html#str.rstrip
 https://docs.python.org/3.7/library/stdtypes.html#str.strip
 -->
 
+<!--
+
+## General Links
+
+https://docs.python.org/3/glossary.html
+
+https://docs.python.org/3/contents.html
+https://docs.python.org/3/genindex.html
+https://docs.python.org/3/py-modindex.html
+
+https://docs.python.org/2/howto/doanddont.html
+
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/reference/introduction.html
+
+https://docs.python.org/3/library
+https://docs.python.org/3/library/index.html
+https://docs.python.org/3/library/intro.html
+
+13. What Now?
+https://docs.python.org/3/tutorial/whatnow.html#what-now
+
+## Tutorial
+
+3. An Informal Introduction to Python
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+https://docs.python.org/3/tutorial/introduction.html#numbers
+https://docs.python.org/3/tutorial/introduction.html#strings
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+Fibonacci series 
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+1. Whetting Your Appetite
+https://docs.python.org/3/tutorial/appetite.html
+
+https://docs.python.org/3/tutorial/appendix.html
+https://docs.python.org/3/tutorial/appendix.html#appendix
+
+Unix
+https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
+https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
+
+https://docs.python.org/3/tutorial/appendix.html#interactive-mode
+https://docs.python.org/3/tutorial/appendix.html#error-handling
+https://docs.python.org/3/reference/compound_stmts.html#try
+https://docs.python.org/3/reference/compound_stmts.html#except
+https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
+https://docs.python.org/3/reference/compound_stmts.html#finally
+https://docs.python.org/3/reference/simple_stmts.html#from
+https://docs.python.org/3/reference/simple_stmts.html#raise
+https://docs.python.org/3/library/constants.html#None
+
+https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
+
+https://docs.python.org/3/tutorial/stdlib.html
+10. Brief Tour of the Standard Library
+https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
+11. Brief Tour of the Standard Library — Part II
+https://docs.python.org/3/tutorial/stdlib2.html
+
+10. Brief Tour of the Standard Library
+https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
+
+10.1. Operating System Interface
+https://docs.python.org/3/library/os.html#module-os
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+https://docs.python.org/3/library/os.html#os.open
+https://docs.python.org/3/library/os.path.html#module-os.path
+https://docs.python.org/3/library/os.path.html#os.path.join
+https://docs.python.org/3/library/shutil.html#module-shutil
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+https://docs.python.org/3/library/glob.html#module-glob
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#module-sys
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+https://docs.python.org/3/library/sys.html#module-sys
+https://docs.python.org/3/library/sys.html#sys.argv
+https://docs.python.org/3/library/sys.html#sys.path
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html#module-re
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html#module-random
+10.7. Internet Access
+https://docs.python.org/3/tutorial/stdlib.html#internet-access
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+https://docs.python.org/3/library/smtplib.html#module-smtplib
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+10.9. Data Compression
+https://docs.python.org/3/tutorial/stdlib.html#data-compression
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+https://docs.python.org/3/library/profile.html#module-profile
+https://docs.python.org/3/library/timeit.html#module-timeit
+https://docs.python.org/3/library/profile.html#module-pstats
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+10.12. Batteries Included
+https://docs.python.org/3/tutorial/stdlib.html#batteries-included
+https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
+https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
+https://docs.python.org/3/library/email.html#module-email
+https://docs.python.org/3/library/smtplib.html#module-smtplib
+https://docs.python.org/3/library/poplib.html#module-poplib
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+https://docs.python.org/3/library/xml.dom.html#module-xml.dom
+https://docs.python.org/3/library/xml.sax.html#module-xml.sax
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+11. Brief Tour of the Standard Library — Part II
+https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string.Template
+11.3. Working with Binary Data Record Layouts
+https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+11.5. Logging
+https://docs.python.org/3/tutorial/stdlib2.html#logging
+https://docs.python.org/3/library/logging.html#module-logging
+11.6. Weak References
+https://docs.python.org/3/tutorial/stdlib2.html#weak-references
+https://docs.python.org/3/glossary.html#term-garbage-collection
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+
+## Standard
+
+https://docs.python.org/3/reference/lexical_analysis.html
+
+https://docs.python.org/3/library/stdtypes.html#internal-objects
+https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
+
+https://docs.python.org/3/library/stdtypes.html#code-objects
+https://docs.python.org/3/library/stdtypes.html#type-objects
+
+https://docs.python.org/3/reference/datamodel.html#types
+https://docs.python.org/3/library/stdtypes.html#built-in-types
+https://docs.python.org/3/library/stdtypes.html#other-built-in-types
+
+https://docs.python.org/3/library/builtins.html
+https://docs.python.org/3/library/functions.html#built-in-funcs
+https://docs.python.org/3/library/constants.html#built-in-consts
+
+https://docs.python.org/3/reference/expressions.html#expression-lists
+https://docs.python.org/3/reference/simple_stmts.html#expression-statements
+https://docs.python.org/3/reference/expressions.html
+
+https://docs.python.org/3/tutorial/modules.html#standard-modules
+
+3.1. Constants added by the site module
+
+Special attribute and method names
+https://docs.python.org/3/glossary.html#term-special-method
+https://docs.python.org/3/reference/datamodel.html#special-method-names
+"Some of these are not reported by the dir() built-in function."
+https://docs.python.org/3/library/stdtypes.html#special-attributes
+https://docs.python.org/3/reference/lexical_analysis.html#reserved-classes-of-identifiers
+
+
+https://docs.python.org/3/glossary.html#term-decorator
+https://docs.python.org/3/glossary.html#term-descriptor
+https://docs.python.org/3/reference/datamodel.html#descriptors
+
+dot notation
+https://docs.python.org/3/library/stdtypes.html#modules
+
+
+## Lexical Analysis
+
+https://en.wikipedia.org/wiki/Lexical_analysis | Lexical analysis - Wikipedia
+
+Lexical Analysis
+https://docs.python.org/3/reference/lexical_analysis.html#logical-lines
+https://docs.python.org/3/reference/lexical_analysis.html#physical-lines
+https://docs.python.org/3/reference/lexical_analysis.html#comments
+https://docs.python.org/3/reference/lexical_analysis.html#encoding-declarations
+https://docs.python.org/3/reference/lexical_analysis.html#explicit-line-joining
+https://docs.python.org/3/reference/lexical_analysis.html#implicit-line-joining
+https://docs.python.org/3/reference/lexical_analysis.html#blank-lines
+https://docs.python.org/3/reference/lexical_analysis.html#indentation
+https://docs.python.org/3/reference/lexical_analysis.html#whitespace-between-tokens
+
+https://docs.python.org/3/reference/lexical_analysis.html#line-structure
+https://docs.python.org/3/reference/lexical_analysis.html#other-tokens
+https://docs.python.org/3/reference/lexical_analysis.html#identifiers
+
+
+## Utilities
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+
+16.5. getopt — C-style parser for command line options
+Not There
+https://docs.python.org/3/library/getopt.html
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+https://docs.python.org/3/library/platform.html#cross-platform
+https://docs.python.org/3/library/platform.html#java-platform
+https://docs.python.org/3/library/platform.html#windows-platform
+https://docs.python.org/3/library/platform.html#mac-os-platform
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/library/os.html#file-names-command-line-arguments-and-environment-variables
+https://docs.python.org/3/library/os.html#process-parameters
+https://docs.python.org/3/library/os.html#file-object-creation
+https://docs.python.org/3/library/os.html#file-descriptor-operations
+https://docs.python.org/3/library/os.html#querying-the-size-of-a-terminal
+https://docs.python.org/3/library/os.html#inheritance-of-file-descriptors
+https://docs.python.org/3/library/os.html#files-and-directories
+https://docs.python.org/3/library/os.html#linux-extended-attributes
+https://docs.python.org/3/library/os.html#process-management
+https://docs.python.org/3/library/os.html#interface-to-the-scheduler
+https://docs.python.org/3/library/os.html#miscellaneous-system-information
+https://docs.python.org/3/library/os.html#random-numbers
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/sys.html#sys.argv
+https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+https://docs.python.org/3/library/sysconfig.html#configuration-variables
+https://docs.python.org/3/library/sysconfig.html#installation-paths
+https://docs.python.org/3/library/sysconfig.html#other-functions
+https://docs.python.org/3/library/sysconfig.html#using-sysconfig-as-a-script
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+
+https://docs.python.org/3/library/pathlib.html#basic-use
+https://docs.python.org/3/library/pathlib.html#pure-paths
+https://docs.python.org/3/library/pathlib.html#general-properties
+https://docs.python.org/3/library/pathlib.html#operators
+https://docs.python.org/3/library/pathlib.html#accessing-individual-parts
+https://docs.python.org/3/library/pathlib.html#methods-and-properties
+https://docs.python.org/3/library/pathlib.html#concrete-paths
+https://docs.python.org/3/library/pathlib.html#methods
+chart
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+https://docs.python.org/3/howto/argparse.html
+
+16.4. argparse — Parser for command-line options, arguments and sub-commands
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/argparse.html#example
+https://docs.python.org/3/library/argparse.html#creating-a-parser
+https://docs.python.org/3/library/argparse.html#adding-arguments
+https://docs.python.org/3/library/argparse.html#parsing-arguments
+https://docs.python.org/3/library/argparse.html#argumentparser-objects
+https://docs.python.org/3/library/argparse.html#prog
+https://docs.python.org/3/library/argparse.html#usage
+https://docs.python.org/3/library/argparse.html#description
+https://docs.python.org/3/library/argparse.html#epilog
+https://docs.python.org/3/library/argparse.html#parents
+https://docs.python.org/3/library/argparse.html#formatter-class
+https://docs.python.org/3/library/argparse.html#prefix-chars
+https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
+https://docs.python.org/3/library/argparse.html#argument-default
+https://docs.python.org/3/library/argparse.html#allow-abbrev
+https://docs.python.org/3/library/argparse.html#conflict-handler
+https://docs.python.org/3/library/argparse.html#add-help
+https://docs.python.org/3/library/argparse.html#the-add-argument-method
+https://docs.python.org/3/library/argparse.html#name-or-flags
+https://docs.python.org/3/library/argparse.html#action
+https://docs.python.org/3/library/argparse.html#nargs
+https://docs.python.org/3/library/argparse.html#const
+https://docs.python.org/3/library/argparse.html#default
+https://docs.python.org/3/library/argparse.html#type
+https://docs.python.org/3/library/argparse.html#choices
+https://docs.python.org/3/library/argparse.html#required
+https://docs.python.org/3/library/argparse.html#help
+https://docs.python.org/3/library/argparse.html#metavar
+https://docs.python.org/3/library/argparse.html#dest
+https://docs.python.org/3/library/argparse.html#action-classes
+https://docs.python.org/3/library/argparse.html#the-parse-args-method
+https://docs.python.org/3/library/argparse.html#option-value-syntax
+https://docs.python.org/3/library/argparse.html#invalid-arguments
+https://docs.python.org/3/library/argparse.html#arguments-containing
+https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
+https://docs.python.org/3/library/argparse.html#beyond-sys-argv
+https://docs.python.org/3/library/argparse.html#the-namespace-object
+https://docs.python.org/3/library/argparse.html#other-utilities
+https://docs.python.org/3/library/argparse.html#sub-commands
+https://docs.python.org/3/library/argparse.html#filetype-objects
+https://docs.python.org/3/library/argparse.html#argument-groups
+https://docs.python.org/3/library/argparse.html#mutual-exclusion
+https://docs.python.org/3/library/argparse.html#parser-defaults
+https://docs.python.org/3/library/argparse.html#printing-help
+https://docs.python.org/3/library/argparse.html#partial-parsing
+https://docs.python.org/3/library/argparse.html#customizing-file-parsing
+https://docs.python.org/3/library/argparse.html#exiting-methods
+https://docs.python.org/3/library/argparse.html#intermixed-parsing
+https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+https://docs.python.org/3/library/shutil.html#directory-and-files-operations
+https://docs.python.org/3/library/shutil.html#copytree-example
+https://docs.python.org/3/library/shutil.html#rmtree-example
+https://docs.python.org/3/library/shutil.html#archiving-operations
+https://docs.python.org/3/library/shutil.html#archiving-example
+https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
+
+
+6.1. string — Common string operations
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string-constants
+https://docs.python.org/3/library/string.html#custom-string-formatting
+https://docs.python.org/3/library/string.html#format-string-syntax
+https://docs.python.org/3/library/string.html#format-specification-mini-language
+https://docs.python.org/3/library/string.html#format-examples
+https://docs.python.org/3/library/string.html#template-strings
+https://docs.python.org/3/library/string.html#helper-functions
+
+Regular Expression HOWTO
+https://docs.python.org/3/howto/regex.html
+
+6.2. re — Regular expression operations
+https://docs.python.org/3/library/re.html#regular-expression-syntax
+https://docs.python.org/3/library/re.html#module-contents
+https://docs.python.org/3/library/re.html#regular-expression-objects
+https://docs.python.org/3/library/re.html#match-objects
+https://docs.python.org/3/library/re.html#regular-expression-examples
+https://docs.python.org/3/library/re.html#checking-for-a-pair
+https://docs.python.org/3/library/re.html#simulating-scanf
+https://docs.python.org/3/library/re.html#search-vs-match
+https://docs.python.org/3/library/re.html#making-a-phonebook
+https://docs.python.org/3/library/re.html#text-munging
+https://docs.python.org/3/library/re.html#finding-all-adverbs
+https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
+https://docs.python.org/3/library/re.html#raw-string-notation
+https://docs.python.org/3/library/re.html#writing-a-tokenizer
+
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+
+Unicode HOWTO
+https://docs.python.org/3/howto/unicode.html
+
+
+HOWTO Fetch Internet Resources Using The urllib Package
+https://docs.python.org/3/howto/urllib2.html
+
+22.5. urllib — URL handling modules
+22.6. urllib.request — Extensible library for opening URLs
+22.7. urllib.response — Response classes used by urllib
+22.8. urllib.parse — Parse URLs into components
+22.9. urllib.error — Exception classes raised by urllib.request
+22.10. urllib.robotparser — Parser for robots.txt
+
+https://docs.python.org/3/library/urllib.html
+https://docs.python.org/3/library/urllib.request.html
+https://docs.python.org/3/library/urllib.request.html#request-objects
+https://docs.python.org/3/library/urllib.request.html#openerdirector-objects
+https://docs.python.org/3/library/urllib.request.html#basehandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpredirecthandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpcookieprocessor-objects
+https://docs.python.org/3/library/urllib.request.html#proxyhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httppasswordmgr-objects
+https://docs.python.org/3/library/urllib.request.html#httppasswordmgrwithpriorauth-objects
+https://docs.python.org/3/library/urllib.request.html#abstractbasicauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpbasicauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#proxybasicauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#abstractdigestauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpdigestauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#proxydigestauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httphandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpshandler-objects
+https://docs.python.org/3/library/urllib.request.html#filehandler-objects
+https://docs.python.org/3/library/urllib.request.html#datahandler-objects
+https://docs.python.org/3/library/urllib.request.html#ftphandler-objects
+https://docs.python.org/3/library/urllib.request.html#cacheftphandler-objects
+https://docs.python.org/3/library/urllib.request.html#unknownhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httperrorprocessor-objects
+https://docs.python.org/3/library/urllib.request.html#examples
+https://docs.python.org/3/library/urllib.request.html#legacy-interface
+https://docs.python.org/3/library/urllib.request.html#urllib-request-restrictions
+https://docs.python.org/3/library/urllib.request.html#module-urllib.response
+
+https://docs.python.org/3/library/urllib.parse.html
+https://docs.python.org/3/library/urllib.parse.html#url-parsing
+https://docs.python.org/3/library/urllib.parse.html#parsing-ascii-encoded-bytes
+https://docs.python.org/3/library/urllib.parse.html#structured-parse-results
+https://docs.python.org/3/library/urllib.parse.html#url-quoting
+
+"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
+
+https://docs.python.org/3/library/urllib.error.html#module-urllib.error
+https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
+-->
 
 ## Kenneth Reitz Advice to Me 
 
