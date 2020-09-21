@@ -67,382 +67,288 @@ https://docs.python.org/3/library/urllib.parse.html
 https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
 -->
 
+## Strings
+
+Strip whitespace (right, left, both sides)
+
+```python
+lstrip()
+rstrip()
+strip()
+```
+
+<!--
+String methods
+https://docs.python.org/3.7/library/stdtypes.html#string-methods
+
+https://docs.python.org/3.7/library/stdtypes.html#str.lstrip
+https://docs.python.org/3.7/library/stdtypes.html#str.rstrip
+https://docs.python.org/3.7/library/stdtypes.html#str.strip
+-->
+
+
 ## Kenneth Reitz Advice to Me 
 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
-## Important Data Questions
+## Example Module File
 
-https://docs.python.org/3/reference/expressions.html#atoms
-https://docs.python.org/3/reference/expressions.html#atom-identifiers
-https://docs.python.org/3/reference/expressions.html#literals
-https://docs.python.org/3/reference/expressions.html#parenthesized-forms
+Attribution
+* [RichardBronosky PEP8 Cheatsheet](https://gist.github.com/RichardBronosky/454964087739a449da04)
 
-Dictionaries, lists, sets
-https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries
-https://docs.python.org/3/reference/expressions.html#list-displays
-https://docs.python.org/3/reference/expressions.html#set-displays
-https://docs.python.org/3/reference/expressions.html#dictionary-displays
+```python
+"""This module's multi-line docstring.
+Paragraphs are separated with blank lines.
+Lines conform to 79 character rule.
+1234567891011121314151617181920212223242526272829303132333435363738394041424344
+"""
 
-https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects
 
-Data Structures
-* Is order important?
-* Does your data need to shrink or grow?
+import standard_library  # STD lib imports first, alphabetical
 
-## Data Types
+import third_party_library  # 3rd party library imports next, alphabetical
 
-Data Types
-* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
+import local_library  # local library imports last
+import library_one, library_two  # anti-pattern
+from library import *  # anti-pattern, including pyflake problem # noqa
+# Using # noqa in the line above avoids flake8 warnings about line length!
 
-https://docs.python.org/3/library/datatypes.html
 
-https://docs.python.org/3/reference/lexical_analysis.html#literals
-Escape sequence chart
-https://docs.python.org/3/reference/lexical_analysis.html#string-and-bytes-literals
-https://docs.python.org/3/reference/lexical_analysis.html#numeric-literals
-https://docs.python.org/3/reference/lexical_analysis.html#integer-literals
-https://docs.python.org/3/reference/lexical_analysis.html#imaginary-literals
-
-## Mutability
-
-* Mutable- individual item can be changed
-* Immutable- individual item cannot be changed
-* Sequence- 
-* Non-Sequence-
-* Iterable-
-
-After change
-* mutable data structure will have same id
-* immutable data structure will have new id
-
-## Data Types and Structures- Primitives 
-
-Methods
-https://docs.python.org/3/library/stdtypes.html#additional-methods-on-integer-types
-https://docs.python.org/3/library/stdtypes.html#additional-methods-on-float
-
-Primitive (a.k.a. atomic data types)
-* integer (numeric)
-* float (numeric)
-* string (sequence, "This is a string.", 'This is also a string.')
-* boolean
-* complex number (numeric)
-
-## Data Types and Structures- User Defined
-
-User Defined
-* list []
-* tuple () or (item,) (singleton)
-* range
-* set {}
-* dictionary {}
-
-## Data Types Categorized by Mutable or Immutable, Sequence or Non-Sequence
-
-<!--
-Sequence/looping
-lists: item
-strings: character
--->
-
-Immutable Sequence Types- Common
-* string (text sequence type, primitive)
-
-Mutable Sequence Types- Common
-* list
-
-Mutable Non-Sequence Types
-* dictionary (built-in mapping/hash table)
-* set
-
-Set Types
-* set
-* frozenset (immutable and hashable)
-
-Immutable Sequence Types- Less Common
-* tuple
-
-Sequence Types
-* range (immutable)
-
-Other Data Structures
-* hashes
-
-## Linear and Non-Linear
-
-Linear Data Structures (left to right, top to bottom)
-* list, stack, queue, deque, array are examples
-
-List (Sequence) Linear and Non-Linear Implementations
-* Linear: stack and queue
-* Non-Linear: graph and tree
-
-<!--
-5.1.1. Using Lists as Stacks
-https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
-
-5.1.2. Using Lists as Queues
-https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
--->
-
-## Data Types
-
-6.3. Primaries
-https://docs.python.org/3/reference/expressions.html#primaries
-
-4.4. Numeric Types — int, float, complex
-https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
-
-4.7. Text Sequence Type — str
-https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
-
-## Binary
-
-Binary Sequence Types
-* bytes (immutable)
-* byte array/bytearray (mutable)
-* memoryview
-
-4.8. Binary Sequence Types — bytes, bytearray, memoryview
-https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview
-
-https://docs.python.org/3/library/stdtypes.html#bytes-objects
-https://docs.python.org/3/library/stdtypes.html#bytearray-objects
-https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
-https://docs.python.org/3/library/stdtypes.html#memory-views
-
-## Strings
-
-Common string operations
-https://docs.python.org/3/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
-
-https://docs.python.org/3/tutorial/introduction.html#strings
-
-https://docs.python.org/3/library/stdtypes.html#str
-
-<!--
-operator overloading
-https://docs.python.org/3/glossary.html#term-coercion
-
-https://docs.python.org/3/reference/lexical_analysis.html#string-literal-concatenation
--->
-
-## Lists
-
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-
-https://docs.python.org/3/library/stdtypes.html#lists
-
-3.1.3. Lists
-https://docs.python.org/3/tutorial/introduction.html#lists
-
-5.1. More on Lists
-https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
-
-## Arrays
-
-array — Efficient arrays of numeric values
-https://docs.python.org/3/library/array.html
-
-bisect — Array bisection algorithm
-https://docs.python.org/3/library/bisect.html
-https://docs.python.org/3/library/bisect.html#searching-sorted-lists
-https://docs.python.org/3/library/bisect.html#other-examples
-
-## Tuples
-
-https://docs.python.org/3/library/stdtypes.html#tuples
-https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
-
-Tuple
-https://docs.python.org/3/glossary.html#term-struct-sequence
-
-## Dictionaries
-
-https://docs.python.org/3/library/stdtypes.html#dict
-
-https://docs.python.org/3/tutorial/datastructures.html#dictionaries
-
-https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
-
-https://docs.python.org/3/glossary.html#term-mapping
-https://docs.python.org/3/glossary.html#term-hashable
-
-## Sets
-
-"A set object is an unordered collection of distinct hashable objects"
-
-set, frozenset
-https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
-https://docs.python.org/3/tutorial/datastructures.html#sets
-
-## Collections
-
-collections- mutability?
-
-8.3. collections — Container datatypes
-https://docs.python.org/3/library/collections.html
-
-"alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple."
-
-Container datatypes
-* namedtuple()
-* deque
-* ChainMap
-* Counter
-* OrderedDict (see example)
-* defaultdict
-* UserDict
-* UserList
-* UserString
-
-Abstract Base Classes for Containers
-* collections.abc
-
-https://docs.python.org/3/library/collections.html#collections.namedtuple	
-https://docs.python.org/3/library/collections.html#collections.OrderedDict	
-
-https://docs.python.org/3/library/collections.html#chainmap-objects
-https://docs.python.org/3/library/collections.html#chainmap-examples-and-recipes
-https://docs.python.org/3/library/collections.html#counter-objects
-https://docs.python.org/3/library/collections.html#deque-objects
-https://docs.python.org/3/library/collections.html#deque-recipes
-https://docs.python.org/3/library/collections.html#defaultdict-objects
-https://docs.python.org/3/library/collections.html#defaultdict-examples
-https://docs.python.org/3/library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields
-https://docs.python.org/3/library/collections.html#ordereddict-objects
-https://docs.python.org/3/library/collections.html#ordereddict-examples-and-recipes
-https://docs.python.org/3/library/collections.html#userdict-objects
-https://docs.python.org/3/library/collections.html#userlist-objects
-https://docs.python.org/3/library/collections.html#userstring-objects
-
-https://docs.python.org/3/glossary.html#term-abstract-base-class
-
-8.4. collections.abc — Abstract Base Classes for Containers
-https://docs.python.org/3/library/collections.abc.html
-https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
-
-29.7. abc — Abstract Base Classes
-https://docs.python.org/3/library/abc.html
-
-## Built-In Data Type and Data Structure Conversions (Casting)
-
-Return an integer object constructed from a number or string x, or return 0 if no arguments are given. 
-
-```int()```
-
-Return a floating point number constructed from a number or string x.
-
-```float()```
-
-Return a Boolean value, i.e. one of True or False. 
-
-```bool()```
-
-Return a complex number with the value real + imag*1j or convert a string or number to a complex number. 
-
-```complex()```	
-
-Return a str version of object. 
-
-```str()```
+# 2 empty lines between top-level functions + classes
+def new_function(): # snake_case
+    """Description"""
+    action
     
-Rather than being a function, list is actually a mutable sequence type.
 
-```list()```
+class NewClass(object): #CapWords
+    """Description"""
 
-Create a new dictionary. 
+    def __init__(self, attribute):
+        self.attribute = attribute
 
-```dict()```
+    # 1 empty line between in-class definitions
+    def new_method(self): # snake_class, always use self as first argument
+        """Description"""
+        action
 
-Rather than being a function, tuple is actually an immutable sequence type
+    @classmethod
+    def new_class_method(cls):
+        """Description"""
+        action
 
-```tuple()```
+# Newline at end of file
+```
 
-Rather than being a function, range is actually an immutable sequence type, 
+## Reserved Keywords
 
-```range()```
+<!--
+(See Python Crash Course “Python Keywords and Built-in Functions” on page 489.)
 
-Return a new set object, optionally with elements taken from iterable. 
+Keywords!
+https://docs.python.org/3/reference/lexical_analysis.html#keywords
+-->
 
-```set()```
+```python
+class
+def
+```
 
-Return a new frozenset object, optionally with elements taken from iterable. frozenset is a built-in class. 
+```python
+try
+except
+raise
+assert
+```
 
-```frozenset()```
+```python
+for
+while
+else
+if
+elif
+with
+```
 
-Return a new “bytes” object, which is an immutable sequence of integers in the range 0 <= x < 256. 
+```python
+continue
+pass
+break
+```
 
-```bytes()```
+Boolean
 
-Return a new array of bytes. The bytearray class is a mutable sequence of integers in the range 0 <= x < 256. 
+```python
+True
+False
+```
 
-```bytearray()```
+```python
+and
+not
+or
+```
 
-Return a “memory view” object created from the given argument. 
+```python
+import
+from
+```
 
-```memoryview()```
+```python
+global
+nonlocal
+```
 
-## Built-In Functions- Numbers
+```python
+async
+await
+```
 
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
+```python
+None
+as
+del
+finally
+in
+is
+lambda
+return
+yield
+```
 
-Return x to the power y; if z is present, return x to the power y, modulo z
+## Arguments and Parameters
 
-```pow()```
+Difference between kwargs and zip
 
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
+Information passed to a function is called an argument
+information received by a function is called a parameter.
 
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
+Interpreter
+2.1.1. Argument Passing
+https://docs.python.org/3/tutorial/interpreter.html#argument-passing
+sys.argv[0]
 
-## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
+4.7.1. Default Argument Values
+https://docs.python.org/3/tutorial/controlflow.html#default-argument-values
+4.7.2. Keyword Arguments
+https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments
+4.7.3. Arbitrary Argument Lists
+https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists
+4.7.4. Unpacking Argument Lists
+https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
 
-Return the largest item in an iterable or the largest of two or more arguments.
+positional, keyword
+https://docs.python.org/3/glossary.html#term-argument
+https://docs.python.org/3/glossary.html#term-parameter
 
-```max()```
+## Python Code Block Examples
 
-Return the smallest item in an iterable or the smallest of two or more arguments.
+<!--
+See also: exceptions and pass statement
+-->
 
-```min()```
+Python structuring
+* colons
+* indentation (a.k.a. nesting)
 
-## Built-In Functions- Length and Sum- Addressed in Sequences Section
+## Colons
 
-Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
+Python structures that end blocks with a colon (:)
+* function statement
+* class statement
+* if-elif-else statement (branching)
+* for-else statement (loop)
+* while-else statement (loop)
+* with statement
+* try-except-else statement
 
-```len()```
+Python structures that don't end blocks with a colon (:)
+* range/list comprehension functions
 
-Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
+Compound or complex statements
 
-```sum()```
+```python
+header: 
+   suite
+header:
+   suite 
+header:
+   suite
+```
 
-## Less Common Built-in Functions		
+## Class or Function Syntax
 
-Return the __dict__ attribute for a module, class, instance, or any other object with a __dict__ attribute.
-```vars()```
+Define a function or class
 
-Convert an integer number to a binary string prefixed with “0b”. 
-```bin()```
+```python
+def function():
+class Class:
+```
 
-As repr(), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by repr() 
-```ascii()```
+Function statement
 
-Return the string representing a character whose Unicode code point is the integer i. 
-```chr()```
+```python
+def function():
+    """Description"""
+    action
 
-Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. 
-```hex()```
+function()
+```
 
-Convert an integer number to an octal string prefixed with “0o”. 
-```oct()```
+Class statement
 
-Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
-```ord()```
+```python
+class Class:
+    """Description"""
+    def __init__(self, attribute):
+        self.attribute = attribute
+ 
+    def method(self):
+        action
+```
+           
+## Control Flow Statement Examples
+
+if-elif-else statement
+
+```python
+if condition true:
+    action
+elif condition true:
+    action
+else:
+    action
+```
+
+for-else statement
+
+```python
+for condition:
+    action
+else:
+    action
+```
+
+while-else statement
+
+```python
+while condition true:
+    action
+else:
+    action
+```
+
+with statement
+
+```python
+with condition:
+```
+
+with-else statement
+
+```python
+
+```
 
 ## Exceptions
 
@@ -583,114 +489,56 @@ Python Warnings
            +-- DeprecationWarning
            +-- PendingDeprecationWarning
            
-## Python Code Block Examples
+	  
+## Collections
 
-<!--
-See also: exceptions and pass statement
--->
+collections- mutability?
 
-Python structuring
-* colons
-* indentation (a.k.a. nesting)
+8.3. collections — Container datatypes
+https://docs.python.org/3/library/collections.html
 
-## Colons
+"alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple."
 
-Python structures that end blocks with a colon (:)
-* function statement
-* class statement
-* if-elif-else statement (branching)
-* for-else statement (loop)
-* while-else statement (loop)
-* with statement
-* try-except-else statement
+Container datatypes
+* namedtuple()
+* deque
+* ChainMap
+* Counter
+* OrderedDict (see example)
+* defaultdict
+* UserDict
+* UserList
+* UserString
 
-Python structures that don't end blocks with a colon (:)
-* range/list comprehension functions
+Abstract Base Classes for Containers
+* collections.abc
 
-Compound or complex statements
+https://docs.python.org/3/library/collections.html#collections.namedtuple	
+https://docs.python.org/3/library/collections.html#collections.OrderedDict	
 
-```python
-header: 
-   suite
-header:
-   suite 
-header:
-   suite
-```
+https://docs.python.org/3/library/collections.html#chainmap-objects
+https://docs.python.org/3/library/collections.html#chainmap-examples-and-recipes
+https://docs.python.org/3/library/collections.html#counter-objects
+https://docs.python.org/3/library/collections.html#deque-objects
+https://docs.python.org/3/library/collections.html#deque-recipes
+https://docs.python.org/3/library/collections.html#defaultdict-objects
+https://docs.python.org/3/library/collections.html#defaultdict-examples
+https://docs.python.org/3/library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields
+https://docs.python.org/3/library/collections.html#ordereddict-objects
+https://docs.python.org/3/library/collections.html#ordereddict-examples-and-recipes
+https://docs.python.org/3/library/collections.html#userdict-objects
+https://docs.python.org/3/library/collections.html#userlist-objects
+https://docs.python.org/3/library/collections.html#userstring-objects
 
-## Class or Function Syntax
+https://docs.python.org/3/glossary.html#term-abstract-base-class
 
-Define a function or class
+8.4. collections.abc — Abstract Base Classes for Containers
+https://docs.python.org/3/library/collections.abc.html
+https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
 
-```python
-def function():
-class Class:
-```
+29.7. abc — Abstract Base Classes
+https://docs.python.org/3/library/abc.html
 
-Function statement
-
-```python
-def function():
-    """Description"""
-    action
-
-function()
-```
-
-Class statement
-
-```python
-class Class:
-    """Description"""
-    def __init__(self, attribute):
-        self.attribute = attribute
- 
-    def method(self):
-        action
-```
-           
-## Control Flow Statement Examples
-
-if-elif-else statement
-
-```python
-if condition true:
-    action
-elif condition true:
-    action
-else:
-    action
-```
-
-for-else statement
-
-```python
-for condition:
-    action
-else:
-    action
-```
-
-while-else statement
-
-```python
-while condition true:
-    action
-else:
-    action
-```
-
-with statement
-
-```python
-with condition:
-```
-
-with-else statement
-
-```python
-
-```
 
 ## Python and Django Control Flow
 
@@ -1082,121 +930,6 @@ https://docs.python.org/3/library/itertools.html#itertools.chain
 https://docs.python.org/3/library/functools.html
 https://docs.python.org/3/library/functools.html#partial-objects
 
-## Sorting, Queues
-
-https://docs.python.org/3/howto/sorting.html
-
-Collections
-https://docs.python.org/3/library/collections.html#collections.deque
-
-8.5. heapq — Heap queue algorithm
-https://docs.python.org/3/library/heapq.html
-https://docs.python.org/3/library/heapq.html#basic-examples
-https://docs.python.org/3/library/heapq.html#theory
-
-https://en.wikipedia.org/wiki/Priority_queue
-https://docs.python.org/3/library/heapq.html#priority-queue-implementation-notes
-
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
 
 ## Object-Oriented Programming
 
