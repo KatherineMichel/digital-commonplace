@@ -3,6 +3,9 @@
 ## General Notes
 
 <!--
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+
 https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
 
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
@@ -12,6 +15,10 @@ https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN We
 -->
 
 <!--
+negative indexes python - Google Search
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
 Coding problems
@@ -72,7 +79,10 @@ https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical
 https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
 https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
 https://docs.python.org/3/library/functions.html#open | Built-in Functions — Python 3.8.5 documentation
+
 https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
+https://docs.python.org/3/library/os.path.html#os.path.join
+
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
 
 Regular expression
@@ -105,7 +115,6 @@ https://docs.python.org/3.7/library/stdtypes.html#str.strip
 -->
 
 <!--
-
 ## General Links
 
 https://docs.python.org/3/glossary.html
@@ -151,6 +160,7 @@ https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
 https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
 
 https://docs.python.org/3/tutorial/appendix.html#interactive-mode
+
 https://docs.python.org/3/tutorial/appendix.html#error-handling
 https://docs.python.org/3/reference/compound_stmts.html#try
 https://docs.python.org/3/reference/compound_stmts.html#except
@@ -190,6 +200,7 @@ https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-prog
 https://docs.python.org/3/library/sys.html#module-sys
 https://docs.python.org/3/library/sys.html#sys.argv
 https://docs.python.org/3/library/sys.html#sys.path
+
 10.5. String Pattern Matching
 https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
 https://docs.python.org/3/library/re.html#module-re
