@@ -921,19 +921,6 @@ http://scipy.github.io/old-wiki/pages/PerformancePython
 27.4. The Python Profilers
 https://docs.python.org/3/library/profile.html#module-pstats
 
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
-https://docs.python.org/3/library/profile.html#limitations
-https://docs.python.org/3/library/profile.html#calibration
-https://docs.python.org/3/library/profile.html#using-a-custom-timer
-
-27.5. timeit — Measure execution time of small code snippets
-https://docs.python.org/3/library/timeit.html#basic-examples
-https://docs.python.org/3/library/timeit.html#python-interface
-https://docs.python.org/3/library/timeit.html#command-line-interface
-https://docs.python.org/3/library/timeit.html#examples
-
 https://wiki.python.org/moin/PythonSpeed/Profiling
 http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
 
