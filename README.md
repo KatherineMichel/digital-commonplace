@@ -1493,6 +1493,7 @@ https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0
 <!--
 HTML5 and CSS
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS
 -->
 
