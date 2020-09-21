@@ -1,5 +1,16 @@
 # Python Docs- Data
 
+## General Notes
+
+<!--
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+
+https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
+https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+-->
+
 <!--
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
@@ -18,6 +29,13 @@ https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
 
 https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+
+Errors
+https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
+https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
+https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
 
 https://en.wikipedia.org/wiki/Control_flow
 https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
@@ -350,6 +368,75 @@ with-else statement
 
 ```
 
+## Django System Checks, Error Reporting, Exceptions
+
+* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
+* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
+* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
+
+<!--
+https://docs.djangoproject.com/en/2.1/topics/testing/tools/#transactiontestcase
+
+Django Core Exceptions
+AppRegistryNotReady, 1014
+ObjectDoesNotExist, 1015 
+EmptyResultSet, 1015 
+FieldDoesNotExist, 1015 
+MultipleObjectsReturned, 1015 
+SuspiciousOperation, 1015 
+PermissionDenied, 1016 
+ViewDoesNotExist, 1016 
+MiddlewareNotUsed, 1016 
+ImproperlyConfigured, 1016 
+FieldError, 1016 
+ValidationError, 1016 
+NON_FIELD_ERRORS
+
+URL Resolver exceptions
+Resolver404
+NoReverseMatch, 1017 
+
+Database Exceptions
+
+Http Exceptions
+UnreadablePostError, 1018 
+
+Transaction Exceptions
+TransactionManagementError, 1018 
+
+Testing Framework Exceptions
+RedirectCycleError
+
+Python Exceptions
+
+
+## Django Errors and Exceptions
+
+DoesNotExist
+Model.DoesNotExist, 1155
+TemplateDoesNotExist, 276 
+
+Django Errors
+PageNotAnInteger, 507 
+ContextPopException, 1376 
+EmptyPage, 507 
+
+Errors
+IntegrityError, 1017 
+InterfaceError, 1017 
+InternalError, 1017 
+models.ProtectedError, 1017 
+OperationalError, 1017 
+NotSupportedError, 1017 
+CommandError, 545 
+DatabaseError, 1017 
+DataError, 1017 
+Error, 1017 
+client.RedirectCycleError, 1018  
+ProgrammingError, 1017 
+TemplateSyntaxError, 276 
+-->
+   
 ## Exceptions
 
 Two kinds of errors
