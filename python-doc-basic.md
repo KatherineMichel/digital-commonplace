@@ -874,6 +874,52 @@ https://docs.python.org/3/library/statistics.html#exceptions
 9.3. cmath — Mathematical functions for complex numbers
 
 
+## dir() and builtins
+
+Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
+
+```dir()```
+
+dir() does not list the names of built-in functions and variables. Tthey are defined in the standard module builtins.
+
+```python
+>>> import builtins
+>>> dir(builtins)
+```
+
+6.3. The dir() Function
+https://docs.python.org/3/tutorial/modules.html#the-dir-function
+https://docs.python.org/3/library/functions.html#dir
+
+Return True if the object argument appears callable, False if not. 
+```callable()```
+
+## Built-In Functions for Scope
+
+Return a dictionary representing the current global symbol table. 
+```globals()```
+
+Update and return a dictionary representing the current local symbol table. 
+```locals()```
+
+## Built-In Functions for Formatting and Printing
+
+Convert a value to a “formatted” representation, as controlled by format_spec. 
+```format()```
+
+Return a string containing a printable representation of an object. 
+```repr()```
+
+## Built-In Functions- ```eval()``` and ```exec()```
+
+```eval()```
+
+This function supports dynamic execution of Python code. 
+```exec()```
+
+Compile the source into a code or AST object. 
+```compile()```
+
 ## Built-In Functions- Numbers
 
 Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
@@ -908,6 +954,13 @@ Return the length (the number of items) of an object. The argument may be a sequ
 Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
 
 ```sum()```
+
+## Print Data Structure and Ascertain Data Type
+
+```python
+print(data_structure)
+print(type(data_structure))
+```
 
 ## Built-In Data Type and Data Structure Conversions (Casting)
 
