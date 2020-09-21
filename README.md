@@ -329,6 +329,12 @@ https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 
 
+https://www.pypy.org/ | PyPy
+
+https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
+https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
+https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
+
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
