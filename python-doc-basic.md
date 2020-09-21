@@ -894,7 +894,12 @@ https://docs.python.org/3/library/functions.html#dir
 Return True if the object argument appears callable, False if not. 
 ```callable()```
 
-## Built-In Functions for Scope
+## Built-In Functions- Modules
+
+This function is invoked by the import statement. It can be replaced (by importing the builtins module and assigning to builtins.__import__) in order to change semantics of the import statement, but doing so is strongly discouraged
+```__import__()```
+
+## Built-In Functions- Scope
 
 Return a dictionary representing the current global symbol table. 
 ```globals()```
@@ -902,7 +907,7 @@ Return a dictionary representing the current global symbol table.
 Update and return a dictionary representing the current local symbol table. 
 ```locals()```
 
-## Built-In Functions for Formatting and Printing
+## Built-In Functions- Formatting and Printing
 
 Convert a value to a “formatted” representation, as controlled by format_spec. 
 ```format()```
