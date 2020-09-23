@@ -788,6 +788,57 @@ Hosting Blogs
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
 
+## Project Ideas
+
+Stars
+* [Astral App](https://astralapp.com)
+
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+Glitch Examples
+* [Glitch Python](https://glitch.com/@python)
+* [Glitch Websites](https://glitch.com/@websites)
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+<!--
+https://womenmake.com/ | Women Make
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+<!--
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hn.algolia.com/?q=ask+hn
+https://hndex.org/
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
+https://github.com/trending/developers
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+-->
+
 ## Useful Learning Resources
 
 Practice
@@ -1076,57 +1127,6 @@ https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Communit
 https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
--->
-
-## Project Ideas
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
-
-Glitch Examples
-* [Glitch Python](https://glitch.com/@python)
-* [Glitch Websites](https://glitch.com/@websites)
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://womenmake.com/ | Women Make
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-<!--
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hn.algolia.com/?q=ask+hn
-https://hndex.org/
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-https://github.com/trending/developers
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 -->
 
 ## Showcases
