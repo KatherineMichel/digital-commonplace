@@ -3,11 +3,8 @@
 <!--
 Authenticate bearer
 Swarm testing
-https://en.wikipedia.org/wiki/Multitenancy
-https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm
 https://en.wikipedia.org/wiki/Online_analytical_processing
-https://en.wikipedia.org/wiki/Single_sign-on
-https://en.wikipedia.org/wiki/SAML_2.0
+https://en.wikipedia.org/wiki/Multitenancy
 
 JSON versus s-expression
 https://en.wikipedia.org/wiki/S-expression
@@ -43,6 +40,77 @@ http://restcookbook.com/Miscellaneous/rest-and-http/
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
+-->
+
+## API
+
+<!--
+https://github.com/tiangolo/fastapi
+https://fastapi.tiangolo.com/#performance
+
+https://github.com/api-evangelist
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://www.programmableweb.com/category/all/apis
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+-->
+
+## Request and Response Cycle, HTTP
+
+Request and Response Cycle
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+
+Request and Response Cycle- HTTP
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
+
+Sessions
+* [Web Browsing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
+* [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
+* [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
+
+Cookies
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+
+<!--
+https://en.wikipedia.org/wiki/HTTP_message_body
+
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
+
+https://en.wikipedia.org/wiki/HTTP_cookie#Http-only_cookie
+"Cookies were designed to be a reliable mechanism for websites to remember stateful information"
+Authentication cookie
+
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
+https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
+https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
+https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
+
+https://en.wikipedia.org/wiki/Server_log
 -->
 
 ## Computer Architecture
@@ -105,6 +173,7 @@ https://github.com/graphql-python | GraphQL Python
 
 REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
+* [XML Wikipedia](https://en.wikipedia.org/wiki/XML)
 
 Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
@@ -124,7 +193,7 @@ https://grpc.io/
 https://grpc.io/docs/guides/
 -->
 
-Webhooks (Event-driven... the format is usually JSON. The request is done as a HTTP POST request.)
+Webhooks (Event-driven, custom callback... the format is usually JSON. The request is done as a HTTP POST request.)
 * [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
 
 Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
@@ -173,6 +242,12 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 ## Auth
 
 <!--
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm
+
+https://en.wikipedia.org/wiki/Single_sign-on
+https://en.wikipedia.org/wiki/SAML_2.0
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+
 https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
 https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
 
@@ -181,19 +256,26 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authenti
 https://en.wikipedia.org/wiki/Basic_access_authentication
 https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
 
+Third-party services
+https://en.wikipedia.org/wiki/OpenID
+OpenID identity provider
+https://en.wikipedia.org/wiki/Identity_provider_(SAML)
+"OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol"
+https://en.wikipedia.org/wiki/OpenID_Connect
+https://openid.net/ | OpenID Foundation website
+
+Web, mobile and desktop apps
 https://en.wikipedia.org/wiki/OAuth
-https://en.wikipedia.org/wiki/OAuth#OAuth_2.0
+https://en.wikipedia.org/wiki/OAuth#OAuth_2.0_2
 https://oauth.net/ | OAuth Community Site
 https://oauth.net/2/ | OAuth 2.0 — OAuth
 
 https://developers.google.com/identity/protocols/OAuth2
 
-https://en.wikipedia.org/wiki/OpenID
-https://en.wikipedia.org/wiki/OpenID_Connect
-https://openid.net/ | OpenID Foundation website
 
 Authentication
 JSON Web Token (JWT)
+https://en.wikipedia.org/wiki/JSON_Web_Token
 https://jwt.io/ | JSON Web Tokens - jwt.io
 https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 
@@ -205,8 +287,6 @@ https://github.com/auth0/auth0-python | auth0/auth0-python: All information rega
 https://twofactorauth.org/ | 502 Bad Gateway
 https://twofactorauth.org/#banking | Two Factor Auth List
 
-
-https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 
 https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
 Social Auth
@@ -224,68 +304,6 @@ Schema
 http://json-schema.org/ | JSON Schema | The home of JSON Schema
 https://schema.org/
 https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
--->
-
-## API
-
-<!--
-https://github.com/tiangolo/fastapi
-https://fastapi.tiangolo.com/#performance
-
-https://github.com/api-evangelist
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
-https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-https://www.programmableweb.com/category/all/apis
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
-
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
--->
-
-## Request and Response Cycle, HTTP
-
-Request and Response Cycle
-* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
-
-Request and Response Cycle- HTTP
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
-
-Sessions
-* [Web Browsing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
-* [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
-* [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
-
-Cookies
-* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
-
-<!--
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
-https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
-https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
-https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
-
-https://en.wikipedia.org/wiki/Server_log
 -->
 
 ## Web Browser, Client/Server
