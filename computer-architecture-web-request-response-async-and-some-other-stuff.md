@@ -1,11 +1,18 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+Authenticate bearer
+Swarm testing
+https://en.wikipedia.org/wiki/Multitenancy
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm
+https://en.wikipedia.org/wiki/Online_analytical_processing
+https://en.wikipedia.org/wiki/Single_sign-on
+https://en.wikipedia.org/wiki/SAML_2.0
+
+JSON versus s-expression
+https://en.wikipedia.org/wiki/S-expression
+
 https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications | Create, read, update and delete - Wikipedia
-https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
-https://en.wikipedia.org/wiki/State_(computer_science) | State (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
-Request/Response
 
 https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
 
