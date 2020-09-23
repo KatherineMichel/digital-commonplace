@@ -71,6 +71,123 @@ https://github.com/realpython/list-of-python-api-wrappers
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 -->
 
+## Security
+
+Security- General
+* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
+* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
+* [Information Security Wikipedia](https://en.wikipedia.org/wiki/Information_security)
+* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
+* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
+
+OWASP
+* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
+* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
+
+Top Ten
+* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
+
+<!--
+## Security- General
+      
+https://developers.google.com/web/fundamentals/security/
+
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+
+Application Security Verification Standard
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+-->
+
+<!--
+https://www.owasp.org/index.php/Category:Attack
+   
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+
+https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+-->
+
+### Security Model
+
+Computer Security Model
+* [Computer Security Model Wikipedia](https://en.wikipedia.org/wiki/Computer_security_model)
+
+Types
+* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
+* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
+
+Same Origin
+* [Same-Origin Policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+### Security Risk
+
+High
+* [Arbitrary Code Execution Wikipedia](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
+* [SQL Injection Wikipedia](https://en.wikipedia.org/wiki/SQL_injection)
+
+Medium
+* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+* [Cross-Site Request Forgery Wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+* [Denial of Service Attack Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+
+<!--
+Medium
+Broken authentication
+
+Low
+Sensitive data exposure
+Broken session management
+Unvalidated redirects/forwards
+Issues requiring an uncommon configuration option
+
+https://en.wikipedia.org/wiki/Clickjacking
+https://en.wikipedia.org/wiki/Code_injection
+
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
+
+https://www.owasp.org/index.php/SQL_Injection
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Denial_of_Service
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+
+Prevention
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
+
+JavaScript
+https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
+https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
+-->
+
+## Django Request/Response
+
+<!--
+https://docs.djangoproject.com/en/3.1/ref/request-response/
+https://docs.djangoproject.com/en/3.1/ref/request-response/#module-django.http
+https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects
+https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects
+https://docs.djangoproject.com/en/3.1/ref/request-response/#jsonresponse-objects
+-->
+
 ## Request and Response Cycle, HTTP
 
 Request and Response Cycle
