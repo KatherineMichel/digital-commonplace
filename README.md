@@ -106,10 +106,7 @@ https://eventyay.com/e/8fa7fd14/schedule
 September 11-13
 https://www.german-russians.info/
 
-September 16
 https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
-
-September 18-19
 https://cfp.2020.djangocon.eu/porto/schedule/
 
 October 2-3
@@ -311,6 +308,38 @@ Important
 https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
 
+GitHub
+https://github.blog/2020-09-02-how-we-threat-model/
+https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/ | Secure at every step: What is software supply chain security and why does it matter? - The GitHub Blog
+
+Pre-mortem
+https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+
+https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
+https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+
+https://en.wikipedia.org/wiki/Foreign_key | Foreign key - Wikipedia
+https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
+https://en.wikipedia.org/wiki/State_(computer_science) | State (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
+Request/Response
+
+Algos
+https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Pytho
+https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: The algorithm relies on routines, just look for labuladong! English version supported! Crack LeetCode, not only how, but also why.
+https://github.com/MysteryVaibhav/leetcode_company_wise_questions | MysteryVaibhav/leetcode_company_wise_questions: This is a repository containing the list of company wise questions available on leetcode premium
+
+https://www.begin.re/ | RE for Beginners | Reverse Engineering
+
+
 Public Speaking
 https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
 
@@ -327,13 +356,18 @@ https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "h
 https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
 
 
 https://www.pypy.org/ | PyPy
 
-https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
-https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
-https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
+Martin Fowler/Thoughtworks/Patterns
+https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
+https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
+
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
+https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
 
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
@@ -344,6 +378,10 @@ https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Pytho
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
+https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
+https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
 
 
 Interesting
