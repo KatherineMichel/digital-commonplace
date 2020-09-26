@@ -273,6 +273,137 @@ https://docs.python.org/3/library/heapq.html#module-heapq
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
 
+## Data Model
+
+https://docs.python.org/3/reference/datamodel.html#implementing-descriptors
+https://docs.python.org/3/reference/datamodel.html#invoking-descriptors
+https://docs.python.org/3/reference/datamodel.html#slots
+https://docs.python.org/3/reference/datamodel.html#customizing-class-creation
+https://docs.python.org/3/reference/datamodel.html#metaclasses
+https://docs.python.org/3/reference/datamodel.html#resolving-mro-entries
+https://docs.python.org/3/reference/datamodel.html#determining-the-appropriate-metaclass
+https://docs.python.org/3/reference/datamodel.html#preparing-the-class-namespace
+https://docs.python.org/3/reference/datamodel.html#executing-the-class-body
+https://docs.python.org/3/reference/datamodel.html#creating-the-class-object
+https://docs.python.org/3/reference/datamodel.html#metaclass-example
+https://docs.python.org/3/reference/datamodel.html#customizing-instance-and-subclass-checks
+
+https://docs.python.org/3/reference/datamodel.html#emulating-generic-types
+https://docs.python.org/3/reference/datamodel.html#emulating-callable-objects
+https://docs.python.org/3/reference/datamodel.html#emulating-container-types
+https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types
+https://docs.python.org/3/reference/datamodel.html#with-statement-context-managers
+https://docs.python.org/3/reference/datamodel.html#special-method-lookup
+
+## Method Resolution Order
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+MRO
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
+
+New Style
+https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
+https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+
+
+## Classes, Objects, Functions, Methods, Attributes
+
+https://docs.python.org/3/glossary.html#term-new-style-class
+https://docs.python.org/3/glossary.html#term-object
+https://docs.python.org/3/reference/datamodel.html#objects-values-and-types
+https://docs.python.org/3/reference/datamodel.html#objects
+https://docs.python.org/3/reference/datamodel.html#basic-customization
+
+https://docs.python.org/3/reference/datamodel.html#customizing-attribute-access
+https://docs.python.org/3/reference/datamodel.html#customizing-module-attribute-access
+
+https://docs.python.org/3/glossary.html#term-class
+https://docs.python.org/3/tutorial/classes.html#classes
+https://docs.python.org/3/reference/compound_stmts.html#class-definitions
+
+https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes
+https://docs.python.org/3/tutorial/classes.html#class-definition-syntax
+
+https://docs.python.org/3/library/stdtypes.html#classes-and-class-instances
+
+Important!
+https://docs.python.org/3/tutorial/classes.html#class-objects
+https://docs.python.org/3/tutorial/classes.html#instance-objects
+https://docs.python.org/3/tutorial/classes.html#method-objects
+
+https://docs.python.org/3/tutorial/classes.html#random-remarks
+https://docs.python.org/3/tutorial/classes.html#inheritance
+https://docs.python.org/3/tutorial/classes.html#multiple-inheritance
+
+https://docs.python.org/3/tutorial/classes.html#class-and-instance-variables
+https://docs.python.org/3/tutorial/classes.html#private-variables
+
+Function Objects
+https://docs.python.org/3/library/stdtypes.html#functions
+
+Calls!
+https://docs.python.org/3/reference/expressions.html#calls
+
+"A series of statements which returns some value to a caller. It can also be passed zero or more arguments which may be used in the execution of the body. See also parameter, method, and the Function definitions section."
+https://stackoverflow.com/questions/53485906/what-exactly-is-a-caller-in-python
+https://docs.python.org/3/glossary.html#term-function
+
+https://docs.python.org/3/reference/compound_stmts.html#function-definitions
+
+https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
+
+"There are really two flavors of function objects: built-in functions and user-defined functions. Both support the same operation (to call the function), but the implementation is different, hence the different object types."
+https://docs.python.org/3/library/stdtypes.html#functions
+
+Look again
+https://docs.python.org/3/glossary.html#term-generic-function
+
+Usually used for type hints
+https://docs.python.org/3/tutorial/controlflow.html#function-annotations
+
+"Methods are functions that are called using the attribute notation. There are two flavors: built-in methods (such as append() on lists) and class instance methods. Built-in methods are described with the types that support them.
+If you access a method (a function defined in a class namespace) through an instance, you get a special object: a bound method (also called instance method) object."
+https://docs.python.org/3/library/stdtypes.html#methods
+
+"A function which is defined inside a class body. If called as an attribute of an instance of that class, the method will get the instance object as its first argument (which is usually called self). See function and nested scope."
+https://docs.python.org/3/glossary.html#term-method
+
+https://docs.python.org/3/glossary.html#term-attribute
+
+https://docs.python.org/3/reference/expressions.html#attribute-references
+
+
+## Scope
+
+Scope
+* [Scope Wikipedia](https://en.wikipedia.org/wiki/Scope_(computer_science))
+
+https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scope_vs._dynamic_scope
+
+
+7.12. The global statement
+https://docs.python.org/3/reference/simple_stmts.html#the-global-statement
+7.13. The nonlocal statement
+https://docs.python.org/3/reference/simple_stmts.html#the-nonlocal-statement
+
+Classes
+9.1. A Word About Names and Objects
+https://docs.python.org/3/tutorial/classes.html#a-word-about-names-and-objects
+9.2. Python Scopes and Namespaces
+https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces
+9.2.1. Scopes and Namespaces Example
+https://docs.python.org/3/tutorial/classes.html#scopes-and-namespaces-example
+
+https://docs.python.org/3/glossary.html#term-nested-scope
+
+
 ## Standard
 
 https://docs.python.org/3/reference/lexical_analysis.html
