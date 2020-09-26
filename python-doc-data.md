@@ -380,6 +380,17 @@ https://docs.python.org/3/glossary.html#term-attribute
 https://docs.python.org/3/reference/expressions.html#attribute-references
 
 
+## Mapping Operators to Functions
+
+Mapping Operators to Functions
+
+"For backward compatibility, many of these have a variant with the double underscores kept."
+https://docs.python.org/3/library/operator.html
+https://docs.python.org/3/library/operator.html#module-operator
+https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
+https://docs.python.org/3/library/operator.html#inplace-operators
+
+
 ## Scope
 
 Scope
