@@ -788,6 +788,12 @@ Hosting Blogs
 Hosting Blogs
 * [Heroku Blog](https://blog.heroku.com)
 
+Heroku Hosting Docs
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+
 ## Project Ideas
 
 Stars
@@ -1940,481 +1946,15 @@ https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twit
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 -->
 
-## Google Progressive Web Apps (PWA)
-
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
-* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
-* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
-* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
-
-<!--
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-
-https://pwa.rocks/ | A selection of Progressive Web Apps
-https://www.pwabuilder.com/ | PWABuilder
-
-Progressive Web app Testing
-[pwmetrics](https://github.com/paulirish/pwmetrics)
-    
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app
--->
-
-## Google Design
-
-Google 
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google \ Design (See also Facebook React)
-* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-<!--
-https://material.io/design/ | Design - Material Design
-
-https://material.io/guidelines/resources/roboto-noto-fonts.html
-https://material.io/guidelines/style/typography.html#typography-line-height
-
-https://materialdesignkit.com
-https://material.io/guidelines
-https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
-https://getmdl.io/components/index.html#card-selection
-https://getmdl.io
--->
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
-
-
-## Chrome
-
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
-
-Chromium Developers
-* [Chromium Blog](https://blog.chromium.org)
-* [Chromium- For Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-<!--
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/apps/about_apps
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/hosting
-
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
-
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
--->
-
-
-<!--
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
-
-Twitter API
-https://github.com/twitterdev?language=javascript | @TwitterDev
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
-https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
-https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
-https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
-
-Twitter API
-https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
-https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
-https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
-https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
-
-https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
--->
-
-<!--
-https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-
-Requests
-https://pypi.org/project/requests/ | requests · PyPI
-https://www.thepythoncode.com/article/using-github-api-in-python
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
-
-Python API Tools
-https://realpython.com/python-web-scraping-practical-introduction/
-https://scrapy.org/
-https://github.com/scrapy/scrapy
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-
-https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
-http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-Pillow
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
-
-Black
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-JSON, Black
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
--->
-
-## Twitter API
-
-<!--
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
-
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
-
-https://github.com/twitterdev/real-time-tweet-streamer
-https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
-
-Twitter API Tutorials
-https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
-https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
-https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
-
-https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
--->
-
-<!--
-Twitter API
-https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
-https://developer.twitter.com/en/apps | Twitter Developers
-
-https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
-https://developer.twitter.com/en/apps/17971730 | Twitter Developers
-
-https://developer.twitter.com/en/labs | Labs
-https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
-
-https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
-
-https://developer.twitter.com/en/docs
-https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
-https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
-https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
-https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
--->
-
-## GitHub API
-
-<!--
-https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
-https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
-
-GitHub Actions
-https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
-
-
-https://github.com/topics/bot | bot · GitHub Topics
-
-Open API
-https://github.com/github/rest-api-description
-https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
-https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
--->
-
-## GitHub Actions Tools
-
-<!--
-https://help.github.com/en/actions | GitHub Actions Documentation - GitHub Help
-
-https://github.com/actions/github-script | actions/github-script
-
-https://github.com/actions/labeler | actions/labeler: An action for automatically labelling pull requests
-https://github.com/actions/starter-workflows/blob/master/.github/pull_request_template.md | starter-workflows/pull_request_template.md at master · actions/starter-workflows
-https://github.com/actions/starter-workflows/blob/master/CONTRIBUTING.md | starter-workflows/CONTRIBUTING.md at master · actions/starter-workflows
-https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes | Learn YAML in five minutes! - CodeProject
-
-
-https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
-https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
-
-Python
-https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
-https://github.com/actions/python-versions | actions/python-versions: Python builds for Actions Virtual Environments
-https://github.com/actions/virtual-environments | actions/virtual-environments: GitHub Actions virtual environments
-https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
-
-Node
-https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
-https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
-
-https://github.com/actions/checkout | actions/checkout: Action for checking out a repo
-https://github.com/actions/checkout#Fetch-all-branches | actions/checkout: Action for checking out a repo
-
-https://github.com/actions/upload-artifact | actions/upload-artifact
-https://github.com/actions/download-artifact | actions/download-artifact
-
-https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
--->
-
-## GitHub Actions Docs
-
-<!--
-https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace | Publishing actions in GitHub Marketplace - GitHub Help
-
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-
-
-GitHub Actions
-https://help.github.com/en/actions/creating-actions/creating-a-javascript-action | Creating a JavaScript action - GitHub Help
-https://help.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions | Metadata syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/reference/workflow-commands-for-github-actions | Workflow commands for GitHub Actions - GitHub Help
-
-https://help.github.com/en/actions/creating-actions/about-actions#creating-a-readme-file-for-your-action | About actions - GitHub Help
-https://help.github.com/en/actions/creating-actions/about-actions#using-release-management-for-actions | About actions - GitHub Help
-
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
-
-
-Python
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
-
-JavaScript
-https://help.github.com/en/actions/language-and-framework-guides/github-actions-for-javascript-and-typescript | GitHub Actions for JavaScript and TypeScript - GitHub Help
-
-https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
-
-https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
-https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events | Configuring a workflow - GitHub Help
-
-JavaScript or Docker
-https://help.github.com/en/actions/creating-actions/about-actions#types-of-actions
-
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
-https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
-
-
-Events
-https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
-https://help.github.com/en/actions/reference/events-that-trigger-workflows#webhook-events
-
-Permissions
-https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#token-permissions
-https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables
-
-Persistence
-https://help.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts | Persisting workflow data using artifacts - GitHub Help
-
-Create a release
-https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
-https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
-https://developer.github.com/v3/repos/releases/#get-a-single-release
--->
-
-<!--
-API 
-
-Password Auth
-https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
-
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
-
-https://developer.github.com/v3/actions/secrets/ | Secrets | GitHub Developer Guide
-https://developer.github.com/v3/repos/contents/#create-or-update-a-file | Contents | GitHub Developer Guide
-
-GitHub API
-https://developer.github.com/v3/
-https://developer.github.com/v3/libraries/
-GitHub GraphQL API
-https://developer.github.com/v4/
-https://developer.github.com/v4/guides/
-
-https://graphql.org/learn/best-practices/
-https://developer.github.com/v4/guides/migrating-from-rest/
-
-Endpoints
-https://developer.github.com/v3/apps/available-endpoints/
-
-Webhooks
-https://developer.github.com/webhooks/creating/
-
-Events!
-https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
-
-Event examples
-https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
-https://developer.github.com/v3/activity/events/types/#issuesevent
-https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
-
-Payloads
-https://developer.github.com/webhooks/#payloads
-https://en.wikipedia.org/wiki/Payload_(computing)
-
-https://developer.github.com/v3/issues/comments/#create-a-comment
-https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
-https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
-https://developer.github.com/v3/repos/statuses/#create-a-status
-
-Auth
-https://github.com/settings/tokens | Personal Access Tokens
-https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
-
-Hooks
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
--->
-
-<!--
-https://github.com/gr2m/
-https://octokit.github.io/rest.js/
-https://github.com/octokit/rest.js
-https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
-https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
-
-Settings
-https://github.com/settings/apps
-https://github.com/settings/installations
-
-Apps
-https://developer.github.com/apps
-https://developer.github.com/apps/about-apps/
-https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
-https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
-
-Using the GitHub AP in Your App
-https://developer.github.com/apps/quickstart-guides/
-https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
-https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
-
-Probot
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
--->
-
 ## Heroku
-
-<!--
-GitHub Actions/Heroku
-https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
--->
-
-Heroku Hosting Docs
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
-
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-Heroku- Elements Marketplace
-* [Heroku Elements Marketplace](https://elements.heroku.com)
-* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
-
-Heroku Git Integration
-* [Deploying with Git](https://devcenter.heroku.com/articles/git)
-* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
-* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
-Container Registries and Tools
-* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
-* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
-
-<!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
--->
-
 ## Workflows
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-<!--
-https://www.npmjs.com/package/git-flow-deploy
-
-https://devcenter.heroku.com/articles/development-configuration
-https://devcenter.heroku.com/articles/github-integration-review-apps
-https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
-
-heroku continuous integration and delivery, using gitflow with heroku
-https://www.heroku.com/flow
-https://blog.heroku.com/heroku-ci-now-available
-https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
-https://www.heroku.com/continuous-integration
-https://www.heroku.com/continuous-delivery
-https://www.heroku.com/continuous-delivery/on-heroku
-https://www.heroku.com/continuous-delivery/how-it-works
-https://www.heroku.com/continuous-delivery/foundations
-https://devcenter.heroku.com/articles/heroku-ci
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/pipelines
-https://devcenter.heroku.com/articles/pipelines#github-sync
-https://devcenter.heroku.com/articles/git
-
-https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
-https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
-https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
-
-Release Phase
-https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
--->
-
+## Google Progressive Web Apps (PWA)
+## Google Design
+## Chrome
+## Twitter API
+## GitHub API
+## GitHub Actions Tools
+## GitHub Actions Docs
 
 ## General Talks
 ## Companies that Use Python
@@ -2605,10 +2145,10 @@ https://github.com/gwen001/pentest-tools
 ## Product and Marketing
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/tron1991/open-product-management)
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
 * [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/karllhughes/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/karllhughes/side-project-sales)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
 
 <!--
 List of top product management article links
@@ -3794,6 +3334,474 @@ https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with
 https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
 https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
 https://about.gitlab.com/2016/11/22/introducing-review-apps/
+-->
+
+## Heroku
+
+<!--
+GitHub Actions/Heroku
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+-->
+
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
+
+Container Registries and Tools
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
+## Workflows
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+<!--
+https://www.npmjs.com/package/git-flow-deploy
+
+https://devcenter.heroku.com/articles/development-configuration
+https://devcenter.heroku.com/articles/github-integration-review-apps
+https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
+Release Phase
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+-->
+
+## Google Progressive Web Apps (PWA)
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
+* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
+
+<!--
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+
+https://pwa.rocks/ | A selection of Progressive Web Apps
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+## Google Design
+
+Google 
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google \ Design (See also Facebook React)
+* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io/design/ | Design - Material Design
+
+https://material.io/guidelines/resources/roboto-noto-fonts.html
+https://material.io/guidelines/style/typography.html#typography-line-height
+
+https://materialdesignkit.com
+https://material.io/guidelines
+https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
+https://getmdl.io/components/index.html#card-selection
+https://getmdl.io
+-->
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
+
+## Chrome
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+
+Chromium Developers
+* [Chromium Blog](https://blog.chromium.org)
+* [Chromium- For Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+<!--
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+https://developer.chrome.com/apps/about_apps
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/hosting
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+-->
+
+
+<!--
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
+
+Twitter API
+https://github.com/twitterdev?language=javascript | @TwitterDev
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
+https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
+https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
+https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
+
+Twitter API
+https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
+https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
+https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
+https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
+
+https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
+-->
+
+<!--
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+
+Requests
+https://pypi.org/project/requests/ | requests · PyPI
+https://www.thepythoncode.com/article/using-github-api-in-python
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
+
+Python API Tools
+https://realpython.com/python-web-scraping-practical-introduction/
+https://scrapy.org/
+https://github.com/scrapy/scrapy
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
+
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+
+https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
+http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+
+Pillow
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
+-->
+
+## Twitter API
+
+<!--
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
+
+https://github.com/twitterdev/real-time-tweet-streamer
+https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
+
+Twitter API Tutorials
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
+https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
+
+https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
+-->
+
+<!--
+Twitter API
+https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
+https://developer.twitter.com/en/apps | Twitter Developers
+
+https://developer.twitter.com/en/application/login?useCase=11 | Apply — Twitter Developers
+https://developer.twitter.com/en/apps/17971730 | Twitter Developers
+
+https://developer.twitter.com/en/labs | Labs
+https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
+
+https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
+
+https://developer.twitter.com/en/docs
+https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
+https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
+https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
+https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
+-->
+
+## GitHub API
+
+<!--
+https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
+https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
+
+GitHub Actions
+https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
+
+
+https://github.com/topics/bot | bot · GitHub Topics
+
+Open API
+https://github.com/github/rest-api-description
+https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
+https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+-->
+
+## GitHub Actions Tools
+
+<!--
+https://help.github.com/en/actions | GitHub Actions Documentation - GitHub Help
+
+https://github.com/actions/github-script | actions/github-script
+
+https://github.com/actions/labeler | actions/labeler: An action for automatically labelling pull requests
+https://github.com/actions/starter-workflows/blob/master/.github/pull_request_template.md | starter-workflows/pull_request_template.md at master · actions/starter-workflows
+https://github.com/actions/starter-workflows/blob/master/CONTRIBUTING.md | starter-workflows/CONTRIBUTING.md at master · actions/starter-workflows
+https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes | Learn YAML in five minutes! - CodeProject
+
+
+https://github.com/actions/starter-workflows | actions/starter-workflows: Accelerating new GitHub Actions workflows
+https://github.com/actions/toolkit | actions/toolkit: The GitHub ToolKit for developing GitHub Actions.
+
+Python
+https://github.com/actions/setup-python | actions/setup-python: Set up your GitHub Actions workflow with a specific version of python
+https://github.com/actions/python-versions | actions/python-versions: Python builds for Actions Virtual Environments
+https://github.com/actions/virtual-environments | actions/virtual-environments: GitHub Actions virtual environments
+https://github.com/actions/cache/blob/master/examples.md#python---pip | cache/examples.md at master · actions/cache
+
+Node
+https://github.com/actions/setup-node | actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/marketplace/actions/setup-node-js-for-use-with-actions | Setup Node.js for use with actions · Actions · GitHub Marketplace
+
+https://github.com/actions/checkout | actions/checkout: Action for checking out a repo
+https://github.com/actions/checkout#Fetch-all-branches | actions/checkout: Action for checking out a repo
+
+https://github.com/actions/upload-artifact | actions/upload-artifact
+https://github.com/actions/download-artifact | actions/download-artifact
+
+https://github.com/actions/cache | actions/cache: Cache dependencies and build outputs in GitHub Actions
+-->
+
+## GitHub Actions Docs
+
+<!--
+https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions | About billing for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace | Publishing actions in GitHub Marketplace - GitHub Help
+
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+
+GitHub Actions
+https://help.github.com/en/actions/creating-actions/creating-a-javascript-action | Creating a JavaScript action - GitHub Help
+https://help.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions | Metadata syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/workflow-commands-for-github-actions | Workflow commands for GitHub Actions - GitHub Help
+
+https://help.github.com/en/actions/creating-actions/about-actions#creating-a-readme-file-for-your-action | About actions - GitHub Help
+https://help.github.com/en/actions/creating-actions/about-actions#using-release-management-for-actions | About actions - GitHub Help
+
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/setting-up-continuous-integration-using-github-actions | Setting up continuous integration using GitHub Actions - GitHub Help
+
+
+Python
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
+
+JavaScript
+https://help.github.com/en/actions/language-and-framework-guides/github-actions-for-javascript-and-typescript | GitHub Actions for JavaScript and TypeScript - GitHub Help
+
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions | Automating your workflow with GitHub Actions - GitHub Help
+
+https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
+https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#triggering-a-workflow-with-events | Configuring a workflow - GitHub Help
+
+JavaScript or Docker
+https://help.github.com/en/actions/creating-actions/about-actions#types-of-actions
+
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions | Workflow syntax for GitHub Actions - GitHub Help
+https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsenv | Workflow syntax for GitHub Actions - GitHub Help
+
+
+Events
+https://help.github.com/en/actions/reference/events-that-trigger-workflows | Events that trigger workflows - GitHub Help
+https://help.github.com/en/actions/reference/events-that-trigger-workflows#webhook-events
+
+Permissions
+https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#token-permissions
+https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#creating-and-using-secrets-encrypted-variables
+
+Persistence
+https://help.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts | Persisting workflow data using artifacts - GitHub Help
+
+Create a release
+https://github.com/actions/create-release | actions/create-release: An Action to create releases via the GitHub Release API
+https://github.com/marketplace/actions/create-a-release | Create a Release · Actions · GitHub Marketplace
+https://developer.github.com/v3/repos/releases/#get-a-single-release
+-->
+
+<!--
+API 
+
+Password Auth
+https://developer.github.com/changes/2020-02-14-deprecating-password-auth/
+
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/ | Using the GitHub API in your app | GitHub Developer Guide
+
+https://developer.github.com/v3/actions/secrets/ | Secrets | GitHub Developer Guide
+https://developer.github.com/v3/repos/contents/#create-or-update-a-file | Contents | GitHub Developer Guide
+
+GitHub API
+https://developer.github.com/v3/
+https://developer.github.com/v3/libraries/
+GitHub GraphQL API
+https://developer.github.com/v4/
+https://developer.github.com/v4/guides/
+
+https://graphql.org/learn/best-practices/
+https://developer.github.com/v4/guides/migrating-from-rest/
+
+Endpoints
+https://developer.github.com/v3/apps/available-endpoints/
+
+Webhooks
+https://developer.github.com/webhooks/creating/
+
+Events!
+https://developer.github.com/webhooks/#events | Webhooks | GitHub Developer Guide
+
+Event examples
+https://developer.github.com/v3/activity/events/types/#installationrepositoriesevent
+https://developer.github.com/v3/activity/events/types/#issuesevent
+https://developer.github.com/v3/activity/events/types/#marketplacepurchaseevent
+
+Payloads
+https://developer.github.com/webhooks/#payloads
+https://en.wikipedia.org/wiki/Payload_(computing)
+
+https://developer.github.com/v3/issues/comments/#create-a-comment
+https://developer.github.com/v3/repos/#list-organization-repositories | Repositories | GitHub Developer Guide
+https://developer.github.com/v3/repos/branches/#get-required-status-checks-of-protected-branch | Branches | GitHub Developer Guide
+https://developer.github.com/v3/repos/statuses/#create-a-status
+
+Auth
+https://github.com/settings/tokens | Personal Access Tokens
+https://developer.github.com/apps/building-oauth-apps/understanding-scopes-for-oauth-apps/ | Understanding scopes for OAuth Apps | GitHub Developer Guide
+
+Hooks
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+-->
+
+<!--
+https://github.com/gr2m/
+https://octokit.github.io/rest.js/
+https://github.com/octokit/rest.js
+https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
+https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
+
+Settings
+https://github.com/settings/apps
+https://github.com/settings/installations
+
+Apps
+https://developer.github.com/apps
+https://developer.github.com/apps/about-apps/
+https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
+https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
+
+Using the GitHub AP in Your App
+https://developer.github.com/apps/quickstart-guides/
+https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
+https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
+
+Probot
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
 -->
 
 ## Authority Figures and Books
