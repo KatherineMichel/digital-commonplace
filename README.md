@@ -2376,39 +2376,6 @@ https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "
 -->
 
 
-## Git, GitHub, Open Source, Hosting
-
-GitHub More
-* [GitHub Explore](https://github.com/explore)
-* [GitHub Discover](https://github.com/dashboard/discover)
-* [GitHub Showcases](https://github.com/showcases)
-
-GitHub
-* [GitHub YouTube](https://www.youtube.com/user/github/videos)
-
-Marketplaces
-* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
-* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
-
-<!--
-Events
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
-GH Satellite
-https://github.com/features/codespaces | Codespaces
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
-https://github.com/codespaces-examples | codespaces-examples
-https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
-
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
--->
-
 ## GitHub Features
 
 GitHub Features
@@ -2497,6 +2464,25 @@ https://git-scm.com/docs/git-status
 https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
 -->
 
+<!--
+Events
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://securitylab.github.com/events
+
+GH Satellite
+https://github.com/features/codespaces | Codespaces
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
+https://github.com/codespaces-examples | codespaces-examples
+https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+-->
+
 ## GitHub Security
 
 <!--
@@ -2525,57 +2511,6 @@ https://help.github.com/en/articles/about-maintainer-security-advisories | About
 https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
 https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
 https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
--->
-
-## Orgs
-
-General Open Source Sites
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
-
-Foundations
-* [Choose A Foundation](http://chooseafoundation.com/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
-* [Linux Foundation](https://www.linuxfoundation.org/)
-* [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
-* [JavaScript Foundation](https://js.foundation/)
-* [Open JavaScript Foundation](https://openjsf.org/)
-* [Node Foundation](https://foundation.nodejs.org/)
-
-Important Orgs
-* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
-* [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
-
-<!--
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://choosealicense.com/ | Choose an open source license | Choose a License
-
-"OSI Approved License" badge
-https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
-
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-JS
-https://twitter.com/openjsf
-
-CNCF
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
-
-https://www.eff.org
-https://www.redhat.com
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
 -->
 
 ## Open Source and Assessment
@@ -3335,6 +3270,71 @@ https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployme
 https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
 https://about.gitlab.com/2016/11/22/introducing-review-apps/
 -->
+
+## Orgs
+
+General Open Source Sites
+* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Dot Com](https://opensource.com)
+
+Foundations
+* [Choose A Foundation](http://chooseafoundation.com/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Apache Foundation](https://www.apache.org/foundation/)
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [JavaScript Foundation](https://js.foundation/)
+* [Open JavaScript Foundation](https://openjsf.org/)
+* [Node Foundation](https://foundation.nodejs.org/)
+
+Important Orgs
+* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [TODO Group](https://todogroup.org/)
+
+<!--
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://choosealicense.com/ | Choose an open source license | Choose a License
+
+"OSI Approved License" badge
+https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
+
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+JS
+https://twitter.com/openjsf
+
+CNCF
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
+
+https://www.eff.org
+https://www.redhat.com
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+-->
+
+## Git, GitHub, Open Source, Hosting
+
+GitHub More
+* [GitHub Explore](https://github.com/explore)
+* [GitHub Discover](https://github.com/dashboard/discover)
+* [GitHub Showcases](https://github.com/showcases)
+
+GitHub
+* [GitHub YouTube](https://www.youtube.com/user/github/videos)
+
+Marketplaces
+* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
+* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
 
 ## Heroku
 
