@@ -642,7 +642,6 @@ https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-
 https://www.atlassian.com/team-playbook/examples
 -->
 
-
 ## Company Playbooks
 
 Handbooks
@@ -795,6 +794,21 @@ Site case study
 https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
 -->
+
+
+## Open Source Guides
+
+GitHub Open Source Guides
+* [GitHub Help](https://help.github.com) 
+* [GitHub Open Source Guide](https://opensource.guide)
+* [GitHub Guides](https://guides.github.com/)
+
+Google Open Source Guides
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
 
 ## GitHub and Hosting Blogs
 
@@ -2130,6 +2144,7 @@ https://github.com/Droogans/unmaintainable-code
 -->
 
 
+
 ## Philosophies
 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -2281,19 +2296,6 @@ https://www.coursera.org/professional-certificates/google-it-automation | Google
 
 
 
-## Open Source Guides
-
-GitHub Open Source Guides
-* [GitHub Help](https://help.github.com) 
-* [GitHub Open Source Guide](https://opensource.guide)
-* [GitHub Guides](https://guides.github.com/)
-
-Google Open Source Guides
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
 <!--
 Twitter language
 https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
@@ -2339,10 +2341,10 @@ https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFi
 
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
 https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
 https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 -->
 
 
@@ -2395,69 +2397,20 @@ https://glasnt.com/talks/2017_08_PyConAU/#/
 
 ## Open Source and Release Examples
 
-<!--
-Doc Examples
-
-https://twitter.com/gr2m/status/1260706056398749696
-https://deno.land/manual/contributing
-
-Docs
-pip for Python on Windows
-https://twitter.com/simonw/status/1243297680886870017
-https://projects.raspberrypi.org/en/projects/using-pip-on-windows
-
-
-Very interested- Postmortem
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-https://github.com/danluu/post-mortems
-
-README, Styleguide
-* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
-* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
-* [Guides GitHub](https://github.com/NARKOZ/guides)
-* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
-
-Templates
-https://github.com/TalAter/open-source-templates | TalAter/open-source-templates: Issue and Pull Request Template Generator featuring Chtulhu and Lewis Carroll
-https://www.talater.com/open-source-templates/#/
-
-Docs
-https://github.com/kylelobo/The-Documentation-Compendium | kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-
-https://github.com/kbariotis/templates
-https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS
-
-CODE_OF_CONDUCT
-https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
-https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
-https://github.com/VarCI/inspiring-github-templates
-
-Wiki
-https://github.com/mongodb/mongo/wiki
-
-https://github.com/adobe/open-development-template
--->
 
 
 <!--
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
-
 http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 
 https://github.com/sustainers | Sustain
 https://github.com/orgs/maintainers/people?page=1
 https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
 
 https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
-Advice
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/ParisInBmore/status/1280630279925755905 | paris on Twitter: "happy with this tweet so asking another open source q: contribs/maintainers/leaders - what are good/effective contributor recruiting strategies that you’ve come across? welcome to my twitter focus group how do u do" / Twitter
 
 https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
 -->
@@ -2495,12 +2448,6 @@ GitHub Community
 <!--
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
-Reports
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2401-the-github-diversity-report	
-
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
@@ -2511,12 +2458,6 @@ https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: 
 
 https://cli.github.com/
 https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
-
-https://github.com/benbalter/github-mention-highlighter
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
-
-https://github.com/blog/967-github-secrets | GitHub Secrets
 
 https://git-scm.com/docs
 
@@ -2536,10 +2477,7 @@ https://github.com/blog/2453-mission-report-github-universe-2017 | Mission repor
 https://securitylab.github.com/events
 
 GH Satellite
-https://github.com/features/codespaces | Codespaces
 https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
-https://github.com/codespaces-examples | codespaces-examples
-https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
 
 Competitions
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
@@ -2676,6 +2614,7 @@ https://github.com/customer-stories/facebook | Facebook
 https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
 -->
+
 
 ## Technical Writing- General
 
@@ -3269,6 +3208,12 @@ Marketplaces
 * [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
 
 <!--
+Reports
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://github.com/blog/2401-the-github-diversity-report	
+
 https://github.com/github
 
 https://resources.github.com/webcasts/
@@ -3278,6 +3223,10 @@ https://experiments.github.com
 https://primer.style/css/ | Primer CSS
 https://github.com/primer | Primer
 https://github.com/primer/design | primer/design: Primer Design Guidelines
+
+https://github.com/features/codespaces | Codespaces
+https://github.com/codespaces-examples | codespaces-examples
+https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
 
 https://github.com/marketplace/category/code-review
 
@@ -3294,6 +3243,57 @@ GH Learning Lab
 https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
 
 https://github.com/features/insights | Features · Insights
+
+https://github.com/blog/967-github-secrets | GitHub Secrets
+
+https://github.com/benbalter/github-mention-highlighter
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+-->
+
+## Open Source and Release Examples
+
+<!--
+Doc Examples
+
+https://twitter.com/gr2m/status/1260706056398749696
+https://deno.land/manual/contributing
+
+Docs
+pip for Python on Windows
+https://twitter.com/simonw/status/1243297680886870017
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows
+
+
+Very interested- Postmortem
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+https://github.com/danluu/post-mortems
+
+README, Styleguide
+* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+* [Guides GitHub](https://github.com/NARKOZ/guides)
+* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+
+Templates
+https://github.com/TalAter/open-source-templates | TalAter/open-source-templates: Issue and Pull Request Template Generator featuring Chtulhu and Lewis Carroll
+https://www.talater.com/open-source-templates/#/
+
+Docs
+https://github.com/kylelobo/The-Documentation-Compendium | kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+
+https://github.com/kbariotis/templates
+https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS
+
+CODE_OF_CONDUCT
+https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
+https://github.com/VarCI/inspiring-github-templates
+
+Wiki
+https://github.com/mongodb/mongo/wiki
+
+https://github.com/adobe/open-development-template
 -->
 
 ## GitHub Security
@@ -3784,6 +3784,12 @@ http://githooks.com/
 -->
 
 <!--
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+
 https://github.com/gr2m/
 https://octokit.github.io/rest.js/
 https://github.com/octokit/rest.js
