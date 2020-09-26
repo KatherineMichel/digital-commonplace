@@ -961,11 +961,71 @@ https://www.npmjs.com/package/eslint-plugin-angular
 https://github.com/salesforce/eslint-plugin-lwc
 -->
 
-
-## JavaScript Ecosystem
+## React
 
 React and Vue
 * [React Fiber Wikipedia](https://en.wikipedia.org/wiki/React_Fiber)
+
+Facebook- React Native
+* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
+
+## React Developer Tools and Performance
+
+React Developer Tools
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+React Profiler
+* [React Performance Tools](https://reactjs.org/docs/perf.html)
+
+<!--
+https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
+
+https://reactjs.org/docs/optimizing-performance.html#profiling-components-with-the-chrome-performance-tab
+https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html | Introducing the React Profiler – React Blog
+
+https://github.com/facebook/prop-types | facebook/prop-types: Runtime type checking for React props and similar objects
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+
+https://addons.mozilla.org/en-US/firefox/addon/react-devtools/ | React Developer Tools – Get this Extension for 🦊 Firefox (en-US)
+-->
+
+## React and Vue
+
+Facebook- React (JavaScript)
+
+React
+* [React Dev Tools GitHub](https://github.com/facebook/react-devtools)
+* [React- Getting Started](https://reactjs.org/docs/getting-started.html)
+* [React- Tutorial](https://reactjs.org/tutorial/tutorial.html)
+* [React- Glossary](https://reactjs.org/docs/glossary.html)
+
+<!--
+* [React Community GitHub](https://github.com/reactjs)
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Components](http://react-components.com)
+-->
+
+<!--
+https://reactjs.org/community/conferences.html | Conferences – React
+
+https://reactjs.org/docs/hooks-reference.html
+https://reactjs.org/blog/2018/11/13/react-conf-recap.html
+https://github.com/paralleldrive/react-feature-toggles
+
+https://github.com/facebook/react/tree/master/packages | react/packages at master · facebook/react
+
+React Official
+https://reactjs.org/blog/2018/10/01/create-react-app-v2.html | Create React App 2.0: Babel 7, Sass, and More – React Blog
+https://reactjs.org/docs/hello-world.html
+https://reactjs.org/docs/thinking-in-react.html | Thinking in React – React
+https://reactjs.org/docs/optimizing-performance.html | Optimizing Performance – React
+https://reactjs.org/docs/add-react-to-a-website.html | Add React to a Website – React
+https://reactjs.org/docs/faq-internals.html | Virtual DOM and Internals – React
+-->
+
+## JavaScript Ecosystem
 
 JSX (Syntax Extension; React)
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
@@ -999,9 +1059,6 @@ https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/ | The Vue Instance - Intro to Vue.js | Vue Mastery
 -->
-
-Facebook- React Native
-* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
 React-Router (React Stack)
 * [React-Router](https://reacttraining.com/react-router) and [React-Router GitHub](https://github.com/ReactTraining/react-router)
@@ -1118,62 +1175,6 @@ jasmine mocha qunit
 React and Vue
 https://kentcdodds.com/blog/introducing-the-react-testing-library | Introducing the react-testing-library 🐐
 https://vuejs.org/v2/guide/unit-testing.html | Unit Testing — Vue.js
--->
-
-## React Developer Tools and Performance
-
-React Developer Tools
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-
-React Profiler
-* [React Performance Tools](https://reactjs.org/docs/perf.html)
-
-<!--
-https://developers.google.com/web/fundamentals/performance/webpack/ | Introduction  |  Web Fundamentals  |  Google Developers
-
-https://reactjs.org/docs/optimizing-performance.html#profiling-components-with-the-chrome-performance-tab
-https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html | Introducing the React Profiler – React Blog
-
-https://github.com/facebook/prop-types | facebook/prop-types: Runtime type checking for React props and similar objects
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-
-https://addons.mozilla.org/en-US/firefox/addon/react-devtools/ | React Developer Tools – Get this Extension for 🦊 Firefox (en-US)
--->
-
-## React and Vue
-
-Facebook- React (JavaScript)
-
-React
-* [React Dev Tools GitHub](https://github.com/facebook/react-devtools)
-* [React- Getting Started](https://reactjs.org/docs/getting-started.html)
-* [React- Tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [React- Glossary](https://reactjs.org/docs/glossary.html)
-
-<!--
-* [React Community GitHub](https://github.com/reactjs)
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-* [React Components](http://react-components.com)
--->
-
-<!--
-https://reactjs.org/community/conferences.html | Conferences – React
-
-https://reactjs.org/docs/hooks-reference.html
-https://reactjs.org/blog/2018/11/13/react-conf-recap.html
-https://github.com/paralleldrive/react-feature-toggles
-
-https://github.com/facebook/react/tree/master/packages | react/packages at master · facebook/react
-
-React Official
-https://reactjs.org/blog/2018/10/01/create-react-app-v2.html | Create React App 2.0: Babel 7, Sass, and More – React Blog
-https://reactjs.org/docs/hello-world.html
-https://reactjs.org/docs/thinking-in-react.html | Thinking in React – React
-https://reactjs.org/docs/optimizing-performance.html | Optimizing Performance – React
-https://reactjs.org/docs/add-react-to-a-website.html | Add React to a Website – React
-https://reactjs.org/docs/faq-internals.html | Virtual DOM and Internals – React
 -->
 
 ## Vue and Angular
