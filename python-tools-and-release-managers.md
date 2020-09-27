@@ -242,6 +242,26 @@ https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed d
 https://pyup.io/safety/
 -->
 
+## Useful Files
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Rake and Make
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [Make Wikipedia](https://en.wikipedia.org/wiki/Make_(software))
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+
+Files
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
 ## Companies that Use Python
 
 Companies that Use Python
