@@ -361,11 +361,6 @@ https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twi
 
 https://www.pypy.org/ | PyPy
 
-Martin Fowler/Thoughtworks/Patterns
-https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
-https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
-
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
 
@@ -2062,10 +2057,13 @@ https://www.computer.org/publications/tech-news/on-architecture | On Architectur
 
 https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
 
-https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
-https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
 
 https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 https://refactoring.guru/collapse-hierarchy
@@ -2105,6 +2103,8 @@ https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
 
 https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
 https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
+
 https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
 
 
