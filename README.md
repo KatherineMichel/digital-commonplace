@@ -2343,11 +2343,14 @@ https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design S
 
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 
-GitHub Stars
-https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
-
 https://cli.github.com/
 https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+https://github.com/github/rest-api-description
+
+https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 
 https://git-scm.com/docs
 
@@ -2364,10 +2367,6 @@ OS/PSF
 https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
 https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
 
-https://github.com/github/rest-api-description
-
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
 
 ADR
@@ -2381,16 +2380,12 @@ https://bestpractices.coreinfrastructure.org/en | BadgeApp
 https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
 
 https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
-
-https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 -->
 
 <!--
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
 
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-
-http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
 -->
 
 ## Open Source and Assessment
@@ -3263,6 +3258,9 @@ https://github.com/features/project-management/
 
 https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
 
+GitHub Stars
+https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
+
 https://github.com/sponsors | GitHub Sponsors
 
 GH Learning Lab
@@ -3605,6 +3603,8 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 ## GitHub API
 
 <!--
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
 GitHub
 https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
 
