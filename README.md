@@ -1255,27 +1255,9 @@ Shells
 * [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 * [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
 
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Rake and Make
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [Make Wikipedia](https://en.wikipedia.org/wiki/Make_(software))
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-
-Files
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
 Maintenance
 * [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
 * [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
 YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
