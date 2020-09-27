@@ -309,6 +309,7 @@ https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An o
 
 <!--
 https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
+https://github.com/MysteryVaibhav/leetcode_company_wise_questions | MysteryVaibhav/leetcode_company_wise_questions: This is a repository containing the list of company wise questions available on leetcode premium
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
