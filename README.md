@@ -793,6 +793,10 @@ Twitter
 Site case study
 https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
+
+Twitter language
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 -->
 
 
@@ -2060,6 +2064,9 @@ Refactoring
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 <!--
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
 Grady
 https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
 
@@ -2295,21 +2302,7 @@ https://www.coursera.org/professional-certificates/google-it-automation | Google
 -->
 
 
-
 <!--
-Twitter language
-https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
-https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
--->
-
-
-<!--
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
@@ -2321,9 +2314,6 @@ https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sp
 https://github.com/github/rest-api-description
 
 https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-GitHub
-https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
 
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
 
@@ -2341,61 +2331,8 @@ https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFi
 
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 -->
-
-
-<!--
-Nadia Eghbal
-https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 | Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862: Amazon.com: Books
-
-http://anonymoushash.vmbrasseur.com
-https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
-
-Sarah Cope
-https://github.com/saracope/shaping-the-contributor-experience
-https://saracope.github.io/shaping-the-contributor-experience/
-
-https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
-
-https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
-
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-
-Important!
-https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
-
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-
-Contributing to Open Source: A Guide
-https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
-http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
-https://stackoverflow.com/help/minimal-reproducible-example
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
-
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
-
-https://opensource.guide/best-practices/
-https://github.com/github/opensource.guide/tree/master/_articles
-https://opensource.guide/starting-a-project/
-https://opensource.guide/finding-users/
-https://opensource.guide/building-community/
-https://opensource.guide/leadership-and-governance/
-
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-https://glasnt.com/talks/2017_08_PyConAU/#/
--->
-
-## Open Source and Release Examples
 
 
 
@@ -2405,17 +2342,11 @@ http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-pl
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
 
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-
-https://github.com/sustainers | Sustain
-https://github.com/orgs/maintainers/people?page=1
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-
-https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
 -->
 
 
+
+## Open Source and Release Examples
 
 ## GitHub Features
 
@@ -2465,24 +2396,6 @@ https://git-scm.com/docs/git-status
 https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
 -->
 
-
-<!--
-https://github.com/githubevents | GitHub Events
-
-Events
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
-GH Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
-
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
--->
 
 ## Open Source and Assessment
 
@@ -2555,6 +2468,24 @@ https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organiz
 Open source report card
 -->
 
+<!--
+https://github.com/githubevents | GitHub Events
+
+Events
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://securitylab.github.com/events
+
+GH Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+-->
+
 
 ## Open Source in Orgs
 
@@ -2597,6 +2528,12 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
     
 <!--
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
 https://github.com/todogroup/awesome-oss-mgmt
 
 https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
@@ -3208,6 +3145,9 @@ Marketplaces
 * [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
 
 <!--
+Nadia Eghbal
+https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 | Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862: Amazon.com: Books
+
 Reports
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
 https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
@@ -3254,6 +3194,50 @@ https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from
 ## Open Source and Release Examples
 
 <!--
+http://anonymoushash.vmbrasseur.com
+https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
+
+Sarah Cope
+https://github.com/saracope/shaping-the-contributor-experience
+https://saracope.github.io/shaping-the-contributor-experience/
+
+https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+
+Important!
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
+
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+Contributing to Open Source: A Guide
+https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
+http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
+https://stackoverflow.com/help/minimal-reproducible-example
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
+
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
+
+https://opensource.guide/best-practices/
+https://github.com/github/opensource.guide/tree/master/_articles
+https://opensource.guide/starting-a-project/
+https://opensource.guide/finding-users/
+https://opensource.guide/building-community/
+https://opensource.guide/leadership-and-governance/
+
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+https://glasnt.com/talks/2017_08_PyConAU/#/
+-->
+
+<!--
 Doc Examples
 
 https://twitter.com/gr2m/status/1260706056398749696
@@ -3294,6 +3278,8 @@ Wiki
 https://github.com/mongodb/mongo/wiki
 
 https://github.com/adobe/open-development-template
+
+https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
 -->
 
 ## GitHub Security
@@ -3624,6 +3610,12 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 ## GitHub API
 
 <!--
+GitHub
+https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
+
+https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
+
+
 https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
 https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
 
