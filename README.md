@@ -345,6 +345,7 @@ https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
 Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: A reading list for infosec engineers
 https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
@@ -2376,8 +2377,6 @@ https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFi
 -->
 
 <!--
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 -->
 
@@ -2512,6 +2511,8 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
     
 <!--
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
 https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
 
 https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
