@@ -1,6 +1,17 @@
 # Web and JavaScript Notes
 
 <!--
+Node API
+https://feathersjs.com/ | Feathers | A framework for real-time applications and REST APIs
+
+JS Tools
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.
+https://github.com/puppeteer/puppeteer
+https://github.com/microsoft/playwright-python
+
+
 https://www.11ty.dev/
 
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
