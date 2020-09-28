@@ -220,6 +220,23 @@ https://github.com/eda3/pyconjp2020-slackbot | eda3/pyconjp2020-slackbot
 https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
 
 
+https://github.com/githubevents | GitHub Events
+
+Events
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://live-stream.github.com/ | GitHub Live Events
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://securitylab.github.com/events
+
+GH Satellite
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
 https://twitter.com/DevRelAwards
@@ -372,6 +389,10 @@ https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twi
 
 
 https://www.pypy.org/ | PyPy
+
+Python security
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
@@ -1280,13 +1301,6 @@ https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a
 https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
 https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
-
-Apple
-
-Python security
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
-
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
 
@@ -1302,26 +1316,10 @@ https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
 
 https://www.iterm2.com/
 https://kapeli.com/dash_guide
-
-Brew script
-
-Homebrew
-https://github.com/Linuxbrew/homebrew-core
-https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
-
-https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
-https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
-https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
 -->
 
 <!--
 aliases, dotfiles, Regex
-
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
-
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
 
 https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
 
@@ -1368,20 +1366,10 @@ https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scrip
 
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
 
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-
 https://learnxinyminutes.com/docs/yaml/
 https://en.m.wikipedia.org/wiki/YAML
 http://www.yaml.org/refcard.html
 https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
-Dotfiles
-https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
-https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
-https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
-https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 -->
 
 ## Python and Django
@@ -1470,16 +1458,6 @@ https://reactnative.dev/docs/getting-started
 
 
 https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-
-Node API
-https://feathersjs.com/ | Feathers | A framework for real-time applications and REST APIs
-
-JS Tools
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.
-https://github.com/puppeteer/puppeteer
-https://github.com/microsoft/playwright-python
 -->
 
 ## JAMStack
@@ -2297,6 +2275,7 @@ https://www.coursera.org/professional-certificates/google-it-automation | Google
 -->
 
 
+
 ## Open Source and Release Examples
 
 ## GitHub Features
@@ -2333,26 +2312,24 @@ https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-p
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
 
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
 https://cli.github.com/
 https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
-
-http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
-
-https://github.com/github/rest-api-description
 
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
 
 https://git-scm.com/docs
-
 https://git-scm.com/docs/git-status
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
 https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
+
+https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
 -->
 
 <!--
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
@@ -2374,9 +2351,7 @@ https://bestpractices.coreinfrastructure.org/en | BadgeApp
 https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
 
 https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
--->
 
-<!--
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 -->
 
@@ -2449,24 +2424,6 @@ http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | 
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
 Open source report card
--->
-
-<!--
-https://github.com/githubevents | GitHub Events
-
-Events
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
-GH Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
-
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 -->
 
 
@@ -2628,35 +2585,6 @@ https://github.com/adobe/open-development-template
 https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
 -->
 
-## Technical Writing- General
-
-<!--
-https://en.wikipedia.org/wiki/Five_Ws
-
-https://github.com/jnordberg/wintersmith/wiki/Showcase
-
-http://www.writethedocs.org/
-https://github.com/writethedocs/www
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-https://twitter.com/thoward37/status/1227286141537144832
-https://abookapart.com/products/everyday-information-architecture
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
--->
 
 
 ## General Software Design Patterns
@@ -3254,6 +3182,40 @@ https://github.com/blog/967-github-secrets | GitHub Secrets
 https://github.com/benbalter/github-mention-highlighter
 https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+https://github.com/github/rest-api-description
+-->
+
+## Technical Writing- General
+
+<!--
+https://en.wikipedia.org/wiki/Five_Ws
+
+https://github.com/jnordberg/wintersmith/wiki/Showcase
+
+http://www.writethedocs.org/
+https://github.com/writethedocs/www
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
+
+https://twitter.com/thoward37/status/1227286141537144832
+https://abookapart.com/products/everyday-information-architecture
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
+
+2017 Open Source Survey
+https://opensourcesurvey.org/2017/
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 -->
 
 ## GitHub Security
