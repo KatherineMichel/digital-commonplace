@@ -106,14 +106,9 @@ https://github.com/jessfraz/dockerfiles
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
 
-https://realpython.com/python-vs-javascript/ | Python vs JavaScript for Pythonistas – Real Python
-
-https://realpython.com/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-
 Stop Writing Classes
 https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-https://realpython.com/courses/inheritance-composition-python/
 
 https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
@@ -143,9 +138,6 @@ Profiling
 https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
 https://github.com/asottile/importtime-waterfall/
 har http timing
-
-https://realpython.com/python-code-quality/ | Python Code Quality: Tools & Best Practices – Real Python
-https://realpython.com/lessons/python-traceback-overview/ | Getting the Most Out of a Python Traceback (Overview) – Real Python
 
 https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
@@ -652,8 +644,9 @@ Django Views
 Django ORM
 * [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
 
+Django Request/Response
+
 <!--
-https://docs.djangoproject.com/en/2.2/ref/request-response/ | Request and response objects | Django documentation | Django
 https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
 
 https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
@@ -662,8 +655,14 @@ https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
 https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
 https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
 https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
--->
 
+
+https://docs.djangoproject.com/en/3.1/ref/request-response/
+https://docs.djangoproject.com/en/3.1/ref/request-response/#module-django.http
+https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects
+https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects
+https://docs.djangoproject.com/en/3.1/ref/request-response/#jsonresponse-objects
+-->
 
 ## Django Source
 
@@ -712,6 +711,12 @@ https://github.com/django/django/blob/master/django/contrib/auth/base_user.py |
 https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
+## Django Serialization
+
+Python- Django- Rest Framework (Serialization/Deserialization)
+* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
 ### Django Testing
 
@@ -802,6 +807,85 @@ https://12factor.net/config | The Twelve-Factor App
 https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
 -->
 
+
+## Performance
+
+Python Time Complexity, Performance
+* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
+* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
+* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+
+Python Benchmarking and Profiling
+* [profile](https://docs.python.org/3/library/profile.html)
+* [timeit](https://docs.python.org/3/library/timeit.html)
+
+Diagnostic tools
+* hotshot module?
+* cProfile module
+
+<!--
+http://scipy.github.io/old-wiki/pages/PerformancePython
+
+27.4. The Python Profilers
+https://docs.python.org/3/library/profile.html#module-pstats
+
+https://wiki.python.org/moin/PythonSpeed/Profiling
+http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+https://numba.pydata.org/
+
+https://en.wikipedia.org/wiki/Schwartzian_transform
+https://wiki.python.org/moin/DecorateSortUndecorate
+
+https://wiki.python.org/moin/ConcatenationTestCode
+
+https://docs.python.org/3/library/sys.html#sys.setcheckinterval
+-->
+
+## Python Profiling
+
+<!--
+https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
+
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
+Third Party Testing and Profiling
+
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
+
+
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+Telemetry
+https://en.wikipedia.org/wiki/Telemetry
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+-->
+
+
+
 ## Debugging
 
 Debugging
@@ -821,23 +905,8 @@ Important
 * [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
 * [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
 
+
 <!--
-https://boto3.readthedocs.io/en/latest/index.html
-
-Brian Okken
-http://pythontesting.net/start-here/
-
-https://testdriven.io/ | Test Driven Development Courses
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-
-Sites
-* [Automation Panda](https://automationpanda.com)
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-https://automationpanda.com/python/
-https://automationpanda.com/tag/development/
-https://automationpanda.com/bdd/
-
-
 Speaking
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
 https://speakerdeck.com/pycon2018?page=2
@@ -847,9 +916,31 @@ https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 201
 2020 Goals
 https://twitter.com/AutomationPanda/status/1226591212632596480
 
+https://boto3.readthedocs.io/en/latest/index.html
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/unit-testing/ | Overview
+https://testautomationu.applitools.com/python-tutorial/
+https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
+
+Brian Okken
+http://pythontesting.net/start-here/
+
+https://testdriven.io/ | Test Driven Development Courses
+
+Testing pyramid
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+
+Sites
+* [Automation Panda](https://automationpanda.com)
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+https://automationpanda.com/python/
+https://automationpanda.com/bdd/
+https://automationpanda.com/tag/development/
 
 
-https://en.wikipedia.org/wiki/Behavior-driven_development
+
 
 state behavior versus behavior verification
 https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
@@ -861,6 +952,35 @@ Reading from and writing to databases
 Calling other application's APIs
 Reading from and writing to queues
 Writing to the filesystem"
+-->
+
+## Types of Software Testing
+
+Software Testing
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+Other Types of Testing- Performance/Stress
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
+
+Other Types of Testing- Acceptance
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+
+Other Types of Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
+* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
+
+Other Types of Testing
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+
+<!--
+https://en.wikipedia.org/wiki/Behavior-driven_development
 -->
 
 ## Python Testing
@@ -883,6 +1003,7 @@ pytest
 Selenium
 * [Selenium](http://www.seleniumhq.org)
 * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
+
 
 <!--
 Test automation
@@ -931,23 +1052,6 @@ https://thoughtbot.com/blog/i-mock-your-fixtures-too
 -->
 
 <!--
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-Telemetry
-https://en.wikipedia.org/wiki/Telemetry
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
-
 JS Scene
 Unit Tests/TDD
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
@@ -1017,64 +1121,6 @@ https://cucumber.io/ | Cucumber
 https://github.com/cucumber/gherkin-python
 -->
 
-## Performance
-
-Python Time Complexity, Performance
-* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
-* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
-* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
-
-Python Benchmarking and Profiling
-* [profile](https://docs.python.org/3/library/profile.html)
-* [timeit](https://docs.python.org/3/library/timeit.html)
-
-Diagnostic tools
-* hotshot module?
-* cProfile module
-
-<!--
-http://scipy.github.io/old-wiki/pages/PerformancePython
-
-27.4. The Python Profilers
-https://docs.python.org/3/library/profile.html#module-pstats
-
-https://wiki.python.org/moin/PythonSpeed/Profiling
-http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-https://numba.pydata.org/
-
-https://en.wikipedia.org/wiki/Schwartzian_transform
-https://wiki.python.org/moin/DecorateSortUndecorate
-
-https://wiki.python.org/moin/ConcatenationTestCode
-
-https://docs.python.org/3/library/sys.html#sys.setcheckinterval
--->
-
-
-## Python Profiling
-
-<!--
-https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
-
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-
-Third Party Testing and Profiling
-
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
--->
 
 <!--
 Talks
@@ -1104,16 +1150,13 @@ https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
 DjangoCon Keynote by Ana
 -->
 
-<!--
-Testing pyramid
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
+## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
 
-https://testautomationu.applitools.com/unit-testing/ | Overview
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
 
-https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
-https://testautomationu.applitools.com/python-tutorial/
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
--->
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 ## Python and Django Debugging and Testing
 
@@ -1132,6 +1175,7 @@ https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Test
 
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 -->
+
 
 ## Django Rest Framework
 
@@ -1164,53 +1208,6 @@ https://github.com/wsvincent/rest-framework-tutorial
 https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
 -->
 
-## Serialization
-
-Python- Django- Rest Framework (Serialization/Deserialization)
-* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-## Python and Django Geo
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
-
-<!--
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
-
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-
 
 ## Python Non-Official Styleguides and Code Formatting
 
@@ -1232,53 +1229,6 @@ https://docs.python-guide.org/#writing-great-python-code
 
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-
-## Structuring Your Python Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Django Project Structure
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-## Types of Software Testing
-
-Software Testing
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-
-Other Types of Testing- Performance/Stress
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
-
-Other Types of Testing- Acceptance
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-
-Other Types of Testing
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
-* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
-
-Other Types of Testing
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-
-## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
-
-Nose (Unit Test Extension)
-* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
-
-Django Nose
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 ## Website and Blog Resources
 
@@ -1423,8 +1373,6 @@ Python and Visual Studio Code
 * [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
 
 <!--
-https://realpython.com/python-development-visual-studio-code/ | Python Development in Visual Studio Code – Real Python
-
 https://developers.google.com/web/updates/2017/04/headless-chrome
 https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
@@ -1864,10 +1812,6 @@ https://twitter.com/pganssle/status/1167147863899561984 | Paul Ganssle on Twitte
 
 https://docutils.sourceforge.io/rst.html | reStructuredText
 https://pandoc.org/ | Pandoc - About pandoc
-
-https://realpython.com/lessons/python-project-documentation-overview/ | Python Project Documentation Overview – Real Python
-https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-https://realpython.com/courses/documenting-python-projects-sphinx-read-the-docs/ | Documenting Python Projects With Sphinx and Read The Docs – Real Python
 
 Mason Egger
 https://www.youtube.com/watch?v=wEt_8twQctQ&feature=youtu.be
