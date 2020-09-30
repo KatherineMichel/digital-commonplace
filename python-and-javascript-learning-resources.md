@@ -1,6 +1,18 @@
 # Python and JavaScript Learning Resources
 
 <!--
+LinkedIn
+https://news.microsoft.com/skills/ | Microsoft Digital Event
+https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
+https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
+
+Aaron
+https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
+
+Hello Web Design
+https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
+
+
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 * [Real Python Courses](https://realpython.com/courses)
@@ -24,6 +36,16 @@ https://testdriven.io/ | Test-driven Development, Microservices, Web Development
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 https://www.toptal.com/python/python-design-patterns
+
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+
+https://github.com/Kallaway/100-days-of-code
+https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
+
+100 Days Tweets
+https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
+https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
 -->
 
 <!--
@@ -65,9 +87,9 @@ Nina
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 -->
 
-
-
 <!--
+https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
+
 Learning to code
 
 https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
@@ -90,61 +112,6 @@ https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twit
 Think like a programmer
 https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
 https://en.wikipedia.org/wiki/Pseudocode
--->
-
-
-<!--
-https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
-
-Aaron
-https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gibson 🇪🇺 on Twitter: "These videos are a gold mine you know!" / Twitter
-
-Hello Web Design
-https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
-
-https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
-https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
-
-Automate the Boring Stuff
-https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
-https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | No Starch Press
-
-https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
-
-https://learncodethehardway.org/more-python/
--->
-
-<!--
-https://github.com/Kallaway/100-days-of-code
-https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
-
-100 Days Tweets
-https://twitter.com/learn__together | Let's learn together 🤖 (@learn__together) / Twitter
-https://twitter.com/100xcode | 🤖 #100DaysOfCode 🎉 (@100xcode) / Twitter
-
-
-LinkedIn
-https://news.microsoft.com/skills/ | Microsoft Digital Event
-https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
-https://www.linkedin.com/learning/ | LinkedIn Learning: Online Training Courses for Creative, Technology, Business Skills
-
-
-Python Exercise
-https://store.lerner.co.il/wpe | Weekly Python Exercise
-
-code kata - Google Search
-Codeforces
-https://codingbat.com/ | CodingBat
-
-https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I've found some coding exercises I submitted when applying for jobs at tech companies. Would you folks be interested in a blog post explaining how I approach such coding challenges and some lessons learned? https://t.co/qzdairdJwH" / Twitter
-
-
-https://gumroad.com/l/suydt | Speed Up Your Django Tests
-adamchainz/time-machine - Google Search
 -->
 
 
@@ -244,6 +211,9 @@ https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 
 <!--
 People
+
+https://gumroad.com/l/suydt | Speed Up Your Django Tests
+adamchainz/time-machine - Google Search
 
 Michael
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
@@ -454,6 +424,16 @@ Math Resources
 
 
 <!--
+Python Exercise
+https://store.lerner.co.il/wpe | Weekly Python Exercise
+
+code kata - Google Search
+Codeforces
+https://codingbat.com/ | CodingBat
+
+https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I've found some coding exercises I submitted when applying for jobs at tech companies. Would you folks be interested in a blog post explaining how I approach such coding challenges and some lessons learned? https://t.co/qzdairdJwH" / Twitter
+
+
 https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 
@@ -753,14 +733,20 @@ No Starch Press
 * [Mahesh Venkitachalam: Python Playground](https://nostarch.com/pythonplayground)
 
 <!--
+https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
+
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
 https://github.com/ehmatthes/pcc_2e | ehmatthes/pcc_2e: Online resources for Python Crash Course (Second Edition), from No Starch Press
 https://ehmatthes.github.io/pcc/cheatsheets/README.html | Python Crash Course by ehmatthes
+https://ehmatthes.github.io/pcc_2e/setup_instructions/setup_instructions/ | Setup Instructions - Python Crash Course, 2nd Edition
 
 https://twitter.com/ehmatthes/status/1177266375686901761 | Eric Matthes on Twitter: "If you missed it yesterday, all of the cheat sheets for the first half of Python Crash Course have been updated. You can find them here: https://t.co/n60JHaqIpc I'll get the project-related sheets posted shortly." / Twitter
 
 Python Crash Course
 https://twitter.com/ehmatthes/status/1113109071320637441 | Eric Matthes on Twitter: "Thanks for the review, Mike. I think these cards will find their niche, and be quite useful to people who are looking to get a firm grasp on the fundamentals of Python, and programming in general.… https://t.co/hukp532FG0"
+
+Automate the Boring Stuff
+https://automatetheboringstuff.com/2e/appendixb/ | Automate the Boring Stuff with Python
 
 https://github.com/asweigart/automateboringstuff1stedition
 https://automatetheboringstuff.com/chapter8/ | Automate the Boring Stuff with Python
@@ -870,6 +856,9 @@ Teaching Python with Nicholas Tollervey
 
 https://twitter.com/wsv3000 | William Vincent (@wsv3000) | Twitter
 https://leanpub.com/u/wsvincent | William S. Vincent
+
+https://twitter.com/nitin_cherian/status/1161834213227655168 | Nitin George Cherian on Twitter: "If you want to learn Django web development and get upto speed quickly I highly recommend "https://t.co/sYpGiVe1P9" book by @wsv3000 . By the end of it you will be very confident developing Django apps and ready to go to the next level. #Python #webdevelopment #Django" / Twitter
+https://www.amazon.com/gp/product/B079ZZLRRL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 | Django for Beginners: Build websites with Python and Django 1, William S. Vincent, eBook - Amazon.com
 
 https://wsvincent.com/django-tips-imports/ | Django Tips #2: Imports - William S. Vincent
 https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: makemigrations command - William S. Vincent
