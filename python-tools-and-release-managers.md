@@ -285,6 +285,7 @@ https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/se
 https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 -->
 
+
 ## Companies that Use Python
 
 Companies that Use Python
@@ -479,6 +480,65 @@ https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc05
 https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
 -->
 
+## Django Organization Tools
+
+<!--
+Lincoln Loop Stack
+High Performance Django Stack
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
+
+https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
+https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
+
+Calvin
+https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
+
+https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
+https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
+https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
+https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
+
+https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
+
+https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
+
+https://github.com/adamchainz/django-perf-rec
+https://gumroad.com/l/suydt
+
+https://jazzband.co/ | Jazzband
+https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
+https://github.com/jazzband/dj-rest-auth
+https://github.com/jazzband/django-model-utils
+
+https://twitter.com/jpadilla_/status/1189752115566133248
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
+
+https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
+
+https://github.com/jambonsw/django-improved-user
+
+https://github.com/lincolnloop/django-alive
+
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
+
+Feature Flags
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+-->
+
+
 ## General Talks
 
 <!--
@@ -604,6 +664,55 @@ https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpReq
 https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
 -->
 
+
+## Django Source
+
+<!--
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
+https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
+https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
+https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
+
+https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
+https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
+
+Django Source Code
+https://github.com/django/django/blob/master/django/__init__.py	
+https://github.com/django/django/tree/master/django/apps	
+https://github.com/django/django/blob/master/django/apps/config.py	
+https://github.com/django/django/blob/master/django/apps/registry.py
+https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/conf.py	
+https://github.com/django/django/blob/master/django/urls/resolvers.py
+https://github.com/django/django/blob/master/django/middleware/common.py
+
+https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
+https://github.com/django/django/blob/master/django/http
+https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
+https://github.com/django/django/blob/master/django/http/response.py	
+
+https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
+	
+https://github.com/django/django/blob/master/django/shortcuts.py
+https://github.com/django/django/blob/master/django/core/exceptions.py	
+	
+https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
+https://github.com/django/django/blob/master/django/db/models/__init__.py 	
+https://github.com/django/django/blob/master/django/db/models/query.py	
+https://github.com/django/django/blob/master/django/db/models/query.py#L337	
+https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
+https://github.com/django/django/blob/master/django/db/models/lookups.py
+-->
+
+
 ### Django Testing
 
 Django Testing- Official
@@ -660,54 +769,6 @@ Django Deployment
 * [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
 
 
-
-## Django Source
-
-<!--
-https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
-https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
-https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
-https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
-
-https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
-https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
-
-Django Source Code
-https://github.com/django/django/blob/master/django/__init__.py	
-https://github.com/django/django/tree/master/django/apps	
-https://github.com/django/django/blob/master/django/apps/config.py	
-https://github.com/django/django/blob/master/django/apps/registry.py
-https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/urls/conf.py	
-https://github.com/django/django/blob/master/django/urls/resolvers.py
-https://github.com/django/django/blob/master/django/middleware/common.py
-
-https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
-https://github.com/django/django/blob/master/django/http
-https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
-https://github.com/django/django/blob/master/django/http/response.py	
-
-https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
-	
-https://github.com/django/django/blob/master/django/shortcuts.py
-https://github.com/django/django/blob/master/django/core/exceptions.py	
-	
-https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
-https://github.com/django/django/blob/master/django/db/models/__init__.py 	
-https://github.com/django/django/blob/master/django/db/models/query.py	
-https://github.com/django/django/blob/master/django/db/models/query.py#L337	
-https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
-https://github.com/django/django/blob/master/django/db/models/lookups.py
--->
-
 ## Django Classy
 
 Django Classy
@@ -761,6 +822,33 @@ Important
 * [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
 
 <!--
+https://boto3.readthedocs.io/en/latest/index.html
+
+Brian Okken
+http://pythontesting.net/start-here/
+
+https://testdriven.io/ | Test Driven Development Courses
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+
+Sites
+* [Automation Panda](https://automationpanda.com)
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+https://automationpanda.com/python/
+https://automationpanda.com/tag/development/
+https://automationpanda.com/bdd/
+
+
+Speaking
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+
+
 https://en.wikipedia.org/wiki/Behavior-driven_development
 
 state behavior versus behavior verification
@@ -843,6 +931,8 @@ https://thoughtbot.com/blog/i-mock-your-fixtures-too
 -->
 
 <!--
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
 Debugging
 https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
 https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
@@ -852,12 +942,9 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 
 Telemetry
 https://en.wikipedia.org/wiki/Telemetry
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 
 https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
 
@@ -876,15 +963,6 @@ https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 
 https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
-
-Speaking
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
-
-2020 Goals
-https://twitter.com/AutomationPanda/status/1226591212632596480
 -->
 
 
@@ -933,7 +1011,6 @@ https://hypothesis.readthedocs.io/en/latest/
 https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 
 BDD
-https://automationpanda.com/bdd/
 https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
 https://github.com/behave/behave | behave/behave: BDD, Python style.
 https://cucumber.io/ | Cucumber
@@ -995,7 +1072,6 @@ https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | 
 
 https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
 https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://www.pluralsight.com/guides/python/quick-profiling-in-python | Quick profiling in Python (Example) | hack.guides()
 https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
 http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 -->
@@ -1029,26 +1105,14 @@ DjangoCon Keynote by Ana
 -->
 
 <!--
-Sites
-* [Automation Panda](https://automationpanda.com)
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-https://automationpanda.com/python/
-https://automationpanda.com/tag/development/
-
 Testing pyramid
 https://automationpanda.com/2018/08/01/the-testing-pyramid/
 
-https://testdriven.io/ | Test Driven Development Courses
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://testautomationu.applitools.com/unit-testing/ | Overview
 
 https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
 https://testautomationu.applitools.com/python-tutorial/
 https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
-
-Brian Okken
-http://pythontesting.net/start-here/
 -->
 
 ## Python and Django Debugging and Testing
@@ -1710,8 +1774,6 @@ Additional Serverless
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
 
 <!--
-https://boto3.readthedocs.io/en/latest/index.html
-
 https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
 
 Google Cloud
