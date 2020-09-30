@@ -4,7 +4,7 @@
 
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-* [Real Python Courses](https://realpython.com/courses)
+* [Real Python](https://realpython.com/) and [Real Python Courses](https://realpython.com/courses)
 
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
@@ -30,8 +30,6 @@ https://realpython.com/switching-to-python
 
 https://www.datacamp.com/community/tutorials?tag=python
 https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
-
-https://realpython.com/ | Python Tutorials – Real Python
 
 https://mherman.org/talks | Talks and Trainings
 https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
@@ -63,6 +61,12 @@ https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehens
 -->
 
 <!--
+Kushal Das
+https://pymbook.readthedocs.io/en/latest/index.html
+
+Naomi Ceder
+https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
+
 https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
 https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
 
@@ -71,12 +75,6 @@ https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on
 https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
 https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
 http://takingnot.es/
-
-Kushal Das
-https://pymbook.readthedocs.io/en/latest/index.html
-
-Naomi Ceder
-https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
 
 Good Print, hello debugger, DjangoCon
 https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
@@ -113,6 +111,28 @@ https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twit
 Think like a programmer
 https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
 https://en.wikipedia.org/wiki/Pseudocode
+-->
+
+<!--
+https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
+
+Kenneth Love
+"This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
+
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
+
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
+https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
+
+https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
+
+https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
+
+https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
 
 
@@ -152,196 +172,6 @@ https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
 -->
 
-## Django Organization Tools
-
-<!--
-Lincoln Loop Stack
-High Performance Django Stack
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
-
-https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
-https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
-
-Calvin
-https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
-
-https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
-https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
-http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
-https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
-https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
-
-https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
-
-https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
-
-https://github.com/adamchainz/django-perf-rec
-https://gumroad.com/l/suydt
-
-https://jazzband.co/ | Jazzband
-https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
-https://github.com/jazzband/dj-rest-auth
-https://github.com/jazzband/django-model-utils
-
-https://twitter.com/jpadilla_/status/1189752115566133248
-https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
-
-https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
-
-https://github.com/jambonsw/django-improved-user
-
-https://github.com/lincolnloop/django-alive
-
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
-
-Feature Flags
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
-
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
--->
-
-<!--
-People
-
-https://gumroad.com/l/suydt | Speed Up Your Django Tests
-adamchainz/time-machine - Google Search
-
-Michael
-https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
-https://mherman.org/about | About Me
-https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
-https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
-https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
-https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
-
-https://www.youtube.com/watch?v=P7xpp4JGr50 | Readability Counts - Trey Hunner - YouTube
-
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
-https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/ | Asterisks in Python: what they are and how to use them - Trey Hunner
-https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/#while | How to loop with indexes in Python - Trey Hunner
-https://treyhunner.com/2019/01/no-really-pathlib-is-great/ | No really, pathlib is great - Trey Hunner
-https://en.wikipedia.org/wiki/Sentinel_value | Sentinel value - Wikipedia
-https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique sentinel values, identity checks, and when to use object() instead of None - Trey Hunner
-
-Raymond Course
-https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
-
-Exercises
-https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
-
-https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
-
-https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
-https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
-
-https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
-http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
-http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
-
-Brandon Rhodes
-https://www.youtube.com/watch?v=fYlnfvKVDoM
-
-Anthony Shaw
-https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
-https://twitter.com/anthonypjshaw/status/1218730494637953024
-https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
-https://twitter.com/anthonypjshaw/status/1225985709409890304
-https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
-
-Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
-https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
-
-https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
-https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
-
-https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
-https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
-
-A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
-https://www.youtube.com/watch?v=r-A78RgMhZU
-
-https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
-
-https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
-https://www.youtube.com/results?search_query=raymond+hettinger&sp=CAM%253D | raymond hettinger - YouTube
-https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA | Raymond Hettinger Talks - YouTube
-https://twitter.com/search?q=raymondh%20slides&src=typd&lang=en | raymondh slides - Twitter Search
-
-https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
-https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
-
-https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
--->
-
-<!--
-Interview stuff
-
-https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
-
-Interviewing
-https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
-https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
-https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
-
-Reuven Lerner
-https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
-https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
--->
-
-
-
-## Python and Django- Specific Learning Resources
-
-<!--
-https://twitter.com/pstreetjack/status/1057310563456307200 | paperstreetjack on Twitter: "@djangocon Can you recommend a good video tutorial series for testing Django apps. Can be paid or free. I'm having trouble finding good materials."
-
-Kenneth Love
-"This is one of those places, Python 2 users, that you'll need to do something extra. You'll need to add (object) after your class name and before the colon."
-
-https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
-http://docs.python-guide.org/en/latest/writing/gotchas/ | Common Gotchas — The Hitchhiker's Guide to Python
-
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360 | Introduction to Python Programming: Python Training - Microsoft Virtual Academy
-https://blogs.msdn.microsoft.com/cdndevs/2014/10/07/part-4-get-started-with-python-object-oriented-approach/ | Part 4: Get started with Python: Object Oriented Approach – Canadian Developer Connection
-
-https://blogs.msdn.microsoft.com/pythonengineering| Idiomatic Python: boolean expressions – Python at Microsoft
-
-https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From scripting to object-oriented Python programming
-
-https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
--->
-
-
-<!--
-https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
-https://www.edx.org/course/subject/computer-science/python
-https://www.youtube.com/user/khanacademy/search?query=python
-https://nostarch.com/search/node/python | Search | No Starch Press
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
-https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
--->
 
 ## General Learning Resources- Books
 
@@ -354,6 +184,10 @@ Programming Books
 * [Humble Bundle](https://www.humblebundle.com)
 * [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
 * [The Pragmatic Bookshelf](https://pragprog.com)
+
+<!--
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python | free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books
+-->
 
 ## General Learning Resources
 
@@ -438,11 +272,6 @@ https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I
 https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
 https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
 
-Google Python
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
-
-https://developers.google.com/machine-learning/crash-course
-
 
 https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
 
@@ -479,6 +308,22 @@ https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self 
 https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
 -->
 
+<!--
+Interview stuff
+
+https://learndjango.com/tutorials/how-get-hired-django-developer | How to Get Hired as a Django Developer | LearnDjango
+
+Interviewing
+https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://twitter.com/timothep/status/1218480407609475073 | Tim Bourguignon 🇪🇺🇫🇷🇩🇪 on Twitter: "If you are interested in #Python, I'd highly recommend @reuvenmlerner's free course "Ace Python Interviews": https://t.co/qBzH0MbGL6. Even if you don't have interviews planned in the future. And listen to his #DevJourney to learn more about him -&gt; https://t.co/BKObSp7Dyf https://t.co/ncN1fgetuv" / Twitter
+https://twitter.com/anthonypjshaw/status/1227945903379619840 | Anthony Shaw 🐍 on Twitter: "If you want to pass any Python interview or online test: 1: memorise the range() function 2: memorise the map() and filter() functions 3. memorise the difference between sorted(x) and x.sort()" / Twitter
+
+Reuven Lerner
+https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-course-continues-tomorrow/ | Reminder: My free "Python for non-programmers" course continues tomorrow! — Reuven Lerner
+https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
+-->
+
+
 ## Awesome Python and Django
 
 Awesome Python
@@ -493,20 +338,34 @@ Awesome Django
 
 ## Python Trending, Forums, and Articles
 
+Python Articles
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
 * [GitHub Topic: Python](https://github.com/topics/python)
 * [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
-Python Articles
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
 
 Tutorials
 * [Code Tuts+](https://code.tutsplus.com)
 * [Site Point](https://www.sitepoint.com)
 * [Tutorials Point](https://www.tutorialspoint.com)
+
+<!--
+https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
+
+Quality?
+* [Tutorials Point Python](http://www.tutorialspoint.com/python)
+* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
+* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
+* [W3Schools Python Tutorial](https://www.w3schools.com/python)
+
+Other Tutorials
+* [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
+-->
 
 Deprecated
 * [Mybridge Python](https://medium.mybridge.co/tagged/python)
@@ -535,8 +394,7 @@ Data Science
 * [Code School](https://www.pluralsight.com/codeschool), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 -->
 
-
-## Tutorials and Learning Platforms
+## Python and Django- Specific Learning Resources
 
 Python Official Resources
 * [Python Wiki: Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
@@ -556,19 +414,24 @@ Python
 * [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
 * [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 
-Quality?
-* [Tutorials Point Python](http://www.tutorialspoint.com/python)
-* [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
-* [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
-* [W3Schools Python Tutorial](https://www.w3schools.com/python)
+<!--
+https://nostarch.com/search/node/python | Search | No Starch Press
 
-Other Tutorials
-* [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
+https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
+https://www.edx.org/course/subject/computer-science/python
+https://www.youtube.com/user/khanacademy/search?query=python
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
+-->
 
 <!--
+https://developers.google.com/machine-learning/crash-course
+
+Google Python
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+
+
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 
-https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
 
 Harvey Mudd
 https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
@@ -795,6 +658,87 @@ Python Websites and Newsletters
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
 
+<!--
+People
+
+https://gumroad.com/l/suydt | Speed Up Your Django Tests
+adamchainz/time-machine - Google Search
+
+Michael
+https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
+https://mherman.org/about | About Me
+https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
+https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
+https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
+https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
+
+https://www.youtube.com/watch?v=P7xpp4JGr50 | Readability Counts - Trey Hunner - YouTube
+
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+https://twitter.com/__mharrison__/status/1217626019038760960
+
+https://treyhunner.com/2018/04/keyword-arguments-in-python/
+https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
+https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
+https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
+
+https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/ | Asterisks in Python: what they are and how to use them - Trey Hunner
+https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/#while | How to loop with indexes in Python - Trey Hunner
+https://treyhunner.com/2019/01/no-really-pathlib-is-great/ | No really, pathlib is great - Trey Hunner
+https://en.wikipedia.org/wiki/Sentinel_value | Sentinel value - Wikipedia
+https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique sentinel values, identity checks, and when to use object() instead of None - Trey Hunner
+
+Raymond Course
+https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
+
+Exercises
+https://twitter.com/reuvenmlerner/status/1232711445411966977 | Reuven M. Lerner on Twitter: "Want to spend more time coding #Python, and less time on Stack Overflow? Join a new cohort of Weekly Python Exercise (https://t.co/1uFIVg6Vcf) on March 10th. https://t.co/FPOuPy0Jcn https://t.co/Utgh2Xm7xq" / Twitter
+
+https://www.youtube.com/watch?v=862xL6jm_PQ&feature=youtu.be | Andrew Godwin - Keynote - PyCon Colombia 2020 - YouTube
+
+https://pyvideo.org/speaker/stephane-wirtel.html | PyVideo.org · Stephane Wirtel
+https://pyvideo.org/speaker/amber-brown-hawkowl.html | PyVideo.org · Amber Brown ("HawkOwl")
+
+https://twitter.com/ptynecki/status/1131126092830580736 | Piotr Tynecki on Twitter: "Amber Brown of the #Twisted project shared her criticisms of the #Python standard library. https://t.co/t9LaxCiWYr Hot discussion about it: https://t.co/R4HF8hXvWX"
+http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html | Python Software Foundation News: Amber Brown: Batteries Included, But They're Leaking
+http://pyfound.blogspot.com/2019/05/petr-viktorin-extension-modules-and.html | Python Software Foundation News: Petr Viktorin: Extension Modules And Subinterpreters
+
+Brandon Rhodes
+https://www.youtube.com/watch?v=fYlnfvKVDoM
+
+Anthony Shaw
+https://gist.github.com/tonybaloney/51f3f6a06ed778afcbb7a96eb73e0f6a
+https://twitter.com/anthonypjshaw/status/1218730494637953024
+https://github.com/marketplace/actions/pycharm-python-security-scanner?version=1.5.0
+https://twitter.com/anthonypjshaw/status/1225985709409890304
+https://github.com/tonybaloney/mocker | tonybaloney/mocker: A crappy imitation of Docker, written in 100% Python
+
+Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019
+https://www.youtube.com/watch?v=dqdsNoApJ80&feature=emb_logo
+
+https://www.youtube.com/watch?v=o_0u1C5qtA4&feature=emb_logo | "Introduction to Twine" - Tim Nugent (LCA 2020) - YouTube
+https://www.youtube.com/watch?v=ScLQdf22CFk | chris wilcox - YouTube
+
+https://github.com/dabeaz/concurrencylive | dabeaz/concurrencylive: Code from Concurrency Live - PyCon 2015
+https://twitter.com/dabeaz/status/1211632274099318784 | David Beazley on Twitter: "In 2019, I gave two tutorials and one conference talk. Thanks for everyone who attended! Lambda Calculus: https://t.co/GuJTYT7cwY WebAssembly: https://t.co/lcb3mUJ0Kd Async: https://t.co/zBLOh6q766" / Twitter
+
+A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)
+https://www.youtube.com/watch?v=r-A78RgMhZU
+
+https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
+
+https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
+https://www.youtube.com/results?search_query=raymond+hettinger&sp=CAM%253D | raymond hettinger - YouTube
+https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA | Raymond Hettinger Talks - YouTube
+https://twitter.com/search?q=raymondh%20slides&src=typd&lang=en | raymondh slides - Twitter Search
+
+https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
+https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
+
+https://www.manning.com/books/the-quick-python-book-third-edition | Manning | The Quick Python Book, Third Edition
+-->
 
 ## Learning Resources
 
