@@ -1,20 +1,7 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-Authenticate bearer
-Swarm testing
-https://en.wikipedia.org/wiki/Online_analytical_processing
-https://en.wikipedia.org/wiki/Multitenancy
-
-JSON versus s-expression
-https://en.wikipedia.org/wiki/S-expression
-
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications | Create, read, update and delete - Wikipedia
-
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
-
-Linux Performance Observability Tools
-https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 APIs
 https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
@@ -22,12 +9,8 @@ https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣
 https://hoppscotch.io/
 https://firecamp.io/
 
-https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
-
-https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
-https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+Authenticate bearer
+Swarm testing
 
 Real time services
 chat protocols, IoT protocols
@@ -40,152 +23,6 @@ http://restcookbook.com/Miscellaneous/rest-and-http/
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
--->
-
-## API
-
-<!--
-https://github.com/tiangolo/fastapi
-https://fastapi.tiangolo.com/#performance
-
-https://github.com/api-evangelist
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
-https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-https://www.programmableweb.com/category/all/apis
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
-
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
--->
-
-## Security
-
-Security- General
-* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
-* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
-* [Information Security Wikipedia](https://en.wikipedia.org/wiki/Information_security)
-* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
-* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
-
-OWASP
-* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
-* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
-
-Top Ten
-* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
-
-<!--
-## Security- General
-      
-https://developers.google.com/web/fundamentals/security/
-
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-
-Application Security Verification Standard
-https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
--->
-
-<!--
-https://www.owasp.org/index.php/Category:Attack
-   
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
-
-https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
-
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
--->
-
-### Security Model
-
-Computer Security Model
-* [Computer Security Model Wikipedia](https://en.wikipedia.org/wiki/Computer_security_model)
-
-Types
-* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
-* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
-
-Same Origin
-* [Same-Origin Policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
-### Security Risk
-
-High
-* [Arbitrary Code Execution Wikipedia](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
-* [SQL Injection Wikipedia](https://en.wikipedia.org/wiki/SQL_injection)
-
-Medium
-* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
-* [Cross-Site Request Forgery Wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
-* [Denial of Service Attack Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
-
-<!--
-Medium
-Broken authentication
-
-Low
-Sensitive data exposure
-Broken session management
-Unvalidated redirects/forwards
-Issues requiring an uncommon configuration option
-
-https://en.wikipedia.org/wiki/Clickjacking
-https://en.wikipedia.org/wiki/Code_injection
-
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
-https://www.owasp.org/index.php/SQL_Injection
-https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
-https://www.owasp.org/index.php/Denial_of_Service
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
-
-Prevention
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
-
-JavaScript
-https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
-https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
--->
-
-## Django Request/Response
-
-<!--
-https://docs.djangoproject.com/en/3.1/ref/request-response/
-https://docs.djangoproject.com/en/3.1/ref/request-response/#module-django.http
-https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects
-https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects
-https://docs.djangoproject.com/en/3.1/ref/request-response/#jsonresponse-objects
 -->
 
 ## Request and Response Cycle, HTTP
@@ -292,6 +129,11 @@ REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTT
 * [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
 * [XML Wikipedia](https://en.wikipedia.org/wiki/XML)
 
+<!--
+JSON versus s-expression
+https://en.wikipedia.org/wiki/S-expression
+-->
+
 Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 
@@ -359,6 +201,9 @@ https://en.wikipedia.org/wiki/Event-driven_messaging
 ## Auth
 
 <!--
+https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
+https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
+
 https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm
 
 https://en.wikipedia.org/wiki/Single_sign-on
@@ -615,6 +460,10 @@ Shard
 * [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
 
 <!--
+https://en.wikipedia.org/wiki/Online_analytical_processing
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications | Create, read, update and delete - Wikipedia
+
+https://en.wikipedia.org/wiki/Multitenancy
 https://en.wikipedia.org/wiki/Federated_database_system
 delegated database
 Google Spanner versus Calvin Protocol - Google Search
@@ -886,6 +735,11 @@ Linux
 * [Linux GitHub](https://github.com/torvalds/linux)
 
 <!--
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
+
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
+
 Linux networking tools
 https://twitter.com/b0rk/status/1204839971913379840
 
