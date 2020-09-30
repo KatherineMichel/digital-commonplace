@@ -1,15 +1,5 @@
 # Python and JavaScript Learning Resources
 
-## Look At
-
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-* [Real Python](https://realpython.com/) and [Real Python Courses](https://realpython.com/courses)
-
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
 <!--
 LinkedIn
 https://news.microsoft.com/skills/ | Microsoft Digital Event
@@ -21,23 +11,6 @@ https://mobile.twitter.com/carltongibson/status/1246387082773364737 | Carlton Gi
 
 Hello Web Design
 https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
-
-
-https://twitter.com/realpython
-https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
-https://realpython.com/resources
-https://realpython.com/switching-to-python
-
-https://www.datacamp.com/community/tutorials?tag=python
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
-
-https://mherman.org/talks | Talks and Trainings
-https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
-
-https://www.toptal.com/python/python-design-patterns
-
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
 
 https://github.com/Kallaway/100-days-of-code
 https://github.com/elfosardo/100-days-of-code | elfosardo/100-days-of-code: elfosardo 100 Days Of Code challenge journal
@@ -337,10 +310,6 @@ Awesome Django
 * [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ## Python Trending, Forums, and Articles
-
-Python Articles
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
 
 Python Trending, Topics, Forums
 * [GitHub Trending: Python](https://github.com/trending/python)
