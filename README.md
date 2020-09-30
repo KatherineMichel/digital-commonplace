@@ -678,6 +678,79 @@ Handbooks
 * [Glitch Handbook](https://handbook.glitch.me/)
 * [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
 
+## Roadmaps
+
+<!--
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+
+Product Roadmap
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+GitHub and Twitter Roadmaps
+https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
+https://github.com/github/roadmap
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+-->
+
+## Open Source Guides
+
+GitHub Open Source Guides
+* [GitHub Help](https://help.github.com) 
+* [GitHub Open Source Guide](https://opensource.guide)
+* [GitHub Guides](https://guides.github.com/)
+
+Google Open Source Guides
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
+## GitHub and Hosting Blogs
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+Hosting Blogs
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+
+Heroku Hosting Docs
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+
+## Technical Writing Guides
+
+<!--
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+
+Docs- Important!
+minimum viable documentation
+https://documentation.divio.com/
+https://twitter.com/webology/status/1257759193743929347
+https://docs.fast.ai/gen_doc_main.html
+
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://developers.google.com/style/
+https://developers.google.com/tech-writing
+https://developers.google.com/tech-writing/one
+-->
+
 ## Product and Marketing
 
 Interesting Curated Learning Resources- Product Management, Marketing, and Sales
@@ -693,6 +766,171 @@ https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A re
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
 
+
+## Heroku
+## Workflows
+## Google Progressive Web Apps (PWA)
+## Google Design
+## Chrome
+## Twitter API
+## GitHub API
+## GitHub Actions Tools
+## GitHub Actions Docs
+
+## Competitions, Hackathons, Festivals, Communities
+
+
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
+
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
+
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
+pyenv?
+command line tools for xcode - Google Search
+
+ZSH	
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+-->
+
+<!--
+aliases, dotfiles, Regex
+
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+http://www.linfo.org/usr_sbin.html
+
+https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
+https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
+
+https://en.wikipedia.org/wiki/Shell_script
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+
+Bash
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+File security
+http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
+
+https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
+https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
+
+https://github.com/topics/bash | Topic: bash
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+Bash versus Python
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+http://www.yaml.org/refcard.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+-->
+
+## Third Party Helpers
+
+Utilities- Retrieving Files/Data
+* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [Wget Wikipedia](https://www.gnu.org/software/wget/)
+
+<!--
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+See also: Data Science
+https://github.com/keen/cohorts
+-->
+
+## API
+
+<!--
+https://github.com/tiangolo/fastapi
+https://fastapi.tiangolo.com/#performance
+
+https://github.com/api-evangelist
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://www.programmableweb.com/category/all/apis
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/simeonfranklin/status/1265804748013268992 | Simeon Franklin on Twitter: "What API explorer or documentation generator do you like? I know about eg SwaggerUI or sourcegraph/prototools. #LazyWeb" / Twitter
+
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+-->
 
 ## Python- What's New
 
@@ -748,45 +986,258 @@ Python- Official Packaging Info
 * [Python Packaging Guides](https://packaging.python.org/guides) 
 * [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 
-## Roadmaps
+
+## Structuring Your Python Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+## Django Project Structure
+
+Python- Django- Project Stucture
+* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+## Kenneth
+
+DJ Static, DJ Database URL
+* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
+* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records, Requests (HTTP for Humans), Requests HTML
+* [Records GitHub](https://github.com/kennethreitz/records)
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
 
 <!--
-Rapid dev
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
 
-Product Roadmap
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
 
-GitHub and Twitter Roadmaps
-https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
-https://github.com/github/roadmap
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+
+https://urllib3.readthedocs.io/en/latest/
+https://github.com/urllib3/urllib3
+
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+https://github.com/kennethreitz/homebrew-pythons
 -->
 
-## Technical Writing Guides
+## Command Line
+
+* [Click GitHub](https://github.com/pallets/click)
+* [Chalk GitHub](https://github.com/chalk/chalk)
 
 <!--
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+Typer
+https://typer.tiangolo.com/ | Typer
 
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
+https://github.com/google/python-fire
 
-Docs- Important!
-minimum viable documentation
-https://documentation.divio.com/
-https://twitter.com/webology/status/1257759193743929347
-https://docs.fast.ai/gen_doc_main.html
-
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
-https://developers.google.com/style/
-https://developers.google.com/tech-writing
-https://developers.google.com/tech-writing/one
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 -->
 
+## Python and Django Geo
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Python/Django- Internationalization and Localization, Translation
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
+
+<!--
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+## Security
+
+Security- General
+* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
+* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
+* [Information Security Wikipedia](https://en.wikipedia.org/wiki/Information_security)
+* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
+* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
+
+OWASP
+* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
+* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
+
+Top Ten
+* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
+
+<!--
+## Security- General
+      
+https://developers.google.com/web/fundamentals/security/
+
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
+
+Application Security Verification Standard
+https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
+
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
+
+https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
+-->
+
+<!--
+https://www.owasp.org/index.php/Category:Attack
+   
+https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
+
+https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
+https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
+
+https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
+
+[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+
+https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
+-->
+
+### Security Model
+
+Computer Security Model
+* [Computer Security Model Wikipedia](https://en.wikipedia.org/wiki/Computer_security_model)
+
+Types
+* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
+* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
+
+Same Origin
+* [Same-Origin Policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+* [Google HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+
+Content Security Policy (CSP)
+* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+
+Mixed Content
+* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+
+### Security Risk
+
+High
+* [Arbitrary Code Execution Wikipedia](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
+* [SQL Injection Wikipedia](https://en.wikipedia.org/wiki/SQL_injection)
+
+Medium
+* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
+* [Cross-Site Request Forgery Wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+* [Denial of Service Attack Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+
+<!--
+Medium
+Broken authentication
+
+Low
+Sensitive data exposure
+Broken session management
+Unvalidated redirects/forwards
+Issues requiring an uncommon configuration option
+
+https://en.wikipedia.org/wiki/Clickjacking
+https://en.wikipedia.org/wiki/Code_injection
+
+https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
+
+https://www.owasp.org/index.php/SQL_Injection
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
+https://www.owasp.org/index.php/Denial_of_Service
+https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
+
+Prevention
+https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
+
+JavaScript
+https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
+https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
+-->
+
+
+## Companies that Use Python
+## Major Organizations and Projects that Use Python or Django
+## Django Consulting Firms
+## Major Organizations and Projects that Use Django
+
+## General Talks
+
+<!--
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+-->
 
 ## Stack
 
@@ -827,41 +1278,6 @@ https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering 
 https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
 -->
 
-
-## Open Source Guides
-
-GitHub Open Source Guides
-* [GitHub Help](https://help.github.com) 
-* [GitHub Open Source Guide](https://opensource.guide)
-* [GitHub Guides](https://guides.github.com/)
-
-Google Open Source Guides
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
-
-## GitHub and Hosting Blogs
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-Hosting Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-
-Heroku Hosting Docs
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
 ## Project Ideas
 
@@ -1274,190 +1690,6 @@ https://github.com/zeit/serve | zeit/serve: Static file serving and directory li
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
--->
-
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-<!--
-https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
-
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
-pyenv?
-command line tools for xcode - Google Search
-
-ZSH	
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-https://github.com/hmml/awesome-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
--->
-
-<!--
-aliases, dotfiles, Regex
-
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-http://www.linfo.org/usr_sbin.html
-
-https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
-https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
-https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
-
-https://en.wikipedia.org/wiki/Shell_script
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-File security
-http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
-
-https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
-https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
-
-https://github.com/topics/bash | Topic: bash
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-Bash versus Python
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
--->
-
-## Third Party Helpers
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-<!--
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-## Kenneth
-
-DJ Static, DJ Database URL
-* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
-* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Records, Requests (HTTP for Humans), Requests HTML
-* [Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
-* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
-
-<!--
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-
-https://urllib3.readthedocs.io/en/latest/
-https://github.com/urllib3/urllib3
-
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/homebrew-pythons
--->
-
-## Command Line
-
-* [Click GitHub](https://github.com/pallets/click)
-* [Chalk GitHub](https://github.com/chalk/chalk)
-
-<!--
-Typer
-https://typer.tiangolo.com/ | Typer
-
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-https://github.com/google/python-fire
-
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 -->
 
 ## Python and Django
@@ -2041,24 +2273,6 @@ https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 -->
-
-## Heroku
-## Workflows
-## Google Progressive Web Apps (PWA)
-## Google Design
-## Chrome
-## Twitter API
-## GitHub API
-## GitHub Actions Tools
-## GitHub Actions Docs
-
-## General Talks
-## Companies that Use Python
-## Major Organizations and Projects that Use Python or Django
-## Django Consulting Firms
-## Major Organizations and Projects that Use Django
-
-## Competitions, Hackathons, Festivals, Communities
 
 ## Jargon, Algorithms, and Patterns
 
