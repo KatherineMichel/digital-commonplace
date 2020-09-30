@@ -1,5 +1,15 @@
 # Python and JavaScript Learning Resources
 
+## Look At
+
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+* [Real Python Courses](https://realpython.com/courses)
+
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
 <!--
 LinkedIn
 https://news.microsoft.com/skills/ | Microsoft Digital Event
@@ -13,10 +23,6 @@ Hello Web Design
 https://gumroad.com/d/f39040e81e69b7ec03d12a567169c1f4
 
 
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-* [Real Python Courses](https://realpython.com/courses)
-
 https://twitter.com/realpython
 https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
 https://realpython.com/resources
@@ -29,11 +35,6 @@ https://realpython.com/ | Python Tutorials – Real Python
 
 https://mherman.org/talks | Talks and Trainings
 https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
-
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 https://www.toptal.com/python/python-design-patterns
 
