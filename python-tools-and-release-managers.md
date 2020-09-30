@@ -1383,75 +1383,6 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 
 ## Useful Files
 
-## Third Party Helpers
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-<!--
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-## Kenneth
-
-DJ Static, DJ Database URL
-* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
-* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Records, Requests (HTTP for Humans), Requests HTML
-* [Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
-* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
-
-<!--
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-
-https://urllib3.readthedocs.io/en/latest/
-https://github.com/urllib3/urllib3
-
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/homebrew-pythons
--->
-
 ## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
 
 * [NGINX](https://www.nginx.com/)
@@ -1735,25 +1666,6 @@ https://github.com/twisted/incremental#updating | twisted/incremental: A library
 https://www.youtube.com/watch?v=-BHverY7IwU
 http://www.pyinvoke.org/
 https://github.com/pypa/pip/blob/master/tasks/generate.py
--->
-
-## Command Line
-
-* [Click GitHub](https://github.com/pallets/click)
-* [Chalk GitHub](https://github.com/chalk/chalk)
-
-<!--
-Typer
-https://typer.tiangolo.com/ | Typer
-
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
-https://github.com/google/python-fire
-
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 -->
 
 ## Azure
