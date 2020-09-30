@@ -530,32 +530,6 @@ https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A 
 https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 -->
 
-
-## General Talks
-
-<!--
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
-
 ## Software Engineering
 
 Software Project Management
@@ -850,6 +824,13 @@ https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 ## Python Profiling
 
 <!--
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Telemetry
+https://en.wikipedia.org/wiki/Telemetry
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+
+
 https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
 
 https://knasmueller.net/measure-code-execution-time-accurately-in-python
@@ -865,19 +846,6 @@ https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a 
 https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
 http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-Telemetry
-https://en.wikipedia.org/wiki/Telemetry
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 
@@ -907,6 +875,13 @@ Important
 
 
 <!--
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
 Speaking
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
 https://speakerdeck.com/pycon2018?page=2
@@ -938,8 +913,6 @@ https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twit
 https://automationpanda.com/python/
 https://automationpanda.com/bdd/
 https://automationpanda.com/tag/development/
-
-
 
 
 state behavior versus behavior verification
@@ -1018,6 +991,7 @@ https://pypi.org/project/selenium/ | selenium · PyPI
 https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 
 https://pythontesting.net/framework/pytest/pytest-introduction/
+
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
@@ -1406,6 +1380,8 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 * [Memcached](https://memcached.org/)
 
 <!--
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+
 https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
 https://www.fullstackpython.com/task-queues.html
 -->
