@@ -18,8 +18,54 @@ https://realpython.com/ | Python Tutorials – Real Python
 https://mherman.org/talks | Talks and Trainings
 https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
 
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
 https://www.toptal.com/python/python-design-patterns
 -->
+
+<!--
+Cheat sheet
+https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
+
+https://twitter.com/filiplajszczak/status/1228800450515869703
+https://twitter.com/PurpleDiane88/status/1227365692380340224
+
+https://github.com/satwikkansal/wtfpython
+https://github.com/jakevdp/WhirlwindTourOfPython
+https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+-->
+
+<!--
+https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
+https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
+
+Nina
+https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
+https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
+http://takingnot.es/
+
+Kushal Das
+https://pymbook.readthedocs.io/en/latest/index.html
+
+Naomi Ceder
+https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
+
+Good Print, hello debugger, DjangoCon
+https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
+https://twitter.com/nnja/status/1255592930917507072
+https://twitter.com/nnja/status/1217933709577342976
+https://www.learnpython.dev/
+https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
+Nina
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+-->
+
+
 
 <!--
 Learning to code
@@ -291,28 +337,6 @@ https://store.lerner.co.il/python-for-non-programmers-live | Python for non-prog
 -->
 
 
-<!--
-Cheat sheet
-https://github.com/jackzhenguo/python-small-examples | jackzhenguo/python-small-examples: 告别枯燥，60 秒学会一个 Python 小例子
-
-https://twitter.com/filiplajszczak/status/1228800450515869703
-https://twitter.com/PurpleDiane88/status/1227365692380340224
-
-https://github.com/satwikkansal/wtfpython
-https://github.com/jakevdp/WhirlwindTourOfPython
-https://github.com/jerry-git/learn-python3 | jerry-git/learn-python3: Jupiter notebooks for teaching/learning Python 3
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
-
-https://dbader.org/blog/ultimate-list-of-python-podcasts
-
-https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
-
-https://wsvincent.com/best-python-books/ | Best Python Books (2020) - Will Vincent
-https://www.freecodecamp.org/news/best-python-tutorial/
-
-https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
--->
-
 
 ## Python and Django- Specific Learning Resources
 
@@ -428,6 +452,51 @@ Math Resources
 * [Math Dot Com](http://www.math.com)
 * [Maths is Fun](http://www.mathsisfun.com)
 
+
+<!--
+https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
+https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
+
+Google Python
+https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
+
+https://developers.google.com/machine-learning/crash-course
+
+
+https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
+
+https://www.hackinscience.org/ | HackInScience - Python course
+
+https://www.cosmicpython.com/
+
+https://pythonspeed.com/ | Ship better Python software, faster
+
+NSA Python
+https://twitter.com/chris_swenson/status/1225836060938125313
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+https://archive.org/details/comp3321/page/n4/mode/2up
+https://archive.org/details/comp3321/page/n89/mode/2up/search/device
+
+MS Python
+https://twitter.com/ch9/status/1256271884934541312
+https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
+https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+
+https://cs50.harvard.edu/x/2020/
+
+https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
+
+MIT/Harvard
+https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
+https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
+
+https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
+-->
 
 ## Awesome Python and Django
 
@@ -548,6 +617,7 @@ https://www.digitalocean.com/community/tutorials/how-to-debug-python-with-an-int
 How To Use Logging in Python 3
 https://www.digitalocean.com/community/tutorials/how-to-use-logging-in-python-3
 
+
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 http://www.fullstackpython.com/deployment.html
@@ -641,76 +711,8 @@ https://www.packtpub.com/application-development/python-3-object-oriented-progra
 http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
 -->
 
+
 ## Python and Django Teachers
-
-<!--
-https://frontendmasters.com/welcome/python/ | https://frontendmasters.com/welcome/python/
-https://frontendmasters.com/teachers/nina-zakharenko/ | Learn from Nina Zakharenko's courses on Frontend Masters
-
-Nina
-https://twitter.com/adafruit/status/1105642390495416320 | adafruit industries on Twitter: "Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters https://t.co/XoO50SPXfl"
-https://blog.adafruit.com/2019/03/12/nina-zakharenko-2-day-intro-intermediate-python-course-nnja-frontendmasters/ | Nina Zakharenko: 2-day Intro + Intermediate Python course @nnja @FrontendMasters « Adafruit Industries – Makers, hackers, artists, designers and engineers!
-https://gist.github.com/nnja/0345f72f9ce8b5f1eee8162ffa3e2857 | Python script to select a random person to take notes in a meeting ⌨️🎉
-http://takingnot.es/
-
-
-https://guide.freecodecamp.org/python/ | Python | freeCodeCamp Guide
-https://www.freecodecamp.org/news/python-curriculum/ | Build 111 Projects, Earn 10 Certifications - Now With Python
-
-Google Python
-https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
-
-https://developers.google.com/machine-learning/crash-course
-
-https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
-
-https://www.hackinscience.org/ | HackInScience - Python course
-
-https://www.cosmicpython.com/
-
-https://pythonspeed.com/ | Ship better Python software, faster
-
-Kushal Das
-https://pymbook.readthedocs.io/en/latest/index.html
-
-Naomi Ceder
-https://www.youtube.com/channel/UCy2BCkbcBx7UG4lhs3W2p7w
-
-Good Print, hello debugger, DjangoCon
-https://twitter.com/gregkaleka/status/1263163372989640704 | Greg Kaleka 😷 on Twitter: "@ChatDjango @nnja I saw but didn't watch @nnja's talk, because I figured "I know and use the debugger already"... Like @carltongibson, I'm 🤯 hearing about the interact command. Gonna have to watch the talk now!" / Twitter
-https://twitter.com/nnja/status/1255592930917507072
-https://twitter.com/nnja/status/1217933709577342976
-https://www.learnpython.dev/
-https://github.com/nnja/python | nnja/python: Front End Masters Python - Course Website at https://learnpython.netlify.com
-Nina
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-NSA Python
-https://twitter.com/chris_swenson/status/1225836060938125313
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-https://archive.org/details/comp3321/page/n4/mode/2up
-https://archive.org/details/comp3321/page/n89/mode/2up/search/device
-
-MS Python
-https://twitter.com/ch9/status/1256271884934541312
-https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/
-https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
-
-https://cs50.harvard.edu/x/2020/
-
-https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-https://dev.to/manocormen/500-free-computer-science-online-courses-from-the-world-s-top-cs-universities-3pg5 | MIT, Stanford, Harvard: 500 Free Computer Science Courses from World's Top-50 CS Universities - DEV Community 👩‍💻👨‍💻
-
-MIT/Harvard
-https://twitter.com/itsafronomics/status/1159827774657441792 | Anna✨ on Twitter: "📣Public Service Announcement 📣: MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. MIT AND HARVARD have a bunch of free course for free. https://t.co/7V5GRQefvJ" / Twitter
-https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/ | Self Studying the MIT Applied Math Curriculum
-
-https://www.freecodecamp.org/news/learn-python-from-harvards-cs50/ | Learn Python from Harvard's CS50
--->
 
 * [Adam Johnson GitHub](https://github.com/adamchainz)
 * [Anthony Shaw](https://twitter.com/anthonypjshaw) and [Anthony Shaw GitHub](https://github.com/tonybaloney/)
@@ -735,11 +737,6 @@ Python- Books (See also: Data Science books)
 * [O'Reilly Python in a Nutshell](http://shop.oreilly.com/product/0636920012610.do)  
 * [O'Reilly High Performance Python](http://shop.oreilly.com/product/0636920028963.do)
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
-
-Learning Resources
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
-* [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 
 No Starch Press
 * [Al Sweigart](http://alsweigart.com)
@@ -788,28 +785,13 @@ Python/Django Teachers and Useful Python Resources
 * [Kenneth Reitz: How to Python](http://howtopython.org) and [Kenneth Reitz: How to Python GitHub](https://github.com/kennethreitz/howtopython.org)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python!](http://docs.python-guide.org) and [Kenneth Reitz: The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/python-guide)
 * [Mark Pilgrim: Dive into Python 3](http://www.diveintopython3.net) and [Mark Pilgrim: Dive into Python (Deprecated)](http://www.diveintopython.net)
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 * [Stephen Sugden: Crash into Python](https://stephensugden.com/crash_into_python)
 * [Trey Hunner Projects](http://treyhunner.com/projects) and [Trey Hunner GitHub](https://github.com/treyhunner)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
-
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
 * [Aaron C. Hall: High level #python #tutorial](https://twitter.com/aaronchall/status/961250524753551360)
-
-* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
-
-Teachers
-* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
-* [Frank Wiles](http://www.frankwiles.com)
-* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
-
-Teaching Python with Nicholas Tollervey
-
-https://twitter.com/wsv3000 | William Vincent (@wsv3000) | Twitter
-https://leanpub.com/u/wsvincent | William S. Vincent
 -->
 
 Python Tutors- YouTube
@@ -825,6 +807,34 @@ Python Websites and Newsletters
 * [Python for Beginners](http://www.pythonforbeginners.com)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 * [The Python Guru](http://thepythonguru.com)
+
+
+## Learning Resources
+
+Learning Resources
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Learning Python](http://docs.python-guide.org/en/latest/intro/learning)
+* [Matt Makai: Full Stack Python Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
+
+Tutorials
+* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
+
+Python- Django- Tutorial and Book Lists
+* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
+* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
+
+<!--
+https://wsvincent.com/best-python-books/ | Best Python Books (2019) - William Vincent
+https://wsvincent.com/best-django-books/ | Best Django Books (2019) - William Vincent
+https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+
+https://dbader.org/blog/ultimate-list-of-python-podcasts
+
+https://tonybaloney.github.io/posts/learning-python.html | Learning Python from Scratch
+
+https://www.freecodecamp.org/news/best-python-tutorial/
+
+https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
+-->
 
 ## Django Learning Resources
 
@@ -849,26 +859,28 @@ Check This Out
 * [High Performance Django](https://highperformancedjango.com)
 
 <!--
-https://wsvincent.com/best-django-books/ | Best Django Books (2019) - William Vincent
-https://wsvincent.com/best-python-books/ | Best Python Books (2019) - William Vincent
-https://wsvincent.com/learning-django/ | Learning Django: What Makes it Hard? - William S. Vincent
+Teachers
+* [Daniel Roy Greenfield](http://www.pydanny.com), [Daniel Roy Greenfeld Django Tag](http://pydanny.com/tag/django.html), and [Daniel Roy Greenfeld GitHub](https://github.com/pydanny)
+* [Frank Wiles](http://www.frankwiles.com)
+* [Jacob Kaplan-Moss: Writing](http://jacobian.org/writing), [Jacob Kaplan-Moss Slideshare](http://www.slideshare.net/jacobian), and [Jacob Kaplan-Moss GitHub](https://github.com/jacobian)
+
+Teaching Python with Nicholas Tollervey
+
+* [William S. Vincent](https://wsvincent.com) and [William S. Vincent GitHub](https://github.com/wsvincent)
+
+https://twitter.com/wsv3000 | William Vincent (@wsv3000) | Twitter
+https://leanpub.com/u/wsvincent | William S. Vincent
+
 https://wsvincent.com/django-tips-imports/ | Django Tips #2: Imports - William S. Vincent
 https://wsvincent.com/django-tips-makemigrations-command/ | Django Tips #1: makemigrations command - William S. Vincent
 
 https://djangobook.com/build-a-website-with-django-2/ | Build a Website with Django 2 - Python Django Tutorials
 -->
 
-## Django Learning Resources
-
-Tutorials
-* [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
+## Django Learning Lists and Stuff
 
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
-
-Python- Django- Tutorial and Book Lists
-* [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
-* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
 
 Two Scoops
 * ["What about Django 2.0, 2.1, etc.?"](https://www.twoscoopspress.com/pages/two-scoops-of-django-1-11-faq#what-about-django-1-9-2-0-etc)
