@@ -1,6 +1,53 @@
 # Python and JavaScript Learning Resources
 
 <!--
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+* [Real Python Courses](https://realpython.com/courses)
+
+https://twitter.com/realpython
+https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
+https://realpython.com/resources
+https://realpython.com/switching-to-python
+
+https://www.datacamp.com/community/tutorials?tag=python
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
+
+https://realpython.com/ | Python Tutorials – Real Python
+
+https://mherman.org/talks | Talks and Trainings
+https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
+
+https://www.toptal.com/python/python-design-patterns
+-->
+
+<!--
+Learning to code
+
+https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
+https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
+
+Learning to Code
+https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
+https://daedtech.com/dont-learn-to-code-learn-to-automate/
+https://blog.codinghorror.com/please-dont-learn-to-code/
+http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
+
+Excellent
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+
+Cassidy
+https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
+
+https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
+
+Think like a programmer
+https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
+https://en.wikipedia.org/wiki/Pseudocode
+-->
+
+
+<!--
 https://twitter.com/rauchg/status/1254198228364357634 | Guillermo Rauch on Twitter: "Great reason to learn to code. Endless possibility. I have a blog post coming that talks about something that really helped me to learn to code. https://t.co/998d9Im9WU" / Twitter
 
 Aaron
@@ -23,7 +70,6 @@ https://nostarch.com/pythoncrashcourse2e/ | Python Crash Course, 2nd Edition | N
 https://twitter.com/markus_berndt/status/1274451872183615489 | Markus Berndt on Twitter: "Was hoping for a sunny weekend at the beach. Instead it turned into a rainy, nerdy one with @nostarch https://t.co/Ca2nlS3fgR" / Twitter
 
 https://learncodethehardway.org/more-python/
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 -->
 
 <!--
@@ -54,6 +100,7 @@ https://twitter.com/umaar/status/1259521141921767427 | Umar Hansa on Twitter: "I
 https://gumroad.com/l/suydt | Speed Up Your Django Tests
 adamchainz/time-machine - Google Search
 -->
+
 
 ## Python Syntax and Python Versus JavaScript
 
@@ -153,13 +200,10 @@ https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 People
 
 Michael
-https://mherman.org/talks | Talks and Trainings
 https://talkpython.fm/episodes/show/206/running-django-in-production | Episode #206 Running Django in Production - [Talk Python To Me Podcast]
 https://mherman.org/about | About Me
-https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
 https://testdriven.io/authors/herman/ | Michael Herman | TestDriven.io
 https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
-https://realpython.com/ | Python Tutorials – Real Python
 https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
 https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
 
@@ -246,30 +290,6 @@ https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-cour
 https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
 -->
 
-<!--
-Learning to code
-
-https://automationpanda.com/2020/02/18/how-do-i-start-learning-python/ | How Do I Start Learning Python? | Automation Panda
-https://nedbatchelder.com/blog/202003/how_long_did_it_take_you_to_learn_python.html | Ned Batchelder: How long did it take you to learn Python?
-
-Learning to Code
-https://blog.thepete.net/blog/2019/10/04/hello-production/ | Pete Hodgson
-https://daedtech.com/dont-learn-to-code-learn-to-automate/
-https://blog.codinghorror.com/please-dont-learn-to-code/
-http://norvig.com/21-days.html | Teach Yourself Programming in Ten Years
-
-Excellent
-https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ | The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
-
-Cassidy
-https://freedom.to/blog/cassidy-williams-the-ability-to-build-whatever-you-want-is-so-empowering/ | Cassidy Williams: The Ability to Build Whatever You Want is So Empowering! | Freedom Matters
-
-https://twitter.com/sarah_edo/status/1276176674241961989 | Sarah Drasner on Twitter: "When I'm first learning something, I try to build a few different things with whatever it is. The repetition helps me put it into longterm memory, and working with a few different use cases helps me explore the boundaries a bit better." / Twitter
-
-Think like a programmer
-https://www.youtube.com/watch?v=azcrPFhaY9k&feature=youtu.be | How To Think Like A Programmer - YouTube
-https://en.wikipedia.org/wiki/Pseudocode
--->
 
 <!--
 Cheat sheet
@@ -292,6 +312,7 @@ https://www.freecodecamp.org/news/best-python-tutorial/
 
 https://amymhaddad.com/the-best-resources-to-learn-python-in-2020
 -->
+
 
 ## Python and Django- Specific Learning Resources
 
@@ -317,6 +338,7 @@ https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From script
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
 
+
 <!--
 https://courseroot.com/courses/?search=python&sortby=popularity | Best online Python courses | Reviews by Courseroot
 https://www.edx.org/course/subject/computer-science/python
@@ -326,7 +348,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | 
 -->
 
-## General Learning Resources
+## General Learning Resources- Books
 
 Programming Books
 * [O'Reilly Media](https://github.com/oreillymedia)
@@ -337,6 +359,8 @@ Programming Books
 * [Humble Bundle](https://www.humblebundle.com)
 * [Free Programming Books GitHub](https://github.com/EbookFoundation/free-programming-books)
 * [The Pragmatic Bookshelf](https://pragprog.com)
+
+## General Learning Resources
 
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
@@ -351,17 +375,14 @@ MOOCs
 * [NovoEd (Social Entrepreneurship)](https://novoed.com) 
   
 Courses
-* [Code School](https://www.codeschool.com), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
 * [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [Learn to Code the Hard Way](http://learncodethehardway.org) 
-* [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 
 In Particular
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) and [Digital Ocean Community](https://www.digitalocean.com/community)
 * [Khan Academy](https://www.khanacademy.org) and [Khan Academy YouTube](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
 
 Free Code Camp (CSS (Bootstrap), HTML, JavaScript), Glitter, LinkedIn, Reddit, YouTube
 * [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
@@ -407,6 +428,7 @@ Math Resources
 * [Math Dot Com](http://www.math.com)
 * [Maths is Fun](http://www.mathsisfun.com)
 
+
 ## Awesome Python and Django
 
 Awesome Python
@@ -430,18 +452,39 @@ Python Trending, Topics, Forums
 Python Articles
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
-* [Mybridge Python](https://medium.mybridge.co/tagged/python)
 
 Tutorials
 * [Code Tuts+](https://code.tutsplus.com)
 * [Site Point](https://www.sitepoint.com)
 * [Tutorials Point](https://www.tutorialspoint.com)
 
+Deprecated
+* [Mybridge Python](https://medium.mybridge.co/tagged/python)
+
 <!--
 https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c | Learn Python from Top 50 Articles for the Past Year (v.2019)
 
 https://medium.com/feed/tag/django | https://medium.com/feed/tag/django
 -->
+
+
+## Pay for Play
+
+General
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Guides](https://www.pluralsight.com/guides), [Pluralsight Guides GitHub](https://github.com/pluralsight/guides), and [Pluralsight Newest Courses](https://app.pluralsight.com/library)
+* [Treehouse](https://teamtreehouse.com), [Treehouse Installation Guides](http://treehouse.github.io/installation-guides), and [Treehouse Blog](http://blog.teamtreehouse.com)
+
+Python
+* [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
+
+Data Science
+* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
+
+<!--
+* [Code School](https://www.pluralsight.com/codeschool), [Code School Blog](https://www.codeschool.com/blog), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
+-->
+
 
 ## Tutorials and Learning Platforms
 
@@ -450,10 +493,8 @@ Python Official Resources
 * [Python Wiki: Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
 Learning Platforms (See also others)
-* [Pluralsight Python](https://app.pluralsight.com/library/search?q=python)
 * [Codecademy Python Track](https://www.codecademy.com/en/tracks/python), [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python), and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), [Treehouse Blog](http://blog.teamtreehouse.com), and [Treehouse Library](https://teamtreehouse.com/library)
 
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?languages=en&query=python)
@@ -462,18 +503,17 @@ MOOCs
 
 Python
 * [Real Python](https://realpython.com)
+* [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
+* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
+
+Quality?
 * [Tutorials Point Python](http://www.tutorialspoint.com/python)
 * [Tutorials Point Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms)
 * [Tutorials Point Computer Programming](https://www.tutorialspoint.com/computer_programming)
-* [Digital Ocean Python](https://www.digitalocean.com/community/tutorials?q=python)
-* [Google Python Class](https://developers.google.com/edu/python) and [Google Python Class YouTube](https://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=youtu.be)
 * [W3Schools Python Tutorial](https://www.w3schools.com/python)
 
 Other Tutorials
 * [Tutorials Point Numpy](https://www.tutorialspoint.com/numpy)
-
-DataCamp
-* [DataCamp](https://www.datacamp.com), [DataCamp Tutorials](https://www.datacamp.com/community/tutorials), and [DataCamp Community](https://www.datacamp.com/community)
 
 <!--
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
@@ -482,26 +522,6 @@ https://www.tutorialspoint.com/computer_glossary.htm | Computer Glossary
 
 Harvey Mudd
 https://www.cs.hmc.edu/csforall/ | CS for All — cs5book 1 documentation
-
-https://www.datacamp.com/community/tutorials?tag=python
-
-https://twitter.com/realpython
-https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
-https://realpython.com/python-code-quality
-https://realpython.com/resources
-https://realpython.com/python-basics
-https://realpython.com/python-beginner-tips/ | 11 Beginner Tips for Learning Python Programming – Real Python
-https://realpython.com/intermediate-python
-https://realpython.com/tutorials/intermediate/
-https://realpython.com/tutorials/advanced/
-https://realpython.com/python-youtube-channels/ | The Ultimate List of Python YouTube Channels – Real Python
-
-https://realpython.com/switching-to-python
-https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
-https://realpython.com/instance-class-and-static-methods-demystified/ | Python's Instance, Class, and Static Methods Demystified – Real Python
-https://realpython.com/tutorials/api/ | Python API Tutorials – Real Python
-
-https://realpython.com/python-data-classes/
 
 https://www.digitalocean.com/community/tutorial_series/django-development
 
@@ -617,7 +637,6 @@ https://dbader.org/img/oop-in-python-best-resources.pdf | oop-in-python-best-res
 https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf
 https://docs.python.org/3/tutorial/classes.html
 https://learnpythonthehardway.org/book/
-https://www.toptal.com/python/python-design-patterns
 https://www.packtpub.com/application-development/python-3-object-oriented-programming
 http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
 -->
@@ -642,8 +661,6 @@ Google Python
 https://developers.google.com/edu/python/lists | Python Lists  |  Python Education  |  Google Developers
 
 https://developers.google.com/machine-learning/crash-course
-
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 
 https://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
 
@@ -762,9 +779,6 @@ https://twitter.com/AlSweigart/status/1233194025487749126 | Al Sweigart on Twitt
 
 Python/Django Teachers and Useful Python Resources
 * [Aaron Hall Stack Overflow](https://stackoverflow.com/users/541136/aaron-hall)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-* [Real Python Courses](https://realpython.com/courses)
 * [Grishma Jena GitHub](https://github.com/GJena), [Grishma Jena: Intro to Python YouTube](https://www.youtube.com/watch?v=WIFCd1m7VuA), and [Grishma Jena: Intro to Python Google Slides](https://docs.google.com/presentation/d/1N-P2qZimoY7H79DqBts3gSQrfyXdK0Oy_r9tQ6DoAQQ/edit#slide=id.p)
 * [Harry Percival Twitter](https://twitter.com/hjwp)
 * [Jeff Knupp Blog](https://jeffknupp.com/blog), [Jeff Knupp Archives](https://jeffknupp.com/blog/archives), and [Jeff Knupp YouTube](https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ)
@@ -779,6 +793,7 @@ Python/Django Teachers and Useful Python Resources
 * [Stephen Sugden: Crash into Python](https://stephensugden.com/crash_into_python)
 * [Trey Hunner Projects](http://treyhunner.com/projects) and [Trey Hunner GitHub](https://github.com/treyhunner)
 * [Vaidehi Joshi: BaseCS Video Series](https://dev.to/vaidehijoshi)
+
 * [Zed Shaw: Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
