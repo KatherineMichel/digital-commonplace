@@ -3,6 +3,8 @@
 ## General Notes
 
 <!--
+https://docs.python.org/3.10/library/unittest.mock.html | unittest.mock — mock object library — Python 3.10.0a0 documentation
+
 https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
 https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
@@ -70,6 +72,9 @@ https://docs.python.org/3/library/constants.html#built-in-consts
 Recommended
 https://docs.python.org/3/library/pathlib.html | pathlib — Object-oriented filesystem paths — Python 3.8.3 documentation
 
+https://docs.python.org/3/library/sys.html#sys.path | sys — System-specific parameters and functions — Python 3.8.6 documentation
+https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
+
 Super
 https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
 
@@ -88,6 +93,7 @@ https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib �
 Regular expression
 https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
 https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://docs.python.org/3/library/re.html#module-re | re — Regular expression operations — Python 3.8.6rc1 documentation
 
 urllib
 https://docs.python.org/3/library/urllib.request.html
