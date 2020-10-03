@@ -325,6 +325,14 @@ Important
 https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
 
+https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
+
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+https://regexcrossword.com/ | Regex Crossword
+https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
+
 Learning how to learn
 https://twitter.com/Fox0x01/status/1238636236962779136
 
@@ -784,16 +792,16 @@ Full Stack Python
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 <!--
-https://twitter.com/realpython
-https://realpython.com/start-here/ | Learn Python Programming Online – Real Python
-https://realpython.com/resources
-https://realpython.com/switching-to-python
+https://hackernoon.com/ | Hacker Noon
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 https://www.datacamp.com/community/tutorials?tag=python
 https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 
 https://mherman.org/talks | Talks and Trainings
 https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
+https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
 
 https://www.toptal.com/python/python-design-patterns
 
@@ -886,8 +894,6 @@ https://octoverse.github.com/2017/
 https://octoverse.github.com/2016/#organizations
 
 Popular Libraries
-https://requests.readthedocs.io/en/master/ | Requests: HTTP for Humans™ — Requests 2.23.0 documentation
-pyanalyze - Engineering at Quora - Quora
 https://docs.python.org/3/library/asyncio.html
 https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
@@ -899,10 +905,10 @@ DJ Static, DJ Database URL
 * [DJ Static GitHub](https://github.com/heroku-python/dj-static)
 * [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
-Records, Requests (HTTP for Humans), Requests HTML
-* [Records GitHub](https://github.com/kennethreitz/records)
-* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://python-requests.org/), [Requests Docs](http://docs.python-requests.org), and [Requests GitHub](https://github.com/requests/requests)
+Requests (HTTP for Humans), Requests HTML, Records
+* [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
 * [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
+* [Records GitHub](https://github.com/kennethreitz/records)
 
 <!--
 Requests
@@ -941,6 +947,10 @@ https://github.com/kennethreitz/homebrew-pythons
 * [Chalk GitHub](https://github.com/chalk/chalk)
 
 <!--
+https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
+https://github.com/MasterOdin/crayons
+https://click.palletsprojects.com/en/7.x/ | Welcome to Click — Click Documentation (7.x)
+
 Typer
 https://typer.tiangolo.com/ | Typer
 
@@ -950,7 +960,6 @@ https://github.com/google/python-fire
 http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 -->
 
@@ -993,6 +1002,47 @@ SpatiaLite (Spatial Database Extender for SQLite)
 * [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
 * [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
 
+
+## Images
+
+<!--
+https://www.pyimagesearch.com/ | PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
+
+
+Requests
+https://pypi.org/project/requests/ | requests · PyPI
+https://www.thepythoncode.com/article/using-github-api-in-python
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
+
+Python API Tools
+https://realpython.com/python-web-scraping-practical-introduction/
+https://scrapy.org/
+https://github.com/scrapy/scrapy
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
+
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+
+https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
+http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+
+Pillow
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
+-->
 
 ## Heroku
 ## Workflows
@@ -1148,44 +1198,8 @@ https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitt
 https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
 
 https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
--->
 
-<!--
 https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-
-Requests
-https://pypi.org/project/requests/ | requests · PyPI
-https://www.thepythoncode.com/article/using-github-api-in-python
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
-
-Python API Tools
-https://realpython.com/python-web-scraping-practical-introduction/
-https://scrapy.org/
-https://github.com/scrapy/scrapy
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-
-https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
-http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-Pillow
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
-
-Black
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-JSON, Black
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 -->
 
 ## Twitter API
@@ -2055,6 +2069,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
+
 Node
 https://github.com/sqreen/awesome-nodejs-projects
 
