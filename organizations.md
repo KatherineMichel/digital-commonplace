@@ -1,6 +1,8 @@
 # Organizations
 
 <!--
+https://github.com/lifechurch | Life.Church
+https://github.com/micnews/
 https://github.com/FidelityInternational | Fidelity International
 https://github.com/keybase | Keybase
 
