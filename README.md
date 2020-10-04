@@ -8,8 +8,6 @@ https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twit
 1 minute breathing exercise
 https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+exercise&oq=brea&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyAggpMggIABCxAxCDATIFCAAQkgMyBQgAEJIDMgUIABCxAzIFCAAQsQMyBQguELEDMgUIABCxAzICCC46CAguELEDEIMBOgIIAEoFCBISATFQ8wpYshBgwiFoAHAAeACAAb0BiAHnBJIBAzAuNJgBAKABAbABCA&sclient=mobile-gws-wiz-hp
 
-https://blog.photoshelter.com/2020/08/sell-photos-with-google-image-licensing/ | Selling Your Photography Just Got Easier with Google Image Licensing - PhotoShelter Blog
-
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
 https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
@@ -42,6 +40,7 @@ Checklist Manifesto
 
 Important
 https://notes.andymatuschak.org/About_these_notes | About these notes
+
 
 https://hackerone.com/
 https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
@@ -263,6 +262,16 @@ https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-
 https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
 
+Public Speaking
+https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+https://www.meetup.com/KafkaBayArea/events/272643868/
+
+
 ## Website and Blog Resources
 ## Shortcuts
 ## Visual Studio Code
@@ -294,9 +303,6 @@ https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twit
 https://twitter.com/messages/17009144-101186457
 https://pip.pypa.io/en/stable/user_guide/#user-installs
 
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
 Pinax
 https://en.wikipedia.org/wiki/Software_versioning#Release_train
 
@@ -325,9 +331,6 @@ Important
 https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
 
-Gumroad Roadmap
-https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
 Carl Myer, Kyle Knapp
 https://hynek.me/talks/python-foss/
 https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
@@ -336,14 +339,27 @@ https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
 https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
 https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
 
+
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
+
+
+Learning how to learn
+https://twitter.com/Fox0x01/status/1238636236962779136
+
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+
+Pre-mortem
+https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
 https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
-
-https://andreasbm.github.io/web-skills/?compact | Web Skills
-
-https://regexcrossword.com/ | Regex Crossword
-https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
@@ -351,12 +367,24 @@ https://github.com/buzzfeed/design | buzzfeed/design: A public collection of Buz
 Enineering manager
 https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
 
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
-Learning how to learn
-https://twitter.com/Fox0x01/status/1238636236962779136
 
-Pre-mortem
-https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+https://www.pypy.org/ | PyPy
+
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
+https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
+
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
+https://spookylukey.github.io/django-views-the-right-way/
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
 
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
@@ -368,11 +396,10 @@ https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twit
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
 
-https://en.wikipedia.org/wiki/Foreign_key | Foreign key - Wikipedia
-https://en.wikipedia.org/wiki/Middleware | Middleware - Wikipedia
-https://en.wikipedia.org/wiki/State_(computer_science) | State (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Polymorphism_(computer_science) | Polymorphism (computer science) - Wikipedia
-Request/Response
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+https://regexcrossword.com/ | Regex Crossword
+https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
 
 
 GitHub
@@ -395,48 +422,12 @@ https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: 
 https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
 https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
 
-
-Public Speaking
-https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-https://www.meetup.com/KafkaBayArea/events/272643868/
-
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
-
-
-https://www.pypy.org/ | PyPy
-
 Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
-https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
-https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
 
-https://github.com/spookylukey/django-views-the-right-way/tree/master/code
-https://spookylukey.github.io/django-views-the-right-way/
-https://spookylukey.github.io/django-views-the-right-way/detail-view.html
-"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
-https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-https://realpython.com/python-sockets/ | Socket Programming in Python (Guide) – Real Python
-https://realpython.com/working-with-files-in-python/ | Working With Files in Python – Real Python
-https://realpython.com/python-gui-with-wxpython/ | How to Build a Python GUI Application With wxPython – Real Python
 
 
 Interesting
@@ -722,6 +713,9 @@ https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Devel
 GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+
+Gumroad Roadmap
+https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 -->
 
 ## Open Source Guides
@@ -796,6 +790,14 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 
 ## Look At
 
+Articles
+* [Indie Hackers](https://www.indiehackers.com)
+* [Techmeme](https://www.techmeme.com)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
 Python Articles
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
@@ -811,7 +813,35 @@ Full Stack Python
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 <!--
-https://hackernoon.com/ | Hacker Noon
+http://highscalability.com/
+
+https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Sharing Management Ideas
+https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
+
+ACM Library
+https://www.acm.org/
+https://dl.acm.org/
+
+https://opensource.com
+https://internet.com/
+https://www.linuxfoundation.org/
+https://lwn.net/
+https://access.redhat.com/documentation/en-us/
+
+https://devrel.io/ | DevRel IO - The Best DevRel Advice
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+http://stackshare.io/posts/
+
+
+https://www.infoq.com/
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+
+https://repl.it/talk/
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
@@ -4347,19 +4377,6 @@ Agency
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 -->
 
-## Tech Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-
-Look at Daily
-* [Indie Hackers](https://www.indiehackers.com)
-* [Techmeme](https://www.techmeme.com)
-
-Articles
-* [Mybridge Programming](https://medium.mybridge.co/tagged/programming)
-
 ## To Look At
 
 Nuzzel
@@ -4393,12 +4410,6 @@ https://substack.com/discover | Substack
 
 https://twitter.com/explore/tabs/for-you | Explore / Twitter
 https://www.youtube.com/feed/trending | Trending - YouTube
-
-https://www.infoq.com/
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
 
 Technology radar
 https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
