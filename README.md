@@ -19,6 +19,9 @@ https://twitter.com/nibrasibn/status/1302254751011213314
 https://twitter.com/mkobach/status/1305329747006754817
 https://twitter.com/jowyang/status/1297923146050199552
 
+Learning how to learn
+https://twitter.com/Fox0x01/status/1238636236962779136
+
 Progress
 https://twitter.com/polotek/status/1294150617389121536
 https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
@@ -69,9 +72,29 @@ Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+Public Speaking
+https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
+https://github.com/matteofigus/awesome-speaking
+
+
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
+
+Record a Video/Gif
+
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+http://en.wikipedia.org/wiki/Vlog
+
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
 
 
 https://www.devrelcon.net/
@@ -95,19 +118,16 @@ https://twitter.com/TwitterEng/lists/memberships
 https://twitter.com/i/lists/1287873548971778048
 
 https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists?tags[]=data-science | Explore Lists | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/mohammad-shahangian-head-of-data-science-at-pinterest | Mohammad Shahangian, Head of Data Science at Pinterest | First Search - The best tactical advice in tech
-https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook | First Search
 
 
-Public Speaking
-https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-https://www.meetup.com/KafkaBayArea/events/272643868/
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
 
 
 ## Website and Blog Resources
@@ -115,23 +135,6 @@ https://www.meetup.com/KafkaBayArea/events/272643868/
 ## Visual Studio Code
 ## GitHub and VS Code Integration
 
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-http://en.wikipedia.org/wiki/Vlog
-
-https://github.com/matteofigus/awesome-speaking
-
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
 
 Vue
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
@@ -145,9 +148,6 @@ Pinax
 https://en.wikipedia.org/wiki/Software_versioning#Release_train
 
 https://github.com/features/codespaces/ | Codespaces
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
 
 release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
@@ -165,9 +165,10 @@ https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitt
 
 https://opensourcedesign.net/goals/ | Goals - Open Source Design
 
-Important
-https://twitter.com/bgurley/status/1299016045403893763 | Bill Gurley on Twitter: "Brilliant piece on open source and global technology evolution. Must read!!! The Future of American Industry Depends on Open Source Tech | WIRED https://t.co/l4W9o5LQiR" / Twitter
 
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
 
 Carl Myer, Kyle Knapp
 https://hynek.me/talks/python-foss/
@@ -186,8 +187,6 @@ https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
 
 
-Learning how to learn
-https://twitter.com/Fox0x01/status/1238636236962779136
 
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
 
