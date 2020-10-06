@@ -10,8 +10,6 @@ https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+e
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
-https://leadingwithspoons.com/2020/08/10/whats-next/ | What’s next – Leading with Spoons
-
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
@@ -38,28 +36,11 @@ https://twitter.com/hunterwalk/status/1294699190585454592
 
 Checklist Manifesto
 
-Important
-https://notes.andymatuschak.org/About_these_notes | About these notes
-
-
-https://hackerone.com/
-https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
-https://todoist.com/
-https://calendly.com/ | Free Online Appointment Scheduling Software - Calendly
-https://carrd.co/ | Carrd - Simple, free, fully responsive one-page sites for pretty much anything
-
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-Narrative
-https://www.andysparks.co/ | Andy Sparks—Home
-
-https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/ | Set up a Paid Newsletter at Your Own Domain
-https://github.com/TryGhost/Lyra | A paid-members theme for Ghost
-https://ghost.org/about/ | About Ghost - The Open Source Publishing Platform
 
 
 Content
@@ -87,149 +68,6 @@ https://bugs.python.org/issue33649
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
-https://opensource.googleblog.com/2018/02/gsoc-2018-organizations.html | Introducing the mentor organizations for Google Summer of Code 2018 | Google Open Source Blog
-https://summerofcode.withgoogle.com/organizations/ | Organizations | Google Summer of Code
-
-https://twitter.com/thoward37/status/1286752245736865792 | Troy Howard / Executive Chef for Antifa on Twitter: "@kathleencodes -Who are your customers and what are they trying to accomplish? -Did you schedule time to write docs in your development plan? -What do you see as the distinction between these two things? -Can this be immutable?" / Twitter
-
-
-Conference friends
-https://twitter.com/jonafato/status/1245443151420104704
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-September 9-10
-https://eventyay.com/e/8fa7fd14/schedule
-
-September 11-13
-https://www.german-russians.info/
-
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
-https://cfp.2020.djangocon.eu/porto/schedule/
-
-October 2-3
-https://2020.pygotham.tv/talks/
-
-
-https://nuzzel.com/friendsfeeds
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-https://www.microsoft.com/en-us/trainingdays | Microsoft Technical Trainings
-
-https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
-
-Event
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
-
-SF Python
-https://www.meetup.com/sfpython/
-https://www.youtube.com/c/SFPython/videos
-
-https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
-https://twitter.com/sfdjangomeetup
-https://twitter.com/sfdjangomeetup/status/1288711058639601664
-https://twitter.com/sfdjangomeetup/following
-
-https://twitter.com/pyladiessf
-
-https://www.meetup.com/pythonsd/
-
-
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
-
-https://2020.pycascades.com/schedule/
-https://pybay.com/program/
-https://africa.pycon.org/schedule/
-https://ep2020.europython.eu/events/
-https://2020.pyconuk.org/ | PyCon UK 2020
-https://2020.pycon.org.au/program/fri/
-https://2020.pygotham.tv/
-https://www.pyohio.org/2020/
-https://www.youtube.com/playlist?list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB | PyOhio 2020 - YouTube
-https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
-https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
-
-https://www.pyohio.org/2020/events/schedule/
-http://2020.pytennessee.org/schedule
-https://2020.pythonwebconf.com/
-https://remote.python.pizza/
-https://na.pycon.org/programme/
-https://www.scipy2020.scipy.org/schedule
-
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
-
-https://github.com/FlaskCon/website | FlaskCon/website
-https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
-
-https://githubsatellite.com/
-https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
-https://git-merge.com/ | Git Merge 2018 — March, Barcelona
-
-https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
-
-CHAOSS
-
-Sustain OSS
-https://sustainoss.org/
-OSS Summit
-https://events.linuxfoundation.org/open-source-summit-north-america/
-https://fosdem.org
-https://www.oreilly.com/conferences/oscon.html
-
-https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
-https://events.linuxfoundation.org/open-source-summit-europe/register/ | Register | Linux Foundation Events
-
-https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
-
-https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
-http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
-https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
-
-Vicky
-https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
-https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
-https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
-
-GitLab
-https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
-https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here - August 26, 2020 | GitLab
-https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
-
-
-https://mybuild.microsoft.com/
-https://aws.amazon.com/events/aws-innovate/
-
-https://www.defcon.org/html/defcon-26/dc-26-schedule.html | DEF CON® 26 Hacking Conference Schedule
-
-https://www.ces.tech/
-https://www.webbyawards.com/
-
-https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
-
-
-https://twitter.com/adriennefriend/status/1298409146807726080 | adriennefriend on Twitter: "It seems like a new online tech conference is popping up every week. How do you know if it's worth your time? I wrote about my experience speaking at a virtual #python conference #PythonWebConf and provided a checklist for evaluating online events. ✅ 🐍 https://t.co/n4EAJkLUYp" / Twitter
-
-https://github.com/eda3/pyconjp2020-slackbot | eda3/pyconjp2020-slackbot
-
-https://twitter.com/Mayacelium/status/1299452509140840449 | Maya Gans on Twitter: "I DON'T CARE WHAT INDUSTRY YOU'RE IN FLIP 👏 THROUGH 👏 THIS 👏 SLIDE 👏 DECK! https://t.co/328dOGvZGY brilliant presentation! #Rmedicine2020" / Twitter
-
-
-https://github.com/githubevents | GitHub Events
-
-Events
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://live-stream.github.com/ | GitHub Live Events
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://securitylab.github.com/events
-
-GH Satellite
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
 
 Competitions
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
@@ -564,42 +402,6 @@ https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithm
 
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
-
-
-https://github.com/EthicalML/awesome-production-machine-learning | EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-Fast
-https://github.com/fastai/fastbook
-https://twitter.com/jeremyphoward/status/1293698425645498369
-https://github.com/fastai/fastcore | fastai/fastcore: Python supercharged for the fastai library
-https://www.fast.ai/2020/08/21/fastai2-launch/ | fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai
-https://twitter.com/math_rachel/status/1296094526004551680 | https://twitter.com/math_rachel/status/1296094526004551680
-https://github.com/render-examples/fastai-v3 | render-examples/fastai-v3: Starter app for fastai v3 model deployment on Render
-
-https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
-https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
-
-https://beta.openai.com/ | OpenAI API
-
-GPT-3
-https://openai.com/blog/openai-api/ | OpenAI API
-https://github.com/openai/gpt-3 | openai/gpt-3: GPT-3: Language Models are Few-Shot Learners
-https://twitter.com/karpathy/status/1295410274095095810
-https://github.com/karpathy/minGPT
-
-https://twitter.com/minimaxir/status/1274782293320626176 | Max Woolf on Twitter: "AI generated Python code is awesome! https://t.co/didK2w6n63" / Twitter
-
-https://arxiv.org/abs/1709.02840
-https://arxiv.org/pdf/1709.02840.pdf
-
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-https://lyrebird.ai/demo | Demo - Lyrebird
 
 
 Practical Dev
