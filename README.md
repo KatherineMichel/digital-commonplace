@@ -155,12 +155,6 @@ https://pypi.org/project/release-bot/ | release-bot · PyPI
 https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
 https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
 
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
 https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
 
 https://opensourcedesign.net/goals/ | Goals - Open Source Design
@@ -169,6 +163,12 @@ https://opensourcedesign.net/goals/ | Goals - Open Source Design
 
 Talks
 https://twitter.com/simonw/status/1300193439573708800
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
 Carl Myer, Kyle Knapp
 https://hynek.me/talks/python-foss/
@@ -197,6 +197,7 @@ As CTO
 https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
 
 https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
+
 
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
@@ -390,30 +391,8 @@ https://web.archive.org/web/20190330075819/http://lunar.lostgarden.com/Mixing_Ga
 
 https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experience-team-pxt-25fdbb201a9 | Think of it like this: We are a Product Experience Team (PXT) – Medium
 
-TikTok
-https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat | TikTok and the Sorting Hat — Remains of the Day
-https://twitter.com/sriramk/status/1290641522933678080 | Sriram Krishnan on Twitter: "Another insight/reckoning from @eugenewei’s latest magnum opus: a powerful algorithm can take the place of cultural research ( or any research) or even thoughtful product design. There is a parallel to GPT3: AI taking the place of what required human effort before." / Twitter
-https://twitter.com/ruima/status/1290710909464133632 | Rui Ma 马睿同学 on Twitter: "Since there's still some confusion on why TikTok is so disruptive / successful ... this is old, old news but ... There are a few main ingredients but the core is the Algorithmic Distribution of Content. It's not social OR interest graph based." / Twitter
-https://akashsenapaty.com/understanding-tik-tok-app/ | How Tik Tok became the most downloaded app of Q1 2018
-
-TikTok Algo
-https://www.axios.com/tiktoks-new-ceo-says-company-will-reveal-how-its-algorithms-work-aff01b6c-8f33-454f-9b4a-7d52292ce501.html | TikTok's new CEO says company will reveal how its algorithms work - Axios
-
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
-
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
 
 
 Make
