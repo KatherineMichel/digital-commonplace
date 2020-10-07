@@ -1,6 +1,15 @@
 # Python Tools and Release Managers
 
 <!--
+https://www.pypy.org/ | PyPy
+
+--user flag
+https://twitter.com/messages/17009144-101186457
+https://pip.pypa.io/en/stable/user_guide/#user-installs
+
+release-bot
+https://pypi.org/project/release-bot/ | release-bot · PyPI
+
 Third party tools
 
 https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
