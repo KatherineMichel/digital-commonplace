@@ -1345,8 +1345,15 @@ Pipenv
 * [Next Pipenv Release - Google Groups](https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co)
 
 <!--
+https://www.youtube.com/watch?time_continue=31&v=B4GQCBBsuNU&feature=emb_logo | Changes are coming to pip - YouTube
+https://twitter.com/ThePSF/status/1311038036013199363 | Python Software Foundation on Twitter: "Changes are coming to pip, #Python's package installation tool, in October 2020. https://t.co/7U5nJFADDL Migration guide: https://t.co/WGwwL7Hp5D Sign up for user experience studies: https://t.co/cCRyK15lOs" / Twitter
+
+https://twitter.com/codewithanthony/status/1310641296629874689 | Anthony Sottile on Twitter: "@jugmac00 @driscollis pip: generally shouldn't use pip to install system packages, use the system package manager venv: needs pip / ensurepip tk: pulls in a ton of deps and most people don't need it gdbm: used to be for licensing reasons distutils + lib2to3: idk, but they're going away soon" / Twitter
+
+
 Bernat
 https://ep2020.europython.eu/talks/D2SG8Vb-lessons-from-the-trenches-rewriting-and-re-releasing-virtualenv/ | Lessons from the Trenches: rewriting and re-releasing virtualenv — EuroPython 2020 Online · 23-26 July 2020
+https://www.youtube.com/watch?v=l9A0a8qZgOs | (1) Bernat Gabor - Lessons from the Trenches: rewriting and re-releasing virtualenv - YouTube
 https://www.youtube.com/watch?v=RVK7rsFEfpc&feature=youtu.be&t=15630
 https://github.com/gaborbernat/virtualenv-rewrite-eupy20 | gaborbernat/virtualenv-rewrite-eupy20
 
