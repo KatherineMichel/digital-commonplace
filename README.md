@@ -132,9 +132,14 @@ DSF Fellow Stats
 https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
 
 
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+Web Design
+https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
+https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
+https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
+https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 Pre-mortem
 https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
@@ -162,6 +167,8 @@ http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
+
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
@@ -408,6 +415,238 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
+<!--
+lyftvm
+
+mergebot
+
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
+
+Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
+
+https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+
+https://www.youtube.com/watch?v=lx5WQjXLlq8&
+https://speakerdeck.com/carljm/instagram-under-the-hood
+https://blog.disqus.com/scaling-django-to-8-billion-page-views
+https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
+https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
+
+https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
+-->
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+https://us.pycon.org/2020/schedule/talks/
+
+https://techyaks.com/python-year-tytop.html
+-->
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+
+<!--
+ https://stackshare.io/twitter/twitter
+
+Twitter
+Site case study
+https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
+
+Twitter language
+https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
+https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
+-->
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+
+## Companies that Use Python
+
+Companies that Use Python
+* PyCon Slide
+
+High Performance Python- Engineering Blogs
+* [Bloomberg](https://www.techatbloomberg.com/)
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
+## Major Organizations and Projects that Use Python or Django
+
+<!--
+* [23andMe](https://github.com/23andMe) 
+* [Alexa](https://github.com/alexa) 
+* [Amazon Web Services](https://github.com/amazonwebservices)  
+* [Amazon](https://github.com/amzn)
+* [AWS](https://github.com/aws)  
+* [AWS Labs](https://github.com/awslabs)
+* [Apple](https://github.com/apple)
+* [Bloomberg](https://github.com/bloomberg) 
+* [Box](https://github.com/box) 
+* [Britecore](https://github.com/britecore) 
+* [Disney](https://github.com/disney)
+* [Doctor on Demand](https://github.com/doctorondemand)
+* [Dropbox](https://github.com/dropbox) 
+* [Elastic](https://github.com/elastic)
+* [Facebook](https://github.com/facebook)  
+* [Facebook Archive](https://github.com/facebookarchive)  
+* [Facebook Experimental](https://github.com/facebookexperimental)
+* [Facebook Go](https://github.com/facebookgo)
+* [Facebook Incubator](https://github.com/facebookincubator)
+* [Facebook Platform Samples](https://github.com/fbsamples) 
+* [Facebook Research](https://github.com/facebookresearch)
+* [Ford](https://github.com/Ford)
+* [GoDaddy](https://github.com/godaddy)
+
+* [Android](https://github.com/android) 
+* [Google](https://github.com/google)  
+* [Actions on Google](https://github.com/actions-on-google)
+* [Google Ads](https://github.com/googleads)  
+* [Google Chrome](https://github.com/GoogleChrome)  
+* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
+* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
+* [Google Container Tools](https://github.com/GoogleContainerTools)  
+* [Google Creative Lab](https://github.com/googlecreativelab) 
+* [Google Developer Training](https://github.com/google-developer-training) 
+* [Google Drive](https://github.com/googledrive) 
+* [Google Genomics](https://github.com/googlegenomics)  
+* [Google Glass](https://github.com/googleglass)  
+* [Google Knowledge](https://github.com/googleknowledge)  
+* [Google Maps](https://github.com/googlemaps)  
+* [Google Samples](https://github.com/googlesamples) 
+* [G Suite Devs](https://github.com/gsuitedevs )
+* [YouTube](https://github.com/youtube)
+
+* [Grubhub](https://github.com/grubhub) 
+* [IBM](https://github.com/IBM)  
+* [IBM Cloud](https://github.com/IBM-Cloud)
+* [Indeed](https://github.com/indeedeng)
+* [Instagram](https://github.com/Instragram)  
+* [LinkedIn GitHub](https://github.com/linkedin)
+lulumon
+* [Lyft](https://github.com/lyft)
+magic leap
+* [MailChimp](https://github.com/mailchimp) 
+markel corporation!
+MIT
+* [Mozilla](https://github.com/mozilla)
+* [Mozilla Developer Network](https://github.com/mdn)
+* [Mozilla Developer Outreach](https://github.com/mozdevs)
+* [Mozilla devtools-html](https://github.com/devtools-html)
+* [Mozilla Foundation](https://github.com/MozillaFoundation)
+* [Mozilla IoT](https://github.com/mozilla-iot)
+* [Mozilla Services](https://github.com/mozilla-services)
+nasa
+nbc universal
+netapp
+new relic
+* [Nike Inc.](https://github.com/Nike-Inc)
+* [Netflix](https://github.com/Netflix) 
+o'reilly
+* [Patreon](https://github.com/patreon)  
+* [PayPal](https://github.com/paypal) 
+* [Rackspace](https://github.com/rackspace)
+* [Reddit](https://github.com/reddit) 
+redhat
+* [Roverdotcom](https://github.com/roverdotcom)
+* [Salesforce GitHub](https://github.com/salesforce)
+* [Samsung GitHub](https://github.com/Samsung)
+sony 
+* [Spotify](https://github.com/spotify) 
+the walt disney company
+thoughtworks
+* [Tumblr](https://github.com/tumblr) 
+* [Vox Media](https://github.com/voxmedia) 
+* [Walmart Labs](https://github.com/walmartlabs) 
+walt disney animations tudios
+* [Wayfair](https://github.com/wayfair)
+* [Yandex](https://github.com/yandex)
+* [Yelp](https://github.com/Yelp) 
+-->
+
+## Django Consulting Firms
+
+Python and Django Consulting Firm GitHub Accounts
+* [Caktus Group GitHub](https://github.com/caktus) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
+* [Changeset Consulting](https://changeset.nyc)
+* [Cuttlesoft GitHub](https://github.com/cuttlesoft) and [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
+* [Divio GitHub](https://github.com/divio) and [Divio Blog](https://www.divio.com/blog)
+* [Eldarion GitHub](https://github.com/eldarion) and [Eldarion Blog](http://eldarion.com/blog)
+* [JamBon Software GitHub](https://github.com/jambonsw) and [JamBon Software](http://www.jambonsw.com)
+* [Lincoln Loop GitHub](https://github.com/lincolnloop) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Pinax](https://pinaxproject.com) and [Pinax Blog](http://blog.pinaxproject.com)
+* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
+* [Torchbox GitHub](https://github.com/torchbox) and [Torchbox Blog](https://torchbox.com/blog)
+* [Truthful Technology GitHub](https://github.com/TruthfulTechnology) and [Truthful Technology](https://truthful.technology)
+* [Vinta Software GitHub](https://github.com/vintasoftware) and [Vinta Blog](https://www.vinta.com.br/blog)
+
+<!--
+https://www.jbssolutions.com/
+
+DjangoCon sponsors
+https://2018.djangocon.us/sponsors/
+-->
+
+## Major Organizations and Projects that Use Django
+
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
+
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
+
+
 ## Eldarion
 
 ## Good Habits
@@ -485,6 +724,52 @@ Handbooks
 * [Glitch Handbook](https://handbook.glitch.me/)
 * [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
 
+<!--
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+-->
+
+## High Performance- Top
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+
+<!--
+https://www.thoughtworks.com
+
+http://highscalability.com/all-time-favorites/
+-->
+
+## Agile and DevOps
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+<!--
+https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
+
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
+https://www.atlassian.com/agile/product-management/product-roadmaps
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+-->
+
 ## Roadmaps
 
 <!--
@@ -554,7 +839,6 @@ https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at 
 
 Docs- Important!
 minimum viable documentation
-https://documentation.divio.com/
 https://twitter.com/webology/status/1257759193743929347
 https://docs.fast.ai/gen_doc_main.html
 
@@ -1307,18 +1591,22 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
+pyenv?
+command line tools for xcode - Google Search
+
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
+
+http://www.linfo.org/usr_sbin.html
 https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
 
 https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 
 https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
-
-pyenv?
-command line tools for xcode - Google Search
 
 ZSH	
 https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
@@ -1334,20 +1622,20 @@ https://kapeli.com/dash_guide
 <!--
 aliases, dotfiles, Regex
 
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-http://www.linfo.org/usr_sbin.html
-
-https://realpython.com/effective-python-environment/ | An Effective Python Environment: Making Yourself at Home – Real Python
-https://realpython.com/what-is-pip/ | What Is Pip? A Guide for New Pythonistas – Real Python
-https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
-
 https://en.wikipedia.org/wiki/Shell_script
 
 Aliases
 https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
 
+Bash versus Python
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
 https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 Bash
 https://www.gnu.org/software/bash/manual/
@@ -1358,24 +1646,10 @@ http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 Advanced Bash-Scripting Guide
 http://tldp.org/LDP/abs/html/
 http://www.tldp.org/LDP/abs/html/why-shell.html
-File security
-http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
-
-https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
-https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
 
 https://github.com/topics/bash | Topic: bash
 https://github.com/Idnan/bash-guide
 https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-Bash versus Python
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
 
@@ -1412,158 +1686,6 @@ See also: Data Science
 https://github.com/keen/cohorts
 -->
 
-## Security
-
-Security- General
-* [Security- Computer Security Wikipedia](https://en.wikipedia.org/wiki/Security#Computer_security)
-* [Computer Security Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
-* [Information Security Wikipedia](https://en.wikipedia.org/wiki/Information_security)
-* [Threat Model Wikipedia](https://en.wikipedia.org/wiki/Threat_model)
-* [Penetration Test Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
-
-OWASP
-* [OWASP](https://www.owasp.org/index.php/Main_Page) and [OWASP GitHub](https://github.com/OWASP)
-* [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) and [OWASP Cheat Sheet Series GitHub](https://github.com/OWASP/CheatSheetSeries)
-
-Top Ten
-* [OWASP Top Ten Cheat Sheet GitHub](https://github.com/OWASP/Top10)
-
-<!--
-## Security- General
-      
-https://developers.google.com/web/fundamentals/security/
-
-https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
-
-Application Security Verification Standard
-https://github.com/OWASP/ASVS/tree/master/4.0/en | ASVS/4.0/en at master · OWASP/ASVS
-
-https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents | OWASP Testing Guide v4 Table of Contents - OWASP
-
-https://www.owasp.org/index.php/Application_Threat_Modeling | Application Threat Modeling - OWASP
--->
-
-<!--
-https://www.owasp.org/index.php/Category:Attack
-   
-https://www.owasp.org/index.php/Top_10-2017_Top_10 | Top 10-2017 Top 10 - OWASP
-https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf | OWASP Top 10 - 2017
-
-https://www.owasp.org/index.php/OWASP_Serverless_Top_10_Project | OWASP Serverless Top 10 Project - OWASP
-https://github.com/OWASP/DVSA | OWASP/DVSA: a Damn Vulnerable Serverless Application
-
-https://teamtreehouse.com/library/owasp-top-10-vulnerabilities | OWASP Top 10 Vulnerabilities Course
-
-[Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-
-https://www.owasp.org/index.php/OWASP_SAMM_Project | OWASP SAMM Project - OWASP
--->
-
-### Security Model
-
-Computer Security Model
-* [Computer Security Model Wikipedia](https://en.wikipedia.org/wiki/Computer_security_model)
-
-Types
-* [Same Origin Policy Wikipedia](https://en.wikipedia.org/wiki/Same-origin_policy)
-* [Content Security Policy Wikipedia](https://en.wikipedia.org/wiki/Content_Security_Policy)
-
-Same Origin
-* [Same-Origin Policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-* [Google HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-
-Content Security Policy (CSP)
-* [Google Content Security Policy (CSP)](https://developers.google.com/web/fundamentals/security/csp) and [Mozilla Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-Mixed Content
-* [Google What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content) and [Google Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-
-### Security Risk
-
-High
-* [Arbitrary Code Execution Wikipedia](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
-* [SQL Injection Wikipedia](https://en.wikipedia.org/wiki/SQL_injection)
-
-Medium
-* [Cross-Site Scripting Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)
-* [Cross-Site Request Forgery Wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
-* [Denial of Service Attack Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack)
-
-<!--
-Medium
-Broken authentication
-
-Low
-Sensitive data exposure
-Broken session management
-Unvalidated redirects/forwards
-Issues requiring an uncommon configuration option
-
-https://en.wikipedia.org/wiki/Clickjacking
-https://en.wikipedia.org/wiki/Code_injection
-
-https://en.wikipedia.org/wiki/Fully_qualified_domain_name | Fully qualified domain name - Wikipedia
-
-https://www.owasp.org/index.php/SQL_Injection
-https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF) | Cross-Site Request Forgery (CSRF) - OWASP
-https://www.owasp.org/index.php/Denial_of_Service
-https://www.owasp.org/index.php/HttpOnly | HttpOnly - OWASP
-
-Prevention
-https://www.owasp.org/index.php/Injection_Prevention_Cheat_Sheet | Injection Prevention Cheat Sheet - OWASP
-https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet | Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet - OWASP
-
-JavaScript
-https://www.owasp.org/index.php/3rd_Party_Javascript_Management_Cheat_Sheet
-https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
--->
-
-
-
-## Companies that Use Python
-## Major Organizations and Projects that Use Python or Django
-## Django Consulting Firms
-## Major Organizations and Projects that Use Django
-
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-<!--
-http://highscalability.com
- 
-https://stackshare.io/twitter/twitter
-
-Twitter
-Site case study
-https://twitter.com/boo/status/1290711745913208832 | bruce falck() 🦗 on Twitter: "Here is more on how we decomposed Twitter's monolithic AdServer. A monumental effort by an amazing team which will have a big impact our #velocity and ability to innovate" / Twitter
-https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html | Building Twitter’s ad platform architecture for the future
-
-Twitter language
-https://twitter.com/TwitterEng/status/1278733305190342656 | Twitter Engineering on Twitter: "We’re starting with a set of words we want to move away from using in favor of more inclusive language, such as: https://t.co/6SMGd9celn" / Twitter
-https://www.cnet.com/news/twitter-engineers-replace-racially-loaded-tech-terms-like-master-slave/ | Twitter engineers replacing racially loaded tech terms like 'master,' 'slave' - CNET
--->
-
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
 
 ## Project Ideas
 
@@ -1651,20 +1773,11 @@ David Beazley
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 
-Web Design
-https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
-https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
-https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
-https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
-
 
 https://startbootstrap.com/templates/shop-homepage/ | Shop Homepage - Bootstrap Ecommerce Store Template - Start Bootstrap
 https://startbootstrap.com/previews/blog-post/ | Blog Post - Template Preview - Start Bootstrap
 https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Guides - Start Bootstrap
 https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 
 No Starch
@@ -2178,6 +2291,65 @@ https://github.com/upday/python-project-template | upday/python-project-template
 -->
 
 
+## Django Organization Tools
+
+<!--
+Lincoln Loop Stack
+High Performance Django Stack
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
+
+https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
+https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
+
+Calvin
+https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
+
+https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
+https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
+https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
+https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
+
+https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
+
+https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
+
+https://github.com/adamchainz/django-perf-rec
+https://gumroad.com/l/suydt
+
+https://jazzband.co/ | Jazzband
+https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
+https://github.com/jazzband/dj-rest-auth
+https://github.com/jazzband/django-model-utils
+
+https://twitter.com/jpadilla_/status/1189752115566133248
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
+
+https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
+
+https://github.com/jambonsw/django-improved-user
+
+https://github.com/lincolnloop/django-alive
+
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
+
+Feature Flags
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+-->
+
+
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -2655,8 +2827,6 @@ https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Dr
 
 
 <!--
-https://www.thoughtworks.com
-
 https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
 https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
@@ -2793,13 +2963,7 @@ https://github.com/Droogans/unmaintainable-code
 * [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
 * [Open Microservices Guide](https://openmicroservices.org/)
 
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
 <!--
-http://highscalability.com/all-time-favorites/
-
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
 
   * [Microservices Dot IO](http://microservices.io)
@@ -2808,41 +2972,11 @@ https://environ-config.readthedocs.io/en/latest/ | environ-config: Application C
 https://github.com/microservices/cli
 -->
 
-
-## Agile and DevOps
-
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-
-<!--
-https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
-
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://www.atlassian.com/software-trends | Software Development Trends | Atlassian
-https://www.atlassian.com/agile/product-management/product-roadmaps
-
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
--->
-
 ## High Performance
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
 
 <!--
 https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
 
 https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
 
