@@ -153,12 +153,26 @@ DevICT
 https://www.grooverlabs.org/events | Events | Groover Labs
 https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
 
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
+SF Python
+https://www.meetup.com/sfpython/
+https://www.youtube.com/c/SFPython/videos
+https://twitter.com/pyladiessf
+
+https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
+https://twitter.com/sfdjangomeetup
+https://twitter.com/sfdjangomeetup/status/1288711058639601664
+https://twitter.com/sfdjangomeetup/following
+
 SF, Seattle
 https://twitter.com/wwcsf | https://twitter.com/wwcsf
 https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
 https://twitter.com/pyladiessf | PyLadies SF (@pyladiessf) / Twitter
 
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
+
+https://www.webbyawards.com/
 
 https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
 
@@ -173,6 +187,8 @@ https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.c
 
 Important
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
+
+https://twitter.com/wakaleo/status/854702550469234692
 
 https://djangobuilder.io/#/ | Django Builder
 
@@ -223,6 +239,10 @@ https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twit
 
 https://github.com/11ty/eleventy#major-roadmapped-features
 
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
+
 Interesting
 Turning off issues
 https://gist.github.com/ryanflorence/8a62abea562ca2896dee
@@ -255,6 +275,8 @@ https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - 
 https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
 https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
 
+https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
+
 Mariatta
 https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
 https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
@@ -267,12 +289,18 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
 https://www.igvita.com/ | Ilya Grigorik - igvita.com
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
 https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
 https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
 
 
 
