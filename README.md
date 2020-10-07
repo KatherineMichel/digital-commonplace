@@ -22,6 +22,9 @@ https://twitter.com/jowyang/status/1297923146050199552
 Learning how to learn
 https://twitter.com/Fox0x01/status/1238636236962779136
 
+Take on the most challenging problem first
+https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
+
 Progress
 https://twitter.com/polotek/status/1294150617389121536
 https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
@@ -129,54 +132,15 @@ DSF Fellow Stats
 https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
 
 
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
 
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
+Pre-mortem
+https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
 
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-
---user flag
-https://twitter.com/messages/17009144-101186457
-https://pip.pypa.io/en/stable/user_guide/#user-installs
-
-Pinax
-https://en.wikipedia.org/wiki/Software_versioning#Release_train
-
-https://github.com/features/codespaces/ | Codespaces
-
-release-bot
-https://pypi.org/project/release-bot/ | release-bot · PyPI
-
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-Carl Myer, Kyle Knapp
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
 
 
 Julia
@@ -187,28 +151,17 @@ https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
 
 
+Talks
+https://twitter.com/simonw/status/1300193439573708800
 
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
+Hynek Schlawack, Carl Myer, Kyle Knapp
 
-Pre-mortem
-https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
-
-
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-Enineering manager
-https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
-
-
-https://www.pypy.org/ | PyPy
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
@@ -222,6 +175,46 @@ https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Pytho
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+Enineering manager
+https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
+
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
+
+
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
+
+
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
 
 
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
@@ -263,8 +256,6 @@ https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-securit
 Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
-
-
 
 
 
@@ -337,22 +328,6 @@ https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-bu
 
 
 
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
-
 Sid
 https://twitter.com/changelog/status/1276514876228284417
 
@@ -397,6 +372,40 @@ https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 
 Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
+-->
+
+## General Talks
+
+<!--
+Carl Myer, Kyle Knapp
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
 -->
 
 ## Eldarion
@@ -490,12 +499,13 @@ https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-road
 https://github.com/github/roadmap
 https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
 
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+https://redwoodjs.com/roadmap
 
 Gumroad Roadmap
 https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 -->
 
 ## Open Source Guides
@@ -535,6 +545,9 @@ Heroku Hosting Docs
 ## Technical Writing Guides
 
 <!--
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://redwoodjs.com/docs/introduction
+
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 
 https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
@@ -1512,31 +1525,6 @@ https://www.owasp.org/index.php/AJAX_Security_Cheat_Sheet
 ## Major Organizations and Projects that Use Python or Django
 ## Django Consulting Firms
 ## Major Organizations and Projects that Use Django
-
-## General Talks
-
-<!--
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
 
 ## High Performance Trends
 
