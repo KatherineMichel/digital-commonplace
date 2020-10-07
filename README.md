@@ -145,6 +145,138 @@ https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
 https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
 
 
+
+Patterns conference
+https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
+
+DevICT
+https://www.grooverlabs.org/events | Events | Groover Labs
+https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
+
+SF, Seattle
+https://twitter.com/wwcsf | https://twitter.com/wwcsf
+https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
+https://twitter.com/pyladiessf | PyLadies SF (@pyladiessf) / Twitter
+
+https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
+
+https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+
+Important
+https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
+
+Sarah
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+Public speaking
+https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
+
+Important
+https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
+
+https://djangobuilder.io/#/ | Django Builder
+
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+
+Admins
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://en.wikipedia.org/wiki/Recursion
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+
+https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
+https://carpentries.github.io/instructor-training/ | Instructor Training
+
+https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
+
+https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
+
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
+
+Materials
+https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
+
+https://www.careercup.com/forumpost?id=5726789051613184 | Interview Preparation Grid | CareerCup
+
+Coding challenge
+https://www.freecodecamp.com/challenges/stand-in-line
+
+CodeBuddies
+https://app.slack.com/client/T04AQ6GEY/D01A4NKEGKF | Slack | CodeBuddies Welcome | CodeBuddies
+https://github.com/codebuddies | CodeBuddies Community
+https://codebuddies.org/about | CodeBuddies | About
+
+https://www.hackerrank.com/domains/tutorials/10-days-of-javascript | Solve Tutorials | HackerRank
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+Learning
+https://medium.com/basecs | basecs – Medium
+https://www.codenewbie.org/basecs
+https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
+
+GitLab
+https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
+
+https://github.com/11ty/eleventy#major-roadmapped-features
+
+Interesting
+Turning off issues
+https://gist.github.com/ryanflorence/8a62abea562ca2896dee
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
+https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
+https://github.com/captainsafia/checklist
+
+https://riscv.org/ | RISC-V International
+https://en.wikipedia.org/wiki/Active_Directory
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
+https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
+https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+
+http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
+https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutshell, 2nd Edition [Book]
+
+Django security
+https://twitter.com/wsv3000/status/1308454798174433281 | William Vincent on Twitter: "New article on Django Security Best Practices. It's a deep topic but these are the must-haves for any production website. https://t.co/AyjVze5ejE" / Twitter
+
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+
+Nina
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
+https://www.igvita.com/ | Ilya Grigorik - igvita.com
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+
+
+
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 Pre-mortem
