@@ -268,6 +268,13 @@ https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
 https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutshell, 2nd Edition [Book]
 
+https://twitter.com/ThePyPA/status/1303384992165302272 | PyPA on Twitter: "https://t.co/gXi5fQtmQU pip 20.2.3 is out. Includes a beta of the new dependency resolver (hidden behind an optional --use-feature=2020-resolver flag). We encourage you to test it before next month, when pip 20.3'll default to the new behavior. https://t.co/aKqVdEcphJ #Python https://t.co/cWy1DRYkkx" / Twitter
+
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+
+https://lwn.net/Articles/828486/ | "Structural pattern matching" for Python, part 2 [LWN.net]
+https://www.python.org/dev/peps/pep-0638/ | PEP 638 -- Syntactic Macros | Python.org
+
 Django security
 https://twitter.com/wsv3000/status/1308454798174433281 | William Vincent on Twitter: "New article on Django Security Best Practices. It's a deep topic but these are the must-haves for any production website. https://t.co/AyjVze5ejE" / Twitter
 
