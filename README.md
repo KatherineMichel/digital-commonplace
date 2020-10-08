@@ -202,6 +202,9 @@ https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
 
+https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
+https://carpentries.github.io/instructor-training/ | Instructor Training
+
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -229,6 +232,12 @@ https://www.codenewbie.org/basecs
 https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
 
 
+Julia
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -240,8 +249,24 @@ https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt
 
 https://twitter.com/wakaleo/status/854702550469234692
 
+https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
+
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Hynek Schlawack, Carl Myer, Kyle Knapp
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
 
 https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
 
 Projects
 https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
@@ -250,18 +275,22 @@ https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 https://expressjs.com/ | Express - Node.js web application framework
 https://vuejs.org/v2/guide/ | Introduction — Vue.js
 
+Admins
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 
-
-https://djangobuilder.io/#/ | Django Builder
-
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
 
 https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
 https://en.wikipedia.org/wiki/Recursion
 
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
 
+
+https://djangobuilder.io/#/ | Django Builder
+
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 
 
 https://docs.python.org/2.5/whatsnew/pep-343.html
@@ -301,69 +330,7 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 Packaging Talk
 https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This is not my favourite version of this python packaging talk, but it is the most up-to-date." / Twitter
 
-
-Admins
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-
-
-https://www.igvita.com/ | Ilya Grigorik - igvita.com
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
 https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
-
-GitLab
-https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
-
-https://github.com/11ty/eleventy#major-roadmapped-features
-
-
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
-
-
-https://riscv.org/ | RISC-V International
-https://en.wikipedia.org/wiki/Active_Directory
-https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
-https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
-https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
-https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
-
-
-
-
-Julia
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
-
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Hynek Schlawack, Carl Myer, Kyle Knapp
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
 
 https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
@@ -382,6 +349,12 @@ https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The C
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 
+https://www.igvita.com/ | Ilya Grigorik - igvita.com
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
+
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
@@ -396,6 +369,17 @@ https://andreasbm.github.io/web-skills/?compact | Web Skills
 
 https://regexcrossword.com/ | Regex Crossword
 https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
+https://riscv.org/ | RISC-V International
+https://en.wikipedia.org/wiki/Active_Directory
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
+https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
+https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 
 
 GitHub
@@ -428,6 +412,18 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security
 ## Visual Studio Code
 ## GitHub and VS Code Integration
 
+vscode html css support - Google Search
+
+All repos
+https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
+
+
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
+GitLab
+https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
 
 https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
 https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
@@ -492,15 +488,6 @@ https://github.com/nektos/act
 GitHub
 https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
 
-
-
-VS Code
-vscode html css support - Google Search
-
-All repos
-https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
-
-Bash Language
 
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
@@ -961,6 +948,7 @@ https://github.com/github/roadmap
 https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap | Twitter Developer Platform Roadmap | Trello
 
 https://redwoodjs.com/roadmap
+https://github.com/11ty/eleventy#major-roadmapped-features
 
 Gumroad Roadmap
 https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
