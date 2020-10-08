@@ -209,6 +209,26 @@ https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
 
+https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
+https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
+https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Blog
+https://blog.stephenwolfram.com/2017/12/what-do-i-do-all-day-livestreamed-technology-ceoing/ | What Do I Do All Day? Livestreamed Technology CEOing—Stephen Wolfram Blog
+
+Simon- Automate release notes
+https://twitter.com/HamelHusain/status/1301951834723028992 | Hamel Husain on Twitter: "@simonw : @jeremyphoward and myself are interested in how you automate your release notes. I think? you wrote about this recently? Do you mind re-sharing this? (I tried searching but perhaps wasn't using the right keywords)" / Twitter
+https://twitter.com/simonw/status/1301980202960994304 | Simon Willison on Twitter: "@jeremyphoward @HamelHusain I suck all of the issues, issue comments, commits and PRs from all of my GitHub repositories into one SQLite database using https://t.co/PbhLyR3vve which is really useful for running queries across all my projects at once" / Twitter
+https://twitter.com/simonw/status/1301952427873034240 | Simon Willison on Twitter: "@HamelHusain @jeremyphoward I don't fully automate mine but I start by clicking the "commits since last release" link in the GitHub releases page https://t.co/9MZ0OJFJYx - then turn that into bullet points" / Twitter
+
+Simon's template
+https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
+https://twitter.com/simonw/status/1302806418421030912 | Simon Willison on Twitter: "Made myself another cookiecutter template this morning - this one sets up new open source Python libraries based on my preferred way of doing that (with Github Actions CI for both running tests and publishing the package to PyPI) https://t.co/SsjROare3e" / Twitter
+
+https://github.com/jacobian?tab=repositories | jacobian (Jacob Kaplan-Moss) / Repositories
+https://github.com/dogsheep/hacker-news-to-sqlite | dogsheep/hacker-news-to-sqlite: Create a SQLite database containing data pulled from Hacker News
+https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
+
+
+
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
