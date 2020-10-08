@@ -8,10 +8,15 @@ https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twit
 1 minute breathing exercise
 https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+exercise&oq=brea&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyAggpMggIABCxAxCDATIFCAAQkgMyBQgAEJIDMgUIABCxAzIFCAAQsQMyBQguELEDMgUIABCxAzICCC46CAguELEDEIMBOgIIAEoFCBISATFQ8wpYshBgwiFoAHAAeACAAb0BiAHnBJIBAzAuNJgBAKABAbABCA&sclient=mobile-gws-wiz-hp
 
+https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
+
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
+
+Learning how to learn
+https://twitter.com/Fox0x01/status/1238636236962779136
 
 https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
 https://twitter.com/MissGallo/status/1302625930037395456
@@ -19,8 +24,8 @@ https://twitter.com/nibrasibn/status/1302254751011213314
 https://twitter.com/mkobach/status/1305329747006754817
 https://twitter.com/jowyang/status/1297923146050199552
 
-Learning how to learn
-https://twitter.com/Fox0x01/status/1238636236962779136
+Sarah
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
 
 Take on the most challenging problem first
 https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
@@ -146,6 +151,17 @@ https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial 
 
 
 
+https://www.webbyawards.com/
+
+https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+
+Projects
+https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+https://expressjs.com/ | Express - Node.js web application framework
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+
 Patterns conference
 https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
 
@@ -172,16 +188,6 @@ https://twitter.com/pyladiessf | PyLadies SF (@pyladiessf) / Twitter
 
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
 
-https://www.webbyawards.com/
-
-https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
-
-Important
-https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
-
-Sarah
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
 Public speaking
 https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
 
@@ -206,6 +212,7 @@ https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
+
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -227,21 +234,23 @@ https://codebuddies.org/about | CodeBuddies | About
 
 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript | Solve Tutorials | HackerRank
 
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
 
 Learning
 https://medium.com/basecs | basecs – Medium
 https://www.codenewbie.org/basecs
 https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
 
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
+
 GitLab
 https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
 
 https://github.com/11ty/eleventy#major-roadmapped-features
 
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
 
 Interesting
 Turning off issues
@@ -264,6 +273,7 @@ http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distribute
 
 https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+
 
 http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
 https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutshell, 2nd Edition [Book]
@@ -308,6 +318,8 @@ https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects
 https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
 https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
 https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 
 
@@ -2244,6 +2256,8 @@ https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: 
 Florin
 https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10-hours
 https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
