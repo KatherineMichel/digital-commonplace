@@ -31,6 +31,7 @@ https://twitter.com/ken_reitz/status/1296276149014847488 | Ken Reitz on Twitter:
 urllib3
 https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
 
+
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 https://docs.pytest.org/en/stable/ | pytest: helps you write better programs — pytest documentation
 https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -67,20 +68,6 @@ https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/djang
 -->
 
 <!--
-Simon
-https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings
-https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
-https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
-
-Simon- Automate release notes
-https://twitter.com/HamelHusain/status/1301951834723028992 | Hamel Husain on Twitter: "@simonw : @jeremyphoward and myself are interested in how you automate your release notes. I think? you wrote about this recently? Do you mind re-sharing this? (I tried searching but perhaps wasn't using the right keywords)" / Twitter
-https://twitter.com/simonw/status/1301980202960994304 | Simon Willison on Twitter: "@jeremyphoward @HamelHusain I suck all of the issues, issue comments, commits and PRs from all of my GitHub repositories into one SQLite database using https://t.co/PbhLyR3vve which is really useful for running queries across all my projects at once" / Twitter
-https://twitter.com/simonw/status/1301952427873034240 | Simon Willison on Twitter: "@HamelHusain @jeremyphoward I don't fully automate mine but I start by clicking the "commits since last release" link in the GitHub releases page https://t.co/9MZ0OJFJYx - then turn that into bullet points" / Twitter
-
-Simon's template
-https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
-https://twitter.com/simonw/status/1302806418421030912 | Simon Willison on Twitter: "Made myself another cookiecutter template this morning - this one sets up new open source Python libraries based on my preferred way of doing that (with Github Actions CI for both running tests and publishing the package to PyPI) https://t.co/SsjROare3e" / Twitter
-
 Fastmac
 https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
 https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
@@ -100,10 +87,6 @@ https://alabaster.readthedocs.io/en/latest/
 https://wsl-guide.kennethreitz.org/en/latest/
 
 
-https://github.com/OAI/OpenAPI-Specification
-
-https://github.com/OWASP/API-Security
-https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
 https://github.com/wsvincent/awesome-django
 
@@ -312,6 +295,12 @@ Top Ten
 <!--
 ## Security- General
       
+https://github.com/OAI/OpenAPI-Specification
+
+https://github.com/OWASP/API-Security
+https://github.com/OWASP/CheatSheetSeries | OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+
 https://developers.google.com/web/fundamentals/security/
 
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project | Category:OWASP Top Ten Project - OWASP
