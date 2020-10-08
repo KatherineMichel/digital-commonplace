@@ -80,13 +80,6 @@ Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 
-Public Speaking
-https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
-https://github.com/matteofigus/awesome-speaking
-
 
 DSF Fellow Stats
 https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
@@ -108,6 +101,20 @@ http://en.wikipedia.org/wiki/Vlog
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
+
+Public Speaking
+https://twitter.com/judy2k/status/1298185108286054400 | https://twitter.com/judy2k/status/1298185108286054400
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
+https://github.com/matteofigus/awesome-speaking
+
+October 19-20
+https://2020.allthingsopen.org/register/
+https://2020.allthingsopen.org/speakers/
+
+October 29
+https://www.meetup.com/Miami-PyLadies/events/273725738/
 
 Patterns conference
 https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
