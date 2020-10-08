@@ -88,6 +88,10 @@ https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-in
 https://github.com/matteofigus/awesome-speaking
 
 
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+
 Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
 https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
@@ -104,63 +108,6 @@ http://en.wikipedia.org/wiki/Vlog
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
-
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-https://devrel.io/ | DevRel IO - The Best DevRel Advice
-https://www.devrelcon.net/
-https://2018.devrelawards.com/
-https://twitter.com/DevRelAwards
-
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-
-https://twitter.com/natfriedman/following
-https://twitter.com/i/lists/1294427753782140928
-https://twitter.com/i/lists/1041844109479034880
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
-https://twitter.com/TwitterEng/lists/memberships
-https://twitter.com/i/lists/1287873548971778048
-
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-
-https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Sharing Management Ideas
-https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
-
-
-Competitions
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-
-Web Design
-https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
-https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
-https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
-https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
-
-
-
-https://www.webbyawards.com/
-
-https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
-
-Projects
-https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
-https://expressjs.com/ | Express - Node.js web application framework
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
 
 Patterns conference
 https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
@@ -194,17 +141,65 @@ https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.c
 Important
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
 
-https://twitter.com/wakaleo/status/854702550469234692
 
-https://djangobuilder.io/#/ | Django Builder
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+https://devrel.io/ | DevRel IO - The Best DevRel Advice
+https://www.devrelcon.net/
+https://2018.devrelawards.com/
+https://twitter.com/DevRelAwards
+
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
+
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
+
+https://twitter.com/natfriedman/following
+https://twitter.com/i/lists/1294427753782140928
+https://twitter.com/i/lists/1041844109479034880
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
+https://twitter.com/TwitterEng/lists/memberships
+https://twitter.com/i/lists/1287873548971778048
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+
+https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Sharing Management Ideas
+https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
 
 
-https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
-https://en.wikipedia.org/wiki/Recursion
+Web Design
+https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
+https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
+https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
+https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
 
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+Enineering manager
+https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
+
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
 
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
@@ -233,15 +228,45 @@ https://medium.com/basecs | basecs – Medium
 https://www.codenewbie.org/basecs
 https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
 
-https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
-https://carpentries.github.io/instructor-training/ | Instructor Training
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+Pre-mortem
+https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://twitter.com/wakaleo/status/854702550469234692
+
+
+https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+
+Projects
+https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+https://expressjs.com/ | Express - Node.js web application framework
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+
+
+
+https://djangobuilder.io/#/ | Django Builder
+
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+
+
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://en.wikipedia.org/wiki/Recursion
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+
 
 
 https://docs.python.org/2.5/whatsnew/pep-343.html
 https://blog.python.org/2020/07/python-385-released-as-security-hotfix.html | Python Insider: Python 3.8.5 released as a security hotfix. 3.9.0b5, the last beta before 3.9.0, also available
 https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/ | Django 3.1 Released | Weblog | Django
-
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 
 http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
 https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutshell, 2nd Edition [Book]
@@ -280,31 +305,19 @@ https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This
 Admins
 https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
 https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+
 
 https://www.igvita.com/ | Ilya Grigorik - igvita.com
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
 https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
 
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
 https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-
-Interesting
-Turning off issues
-https://gist.github.com/ryanflorence/8a62abea562ca2896dee
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
-https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
-https://github.com/captainsafia/checklist
 
 https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
 https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
@@ -331,16 +344,6 @@ https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectu
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 
 
-
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-Pre-mortem
-https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
 
 
 Julia
@@ -377,46 +380,6 @@ https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Pytho
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-Enineering manager
-https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
-
-
-
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
-
-
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-https://twitter.com/mariatta/status/1288694594004111360 | Mariatta 🤦 on Twitter: "🎙️💁🏻‍♀️ Excited to share that my talk "Oops! I Became an Open Source Maintainer! 😱" got accepted for #PyConAU #PyConlineAU (obviously for the #DevOops track 😅)" / Twitter
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
 
 
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
@@ -460,6 +423,46 @@ https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-p
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
 
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
+
+
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+Interesting
+Turning off issues
+https://gist.github.com/ryanflorence/8a62abea562ca2896dee
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
+https://github.com/captainsafia/checklist
+https://github.com/paulirish/git-open | paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.
+
+https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
+https://github.com/sindresorhus/refined-github
+https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on Twitter: "Also, refined-github is *incredibly helpful* for the annoying "load more" github issue truncation and batch loading of only 50. https://t.co/vhvbfwLqEc will give you 200. https://t.co/2n9NqnSbzn" / Twitter
+
+Competitions
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://js13kgames.com/
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+GitHub Hackathon
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
 Interesting
 https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
@@ -481,13 +484,6 @@ GitHub Actions Examples
 https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
 https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
 https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://js13kgames.com/
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-GitHub Hackathon
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
 
 https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
 
