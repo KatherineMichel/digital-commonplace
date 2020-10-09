@@ -1334,6 +1334,8 @@ Pipenv
 * [Next Pipenv Release - Google Groups](https://groups.google.com/forum/#!topic/pypa-dev/qLO8Pd4i_Co)
 
 <!--
+https://twitter.com/ThePyPA/status/1303384992165302272 | PyPA on Twitter: "https://t.co/gXi5fQtmQU pip 20.2.3 is out. Includes a beta of the new dependency resolver (hidden behind an optional --use-feature=2020-resolver flag). We encourage you to test it before next month, when pip 20.3'll default to the new behavior. https://t.co/aKqVdEcphJ #Python https://t.co/cWy1DRYkkx" / Twitter
+
 https://www.youtube.com/watch?time_continue=31&v=B4GQCBBsuNU&feature=emb_logo | Changes are coming to pip - YouTube
 https://twitter.com/ThePSF/status/1311038036013199363 | Python Software Foundation on Twitter: "Changes are coming to pip, #Python's package installation tool, in October 2020. https://t.co/7U5nJFADDL Migration guide: https://t.co/WGwwL7Hp5D Sign up for user experience studies: https://t.co/cCRyK15lOs" / Twitter
 
