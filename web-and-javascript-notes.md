@@ -418,6 +418,11 @@ Brian Holt React Courses
 * [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
 
 <!--
+https://glitch.com/~starter-react | Glitch
+https://reactjs.org/docs/getting-started.html | Getting Started – React
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://reactnative.dev/docs/getting-started
+
 https://web.dev/react
 https://web.dev/angular
 
