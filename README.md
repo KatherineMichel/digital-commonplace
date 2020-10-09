@@ -113,6 +113,9 @@ https://2020.allthingsopen.org/speakers/
 October 29
 https://www.meetup.com/Miami-PyLadies/events/273725738/
 
+December 8-10
+https://githubuniverse.com/
+
 Patterns conference
 https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
 
@@ -172,7 +175,111 @@ https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Shari
 https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
 
 
+https://twitter.com/webology/status/1314404582789918722
+
 https://nuzzel.com/friendsfeeds
+
+https://twitter.com/levelsio/status/1314280439243300865
+
+https://www.collaborativefund.com/blog/bad-decisions/
+
+https://2020.pygotham.tv/
+
+Speaking at Vancouver PyLadies
+https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
+
+PyCon Africa
+https://www.youtube.com/watch?v=43wJnYZ6Zd0&feature=youtu.be
+
+https://www.meetup.com/Code-for-Philly/events/273595264/
+
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+https://thestartingidea.com/personal-branding-guide/
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-5bj3
+
+Brian
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
+
+https://popular-github-repos.github.io/
+https://github.com/popular-github-repos/popular-github-repos.github.io
+
+https://nostarch.com/beyond-basic-stuff-python
+
+https://realpython.com/python-thinking-recursively/
+https://github.com/akamhy/waybackpy
+
+https://ide.geeksforgeeks.org/
+https://www.hackerrank.com/interview/interview-preparation-kit
+
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
+https://docs.python.org/3/library/math.html#math.floor
+
+dir()
+https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
+
+https://github.com/TheAlgorithms/Python
+
+https://www.youtube.com/watch?v=skYBOXE02OQ&feature=emb_logo
+https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
+
+https://www.w3.org/DesignIssues/Architecture.html
+
+https://twitter.com/b0rk
+https://wizardzines.com/comics/bash-if-statements/
+https://wizardzines.com/comics/bash-errors/
+
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/
+https://simonwillison.net/2020/Oct/9/git-scraping/
+https://github.com/simonw/ca-fires-history/blob/7b0f42d4bf198885ab2b41a22a8da47157572d18/.github/workflows/scrape.yml
+https://twitter.com/simonw/status/1314390555267219456
+https://twitter.com/di_codes/status/1314414096679403521
+https://twitter.com/simonw/status/1314654153646383104
+https://twitter.com/simonw/status/1313986116161134592
+https://twitter.com/simonw/status/1313673393690959872
+https://github.com/simonw/buildpack-datasette-demo
+
+https://www.writethedocs.org/surveys/salary-survey/2019/
+https://github.com/github/docs
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
+https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://twitter.com/feross/status/1314341808739057666
+
+https://twitter.com/kwuchu/status/1314286568362967041
+https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
+https://play.tailwindcss.com/
+https://blog.tailwindcss.com/introducing-tailwind-play
+https://twitter.com/adamwathan/status/1313826345374416896
+https://twitter.com/mscccc/status/1313668914283507712
+
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+tidelift.com/subscription/2020-managed-open-source-survey
+
+https://github.com/digitalocean/hacktoberfest
+
+https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
+
+https://twitter.com/dnsmichi/status/1314267751607869442
+https://twitter.com/adamzdanielle/status/1314188184566329345
+
+https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0
+
+https://twitter.com/an_open_mind/status/1314541192458260482
 
 
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
