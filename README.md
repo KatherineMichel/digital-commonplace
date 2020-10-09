@@ -216,6 +216,64 @@ https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 
 
+
+
+Important
+https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
+
+
+https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
+https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
+
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+https://medium.com/glitch/the-building-blocks-of-a-creative-community-4eba7ee88f80 | The building blocks of a creative community – Glitch – Medium
+
+https://tinyprojects.dev/ | Tiny Projects
+https://tinyprojects.dev/posts/tiny_websites_are_great | Tiny websites are great | Tiny Projects
+https://bestmotherfucking.website/ | Best Motherfucking Website
+
+http://www.brendangregg.com/perf.html | Linux perf Examples
+https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
+https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
+
+https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
+
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+https://github.com/nayafia/awesome-maintainers | nayafia/awesome-maintainers: Talks, blog posts, and interviews about the experience of being an open source maintainer
+https://github.com/matiassingers/awesome-readme | matiassingers/awesome-readme: A curated list of awesome READMEs
+https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Example: Repository for example styleguide project
+
+https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
+https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
+https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
+
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
+https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
+
+
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
