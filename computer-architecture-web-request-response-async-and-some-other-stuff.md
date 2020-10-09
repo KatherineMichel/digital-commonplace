@@ -1,6 +1,9 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+
 https://riscv.org/ | RISC-V International
 https://en.wikipedia.org/wiki/Active_Directory
 https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
