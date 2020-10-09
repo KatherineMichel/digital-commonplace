@@ -202,6 +202,27 @@ https://www.codenewbie.org/basecs
 https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
 
 
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
+
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+
+
 
 
 
@@ -211,7 +232,6 @@ https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Ye
 
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
 https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
 https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
 
@@ -474,28 +494,11 @@ https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authent
 
 
 
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
-
-https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
 Enineering manager
 https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
 
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
+https://github.com/VGraupera/1on1-questions
 
 https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
 https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
