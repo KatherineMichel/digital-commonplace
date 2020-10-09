@@ -1,6 +1,12 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://riscv.org/ | RISC-V International
+https://en.wikipedia.org/wiki/Active_Directory
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
+https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
+https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
+
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 APIs
