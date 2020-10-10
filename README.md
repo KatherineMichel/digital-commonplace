@@ -175,7 +175,14 @@ https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Shari
 https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
 
 
+http://www.glassesoff.com/
+
+https://twitter.com/NimaRoohiS/status/1312916303225729026
+
 https://twitter.com/webology/status/1314404582789918722
+https://github.com/lfk-im/downtownlawrence-data
+
+https://github.com/magoo/minimalist-risk-management
 
 https://nuzzel.com/friendsfeeds
 
@@ -183,7 +190,10 @@ https://twitter.com/levelsio/status/1314280439243300865
 
 https://www.collaborativefund.com/blog/bad-decisions/
 
+https://www.youtube.com/pytexas
 https://2020.pygotham.tv/
+https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
+https://djangoday.dk/talks/evolution-of-a-view-point/
 
 Speaking at Vancouver PyLadies
 https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
@@ -192,6 +202,12 @@ PyCon Africa
 https://www.youtube.com/watch?v=43wJnYZ6Zd0&feature=youtu.be
 
 https://www.meetup.com/Code-for-Philly/events/273595264/
+https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
+
+Plone
+https://twitter.com/tkimnguyen/status/1311696073187090433
+
+https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
 
 https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
 https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
@@ -200,6 +216,8 @@ https://thestartingidea.com/personal-branding-guide/
 
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-5bj3
 
+https://wizardly-snyder-c98440.netlify.app/#quod-et-temptaretque-fallax-vertice
+
 Brian
 https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
 https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
@@ -207,13 +225,20 @@ https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
 https://popular-github-repos.github.io/
 https://github.com/popular-github-repos/popular-github-repos.github.io
 
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+https://github.com/PyBites-Open-Source/karmabot
+
 https://nostarch.com/beyond-basic-stuff-python
 
+https://twitter.com/rlconley/status/1312079736198385665
 https://realpython.com/python-thinking-recursively/
 https://github.com/akamhy/waybackpy
 
 https://ide.geeksforgeeks.org/
 https://www.hackerrank.com/interview/interview-preparation-kit
+https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/
+https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
@@ -226,6 +251,7 @@ https://github.com/TheAlgorithms/Python
 
 https://www.youtube.com/watch?v=skYBOXE02OQ&feature=emb_logo
 https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
+https://github.com/pantsbuild/example-python
 
 https://www.w3.org/DesignIssues/Architecture.html
 
@@ -233,6 +259,13 @@ https://twitter.com/b0rk
 https://wizardzines.com/comics/bash-if-statements/
 https://wizardzines.com/comics/bash-errors/
 
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
+https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
+
+https://noumenal.es/posts/weeknotes-wk-40/PX/
+
+https://sqlite.org/mostdeployed.html
 https://simonwillison.net/2017/Oct/17/free-continuous-deployment/
 https://simonwillison.net/2020/Oct/9/git-scraping/
 https://github.com/simonw/ca-fires-history/blob/7b0f42d4bf198885ab2b41a22a8da47157572d18/.github/workflows/scrape.yml
@@ -256,7 +289,10 @@ https://www.digitalocean.com/community/books/understanding-the-dom-document-obje
 https://github.com/microsoft/beginners-intro-javascript-node
 
 https://twitter.com/feross/status/1314341808739057666
+https://twitter.com/Speakeasy_JS/status/1312168218052628482
+https://twitter.com/feross/status/1312171857592815616
 
+https://twitter.com/leogcrespo/status/1313091661556314114
 https://twitter.com/kwuchu/status/1314286568362967041
 https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
 https://play.tailwindcss.com/
@@ -268,18 +304,26 @@ https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
 https://github.com/w3c/w3process
 https://github.com/tc39
 
+https://martinfowler.com/articles/collection-pipeline/
+
 tidelift.com/subscription/2020-managed-open-source-survey
 
 https://github.com/digitalocean/hacktoberfest
+https://github.com/crweiner/hacktoberfest-swag-list
+https://github.blog/2020-10-01-keeping-your-data-pipelines-healthy-with-the-great-expectations-github-action/
 
 https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
+https://twitter.com/melsmo/status/1313180759889305601
 
 https://twitter.com/dnsmichi/status/1314267751607869442
 https://twitter.com/adamzdanielle/status/1314188184566329345
 
+https://github.com/awslabs/diagram-maker
 https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0
 
 https://twitter.com/an_open_mind/status/1314541192458260482
+
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
 
 
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
