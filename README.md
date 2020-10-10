@@ -112,6 +112,7 @@ https://devrel.io/ | DevRel IO - The Best DevRel Advice
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
 https://twitter.com/DevRelAwards
+https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 
 https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
 
