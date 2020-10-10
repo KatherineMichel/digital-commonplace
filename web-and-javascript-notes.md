@@ -11,8 +11,10 @@ https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScri
 https://github.com/puppeteer/puppeteer
 https://github.com/microsoft/playwright-python
 
+Playwright
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
-https://www.11ty.dev/
 
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 
@@ -39,9 +41,6 @@ GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
 
 
-What is
-https://whatthefuck.is/ | Dan’s JavaScript Glossary
-https://github.com/gaearon/whatthefuck.is | gaearon/whatthefuck.is: An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 https://bestmotherfucking.website/ | Best Motherfucking Website
 https://github.com/KeenRivals/bestmotherfucking.website
@@ -95,7 +94,6 @@ https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Tw
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell - JavaScript Scene - Medium
 https://github.com/ericelliott/redux-dsm | ericelliott/redux-dsm: Declarative state machines for Redux: Reduce your async-state boilerplate.
 
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 https://twitter.com/florinpop1705/status/1276574669286580225 | Florin Pop 🏻‍ on Twitter: "Do you want to learn how to use the following JavaScript Array Methods? forEach reduce every some filter map push find sort join pop fill flat shift from slice splice concat isArray unshift reverse indexOf includes findIndex lastIndexOf " / Twitter
 
 
@@ -112,11 +110,6 @@ https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
 
 
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints | Adapting to Users with Client Hints  |  Web Fundamentals
-
-
-Playwright
-https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
-https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
 https://github.com/tain335/tain335/blob/master/books/javascript/Professional%20JavaScript%20for%20Web%20Developers%203rd%20Edition.pdf | tain335/Professional JavaScript for Web Developers 3rd Edition.pdf at master · tain335/tain335
@@ -408,7 +401,11 @@ https://testingjavascript.com/ | Testing JavaScript with Kent C. Dodds
 https://github.com/coryhouse/mock-api-example
 -->
 
-## React, Angular, Vue
+## JavaScript, React, Angular, Vue
+
+Dan Abramov
+* [Just JavaScript](https://justjavascript.com/)
+* [What the Fuck Is?](https://whatthefuck.is/) and [What the Fuck Is? GitHub](https://github.com/gaearon/whatthefuck.is )
 
 Brian Holt React Courses
 * [Complete Intro to React v5](https://btholt.github.io/complete-intro-to-react-v5/) and [Complete Intro to React v5 GitHub](https://github.com/btholt/complete-intro-to-react-v5)
@@ -416,6 +413,14 @@ Brian Holt React Courses
 * [Brian Holt: Frontend Masters Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4), [Complete Intro to React v4 GitHub](https://github.com/btholt/complete-intro-to-react-v4), and [Complete Intro to React v4](https://btholt.github.io/complete-intro-to-react-v4)
 * [Brian Holt: Frontend Masters Complete Intro to React](https://frontendmasters.com/courses/react), [Complete Intro to React GitHub](https://github.com/btholt/complete-intro-to-react), and [Complete Intro to React](https://btholt.github.io/complete-intro-to-react)
 * [Brian Holt: Frontend Masters Intermediate React](https://frontendmasters.com/courses/intermediate-react)
+
+Wes Bos React Courses
+* [React for Beginners](https://reactforbeginners.com/)
+
+<!--
+https://github.com/wesbos/React-For-Beginners-Starter-Files
+https://github.com/wesbos/Advanced-React
+-->
 
 <!--
 https://glitch.com/~starter-react | Glitch
