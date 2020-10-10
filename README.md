@@ -179,6 +179,10 @@ https://twitter.com/NimaRoohiS/status/1312916303225729026
 
 https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
 
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
 Demos
 http://en.wikipedia.org/wiki/Vlog
 Presentations on demand
@@ -272,11 +276,10 @@ https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and
 https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
 https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 
-
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://blog.repl.it/database | Repl.it - A database for every repl
+
+https://github.com/realpython/list-of-python-api-wrappers
 
 
 https://popular-github-repos.github.io/
@@ -374,6 +377,8 @@ https://twitter.com/simonw/status/1314384418170003456
 https://twitter.com/b0rk
 https://wizardzines.com/comics/bash-if-statements/
 https://wizardzines.com/comics/bash-errors/
+
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 
 Julia
 https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
@@ -563,6 +568,22 @@ https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: 
 https://www.tidelift.com/subscription/2020-managed-open-source-survey
 
 https://twitter.com/idangazit/status/1313521574171955200
+
+All repos
+https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
+
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+Interesting
+Turning off issues
+https://gist.github.com/ryanflorence/8a62abea562ca2896dee
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
 
 
 Sid
@@ -1172,6 +1193,19 @@ https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A re
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 -->
 
+## Heroku
+## Workflows
+## Google Progressive Web Apps (PWA)
+## Google Design
+## Chrome
+## Twitter API
+## GitHub API
+## GitHub Actions Tools
+## GitHub Actions Docs
+
+## Competitions, Hackathons, Festivals, Communities
+
+
 ## Project Ideas
 
 Stars
@@ -1280,23 +1314,11 @@ Practice
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
 
-Wes Bos
-* [Wes Bos Courses](https://wesbos.com/courses/)
-
-Favorite Courses
-* [Wes Bos GitHub](https://github.com/wesbos)
+Wes Bos Courses
+* [Wes Bos Courses](https://wesbos.com/courses/) and [Wes Bos GitHub](https://github.com/wesbos)
 * [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
 * [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
-* [React for Beginners](https://reactforbeginners.com/)
-
-<!--
-https://github.com/wesbos/React-For-Beginners-Starter-Files
-https://github.com/wesbos/Advanced-React
--->
-
-Dan Abramov
-* [Just JavaScript](https://justjavascript.com/)
 
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
@@ -1360,11 +1382,6 @@ https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-
-https://github.com/realpython/python-scripts
-https://github.com/realpython/list-of-python-api-wrappers
-https://github.com/realpython/twitter-sentiment-elasticsearch
-https://github.com/realpython/django_cookiecutter_docker
 
 Materials
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
@@ -1788,6 +1805,116 @@ https://docs.aiohttp.org/en/stable/
 https://wiki.python.org/moin/PyQt
 -->
 
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+http://www.brendangregg.com/perf.html | Linux perf Examples
+https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
+
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+http://www.linfo.org/usr_sbin.html
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
+
+
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+
+Bash versus Python
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+
+Bash
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+
+https://github.com/topics/bash | Topic: bash
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+
+https://learnxinyminutes.com/docs/yaml/
+https://en.m.wikipedia.org/wiki/YAML
+http://www.yaml.org/refcard.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+
+
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+-->
+
+## Third Party Helpers
+
+Utilities- Retrieving Files/Data
+* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [Wget Wikipedia](https://www.gnu.org/software/wget/)
+
+<!--
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+See also: Data Science
+https://github.com/keen/cohorts
+-->
+
 ## Kenneth
 
 DJ Static, DJ Database URL
@@ -1935,26 +2062,8 @@ https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on T
 
 
 <!--
-All repos
-https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
-
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-Interesting
-Turning off issues
-https://gist.github.com/ryanflorence/8a62abea562ca2896dee
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
 https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
 https://github.com/captainsafia/checklist
@@ -2037,6 +2146,11 @@ Chromium Developers
 * [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
 
 <!--
+https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
+https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
+https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+
 https://thoughtbot.com/blog/how-to-make-a-chrome-extension
 https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
 
@@ -2388,131 +2502,6 @@ Polymer (See also Facebook React)
 
 
 
-## Heroku
-## Workflows
-## Google Progressive Web Apps (PWA)
-## Google Design
-## Chrome
-## Twitter API
-## GitHub API
-## GitHub Actions Tools
-## GitHub Actions Docs
-
-## Competitions, Hackathons, Festivals, Communities
-
-
-
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-<!--
-http://www.brendangregg.com/perf.html | Linux perf Examples
-https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
-
-https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
-
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-http://www.linfo.org/usr_sbin.html
-https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
-
-
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-
-Bash versus Python
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-
-https://github.com/topics/bash | Topic: bash
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
-
-https://learnxinyminutes.com/docs/yaml/
-https://en.m.wikipedia.org/wiki/YAML
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
-
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
--->
-
-## Third Party Helpers
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-<!--
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-
 ## Jargon, Algorithms, and Patterns
 
 JavaScript Patterns
@@ -2633,7 +2622,8 @@ https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS fo
 
 https://vercel.com/blog/zeit-is-now-vercel
 
-https://github.com/zeit/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
 * [Zeit now](https://zeit.co/now)
@@ -2694,24 +2684,13 @@ Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
 <!-- 
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
-
-Chrome
-https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
-https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
-https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-
-
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
 https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
-
 
 https://web.dev/progressive-web-apps/
 
@@ -2748,6 +2727,7 @@ https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn
 https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
 11ty
+https://www.11ty.dev/
 https://github.com/11ty/eleventy#major-roadmapped-features | 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
 
