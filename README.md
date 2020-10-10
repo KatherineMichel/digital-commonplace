@@ -206,6 +206,7 @@ https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cG
 
 Plone
 https://twitter.com/tkimnguyen/status/1311696073187090433
+https://sixfeetup.com/company/events/plone-6-theming-sprint-2020
 
 https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
 
@@ -243,6 +244,7 @@ https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-wi
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
 https://docs.python.org/3/library/math.html#math.floor
+https://docs.python.org/3/library/stdtypes.html#str.replace
 
 dir()
 https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
@@ -252,6 +254,7 @@ https://github.com/TheAlgorithms/Python
 https://www.youtube.com/watch?v=skYBOXE02OQ&feature=emb_logo
 https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
 https://github.com/pantsbuild/example-python
+https://twitter.com/PrasoonPratham/status/1313392420038483968
 
 https://www.w3.org/DesignIssues/Architecture.html
 
@@ -262,6 +265,8 @@ https://wizardzines.com/comics/bash-errors/
 https://en.wikipedia.org/wiki/List_of_Unix_commands
 https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
 https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
+
+https://twitter.com/idangazit/status/1313521574171955200
 
 https://noumenal.es/posts/weeknotes-wk-40/PX/
 
@@ -295,6 +300,9 @@ https://twitter.com/feross/status/1312171857592815616
 https://twitter.com/leogcrespo/status/1313091661556314114
 https://twitter.com/kwuchu/status/1314286568362967041
 https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
+https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
+https://twitter.com/mojombo/status/1313572403595759616
+https://github.com/jamstack/jamstack.org
 https://play.tailwindcss.com/
 https://blog.tailwindcss.com/introducing-tailwind-play
 https://twitter.com/adamwathan/status/1313826345374416896
