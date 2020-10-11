@@ -264,27 +264,6 @@ https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/wee
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 
-Projects
-https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
-https://expressjs.com/ | Express - Node.js web application framework
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-
-Admins
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-https://github.com/realpython/list-of-python-api-wrappers
-
-
-https://popular-github-repos.github.io/
-https://github.com/popular-github-repos/popular-github-repos.github.io
-
 
 https://noumenal.es/posts/weeknotes-wk-40/PX/
 https://sqlite.org/mostdeployed.html
@@ -322,10 +301,6 @@ Django
 https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
 
 https://twitter.com/rlconley/status/1312079736198385665
-
-https://github.com/akamhy/waybackpy
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
-https://github.com/PyBites-Open-Source/karmabot
 
 https://github.com/TheAlgorithms/Python
 
@@ -1262,6 +1237,195 @@ https://repl.it/talk/
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 -->
 
+## Projects
+
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
+
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+Python
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+Florin
+https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10-hours
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+-->
+
+## Makers
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+Women Who Inspire Me
+* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Cassidy Williams](https://cassidoo.co/)
+* [Jessica Garson GitHub](https://github.com/JessicaGarson)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+
+GitHub
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+
+<!--
+Lorena
+Mariatta
+
+https://github.com/sdras
+
+https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
+
+https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
+
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
+
+https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
+https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
+https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
+https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
+https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+
+https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
+https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
+
+https://github.com/tj
+https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+-->
+
+
+<!--
+Projects
+https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+https://expressjs.com/ | Express - Node.js web application framework
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+
+Admins
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+https://github.com/realpython/list-of-python-api-wrappers
+
+https://popular-github-repos.github.io/
+https://github.com/popular-github-repos/popular-github-repos.github.io
+
+https://github.com/akamhy/waybackpy
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+https://github.com/PyBites-Open-Source/karmabot
+-->
+
+
+
+<!--
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+
+
+https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
+https://github.com/captainsafia/checklist
+https://github.com/paulirish/git-open | paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.
+
+https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
+https://github.com/sindresorhus/refined-github
+https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on Twitter: "Also, refined-github is *incredibly helpful* for the annoying "load more" github issue truncation and batch loading of only 50. https://t.co/vhvbfwLqEc will give you 200. https://t.co/2n9NqnSbzn" / Twitter
+
+
+
+Interesting
+https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
+https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
+https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
+https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+
+https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
+https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
+https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
+
+Twitter sentiment analysis
+https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
+
+Twitter
+https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
+
+GitHub Actions Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+
+https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
+
+https://github.com/nektos/act
+
+GitHub
+https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
+-->
+
+<!--
+Gam Jam
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+
+https://js13kgames.com/
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+-->
+
 ## Look At
 
 Articles
@@ -1327,6 +1491,12 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
+https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+
+https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
+https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+
+
 Web Design
 https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
 https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
@@ -1343,34 +1513,34 @@ https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Gu
 https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
 
 
-https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+Recommendation
+https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
 
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+Sarah
+https://css-tricks.com/learning-to-learn/
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
+Egghead
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
 
 
-Gam Jam
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+https://frontendmasters.com
 
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://btholt.github.io/intro-to-web-dev-v2/
 
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
 
-https://js1024.fun/results/2020 | JS1024 Results - 2020
+https://codepen.io/btholt/ | Brian Holt on CodePen
+http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
 
-https://js13kgames.com/
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+https://btholt.github.io/complete-intro-to-containers/
 
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+Front End Masters Handbook
+https://github.com/FrontendMasters/front-end-handbook-2019
+https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
 
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
@@ -1413,6 +1583,7 @@ https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Cras
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
+
 Templates
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
@@ -1454,38 +1625,6 @@ http://www.traversymedia.com
 https://twitter.com/traversymedia
 
 
-Recommendation
-https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
-
-https://github.com/sdras
-
-Sarah
-https://css-tricks.com/learning-to-learn/
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
-
-Egghead
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-
-https://frontendmasters.com
-
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://btholt.github.io/intro-to-web-dev-v2/
-
-https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
-
-https://codepen.io/btholt/ | Brian Holt on CodePen
-http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://btholt.github.io/complete-intro-to-containers/
-
-Front End Masters Handbook
-https://github.com/FrontendMasters/front-end-handbook-2019
-https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
-https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
-
-
 https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
 
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
@@ -1516,126 +1655,6 @@ https://github.com/wesbos/rona | wesbos/rona: React + Next + Hooks API
 https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
 https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
--->
-
-
-<!--
-Projects
-
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
-
-Every Cheese
-
-Cookiecutter
-https://twitter.com/nthapen/status/1240936897234513921
-
-https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
-https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
-https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
-
-Projects
-https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
-https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
-https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
-https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
-
-
-Traversy
-https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/modern_portfolio
-
-https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
-https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
-https://breakingbadapi.com/ | The Breaking Bad API
-
-
-https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
-https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
-https://www.youtube.com/watch?v=GieYIzvdt2U | (5) Full Stack React & Django [2] - Implementing React - YouTube
-
-Valentino
-https://github.com/valentinogagliardi?tab=repositories | valentinogagliardi (Valentino Gagliardi) / Repositories
-https://github.com/valentinogagliardi/django-rest-react-pycon | valentinogagliardi/django-rest-react-pycon: 🐍 Demo repo for Pycon X talk "Decoupling Django with Django REST (and a sprinkle of React)"
-https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
-https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
-http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/ | Modern Django: Part 1: Setting up Django and React — v1k45
-
-https://www.npmjs.com/package/npx | npx - npm
-https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
-
-DRF
-https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
-https://www.django-rest-framework.org/ | Home - Django REST framework
-
-https://reactrouter.com/web/guides/quick-start
-https://reactjs.org/docs/introducing-jsx.html
-https://redux.js.org/ | Redux - A predictable state container for JavaScript apps. | Redux
-https://react-redux.js.org/ | React Redux · Official React bindings for Redux
-
-Third Party
-https://github.com/reduxjs/redux-thunk | reduxjs/redux-thunk: Thunk middleware for Redux
-https://www.npmjs.com/package/axios-react | axios-react - npm
-https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
-
-Boostrap/Emmett
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
-https://docs.emmet.io/actions/ | Actions
-https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
-https://getbootstrap.com/docs/4.5/components/navbar/ | Navbar · Bootstrap v4.5
-https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate | HTML Boilerplate - Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets | ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en | React Developer Tools - Chrome Web Store
-https://github.com/reduxjs/redux-devtools | reduxjs/redux-devtools: DevTools for Redux with hot reloading, action replay, and customizable UI
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=es | Redux DevTools - Chrome Web Store
-https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Prettier - Code formatter - Visual Studio Marketplace
-https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
--->
-
-## Projects
-
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
-<!--
-https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
-
-Node
-https://github.com/sqreen/awesome-nodejs-projects
-
-Python
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-Florin
-https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10-hours
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-
-https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
 
 ## Templates
@@ -1709,6 +1728,129 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 -->
+
+## API
+
+<!--
+https://github.com/tiangolo/fastapi
+https://fastapi.tiangolo.com/#performance
+
+https://github.com/api-evangelist
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://www.programmableweb.com/category/all/apis
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+-->
+
+
+## Chrome
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+
+Chromium Developers
+* [Chromium Blog](https://blog.chromium.org)
+* [Chromium- For Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+<!--
+https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
+https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
+https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+https://developer.chrome.com/apps/about_apps
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/hosting
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
+
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+-->
+
+
+
+
+<!--
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
+
+Twitter API
+https://github.com/twitterdev?language=javascript | @TwitterDev
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
+https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
+https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
+https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
+
+Twitter API
+https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
+https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
+https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
+https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
+
+https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
+
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+-->
+
+## Twitter API Examples
+
+<!--
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
+
+https://github.com/twitterdev/real-time-tweet-streamer
+https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
+
+Twitter API Tutorials
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
+https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
+
+https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
+-->
+
+
+<!--
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
+https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
+https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
+-->
+
 
 
 ## Django Organization Tools
@@ -1797,12 +1939,6 @@ https://octoverse.github.com/#top-and-trending-projects | The State of the Octov
 https://octoverse.github.com/2018/
 https://octoverse.github.com/2017/
 https://octoverse.github.com/2016/#organizations
-
-
-Popular Libraries
-https://docs.python.org/3/library/asyncio.html
-https://docs.aiohttp.org/en/stable/
-https://wiki.python.org/moin/PyQt
 -->
 
 ## Useful Files
@@ -1838,29 +1974,31 @@ https://www.iterm2.com/
 https://kapeli.com/dash_guide
 
 
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
 
 http://www.linfo.org/usr_sbin.html
 https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
 
-
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+https://opensource.com/article/19/4/bash-vs-python
 
 
 Bash versus Python
-https://opensource.com/article/19/4/bash-vs-python
 https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
 https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
 
 Aliases
 https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
 
 https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
 
 Bash
 https://www.gnu.org/software/bash/manual/
@@ -1878,11 +2016,15 @@ https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖
 
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
 
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+
 https://learnxinyminutes.com/docs/yaml/
 https://en.m.wikipedia.org/wiki/YAML
 http://www.yaml.org/refcard.html
 https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
 
 https://www.gnu.org/software/make/manual/make.html
 https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
@@ -1913,6 +2055,83 @@ https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching Gi
 
 See also: Data Science
 https://github.com/keen/cohorts
+-->
+
+## Bots
+
+Mariatta- Bot Tutorials
+* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
+* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
+* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
+* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
+
+Tools
+* [aiohttp](https://docs.aiohttp.org/)
+* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
+* [sans I/O](https://sans-io.readthedocs.io/)
+
+<!--
+Mariatta- build the bot
+https://www.youtube.com/watch?v=_xdEAxLuj9Y
+
+PyCon Bot Tutorial
+https://twitter.com/mariatta/status/1255558164956807178
+
+https://github.com/Mariatta/github-app-tutorial
+https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
+https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
+
+
+https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
+https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
+https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
+
+Mariatta community automation talk
+https://twitter.com/mariatta/status/1191534648205037569
+
+Mariatta and Andrew
+https://github.com/asvetlov/us-pycon-2019-tutorial
+https://us-pycon-2019-tutorial.readthedocs.io/index.html
+https://docs.python.org/3/library/abc.html
+https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
+https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
+https://cz.pycon.org/2019/programme/workshops/9/#main
+
+https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
+
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+https://github.com/berkerpeksag/cpython-merge-bot
+
+* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
+
+https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
+https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
+https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
+
+https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
+
+https://zapier.com/ | Zapier | The easiest way to automate your work
+https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
+
+
+Jessica Twitter Bot
+https://twitter.com/webology/status/1243922072528719874
+
+Bot
+https://twitter.com/webology/status/1243922072528719874
+
+Hubot
+https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
+
+https://botlist.co/
+https://github.com/hubotio/hubot/blob/master/docs/index.md
+https://github.com/hubotio/generator-hubot
+https://github.com/howdyai/botkit
+https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
+
+https://github.com/devict/devict-hubot
+https://github.com/github/hubot
+https://hubot.github.com/
 -->
 
 ## Kenneth
@@ -1977,6 +2196,13 @@ http://click.pocoo.org/5/contrib/
 https://github.com/click-contrib | click-contrib
 http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
 https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+-->
+
+## Graphical User Interface (GUI)
+
+<!--
+Popular Libraries
+https://wiki.python.org/moin/PyQt
 -->
 
 ## Python and Django Geo
@@ -2059,176 +2285,6 @@ https://black.readthedocs.io/en/stable/installation_and_usage.html | Installatio
 JSON, Black
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 -->
-
-
-<!--
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
-
-
-https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
-https://github.com/captainsafia/checklist
-https://github.com/paulirish/git-open | paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.
-
-https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
-https://github.com/sindresorhus/refined-github
-https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on Twitter: "Also, refined-github is *incredibly helpful* for the annoying "load more" github issue truncation and batch loading of only 50. https://t.co/vhvbfwLqEc will give you 200. https://t.co/2n9NqnSbzn" / Twitter
-
-
-
-Interesting
-https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
-https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
-https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
-https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-
-https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
-https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
-https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
-
-Twitter sentiment analysis
-https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
-
-Twitter
-https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
-
-GitHub Actions Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-
-https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
-
-https://github.com/nektos/act
-
-GitHub
-https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
--->
-
-
-## API
-
-<!--
-https://github.com/tiangolo/fastapi
-https://fastapi.tiangolo.com/#performance
-
-https://github.com/api-evangelist
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
-https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-https://www.programmableweb.com/category/all/apis
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
--->
-
-
-## Chrome
-
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
-
-Chromium Developers
-* [Chromium Blog](https://blog.chromium.org)
-* [Chromium- For Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-<!--
-https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
-https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
-https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/apps/about_apps
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/hosting
-
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
-
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
--->
-
-<!--
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
-
-Twitter API
-https://github.com/twitterdev?language=javascript | @TwitterDev
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
-https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
-https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
-https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
-
-Twitter API
-https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
-https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
-https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
-https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
-
-https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
-
-https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
--->
-
-## Twitter API Examples
-
-<!--
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
-
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
-
-https://github.com/twitterdev/real-time-tweet-streamer
-https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
-
-Twitter API Tutorials
-https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
-https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
-https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
-
-https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
--->
-
-
-
-<!--
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
-
-Probot
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
-https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
--->
-
 
 
 ## Jargon, Algorithms, and Patterns
