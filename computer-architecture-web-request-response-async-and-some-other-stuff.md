@@ -1,13 +1,6 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://github.com/tiangolo/fastapi
-https://fastapi.tiangolo.com/#performance
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-
 https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 
@@ -18,12 +11,6 @@ https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporti
 https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-APIs
-https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
-https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
-https://hoppscotch.io/
-https://firecamp.io/
 
 Authenticate bearer
 Swarm testing
@@ -39,6 +26,27 @@ http://restcookbook.com/Miscellaneous/rest-and-http/
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
+-->
+
+## API
+
+<!--
+https://github.com/tiangolo/fastapi
+https://fastapi.tiangolo.com/#performance
+
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
+https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
+https://hoppscotch.io/
+https://firecamp.io/
 -->
 
 ## Request and Response Cycle, HTTP
