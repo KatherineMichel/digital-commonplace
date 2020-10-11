@@ -1178,8 +1178,46 @@ https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This a
 ## GitHub Actions Tools
 ## GitHub Actions Docs
 
+
 ## Competitions, Hackathons, Festivals, Communities
 
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://github.com/lnishan/awesome-competitive-programming | lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+https://blog.edx.org/5-career-benefits-of-competitive-programming | 5 Career Benefits of Competitive Programming | edX Blog
+https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions | How to Win Coding Competitions: Secrets of Champions
+https://blog.coursera.org/learn-top-kagglers-win-data-science-competition/ | Learn from Top Kagglers: How to Win a Data Science Competition | Coursera Blog
+https://www.coursera.org/learn/competitive-data-science# | How to Win a Data Science Competition: Learn from Top Kagglers | Coursera
+-->
+
+* [Product Hunt Makers Festival 2018](https://www.producthunt.com/makers-festival-2018)
+
+<!--
+https://www.producthunt.com/posts/maker-hunt | Map Hunt - An interactive map to discover where products are being made | Product Hunt
+
+https://www.producthunt.com/upcoming/makers-2-0 | Makers 2.0 | Product Hunt
+https://medium.com/@rrhoover/the-rise-of-maker-communities-f76ba5daeb7e | The Rise of Maker Communities – Ryan Hoover – Medium
+
+https://24hrstartup.com/ | The 24 Hour Startup Challenge
+
+https://www.producthunt.com/makers-festival/wfh
+https://blog.producthunt.com/introducing-product-hunts-first-virtual-makers-summit-41a9b001e622
+
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://www.producthunt.com/newsletter/507 | Winners of the PH Global Hackathon 🌎🏆 - Product Hunt
+
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+-->
 
 ## Project Ideas
 
@@ -1327,6 +1365,54 @@ https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
 
 https://github.com/tj
 https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
+-->
+
+
+
+## Projects
+
+<!--
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+Sarah
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
+
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+Paint
+https://github.com/muan
+https://github.com/muan/paint-github
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
+https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
+https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
+
+https://github.com/sw-yx/gh-action-data-scraping | sw-yx/gh-action-data-scraping: this shows how to use github actions to do periodic data scraping
+
+https://twitter.com/aicoding_/status/1295011129836568577
+https://github.com/coding-ai/eyeBlinkedTREX
+
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+Simon- 
+Self-Rewriting README, TIL
+Datasette
+Doc Unit Tests
+Release, Weeknotes
 -->
 
 
