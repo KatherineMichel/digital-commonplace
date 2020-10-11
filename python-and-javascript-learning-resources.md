@@ -1,6 +1,11 @@
 # Python and JavaScript Learning Resources
 
 <!--
+https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
+
+https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
+
+
 LinkedIn
 https://news.microsoft.com/skills/ | Microsoft Digital Event
 https://opportunity.linkedin.com/ | Helping 25 million job seekers get back to work.
