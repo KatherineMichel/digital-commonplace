@@ -1,5 +1,84 @@
 # Course Notes
 
+<!--
+Projects
+
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
+
+Every Cheese
+
+Cookiecutter
+https://twitter.com/nthapen/status/1240936897234513921
+
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
+https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
+
+Projects
+https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
+https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
+https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
+
+
+Traversy
+https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/modern_portfolio
+
+https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+https://breakingbadapi.com/ | The Breaking Bad API
+
+
+https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
+https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
+https://www.youtube.com/watch?v=GieYIzvdt2U | (5) Full Stack React & Django [2] - Implementing React - YouTube
+
+Valentino
+https://github.com/valentinogagliardi?tab=repositories | valentinogagliardi (Valentino Gagliardi) / Repositories
+https://github.com/valentinogagliardi/django-rest-react-pycon | valentinogagliardi/django-rest-react-pycon: 🐍 Demo repo for Pycon X talk "Decoupling Django with Django REST (and a sprinkle of React)"
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/ | Modern Django: Part 1: Setting up Django and React — v1k45
+
+https://www.npmjs.com/package/npx | npx - npm
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
+
+DRF
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/ | Home - Django REST framework
+
+https://reactrouter.com/web/guides/quick-start
+https://reactjs.org/docs/introducing-jsx.html
+https://redux.js.org/ | Redux - A predictable state container for JavaScript apps. | Redux
+https://react-redux.js.org/ | React Redux · Official React bindings for Redux
+
+Third Party
+https://github.com/reduxjs/redux-thunk | reduxjs/redux-thunk: Thunk middleware for Redux
+https://www.npmjs.com/package/axios-react | axios-react - npm
+https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
+
+Boostrap/Emmett
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+https://docs.emmet.io/actions/ | Actions
+https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
+https://getbootstrap.com/docs/4.5/components/navbar/ | Navbar · Bootstrap v4.5
+https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate | HTML Boilerplate - Visual Studio Marketplace
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets | ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en | React Developer Tools - Chrome Web Store
+https://github.com/reduxjs/redux-devtools | reduxjs/redux-devtools: DevTools for Redux with hot reloading, action replay, and customizable UI
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=es | Redux DevTools - Chrome Web Store
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Prettier - Code formatter - Visual Studio Marketplace
+https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
+-->
+
 ## Twilio
 
 <!--
@@ -15,6 +94,17 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 -->
 
+## Dave
+
+<!--
+https://github.com/KatherineMichel/practical-python
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+-->
+
 ## Wes Bos
 
 <!--
@@ -25,17 +115,6 @@ https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
 https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 hyper terminal - Google Search
 update node and npm - Google Search
--->
-
-## Dave
-
-<!--
-https://github.com/KatherineMichel/practical-python
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
-
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
 -->
 
 ## JavaScript 30
@@ -67,7 +146,6 @@ https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
 Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
 -->
-
 
 ## Stanford Code in Place
 
