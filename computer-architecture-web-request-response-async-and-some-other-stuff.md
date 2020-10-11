@@ -630,14 +630,17 @@ TCP
 https://en.wikipedia.org/wiki/CPU_cache
 https://en.wikipedia.org/wiki/Cache_(computing)
 
-https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
 https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
+
+https://www.amazon.com/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC | Amazon.com: But How Do It Know? - The Basic 
 http://www.buthowdoitknow.com/ | But How Do It Know - the book. The basic principles of computers
+http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
 http://www.buthowdoitknow.com/cpu_model_intro.html | But How Do It Know - the book. The basic principles of computers
 http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html | but_how_do_it_know_cpu_model
+
+http://visual6502.org/
 https://www.youtube.com/watch?v=cNN_tTXABUA | (1) How a CPU Works - YouTube
 https://www.youtube.com/watch?v=NKYgZH7SBjk | (1) This is What's Inside a CPU - YouTube
-http://buthowdoitknow.com/preview.html | But How Do It Know - the book. The basic principles of computers
 https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/ | I don't know how CPUs work so I simulated one in code - djhworld
 https://github.com/djhworld/simple-computer | djhworld/simple-computer: the scott CPU from "But How Do It Know?" by J. Clark Scott
 https://github.com/nullseed/scott-cpu-assembler | nullseed/scott-cpu-assembler: A machine code assembler for the CPU designed in the book But How Do It Know? by J. Clark Scott
@@ -746,6 +749,8 @@ Unix File System
 * [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
+https://en.wikipedia.org/wiki/File_system
+
 https://en.wikipedia.org/wiki/Intel
 https://en.wikipedia.org/wiki/Advanced_Micro_Devices
 
@@ -781,13 +786,13 @@ https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel i
 
 Important! A Heavily Commented Linux Kernel Source Code
 http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
-
 https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
 
 https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
 
 https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
 https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
+
 
 https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
 https://twitter.com/brendangregg/status/1150796412931600384/photo/2
