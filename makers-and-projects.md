@@ -161,121 +161,7 @@ https://probot.github.io/apps/release-drafter/
 https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
 -->
 
-## Bots
-
-Mariatta- Bot Tutorials
-* [Build-a-GitHub-Bot Workshop](https://github-bot-tutorial.readthedocs.io/en/latest)
-* [Build-a-GitHub-Bot Hall of Fame](https://github-bot-tutorial.readthedocs.io/en/latest/hall-of-fame.html)
-* [Building a GitHub App (GitHub Universe)](https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/)
-* [GitHub App Starter GitHub](https://github.com/Mariatta/gh_app_starter) and [GitHub App Demo](https://github.com/Mariatta/gh_app_demo)
-
-Tools
-* [aiohttp](https://aiohttp.readthedocs.io)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
-
-<!--
-Mariatta- build the bot
-https://www.youtube.com/watch?v=_xdEAxLuj9Y
-
-PyCon Bot Tutorial
-https://twitter.com/mariatta/status/1255558164956807178
-
-https://github.com/Mariatta/github-app-tutorial
-https://github.com/Mariatta/github_app_boillerplate | Mariatta/github_app_boillerplate: A boilerplate for a GitHubb App webservice using gidgethub (> 4.1.0), aiohttp, and Heroku
-https://speakerdeck.com/mariatta/build-your-own-github-bot-with-gidgethub | Build Your Own GitHub Bot with Gidgethub - Speaker Deck
-
-
-https://github.com/webknjaz/pycon-balkan-2019-bot-tutorial | webknjaz/pycon-balkan-2019-bot-tutorial
-https://github.com/webknjaz/pyconby-github-bot | webknjaz/pyconby-github-bot
-https://twitter.com/pyconby/status/1230839954307272709 | PyConBY 2020 (Feb 21–22) Conference on Twitter: "Creating GitHub bots with @webKnjaZ and learning more about hierarchical time series with Alexandr Tolmachev at PyConBY Workshops Day! #pyconby https://t.co/uAwSSHE7l0" / Twitter
-
-Mariatta community automation talk
-https://twitter.com/mariatta/status/1191534648205037569
-
-Mariatta and Andrew
-https://github.com/asvetlov/us-pycon-2019-tutorial
-https://us-pycon-2019-tutorial.readthedocs.io/index.html
-https://docs.python.org/3/library/abc.html
-https://us-pycon-2019-tutorial.readthedocs.io/aiohttp_server.html#using-route-decorators
-https://cz.pycon.org/2019/programme/talks/24/#main | GitHub Bots: Rise of the Machines 🤖 – a talk by Sviatoslav Sydorenko – PyCon CZ 2019, June 14-16, Ostrava
-https://cz.pycon.org/2019/programme/workshops/9/#main
-
-https://say-it-with-bots-gh-universe.readthedocs.io/en/latest/creating-github-app.html
-
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-https://github.com/berkerpeksag/cpython-merge-bot
-
-* [Python Buildbot](https://www.python.org/dev/buildbot) and [Python Buildbot Wiki](https://wiki.python.org/moin/BuildBot)
-
-https://pyvideo.org/pycon-us-2018/build-a-github-bot-workshop.html | PyVideo.org · Build-a-GitHub-Bot Workshop
-https://speakerdeck.com/mariatta/dont-be-a-robot-build-the-bot | Don't Be a Robot; Build the Bot - Speaker Deck
-https://www.slideshare.net/MariattaWijaya/automating-github-workflow-with-bots | Automating GitHub Workflow with Bots
-
-https://twitter.com/beeenje/status/1032725285467312129 | Benjamin Bertrand on Twitter: "I really liked @mariatta Build-a-GitHub-Bot Workshop from #PyCon2018. So I decided to build a clone of gidgethub from @brettsky for @gitlab: https://t.co/qnjitIKR7X Thanks to both of you for the tutorial and library!"
-
-https://zapier.com/ | Zapier | The easiest way to automate your work
-https://www.google.com/search?q=Nexmo+Voice+API&oq=Nexmo+Voice+API&aqs=chrome..69i57j0l2.241j0j7&sourceid=chrome&ie=UTF-8 | Nexmo Voice API - Google Search
-
-
-Jessica Twitter Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Bot
-https://twitter.com/webology/status/1243922072528719874
-
-Hubot
-https://twitter.com/jacobian/status/1193899011406733312 | jacobian on Twitter: "Is Hubot still the best choice for a easy-to-script chatbot? I'd love something in Python for obvious reasons, but JS is fine. The main thing I want is a single bot that I can manage/deploy once, rather than having multiple single-purpose bots." / Twitter
-
-https://botlist.co/
-https://github.com/hubotio/hubot/blob/master/docs/index.md
-https://github.com/hubotio/generator-hubot
-https://github.com/howdyai/botkit
-https://blog.howdy.ai/botkit-botmetrics-acquisition-9295cb38e7e4
-
-https://github.com/devict/devict-hubot
-https://github.com/github/hubot
-https://hubot.github.com/
--->
-
-## Makers
-
-Django, GitHub, SQL
-* [Jeff Triplett Twitter](https://twitter.com/webology)
-* [Simon Willison](https://static.simonwillison.net)
-
-GitHub
-* [Steve Winton GitHub](https://github.com/swinton/)
-* [Jason Etco GitHub](https://github.com/JasonEtco/)
-* [Gregor Martynus GitHub](https://github.com/gr2m/)
-* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
-
-<!--
-Lorena
-
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
-
-https://github.com/mscoutermarsh?tab=stars | mscoutermarsh (Mike Coutermarsh) / Starred
-https://github.com/bdougie?tab=stars | bdougie (Brian Douglas) / Starred
-https://github.com/swinton?tab=stars | swinton (Steve Winton) / Starred
-https://github.com/gr2m?tab=stars | gr2m (Gregor Martynus) / Starred
-https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
-
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-https://www.bdougie.live/ | bdougie.live
-https://github.com/bdougie/blog | bdougie/blog: My blog
-
-https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
-https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
-
-https://github.com/tj
-https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
--->
-
 Women Who Inspire Me
-* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
 * [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
 * [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
 * [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
@@ -284,30 +170,20 @@ Women Who Inspire Me
 * [Jess Frazelle GitHub](https://github.com/jessfraz)
 * [Leigh Honeywell](https://hypatia.ca)
 
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
 * [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
 * [Suz Hinton Twitter](https://twitter.com/noopkat)
 
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-
 <!--
-Mariatta
-Jessica
-https://github.com/JessicaGarson?tab=repositories | JessicaGarson (Jessica Garson) / Repositories
-https://cassidoo.co/ | Cassidy Williams
 https://github.com/jessfraz/
 https://twitter.com/jessfraz
 https://blog.jessfraz.com/
 
-https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
 https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
 
 https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
 
 https://virus.cafe/ | Virus Cafe
-https://github.com/feross?tab=repositories | feross (Feross Aboukhadijeh) / Repositories
 
 https://twitter.com/hayleydenb/status/1257786499933728768
 
@@ -490,66 +366,6 @@ https://twitter.com/natfriedman/status/1260720690472251395
 
 https://twitter.com/natfriedman/status/1260431646257528833
 https://help.github.com/en/github/authenticating-to-github
--->
-
-
-<!--
-Simon- Self-Rewriting
-https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
-https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
-https://github.com/simonw/simonw/blob/master/build_readme.py | simonw/build_readme.py at master · simonw/simonw
-
-https://twitter.com/simonw/status/1284617107431276545 | Simon Willison on Twitter: "Crafted a devious SQL query to show me how many unreleased commits each of my projects has - using a new "github-to-sqlite tags github.db repo-name" command that imports tags into the database so I can join them against releases https://t.co/0eElJz006a https://t.co/2LUvRunbKm" / Twitter
-
-
-https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
-
-Release
-https://datasette.readthedocs.io/en/stable/changelog.html#v0-44 | Changelog — Datasette documentation
-https://twitter.com/simonw/status/1271284143565893632 | Simon Willison on Twitter: "I'm trying something new with this release: I've posted annotations for the release notes to my blog, filling in some background thoughts behind the new features: https://t.co/Rrttu4PiXt" / Twitter
-
-https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
-https://github.com/simonw/asgi-auth-github | simonw/asgi-auth-github: ASGI middleware that authenticates users against GitHub
-
-Weeknotes
-https://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/ | Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate
-
-
-Simon- Weeknotes
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-https://simonwillison.net/2020/Jul/17/weeknotes-datasette-logo/ | Weeknotes: datasette-auth-passwords, a Datasette logo and a whole lot more
-https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
-https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
-https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
-https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
-https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
-
-Simon- Doc Unit Tests
-https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
-http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
-
-https://github.com/simonw/datasette/blob/master/versioneer.py | datasette/versioneer.py at master · simonw/datasette
-
-
-https://twitter.com/simonw/status/1250651420660871168
-https://simonwillison.net/2020/Apr/16/weeknotes-hacking-23-different-projects/
-
-https://twitter.com/simonw/status/1265485373003558912 | Simon Willison on Twitter: "This is a really interesting Twitter account to follows - it tweets when it spots a new GitHub repo published by a known news nerd. Here's a scraper for the Texas Department of State Health Services Covid-19 data, initially released just 25 minutes ago." / Twitter
-https://twitter.com/simonw/status/1265344451632746496 | Simon Willison on Twitter: "What's today's equivalent of the old rite-of-passage exercise for web engineers of building their own blogging engine for their personal website?" / Twitter
-
-Simon
-https://simonwillison.net/2020/May/29/weeknotes-datasette-043/ | Weeknotes: Datasette 0.43
-https://datasette.readthedocs.io/en/latest/changelog.html#v0-43 | Changelog — Datasette documentation
-https://datasette.readthedocs.io/en/stable/contributing.html#release-process | Contributing — Datasette documentation
-https://simonwillison.net/2020/Mar/4/weeknotes-plethora/ | Weeknotes: datasette-ics, datasette-upload-csvs, datasette-configure-fts, asgi-csrf
-https://simonwillison.net/2020/Feb/26/weeknotes-datasette-writes/ | Weeknotes: Datasette Writes
-https://github.com/dogsheep/github-to-sqlite/releases/tag/2.2
-https://github.com/dogsheep/github-to-sqlite/releases
-https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
-https://simonwillison.net/2020/May/21/apple-photos-sqlite/ | Using SQL to find my best photo of a pelican according to Apple Photos
 -->
 
 ## Competitions, Hackathons, Festivals, Communities
