@@ -8,13 +8,6 @@ https://www.pypy.org/ | PyPy
 release-bot
 https://pypi.org/project/release-bot/ | release-bot · PyPI
 
-https://github.com/Azure/azure-quickstart-templates
-https://twitter.com/di_codes/status/1295793468762136576
-
-https://github.com/jessfraz/dockerfiles
-
-https://github.com/naftaliharris/tauthon
-
 
 Gidgethub
 https://mobile.twitter.com/mariatta/status/1251733060812369920
@@ -47,6 +40,11 @@ https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring S
 
 <!--
 https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+
+https://github.com/Azure/azure-quickstart-templates
+https://twitter.com/di_codes/status/1295793468762136576
+
+https://github.com/jessfraz/dockerfiles
 
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
 https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
