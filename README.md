@@ -332,12 +332,6 @@ https://www.w3.org/DesignIssues/Architecture.html
 
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://www.tutorialspoint.com/unix/unix-quick-guide.htm
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://www.tutorialspoint.com/unix_commands/index.htm
-https://www.tutorialspoint.com/unix_system_calls/index.htm
-
 https://twitter.com/b0rk
 https://wizardzines.com/comics/bash-if-statements/
 https://wizardzines.com/comics/bash-errors/
@@ -351,6 +345,15 @@ https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
+
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://simple.wikipedia.org/wiki/Packet_(computing)
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
+
 
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
 
