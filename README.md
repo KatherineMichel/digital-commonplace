@@ -170,9 +170,9 @@ https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental M
 Make
 https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
 
-https://github.com/phodal/growth-in-action
-
 https://twitter.com/levelsio/status/1314280439243300865
+
+https://github.com/phodal/growth-in-action
 
 
 https://twitter.com/NimaRoohiS/status/1312916303225729026
@@ -222,6 +222,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA
 
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
 
+https://github.com/crweiner/hacktoberfest-swag-list
+https://github.com/digitalocean/hacktoberfest
+
+
+
 https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
 https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
 
@@ -230,9 +235,6 @@ https://thestartingidea.com/personal-branding-guide/
 Brian
 https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
 https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
-
-https://github.com/crweiner/hacktoberfest-swag-list
-https://github.com/digitalocean/hacktoberfest
 
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -317,8 +319,8 @@ https://github.com/jazzband | Jazzband
 https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
 
 https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
-
 https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
+
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
 
@@ -331,27 +333,15 @@ https://www.w3.org/DesignIssues/Architecture.html
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-https://twitter.com/simonw/status/1314384418170003456
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
 
 https://twitter.com/b0rk
 https://wizardzines.com/comics/bash-if-statements/
 https://wizardzines.com/comics/bash-errors/
+https://twitter.com/simonw/status/1314384418170003456
 
 https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 
@@ -372,6 +362,21 @@ https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10C
 
 https://regexcrossword.com/ | Regex Crossword
 https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
 
@@ -418,35 +423,23 @@ https://djangobuilder.io/#/ | Django Builder
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 
 
-https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
-
-Django security
-https://learndjango.com/tutorials/django-best-practices-security
-
-https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
-https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
-https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
-
-https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-
-Nina
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-Packaging Talk
-https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This is not my favourite version of this python packaging talk, but it is the most up-to-date." / Twitter
-
-https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
 
 
-https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
+https://github.com/wsvincent/awesome-django
+
+Class-based Sites
+https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
+
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
@@ -456,25 +449,66 @@ https://spookylukey.github.io/django-views-the-right-way/
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
+https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
+
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+Nina
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+
 https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
+
+Packaging Talk
+https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This is not my favourite version of this python packaging talk, but it is the most up-to-date." / Twitter
+
+Stop Writing Classes
+https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+Pass by value versus pass by reference
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+
+https://github.com/phildini/api-driven-django
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+
+https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
+
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
 
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+Django security
+https://learndjango.com/tutorials/django-best-practices-security
 
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
-
-https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
-https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
 
 GitHub
 https://github.blog/2020-09-02-how-we-threat-model/
@@ -494,6 +528,20 @@ https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-securit
 Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+
+https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
+https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
 
 As CTO
@@ -1122,6 +1170,7 @@ Useful Websites
 
 High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
 
 Refactoring
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
@@ -1133,8 +1182,6 @@ Checklists and Cheat Sheets
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
 
 <!--
-https://www.igvita.com/ | Ilya Grigorik - igvita.com
-
 https://martinfowler.com/articles/collection-pipeline/
 https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
 
@@ -1211,6 +1258,31 @@ https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackat
 https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
 https://glitch.com/producthunt | Product Hunt
 Guides for Development
+-->
+
+<!--
+Gam Jam
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+
+https://js13kgames.com/
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
 ## Project Ideas
@@ -1461,12 +1533,10 @@ https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google C
 https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
 https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
 https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
-
 Twitter sentiment analysis
 https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
 
-Twitter
-https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
+
 
 GitHub Actions Examples
 https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
@@ -1481,30 +1551,6 @@ GitHub
 https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
 -->
 
-<!--
-Gam Jam
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
-
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-https://js1024.fun/results/2020 | JS1024 Results - 2020
-
-https://js13kgames.com/
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
--->
 
 ## Look At
 
@@ -1812,8 +1858,8 @@ https://github.com/upday/python-project-template | upday/python-project-template
 ## API
 
 <!--
-https://github.com/tiangolo/fastapi
-https://fastapi.tiangolo.com/#performance
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 
 https://github.com/api-evangelist
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
@@ -1822,19 +1868,7 @@ https://github.com/TonnyL/Awesome_APIs
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 https://www.programmableweb.com/category/all/apis
 
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 -->
 
 
@@ -1887,6 +1921,8 @@ https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wi
 https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
 https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
 
+https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
+
 Twitter API
 https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
 https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
@@ -1901,12 +1937,6 @@ https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape t
 ## Twitter API Examples
 
 <!--
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
-
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
-
 https://github.com/twitterdev/real-time-tweet-streamer
 https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
 
@@ -2096,18 +2126,10 @@ https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖
 
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
 
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 
-https://learnxinyminutes.com/docs/yaml/
 https://en.m.wikipedia.org/wiki/YAML
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
 -->
 
 ## Third Party Helpers
@@ -2473,6 +2495,16 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
+<!--
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
+-->
+
 ## Deploy
 
 Hawt- Web
@@ -2549,14 +2581,6 @@ Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
 <!-- 
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
-
 https://web.dev/progressive-web-apps/
 
 https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
@@ -2598,6 +2622,70 @@ https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-
 
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
 -->
+
+## Google Progressive Web Apps (PWA)
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
+* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
+
+<!--
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+
+https://pwa.rocks/ | A selection of Progressive Web Apps
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+## Google Design
+
+Google 
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google \ Design (See also Facebook React)
+* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io/design/ | Design - Material Design
+
+https://material.io/guidelines/resources/roboto-noto-fonts.html
+https://material.io/guidelines/style/typography.html#typography-line-height
+
+https://materialdesignkit.com
+https://material.io/guidelines
+https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
+https://getmdl.io/components/index.html#card-selection
+https://getmdl.io
+-->
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
+
 
 ## Python Syntax and Python Versus JavaScript
 
@@ -2964,6 +3052,13 @@ https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 ## Twitter API
 
 <!--
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+
+https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
+https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
+
+
 https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
 https://developer.twitter.com/en/apps | Twitter Developers
 
@@ -3169,69 +3264,6 @@ https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
-
-## Google Progressive Web Apps (PWA)
-
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
-* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
-* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
-* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
-
-<!--
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-
-https://pwa.rocks/ | A selection of Progressive Web Apps
-https://www.pwabuilder.com/ | PWABuilder
-
-Progressive Web app Testing
-[pwmetrics](https://github.com/paulirish/pwmetrics)
-    
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app
--->
-
-## Google Design
-
-Google 
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google \ Design (See also Facebook React)
-* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-<!--
-https://material.io/design/ | Design - Material Design
-
-https://material.io/guidelines/resources/roboto-noto-fonts.html
-https://material.io/guidelines/style/typography.html#typography-line-height
-
-https://materialdesignkit.com
-https://material.io/guidelines
-https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
-https://getmdl.io/components/index.html#card-selection
-https://getmdl.io
--->
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
 
 
 
