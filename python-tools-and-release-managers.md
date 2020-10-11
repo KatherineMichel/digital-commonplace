@@ -247,6 +247,9 @@ Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
 <!--
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
 
