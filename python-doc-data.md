@@ -507,6 +507,87 @@ https://docs.python.org/3/reference/lexical_analysis.html#identifiers
 
 ## Utilities
 
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+
+28. Debugging and Profiling
+28.3. pdb — The Python Debugger
+28.1. bdb — Debugger framework
+28.4. The Python Profilers
+28.5. timeit — Measure execution time of small code snippets
+28.6. trace — Trace or track Python statement execution
+
+https://docs.python.org/3/library/debug.html
+
+https://docs.python.org/3/library/pdb.html#debugger-commands
+
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/trace.html
+
+29.9. traceback — Print or retrieve a stack traceback
+https://docs.python.org/3/library/traceback.html
+
+## Exceptions, Errors, Warnings
+
+Repeat
+16.1.1. Error Handling
+https://docs.python.org/3/tutorial/appendix.html#error-handling
+
+8. Errors and Exceptions
+8.1. Syntax Errors
+8.2. Exceptions
+8.3. Handling Exceptions
+8.4. Raising Exceptions
+8.5. User-defined Exceptions
+8.6. Defining Clean-up Actions
+8.7. Predefined Clean-up Actions
+
+* [errors](https://docs.python.org/3/tutorial/errors.html)
+
+https://docs.python.org/3/tutorial/errors.html#errors-and-exceptions
+https://docs.python.org/3/tutorial/errors.html#syntax-errors
+https://docs.python.org/3/tutorial/errors.html#exceptions
+https://docs.python.org/3/tutorial/errors.html#handling-exceptions
+https://docs.python.org/3/tutorial/errors.html#raising-exceptions
+https://docs.python.org/3/tutorial/errors.html#user-defined-exceptions
+https://docs.python.org/3/tutorial/errors.html#defining-clean-up-actions
+https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions
+
+5. Built-in Exceptions
+5.1. Base classes
+5.2. Concrete exceptions
+5.3. Warnings
+5.4. Exception hierarchy
+
+* [exceptions](https://docs.python.org/3/library/exceptions.html)
+
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
+https://docs.python.org/3/library/exceptions.html#base-classes
+https://docs.python.org/3/library/exceptions.html#concrete-exceptions
+
+https://docs.python.org/3/library/exceptions.html#os-exceptions
+
+https://docs.python.org/3/library/exceptions.html#warnings
+https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+
+https://docs.python.org/3/library/exceptions.html#os-exceptions
+
+Python Warnings
+* [warnings](https://docs.python.org/3/library/warnings.html)
+
+30.5. warnings — Warning control
+https://docs.python.org/3/library/warnings.html#warning-categories
+https://docs.python.org/3/library/warnings.html#the-warnings-filter
+https://docs.python.org/3/library/warnings.html#describing-warning-filters
+https://docs.python.org/3/library/warnings.html#default-warning-filter
+https://docs.python.org/3/library/warnings.html#overriding-the-default-filter
+https://docs.python.org/3/library/warnings.html#temporarily-suppressing-warnings
+https://docs.python.org/3/library/warnings.html#testing-warnings
+https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-of-dependencies
+https://docs.python.org/3/library/warnings.html#available-functions
+https://docs.python.org/3/library/warnings.html#available-context-managers
+
+
 10.3. Command Line Arguments
 https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
 
@@ -669,59 +750,189 @@ https://docs.python.org/3/library/re.html#writing-a-tokenizer
 11.7. glob — Unix style pathname pattern expansion
 https://docs.python.org/3/library/glob.html
 
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+https://docs.python.org/3/library/time.html#functions
+https://docs.python.org/3/library/time.html#clock-id-constants
+https://docs.python.org/3/library/time.html#timezone-constants
+
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+https://docs.python.org/3/library/datetime.html#available-types
+https://docs.python.org/3/library/datetime.html#timedelta-objects
+https://docs.python.org/3/library/datetime.html#date-objects
+https://docs.python.org/3/library/datetime.html#datetime-objects
+https://docs.python.org/3/library/datetime.html#time-objects
+https://docs.python.org/3/library/datetime.html#tzinfo-objects
+https://docs.python.org/3/library/datetime.html#timezone-objects
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
+
+6. Text Processing Services
+https://docs.python.org/3/library/text.html
+
+
 Unicode HOWTO
 https://docs.python.org/3/howto/unicode.html
-
-
-HOWTO Fetch Internet Resources Using The urllib Package
-https://docs.python.org/3/howto/urllib2.html
 
 22.5. urllib — URL handling modules
 22.6. urllib.request — Extensible library for opening URLs
 22.7. urllib.response — Response classes used by urllib
 22.8. urllib.parse — Parse URLs into components
-22.9. urllib.error — Exception classes raised by urllib.request
-22.10. urllib.robotparser — Parser for robots.txt
 
 https://docs.python.org/3/library/urllib.html
 https://docs.python.org/3/library/urllib.request.html
-https://docs.python.org/3/library/urllib.request.html#request-objects
-https://docs.python.org/3/library/urllib.request.html#openerdirector-objects
-https://docs.python.org/3/library/urllib.request.html#basehandler-objects
-https://docs.python.org/3/library/urllib.request.html#httpredirecthandler-objects
-https://docs.python.org/3/library/urllib.request.html#httpcookieprocessor-objects
-https://docs.python.org/3/library/urllib.request.html#proxyhandler-objects
-https://docs.python.org/3/library/urllib.request.html#httppasswordmgr-objects
-https://docs.python.org/3/library/urllib.request.html#httppasswordmgrwithpriorauth-objects
-https://docs.python.org/3/library/urllib.request.html#abstractbasicauthhandler-objects
-https://docs.python.org/3/library/urllib.request.html#httpbasicauthhandler-objects
-https://docs.python.org/3/library/urllib.request.html#proxybasicauthhandler-objects
-https://docs.python.org/3/library/urllib.request.html#abstractdigestauthhandler-objects
-https://docs.python.org/3/library/urllib.request.html#httpdigestauthhandler-objects
-https://docs.python.org/3/library/urllib.request.html#proxydigestauthhandler-objects
-https://docs.python.org/3/library/urllib.request.html#httphandler-objects
-https://docs.python.org/3/library/urllib.request.html#httpshandler-objects
-https://docs.python.org/3/library/urllib.request.html#filehandler-objects
-https://docs.python.org/3/library/urllib.request.html#datahandler-objects
-https://docs.python.org/3/library/urllib.request.html#ftphandler-objects
-https://docs.python.org/3/library/urllib.request.html#cacheftphandler-objects
-https://docs.python.org/3/library/urllib.request.html#unknownhandler-objects
-https://docs.python.org/3/library/urllib.request.html#httperrorprocessor-objects
-https://docs.python.org/3/library/urllib.request.html#examples
-https://docs.python.org/3/library/urllib.request.html#legacy-interface
-https://docs.python.org/3/library/urllib.request.html#urllib-request-restrictions
-https://docs.python.org/3/library/urllib.request.html#module-urllib.response
-
 https://docs.python.org/3/library/urllib.parse.html
-https://docs.python.org/3/library/urllib.parse.html#url-parsing
-https://docs.python.org/3/library/urllib.parse.html#parsing-ascii-encoded-bytes
-https://docs.python.org/3/library/urllib.parse.html#structured-parse-results
-https://docs.python.org/3/library/urllib.parse.html#url-quoting
 
 "The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
 
-https://docs.python.org/3/library/urllib.error.html#module-urllib.error
-https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
+
+21. Internet Protocols and Support
+
+21.11. http — HTTP modules
+19.2. json — JSON encoder and decoder
+7.2.2. Saving structured data with json
+
+https://docs.python.org/3/library/http.server.html
+https://docs.python.org/3/library/http.html
+https://docs.python.org/3/library/json.html
+https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
+
+20.2. json — JSON encoder and decoder
+
+https://docs.python.org/3/library/json.html
+
+https://docs.python.org/3/library/json.html#basic-usage
+https://docs.python.org/3/library/json.html#encoders-and-decoders
+https://docs.python.org/3/library/json.html#exceptions
+https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
+https://docs.python.org/3/library/json.html#character-encodings
+https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
+https://docs.python.org/3/library/json.html#repeated-names-within-an-object
+https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
+https://docs.python.org/3/library/json.html#implementation-limitations
+https://docs.python.org/3/library/json.html#module-json.tool
+https://docs.python.org/3/library/json.html#command-line-options
+
+21. Structured Markup Processing Tools
+21.1. html — HyperText Markup Language support
+21.2. html.parser — Simple HTML and XHTML parser
+21.3. html.entities — Definitions of HTML general entities
+
+20. Structured Markup Processing Tools
+https://docs.python.org/3/library/markup.html
+20.1. html — HyperText Markup Language support
+https://docs.python.org/3/library/html.html
+
+https://docs.python.org/3/library/html.parser.html
+https://docs.python.org/3/library/html.parser.html#example-html-parser-application
+https://docs.python.org/3/library/html.parser.html#htmlparser-methods
+https://docs.python.org/3/library/html.parser.html#examples
+https://docs.python.org/3/library/html.entities.html
+
+14. File Formats
+https://docs.python.org/3/library/fileformats.html
+
+14.1. csv — CSV File Reading and Writing
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/csv.html#module-contents
+https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
+https://docs.python.org/3/library/csv.html#reader-objects
+https://docs.python.org/3/library/csv.html#writer-objects
+https://docs.python.org/3/library/csv.html#examples
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+
+36.10. pipes — Interface to shell pipelines
+https://docs.python.org/3/library/pipes.html
+https://docs.python.org/3/library/pipes.html#template-objects
+
+22.1. webbrowser — Convenient Web-browser controller
+
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
+
+22.11. http — HTTP modules
+22.12. http.client — HTTP protocol client
+22.22. http.server — HTTP servers
+22.23. http.cookies — HTTP state management
+22.24. http.cookiejar — Cookie handling for HTTP clients
+
+https://docs.python.org/3/library/http.html
+
+https://docs.python.org/3/library/http.html#http-status-codes
+
+https://docs.python.org/3/library/http.client.html
+https://docs.python.org/3/library/http.client.html#httpconnection-objects
+https://docs.python.org/3/library/http.client.html#httpresponse-objects
+https://docs.python.org/3/library/http.client.html#examples
+https://docs.python.org/3/library/http.client.html#httpmessage-objects
+
+https://docs.python.org/3/library/http.server.html
+
+https://docs.python.org/3/library/http.cookies.html
+https://docs.python.org/3/library/http.cookiejar.html
+
+
+## CGI and WSGI
+
+22.2. cgi — Common Gateway Interface support
+22.3. cgitb — Traceback manager for CGI scripts
+22.4. wsgiref — WSGI Utilities and Reference Implementation
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/cgi.html#introduction
+https://docs.python.org/3/library/cgi.html#using-the-cgi-module
+https://docs.python.org/3/library/cgi.html#higher-level-interface
+https://docs.python.org/3/library/cgi.html#functions
+https://docs.python.org/3/library/cgi.html#caring-about-security
+https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
+https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
+https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
+https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
+
+https://docs.python.org/3/library/cgitb.html
+
+https://docs.python.org/3/library/wsgiref.html
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
+https://docs.python.org/3/library/wsgiref.html#examples
+
+
+12. Data Persistence
+12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
+https://docs.python.org/3/library/sqlite3.html#connection-objects
+https://docs.python.org/3/library/sqlite3.html#cursor-objects
+https://docs.python.org/3/library/sqlite3.html#row-objects
+https://docs.python.org/3/library/sqlite3.html#exceptions
+https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
+https://docs.python.org/3/library/sqlite3.html#introduction
+https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
+https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
+https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
+https://docs.python.org/3/library/sqlite3.html#controlling-transactions
+https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
+https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
+https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
+https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
+https://docs.python.org/3/library/sqlite3.html#common-issues
+
+https://docs.python.org/3/library/sqlite3.html#multithreading
+
+14. File Formats
+14.5. plistlib — Generate and parse Mac OS X .plist files
+https://docs.python.org/3/library/plistlib.html
+
 
 
 27.4. unittest — Unit testing framework
