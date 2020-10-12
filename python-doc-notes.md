@@ -355,66 +355,6 @@ https://docs.python.org/3/library/tracemalloc.html#statisticdiff
 https://docs.python.org/3/library/tracemalloc.html#trace
 https://docs.python.org/3/library/tracemalloc.html#traceback
 
-## Exceptions, Errors, Warnings
-
-Repeat
-16.1.1. Error Handling
-https://docs.python.org/3/tutorial/appendix.html#error-handling
-
-8. Errors and Exceptions
-8.1. Syntax Errors
-8.2. Exceptions
-8.3. Handling Exceptions
-8.4. Raising Exceptions
-8.5. User-defined Exceptions
-8.6. Defining Clean-up Actions
-8.7. Predefined Clean-up Actions
-
-* [errors](https://docs.python.org/3/tutorial/errors.html)
-
-https://docs.python.org/3/tutorial/errors.html#errors-and-exceptions
-https://docs.python.org/3/tutorial/errors.html#syntax-errors
-https://docs.python.org/3/tutorial/errors.html#exceptions
-https://docs.python.org/3/tutorial/errors.html#handling-exceptions
-https://docs.python.org/3/tutorial/errors.html#raising-exceptions
-https://docs.python.org/3/tutorial/errors.html#user-defined-exceptions
-https://docs.python.org/3/tutorial/errors.html#defining-clean-up-actions
-https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions
-
-5. Built-in Exceptions
-5.1. Base classes
-5.2. Concrete exceptions
-5.3. Warnings
-5.4. Exception hierarchy
-
-* [exceptions](https://docs.python.org/3/library/exceptions.html)
-
-https://docs.python.org/3/library/exceptions.html#built-in-exceptions
-https://docs.python.org/3/library/exceptions.html#base-classes
-https://docs.python.org/3/library/exceptions.html#concrete-exceptions
-
-https://docs.python.org/3/library/exceptions.html#os-exceptions
-
-https://docs.python.org/3/library/exceptions.html#warnings
-https://docs.python.org/3/library/exceptions.html#exception-hierarchy
-
-https://docs.python.org/3/library/exceptions.html#os-exceptions
-
-Python Warnings
-* [warnings](https://docs.python.org/3/library/warnings.html)
-
-30.5. warnings — Warning control
-https://docs.python.org/3/library/warnings.html#warning-categories
-https://docs.python.org/3/library/warnings.html#the-warnings-filter
-https://docs.python.org/3/library/warnings.html#describing-warning-filters
-https://docs.python.org/3/library/warnings.html#default-warning-filter
-https://docs.python.org/3/library/warnings.html#overriding-the-default-filter
-https://docs.python.org/3/library/warnings.html#temporarily-suppressing-warnings
-https://docs.python.org/3/library/warnings.html#testing-warnings
-https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-of-dependencies
-https://docs.python.org/3/library/warnings.html#available-functions
-https://docs.python.org/3/library/warnings.html#available-context-managers
-
     	   
 ## Logging
 
@@ -497,11 +437,6 @@ https://docs.python.org/3/library/pprint.html
 https://docs.python.org/3/library/pprint.html#prettyprinter-objects
 https://docs.python.org/3/library/pprint.html#example
 
-20. Structured Markup Processing Tools
-https://docs.python.org/3/library/markup.html
-20.1. html — HyperText Markup Language support
-https://docs.python.org/3/library/html.html
-
 7.1. Fancier Output Formatting
 https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
 
@@ -521,6 +456,63 @@ https://docs.python.org/3/library/formatter.html#the-formatter-interface
 https://docs.python.org/3/library/formatter.html#formatter-implementations
 https://docs.python.org/3/library/formatter.html#the-writer-interface
 https://docs.python.org/3/library/formatter.html#writer-implementations
+
+
+7. Input and Output
+https://docs.python.org/3/tutorial/inputoutput.html
+https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
+https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+https://docs.python.org/3/library/functions.html#open
+
+11.3. fileinput — Iterate over lines from multiple input streams
+11.5. filecmp — File and Directory Comparisons
+11.6. tempfile — Generate temporary files and directories
+11.8. fnmatch — Unix filename pattern matching
+11.9. linecache — Random access to text lines
+11.11. macpath — Mac OS 9 path manipulation functions
+
+https://docs.python.org/3/library/filesys.html
+
+https://docs.python.org/3/library/fileinput.html
+
+https://docs.python.org/3/library/filecmp.html
+https://docs.python.org/3/library/filecmp.html#the-dircmp-class
+https://docs.python.org/3/library/tempfile.html
+https://docs.python.org/3/library/tempfile.html#examples
+https://docs.python.org/3/library/tempfile.html#deprecated-functions-and-variables
+
+https://docs.python.org/3/library/fnmatch.html
+https://docs.python.org/3/library/linecache.html
+
+https://docs.python.org/3/library/macpath.html
+
+
+24. Internationalization
+24.1. gettext — Multilingual internationalization services
+24.2. locale — Internationalization services
+
+https://docs.python.org/3/library/i18n.html
+https://docs.python.org/3/library/gettext.html
+
+https://docs.python.org/3/library/gettext.html#gnu-gettext-api
+https://docs.python.org/3/library/gettext.html#class-based-api
+https://docs.python.org/3/library/gettext.html#the-nulltranslations-class
+https://docs.python.org/3/library/gettext.html#the-gnutranslations-class
+https://docs.python.org/3/library/gettext.html#solaris-message-catalog-support
+https://docs.python.org/3/library/gettext.html#the-catalog-constructor
+https://docs.python.org/3/library/gettext.html#internationalizing-your-programs-and-modules
+https://docs.python.org/3/library/gettext.html#localizing-your-module
+https://docs.python.org/3/library/gettext.html#localizing-your-application
+https://docs.python.org/3/library/gettext.html#changing-languages-on-the-fly
+https://docs.python.org/3/library/gettext.html#deferred-translations
+https://docs.python.org/3/library/gettext.html#acknowledgements
+
+23.2. locale — Internationalization services
+https://docs.python.org/3/library/locale.html
+
+https://docs.python.org/3/library/locale.html#background-details-hints-tips-and-caveats
+https://docs.python.org/3/library/locale.html#for-extension-writers-and-programs-that-embed-python
+https://docs.python.org/3/library/locale.html#access-to-message-catalogs
 
 
 ## Dataclasses
@@ -587,12 +579,6 @@ https://docs.python.org/3/library/urllib.parse.html#url-quoting
 
 https://docs.python.org/3/library/urllib.error.html#module-urllib.error
 https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
-
-7. Input and Output
-https://docs.python.org/3/tutorial/inputoutput.html
-https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
-https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
-https://docs.python.org/3/library/functions.html#open
 
 30.14. site — Site-specific configuration hook
 https://docs.python.org/3/library/site.html
@@ -701,28 +687,6 @@ https://docs.python.org/3/library/mailbox.html#mmdfmessage
 https://docs.python.org/3/library/mailbox.html#exceptions
 https://docs.python.org/3/library/mailbox.html#examples
 
-11.3. fileinput — Iterate over lines from multiple input streams
-11.5. filecmp — File and Directory Comparisons
-11.6. tempfile — Generate temporary files and directories
-11.8. fnmatch — Unix filename pattern matching
-11.9. linecache — Random access to text lines
-11.11. macpath — Mac OS 9 path manipulation functions
-
-https://docs.python.org/3/library/filesys.html
-
-https://docs.python.org/3/library/fileinput.html
-
-https://docs.python.org/3/library/filecmp.html
-https://docs.python.org/3/library/filecmp.html#the-dircmp-class
-https://docs.python.org/3/library/tempfile.html
-https://docs.python.org/3/library/tempfile.html#examples
-https://docs.python.org/3/library/tempfile.html#deprecated-functions-and-variables
-
-https://docs.python.org/3/library/fnmatch.html
-https://docs.python.org/3/library/linecache.html
-
-https://docs.python.org/3/library/macpath.html
-
 
 15.3. secrets — Generate secure random numbers for managing secrets
 https://docs.python.org/3/library/secrets.html
@@ -733,60 +697,6 @@ https://docs.python.org/3/library/secrets.html#how-many-bytes-should-tokens-use
 https://docs.python.org/3/library/secrets.html#other-functions
 https://docs.python.org/3/library/secrets.html#recipes-and-best-practices
 
-
-24. Internationalization
-24.1. gettext — Multilingual internationalization services
-24.2. locale — Internationalization services
-
-https://docs.python.org/3/library/i18n.html
-https://docs.python.org/3/library/gettext.html
-
-https://docs.python.org/3/library/gettext.html#gnu-gettext-api
-https://docs.python.org/3/library/gettext.html#class-based-api
-https://docs.python.org/3/library/gettext.html#the-nulltranslations-class
-https://docs.python.org/3/library/gettext.html#the-gnutranslations-class
-https://docs.python.org/3/library/gettext.html#solaris-message-catalog-support
-https://docs.python.org/3/library/gettext.html#the-catalog-constructor
-https://docs.python.org/3/library/gettext.html#internationalizing-your-programs-and-modules
-https://docs.python.org/3/library/gettext.html#localizing-your-module
-https://docs.python.org/3/library/gettext.html#localizing-your-application
-https://docs.python.org/3/library/gettext.html#changing-languages-on-the-fly
-https://docs.python.org/3/library/gettext.html#deferred-translations
-https://docs.python.org/3/library/gettext.html#acknowledgements
-
-23.2. locale — Internationalization services
-https://docs.python.org/3/library/locale.html
-
-https://docs.python.org/3/library/locale.html#background-details-hints-tips-and-caveats
-https://docs.python.org/3/library/locale.html#for-extension-writers-and-programs-that-embed-python
-https://docs.python.org/3/library/locale.html#access-to-message-catalogs
-
-## CGI and WSGI
-
-22.2. cgi — Common Gateway Interface support
-22.3. cgitb — Traceback manager for CGI scripts
-22.4. wsgiref — WSGI Utilities and Reference Implementation
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/cgi.html#introduction
-https://docs.python.org/3/library/cgi.html#using-the-cgi-module
-https://docs.python.org/3/library/cgi.html#higher-level-interface
-https://docs.python.org/3/library/cgi.html#functions
-https://docs.python.org/3/library/cgi.html#caring-about-security
-https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
-https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
-https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
-https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
-
-https://docs.python.org/3/library/cgitb.html
-
-https://docs.python.org/3/library/wsgiref.html
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
-https://docs.python.org/3/library/wsgiref.html#examples
 
 ## Typing and Types
 
@@ -816,36 +726,6 @@ https://docs.python.org/3/library/types.html#dynamic-type-creation
 https://docs.python.org/3/library/types.html#standard-interpreter-types
 https://docs.python.org/3/library/types.html#additional-utility-classes-and-functions
 https://docs.python.org/3/library/types.html#coroutine-utility-functions
-
-
-12. Data Persistence
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
-
-14. File Formats
-14.5. plistlib — Generate and parse Mac OS X .plist files
-https://docs.python.org/3/library/plistlib.html
-
 
 
 ## The Python General Index and Module Index- Priority
