@@ -3,6 +3,8 @@
 ## Best Practices and Common Tools
 
 <!--
+https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+
 https://twitter.com/aaronchall/status/1114713624453554176
 
 https://docs.python.org/3/library/python.html
@@ -17,24 +19,73 @@ https://docs.python.org/3.8/extending/extending.html
 
 https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
 
-
 https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 
 https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
+
+https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
+https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
 -->
 
-<!--
-1.2. Notation
-https://docs.python.org/3/reference/introduction.html#notation
+## General Links
 
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+https://docs.python.org/3/glossary.html
 
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
+https://docs.python.org/3/contents.html
+https://docs.python.org/3/genindex.html
+https://docs.python.org/3/py-modindex.html
+
+https://docs.python.org/2/howto/doanddont.html
+
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/reference/introduction.html
+
+https://docs.python.org/3/library
+https://docs.python.org/3/library/index.html
+https://docs.python.org/3/library/intro.html
+
+13. What Now?
+https://docs.python.org/3/tutorial/whatnow.html#what-now
+
+1. Whetting Your Appetite
+https://docs.python.org/3/tutorial/appetite.html
+
+https://docs.python.org/3/tutorial/appendix.html
+https://docs.python.org/3/tutorial/appendix.html#appendix
+
+https://docs.python.org/3/tutorial/stdlib.html
+10. Brief Tour of the Standard Library
+https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
+11. Brief Tour of the Standard Library — Part II
+https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
+
+
+10.9. Data Compression
+https://docs.python.org/3/tutorial/stdlib.html#data-compression
+
+10.12. Batteries Included
+https://docs.python.org/3/tutorial/stdlib.html#batteries-included
+https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
+https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
+https://docs.python.org/3/library/email.html#module-email
+https://docs.python.org/3/library/poplib.html#module-poplib
+
+https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+https://docs.python.org/3/library/xml.dom.html#module-xml.dom
+https://docs.python.org/3/library/xml.sax.html#module-xml.sax
+
+10.12. Batteries Included
+10.7. Internet Access
+https://docs.python.org/3/library/smtplib.html#module-smtplib
+
+10.7. Internet Access
+https://docs.python.org/3/tutorial/stdlib.html#internet-access
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+
+urllib
+https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
+
 
 ## Interpreter
 
@@ -716,6 +767,8 @@ https://docs.python.org/3/library/weakref.html#weak-reference-objects
 https://docs.python.org/3/library/weakref.html#example
 https://docs.python.org/3/library/weakref.html#finalizer-objects
 https://docs.python.org/3/library/weakref.html#comparing-finalizers-with-del-methods
+
+https://docs.python.org/3/glossary.html#term-garbage-collection
 
 11.6. Weak References
 https://docs.python.org/3/tutorial/stdlib2.html#weak-references
