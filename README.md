@@ -2067,15 +2067,12 @@ Shebang File
 http://www.brendangregg.com/perf.html | Linux perf Examples
 https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
 
+
 https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
 
 
 
@@ -2232,14 +2229,33 @@ https://hubot.github.com/
 
 ## Kenneth
 
+Records
+* [Records GitHub](https://github.com/kennethreitz/records)
+
 DJ Static, DJ Database URL
 * [DJ Static GitHub](https://github.com/heroku-python/dj-static)
 * [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
-Requests (HTTP for Humans), Requests HTML, Records
+<!--
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+https://github.com/kennethreitz/homebrew-pythons
+-->
+
+## Requests
+
+Requests (HTTP for Humans) and Requests HTML
 * [Requests PyPi](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
 * [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
-* [Records GitHub](https://github.com/kennethreitz/records)
 
 <!--
 Requests
@@ -2259,19 +2275,6 @@ urllib3
 https://urllib3.readthedocs.io/en/latest/
 https://github.com/urllib3/urllib3
 https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
-
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/homebrew-pythons
 -->
 
 ## Web Scraping
