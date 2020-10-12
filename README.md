@@ -279,19 +279,8 @@ https://twitter.com/simonw/status/1313986116161134592
 https://twitter.com/simonw/status/1313673393690959872
 https://github.com/simonw/buildpack-datasette-demo
 
-https://github.com/microsoft/beginners-intro-javascript-node
-
 GraphQL/Relay
 https://twitter.com/leogcrespo/status/1313091661556314114
-
-https://github.com/jamstack/jamstack.org
-https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
-https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
-https://twitter.com/mojombo/status/1313572403595759616
-
-https://play.tailwindcss.com/
-https://blog.tailwindcss.com/introducing-tailwind-play
-https://twitter.com/adamwathan/status/1313826345374416896
 
 Tools
 https://twitter.com/kwuchu/status/1314286568362967041
@@ -304,14 +293,11 @@ https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQ
 
 https://twitter.com/rlconley/status/1312079736198385665
 
-https://github.com/TheAlgorithms/Python
-
 https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
 https://github.com/pantsbuild/example-python
 
 Python 3.9
 https://twitter.com/PrasoonPratham/status/1313392420038483968
-
 
 https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
 
@@ -331,6 +317,10 @@ https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Ye
 https://www.w3.org/DesignIssues/Architecture.html
 
 https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+https://www.youtube.com/watch?v=cNN_tTXABUA
+
+https://github.com/TheAlgorithms/Python
 
 https://twitter.com/b0rk
 https://wizardzines.com/comics/bash-if-statements/
@@ -610,6 +600,10 @@ https://gist.github.com/ryanflorence/8a62abea562ca2896dee
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
+https://github.com/jamstack/jamstack.org
+https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
+https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
+https://twitter.com/mojombo/status/1313572403595759616
 
 
 Sid
@@ -1441,6 +1435,9 @@ https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 ## Projects
 
 <!--
+https://popular-github-repos.github.io/
+https://github.com/popular-github-repos/popular-github-repos.github.io
+
 https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
 https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
 
@@ -1486,34 +1483,10 @@ Release, Weeknotes
 
 
 <!--
-Projects
-https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
-https://expressjs.com/ | Express - Node.js web application framework
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-
-Admins
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-https://github.com/realpython/list-of-python-api-wrappers
-
-https://popular-github-repos.github.io/
-https://github.com/popular-github-repos/popular-github-repos.github.io
-
 https://github.com/akamhy/waybackpy
 https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
 https://github.com/PyBites-Open-Source/karmabot
--->
 
-
-
-<!--
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 
@@ -1600,6 +1573,7 @@ https://www.datacamp.com/community/tutorials/18-most-common-python-list-question
 https://www.toptal.com/python/python-design-patterns
 -->
 
+
 ## Useful Learning Resources
 
 Practice
@@ -1620,6 +1594,23 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
+Projects
+https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+https://expressjs.com/ | Express - Node.js web application framework
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+
+https://github.com/realpython/list-of-python-api-wrappers
+
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+
 https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
 
 https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
@@ -2611,6 +2602,10 @@ Mojombo
 * [Fauna](https://fauna.com/)
 
 <!--
+https://play.tailwindcss.com/
+https://blog.tailwindcss.com/introducing-tailwind-play
+https://twitter.com/adamwathan/status/1313826345374416896
+
 https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
 https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 
