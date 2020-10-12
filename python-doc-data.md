@@ -26,9 +26,9 @@ negative indexes python - Google Search
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
 
 Coding problems
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
 https://docs.python.org/3/library/string.html | string — Common string operations — Python 3.10.0a0 documentation
 https://docs.python.org/3/library/stdtypes.html#str.replace
 https://docs.python.org/3/library/array.html | array — Efficient arrays of numeric values — Python 3.8.6rc1 documentation
@@ -161,11 +161,13 @@ https://docs.python.org/3/reference/lexical_analysis.html#f-strings
 Fibonacci series 
 https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
 
+
 1. Whetting Your Appetite
 https://docs.python.org/3/tutorial/appetite.html
 
 https://docs.python.org/3/tutorial/appendix.html
 https://docs.python.org/3/tutorial/appendix.html#appendix
+
 
 Unix
 https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
@@ -184,14 +186,12 @@ https://docs.python.org/3/library/constants.html#None
 
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
+
 https://docs.python.org/3/tutorial/stdlib.html
 10. Brief Tour of the Standard Library
 https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
 11. Brief Tour of the Standard Library — Part II
-https://docs.python.org/3/tutorial/stdlib2.html
-
-10. Brief Tour of the Standard Library
-https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
+https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
 
 10.1. Operating System Interface
 https://docs.python.org/3/library/os.html#module-os
@@ -200,9 +200,7 @@ https://docs.python.org/3/library/os.html#os.open
 https://docs.python.org/3/library/os.path.html#module-os.path
 https://docs.python.org/3/library/os.path.html#os.path.join
 https://docs.python.org/3/library/shutil.html#module-shutil
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-https://docs.python.org/3/library/glob.html#module-glob
+
 10.3. Command Line Arguments
 https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
 https://docs.python.org/3/library/sys.html#module-sys
@@ -216,32 +214,24 @@ https://docs.python.org/3/library/sys.html#sys.path
 10.5. String Pattern Matching
 https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
 https://docs.python.org/3/library/re.html#module-re
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+https://docs.python.org/3/library/glob.html#module-glob
+
 10.6. Mathematics
 https://docs.python.org/3/tutorial/stdlib.html#mathematics
 https://docs.python.org/3/library/random.html#module-random
-10.7. Internet Access
-https://docs.python.org/3/tutorial/stdlib.html#internet-access
-https://docs.python.org/3/library/urllib.request.html#module-urllib.request
-https://docs.python.org/3/library/smtplib.html#module-smtplib
+
 10.8. Dates and Times
 https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
 https://docs.python.org/3/library/datetime.html#module-datetime
-10.9. Data Compression
-https://docs.python.org/3/tutorial/stdlib.html#data-compression
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-https://docs.python.org/3/library/profile.html#module-profile
-https://docs.python.org/3/library/timeit.html#module-timeit
-https://docs.python.org/3/library/profile.html#module-pstats
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+10.7. Internet Access
+https://docs.python.org/3/tutorial/stdlib.html#internet-access
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+
 10.12. Batteries Included
-https://docs.python.org/3/tutorial/stdlib.html#batteries-included
-https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
-https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
-https://docs.python.org/3/library/email.html#module-email
-https://docs.python.org/3/library/smtplib.html#module-smtplib
-https://docs.python.org/3/library/poplib.html#module-poplib
 https://docs.python.org/3/library/json.html#module-json
 https://docs.python.org/3/library/csv.html#module-csv
 https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
@@ -249,30 +239,11 @@ https://docs.python.org/3/library/xml.dom.html#module-xml.dom
 https://docs.python.org/3/library/xml.sax.html#module-xml.sax
 https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
-11. Brief Tour of the Standard Library — Part II
-https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
-
 11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
 https://docs.python.org/3/library/functions.html#repr
 https://docs.python.org/3/library/pprint.html#module-pprint
-11.2. Templating
-https://docs.python.org/3/tutorial/stdlib2.html#templating
-https://docs.python.org/3/library/string.html#module-string
-https://docs.python.org/3/library/string.html#string.Template
-11.3. Working with Binary Data Record Layouts
-https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
-11.5. Logging
-https://docs.python.org/3/tutorial/stdlib2.html#logging
-https://docs.python.org/3/library/logging.html#module-logging
-11.6. Weak References
-https://docs.python.org/3/tutorial/stdlib2.html#weak-references
-https://docs.python.org/3/glossary.html#term-garbage-collection
+
 11.7. Tools for Working with Lists
 https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
 https://docs.python.org/3/library/array.html#module-array
@@ -283,6 +254,51 @@ https://docs.python.org/3/library/bisect.html#module-bisect
 https://docs.python.org/3/library/heapq.html#module-heapq
 11.8. Decimal Floating Point Arithmetic
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string.Template
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+https://docs.python.org/3/library/profile.html#module-profile
+https://docs.python.org/3/library/timeit.html#module-timeit
+https://docs.python.org/3/library/profile.html#module-pstats
+
+
+
+10.9. Data Compression
+https://docs.python.org/3/tutorial/stdlib.html#data-compression
+
+11.5. Logging
+https://docs.python.org/3/tutorial/stdlib2.html#logging
+https://docs.python.org/3/library/logging.html#module-logging
+
+11.3. Working with Binary Data Record Layouts
+https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
+11.6. Weak References
+https://docs.python.org/3/tutorial/stdlib2.html#weak-references
+https://docs.python.org/3/glossary.html#term-garbage-collection
+
+10.12. Batteries Included
+https://docs.python.org/3/tutorial/stdlib.html#batteries-included
+https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
+https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
+https://docs.python.org/3/library/email.html#module-email
+https://docs.python.org/3/library/poplib.html#module-poplib
+
+10.12. Batteries Included
+10.7. Internet Access
+https://docs.python.org/3/library/smtplib.html#module-smtplib
 
 
 ## Data Model
