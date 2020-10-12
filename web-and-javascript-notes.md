@@ -418,8 +418,11 @@ Wes Bos React Courses
 * [React for Beginners](https://reactforbeginners.com/)
 
 <!--
-https://github.com/wesbos/React-For-Beginners-Starter-Files
-https://github.com/wesbos/Advanced-React
+https://github.com/wesbos/React-For-Beginners-Starter-Files | wesbos/React-For-Beginners-Starter-Files: Starter files for learning React.js with React for Beginners
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://github.com/wesbos/Advanced-React | wesbos/Advanced-React: Starter Files and Solutions for Full Stack Advanced React and GraphQL
+https://github.com/wesbos/advanced-react-rerecord | wesbos/advanced-react-rerecord: Trying things out. Feel free to follow along
+https://github.com/wesbos/rona | wesbos/rona: React + Next + Hooks API
 
 https://glitch.com/~starter-react | Glitch
 https://reactjs.org/docs/getting-started.html | Getting Started – React
