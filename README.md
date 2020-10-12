@@ -2065,8 +2065,6 @@ https://developer.chrome.com/extensions/hosting
 https://code.visualstudio.com/docs/introvideos/configure
 https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
-
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
 -->
 
 
