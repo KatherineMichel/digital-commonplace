@@ -197,6 +197,11 @@ Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
 <!--
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
 https://learnxinyminutes.com/docs/yaml/
 http://www.yaml.org/refcard.html
 https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
