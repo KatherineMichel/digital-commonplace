@@ -279,22 +279,10 @@ https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQ
 
 https://twitter.com/rlconley/status/1312079736198385665
 
-https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
-https://github.com/pantsbuild/example-python
-
 Python 3.9
 https://twitter.com/PrasoonPratham/status/1313392420038483968
 
 https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
-
-https://github.com/jazzband | Jazzband
-https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
-
-https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
-https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
-
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
 
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
@@ -308,6 +296,9 @@ JSON, Black
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
 
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
 JS Scene
 Unit Tests/TDD
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
@@ -315,7 +306,16 @@ https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | 
 
 https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
 
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+
 https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
+
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
 
 https://www.w3.org/DesignIssues/Architecture.html
@@ -984,6 +984,14 @@ http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
+<!--
+https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
+https://github.com/pantsbuild/example-python
+
+https://github.com/jazzband | Jazzband
+https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
+-->
+
 ## Performance
 
 Python Time Complexity, Performance
@@ -1028,6 +1036,8 @@ https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 <!--
 Telemetry
 https://en.wikipedia.org/wiki/Telemetry
+https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
+
 https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
 
 
@@ -1050,6 +1060,95 @@ http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 
 https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+-->
+
+## Time Complexity and Optimization-Improvement Methods
+
+Improvement Methods
+* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
+* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
+* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
+
+Improvement Methods
+* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
+* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+
+<!--
+lines of code (loc) versus complexity
+
+https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
+
+https://en.wikipedia.org/wiki/Mathematical_optimization
+https://en.wikipedia.org/wiki/Computational_complexity_theory
+
+https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
+
+https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
+https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
+-->
+
+## General Big O Rules
+
+Big O Notation
+* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
+* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
+* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
+Linear versus Constant Time
+* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
+* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
+
+Big O Notation- Terminology
+* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
+* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
+
+<!--
+https://en.wikipedia.org/wiki/Asymptotic_analysis
+
+https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
+https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
+https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
+
+https://www.youtube.com/watch?v=duvZ-2UK0fc
+
+https://nedbatchelder.com/text/bigo.html
+Python Complexities
+https://nedbatchelder.com/text/bigo/bigo.html#13
+The Graph
+https://nedbatchelder.com/text/bigo/bigo.html#12
+Small Numbers
+https://nedbatchelder.com/text/bigo/bigo.html#17
+
+Trade-Offs
+https://nedbatchelder.com/text/bigo/bigo.html#14
+Slow/Fast
+https://nedbatchelder.com/text/bigo/bigo.html#15
+More Possibilities
+https://nedbatchelder.com/text/bigo/bigo.html#16
+
+https://nedbatchelder.com/text/slowsgrows.html
+https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
+
+https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
+https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
+https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
+
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
+-->
+
+<!--
+Analysis of Algorithms
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 -->
 
 ## Python- What's New
@@ -1144,8 +1243,6 @@ Handbooks
 Atlassian Team Playbook
 https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
 https://www.atlassian.com/team-playbook/examples
-
-https://developer.atlassian.com
 
 https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
 https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
@@ -1684,29 +1781,42 @@ David Beazley
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
 <!--
+https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
+
+https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
+https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
+
+Materials
+https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
+
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://github.com/JackMcKew/awesome-python-bytes
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+
+
 Projects
 https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
 https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 https://expressjs.com/ | Express - Node.js web application framework
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
 
 https://github.com/realpython/list-of-python-api-wrappers
 
-https://github.com/mozilla/flask-elasticsearch-skeleton
-
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
 
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://blog.repl.it/database | Repl.it - A database for every repl
 
-
-https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
-
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
-https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 
 
 Web Design
@@ -1729,7 +1839,9 @@ Recommendation
 https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
 
 Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
 https://css-tricks.com/learning-to-learn/
+
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 
@@ -1755,31 +1867,11 @@ https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-Materials
-https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
-
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://github.com/JackMcKew/awesome-python-bytes
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
-https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutshell, 2nd Edition [Book]
-
-https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
-https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
-
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
+https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 
@@ -1831,14 +1923,6 @@ https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-cou
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 
 
-Projects
-https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
-https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
-https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
-https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
-https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
-
-
 https://github.com/btholt
 https://github.com/kentcdodds/
 https://github.com/wesbos/
@@ -1846,14 +1930,18 @@ https://github.com/wesbos/
 https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
 https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
 https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/React-For-Beginners-Starter-Files | wesbos/React-For-Beginners-Starter-Files: Starter files for learning React.js with React for Beginners
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://github.com/wesbos/Advanced-React | wesbos/Advanced-React: Starter Files and Solutions for Full Stack Advanced React and GraphQL
-https://github.com/wesbos/advanced-react-rerecord | wesbos/advanced-react-rerecord: Trying things out. Feel free to follow along
-https://github.com/wesbos/rona | wesbos/rona: React + Next + Hooks API
 https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
 https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
+
+
+Projects
+https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
+https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
+https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
+https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
+https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
+
 -->
 
 ## Templates
@@ -1934,8 +2022,8 @@ https://github.com/upday/python-project-template | upday/python-project-template
 https://github.com/realpython/list-of-python-api-wrappers
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 
-https://github.com/api-evangelist
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/api-evangelist
 https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
 https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
@@ -2199,6 +2287,12 @@ https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line
 
 
 https://en.m.wikipedia.org/wiki/YAML
+-->
+
+## Data Science
+
+<!--
+https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
 -->
 
 ## Bots
@@ -2629,6 +2723,9 @@ Wagtail
 * [Wagtail](https://wagtail.io/)
 
 <!--
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
 https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
 -->
 
@@ -3533,6 +3630,8 @@ https://github.com/microservices/cli
 ## High Performance
 
 <!--
+https://developer.atlassian.com
+
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
 https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
@@ -3543,26 +3642,15 @@ https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-rep
 https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
 https://www.redhat.com/en/blog
 
 https://www.redhat.com/en/resources/digital-transformation-ebook
 https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
 
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-
 http://engineering.khanacademy.org/posts/engineering-principles.htm
 
 https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
 Richard Feynman 
-
-https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 -->
 
 
