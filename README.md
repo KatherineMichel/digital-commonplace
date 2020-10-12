@@ -226,7 +226,6 @@ https://github.com/crweiner/hacktoberfest-swag-list
 https://github.com/digitalocean/hacktoberfest
 
 
-
 https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
 https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
 
@@ -235,6 +234,15 @@ https://thestartingidea.com/personal-branding-guide/
 Brian
 https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
 https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
+
+Speaking
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
 
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -266,28 +274,6 @@ https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/wee
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 
-
-https://noumenal.es/posts/weeknotes-wk-40/PX/
-https://sqlite.org/mostdeployed.html
-https://simonwillison.net/2017/Oct/17/free-continuous-deployment/
-https://simonwillison.net/2020/Oct/9/git-scraping/
-https://github.com/simonw/ca-fires-history/blob/7b0f42d4bf198885ab2b41a22a8da47157572d18/.github/workflows/scrape.yml
-https://twitter.com/simonw/status/1314390555267219456
-https://twitter.com/di_codes/status/1314414096679403521
-https://twitter.com/simonw/status/1314654153646383104
-https://twitter.com/simonw/status/1313986116161134592
-https://twitter.com/simonw/status/1313673393690959872
-https://github.com/simonw/buildpack-datasette-demo
-
-GraphQL/Relay
-https://twitter.com/leogcrespo/status/1313091661556314114
-
-Tools
-https://twitter.com/kwuchu/status/1314286568362967041
-https://twitter.com/mscccc/status/1313668914283507712
-
-
-
 Django
 https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
 
@@ -313,7 +299,6 @@ https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
 
-
 https://www.w3.org/DesignIssues/Architecture.html
 
 https://andreasbm.github.io/web-skills/?compact | Web Skills
@@ -335,6 +320,15 @@ https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
 https://jvns.ca/blog/2013/12/27/guys-guys-guys/
 https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
+
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
 
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
@@ -414,11 +408,6 @@ https://djangobuilder.io/#/ | Django Builder
 
 
 https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-
-
-Fastmac
-https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
-https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
 
 
 https://github.com/wsvincent/awesome-django
@@ -1179,10 +1168,9 @@ Checklists and Cheat Sheets
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
 
 <!--
-https://martinfowler.com/articles/collection-pipeline/
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
-
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+
+https://martinfowler.com/articles/collection-pipeline/
 
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
@@ -1431,87 +1419,9 @@ https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 -->
 
 
-
-## Projects
-
 <!--
-https://popular-github-repos.github.io/
-https://github.com/popular-github-repos/popular-github-repos.github.io
-
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-Sarah
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-Chrome Extension
-https://github.com/sdras/productive-twitter/
-
-https://charliegerard.dev/blog/github-action-toxic-comments/
-https://github.com/charliegerard
-https://github.com/charliegerard/safe-space/
-https://github.com/charliegerard/safe-space/blob/master/index.js
-
-Paint
-https://github.com/muan
-https://github.com/muan/paint-github
-https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
-
-https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
-https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
-
-https://github.com/sw-yx/gh-action-data-scraping | sw-yx/gh-action-data-scraping: this shows how to use github actions to do periodic data scraping
-
 https://twitter.com/aicoding_/status/1295011129836568577
 https://github.com/coding-ai/eyeBlinkedTREX
-
-Mondrian
-https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
-
-https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
-
-Simon- 
-Self-Rewriting README, TIL
-Datasette
-Doc Unit Tests
-Release, Weeknotes
--->
-
-
-<!--
-https://github.com/akamhy/waybackpy
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
-https://github.com/PyBites-Open-Source/karmabot
-
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
-
-
-https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
-https://github.com/captainsafia/checklist
-https://github.com/paulirish/git-open | paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.
-
-https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
-https://github.com/sindresorhus/refined-github
-https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on Twitter: "Also, refined-github is *incredibly helpful* for the annoying "load more" github issue truncation and batch loading of only 50. https://t.co/vhvbfwLqEc will give you 200. https://t.co/2n9NqnSbzn" / Twitter
-
-
-
-Interesting
-https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
-https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
-https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
-https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-
-https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
-https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
-https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
-Twitter sentiment analysis
-https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
-
 
 
 GitHub Actions Examples
@@ -1525,6 +1435,101 @@ https://github.com/nektos/act
 
 GitHub
 https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
+-->
+
+
+
+## Projects
+
+<!--
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+
+GraphQL/Relay
+https://twitter.com/leogcrespo/status/1313091661556314114
+
+Tools
+https://twitter.com/kwuchu/status/1314286568362967041
+https://twitter.com/mscccc/status/1313668914283507712
+
+https://github.com/akamhy/waybackpy
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+https://github.com/PyBites-Open-Source/karmabot
+
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+
+
+
+
+https://popular-github-repos.github.io/
+https://github.com/popular-github-repos/popular-github-repos.github.io
+
+Interesting
+https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
+https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
+https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
+https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+
+Twitter Sentiment Analysis
+https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
+https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
+https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
+Twitter sentiment analysis
+https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
+
+Git Tools
+https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
+https://github.com/paulirish/git-open | paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.
+https://github.com/captainsafia/checklist
+https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
+https://github.com/sindresorhus/refined-github
+https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on Twitter: "Also, refined-github is *incredibly helpful* for the annoying "load more" github issue truncation and batch loading of only 50. https://t.co/vhvbfwLqEc will give you 200. https://t.co/2n9NqnSbzn" / Twitter
+
+Data Scraping
+https://github.com/sw-yx/gh-action-data-scraping | sw-yx/gh-action-data-scraping: this shows how to use github actions to do periodic data scraping
+
+README.md
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+Jeff
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+Sarah
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
+
+Safe Space
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+Paint
+https://github.com/muan
+https://github.com/muan/paint-github
+https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
+
+SpotHub
+https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
+https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
+
+Mondrian
+https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
+
+Tweet DM Button
+https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
+
+Simon- 
+Self-Rewriting README, TIL
+Datasette
+Doc Unit Tests
+Release, Weeknotes
 -->
 
 
@@ -1603,6 +1608,8 @@ https://vuejs.org/v2/guide/ | Introduction — Vue.js
 
 https://github.com/realpython/list-of-python-api-wrappers
 
+https://github.com/mozilla/flask-elasticsearch-skeleton
+
 https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
 https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
@@ -1663,13 +1670,6 @@ https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
 
 
-https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
-
-Learning
-https://medium.com/basecs | basecs – Medium
-https://www.codenewbie.org/basecs
-https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
-
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 
@@ -1689,19 +1689,13 @@ https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutsh
 https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
 https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
 
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
-https://nostarch.com/beyond-basic-stuff-python
-
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-No Starch
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
 
 Templates
@@ -2002,7 +1996,6 @@ https://github.com/jambonsw/django-improved-user
 
 https://github.com/lincolnloop/django-alive
 
-https://github.com/mozilla/flask-elasticsearch-skeleton
 https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
 
 Feature Flags
@@ -2254,9 +2247,10 @@ https://github.com/requests/requests-threads | requests/requests-threads: 🎭 T
 
 http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
 
-
+urllib3
 https://urllib3.readthedocs.io/en/latest/
 https://github.com/urllib3/urllib3
+https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
 
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 
@@ -2685,6 +2679,55 @@ Polymer (See also Facebook React)
 * [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
 
 
+<!--
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+Node Tutorials
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+<!--
+Node Docs
+
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+Playwright
+https://github.com/jsdom/jsdom
+
+https://github.com/ruyadorno/ipt
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+-->
+
+<!--
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+-->
+
 ## Python Syntax and Python Versus JavaScript
 
 ## Python and JavaScript
@@ -2977,56 +3020,6 @@ Guide to Web APIs
 https://developer.mozilla.org/en-US/docs/Web/Guide/API
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
--->
-
-<!--
-https://reactjs.org/docs/react-dom.html
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-Node Tutorials
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-<!--
-Node Docs
-
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-Playwright
-https://github.com/jsdom/jsdom
-
-https://github.com/ruyadorno/ipt
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://nodejs.org/api/modules.html | Modules | Node.js v11.10.0 Documentation
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
--->
-
-<!--
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 -->
 
 <!--
