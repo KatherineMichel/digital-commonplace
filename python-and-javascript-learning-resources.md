@@ -1,6 +1,13 @@
 # Python and JavaScript Learning Resources
 
 <!--
+https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
+
+Learning
+https://medium.com/basecs | basecs – Medium
+https://www.codenewbie.org/basecs
+https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
+
 https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
 
 https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
