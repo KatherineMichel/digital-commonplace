@@ -299,6 +299,15 @@ https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
 
+JSON
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
+
+
 https://www.w3.org/DesignIssues/Architecture.html
 
 https://andreasbm.github.io/web-skills/?compact | Web Skills
@@ -1373,7 +1382,7 @@ Django, GitHub, SQL
 * [Simon Willison](https://static.simonwillison.net)
 
 Women Who Inspire Me
-* [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
 * [Cassidy Williams](https://cassidoo.co/)
 * [Jessica Garson GitHub](https://github.com/JessicaGarson)
 * [Nina Zakharenko Twitter](https://twitter.com/nnja)
@@ -1390,8 +1399,6 @@ Product
 <!--
 Lorena
 Mariatta
-
-https://github.com/sdras
 
 https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
@@ -2242,6 +2249,7 @@ https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#
 Requests
 https://twitter.com/mitsuhiko/status/1174577922172248064
 
+https://pypi.org/project/requests/ | requests · PyPI
 https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
 https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
@@ -2266,6 +2274,40 @@ https://github.com/kennethreitz/background | kennethreitz/background: Runs thing
 https://github.com/kennethreitz/homebrew-pythons
 -->
 
+## Web Scraping
+
+<!--
+https://realpython.com/python-web-scraping-practical-introduction/
+
+https://www.crummy.com/software/BeautifulSoup/
+https://pypi.org/project/beautifulsoup4/
+
+https://scrapy.org/
+https://github.com/scrapy/scrapy
+-->
+
+## API Tools
+
+<!--
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
+
+https://www.thepythoncode.com/article/using-github-api-in-python
+
+Python API Tools
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+
+Twython
+https://github.com/ryanmcgrath/twython
+https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
+
+Tweepy
+http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
+http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+-->
+
 ## Command Line
 
 * [Click GitHub](https://github.com/pallets/click)
@@ -2274,18 +2316,31 @@ https://github.com/kennethreitz/homebrew-pythons
 <!--
 https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
 https://github.com/MasterOdin/crayons
+
+Click
 https://click.palletsprojects.com/en/7.x/ | Welcome to Click — Click Documentation (7.x)
+https://github.com/click-contrib | click-contrib
+https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 
 Typer
 https://typer.tiangolo.com/ | Typer
 
 https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
 https://github.com/google/python-fire
+-->
 
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
+## Images
+
+<!--
+https://www.pyimagesearch.com/ | PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
+
+Pillow
+https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
 -->
 
 ## Graphical User Interface (GUI)
@@ -2334,47 +2389,6 @@ SpatiaLite (Spatial Database Extender for SQLite)
 * [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
 * [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
 
-
-## Images
-
-<!--
-https://www.pyimagesearch.com/ | PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
-
-
-Requests
-https://pypi.org/project/requests/ | requests · PyPI
-https://www.thepythoncode.com/article/using-github-api-in-python
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
-
-Python API Tools
-https://realpython.com/python-web-scraping-practical-introduction/
-https://scrapy.org/
-https://github.com/scrapy/scrapy
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-
-https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
-http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-Pillow
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
-
-Black
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-JSON, Black
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
--->
 
 
 ## Jargon, Algorithms, and Patterns
