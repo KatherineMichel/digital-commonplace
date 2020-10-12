@@ -538,29 +538,55 @@ https://docs.python.org/3/library/dataclasses.html#exceptions
 
 ## Utilities
 
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-https://docs.python.org/3/library/time.html#functions
-https://docs.python.org/3/library/time.html#clock-id-constants
-https://docs.python.org/3/library/time.html#timezone-constants
+https://stackoverflow.com/questions/2018026/what-are-the-differences-between-the-urllib-urllib2-urllib3-and-requests-modul
 
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-https://docs.python.org/3/library/datetime.html#available-types
-https://docs.python.org/3/library/datetime.html#timedelta-objects
-https://docs.python.org/3/library/datetime.html#date-objects
-https://docs.python.org/3/library/datetime.html#datetime-objects
-https://docs.python.org/3/library/datetime.html#time-objects
-https://docs.python.org/3/library/datetime.html#tzinfo-objects
-https://docs.python.org/3/library/datetime.html#timezone-objects
-https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+HOWTO Fetch Internet Resources Using The urllib Package
+https://docs.python.org/3/howto/urllib2.html
 
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
+22.5. urllib — URL handling modules
+22.6. urllib.request — Extensible library for opening URLs
+22.7. urllib.response — Response classes used by urllib
+22.8. urllib.parse — Parse URLs into components
+22.9. urllib.error — Exception classes raised by urllib.request
+22.10. urllib.robotparser — Parser for robots.txt
 
-6. Text Processing Services
-https://docs.python.org/3/library/text.html
+https://docs.python.org/3/library/urllib.html
+https://docs.python.org/3/library/urllib.request.html
+https://docs.python.org/3/library/urllib.request.html#request-objects
+https://docs.python.org/3/library/urllib.request.html#openerdirector-objects
+https://docs.python.org/3/library/urllib.request.html#basehandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpredirecthandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpcookieprocessor-objects
+https://docs.python.org/3/library/urllib.request.html#proxyhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httppasswordmgr-objects
+https://docs.python.org/3/library/urllib.request.html#httppasswordmgrwithpriorauth-objects
+https://docs.python.org/3/library/urllib.request.html#abstractbasicauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpbasicauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#proxybasicauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#abstractdigestauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpdigestauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#proxydigestauthhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httphandler-objects
+https://docs.python.org/3/library/urllib.request.html#httpshandler-objects
+https://docs.python.org/3/library/urllib.request.html#filehandler-objects
+https://docs.python.org/3/library/urllib.request.html#datahandler-objects
+https://docs.python.org/3/library/urllib.request.html#ftphandler-objects
+https://docs.python.org/3/library/urllib.request.html#cacheftphandler-objects
+https://docs.python.org/3/library/urllib.request.html#unknownhandler-objects
+https://docs.python.org/3/library/urllib.request.html#httperrorprocessor-objects
+https://docs.python.org/3/library/urllib.request.html#examples
+https://docs.python.org/3/library/urllib.request.html#legacy-interface
+https://docs.python.org/3/library/urllib.request.html#urllib-request-restrictions
+https://docs.python.org/3/library/urllib.request.html#module-urllib.response
 
+https://docs.python.org/3/library/urllib.parse.html
+https://docs.python.org/3/library/urllib.parse.html#url-parsing
+https://docs.python.org/3/library/urllib.parse.html#parsing-ascii-encoded-bytes
+https://docs.python.org/3/library/urllib.parse.html#structured-parse-results
+https://docs.python.org/3/library/urllib.parse.html#url-quoting
+
+https://docs.python.org/3/library/urllib.error.html#module-urllib.error
+https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
 
 7. Input and Output
 https://docs.python.org/3/tutorial/inputoutput.html
@@ -573,29 +599,9 @@ https://docs.python.org/3/library/site.html
 https://docs.python.org/3/library/site.html#readline-configuration
 https://docs.python.org/3/library/site.html#module-contents
 
-22.1. webbrowser — Convenient Web-browser controller
-
-https://docs.python.org/3/library/webbrowser.html
-https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
-
-22.11. http — HTTP modules
-22.12. http.client — HTTP protocol client
-
-22.22. http.server — HTTP servers
 22.23. http.cookies — HTTP state management
 22.24. http.cookiejar — Cookie handling for HTTP clients
 
-https://docs.python.org/3/library/http.html
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://docs.python.org/3/library/http.client.html
-https://docs.python.org/3/library/http.client.html#httpconnection-objects
-https://docs.python.org/3/library/http.client.html#httpresponse-objects
-https://docs.python.org/3/library/http.client.html#examples
-https://docs.python.org/3/library/http.client.html#httpmessage-objects
-
-https://docs.python.org/3/library/http.server.html
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookies.html#cookie-objects
 https://docs.python.org/3/library/http.cookies.html#morsel-objects
@@ -695,61 +701,6 @@ https://docs.python.org/3/library/mailbox.html#mmdfmessage
 https://docs.python.org/3/library/mailbox.html#exceptions
 https://docs.python.org/3/library/mailbox.html#examples
 
-21. Internet Protocols and Support
-
-21.11. http — HTTP modules
-19.2. json — JSON encoder and decoder
-7.2.2. Saving structured data with json
-
-https://docs.python.org/3/library/http.server.html
-https://docs.python.org/3/library/http.html
-https://docs.python.org/3/library/json.html
-https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
-
-20.2. json — JSON encoder and decoder
-
-https://docs.python.org/3/library/json.html
-
-https://docs.python.org/3/library/json.html#basic-usage
-https://docs.python.org/3/library/json.html#encoders-and-decoders
-https://docs.python.org/3/library/json.html#exceptions
-https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
-https://docs.python.org/3/library/json.html#character-encodings
-https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
-https://docs.python.org/3/library/json.html#repeated-names-within-an-object
-https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
-https://docs.python.org/3/library/json.html#implementation-limitations
-https://docs.python.org/3/library/json.html#module-json.tool
-https://docs.python.org/3/library/json.html#command-line-options
-
-21. Structured Markup Processing Tools
-21.1. html — HyperText Markup Language support
-21.2. html.parser — Simple HTML and XHTML parser
-21.3. html.entities — Definitions of HTML general entities
-
-https://docs.python.org/3/library/markup.html
-https://docs.python.org/3/library/html.html
-
-https://docs.python.org/3/library/html.parser.html
-https://docs.python.org/3/library/html.parser.html#example-html-parser-application
-https://docs.python.org/3/library/html.parser.html#htmlparser-methods
-https://docs.python.org/3/library/html.parser.html#examples
-https://docs.python.org/3/library/html.entities.html
-
-14. File Formats
-https://docs.python.org/3/library/fileformats.html
-
-14.1. csv — CSV File Reading and Writing
-https://docs.python.org/3/library/csv.html
-https://docs.python.org/3/library/csv.html#module-contents
-https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
-https://docs.python.org/3/library/csv.html#reader-objects
-https://docs.python.org/3/library/csv.html#writer-objects
-https://docs.python.org/3/library/csv.html#examples
-
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
-
 11.3. fileinput — Iterate over lines from multiple input streams
 11.5. filecmp — File and Directory Comparisons
 11.6. tempfile — Generate temporary files and directories
@@ -771,10 +722,6 @@ https://docs.python.org/3/library/fnmatch.html
 https://docs.python.org/3/library/linecache.html
 
 https://docs.python.org/3/library/macpath.html
-
-36.10. pipes — Interface to shell pipelines
-https://docs.python.org/3/library/pipes.html
-https://docs.python.org/3/library/pipes.html#template-objects
 
 
 15.3. secrets — Generate secure random numbers for managing secrets
