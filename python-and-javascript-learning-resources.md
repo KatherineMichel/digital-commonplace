@@ -1,14 +1,20 @@
 # Python and JavaScript Learning Resources
 
 <!--
-https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
+https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
+
+http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
+https://www.oreilly.com/library/view/python-in-a/0596100469/ | Python in a Nutshell, 2nd Edition [Book]
+
+https://learn-to-code.workshop.aws/ | Learn Python On AWS Workshop :: Learn Python on AWS
+https://www.freecodecamp.org/news/python-curriculum-is-live/ | Python Certifications are Now Live, and Other freeCodeCamp Version 7.0 Curriculum Updates
+
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
 Learning
 https://medium.com/basecs | basecs – Medium
 https://www.codenewbie.org/basecs
 https://changelog.com/news/linked-lists-a-basecs-video-series-qPe
-
-https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
 
 https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code | PEP-8 Tutorial: Code Standards in Python (article) - DataCamp
 
