@@ -8,10 +8,10 @@ JS Tools
 https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.
-https://github.com/puppeteer/puppeteer
-https://github.com/microsoft/playwright-python
 
+https://github.com/puppeteer/puppeteer
 Playwright
+https://github.com/microsoft/playwright-python
 https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
@@ -420,13 +420,14 @@ Wes Bos React Courses
 <!--
 https://github.com/wesbos/React-For-Beginners-Starter-Files
 https://github.com/wesbos/Advanced-React
--->
 
-<!--
 https://glitch.com/~starter-react | Glitch
 https://reactjs.org/docs/getting-started.html | Getting Started – React
 https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
 https://reactnative.dev/docs/getting-started
+
+https://reactjs.org/docs/react-dom.html
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
 
 https://web.dev/react
 https://web.dev/angular
