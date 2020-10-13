@@ -4,12 +4,6 @@
 https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 
-https://riscv.org/ | RISC-V International
-https://en.wikipedia.org/wiki/Active_Directory
-https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
-https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
-https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
-
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 Authenticate bearer
@@ -714,6 +708,12 @@ Instruction Set (CPU)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 <!--
+https://riscv.org/ | RISC-V International
+https://en.wikipedia.org/wiki/Active_Directory
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
+https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
+https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
+
 https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
 https://en.wikipedia.org/wiki/X86_instruction_listings
 
