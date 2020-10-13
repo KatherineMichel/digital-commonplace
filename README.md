@@ -1038,6 +1038,8 @@ https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 ## Python Profiling
 
 <!--
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+
 Telemetry
 https://en.wikipedia.org/wiki/Telemetry
 https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
@@ -1057,7 +1059,6 @@ https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | 
 
 https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
 https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
 http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
 
 
@@ -1765,6 +1766,66 @@ https://www.toptal.com/python/python-design-patterns
 -->
 
 
+## Automate the Boring Stuff with Python
+
+<!--
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+-->
+
+## Dave
+
+<!--
+https://github.com/KatherineMichel/practical-python
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+-->
+
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+## JavaScript 30
+
+<!--
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+
+arrow function
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
+
+https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+-->
+
+
 ## Useful Learning Resources
 
 Practice
@@ -2292,6 +2353,42 @@ https://en.m.wikipedia.org/wiki/YAML
 -->
 
 ## Data Science
+
+Python- Statistics Stack- iPython and Jupyter
+* [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
+* [Jupyter](http://jupyter.org)
+
+Python- Statistics Stack- NumPy 
+* [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
+* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
+
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
+
+Python- Statistics Stack- Scikit-Learn
+* [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
+
+Python- Statistics Stack- Pandas
+* [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
+
+Python- Statistics Stack- MatPlotLib
+* [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html) 
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html) 
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)
+
+Python- Statistics Stack- SymPy (Symbolic Mathematics)
+* [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
+
+Python- Statistics Stack- StatsModel
+* [StatsModel](http://www.statsmodels.org/stable/index.html) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Gallery](http://www.statsmodels.org/stable/examples/index.html)  
+
+Python- Statistics Stack- GGPlot
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
 
 <!--
 https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
