@@ -264,6 +264,10 @@ https://www.freecodecamp.com/challenges/stand-in-line
 
 https://github.com/realpython/
 
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
 https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
 https://en.wikipedia.org/wiki/Recursion
 https://realpython.com/python-thinking-recursively/
