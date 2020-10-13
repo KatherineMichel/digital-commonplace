@@ -21,12 +21,22 @@ https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN We
 -->
 
 <!--
+1.2. Notation
+https://docs.python.org/3/reference/introduction.html#notation
+
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
+<!--
+https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
+
 negative indexes python - Google Search
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
 
 Coding problems
 https://docs.python.org/3/library/string.html | string — Common string operations — Python 3.10.0a0 documentation
@@ -59,18 +69,6 @@ https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8.
 
 https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
 
-https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
-https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
-
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-
-https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
-
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
-
-https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
-
 https://docs.python.org/3/library/functions.html#built-in-funcs
 https://docs.python.org/3/library/constants.html#built-in-consts
 
@@ -82,6 +80,9 @@ https://docs.python.org/3/library/filesys.html | File and Directory Access — P
 
 Super
 https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 
 Use Often
 https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
@@ -100,11 +101,6 @@ Regular expression
 https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
 https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
 https://docs.python.org/3/library/re.html#module-re | re — Regular expression operations — Python 3.8.6rc1 documentation
-
-urllib
-https://docs.python.org/3/library/urllib.request.html
-https://docs.python.org/3/library/urllib.parse.html
-https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
 -->
 
 ## Strings
@@ -119,34 +115,14 @@ strip()
 
 <!--
 String methods
-https://docs.python.org/3.7/library/stdtypes.html#string-methods
+https://docs.python.org/3/library/stdtypes.html#string-methods
 
-https://docs.python.org/3.7/library/stdtypes.html#str.lstrip
-https://docs.python.org/3.7/library/stdtypes.html#str.rstrip
-https://docs.python.org/3.7/library/stdtypes.html#str.strip
+https://docs.python.org/3/library/stdtypes.html#str.lstrip
+https://docs.python.org/3/library/stdtypes.html#str.rstrip
+https://docs.python.org/3/library/stdtypes.html#str.strip
 -->
 
 <!--
-## General Links
-
-https://docs.python.org/3/glossary.html
-
-https://docs.python.org/3/contents.html
-https://docs.python.org/3/genindex.html
-https://docs.python.org/3/py-modindex.html
-
-https://docs.python.org/2/howto/doanddont.html
-
-https://docs.python.org/3/reference/index.html
-https://docs.python.org/3/reference/introduction.html
-
-https://docs.python.org/3/library
-https://docs.python.org/3/library/index.html
-https://docs.python.org/3/library/intro.html
-
-13. What Now?
-https://docs.python.org/3/tutorial/whatnow.html#what-now
-
 ## Tutorial
 
 3. An Informal Introduction to Python
@@ -156,17 +132,10 @@ https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculato
 https://docs.python.org/3/tutorial/introduction.html#numbers
 https://docs.python.org/3/tutorial/introduction.html#strings
 https://docs.python.org/3/library/stdtypes.html#textseq
-https://docs.python.org/3/library/stdtypes.html#string-methods
 https://docs.python.org/3/reference/lexical_analysis.html#f-strings
 Fibonacci series 
 https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
 
-
-1. Whetting Your Appetite
-https://docs.python.org/3/tutorial/appetite.html
-
-https://docs.python.org/3/tutorial/appendix.html
-https://docs.python.org/3/tutorial/appendix.html#appendix
 
 
 Unix
@@ -187,19 +156,21 @@ https://docs.python.org/3/library/constants.html#None
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
 
-https://docs.python.org/3/tutorial/stdlib.html
-10. Brief Tour of the Standard Library
-https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
-11. Brief Tour of the Standard Library — Part II
-https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
-
 10.1. Operating System Interface
 https://docs.python.org/3/library/os.html#module-os
 https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+File
+https://docs.python.org/3/library/os.html#file-object-creation
 https://docs.python.org/3/library/os.html#os.open
+https://docs.python.org/3/library/functions.html#open
+https://docs.python.org/3/library/fileinput.html#module-fileinput
+https://docs.python.org/3/library/tempfile.html#module-tempfile
+https://docs.python.org/3/library/shutil.html#module-shutil
+
+Path
 https://docs.python.org/3/library/os.path.html#module-os.path
 https://docs.python.org/3/library/os.path.html#os.path.join
-https://docs.python.org/3/library/shutil.html#module-shutil
 
 10.3. Command Line Arguments
 https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
@@ -227,16 +198,9 @@ https://docs.python.org/3/library/random.html#module-random
 https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
 https://docs.python.org/3/library/datetime.html#module-datetime
 
-10.7. Internet Access
-https://docs.python.org/3/tutorial/stdlib.html#internet-access
-https://docs.python.org/3/library/urllib.request.html#module-urllib.request
-
 10.12. Batteries Included
 https://docs.python.org/3/library/json.html#module-json
 https://docs.python.org/3/library/csv.html#module-csv
-https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
-https://docs.python.org/3/library/xml.dom.html#module-xml.dom
-https://docs.python.org/3/library/xml.sax.html#module-xml.sax
 https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
 11.1. Output Formatting
@@ -274,31 +238,9 @@ https://docs.python.org/3/library/profile.html#module-profile
 https://docs.python.org/3/library/timeit.html#module-timeit
 https://docs.python.org/3/library/profile.html#module-pstats
 
-
-
-10.9. Data Compression
-https://docs.python.org/3/tutorial/stdlib.html#data-compression
-
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
-
-11.3. Working with Binary Data Record Layouts
-https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
-11.6. Weak References
-https://docs.python.org/3/tutorial/stdlib2.html#weak-references
-https://docs.python.org/3/glossary.html#term-garbage-collection
-
-10.12. Batteries Included
-https://docs.python.org/3/tutorial/stdlib.html#batteries-included
-https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
-https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
-https://docs.python.org/3/library/email.html#module-email
-https://docs.python.org/3/library/poplib.html#module-poplib
-
-10.12. Batteries Included
-10.7. Internet Access
-https://docs.python.org/3/library/smtplib.html#module-smtplib
 
 
 ## Data Model
