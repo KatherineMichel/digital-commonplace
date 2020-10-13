@@ -788,15 +788,6 @@ https://docs.python.org/3/library/csv.html#examples
 11.4. stat — Interpreting stat() results
 https://docs.python.org/3/library/stat.html
 
-36.10. pipes — Interface to shell pipelines
-https://docs.python.org/3/library/pipes.html
-https://docs.python.org/3/library/pipes.html#template-objects
-
-22.1. webbrowser — Convenient Web-browser controller
-
-https://docs.python.org/3/library/webbrowser.html
-https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
-
 22.11. http — HTTP modules
 22.12. http.client — HTTP protocol client
 22.22. http.server — HTTP servers
@@ -817,6 +808,15 @@ https://docs.python.org/3/library/http.server.html
 
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
+
+Template
+36.10. pipes — Interface to shell pipelines
+https://docs.python.org/3/library/pipes.html
+https://docs.python.org/3/library/pipes.html#template-objects
+
+22.1. webbrowser — Convenient Web-browser controller
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
 
 
 ## CGI and WSGI
