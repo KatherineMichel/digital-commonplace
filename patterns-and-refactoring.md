@@ -34,15 +34,6 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 http://users.ece.utexas.edu/~adnan/pike.html
 -->
 
-## Architectures
-
-Architectures
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-
-Hawt
-* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-
 ## Software Design Patterns
 
 Design Patterns- General
@@ -284,14 +275,14 @@ Structural Patterns (relationships among entities)
 * [Adapter Pattern Wikipedia](https://en.wikipedia.org/wiki/Adapter_pattern)
 * [Bridge Pattern Wikipedia](https://en.wikipedia.org/wiki/Bridge_pattern)
 * [Composite Pattern Wikipedia](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Decorator Pattern (similar to Chain of Responsibility Pattern; implements Single Responsibility Principal) Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
 * [Facade Pattern Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
 * [Flyweight Pattern Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)
 * [Proxy Pattern Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)
 
+Structural Patterns (relationships among entities)- Familiar
+* [Decorator Pattern (similar to Chain of Responsibility Pattern; implements Single Responsibility Principal) Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
+
 Behavioral Patterns
-* [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Chain-of-Responsibility Pattern (similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 * [Command Pattern Wikipedia](https://en.wikipedia.org/wiki/Command_pattern)
 * [Interpreter Pattern Wikipedia](https://en.wikipedia.org/wiki/Interpreter_pattern)
 * [Mediator Pattern Wikipedia](https://en.wikipedia.org/wiki/Mediator_pattern)
@@ -300,6 +291,10 @@ Behavioral Patterns
 * [Strategy Pattern Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
 * [Template Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
 * [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern)
+
+Behavioral Patterns- Familiar
+* [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Chain-of-Responsibility Pattern (handler, similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
 Behavioral Patterns- Built into Python
 * [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
