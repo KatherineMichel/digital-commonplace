@@ -35,6 +35,58 @@ https://docs.python.org/3/library/test.html#running-tests-using-the-command-line
 https://docs.python.org/3/library/test.html#module-test.support
 https://docs.python.org/3/library/test.html#module-test.support.script_helper
 
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+https://docs.python.org/3/library/platform.html#cross-platform
+https://docs.python.org/3/library/platform.html#java-platform
+https://docs.python.org/3/library/platform.html#windows-platform
+https://docs.python.org/3/library/platform.html#mac-os-platform
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/library/os.html#file-names-command-line-arguments-and-environment-variables
+https://docs.python.org/3/library/os.html#process-parameters
+https://docs.python.org/3/library/os.html#file-object-creation
+https://docs.python.org/3/library/os.html#file-descriptor-operations
+https://docs.python.org/3/library/os.html#querying-the-size-of-a-terminal
+https://docs.python.org/3/library/os.html#inheritance-of-file-descriptors
+https://docs.python.org/3/library/os.html#files-and-directories
+https://docs.python.org/3/library/os.html#linux-extended-attributes
+https://docs.python.org/3/library/os.html#process-management
+https://docs.python.org/3/library/os.html#interface-to-the-scheduler
+https://docs.python.org/3/library/os.html#miscellaneous-system-information
+https://docs.python.org/3/library/os.html#random-numbers
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+https://docs.python.org/3/library/sysconfig.html#configuration-variables
+https://docs.python.org/3/library/sysconfig.html#installation-paths
+https://docs.python.org/3/library/sysconfig.html#other-functions
+https://docs.python.org/3/library/sysconfig.html#using-sysconfig-as-a-script
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+
+https://docs.python.org/3/library/pathlib.html#basic-use
+https://docs.python.org/3/library/pathlib.html#pure-paths
+https://docs.python.org/3/library/pathlib.html#general-properties
+https://docs.python.org/3/library/pathlib.html#operators
+https://docs.python.org/3/library/pathlib.html#accessing-individual-parts
+https://docs.python.org/3/library/pathlib.html#methods-and-properties
+https://docs.python.org/3/library/pathlib.html#concrete-paths
+https://docs.python.org/3/library/pathlib.html#methods
+chart
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+https://docs.python.org/3/library/shutil.html#directory-and-files-operations
+https://docs.python.org/3/library/shutil.html#copytree-example
+https://docs.python.org/3/library/shutil.html#rmtree-example
+https://docs.python.org/3/library/shutil.html#archiving-operations
+https://docs.python.org/3/library/shutil.html#archiving-example
+https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
