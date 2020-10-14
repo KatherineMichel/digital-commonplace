@@ -72,7 +72,6 @@ https://docs.python.org/3/library/functions.html | Built-in Functions — Python
 https://docs.python.org/3/library/functions.html#built-in-funcs
 https://docs.python.org/3/library/constants.html#built-in-consts
 
-https://docs.python.org/3/library/sys.html#sys.path | sys — System-specific parameters and functions — Python 3.8.6 documentation
 https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
 https://docs.python.org/3/library/os.path.html#os.path.join
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
@@ -293,6 +292,7 @@ https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedi
 https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
 11.7. glob — Unix style pathname pattern expansion
 https://docs.python.org/3/library/glob.html
+https://docs.python.org/3/library/fnmatch.html
 
 10.12. Batteries Included
 https://docs.python.org/3/library/json.html#module-json
