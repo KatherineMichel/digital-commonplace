@@ -7,8 +7,6 @@ dir()
 https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
 
 
-https://docs.python.org/3.10/library/unittest.mock.html | unittest.mock — mock object library — Python 3.10.0a0 documentation
-
 https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
 https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
@@ -219,10 +217,6 @@ https://docs.python.org/3/library/heapq.html#module-heapq
 11.8. Decimal Floating Point Arithmetic
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
-11.2. Templating
-https://docs.python.org/3/tutorial/stdlib2.html#templating
-https://docs.python.org/3/library/string.html#module-string
-https://docs.python.org/3/library/string.html#string.Template
 11.4. Multi-threading
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
 https://docs.python.org/3/library/threading.html#module-threading
@@ -234,6 +228,14 @@ https://docs.python.org/3/tutorial/stdlib.html#quality-control
 
 10.10. Performance Measurement
 https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+
+28.4. The Python Profilers
+28.5. timeit — Measure execution time of small code snippets
+28.6. trace — Trace or track Python statement execution
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/trace.html
+
 https://docs.python.org/3/library/profile.html#module-profile
 https://docs.python.org/3/library/timeit.html#module-timeit
 https://docs.python.org/3/library/profile.html#module-pstats
@@ -454,17 +456,10 @@ https://pypi.org/project/ipdb/ | ipdb · PyPI
 28. Debugging and Profiling
 28.3. pdb — The Python Debugger
 28.1. bdb — Debugger framework
-28.4. The Python Profilers
-28.5. timeit — Measure execution time of small code snippets
-28.6. trace — Trace or track Python statement execution
 
 https://docs.python.org/3/library/debug.html
 
 https://docs.python.org/3/library/pdb.html#debugger-commands
-
-https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/timeit.html
-https://docs.python.org/3/library/trace.html
 
 29.9. traceback — Print or retrieve a stack traceback
 https://docs.python.org/3/library/traceback.html
@@ -562,6 +557,8 @@ https://docs.python.org/3/library/sysconfig.html
 
 11.1. pathlib — Object-oriented filesystem paths
 https://docs.python.org/3/library/pathlib.html
+
+Interesting
 https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
 
 11.10. shutil — High-level file operations
@@ -774,15 +771,6 @@ https://docs.python.org/3/library/http.server.html
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
 
-Template
-36.10. pipes — Interface to shell pipelines
-https://docs.python.org/3/library/pipes.html
-https://docs.python.org/3/library/pipes.html#template-objects
-
-22.1. webbrowser — Convenient Web-browser controller
-https://docs.python.org/3/library/webbrowser.html
-https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
-
 
 ## CGI and WSGI
 
@@ -879,7 +867,6 @@ https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
 https://docs.python.org/3/library/unittest.html#signal-handling
 
 unittest.mock patch
-
 https://docs.python.org/3/library/unittest.mock.html
 https://docs.python.org/3/library/unittest.mock.html#quick-guide
 https://docs.python.org/3/library/unittest.mock.html#the-mock-class
