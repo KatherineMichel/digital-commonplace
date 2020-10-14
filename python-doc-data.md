@@ -159,9 +159,6 @@ https://docs.python.org/3/library/fileinput.html#module-fileinput
 https://docs.python.org/3/library/tempfile.html#module-tempfile
 https://docs.python.org/3/library/shutil.html#module-shutil
 
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
 
 
 https://docs.python.org/3/library/allos.html
@@ -195,6 +192,9 @@ https://docs.python.org/3/library/sys.html#sys.path
 https://docs.python.org/3/library/sys.html#sys.stdin
 https://docs.python.org/3/library/sys.html#sys.stdout
 https://docs.python.org/3/library/sys.html#sys.stderr
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
 
 30.2. sysconfig — Provide access to Python’s configuration information
 https://docs.python.org/3/library/sysconfig.html
@@ -445,17 +445,6 @@ https://docs.python.org/3/library/text.html
 Unicode HOWTO
 https://docs.python.org/3/howto/unicode.html
 
-22.5. urllib — URL handling modules
-22.6. urllib.request — Extensible library for opening URLs
-22.7. urllib.response — Response classes used by urllib
-22.8. urllib.parse — Parse URLs into components
-
-https://docs.python.org/3/library/urllib.html
-https://docs.python.org/3/library/urllib.request.html
-https://docs.python.org/3/library/urllib.parse.html
-
-"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
-
 
 21. Structured Markup Processing Tools
 21.1. html — HyperText Markup Language support
@@ -508,27 +497,31 @@ https://docs.python.org/3/library/json.html#module-json.tool
 https://docs.python.org/3/library/json.html#command-line-options
 
 
-22.11. http — HTTP modules
-22.12. http.client — HTTP protocol client
 22.22. http.server — HTTP servers
 22.23. http.cookies — HTTP state management
 22.24. http.cookiejar — Cookie handling for HTTP clients
-
-https://docs.python.org/3/library/http.html
 
 Not recommended for production
 https://docs.python.org/3/library/http.server.html
 
 https://docs.python.org/3/library/http.html#http-status-codes
 
-https://docs.python.org/3/library/http.client.html
-https://docs.python.org/3/library/http.client.html#httpconnection-objects
-https://docs.python.org/3/library/http.client.html#httpresponse-objects
-https://docs.python.org/3/library/http.client.html#examples
-https://docs.python.org/3/library/http.client.html#httpmessage-objects
+https://requests.readthedocs.io/en/master/
 
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
+
+
+22.5. urllib — URL handling modules
+22.6. urllib.request — Extensible library for opening URLs
+22.7. urllib.response — Response classes used by urllib
+22.8. urllib.parse — Parse URLs into components
+
+https://docs.python.org/3/library/urllib.html
+https://docs.python.org/3/library/urllib.request.html
+https://docs.python.org/3/library/urllib.parse.html
+
+"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
 
 
 ## CGI and WSGI
