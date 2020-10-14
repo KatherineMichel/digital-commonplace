@@ -87,6 +87,18 @@ https://docs.python.org/3/library/shutil.html#archiving-operations
 https://docs.python.org/3/library/shutil.html#archiving-example
 https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
 
+22.11. http — HTTP modules
+22.12. http.client — HTTP protocol client
+
+https://docs.python.org/3/library/http.html
+
+"This module defines classes which implement the client side of the HTTP and HTTPS protocols. It is normally not used directly — the module urllib.request uses it to handle URLs that use HTTP and HTTPS."
+https://docs.python.org/3/library/http.client.html
+https://docs.python.org/3/library/http.client.html#httpconnection-objects
+https://docs.python.org/3/library/http.client.html#httpresponse-objects
+https://docs.python.org/3/library/http.client.html#examples
+https://docs.python.org/3/library/http.client.html#httpmessage-objects
+
 11.2. Templating
 https://docs.python.org/3/tutorial/stdlib2.html#templating
 https://docs.python.org/3/library/string.html#module-string
