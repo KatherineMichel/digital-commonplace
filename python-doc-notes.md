@@ -28,6 +28,13 @@ https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
 https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
 -->
 
+Internal Use
+https://docs.python.org/3/library/test.html
+https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
+https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
+https://docs.python.org/3/library/test.html#module-test.support
+https://docs.python.org/3/library/test.html#module-test.support.script_helper
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
