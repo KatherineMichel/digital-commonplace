@@ -87,6 +87,20 @@ https://docs.python.org/3/library/shutil.html#archiving-operations
 https://docs.python.org/3/library/shutil.html#archiving-example
 https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
 
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string.Template
+
+Template
+36.10. pipes — Interface to shell pipelines
+https://docs.python.org/3/library/pipes.html
+https://docs.python.org/3/library/pipes.html#template-objects
+
+22.1. webbrowser — Convenient Web-browser controller
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
