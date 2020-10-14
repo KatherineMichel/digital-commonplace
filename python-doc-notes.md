@@ -113,6 +113,10 @@ https://docs.python.org/3/library/pipes.html#template-objects
 https://docs.python.org/3/library/webbrowser.html
 https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
 
+14. File Formats
+14.5. plistlib — Generate and parse Mac OS X .plist files
+https://docs.python.org/3/library/plistlib.html
+
 16.3. time — Time access and conversions
 https://docs.python.org/3/library/time.html
 https://docs.python.org/3/library/time.html#functions
