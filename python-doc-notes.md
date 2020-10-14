@@ -101,6 +101,23 @@ https://docs.python.org/3/library/pipes.html#template-objects
 https://docs.python.org/3/library/webbrowser.html
 https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
 
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+https://docs.python.org/3/library/time.html#functions
+https://docs.python.org/3/library/time.html#clock-id-constants
+https://docs.python.org/3/library/time.html#timezone-constants
+
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+https://docs.python.org/3/library/datetime.html#available-types
+https://docs.python.org/3/library/datetime.html#timedelta-objects
+https://docs.python.org/3/library/datetime.html#date-objects
+https://docs.python.org/3/library/datetime.html#datetime-objects
+https://docs.python.org/3/library/datetime.html#time-objects
+https://docs.python.org/3/library/datetime.html#tzinfo-objects
+https://docs.python.org/3/library/datetime.html#timezone-objects
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+
 ## General Links
 
 https://docs.python.org/3/glossary.html
