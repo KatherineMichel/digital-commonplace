@@ -172,15 +172,15 @@ Path
 https://docs.python.org/3/library/os.path.html#module-os.path
 https://docs.python.org/3/library/os.path.html#os.path.join
 
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#module-sys
-
 10.4. Error Output Redirection and Program Termination
 https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
 https://docs.python.org/3/library/sys.html#module-sys
-https://docs.python.org/3/library/sys.html#sys.argv
 https://docs.python.org/3/library/sys.html#sys.path
+
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
 
 10.5. String Pattern Matching
 https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
@@ -534,42 +534,24 @@ https://docs.python.org/3/library/warnings.html#available-context-managers
 https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
 
 16.5. getopt — C-style parser for command line options
-Not There
 https://docs.python.org/3/library/getopt.html
 
 https://docs.python.org/3/library/allos.html
 
 16.14. platform — Access to underlying platform’s identifying data
 https://docs.python.org/3/library/platform.html
-https://docs.python.org/3/library/platform.html#cross-platform
-https://docs.python.org/3/library/platform.html#java-platform
-https://docs.python.org/3/library/platform.html#windows-platform
-https://docs.python.org/3/library/platform.html#mac-os-platform
 
 10.1. Operating System Interface
 https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
 
 16.1. os — Miscellaneous operating system interfaces
 https://docs.python.org/3/library/os.html
-https://docs.python.org/3/library/os.html#file-names-command-line-arguments-and-environment-variables
-https://docs.python.org/3/library/os.html#process-parameters
-https://docs.python.org/3/library/os.html#file-object-creation
-https://docs.python.org/3/library/os.html#file-descriptor-operations
-https://docs.python.org/3/library/os.html#querying-the-size-of-a-terminal
-https://docs.python.org/3/library/os.html#inheritance-of-file-descriptors
-https://docs.python.org/3/library/os.html#files-and-directories
-https://docs.python.org/3/library/os.html#linux-extended-attributes
-https://docs.python.org/3/library/os.html#process-management
-https://docs.python.org/3/library/os.html#interface-to-the-scheduler
-https://docs.python.org/3/library/os.html#miscellaneous-system-information
-https://docs.python.org/3/library/os.html#random-numbers
 
 11.2. os.path — Common pathname manipulations
 https://docs.python.org/3/library/os.path.html
 
 29.1. sys — System-specific parameters and functions
 https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.argv
 https://docs.python.org/3/library/sys.html#sys.path
 https://docs.python.org/3/library/sys.html#sys.stdin
 https://docs.python.org/3/library/sys.html#sys.stdout
@@ -577,24 +559,16 @@ https://docs.python.org/3/library/sys.html#sys.stderr
 
 30.2. sysconfig — Provide access to Python’s configuration information
 https://docs.python.org/3/library/sysconfig.html
-https://docs.python.org/3/library/sysconfig.html#configuration-variables
-https://docs.python.org/3/library/sysconfig.html#installation-paths
-https://docs.python.org/3/library/sysconfig.html#other-functions
-https://docs.python.org/3/library/sysconfig.html#using-sysconfig-as-a-script
 
 11.1. pathlib — Object-oriented filesystem paths
 https://docs.python.org/3/library/pathlib.html
-
-https://docs.python.org/3/library/pathlib.html#basic-use
-https://docs.python.org/3/library/pathlib.html#pure-paths
-https://docs.python.org/3/library/pathlib.html#general-properties
-https://docs.python.org/3/library/pathlib.html#operators
-https://docs.python.org/3/library/pathlib.html#accessing-individual-parts
-https://docs.python.org/3/library/pathlib.html#methods-and-properties
-https://docs.python.org/3/library/pathlib.html#concrete-paths
-https://docs.python.org/3/library/pathlib.html#methods
-chart
 https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+
+
+https://docs.python.org/3/library/sys.html#sys.argv
 
 https://docs.python.org/3/howto/argparse.html
 
@@ -649,15 +623,6 @@ https://docs.python.org/3/library/argparse.html#customizing-file-parsing
 https://docs.python.org/3/library/argparse.html#exiting-methods
 https://docs.python.org/3/library/argparse.html#intermixed-parsing
 https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
-https://docs.python.org/3/library/shutil.html#directory-and-files-operations
-https://docs.python.org/3/library/shutil.html#copytree-example
-https://docs.python.org/3/library/shutil.html#rmtree-example
-https://docs.python.org/3/library/shutil.html#archiving-operations
-https://docs.python.org/3/library/shutil.html#archiving-example
-https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
 
 
 6.1. string — Common string operations
@@ -974,13 +939,6 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-an
 https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
-
-Internal Use
-https://docs.python.org/3/library/test.html
-https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
-https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
-https://docs.python.org/3/library/test.html#module-test.support
-https://docs.python.org/3/library/test.html#module-test.support.script_helper
 -->
 
 ## Kenneth Reitz Advice to Me 
