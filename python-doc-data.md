@@ -112,6 +112,16 @@ strip()
 ```
 
 <!--
+6.1. string — Common string operations
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string-constants
+https://docs.python.org/3/library/string.html#custom-string-formatting
+https://docs.python.org/3/library/string.html#format-string-syntax
+https://docs.python.org/3/library/string.html#format-specification-mini-language
+https://docs.python.org/3/library/string.html#format-examples
+https://docs.python.org/3/library/string.html#template-strings
+https://docs.python.org/3/library/string.html#helper-functions
+
 String methods
 https://docs.python.org/3/library/stdtypes.html#string-methods
 
@@ -154,10 +164,6 @@ https://docs.python.org/3/library/constants.html#None
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
 
-10.1. Operating System Interface
-https://docs.python.org/3/library/os.html#module-os
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
-
 File
 https://docs.python.org/3/library/os.html#file-object-creation
 https://docs.python.org/3/library/os.html#os.open
@@ -167,13 +173,50 @@ https://docs.python.org/3/library/tempfile.html#module-tempfile
 https://docs.python.org/3/library/shutil.html#module-shutil
 
 Path
-https://docs.python.org/3/library/os.path.html#module-os.path
 https://docs.python.org/3/library/os.path.html#os.path.join
 
 10.4. Error Output Redirection and Program Termination
 https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-https://docs.python.org/3/library/sys.html#module-sys
+
+
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+https://docs.python.org/3/library/os.html#os.stat
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
 https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
 
 
 10.3. Command Line Arguments
@@ -188,18 +231,14 @@ https://docs.python.org/3/library/re.html#module-re
 https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
 https://docs.python.org/3/library/glob.html#module-glob
 
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html#module-random
-
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
 10.12. Batteries Included
 https://docs.python.org/3/library/json.html#module-json
 https://docs.python.org/3/library/csv.html#module-csv
 https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html#module-random
 
 11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
@@ -243,6 +282,17 @@ https://docs.python.org/3/library/profile.html#module-pstats
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
 
 
 ## Data Model
@@ -525,52 +575,12 @@ https://docs.python.org/3/library/warnings.html#available-functions
 https://docs.python.org/3/library/warnings.html#available-context-managers
 
 
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-
-16.5. getopt — C-style parser for command line options
-https://docs.python.org/3/library/getopt.html
-
-https://docs.python.org/3/library/allos.html
-
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
-
-10.1. Operating System Interface
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
-
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
-
-11.2. os.path — Common pathname manipulations
-https://docs.python.org/3/library/os.path.html
-
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-Interesting (os and os.path versus pathlib)
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
-29.1. sys — System-specific parameters and functions
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.path
-https://docs.python.org/3/library/sys.html#sys.stdin
-https://docs.python.org/3/library/sys.html#sys.stdout
-https://docs.python.org/3/library/sys.html#sys.stderr
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
-
-
-https://docs.python.org/3/library/sys.html#sys.argv
-
 https://docs.python.org/3/howto/argparse.html
 "The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
 
 Alternative
-https://docs.python.org/3/library/getopt.html#module-getopt
+16.5. getopt — C-style parser for command line options
+https://docs.python.org/3/library/getopt.html
 
 16.4. argparse — Parser for command-line options, arguments and sub-commands
 https://docs.python.org/3/library/argparse.html
@@ -624,17 +634,6 @@ https://docs.python.org/3/library/argparse.html#exiting-methods
 https://docs.python.org/3/library/argparse.html#intermixed-parsing
 https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
 
-
-6.1. string — Common string operations
-https://docs.python.org/3/library/string.html#module-string
-https://docs.python.org/3/library/string.html#string-constants
-https://docs.python.org/3/library/string.html#custom-string-formatting
-https://docs.python.org/3/library/string.html#format-string-syntax
-https://docs.python.org/3/library/string.html#format-specification-mini-language
-https://docs.python.org/3/library/string.html#format-examples
-https://docs.python.org/3/library/string.html#template-strings
-https://docs.python.org/3/library/string.html#helper-functions
-
 Regular Expression HOWTO
 https://docs.python.org/3/howto/regex.html
 
@@ -657,26 +656,6 @@ https://docs.python.org/3/library/re.html#writing-a-tokenizer
 11.7. glob — Unix style pathname pattern expansion
 https://docs.python.org/3/library/glob.html
 
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-https://docs.python.org/3/library/time.html#functions
-https://docs.python.org/3/library/time.html#clock-id-constants
-https://docs.python.org/3/library/time.html#timezone-constants
-
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-https://docs.python.org/3/library/datetime.html#available-types
-https://docs.python.org/3/library/datetime.html#timedelta-objects
-https://docs.python.org/3/library/datetime.html#date-objects
-https://docs.python.org/3/library/datetime.html#datetime-objects
-https://docs.python.org/3/library/datetime.html#time-objects
-https://docs.python.org/3/library/datetime.html#tzinfo-objects
-https://docs.python.org/3/library/datetime.html#timezone-objects
-https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
-
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
 6. Text Processing Services
 https://docs.python.org/3/library/text.html
 
@@ -695,33 +674,6 @@ https://docs.python.org/3/library/urllib.parse.html
 
 "The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
 
-
-21. Internet Protocols and Support
-
-21.11. http — HTTP modules
-19.2. json — JSON encoder and decoder
-7.2.2. Saving structured data with json
-
-https://docs.python.org/3/library/http.server.html
-https://docs.python.org/3/library/http.html
-https://docs.python.org/3/library/json.html
-https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
-
-20.2. json — JSON encoder and decoder
-
-https://docs.python.org/3/library/json.html
-
-https://docs.python.org/3/library/json.html#basic-usage
-https://docs.python.org/3/library/json.html#encoders-and-decoders
-https://docs.python.org/3/library/json.html#exceptions
-https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
-https://docs.python.org/3/library/json.html#character-encodings
-https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
-https://docs.python.org/3/library/json.html#repeated-names-within-an-object
-https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
-https://docs.python.org/3/library/json.html#implementation-limitations
-https://docs.python.org/3/library/json.html#module-json.tool
-https://docs.python.org/3/library/json.html#command-line-options
 
 21. Structured Markup Processing Tools
 21.1. html — HyperText Markup Language support
@@ -750,8 +702,28 @@ https://docs.python.org/3/library/csv.html#reader-objects
 https://docs.python.org/3/library/csv.html#writer-objects
 https://docs.python.org/3/library/csv.html#examples
 
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
+
+21. Internet Protocols and Support
+
+19.2. json — JSON encoder and decoder
+20.2. json — JSON encoder and decoder
+7.2.2. Saving structured data with json
+https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
+
+https://docs.python.org/3/library/json.html
+
+https://docs.python.org/3/library/json.html#basic-usage
+https://docs.python.org/3/library/json.html#encoders-and-decoders
+https://docs.python.org/3/library/json.html#exceptions
+https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
+https://docs.python.org/3/library/json.html#character-encodings
+https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
+https://docs.python.org/3/library/json.html#repeated-names-within-an-object
+https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
+https://docs.python.org/3/library/json.html#implementation-limitations
+https://docs.python.org/3/library/json.html#module-json.tool
+https://docs.python.org/3/library/json.html#command-line-options
+
 
 22.11. http — HTTP modules
 22.12. http.client — HTTP protocol client
@@ -761,6 +733,9 @@ https://docs.python.org/3/library/stat.html
 
 https://docs.python.org/3/library/http.html
 
+Not recommended for production
+https://docs.python.org/3/library/http.server.html
+
 https://docs.python.org/3/library/http.html#http-status-codes
 
 https://docs.python.org/3/library/http.client.html
@@ -768,8 +743,6 @@ https://docs.python.org/3/library/http.client.html#httpconnection-objects
 https://docs.python.org/3/library/http.client.html#httpresponse-objects
 https://docs.python.org/3/library/http.client.html#examples
 https://docs.python.org/3/library/http.client.html#httpmessage-objects
-
-https://docs.python.org/3/library/http.server.html
 
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
@@ -832,6 +805,7 @@ https://docs.python.org/3/library/sqlite3.html#multithreading
 https://docs.python.org/3/library/plistlib.html
 
 
+https://docs.pytest.org/en/stable/
 
 27.4. unittest — Unit testing framework
 27.5. unittest.mock — mock object library
