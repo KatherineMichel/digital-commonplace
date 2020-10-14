@@ -161,128 +161,6 @@ https://docs.python.org/3/library/shutil.html#module-shutil
 
 
 
-https://docs.python.org/3/library/allos.html
-
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
-
-10.1. Operating System Interface
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
-
-https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
-
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
-
-11.2. os.path — Common pathname manipulations
-https://docs.python.org/3/library/os.path.html
-
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
-https://docs.python.org/3/library/os.html#os.stat
-
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-Interesting (os and os.path versus pathlib)
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
-29.1. sys — System-specific parameters and functions
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.path
-https://docs.python.org/3/library/sys.html#sys.stdin
-https://docs.python.org/3/library/sys.html#sys.stdout
-https://docs.python.org/3/library/sys.html#sys.stderr
-
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
-
-
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#sys.argv
-
-10.5. String Pattern Matching
-https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-11.7. glob — Unix style pathname pattern expansion
-https://docs.python.org/3/library/glob.html
-
-10.12. Batteries Included
-https://docs.python.org/3/library/json.html#module-json
-https://docs.python.org/3/library/csv.html#module-csv
-https://docs.python.org/3/library/sqlite3.html#module-sqlite3
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-https://docs.python.org/3/library/functions.html#repr
-https://docs.python.org/3/library/pprint.html#module-pprint
-
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-https://docs.python.org/3/library/array.html#module-array
-https://docs.python.org/3/library/array.html#array.array
-https://docs.python.org/3/library/collections.html#module-collections
-https://docs.python.org/3/library/collections.html#collections.deque
-https://docs.python.org/3/library/bisect.html#module-bisect
-https://docs.python.org/3/library/heapq.html#module-heapq
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
-
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-
-28.4. The Python Profilers
-28.5. timeit — Measure execution time of small code snippets
-28.6. trace — Trace or track Python statement execution
-https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/timeit.html
-https://docs.python.org/3/library/trace.html
-
-https://docs.python.org/3/library/profile.html#module-profile
-https://docs.python.org/3/library/timeit.html#module-timeit
-https://docs.python.org/3/library/profile.html#module-pstats
-
-11.5. Logging
-https://docs.python.org/3/tutorial/stdlib2.html#logging
-https://docs.python.org/3/library/logging.html#module-logging
-
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
-
 
 ## Utilities
 
@@ -358,6 +236,137 @@ https://docs.python.org/3/library/warnings.html#testing-warnings
 https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-of-dependencies
 https://docs.python.org/3/library/warnings.html#available-functions
 https://docs.python.org/3/library/warnings.html#available-context-managers
+
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+https://docs.python.org/3/library/os.html#os.stat
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
+
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+
+10.12. Batteries Included
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+14.1. csv — CSV File Reading and Writing
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/csv.html#module-contents
+https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
+https://docs.python.org/3/library/csv.html#reader-objects
+https://docs.python.org/3/library/csv.html#writer-objects
+https://docs.python.org/3/library/csv.html#examples
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+
+28.4. The Python Profilers
+28.5. timeit — Measure execution time of small code snippets
+28.6. trace — Trace or track Python statement execution
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/trace.html
+
+https://docs.python.org/3/library/profile.html#module-profile
+https://docs.python.org/3/library/timeit.html#module-timeit
+https://docs.python.org/3/library/profile.html#module-pstats
+
+11.5. Logging
+https://docs.python.org/3/tutorial/stdlib2.html#logging
+https://docs.python.org/3/library/logging.html#module-logging
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
+
 
 
 https://docs.python.org/3/howto/argparse.html
@@ -465,14 +474,6 @@ https://docs.python.org/3/library/html.entities.html
 14. File Formats
 https://docs.python.org/3/library/fileformats.html
 
-
-14.1. csv — CSV File Reading and Writing
-https://docs.python.org/3/library/csv.html
-https://docs.python.org/3/library/csv.html#module-contents
-https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
-https://docs.python.org/3/library/csv.html#reader-objects
-https://docs.python.org/3/library/csv.html#writer-objects
-https://docs.python.org/3/library/csv.html#examples
 
 
 21. Internet Protocols and Support
