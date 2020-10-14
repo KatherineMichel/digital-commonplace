@@ -509,10 +509,10 @@ https://docs.python.org/3/library/exceptions.html#concrete-exceptions
 
 https://docs.python.org/3/library/exceptions.html#os-exceptions
 
-https://docs.python.org/3/library/exceptions.html#warnings
 https://docs.python.org/3/library/exceptions.html#exception-hierarchy
 
-https://docs.python.org/3/library/exceptions.html#os-exceptions
+
+https://docs.python.org/3/library/exceptions.html#warnings
 
 Python Warnings
 * [warnings](https://docs.python.org/3/library/warnings.html)
