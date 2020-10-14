@@ -577,10 +577,6 @@ https://docs.python.org/3/library/sqlite3.html#common-issues
 
 https://docs.python.org/3/library/sqlite3.html#multithreading
 
-14. File Formats
-14.5. plistlib — Generate and parse Mac OS X .plist files
-https://docs.python.org/3/library/plistlib.html
-
 
 https://docs.pytest.org/en/stable/
 
