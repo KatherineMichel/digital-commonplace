@@ -545,6 +545,11 @@ https://docs.python.org/3/library/os.html
 11.2. os.path — Common pathname manipulations
 https://docs.python.org/3/library/os.path.html
 
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
 29.1. sys — System-specific parameters and functions
 https://docs.python.org/3/library/sys.html
 https://docs.python.org/3/library/sys.html#sys.path
@@ -555,12 +560,6 @@ https://docs.python.org/3/library/sys.html#sys.stderr
 30.2. sysconfig — Provide access to Python’s configuration information
 https://docs.python.org/3/library/sysconfig.html
 
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-
-Interesting
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
 11.10. shutil — High-level file operations
 https://docs.python.org/3/library/shutil.html
 
@@ -568,6 +567,10 @@ https://docs.python.org/3/library/shutil.html
 https://docs.python.org/3/library/sys.html#sys.argv
 
 https://docs.python.org/3/howto/argparse.html
+"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
+
+Alternative
+https://docs.python.org/3/library/getopt.html#module-getopt
 
 16.4. argparse — Parser for command-line options, arguments and sub-commands
 https://docs.python.org/3/library/argparse.html
