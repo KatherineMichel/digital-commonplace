@@ -1718,66 +1718,6 @@ https://www.datacamp.com/community/tutorials/18-most-common-python-list-question
 https://www.toptal.com/python/python-design-patterns
 -->
 
-## Automate the Boring Stuff with Python
-
-<!--
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
--->
-
-## Dave
-
-<!--
-https://github.com/KatherineMichel/practical-python
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
-
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
--->
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-## JavaScript 30
-
-<!--
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
-
-arrow function
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
-
-https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
--->
-
-
 ## Useful Learning Resources
 
 Practice
@@ -1807,26 +1747,11 @@ https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 
-https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
-
-Materials
-https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
-
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://github.com/JackMcKew/awesome-python-bytes
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
-
 Projects
 https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
 https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 https://expressjs.com/ | Express - Node.js web application framework
-
-https://github.com/realpython/list-of-python-api-wrappers
 
 https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
 https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
@@ -1834,6 +1759,30 @@ https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://blog.repl.it/database | Repl.it - A database for every repl
 
+
+https://github.com/bradtraversy/
+https://www.udemy.com/user/brad-traversy/
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+
+
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+JS
+https://github.com/btholt
+https://github.com/kentcdodds/
+https://github.com/wesbos/
+
+https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
+https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
 
 
 Web Design
@@ -1882,17 +1831,110 @@ Front End Masters Handbook
 https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+-->
+
+
+<!--
+Python and Django
+
+https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
+
+Materials
+https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
+
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://github.com/JackMcKew/awesome-python-bytes
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 
 
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 
-Templates
+
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+-->
+
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+## JavaScript 30
+
+<!--
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+
+arrow function
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
+
+https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+-->
+
+## Django Tutorials and Templates
+
+<!--
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+https://github.com/techreagan/vue-nodejs-youtube-clone
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+
+https://github.com/vuejs/vue-hackernews-2.0
+https://github.com/nuxt/hackernews
+https://github.com/python-telegram-bot/python-telegram-bot
+
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/nice-boys/product-boilerplate
+
+
+https://github.com/DrkSephy/django-hackathon-starter
+
+
+Django Templates
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
@@ -1927,44 +1969,12 @@ https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for D
 https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
 
 
-https://github.com/bradtraversy/
-https://www.udemy.com/user/brad-traversy/
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
-
-
-https://github.com/btholt
-https://github.com/kentcdodds/
-https://github.com/wesbos/
-
-https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
-https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
-https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
-https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
-
-
-Projects
+Django/React Project Tutorials
 https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
 https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
 https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
 https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
 https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
-
--->
-
-## Templates
-
-<!--
-https://github.com/DrkSephy/django-hackathon-starter
 
 
 Django + React/Node
@@ -1980,25 +1990,7 @@ https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating 
 https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
 
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-https://github.com/techreagan/vue-nodejs-youtube-clone
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-
-https://github.com/vuejs/vue-hackernews-2.0
-https://github.com/nuxt/hackernews
-https://github.com/python-telegram-bot/python-telegram-bot
-
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/nice-boys/product-boilerplate
-
+Django Templates
 
 https://github.com/sixfeetup/cookiecutter-sixiedjango
 
@@ -2330,6 +2322,149 @@ https://github.com/nektos/act
 
 GitHub
 https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
+-->
+
+<!--
+https://pythonwheels.com/ | Python Wheels
+
+https://pypi.org/project/Cython/
+
+Hosts- Google
+https://pypi.org/project/google-api-python-client/ | google-api-python-client · PyPI
+https://pypi.org/project/google-api-core/ | google-api-core · PyPI
+https://pypi.org/project/googleapis-common-protos/ | googleapis-common-protos · PyPI
+https://pypi.org/project/google-cloud-core/ | google-cloud-core · PyPI
+https://pypi.org/project/google-cloud-storage/ | google-cloud-storage · PyPI
+https://pypi.org/project/google-auth/ | google-auth · PyPI
+https://pypi.org/project/google-cloud-logging/
+https://pypi.org/project/google-cloud-pubsub/
+
+Hosts- AWS
+https://pypi.org/project/botocore/
+https://pypi.org/project/s3transfer/
+https://pypi.org/project/boto3/
+https://pypi.org/project/awscli/
+https://pypi.org/project/boto/
+
+Hosts- Azure
+https://pypi.org/project/azure-storage-blob/
+https://pypi.org/project/azure-common/
+https://pypi.org/project/azure-storage-common/
+https://pypi.org/project/azure-core/
+https://pypi.org/project/azure-devops/
+https://pypi.org/project/azure-mgmt-resource/
+https://pypi.org/project/azure-mgmt-storage/
+
+Query
+https://pypi.org/project/google-cloud-bigquery/
+https://pypi.org/project/pandas-gbq/
+
+Container
+https://pypi.org/project/docker/
+https://pypi.org/project/kubernetes/
+
+Database
+https://pypi.org/project/psycopg2-binary/
+https://pypi.org/project/psycopg2/
+https://pypi.org/project/sqlparse/
+
+https://pypi.org/project/mysqlclient/
+https://pypi.org/project/PyMySQL/
+https://pypi.org/project/pymongo/
+https://pypi.org/project/alembic/
+https://pypi.org/project/elasticsearch/
+
+https://pypi.org/project/gunicorn/
+
+Google
+https://pypi.org/project/absl-py/
+
+https://pypi.org/project/djangorestframework/
+https://pypi.org/project/Flask-SQLAlchemy/
+https://pypi.org/project/Flask-Cors/
+
+Utilities
+https://pypi.org/project/argparse/
+https://pypi.org/project/argcomplete/
+https://pypi.org/project/beautifulsoup4/
+https://pypi.org/project/soupsieve/
+https://pypi.org/project/prompt-toolkit/ | prompt-toolkit · PyPI
+https://pypi.org/project/Pygments/ | Pygments · PyPI
+https://pypi.org/project/colorama/ | colorama · PyPI
+https://pypi.org/project/parso/
+https://pypi.org/project/html5lib/
+
+https://pypi.org/project/slackclient/
+https://pypi.org/project/discord.py/
+
+Important?
+https://pypi.org/project/setuptools-scm/
+
+https://pypi.org/project/setuptools/ | setuptools · PyPI
+https://pypi.org/project/wheel/ | wheel · PyPI
+https://pypi.org/project/docutils/ | docutils · PyPI
+https://pypi.org/project/toml/
+
+https://pypi.org/project/Markdown/
+https://pypi.org/project/Sphinx/
+https://pypi.org/project/alabaster/
+
+https://pypi.org/project/keyring/
+
+https://pypi.org/project/typing/
+https://pypi.org/project/typing-extensions/
+https://pypi.org/project/mypy/
+https://pypi.org/project/mypy-extensions/
+
+https://pypi.org/project/regex/
+
+https://pypi.org/project/virtualenv/ | virtualenv · PyPI
+https://pypi.org/project/virtualenv-clone/
+https://pypi.org/project/mock/ | mock · PyPI
+https://pypi.org/project/packaging/ | packaging · PyPI
+
+https://pypi.org/project/python-dotenv/
+https://pypi.org/project/pipenv/
+
+https://pypi.org/project/selenium/
+
+https://pypi.org/project/mccabe/
+https://pypi.org/project/pycodestyle/
+https://pypi.org/project/pyflakes/
+https://pypi.org/project/flake8/
+https://pypi.org/project/isort/
+https://pypi.org/project/pylint/
+https://pypi.org/project/tox/
+
+https://pypi.org/project/Faker/
+
+https://pypi.org/project/pytest-cov/
+https://pypi.org/project/pytest-runner/
+https://pypi.org/project/pytest-mock/
+https://pypi.org/project/pytest-forked/
+
+https://pypi.org/project/python-dateutil/ | python-dateutil · PyPI
+
+Helpers
+https://pypi.org/project/bleach/ | bleach · PyPI
+https://pypi.org/project/pytz/ | pytz · PyPI
+https://pypi.org/project/appdirs/
+
+https://pypi.org/project/requests-toolbelt/
+
+https://pypi.org/project/aiohttp/
+https://pypi.org/project/websockets/
+https://pypi.org/project/greenlet/
+https://pypi.org/project/gevent/
+https://pypi.org/project/uvloop/
+https://pypi.org/project/celery/
+https://pypi.org/project/Twisted/
+
+https://pypi.org/project/google-auth-httplib2/
+https://pypi.org/project/google-auth-oauthlib/
+https://pypi.org/project/requests-oauthlib/ | requests-oauthlib · PyPI
+https://pypi.org/project/oauthlib/ | oauthlib · PyPI
+https://pypi.org/project/oauth2client/
 -->
 
 ## Data Science
