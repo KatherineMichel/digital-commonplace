@@ -11,6 +11,8 @@ https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+e
 http://www.glassesoff.com/
 https://twitter.com/webology/status/1314404582789918722
 
+https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life | https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life
+
 https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
@@ -231,6 +233,8 @@ https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-
 
 https://thestartingidea.com/personal-branding-guide/
 
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
 Brian
 https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
 https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
@@ -243,6 +247,8 @@ https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 201
 
 2020 Goals
 https://twitter.com/AutomationPanda/status/1226591212632596480
+
+https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -288,16 +294,33 @@ https://twitter.com/PrasoonPratham/status/1313392420038483968
 
 https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
 
+Adam
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
+https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
+https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
+
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
+
+https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
+
+Projects
+https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
+https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
+Kofi
+https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
+https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
+https://yt.kofi.sexy/ | YT—mono
+https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
 
-JSON
-
-Black
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-JSON, Black
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
@@ -322,6 +345,7 @@ https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3e
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
 
+
 https://www.w3.org/DesignIssues/Architecture.html
 
 https://andreasbm.github.io/web-skills/?compact | Web Skills
@@ -329,6 +353,8 @@ https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.youtube.com/watch?v=cNN_tTXABUA
 
 https://github.com/TheAlgorithms/Python
+
+https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 
 https://twitter.com/b0rk
 https://wizardzines.com/comics/bash-if-statements/
@@ -369,6 +395,24 @@ https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
 https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
 
 https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
+
+
+JSON
+
+https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
+
+JSON and YAML
+https://docs.python.org/3/library/json.html#module-json | json — JSON encoder and decoder — Python 3.9.0 documentation
+https://www.json.org/json-en.html | JSON
+https://yaml.org/ | The Official YAML Web Site
+https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
+
+Black
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
+
 
 https://regexcrossword.com/ | Regex Crossword
 https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
@@ -466,10 +510,12 @@ https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitte
 Nina
 https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
 https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
 
 Mariatta
 https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
 https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
 
 https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
