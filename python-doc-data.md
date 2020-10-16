@@ -368,6 +368,9 @@ https://docs.python.org/3/library/datetime.html
 https://docs.python.org/3/library/calendar.html
 
 
+22.1. webbrowser — Convenient Web-browser controller
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
 
 https://docs.python.org/3/howto/argparse.html
 "The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
