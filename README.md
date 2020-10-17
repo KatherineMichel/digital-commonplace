@@ -865,6 +865,7 @@ https://github.com/pantsbuild/example-python
 https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
 -->
 
+
 ## Performance
 
 Python Time Complexity, Performance
@@ -1571,22 +1572,6 @@ Doc Unit Tests
 Release, Weeknotes
 -->
 
-<!--
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
-
-GraphQL/Relay
-https://twitter.com/leogcrespo/status/1313091661556314114
-
-Tools
-https://twitter.com/kwuchu/status/1314286568362967041
-https://twitter.com/mscccc/status/1313668914283507712
-
-https://github.com/nektos/act
-
-GitHub
-https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
--->
-
 
 ## Look At
 
@@ -1992,60 +1977,6 @@ https://code.visualstudio.com/api/extension-capabilities/theming
 -->
 
 
-
-
-<!--
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
-
-Twitter API
-https://github.com/twitterdev?language=javascript | @TwitterDev
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
-https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
-https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
-https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
-
-https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
-
-Twitter API
-https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
-https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
-https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
-https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
-
-https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
-
-https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
--->
-
-## Twitter API Examples
-
-<!--
-https://github.com/twitterdev/real-time-tweet-streamer
-https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
-
-Twitter API Tutorials
-https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
-https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
-https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
-
-https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
--->
-
-
-<!--
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
-
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
-https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
--->
-
-
-
 ## Django Organization Tools
 
 <!--
@@ -2209,6 +2140,73 @@ https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line
 
 
 https://en.m.wikipedia.org/wiki/YAML
+-->
+
+
+
+<!--
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+
+GraphQL/Relay
+https://twitter.com/leogcrespo/status/1313091661556314114
+
+Tools
+https://twitter.com/kwuchu/status/1314286568362967041
+https://twitter.com/mscccc/status/1313668914283507712
+
+https://github.com/nektos/act
+
+GitHub
+https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
+-->
+
+<!--
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
+
+Twitter API
+https://github.com/twitterdev?language=javascript | @TwitterDev
+https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
+https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
+https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
+https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
+
+https://dev.to/twitterdev/how-to-explore-a-user-s-tweets-using-v2-of-the-twitter-api-1lkn | How to explore a user's Tweets using v2 of the Twitter API - DEV Community 👩‍💻👨‍💻
+
+Twitter API
+https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter: "just setting up my #TwitterAPI https://t.co/TO5WBwjzib" / Twitter
+https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
+https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
+https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
+
+https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
+
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+-->
+
+## Twitter API Examples
+
+<!--
+https://github.com/twitterdev/real-time-tweet-streamer
+https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
+
+Twitter API Tutorials
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
+https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
+
+https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
+-->
+
+<!--
+https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
+
+https://github.com/apps/update-authors | GitHub Apps - Update Authors
+https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
+
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
+
+https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
+https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
 -->
 
 ## Data Science
