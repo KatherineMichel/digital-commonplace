@@ -1,6 +1,10 @@
 # Makers and Projects
 
 <!--
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+
 https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
 
 https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
@@ -231,6 +235,8 @@ https://michaelheap.com/building-github-actions | Building GitHub Actions | Mich
 
 <!--
 GitHub Actions
+
+https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
 
 GA Contro
 https://mobile.twitter.com/magnetikonline/status/1224837954771668992
