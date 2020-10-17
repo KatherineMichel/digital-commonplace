@@ -1925,58 +1925,6 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 -->
 
-## API
-
-<!--
-https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
-https://github.com/api-evangelist
-https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
-https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
-https://www.programmableweb.com/category/all/apis
-
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
--->
-
-
-## Chrome
-
-Google Chrome Docs
-* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
-
-Chromium Developers
-* [Chromium Blog](https://blog.chromium.org)
-* [Chromium- For Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-<!--
-https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
-https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
-https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
-https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
-
-Getting Started: Building a Chrome Extension
-https://developer.chrome.com/extensions/getstarted
-
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
-https://developer.chrome.com/apps/about_apps
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/hosting
-
-https://code.visualstudio.com/docs/introvideos/configure
-https://code.visualstudio.com/api/extension-guides/color-theme
-https://code.visualstudio.com/api/extension-capabilities/theming
--->
-
-
 ## Django Organization Tools
 
 <!--
@@ -2207,6 +2155,58 @@ https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-ste
 
 https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
 https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
+-->
+
+
+## API
+
+<!--
+https://github.com/realpython/list-of-python-api-wrappers
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/api-evangelist
+https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+https://www.programmableweb.com/category/all/apis
+
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+-->
+
+
+## Chrome
+
+Google Chrome Docs
+* [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Google Chrome- Using the Console](https://developers.google.com/web/tools/chrome-devtools/console)
+
+Chromium Developers
+* [Chromium Blog](https://blog.chromium.org)
+* [Chromium- For Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+<!--
+https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
+https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
+https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+https://css-tricks.com/how-to-build-a-chrome-extension/ | How to Build a Chrome Extension | CSS-Tricks
+
+Getting Started: Building a Chrome Extension
+https://developer.chrome.com/extensions/getstarted
+
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide | Develop Extensions - Google Chrome
+https://developer.chrome.com/apps/about_apps
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/hosting
+
+https://code.visualstudio.com/docs/introvideos/configure
+https://code.visualstudio.com/api/extension-guides/color-theme
+https://code.visualstudio.com/api/extension-capabilities/theming
 -->
 
 ## Data Science
