@@ -227,6 +227,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCG
 https://github.com/crweiner/hacktoberfest-swag-list
 https://github.com/digitalocean/hacktoberfest
 
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
 
 https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
 https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
@@ -709,6 +711,21 @@ https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 -->
 
+<!--
+Enineering manager
+https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
+
+https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
+https://github.com/VGraupera/1on1-questions
+
+https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
+https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+Pre-mortem
+https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+-->
 
 ## Public Speaking and Technical Writing
 
@@ -1287,24 +1304,6 @@ https://twitter.com/melsmo/status/1313180759889305601
 -->
 
 <!--
-Enineering manager
-https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
-
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
-https://github.com/VGraupera/1on1-questions
-
-https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
-https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-Pre-mortem
-https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
--->
-
-<!--
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
 
@@ -1639,9 +1638,16 @@ https://github.com/tj
 https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 -->
 
+
 ## Projects
 
 <!--
+GitHub Actions Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+
+
 https://github.com/akamhy/waybackpy
 https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
 https://github.com/PyBites-Open-Source/karmabot
@@ -1719,6 +1725,22 @@ Self-Rewriting README, TIL
 Datasette
 Doc Unit Tests
 Release, Weeknotes
+-->
+
+<!--
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+
+GraphQL/Relay
+https://twitter.com/leogcrespo/status/1313091661556314114
+
+Tools
+https://twitter.com/kwuchu/status/1314286568362967041
+https://twitter.com/mscccc/status/1313668914283507712
+
+https://github.com/nektos/act
+
+GitHub
+https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
 -->
 
 
@@ -2345,33 +2367,6 @@ https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line
 https://en.m.wikipedia.org/wiki/YAML
 -->
 
-
-<!--
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
-
-Fastmac
-https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
-https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
-
-GraphQL/Relay
-https://twitter.com/leogcrespo/status/1313091661556314114
-
-Tools
-https://twitter.com/kwuchu/status/1314286568362967041
-https://twitter.com/mscccc/status/1313668914283507712
-
-GitHub Actions Examples
-https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
-https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
-https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
-
-https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
-
-https://github.com/nektos/act
-
-GitHub
-https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
--->
 
 <!--
 https://pythonwheels.com/ | Python Wheels
