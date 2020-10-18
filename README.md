@@ -13,6 +13,10 @@ https://twitter.com/webology/status/1314404582789918722
 
 https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life | https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life
 
+Hands free
+https://twitter.com/JoshWComeau/status/1316809020301246466 | 🎃 Josh-o-lantern on Twitter: "As some of y'all know, I've been coding hands-free for a while now. I'll be releasing a blog post about it soon, but here's a quick sneak peak! (Sound on plz! 🔊) https://t.co/EHfXhZF9pz" / Twitter
+https://twitter.com/marktnoonan/status/1317286009575452678 | Mark Noonan on Twitter: "I don’t know how I thought programming with your voice would sound, but I didn’t think it would sound like this, very cool." / Twitter
+
 https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
@@ -240,6 +244,8 @@ http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
 Brian
 https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
 https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
+https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
 
 Speaking
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
@@ -251,6 +257,9 @@ https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 201
 https://twitter.com/AutomationPanda/status/1226591212632596480
 
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
+
+LinkedIN
+https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -354,10 +363,12 @@ JSON
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
 
 JSON and YAML
+"Every JSON file is a Yaml file"
 https://docs.python.org/3/library/json.html#module-json | json — JSON encoder and decoder — Python 3.9.0 documentation
 https://www.json.org/json-en.html | JSON
 https://yaml.org/ | The Official YAML Web Site
 https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
+https://docs.python-guide.org/scenarios/json/ | JSON — The Hitchhiker's Guide to Python
 
 Black
 https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
