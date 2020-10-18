@@ -295,8 +295,29 @@ https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/wee
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+
+Every Cheese- Third party
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+obeying the testing goat - Google Search
+https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
+
+Important
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
 https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
 https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+
+https://glitch.com/edit/#!/community?path=README.md:1:0 | README.md – community
+
+https://medium.com/glitch/glitch-opens-up-welcome-85c62d0d6e84 | Glitch Opens Up: Welcome! – Glitch – Medium
+https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685 | Just raise your hand: How Glitch helps – Glitch – Medium
+https://medium.com/glitch/teaching-coding-with-glitch-bb71b879194f | Teaching Coding with Glitch – Glitch – Medium
+https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc | The Missing Building Blocks of the Web – Anil Dash – Medium
 
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 
