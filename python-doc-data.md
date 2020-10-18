@@ -3,16 +3,20 @@
 ## General Notes
 
 <!--
-dir()
-https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
-
-
 https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
 https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
-https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
-
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+
+os and pathlib
+https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf | pbpython/Pathlib-Cheatsheet.pdf at master · chris1610/pbpython
+https://twitter.com/treyhunner/status/1317105113614360576 | ✨ Trey Hunner 🐍 on Twitter: "@KatiMichel A bit more demonstration that the "os" module is the junk drawer: it has more variable names in it than any of the other standard library modules "Operating System" includes a *lot* of stuff 😜 https://t.co/qFUVGPdRgX" / Twitter
+https://twitter.com/jeremyphoward/status/1316586950170615809 | Jeremy Howard on Twitter: "Python 3.9's standard library has 331 modules, exporting 8329 symbols. `os` exports the most, with 331 symbols https://t.co/UCR8Jd3eKl" / Twitter
+
+dir()
+https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
+
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
 
 https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
 https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
