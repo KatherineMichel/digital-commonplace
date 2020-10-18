@@ -258,7 +258,7 @@ https://twitter.com/AutomationPanda/status/1226591212632596480
 
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
-LinkedIN
+LinkedIn
 https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
@@ -295,6 +295,31 @@ https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/wee
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+
+https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
+https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
+
+Important
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+
+Presentations
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (2) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
+https://us.pycon.org/2019/schedule/presentation/212/ | Presentation: Python on Windows is Okay, Actually | PyCon 2019 in Cleveland, Ohio
+
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python | by Martin Heinz | Towards Data Science
+
+https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
+https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
+
+
 Kofi
 https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
 https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
@@ -311,9 +336,14 @@ https://www.w3.org/DesignIssues/Architecture.html
 
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 
+CPU
 https://www.youtube.com/watch?v=cNN_tTXABUA
 
 https://github.com/TheAlgorithms/Python
+
+https://pyvideo.org/ | PyVideo.org
+
+https://sqlite.org/
 
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 
@@ -325,6 +355,7 @@ https://twitter.com/simonw/status/1314384418170003456
 https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
 
 Julia
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
 https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
 https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
 https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
@@ -341,15 +372,9 @@ https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twi
 https://twitter.com/andrewgodwin/status/1147272951118483457
 
 
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://simple.wikipedia.org/wiki/Packet_(computing)
-https://www.tutorialspoint.com/unix/unix-quick-guide.htm
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://www.tutorialspoint.com/unix_commands/index.htm
-https://www.tutorialspoint.com/unix_system_calls/index.htm
-
-
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
 
 https://en.wikipedia.org/wiki/List_of_Unix_commands
 https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
@@ -358,12 +383,19 @@ https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
 https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
 
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://simple.wikipedia.org/wiki/Packet_(computing)
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
+
+
 JSON
 
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
 
 JSON and YAML
-"Every JSON file is a Yaml file"
 https://docs.python.org/3/library/json.html#module-json | json — JSON encoder and decoder — Python 3.9.0 documentation
 https://www.json.org/json-en.html | JSON
 https://yaml.org/ | The Official YAML Web Site
@@ -1336,6 +1368,8 @@ https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfe
 
 https://js1024.fun/results/2020 | JS1024 Results - 2020
 
+https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
+
 https://js13kgames.com/
 https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
 
@@ -1842,15 +1876,10 @@ https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Material
 Materials
 https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
 
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://github.com/JackMcKew/awesome-python-bytes
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
-
 
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
@@ -1865,6 +1894,14 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 
 https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
 https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+
+
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://github.com/JackMcKew/awesome-python-bytes
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 -->
 
 ## Wes Bos
@@ -2496,6 +2533,7 @@ https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask �
 https://realpython.com/python-web-scraping-practical-introduction/
 
 https://www.crummy.com/software/BeautifulSoup/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/ | Beautiful Soup Documentation — Beautiful Soup 4.9.0 documentation
 https://pypi.org/project/beautifulsoup4/
 
 https://scrapy.org/
@@ -2524,6 +2562,8 @@ https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-stat
 Tweepy
 http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
 http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+
+https://github.com/twintproject/twint | twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 -->
 
 ## Twilio
@@ -2541,6 +2581,9 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 * [Chalk GitHub](https://github.com/chalk/chalk)
 
 <!--
+https://github.com/pygments/pygments/tree/master/pygments | pygments/pygments at master · pygments/pygments
+https://pygments.org/ | Welcome! — Pygments
+
 https://github.com/docopt/docopt
 http://www.pyinvoke.org/
 
