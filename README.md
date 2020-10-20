@@ -414,10 +414,6 @@ https://github.com/tc39
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-
 https://twitter.com/wakaleo/status/854702550469234692
 
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
@@ -497,6 +493,9 @@ https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on T
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
 
 Feross
 https://twitter.com/feross/status/1242173582169407488
