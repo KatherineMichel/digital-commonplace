@@ -341,6 +341,14 @@ https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path
 https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
 
 
+https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
+
+https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.1.1 documentation
+
+
 Kofi
 https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
 https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
