@@ -144,6 +144,27 @@ https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United Stat
 https://nuzzel.com/friendsfeeds
 
 
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+Brian
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
+https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+
+Speaking
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+
 Demo
 https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
 https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
@@ -155,44 +176,34 @@ OSX/Gif
 https://gist.github.com/dergachev/4627207
 https://mobile.twitter.com/AlSweigart/status/1249858205649260544
 
+Demos
+http://en.wikipedia.org/wiki/Vlog
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
 
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
 
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+
+https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
+
+https://twitter.com/NimaRoohiS/status/1312916303225729026
+
+LinkedIn
+https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
 https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
 
-
-https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
-https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
-
-Make
-https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
-
-https://twitter.com/levelsio/status/1314280439243300865
-
-https://github.com/phodal/growth-in-action
-
-
-https://twitter.com/NimaRoohiS/status/1312916303225729026
+https://thestartingidea.com/personal-branding-guide/
 
 https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
 
 https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
 
 https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
 
 Content
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
@@ -234,34 +245,6 @@ https://github.com/digitalocean/hacktoberfest
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
-
-https://thestartingidea.com/personal-branding-guide/
-
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
-
-Brian
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
-https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
-https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
-
-Speaking
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
-
-2020 Goals
-https://twitter.com/AutomationPanda/status/1226591212632596480
-
-https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
-
-LinkedIn
-https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
-
-
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
 
@@ -295,20 +278,6 @@ https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/wee
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-
-Every Cheese- Third party
-https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
-https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-obeying the testing goat - Google Search
-https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-
-Important
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
 https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
 https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
 
@@ -318,6 +287,13 @@ https://medium.com/glitch/glitch-opens-up-welcome-85c62d0d6e84 | Glitch Opens Up
 https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685 | Just raise your hand: How Glitch helps – Glitch – Medium
 https://medium.com/glitch/teaching-coding-with-glitch-bb71b879194f | Teaching Coding with Glitch – Glitch – Medium
 https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc | The Missing Building Blocks of the Web – Anil Dash – Medium
+
+
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+
+Important
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
 
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 
@@ -340,13 +316,44 @@ https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵�
 https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
 https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
 
-
 https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
 https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
+
+Every Cheese- Third party
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+obeying the testing goat - Google Search
+https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
 
 https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.1.1 documentation
+
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
+
+
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
+
+Make
+https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
+
+https://twitter.com/levelsio/status/1314280439243300865
+
+https://github.com/phodal/growth-in-action
 
 
 Kofi
@@ -355,24 +362,63 @@ https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing
 https://yt.kofi.sexy/ | YT—mono
 https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
 
+https://pyvideo.org/ | PyVideo.org
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
 https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
 https://www.w3.org/DesignIssues/Architecture.html
-
 https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+https://github.com/TheAlgorithms/Python
+
+https://sqlite.org/
+
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+Algorithms
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Hynek Schlawack, Carl Myer, Kyle Knapp
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
+
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
 
 CPU
 https://www.youtube.com/watch?v=cNN_tTXABUA
 
-https://github.com/TheAlgorithms/Python
 
-https://pyvideo.org/ | PyVideo.org
-
-https://sqlite.org/
+https://twitter.com/wakaleo/status/854702550469234692
 
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 
@@ -420,6 +466,10 @@ https://www.tutorialspoint.com/unix_commands/index.htm
 https://www.tutorialspoint.com/unix_system_calls/index.htm
 
 
+https://regexcrossword.com/ | Regex Crossword
+https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
+
 JSON
 
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
@@ -438,9 +488,6 @@ JSON, Black
 https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
 
 
-https://regexcrossword.com/ | Regex Crossword
-https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
-
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
 What happens
@@ -455,26 +502,6 @@ Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Hynek Schlawack, Carl Myer, Kyle Knapp
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
 
 
 https://djangobuilder.io/#/ | Django Builder
@@ -593,7 +620,6 @@ https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-
 https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
 
 
-
 Django security
 https://learndjango.com/tutorials/django-best-practices-security
 
@@ -617,8 +643,6 @@ https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-p
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
 
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
-
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
 
 https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
@@ -629,29 +653,6 @@ https://www.section508.gov/create/web-content | Developing Accessible Web Conten
 https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://twitter.com/wakaleo/status/854702550469234692
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-Algorithms
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
 ## Website and Blog Resources
