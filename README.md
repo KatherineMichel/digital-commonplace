@@ -29,10 +29,29 @@ https://twitter.com/marktnoonan/status/1317286009575452678 | Mark Noonan on Twit
 
 https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
 
+Casey
+https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
+
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
+
+https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
+
+Don’t Mistake Activity for Progress
+https://www.youtube.com/watch?v=0MM-psvqiG8&feature=youtu.be | The difference between winning and succeeding | John Wooden - YouTube
+https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
+https://steveblank.com/2009/11/09/relentless-%E2%80%93-the-difference-between-motion-and-action/ | Relentless – The Difference Between Motion And Action | Steve Blank
+https://steveblank.com/2018/04/03/the-difference-between-innovators-and-entrepreneurs/ | Steve Blank The Difference Between Innovators and Entrepreneurs
+http://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html | Togelius: The differences between tinkering and research
+
+http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
+
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 
 Learning how to learn
 https://twitter.com/Fox0x01/status/1238636236962779136
@@ -135,6 +154,7 @@ https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositori
 DevRel List
 https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
 
+
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
 https://twitter.com/i/lists/1041844109479034880
@@ -154,12 +174,6 @@ https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United Stat
 https://nuzzel.com/friendsfeeds
 
 
-https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
-
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
 https://freestateforge.com/map
 
 Southern California Tech Industry
@@ -169,20 +183,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxm
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 
-## Important
-
-https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
-
-Don’t Mistake Activity for Progress
-https://www.youtube.com/watch?v=0MM-psvqiG8&feature=youtu.be | The difference between winning and succeeding | John Wooden - YouTube
-https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
-https://steveblank.com/2009/11/09/relentless-%E2%80%93-the-difference-between-motion-and-action/ | Relentless – The Difference Between Motion And Action | Steve Blank
-https://steveblank.com/2018/04/03/the-difference-between-innovators-and-entrepreneurs/ | Steve Blank The Difference Between Innovators and Entrepreneurs
-http://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html | Togelius: The differences between tinkering and research
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
 
-## Career
-
+Career
 * Move Twitter and other contacts into Airtable
 * Brag document
 * Weekly/monthly updates
@@ -206,31 +211,6 @@ https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauL
 
 https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
 
-
-Use
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-
-Co
-https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
-https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
-https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
-
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
-
-Casey
-https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
-
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
-
-http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
-
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-
 Mine
 https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
 https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
@@ -248,6 +228,7 @@ https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "
 
 LinkedIn
 https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
+
 
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
@@ -297,6 +278,8 @@ https://bugs.python.org/issue33649
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
 Important
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
 
@@ -311,20 +294,7 @@ https://github.com/digitalocean/hacktoberfest
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
-
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
-
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-
-GitLab
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
 
 Demo
@@ -342,6 +312,40 @@ Demos
 http://en.wikipedia.org/wiki/Vlog
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
+
+
+
+
+
+
+
+
+Use
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+
+Co
+https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
+https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
+https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
+
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
+
+
+
+
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+
+GitLab
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 
 
 As CTO
