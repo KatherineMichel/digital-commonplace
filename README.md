@@ -8,8 +8,18 @@ https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twit
 1 minute breathing exercise
 https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+exercise&oq=brea&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyAggpMggIABCxAxCDATIFCAAQkgMyBQgAEJIDMgUIABCxAzIFCAAQsQMyBQguELEDMgUIABCxAzICCC46CAguELEDEIMBOgIIAEoFCBISATFQ8wpYshBgwiFoAHAAeACAAb0BiAHnBJIBAzAuNJgBAKABAbABCA&sclient=mobile-gws-wiz-hp
 
+Fitness
+https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
+https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
+
+Eyes
 http://www.glassesoff.com/
 https://twitter.com/webology/status/1314404582789918722
+http://www.aaronsw.com/weblog/001083 | Eye Exercises (Aaron Swartz: The Weblog)
+https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
+
+Why We Sleep
+https://www.amazon.com/dp/B0752XRB5F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life | https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life
 
@@ -189,6 +199,8 @@ https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
 https://twitter.com/NimaRoohiS/status/1312916303225729026
+
+https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
 
 LinkedIn
 https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
@@ -746,6 +758,98 @@ https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design Sy
 https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
 Design Centered Design
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+-->
+
+
+<!--
+DevRel
+ 
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+
+GitLab
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+-->
+
+<!--
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://freestateforge.com/map
+
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
+
+Casey
+https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
+
+http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
+
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+
+http://www.quora.com/What-are-key-strategies-to-acquire-first-100K-users-with-zero-marketing-budget
+[Harry's](http://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email) 
+
+## Career
+
+* Move Twitter and other contacts into Airtable
+* Brag document
+* Weekly/monthly updates
+* Stuff I did/annual review
+* DevRel Protip
+* 10X Engineers
+
+* Happy Moment
+* Speaker bio (Notist?)
+
+* Ask Me Anything (AMA)
+* Manager README
+
+Mine
+https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
+https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
+
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+
+Wow
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
+https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
+
+https://blog.burntsushi.net/foss/
+https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauLoX – My involvement in the Python community
+
+Use
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+
+
+https://github.com/VGraupera/1on1-questions
+https://github.com/dmleong/manager-resources
+
+Great engineers
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+software development competency framework
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
+
+Co
+https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
+https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
+https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
 -->
 
 ## Eldarion
