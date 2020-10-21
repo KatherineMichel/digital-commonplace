@@ -154,10 +154,108 @@ https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United Stat
 https://nuzzel.com/friendsfeeds
 
 
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://freestateforge.com/map
+
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+
+## Important
+
+https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
+
+Don’t Mistake Activity for Progress
+https://www.youtube.com/watch?v=0MM-psvqiG8&feature=youtu.be | The difference between winning and succeeding | John Wooden - YouTube
+https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
+https://steveblank.com/2009/11/09/relentless-%E2%80%93-the-difference-between-motion-and-action/ | Relentless – The Difference Between Motion And Action | Steve Blank
+https://steveblank.com/2018/04/03/the-difference-between-innovators-and-entrepreneurs/ | Steve Blank The Difference Between Innovators and Entrepreneurs
+http://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html | Togelius: The differences between tinkering and research
+
+
+## Career
+
+* Move Twitter and other contacts into Airtable
+* Brag document
+* Weekly/monthly updates
+* Stuff I did/annual review
+* DevRel Protip
+* 10X Engineers
+
+* Happy Moment
+* Speaker bio (Notist?)
+
+* Ask Me Anything (AMA)
+* Manager README
+
+Adrienne... "Read what some of my direct reports had to say."
+
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
+https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
+
+https://blog.burntsushi.net/foss/
+https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauLoX – My involvement in the Python community
+
+https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
+
+
+Use
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+
+
+Co
+https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
+https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
+https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
+
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
+
+Casey
+https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
+
+https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
+
+http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
+
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+
+
+Mine
+https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
+https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
+
+Wow
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
+
+https://twitter.com/NimaRoohiS/status/1312916303225729026
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
+
+LinkedIn
+https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
+
+https://thestartingidea.com/personal-branding-guide/
+
+https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
 
 Brian
 https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
@@ -174,48 +272,10 @@ https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 201
 2020 Goals
 https://twitter.com/AutomationPanda/status/1226591212632596480
 
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
-
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-
-https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
-
-https://twitter.com/NimaRoohiS/status/1312916303225729026
-
-https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
-
-LinkedIn
-https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
-
-https://thestartingidea.com/personal-branding-guide/
-
-https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
-
 https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
 
 https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
 
 Content
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
@@ -237,11 +297,6 @@ https://bugs.python.org/issue33649
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
 Important
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
 
@@ -255,6 +310,42 @@ https://github.com/crweiner/hacktoberfest-swag-list
 https://github.com/digitalocean/hacktoberfest
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
+
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+
+GitLab
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+
+
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
+
+Record a Video/Gif
+
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Demos
+http://en.wikipedia.org/wiki/Vlog
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
+
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
 
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -736,6 +827,9 @@ https://a16z.com/2020/08/10/turning-open-source-developers-into-superfans/ | a16
 https://en.wikipedia.org/wiki/Kathy_Sierra | Kathy Sierra - Wikipedia
 https://headrush.typepad.com/creating_passionate_users/2005/05/users_dont_care.html | Creating Passionate Users: Users don't care if you are the best.
 
+http://www.quora.com/What-are-key-strategies-to-acquire-first-100K-users-with-zero-marketing-budget
+[Harry's](http://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email) 
+
 https://twitter.com/thisiskp_/status/1292793344272236545 | KP on Twitter: "Most founders struggle with how to acquire their first 100 beta sign ups for a new idea. I’ve done it for 2 products in the last few months (one has 1500+ beta sign ups and the other has 500+) without even going on @ProductHunt Here’s how I did it: 👇🏽 (a thread) 🧵" / Twitter
 https://twitter.com/lennysan/status/1293648872590331905
 
@@ -758,98 +852,6 @@ https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design Sy
 https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
 Design Centered Design
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
--->
-
-
-<!--
-DevRel
- 
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-
-GitLab
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
--->
-
-<!--
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://freestateforge.com/map
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
-
-Casey
-https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
-
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
-
-http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
-
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-http://www.quora.com/What-are-key-strategies-to-acquire-first-100K-users-with-zero-marketing-budget
-[Harry's](http://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email) 
-
-## Career
-
-* Move Twitter and other contacts into Airtable
-* Brag document
-* Weekly/monthly updates
-* Stuff I did/annual review
-* DevRel Protip
-* 10X Engineers
-
-* Happy Moment
-* Speaker bio (Notist?)
-
-* Ask Me Anything (AMA)
-* Manager README
-
-Mine
-https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
-https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
-
-https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
-
-Wow
-https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
-
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
-
-https://blog.burntsushi.net/foss/
-https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauLoX – My involvement in the Python community
-
-Use
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-
-https://github.com/VGraupera/1on1-questions
-https://github.com/dmleong/manager-resources
-
-Great engineers
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
-
-software development competency framework
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
-
-Co
-https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
-https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
-https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
 -->
 
 ## Eldarion
@@ -888,12 +890,22 @@ https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a 
 -->
 
 <!--
+https://github.com/VGraupera/1on1-questions
+
+Great engineers
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+software development competency framework
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
 Enineering manager
 https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
 
+https://github.com/dmleong/manager-resources
 https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
-https://github.com/VGraupera/1on1-questions
 
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
 https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
 
