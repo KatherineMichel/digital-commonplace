@@ -1,6 +1,8 @@
 # Python and JavaScript Learning Resources
 
 <!--
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
+
 Recs
 https://twitter.com/rlconley/status/1312079736198385665
 
