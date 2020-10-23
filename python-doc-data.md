@@ -283,7 +283,6 @@ https://docs.python.org/3/library/sysconfig.html
 https://docs.python.org/3/library/shutil.html
 
 
-
 11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
 https://docs.python.org/3/library/functions.html#repr
@@ -312,6 +311,24 @@ https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
 
 
+https://docs.python.org/3/library/http.html#http-status-codes
+
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/#beloved-features
+
+
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+https://docs.python.org/3/library/fnmatch.html
+
+
 10.12. Batteries Included
 https://docs.python.org/3/library/json.html#module-json
 https://docs.python.org/3/library/csv.html#module-csv
@@ -325,21 +342,44 @@ https://docs.python.org/3/library/csv.html#reader-objects
 https://docs.python.org/3/library/csv.html#writer-objects
 https://docs.python.org/3/library/csv.html#examples
 
+21. Internet Protocols and Support
 
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#sys.argv
+19.2. json — JSON encoder and decoder
+20.2. json — JSON encoder and decoder
+7.2.2. Saving structured data with json
+https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
 
-10.5. String Pattern Matching
-https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+https://docs.python.org/3/library/json.html
 
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-11.7. glob — Unix style pathname pattern expansion
-https://docs.python.org/3/library/glob.html
-https://docs.python.org/3/library/fnmatch.html
+https://docs.python.org/3/library/json.html#basic-usage
+https://docs.python.org/3/library/json.html#encoders-and-decoders
+https://docs.python.org/3/library/json.html#exceptions
+https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
+https://docs.python.org/3/library/json.html#character-encodings
+https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
+https://docs.python.org/3/library/json.html#repeated-names-within-an-object
+https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
+https://docs.python.org/3/library/json.html#implementation-limitations
+https://docs.python.org/3/library/json.html#module-json.tool
+https://docs.python.org/3/library/json.html#command-line-options
+
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
 
 
 11.7. Tools for Working with Lists
@@ -360,23 +400,10 @@ https://docs.python.org/3/library/queue.html#module-queue
 https://docs.python.org/3/library/queue.html#queue.Queue
 
 
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
 
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
 
 22.1. webbrowser — Convenient Web-browser controller
 https://docs.python.org/3/library/webbrowser.html
@@ -461,41 +488,10 @@ https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-position
 https://docs.python.org/3/library/re.html#raw-string-notation
 https://docs.python.org/3/library/re.html#writing-a-tokenizer
 
-6. Text Processing Services
-https://docs.python.org/3/library/text.html
 
 
 Unicode HOWTO
 https://docs.python.org/3/howto/unicode.html
-
-
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://requests.readthedocs.io/en/master/
-https://requests.readthedocs.io/en/master/#beloved-features
-
-
-21. Internet Protocols and Support
-
-19.2. json — JSON encoder and decoder
-20.2. json — JSON encoder and decoder
-7.2.2. Saving structured data with json
-https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
-
-https://docs.python.org/3/library/json.html
-
-https://docs.python.org/3/library/json.html#basic-usage
-https://docs.python.org/3/library/json.html#encoders-and-decoders
-https://docs.python.org/3/library/json.html#exceptions
-https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
-https://docs.python.org/3/library/json.html#character-encodings
-https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
-https://docs.python.org/3/library/json.html#repeated-names-within-an-object
-https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
-https://docs.python.org/3/library/json.html#implementation-limitations
-https://docs.python.org/3/library/json.html#module-json.tool
-https://docs.python.org/3/library/json.html#command-line-options
 
 
 https://www.sqlite.org/index.html
@@ -605,6 +601,8 @@ https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
 
+6. Text Processing Services
+https://docs.python.org/3/library/text.html
 
 21. Structured Markup Processing Tools
 21.1. html — HyperText Markup Language support
@@ -637,15 +635,8 @@ https://docs.python.org/3/library/http.cookiejar.html
 
 
 22.5. urllib — URL handling modules
-22.6. urllib.request — Extensible library for opening URLs
-22.7. urllib.response — Response classes used by urllib
-22.8. urllib.parse — Parse URLs into components
 
 https://docs.python.org/3/library/urllib.html
-https://docs.python.org/3/library/urllib.request.html
-https://docs.python.org/3/library/urllib.parse.html
-
-"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
 
 
 ## Data Model
