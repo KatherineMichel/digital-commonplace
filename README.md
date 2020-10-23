@@ -270,9 +270,15 @@ https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCG
 https://github.com/crweiner/hacktoberfest-swag-list
 https://github.com/digitalocean/hacktoberfest
 
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
+
+
+## Pinax
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 
 ## Demos and Other Content
@@ -311,6 +317,9 @@ Career
 * Manager README
 
 Adrienne... "Read what some of my direct reports had to say."
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
 
 https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
 https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
@@ -374,26 +383,21 @@ https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/wee
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
 
+## Making
 
+Projects
+https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
+https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
 
+Important
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+
+https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
-
-
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-
-## Making
 
 https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
 https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
@@ -407,78 +411,45 @@ https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc
 
 
 
+
+
 https://dev.to/nickytonline/projects-with-great-documentation-352h
 
 Important
 https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python | by Martin Heinz | Towards Data Science
 
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 
 https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
 https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
 
-Important
-https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
-
-Presentations
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (2) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-https://us.pycon.org/2019/schedule/presentation/212/ | Presentation: Python on Windows is Okay, Actually | PyCon 2019 in Cleveland, Ohio
-
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python | by Martin Heinz | Towards Data Science
-
-https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
-https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
-https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
-
-https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
-
-Every Cheese- Third party
-https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
-https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-obeying the testing goat - Google Search
-https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-
-https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.1.1 documentation
-
 https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
 
 
 
 
-Kofi
-https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
-https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
-https://yt.kofi.sexy/ | YT—mono
-https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
-
-
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-
-
 
 Talks
 https://twitter.com/simonw/status/1300193439573708800
 
 Hynek Schlawack, Carl Myer, Kyle Knapp
 
+
+https://twitter.com/wakaleo/status/854702550469234692
+
+
+
+## Community
+
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-https://twitter.com/wakaleo/status/854702550469234692
-
-
 
 ## Dev Tools and Standards
 
@@ -601,21 +572,33 @@ https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
-## Python and Django
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
 
-https://djangobuilder.io/#/ | Django Builder
+
+https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
+
+https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
+https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
+
+https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 
 
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+Every Cheese- Third party
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 
-Projects
-https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
-https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+obeying the testing goat - Google Search
+https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
 
-https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
-
-Kojo
-https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
+https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.1.1 documentation
 
 
 Recs
@@ -626,81 +609,47 @@ https://twitter.com/PrasoonPratham/status/1313392420038483968
 
 https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
 
-https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
-
-
-https://github.com/wsvincent/awesome-django
-
-Class-based Sites
-https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
-
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
 
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
+
+
+https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+
+
+
+
+## Django
+
+https://github.com/wsvincent/awesome-django
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+https://djangobuilder.io/#/ | Django Builder
 
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
-https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
-
-https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
-
-Nina
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
-
-Packaging Talk
-https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This is not my favourite version of this python packaging talk, but it is the most up-to-date." / Twitter
-
-Stop Writing Classes
-https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
-
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
-Pass by value versus pass by reference
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-http://purplediane.github.io/python/2017/05/14/variables-and-references.html
-
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
 https://github.com/phildini/api-driven-django
 
-https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
+Kojo
+https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
+
+Class-based Sites
+https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
 
 https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
-
-https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
-
-https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
 
@@ -717,6 +666,52 @@ https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Di
 https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
 https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
 https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+## Python
+
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+
+Pass by value versus pass by reference
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
+https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
+
+https://us.pycon.org/2019/schedule/presentation/212/ | Presentation: Python on Windows is Okay, Actually | PyCon 2019 in Cleveland, Ohio
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+Nina
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+
+https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
+
+Packaging Talk
+https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This is not my favourite version of this python packaging talk, but it is the most up-to-date." / Twitter
+
+Stop Writing Classes
+https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+
+https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
 
 ## Security
@@ -1026,12 +1021,20 @@ https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
 https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
 
 https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
+-->
 
-
+<!--
 Co
 https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
 https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
 https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
+
+https://github.com/jazzband | Jazzband
+
+https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
+https://github.com/pantsbuild/example-python
+
+https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
 -->
 
 ## High Performance Trends
@@ -1063,16 +1066,6 @@ Stack
 ## Major Organizations and Projects that Use Python or Django
 ## Django Consulting Firms
 ## Major Organizations and Projects that Use Django
-
-<!--
-https://github.com/jazzband | Jazzband
-
-https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
-https://github.com/pantsbuild/example-python
-
-https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
--->
-
 
 ## Performance
 
@@ -1794,6 +1787,12 @@ https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Action
 ## Projects
 
 <!--
+Kofi
+https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
+https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
+https://yt.kofi.sexy/ | YT—mono
+https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
+
 https://github.com/akamhy/waybackpy
 https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
 https://github.com/PyBites-Open-Source/karmabot
