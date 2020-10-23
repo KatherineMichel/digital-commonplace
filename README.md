@@ -366,25 +366,6 @@ https://github.com/realpython/
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
-## Coding Challenges
-
-https://www.careercup.com/forumpost?id=5726789051613184 | Interview Preparation Grid | CareerCup
-https://www.hackerrank.com/domains/tutorials/10-days-of-javascript | Solve Tutorials | HackerRank
-
-Coding challenge
-https://www.freecodecamp.com/challenges/stand-in-line
-
-https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
-https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
-https://en.wikipedia.org/wiki/Recursion
-https://realpython.com/python-thinking-recursively/
-
-https://ide.geeksforgeeks.org/
-https://www.hackerrank.com/interview/interview-preparation-kit
-https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/
-https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
-
 
 ## Making
 
@@ -570,47 +551,28 @@ https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
+## Python Tools, Requirements, and Packaging
 
+Every Cheese- Third party
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 
+https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
 
-https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
-https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
 
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
+https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
 
+https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.1.1 documentation
 
-https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
-
-https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
-https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
+## Testing and Stuff
 
 https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
 
-
-https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
-https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
-
-
-Every Cheese- Third party
-https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
-https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
-
 obeying the testing goat - Google Search
 https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-
-https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.1.1 documentation
-
-
-Recs
-https://twitter.com/rlconley/status/1312079736198385665
-
-https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
-
 
 
 ## Django
@@ -1218,6 +1180,7 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 -->
+
 
 ## Python- What's New
 
@@ -2387,7 +2350,15 @@ https://en.m.wikipedia.org/wiki/YAML
 
 
 
+
 <!--
+https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
+https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
+
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 GraphQL/Relay
