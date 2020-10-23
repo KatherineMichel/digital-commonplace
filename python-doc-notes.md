@@ -310,38 +310,10 @@ https://docs.python.org/3/library/pydoc.html
 
 27.3. doctest — Test interactive Python examples
 https://docs.python.org/3/library/doctest.html
-https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
-https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
-https://docs.python.org/3/library/doctest.html#how-it-works
-https://docs.python.org/3/library/doctest.html#which-docstrings-are-examined
-https://docs.python.org/3/library/doctest.html#how-are-docstring-examples-recognized
-https://docs.python.org/3/library/doctest.html#what-s-the-execution-context
-https://docs.python.org/3/library/doctest.html#what-about-exceptions
-https://docs.python.org/3/library/doctest.html#option-flags
-https://docs.python.org/3/library/doctest.html#directives
-https://docs.python.org/3/library/doctest.html#warnings
-https://docs.python.org/3/library/doctest.html#basic-api
-https://docs.python.org/3/library/doctest.html#unittest-api
-https://docs.python.org/3/library/doctest.html#advanced-api
-https://docs.python.org/3/library/doctest.html#doctest-objects
-https://docs.python.org/3/library/doctest.html#example-objects
-https://docs.python.org/3/library/doctest.html#doctestfinder-objects
-https://docs.python.org/3/library/doctest.html#doctestparser-objects
-https://docs.python.org/3/library/doctest.html#doctestrunner-objects
-https://docs.python.org/3/library/doctest.html#outputchecker-objects
-https://docs.python.org/3/library/doctest.html#debugging
-https://docs.python.org/3/library/doctest.html#soapbox
 -->
 
 
 <!--
-## Performance
-
-36.11. resource — Resource usage information
-https://docs.python.org/3/library/resource.html
-https://docs.python.org/3/library/resource.html#resource-limits
-https://docs.python.org/3/library/resource.html#resource-usage
-
 ## Debugging and Profiling
 
 https://pypi.org/project/ipdb/ | ipdb · PyPI
@@ -368,34 +340,11 @@ https://docs.python.org/3/library/faulthandler.html#issue-with-file-descriptors
 https://docs.python.org/3/library/faulthandler.html#example
 
 https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-https://docs.python.org/3/library/profile.html#module-cProfile
-https://docs.python.org/3/library/profile.html#the-stats-class
-https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
-https://docs.python.org/3/library/profile.html#limitations
-https://docs.python.org/3/library/profile.html#calibration
-https://docs.python.org/3/library/profile.html#using-a-custom-timer
-
 https://docs.python.org/3/library/timeit.html
-https://docs.python.org/3/library/timeit.html#basic-examples
-https://docs.python.org/3/library/timeit.html#python-interface
-https://docs.python.org/3/library/timeit.html#command-line-interface
-https://docs.python.org/3/library/timeit.html#examples
-
 https://docs.python.org/3/library/trace.html
-https://docs.python.org/3/library/trace.html#command-line-usage
-https://docs.python.org/3/library/trace.html#main-options
-https://docs.python.org/3/library/trace.html#modifiers
-https://docs.python.org/3/library/trace.html#filters
-https://docs.python.org/3/library/trace.html#programmatic-interface
 
 29.9. traceback — Print or retrieve a stack traceback
 https://docs.python.org/3/library/traceback.html
-https://docs.python.org/3/library/traceback.html#tracebackexception-objects
-https://docs.python.org/3/library/traceback.html#stacksummary-objects
-https://docs.python.org/3/library/traceback.html#framesummary-objects
-https://docs.python.org/3/library/traceback.html#traceback-examples
 
 https://docs.python.org/3/library/tracemalloc.html
 https://docs.python.org/3/library/tracemalloc.html#examples
@@ -486,10 +435,6 @@ https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
 https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
 
 f-string
-https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
-https://docs.python.org/3/glossary.html#term-f-string
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
 
 8.11. pprint — Data pretty printer
 https://docs.python.org/3/library/pprint.html
@@ -736,15 +681,22 @@ https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
 
 https://stackoverflow.com/questions/2018026/what-are-the-differences-between-the-urllib-urllib2-urllib3-and-requests-modul
 
-HOWTO Fetch Internet Resources Using The urllib Package
-https://docs.python.org/3/howto/urllib2.html
+"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
 
 22.5. urllib — URL handling modules
 22.6. urllib.request — Extensible library for opening URLs
 22.7. urllib.response — Response classes used by urllib
 22.8. urllib.parse — Parse URLs into components
+
 22.9. urllib.error — Exception classes raised by urllib.request
 22.10. urllib.robotparser — Parser for robots.txt
+
+https://docs.python.org/3/library/urllib.html
+https://docs.python.org/3/library/urllib.request.html
+https://docs.python.org/3/library/urllib.parse.html
+
+HOWTO Fetch Internet Resources Using The urllib Package
+https://docs.python.org/3/howto/urllib2.html
 
 https://docs.python.org/3/library/urllib.html
 https://docs.python.org/3/library/urllib.request.html
