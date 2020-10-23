@@ -241,54 +241,105 @@ https://docs.python.org/3/library/warnings.html#available-functions
 https://docs.python.org/3/library/warnings.html#available-context-managers
 
 
-https://docs.python.org/3/library/allos.html
 
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
+https://docs.pytest.org/en/stable/
 
-10.1. Operating System Interface
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+27.4. unittest — Unit testing framework
+27.5. unittest.mock — mock object library
+27.6. unittest.mock — getting started
+27.8. test — Regression tests package for Python
+27.9. test.support — Utilities for the Python test suite
+27.10. test.support.script_helper — Utilities for the Python execution tests
 
-https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+https://docs.python.org/3/library/unittest.html#unittest.TestCase
 
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
+7.3. The assert statement
+https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
+AssertionError
 
-11.2. os.path — Common pathname manipulations
-https://docs.python.org/3/library/os.path.html
+Where is this?
+https://docs.python.org/3/library/unittest.html#assert-methods
 
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
-https://docs.python.org/3/library/os.html#os.stat
+https://docs.python.org/3/library/unittest.html#test-discovery
 
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-Interesting (os and os.path versus pathlib)
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+https://docs.python.org/3/library/unittest.html
+https://docs.python.org/3/library/unittest.html#basic-example
+https://docs.python.org/3/library/unittest.html#command-line-interface
+https://docs.python.org/3/library/unittest.html#command-line-options
+https://docs.python.org/3/library/unittest.html#organizing-test-code
+https://docs.python.org/3/library/unittest.html#re-using-old-test-code
+https://docs.python.org/3/library/unittest.html#skipping-tests-and-expected-failures
+https://docs.python.org/3/library/unittest.html#distinguishing-test-iterations-using-subtests
+https://docs.python.org/3/library/unittest.html#classes-and-functions
+https://docs.python.org/3/library/unittest.html#test-cases
+https://docs.python.org/3/library/unittest.html#deprecated-aliases
+https://docs.python.org/3/library/unittest.html#grouping-tests
+https://docs.python.org/3/library/unittest.html#loading-and-running-tests
+https://docs.python.org/3/library/unittest.html#class-and-module-fixtures
+https://docs.python.org/3/library/unittest.html#setupclass-and-teardownclass
+https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
+https://docs.python.org/3/library/unittest.html#signal-handling
 
-29.1. sys — System-specific parameters and functions
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.path
-https://docs.python.org/3/library/sys.html#sys.stdin
-https://docs.python.org/3/library/sys.html#sys.stdout
-https://docs.python.org/3/library/sys.html#sys.stderr
+unittest.mock patch
+https://docs.python.org/3/library/unittest.mock.html
+https://docs.python.org/3/library/unittest.mock.html#quick-guide
+https://docs.python.org/3/library/unittest.mock.html#the-mock-class
+https://docs.python.org/3/library/unittest.mock.html#calling
+https://docs.python.org/3/library/unittest.mock.html#deleting-attributes
+https://docs.python.org/3/library/unittest.mock.html#mock-names-and-the-name-attribute
+https://docs.python.org/3/library/unittest.mock.html#attaching-mocks-as-attributes
+https://docs.python.org/3/library/unittest.mock.html#the-patchers
+https://docs.python.org/3/library/unittest.mock.html#patch
+https://docs.python.org/3/library/unittest.mock.html#patch-object
+https://docs.python.org/3/library/unittest.mock.html#patch-dict
+https://docs.python.org/3/library/unittest.mock.html#patch-multiple
+https://docs.python.org/3/library/unittest.mock.html#patch-methods-start-and-stop
+https://docs.python.org/3/library/unittest.mock.html#patch-builtins
+https://docs.python.org/3/library/unittest.mock.html#test-prefix
+https://docs.python.org/3/library/unittest.mock.html#nesting-patch-decorators
+https://docs.python.org/3/library/unittest.mock.html#where-to-patch
+https://docs.python.org/3/library/unittest.mock.html#patching-descriptors-and-proxy-objects
+https://docs.python.org/3/library/unittest.mock.html#magicmock-and-magic-method-support
+https://docs.python.org/3/library/unittest.mock.html#mocking-magic-methods
+https://docs.python.org/3/library/unittest.mock.html#magic-mock
+https://docs.python.org/3/library/unittest.mock.html#helpers
+https://docs.python.org/3/library/unittest.mock.html#sentinel
+https://docs.python.org/3/library/unittest.mock.html#default
+https://docs.python.org/3/library/unittest.mock.html#call
+https://docs.python.org/3/library/unittest.mock.html#create-autospec
+https://docs.python.org/3/library/unittest.mock.html#any
+https://docs.python.org/3/library/unittest.mock.html#filter-dir
+https://docs.python.org/3/library/unittest.mock.html#mock-open
+https://docs.python.org/3/library/unittest.mock.html#autospeccing
+https://docs.python.org/3/library/unittest.mock.html#sealing-mocks
 
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
-
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-https://docs.python.org/3/library/functions.html#repr
-https://docs.python.org/3/library/pprint.html#module-pprint
-
-
+https://docs.python.org/3/library/unittest.mock-examples.html
+https://docs.python.org/3/library/unittest.mock-examples.html#unittest-mock-getting-started
+https://docs.python.org/3/library/unittest.mock-examples.html#using-mock
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-patching-methods
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-for-method-calls-on-an-object
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-classes
+https://docs.python.org/3/library/unittest.mock-examples.html#naming-your-mocks
+https://docs.python.org/3/library/unittest.mock-examples.html#tracking-all-calls
+https://docs.python.org/3/library/unittest.mock-examples.html#setting-return-values-and-attributes
+https://docs.python.org/3/library/unittest.mock-examples.html#raising-exceptions-with-mocks
+https://docs.python.org/3/library/unittest.mock-examples.html#side-effect-functions-and-iterables
+https://docs.python.org/3/library/unittest.mock-examples.html#creating-a-mock-from-an-existing-object
+https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
+https://docs.python.org/3/library/unittest.mock-examples.html#further-examples
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-chained-calls
+https://docs.python.org/3/library/unittest.mock-examples.html#partial-mocking
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-generator-method
+https://docs.python.org/3/library/unittest.mock-examples.html#applying-the-same-patch-to-every-test-method
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-unbound-methods
+https://docs.python.org/3/library/unittest.mock-examples.html#checking-multiple-calls-with-mock
+https://docs.python.org/3/library/unittest.mock-examples.html#coping-with-mutable-arguments
+https://docs.python.org/3/library/unittest.mock-examples.html#nesting-patches
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-dictionary-with-magicmock
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-and-their-attributes
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
+https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
+https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
 
 ## Performance
@@ -350,6 +401,59 @@ https://docs.python.org/3/library/traceback.html#traceback-examples
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
+
+
+
+## Platform
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+https://docs.python.org/3/library/os.html#os.stat
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
+
+
 
 
 https://docs.python.org/3/library/http.html#http-status-codes
@@ -530,7 +634,6 @@ https://docs.python.org/3/library/re.html#raw-string-notation
 https://docs.python.org/3/library/re.html#writing-a-tokenizer
 
 
-
 Unicode HOWTO
 https://docs.python.org/3/howto/unicode.html
 
@@ -540,106 +643,6 @@ https://docs.python.org/3/library/sqlite3.html
 
 https://docs.python.org/3/library/cgi.html
 https://docs.python.org/3/library/wsgiref.html
-
-
-https://docs.pytest.org/en/stable/
-
-27.4. unittest — Unit testing framework
-27.5. unittest.mock — mock object library
-27.6. unittest.mock — getting started
-27.8. test — Regression tests package for Python
-27.9. test.support — Utilities for the Python test suite
-27.10. test.support.script_helper — Utilities for the Python execution tests
-
-https://docs.python.org/3/library/unittest.html#unittest.TestCase
-
-7.3. The assert statement
-https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
-AssertionError
-
-Where is this?
-https://docs.python.org/3/library/unittest.html#assert-methods
-
-https://docs.python.org/3/library/unittest.html#test-discovery
-
-https://docs.python.org/3/library/unittest.html
-https://docs.python.org/3/library/unittest.html#basic-example
-https://docs.python.org/3/library/unittest.html#command-line-interface
-https://docs.python.org/3/library/unittest.html#command-line-options
-https://docs.python.org/3/library/unittest.html#organizing-test-code
-https://docs.python.org/3/library/unittest.html#re-using-old-test-code
-https://docs.python.org/3/library/unittest.html#skipping-tests-and-expected-failures
-https://docs.python.org/3/library/unittest.html#distinguishing-test-iterations-using-subtests
-https://docs.python.org/3/library/unittest.html#classes-and-functions
-https://docs.python.org/3/library/unittest.html#test-cases
-https://docs.python.org/3/library/unittest.html#deprecated-aliases
-https://docs.python.org/3/library/unittest.html#grouping-tests
-https://docs.python.org/3/library/unittest.html#loading-and-running-tests
-https://docs.python.org/3/library/unittest.html#class-and-module-fixtures
-https://docs.python.org/3/library/unittest.html#setupclass-and-teardownclass
-https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
-https://docs.python.org/3/library/unittest.html#signal-handling
-
-unittest.mock patch
-https://docs.python.org/3/library/unittest.mock.html
-https://docs.python.org/3/library/unittest.mock.html#quick-guide
-https://docs.python.org/3/library/unittest.mock.html#the-mock-class
-https://docs.python.org/3/library/unittest.mock.html#calling
-https://docs.python.org/3/library/unittest.mock.html#deleting-attributes
-https://docs.python.org/3/library/unittest.mock.html#mock-names-and-the-name-attribute
-https://docs.python.org/3/library/unittest.mock.html#attaching-mocks-as-attributes
-https://docs.python.org/3/library/unittest.mock.html#the-patchers
-https://docs.python.org/3/library/unittest.mock.html#patch
-https://docs.python.org/3/library/unittest.mock.html#patch-object
-https://docs.python.org/3/library/unittest.mock.html#patch-dict
-https://docs.python.org/3/library/unittest.mock.html#patch-multiple
-https://docs.python.org/3/library/unittest.mock.html#patch-methods-start-and-stop
-https://docs.python.org/3/library/unittest.mock.html#patch-builtins
-https://docs.python.org/3/library/unittest.mock.html#test-prefix
-https://docs.python.org/3/library/unittest.mock.html#nesting-patch-decorators
-https://docs.python.org/3/library/unittest.mock.html#where-to-patch
-https://docs.python.org/3/library/unittest.mock.html#patching-descriptors-and-proxy-objects
-https://docs.python.org/3/library/unittest.mock.html#magicmock-and-magic-method-support
-https://docs.python.org/3/library/unittest.mock.html#mocking-magic-methods
-https://docs.python.org/3/library/unittest.mock.html#magic-mock
-https://docs.python.org/3/library/unittest.mock.html#helpers
-https://docs.python.org/3/library/unittest.mock.html#sentinel
-https://docs.python.org/3/library/unittest.mock.html#default
-https://docs.python.org/3/library/unittest.mock.html#call
-https://docs.python.org/3/library/unittest.mock.html#create-autospec
-https://docs.python.org/3/library/unittest.mock.html#any
-https://docs.python.org/3/library/unittest.mock.html#filter-dir
-https://docs.python.org/3/library/unittest.mock.html#mock-open
-https://docs.python.org/3/library/unittest.mock.html#autospeccing
-https://docs.python.org/3/library/unittest.mock.html#sealing-mocks
-
-https://docs.python.org/3/library/unittest.mock-examples.html
-https://docs.python.org/3/library/unittest.mock-examples.html#unittest-mock-getting-started
-https://docs.python.org/3/library/unittest.mock-examples.html#using-mock
-https://docs.python.org/3/library/unittest.mock-examples.html#mock-patching-methods
-https://docs.python.org/3/library/unittest.mock-examples.html#mock-for-method-calls-on-an-object
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-classes
-https://docs.python.org/3/library/unittest.mock-examples.html#naming-your-mocks
-https://docs.python.org/3/library/unittest.mock-examples.html#tracking-all-calls
-https://docs.python.org/3/library/unittest.mock-examples.html#setting-return-values-and-attributes
-https://docs.python.org/3/library/unittest.mock-examples.html#raising-exceptions-with-mocks
-https://docs.python.org/3/library/unittest.mock-examples.html#side-effect-functions-and-iterables
-https://docs.python.org/3/library/unittest.mock-examples.html#creating-a-mock-from-an-existing-object
-https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
-https://docs.python.org/3/library/unittest.mock-examples.html#further-examples
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-chained-calls
-https://docs.python.org/3/library/unittest.mock-examples.html#partial-mocking
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-generator-method
-https://docs.python.org/3/library/unittest.mock-examples.html#applying-the-same-patch-to-every-test-method
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-unbound-methods
-https://docs.python.org/3/library/unittest.mock-examples.html#checking-multiple-calls-with-mock
-https://docs.python.org/3/library/unittest.mock-examples.html#coping-with-mutable-arguments
-https://docs.python.org/3/library/unittest.mock-examples.html#nesting-patches
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-dictionary-with-magicmock
-https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-and-their-attributes
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
-https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
-https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
 
 6. Text Processing Services
