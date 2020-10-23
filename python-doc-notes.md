@@ -589,6 +589,55 @@ https://docs.python.org/3/library/dataclasses.html#exceptions
 
 ## Utilities
 
+22.2. cgi — Common Gateway Interface support
+22.3. cgitb — Traceback manager for CGI scripts
+22.4. wsgiref — WSGI Utilities and Reference Implementation
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/cgi.html#introduction
+https://docs.python.org/3/library/cgi.html#using-the-cgi-module
+https://docs.python.org/3/library/cgi.html#higher-level-interface
+https://docs.python.org/3/library/cgi.html#functions
+https://docs.python.org/3/library/cgi.html#caring-about-security
+https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
+https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
+https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
+https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
+
+https://docs.python.org/3/library/cgitb.html
+
+https://docs.python.org/3/library/wsgiref.html
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
+https://docs.python.org/3/library/wsgiref.html#examples
+
+12. Data Persistence
+12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
+https://docs.python.org/3/library/sqlite3.html#connection-objects
+https://docs.python.org/3/library/sqlite3.html#cursor-objects
+https://docs.python.org/3/library/sqlite3.html#row-objects
+https://docs.python.org/3/library/sqlite3.html#exceptions
+https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
+https://docs.python.org/3/library/sqlite3.html#introduction
+https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
+https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
+https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
+https://docs.python.org/3/library/sqlite3.html#controlling-transactions
+https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
+https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
+https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
+https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
+https://docs.python.org/3/library/sqlite3.html#common-issues
+
+https://docs.python.org/3/library/sqlite3.html#multithreading
+
 16.14. platform — Access to underlying platform’s identifying data
 https://docs.python.org/3/library/platform.html
 https://docs.python.org/3/library/platform.html#cross-platform
