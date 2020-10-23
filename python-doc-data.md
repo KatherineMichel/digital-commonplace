@@ -291,6 +291,12 @@ https://docs.python.org/3/library/pprint.html#module-pprint
 
 
 
+## Performance
+
+36.11. resource — Resource usage information
+https://docs.python.org/3/library/resource.html
+https://docs.python.org/3/library/resource.html#resource-limits
+https://docs.python.org/3/library/resource.html#resource-usage
 
 10.11. Quality Control
 https://docs.python.org/3/tutorial/stdlib.html#quality-control
