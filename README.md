@@ -86,6 +86,8 @@ https://twitter.com/hunterwalk/status/1294699190585454592
 Checklist Manifesto
 
 
+## Conferences
+
 https://www.writethedocs.org
 
 Every Friday
@@ -141,19 +143,7 @@ https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bing
 https://twitter.com/pyladiessf | PyLadies SF (@pyladiessf) / Twitter
 
 
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-https://devrel.io/ | DevRel IO - The Best DevRel Advice
-https://www.devrelcon.net/
-https://2018.devrelawards.com/
-https://twitter.com/DevRelAwards
-https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
-
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-
+## People and Places
 
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
@@ -173,7 +163,6 @@ https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United Stat
 
 https://nuzzel.com/friendsfeeds
 
-
 https://freestateforge.com/map
 
 Southern California Tech Industry
@@ -183,9 +172,129 @@ https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxm
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+## DevRel
 
+https://devrel.io/ | DevRel IO - The Best DevRel Advice
+https://www.devrelcon.net/
+https://2018.devrelawards.com/
+https://twitter.com/DevRelAwards
+https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
+
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
+
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
+
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+
+GitLab
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+
+
+## Personal Brand
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
+
+https://thestartingidea.com/personal-branding-guide/
+
+https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
+
+Brian
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
+https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+
+Speaking
+https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
+https://speakerdeck.com/pycon2018?page=2
+https://automationpanda.com/speaking/
+https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
+https://awesomeblog.club/ | Awesomeblog.club - explore
+https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
+https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
+http://www.hawraf.com/
+
+https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+## Opportunities
+
+https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
+https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
+https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
+Open Source
+https://opensource.com/how-submit-article | Write for us | Opensource.com
+https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
+https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
+Digital Ocean
+https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
+https://www.digitalocean.com/community/pages/write-for-digitalocean
+Traversy Media
+https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
+
+https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
+https://bugs.python.org/issue33649
+
+Season of Docs- Django
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
+Important
+https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
+
+Speaking at Vancouver PyLadies
+https://www.meetup.com/PyLadies-Vancouver/events/273584092/
+https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
+
+https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
+
+https://github.com/crweiner/hacktoberfest-swag-list
+https://github.com/digitalocean/hacktoberfest
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
+
+
+## Demos and Other Content
+
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
+
+Record a Video/Gif
+
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Demos
+http://en.wikipedia.org/wiki/Vlog
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
+
+
+## Career
 
 Career
 * Move Twitter and other contacts into Airtable
@@ -230,127 +339,7 @@ LinkedIn
 https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
-
-https://thestartingidea.com/personal-branding-guide/
-
-https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
-
-Brian
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
-https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
-https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
-
-Speaking
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
-
-2020 Goals
-https://twitter.com/AutomationPanda/status/1226591212632596480
-
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-
-Content
-https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
-https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
-https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
-Open Source
-https://opensource.com/how-submit-article | Write for us | Opensource.com
-https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
-https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
-Digital Ocean
-https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
-https://www.digitalocean.com/community/pages/write-for-digitalocean
-Traversy Media
-https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
-
-https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
-https://bugs.python.org/issue33649
-
-Season of Docs- Django
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-
-Important
-https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
-
-Speaking at Vancouver PyLadies
-https://www.meetup.com/PyLadies-Vancouver/events/273584092/
-https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
-
-https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
-
-https://github.com/crweiner/hacktoberfest-swag-list
-https://github.com/digitalocean/hacktoberfest
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
-
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
-
-
-
-
-
-
-
-
-Use
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-Co
-https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
-https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
-https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
-
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
-
-
-
-
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
-
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-
-GitLab
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
-
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
+## Learning
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
 https://realpython.com/account/purchases/ | Your Purchases – Real Python
@@ -384,6 +373,27 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/
 https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year
 
+
+
+
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
+
+
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+
+## Making
 
 https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
 https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
@@ -442,26 +452,6 @@ https://help.github.com/en/actions/language-and-framework-guides/using-python-wi
 
 
 
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
-https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
-
-Make
-https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
-
-https://twitter.com/levelsio/status/1314280439243300865
-
-https://github.com/phodal/growth-in-action
-
 
 Kofi
 https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
@@ -469,34 +459,10 @@ https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing
 https://yt.kofi.sexy/ | YT—mono
 https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
 
-https://pyvideo.org/ | PyVideo.org
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-https://www.w3.org/DesignIssues/Architecture.html
-https://andreasbm.github.io/web-skills/?compact | Web Skills
-
-https://github.com/TheAlgorithms/Python
-
-https://sqlite.org/
-
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-Algorithms
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
 Talks
@@ -510,6 +476,11 @@ http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
+https://twitter.com/wakaleo/status/854702550469234692
+
+
+
+## Dev Tools and Standards
 
 https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
 https://chromeos.dev/en | Chrome OS | chromeOS.dev
@@ -521,7 +492,30 @@ https://github.com/tc39
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 
-https://twitter.com/wakaleo/status/854702550469234692
+## Important
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://pyvideo.org/ | PyVideo.org
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+https://www.w3.org/DesignIssues/Architecture.html
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+Algorithms
+https://github.com/TheAlgorithms/Python
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 
@@ -549,7 +543,6 @@ https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
 
-
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
 
 https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
@@ -560,14 +553,12 @@ https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
 
 https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
-
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://simple.wikipedia.org/wiki/Packet_(computing)
 https://www.tutorialspoint.com/unix/unix-quick-guide.htm
 https://www.tutorialspoint.com/unix/unix-useful-commands.htm
 https://www.tutorialspoint.com/unix_commands/index.htm
 https://www.tutorialspoint.com/unix_system_calls/index.htm
-
 
 https://regexcrossword.com/ | Regex Crossword
 https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
@@ -609,6 +600,8 @@ https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
+
+## Python and Django
 
 https://djangobuilder.io/#/ | Django Builder
 
@@ -726,6 +719,8 @@ https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-
 https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
 
 
+## Security
+
 Django security
 https://learndjango.com/tutorials/django-best-practices-security
 
@@ -805,6 +800,19 @@ https://github.com/jamstack/jamstack.org
 https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
 https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
 https://twitter.com/mojombo/status/1313572403595759616
+
+
+https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
+
+Make
+https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
+
+https://twitter.com/levelsio/status/1314280439243300865
+
+https://github.com/phodal/growth-in-action
 
 
 Sid
@@ -953,6 +961,7 @@ http://www.paulgraham.com/talk.html | Write Like You Talk
 https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
 -->
 
+
 ## General Talks
 
 <!--
@@ -987,6 +996,7 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
+
 <!--
 lyftvm
 
@@ -1016,6 +1026,12 @@ https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
 https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
 
 https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
+
+
+Co
+https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
+https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
+https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
 -->
 
 ## High Performance Trends
@@ -1335,6 +1351,8 @@ https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twit
 GitLab Important
 https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 
 https://twitter.com/dnsmichi/status/1314267751607869442
 https://twitter.com/melsmo/status/1313180759889305601
