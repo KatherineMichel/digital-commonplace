@@ -289,6 +289,9 @@ https://docs.python.org/3/library/functions.html#repr
 https://docs.python.org/3/library/pprint.html#module-pprint
 
 
+
+
+
 10.11. Quality Control
 https://docs.python.org/3/tutorial/stdlib.html#quality-control
 
@@ -305,6 +308,38 @@ https://docs.python.org/3/library/trace.html
 https://docs.python.org/3/library/profile.html#module-profile
 https://docs.python.org/3/library/timeit.html#module-timeit
 https://docs.python.org/3/library/profile.html#module-pstats
+
+
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
+https://docs.python.org/3/library/profile.html#module-cProfile
+https://docs.python.org/3/library/profile.html#the-stats-class
+https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
+https://docs.python.org/3/library/profile.html#limitations
+https://docs.python.org/3/library/profile.html#calibration
+https://docs.python.org/3/library/profile.html#using-a-custom-timer
+
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/timeit.html#basic-examples
+https://docs.python.org/3/library/timeit.html#python-interface
+https://docs.python.org/3/library/timeit.html#command-line-interface
+https://docs.python.org/3/library/timeit.html#examples
+
+https://docs.python.org/3/library/trace.html
+https://docs.python.org/3/library/trace.html#command-line-usage
+https://docs.python.org/3/library/trace.html#main-options
+https://docs.python.org/3/library/trace.html#modifiers
+https://docs.python.org/3/library/trace.html#filters
+https://docs.python.org/3/library/trace.html#programmatic-interface
+
+29.9. traceback — Print or retrieve a stack traceback
+https://docs.python.org/3/library/traceback.html
+https://docs.python.org/3/library/traceback.html#tracebackexception-objects
+https://docs.python.org/3/library/traceback.html#stacksummary-objects
+https://docs.python.org/3/library/traceback.html#framesummary-objects
+https://docs.python.org/3/library/traceback.html#traceback-examples
+
 
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
