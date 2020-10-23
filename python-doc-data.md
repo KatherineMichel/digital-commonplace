@@ -3,6 +3,9 @@
 ## General Notes
 
 <!--
+pathlib
+https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
+
 File path
 https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
 
