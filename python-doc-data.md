@@ -38,32 +38,15 @@ https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_
 <!--
 https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 
-negative indexes python - Google Search
-
-Coding problems
-https://docs.python.org/3/library/string.html | string — Common string operations — Python 3.10.0a0 documentation
-https://docs.python.org/3/library/stdtypes.html#str.replace
-https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
-
-https://docs.python.org/3/library/array.html | array — Efficient arrays of numeric values — Python 3.8.6rc1 documentation
-https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
-https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
-https://docs.python.org/2.3/whatsnew/section-slices.html | 15 Extended Slices
-https://docs.python.org/3.4/library/functions.html?highlight=ord#ord | 2. Built-in Functions — Python 3.4.10 documentation
-https://en.wikipedia.org/wiki/Bit_array | Bit array - Wikipedia
-
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
 https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
 
 https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
 
-Errors
-https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
-https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
-https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
-https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+negative indexes python - Google Search
 
 https://en.wikipedia.org/wiki/Control_flow
 https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
@@ -76,20 +59,37 @@ https://docs.python.org/3/library/functions.html | Built-in Functions — Python
 https://docs.python.org/3/library/functions.html#built-in-funcs
 https://docs.python.org/3/library/constants.html#built-in-consts
 
+Super
+https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+
+Errors
+https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
+https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
+https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
+
+Path
 https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
 https://docs.python.org/3/library/os.path.html#os.path.join
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
 
-Super
-https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+String
+https://docs.python.org/3/library/string.html | string — Common string operations — Python 3.10.0a0 documentation
+https://docs.python.org/3/library/stdtypes.html#str.replace
+https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
 
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+Array
+https://docs.python.org/3/library/array.html | array — Efficient arrays of numeric values — Python 3.8.6rc1 documentation
 
-f-strings
-https://realpython.com/python-f-strings/ | Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings | 2. Lexical analysis — Python 3.8.3 documentation
+Range
+https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
+
+Slicing
+https://docs.python.org/2.3/whatsnew/section-slices.html | 15 Extended Slices
 -->
+
 
 ## Strings
 
@@ -121,21 +121,6 @@ https://docs.python.org/3/library/stdtypes.html#str.strip
 -->
 
 <!--
-## Tutorial
-
-3. An Informal Introduction to Python
-https://docs.python.org/3/tutorial/introduction.html
-https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-https://docs.python.org/3/tutorial/introduction.html#numbers
-https://docs.python.org/3/tutorial/introduction.html#strings
-https://docs.python.org/3/library/stdtypes.html#textseq
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-Fibonacci series 
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-
-
 Unix
 https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
 https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
@@ -163,13 +148,51 @@ https://docs.python.org/3/library/tempfile.html#module-tempfile
 https://docs.python.org/3/library/shutil.html#module-shutil
 
 
-f-string
-https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
-https://docs.python.org/3/glossary.html#term-f-string
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
 
 
+
+## Platform
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+https://docs.python.org/3/library/os.html#os.stat
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
 
 
 ## Utilities
@@ -434,49 +457,20 @@ https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
 
 
+## Tutorial
 
-## Platform
+3. An Informal Introduction to Python
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+https://docs.python.org/3/tutorial/introduction.html#numbers
+https://docs.python.org/3/tutorial/introduction.html#strings
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+Fibonacci series 
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
 
-https://docs.python.org/3/library/allos.html
 
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
-
-10.1. Operating System Interface
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
-
-https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
-
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
-
-11.2. os.path — Common pathname manipulations
-https://docs.python.org/3/library/os.path.html
-
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
-https://docs.python.org/3/library/os.html#os.stat
-
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-Interesting (os and os.path versus pathlib)
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
-29.1. sys — System-specific parameters and functions
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.path
-https://docs.python.org/3/library/sys.html#sys.stdin
-https://docs.python.org/3/library/sys.html#sys.stdout
-https://docs.python.org/3/library/sys.html#sys.stderr
-
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
 
 
 11.1. Output Formatting
@@ -484,7 +478,11 @@ https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
 https://docs.python.org/3/library/functions.html#repr
 https://docs.python.org/3/library/pprint.html#module-pprint
 
-
+f-string
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
+https://docs.python.org/3/glossary.html#term-f-string
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
 
 
 https://docs.python.org/3/library/http.html#http-status-codes
