@@ -3,6 +3,13 @@
 ## General Notes
 
 <!--
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://en.wikipedia.org/wiki/Recursion
+https://realpython.com/python-thinking-recursively/
+
+
 https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
 https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
