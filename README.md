@@ -361,15 +361,18 @@ https://codebuddies.org/about | CodeBuddies | About
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
+
+https://github.com/realpython/
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+## Coding Challenges
+
 https://www.careercup.com/forumpost?id=5726789051613184 | Interview Preparation Grid | CareerCup
 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript | Solve Tutorials | HackerRank
 
 Coding challenge
 https://www.freecodecamp.com/challenges/stand-in-line
-
-https://github.com/realpython/
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
@@ -384,6 +387,33 @@ https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-wi
 
 
 ## Making
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+Important
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python | by Martin Heinz | Towards Data Science
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+
+https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 Projects
 https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
@@ -410,39 +440,6 @@ https://medium.com/glitch/teaching-coding-with-glitch-bb71b879194f | Teaching Co
 https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc | The Missing Building Blocks of the Web – Anil Dash – Medium
 
 
-
-
-
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-
-Important
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python | by Martin Heinz | Towards Data Science
-
-https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
-
-https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
-https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
-
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
-
-
-
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Hynek Schlawack, Carl Myer, Kyle Knapp
-
-
-https://twitter.com/wakaleo/status/854702550469234692
-
-
-
 ## Community
 
 Rusts Community automation
@@ -450,6 +447,7 @@ https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - Code
 http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
 
 ## Dev Tools and Standards
 
@@ -572,23 +570,30 @@ https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+
+
+https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
+https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
+
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
+
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+
+https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
+https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 
 
 https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
 
-https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
+https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
+
 
 https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
 https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
-
-https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 
 
 Every Cheese- Third party
@@ -604,25 +609,7 @@ https://pip.pypa.io/en/stable/user_guide/#user-installs | User Guide — pip 20.
 Recs
 https://twitter.com/rlconley/status/1312079736198385665
 
-Python 3.9
-https://twitter.com/PrasoonPratham/status/1313392420038483968
-
 https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
-
-
-
-https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
-https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
-
-
-https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
-
 
 
 
@@ -668,6 +655,9 @@ https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-
 https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
 
 ## Python
+
+Python 3.9
+https://twitter.com/PrasoonPratham/status/1313392420038483968
 
 https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
 
@@ -796,6 +786,8 @@ https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
 https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
 https://twitter.com/mojombo/status/1313572403595759616
 
+
+https://twitter.com/wakaleo/status/854702550469234692
 
 https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
 https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
