@@ -1,6 +1,9 @@
 # Python and JavaScript Learning Resources
 
 <!--
+Recs
+https://twitter.com/rlconley/status/1312079736198385665
+
 https://twitter.com/webology/status/1288601577411018753 | Jeff says, "wear a mask" 😷 on Twitter: "✨ Check out @IkegahRuth's Getting Started with Django series. Ruth has a bunch of good Django + Python content. Check it out!" / Twitter
 
 http://simeonfranklin.com/python-fundamentals/ | simeonfranklin.com - Python Fundamentals
