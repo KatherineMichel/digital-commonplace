@@ -163,6 +163,13 @@ https://docs.python.org/3/library/tempfile.html#module-tempfile
 https://docs.python.org/3/library/shutil.html#module-shutil
 
 
+f-string
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
+https://docs.python.org/3/glossary.html#term-f-string
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
+
+
 
 
 ## Utilities
@@ -240,6 +247,30 @@ https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-o
 https://docs.python.org/3/library/warnings.html#available-functions
 https://docs.python.org/3/library/warnings.html#available-context-managers
 
+
+27.3. doctest — Test interactive Python examples
+https://docs.python.org/3/library/doctest.html
+https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
+https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
+https://docs.python.org/3/library/doctest.html#how-it-works
+https://docs.python.org/3/library/doctest.html#which-docstrings-are-examined
+https://docs.python.org/3/library/doctest.html#how-are-docstring-examples-recognized
+https://docs.python.org/3/library/doctest.html#what-s-the-execution-context
+https://docs.python.org/3/library/doctest.html#what-about-exceptions
+https://docs.python.org/3/library/doctest.html#option-flags
+https://docs.python.org/3/library/doctest.html#directives
+https://docs.python.org/3/library/doctest.html#warnings
+https://docs.python.org/3/library/doctest.html#basic-api
+https://docs.python.org/3/library/doctest.html#unittest-api
+https://docs.python.org/3/library/doctest.html#advanced-api
+https://docs.python.org/3/library/doctest.html#doctest-objects
+https://docs.python.org/3/library/doctest.html#example-objects
+https://docs.python.org/3/library/doctest.html#doctestfinder-objects
+https://docs.python.org/3/library/doctest.html#doctestparser-objects
+https://docs.python.org/3/library/doctest.html#doctestrunner-objects
+https://docs.python.org/3/library/doctest.html#outputchecker-objects
+https://docs.python.org/3/library/doctest.html#debugging
+https://docs.python.org/3/library/doctest.html#soapbox
 
 
 https://docs.pytest.org/en/stable/
