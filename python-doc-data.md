@@ -283,61 +283,12 @@ https://docs.python.org/3/library/sysconfig.html
 https://docs.python.org/3/library/shutil.html
 
 
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#sys.argv
-
-10.5. String Pattern Matching
-https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-11.7. glob — Unix style pathname pattern expansion
-https://docs.python.org/3/library/glob.html
-https://docs.python.org/3/library/fnmatch.html
-
-10.12. Batteries Included
-https://docs.python.org/3/library/json.html#module-json
-https://docs.python.org/3/library/csv.html#module-csv
-https://docs.python.org/3/library/sqlite3.html#module-sqlite3
-
-14.1. csv — CSV File Reading and Writing
-https://docs.python.org/3/library/csv.html
-https://docs.python.org/3/library/csv.html#module-contents
-https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
-https://docs.python.org/3/library/csv.html#reader-objects
-https://docs.python.org/3/library/csv.html#writer-objects
-https://docs.python.org/3/library/csv.html#examples
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
 
 11.1. Output Formatting
 https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
 https://docs.python.org/3/library/functions.html#repr
 https://docs.python.org/3/library/pprint.html#module-pprint
 
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-https://docs.python.org/3/library/array.html#module-array
-https://docs.python.org/3/library/array.html#array.array
-https://docs.python.org/3/library/collections.html#module-collections
-https://docs.python.org/3/library/collections.html#collections.deque
-https://docs.python.org/3/library/bisect.html#module-bisect
-https://docs.python.org/3/library/heapq.html#module-heapq
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
 
 10.11. Quality Control
 https://docs.python.org/3/tutorial/stdlib.html#quality-control
@@ -359,6 +310,61 @@ https://docs.python.org/3/library/profile.html#module-pstats
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
+
+
+10.12. Batteries Included
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+14.1. csv — CSV File Reading and Writing
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/csv.html#module-contents
+https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
+https://docs.python.org/3/library/csv.html#reader-objects
+https://docs.python.org/3/library/csv.html#writer-objects
+https://docs.python.org/3/library/csv.html#examples
+
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
+
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+https://docs.python.org/3/library/fnmatch.html
+
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
 
 10.8. Dates and Times
 https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
@@ -435,6 +441,7 @@ https://docs.python.org/3/library/argparse.html#exiting-methods
 https://docs.python.org/3/library/argparse.html#intermixed-parsing
 https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
 
+
 Regular Expression HOWTO
 https://docs.python.org/3/howto/regex.html
 
@@ -462,25 +469,11 @@ Unicode HOWTO
 https://docs.python.org/3/howto/unicode.html
 
 
-21. Structured Markup Processing Tools
-21.1. html — HyperText Markup Language support
-21.2. html.parser — Simple HTML and XHTML parser
-21.3. html.entities — Definitions of HTML general entities
 
-20. Structured Markup Processing Tools
-https://docs.python.org/3/library/markup.html
-20.1. html — HyperText Markup Language support
-https://docs.python.org/3/library/html.html
+https://docs.python.org/3/library/http.html#http-status-codes
 
-https://docs.python.org/3/library/html.parser.html
-https://docs.python.org/3/library/html.parser.html#example-html-parser-application
-https://docs.python.org/3/library/html.parser.html#htmlparser-methods
-https://docs.python.org/3/library/html.parser.html#examples
-https://docs.python.org/3/library/html.entities.html
-
-14. File Formats
-https://docs.python.org/3/library/fileformats.html
-
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/#beloved-features
 
 
 21. Internet Protocols and Support
@@ -505,84 +498,11 @@ https://docs.python.org/3/library/json.html#module-json.tool
 https://docs.python.org/3/library/json.html#command-line-options
 
 
-22.22. http.server — HTTP servers
-22.23. http.cookies — HTTP state management
-22.24. http.cookiejar — Cookie handling for HTTP clients
-
-Not recommended for production
-https://docs.python.org/3/library/http.server.html
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://requests.readthedocs.io/en/master/
-
-https://docs.python.org/3/library/http.cookies.html
-https://docs.python.org/3/library/http.cookiejar.html
-
-
-22.5. urllib — URL handling modules
-22.6. urllib.request — Extensible library for opening URLs
-22.7. urllib.response — Response classes used by urllib
-22.8. urllib.parse — Parse URLs into components
-
-https://docs.python.org/3/library/urllib.html
-https://docs.python.org/3/library/urllib.request.html
-https://docs.python.org/3/library/urllib.parse.html
-
-"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
-
-
-## CGI and WSGI
-
-22.2. cgi — Common Gateway Interface support
-22.3. cgitb — Traceback manager for CGI scripts
-22.4. wsgiref — WSGI Utilities and Reference Implementation
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/cgi.html#introduction
-https://docs.python.org/3/library/cgi.html#using-the-cgi-module
-https://docs.python.org/3/library/cgi.html#higher-level-interface
-https://docs.python.org/3/library/cgi.html#functions
-https://docs.python.org/3/library/cgi.html#caring-about-security
-https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
-https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
-https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
-https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
-
-https://docs.python.org/3/library/cgitb.html
-
-https://docs.python.org/3/library/wsgiref.html
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
-https://docs.python.org/3/library/wsgiref.html#examples
-
-
-12. Data Persistence
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
+https://www.sqlite.org/index.html
 https://docs.python.org/3/library/sqlite3.html
 
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/wsgiref.html
 
 
 https://docs.pytest.org/en/stable/
@@ -683,6 +603,49 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-an
 https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
+
+
+
+21. Structured Markup Processing Tools
+21.1. html — HyperText Markup Language support
+21.2. html.parser — Simple HTML and XHTML parser
+21.3. html.entities — Definitions of HTML general entities
+
+20. Structured Markup Processing Tools
+https://docs.python.org/3/library/markup.html
+20.1. html — HyperText Markup Language support
+https://docs.python.org/3/library/html.html
+
+https://docs.python.org/3/library/html.parser.html
+https://docs.python.org/3/library/html.parser.html#example-html-parser-application
+https://docs.python.org/3/library/html.parser.html#htmlparser-methods
+https://docs.python.org/3/library/html.parser.html#examples
+https://docs.python.org/3/library/html.entities.html
+
+14. File Formats
+https://docs.python.org/3/library/fileformats.html
+
+
+22.22. http.server — HTTP servers
+22.23. http.cookies — HTTP state management
+22.24. http.cookiejar — Cookie handling for HTTP clients
+
+Not recommended for production
+https://docs.python.org/3/library/http.server.html
+https://docs.python.org/3/library/http.cookies.html
+https://docs.python.org/3/library/http.cookiejar.html
+
+
+22.5. urllib — URL handling modules
+22.6. urllib.request — Extensible library for opening URLs
+22.7. urllib.response — Response classes used by urllib
+22.8. urllib.parse — Parse URLs into components
+
+https://docs.python.org/3/library/urllib.html
+https://docs.python.org/3/library/urllib.request.html
+https://docs.python.org/3/library/urllib.parse.html
+
+"The module has been designed to match the Internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, mailto, mms, news, nntp, prospero, rsync, rtsp, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss."
 
 
 ## Data Model
