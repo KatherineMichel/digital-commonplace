@@ -1,6 +1,11 @@
 # Python Tools and Release Managers
 
 <!--
+https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
+https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+
 https://launchpad.net/ubuntu | Ubuntu in Launchpad
 
 https://www.pypy.org/ | PyPy
