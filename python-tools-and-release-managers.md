@@ -5,7 +5,6 @@ https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Reposit
 https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
 https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 
-
 https://launchpad.net/ubuntu | Ubuntu in Launchpad
 
 https://www.pypy.org/ | PyPy
@@ -44,6 +43,10 @@ https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring S
 ## Third Party Tools and Advice
 
 <!--
+https://www.python.org/dev/peps/pep-0440/ | PEP 440 -- Version Identification and Dependency Specification | Python.org
+
+https://packaging.python.org/tutorials/packaging-projects/?highlight=entry_points#entry-points | Packaging Python Projects — Python Packaging User Guide
+
 Installation Advice
 
 --user flag
@@ -64,18 +67,11 @@ https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Depen
 
 
 <!--
-pathlib
-https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
-
 django-lifecycle
 https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
 
 towncrier
 https://twitter.com/webKnjaZ/status/1289309686060048384 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "I'm now accepting name ideas for the #Sphinx extension I completed, that provides a directive for injecting towncrier draft version changelog into Sphinx sites: .. towncrier-draft-entries:: |release| [UNRELEASED DRAFT] 🐍 #Python #Sphinx_doc" / Twitter
-
-Important- setuptools-scm
-https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
-https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
 
 https://pyformat.info/ | PyFormat: Using % and .format() for great good!
 
@@ -101,8 +97,6 @@ https://github.com/jambonsw/cookiecutter-static-site
 Shields
 https://raw.githubusercontent.com/Rolstenhouse/unofficial-apis/master/README.md | https://shields.io/ | Shields.io: Quality metadata badges for open source projects
 
-https://pypi.org/project/keyring/ | keyring · PyPI
-
 https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
 
 cross linter - Google Search
@@ -118,11 +112,14 @@ https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed d
 https://pyup.io/safety/
 -->
 
+
 <!--
 Docs
 
 https://sphinx-themes.github.io/sphinx-themes.org/ | Sphinx Themes Previews
 https://twitter.com/_tomchristie/status/1298564672354951174 | Tom Christie on Twitter: "I'd love to know folks thoughts on MkDocs vs. Sphinx for the HTTPX docs? https://t.co/zNTUXKnCz8 Wondering if there's a clear consensus at the moment, or if it's a mixed bag?..." / Twitter
+
+https://github.com/pradyunsg/sphinx-mkdocs-theme | pradyunsg/sphinx-mkdocs-theme: Enable Sphinx documentation to use MkDocs themes.
 
 Sphinx to Markdown
 https://twitter.com/choldgraf/status/1272633413132943360 | Chris Holdgraf on Twitter: "We've been working on a Sphinx extension that lets you write Sphinx docs in markdown (incl. roles and directives). We call it "MyST Markdown" (for "Markedly Structured Text"). Give it a shot, and please give feedback! https://t.co/52Rj05JsqV https://t.co/gTXiQ6AgZf" / Twitter
@@ -141,6 +138,7 @@ Sphinx/Read the Docs
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html | Documentation using Sphinx and ReadTheDocs.org — Don't be afraid to commit 0.3 documentation
 -->
 
+
 <!--
 Projects
 
@@ -153,40 +151,16 @@ Every Cheese
 
 Cookiecutter
 https://twitter.com/nthapen/status/1240936897234513921
-
-https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
-https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
-https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
+
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
 
 Projects
 https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
 https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
 https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
 https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
-
-
-Traversy
-https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/modern_portfolio
-
-https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
-https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
-https://breakingbadapi.com/ | The Breaking Bad API
-
-
-https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
-https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
-https://www.youtube.com/watch?v=GieYIzvdt2U | (5) Full Stack React & Django [2] - Implementing React - YouTube
-
-Valentino
-https://github.com/valentinogagliardi?tab=repositories | valentinogagliardi (Valentino Gagliardi) / Repositories
-https://github.com/valentinogagliardi/django-rest-react-pycon | valentinogagliardi/django-rest-react-pycon: 🐍 Demo repo for Pycon X talk "Decoupling Django with Django REST (and a sprinkle of React)"
-https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
-https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
-http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/ | Modern Django: Part 1: Setting up Django and React — v1k45
 
 https://www.npmjs.com/package/npx | npx - npm
 https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
@@ -194,38 +168,14 @@ https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx 
 DRF
 https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
 https://www.django-rest-framework.org/ | Home - Django REST framework
-
-https://reactrouter.com/web/guides/quick-start
-https://reactjs.org/docs/introducing-jsx.html
-https://redux.js.org/ | Redux - A predictable state container for JavaScript apps. | Redux
-https://react-redux.js.org/ | React Redux · Official React bindings for Redux
-
-Third Party
-https://github.com/reduxjs/redux-thunk | reduxjs/redux-thunk: Thunk middleware for Redux
-https://www.npmjs.com/package/axios-react | axios-react - npm
 https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
 
-Boostrap/Emmett
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
-https://docs.emmet.io/actions/ | Actions
-https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
-https://getbootstrap.com/docs/4.5/components/navbar/ | Navbar · Bootstrap v4.5
-https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate | HTML Boilerplate - Visual Studio Marketplace
-
-https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets | ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en | React Developer Tools - Chrome Web Store
-https://github.com/reduxjs/redux-devtools | reduxjs/redux-devtools: DevTools for Redux with hot reloading, action replay, and customizable UI
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=es | Redux DevTools - Chrome Web Store
-https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Prettier - Code formatter - Visual Studio Marketplace
-https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
+Every Cheese- Third party
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 -->
 
+
 <!--
-Projects
-
-https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
-https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
-
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 https://docs.pytest.org/en/stable/ | pytest: helps you write better programs — pytest documentation
 https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -242,9 +192,20 @@ https://factoryboy.readthedocs.io/en/latest/ | factory_boy — Factory Boy lates
 https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
 https://faker.readthedocs.io/en/master/ | Welcome to Faker’s documentation! — Faker 4.1.2 documentation
 https://pypi.org/project/django-faker/ | django-faker · PyPI
+-->
+
+<!--
+General
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 
 https://pypi.org/project/entry-point-inspector/ | entry-point-inspector · PyPI
 
+https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
+https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
+
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
+https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
 https://github.com/jazzband/django-debug-toolbar
 
 https://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.9.1 documentation
@@ -252,14 +213,20 @@ https://github.com/django-crispy-forms/django-crispy-forms | django-crispy-forms
 
 https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
-https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
-
 https://pypi.org/project/django-countries/ | django-countries · PyPI
 https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 -->
 
 <!--
+https://pypi.org/project/keyring/ | keyring · PyPI
+
+https://pypi.org/project/setuptools-scm/
+
+Important- setuptools-scm
+https://twitter.com/webKnjaZ/status/1268438408025817088 | (4) Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@anthonypjshaw As in generating Python distribution package versions from Git tags? I normally use setuptools-scm by @ossronny. Works like a charm." / Twitter
+https://github.com/pypa/setuptools_scm | pypa/setuptools_scm: the blessed package to manage your versions by scm tags
+
+
 https://pythonwheels.com/ | Python Wheels
 
 https://pypi.org/project/Cython/
@@ -297,9 +264,6 @@ https://pypi.org/project/colorama/ | colorama · PyPI
 https://pypi.org/project/parso/
 https://pypi.org/project/html5lib/
 
-Important?
-https://pypi.org/project/setuptools-scm/
-
 https://pypi.org/project/setuptools/ | setuptools · PyPI
 https://pypi.org/project/wheel/ | wheel · PyPI
 https://pypi.org/project/docutils/ | docutils · PyPI
@@ -308,8 +272,6 @@ https://pypi.org/project/toml/
 https://pypi.org/project/Markdown/
 https://pypi.org/project/Sphinx/
 https://pypi.org/project/alabaster/
-
-https://pypi.org/project/keyring/
 
 https://pypi.org/project/regex/
 
@@ -405,6 +367,52 @@ https://pypi.org/project/typing-extensions/
 https://pypi.org/project/mypy/
 https://pypi.org/project/mypy-extensions/
 -->
+
+
+<!--
+Django/React
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+https://breakingbadapi.com/ | The Breaking Bad API
+
+https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
+https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
+https://www.youtube.com/watch?v=GieYIzvdt2U | (5) Full Stack React & Django [2] - Implementing React - YouTube
+
+Valentino
+https://github.com/valentinogagliardi?tab=repositories | valentinogagliardi (Valentino Gagliardi) / Repositories
+https://github.com/valentinogagliardi/django-rest-react-pycon | valentinogagliardi/django-rest-react-pycon: 🐍 Demo repo for Pycon X talk "Decoupling Django with Django REST (and a sprinkle of React)"
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/ | Modern Django: Part 1: Setting up Django and React — v1k45
+-->
+
+<!--
+Boostrap/Emmett
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+https://docs.emmet.io/actions/ | Actions
+https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
+https://getbootstrap.com/docs/4.5/components/navbar/ | Navbar · Bootstrap v4.5
+https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate | HTML Boilerplate - Visual Studio Marketplace
+
+VS Code and React
+https://reactrouter.com/web/guides/quick-start
+https://reactjs.org/docs/introducing-jsx.html
+https://redux.js.org/ | Redux - A predictable state container for JavaScript apps. | Redux
+https://react-redux.js.org/ | React Redux · Official React bindings for Redux
+
+Third Party
+https://github.com/reduxjs/redux-thunk | reduxjs/redux-thunk: Thunk middleware for Redux
+https://www.npmjs.com/package/axios-react | axios-react - npm
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets | ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en | React Developer Tools - Chrome Web Store
+https://github.com/reduxjs/redux-devtools | reduxjs/redux-devtools: DevTools for Redux with hot reloading, action replay, and customizable UI
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=es | Redux DevTools - Chrome Web Store
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Prettier - Code formatter - Visual Studio Marketplace
+https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
+-->
+
 
 ## Performance and Metrics
 
@@ -1645,16 +1653,11 @@ Code Formatting
 * [Google YAPF](https://github.com/google/yapf)
 
 <!--
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
 https://github.com/bots-for-humanity/black-out
 
 https://black.now.sh/ | Black Playground
-
-https://github.com/eventbrite/invoke-release | eventbrite/invoke-release: A set of command line tools that help software engineers release Python projects quickly, easily, and in a consistent manner.
-https://github.com/twisted/incremental#updating | twisted/incremental: A library for versioning your Python projects.
-
-https://www.youtube.com/watch?v=-BHverY7IwU
-http://www.pyinvoke.org/
-https://github.com/pypa/pip/blob/master/tasks/generate.py
 -->
 
 ## Azure
