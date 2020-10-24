@@ -88,6 +88,12 @@ Checklist Manifesto
 
 ## Conferences
 
+DevICT
+https://www.grooverlabs.org/events | Events | Groover Labs
+https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
+
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
 https://www.writethedocs.org
 
 Every Friday
@@ -118,12 +124,6 @@ https://githubuniverse.com/
 
 Patterns conference
 https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
-
-DevICT
-https://www.grooverlabs.org/events | Events | Groover Labs
-https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 https://www.meetup.com/pythonsd/
 
@@ -386,14 +386,6 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 
-https://glitch.com/edit/#!/community?path=README.md:1:0 | README.md – community
-
-https://medium.com/glitch/glitch-opens-up-welcome-85c62d0d6e84 | Glitch Opens Up: Welcome! – Glitch – Medium
-https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685 | Just raise your hand: How Glitch helps – Glitch – Medium
-https://medium.com/glitch/teaching-coding-with-glitch-bb71b879194f | Teaching Coding with Glitch – Glitch – Medium
-https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc | The Missing Building Blocks of the Web – Anil Dash – Medium
-
-
 ## Community
 
 Rusts Community automation
@@ -435,11 +427,6 @@ https://pyvideo.org/ | PyVideo.org
 https://www.w3.org/DesignIssues/Architecture.html
 
 Data Structures and Algorithms
-https://github.com/TheAlgorithms/Python
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
@@ -471,25 +458,25 @@ https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
 
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
-
-https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
-
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
-https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
-
-https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://simple.wikipedia.org/wiki/Packet_(computing)
-https://www.tutorialspoint.com/unix/unix-quick-guide.htm
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://www.tutorialspoint.com/unix_commands/index.htm
-https://www.tutorialspoint.com/unix_system_calls/index.htm
 
-https://regexcrossword.com/ | Regex Crossword
-https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
+
+Bash
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
 
 
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
@@ -567,8 +554,6 @@ https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on T
 
 Python 3.9
 https://twitter.com/PrasoonPratham/status/1313392420038483968
-
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 
 https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
 
@@ -657,13 +642,6 @@ OS
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
 https://github.com/nayafia/awesome-maintainers | nayafia/awesome-maintainers: Talks, blog posts, and interviews about the experience of being an open source maintainer
 https://github.com/matiassingers/awesome-readme | matiassingers/awesome-readme: A curated list of awesome READMEs
-
-https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
-https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
-
-https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
-https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
 
 https://www.tidelift.com/subscription/2020-managed-open-source-survey
 
@@ -820,6 +798,13 @@ https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Templat
 ## Public Speaking and Technical Writing
 
 <!--
+https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
+https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
+
+https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
+https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
+
+
 https://github.com/matteofigus/awesome-speaking
 
 Public speaking
@@ -1166,6 +1151,7 @@ https://www.python.org/dev/peps/pep-0602/
 https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
 https://devguide.python.org/devcycle/
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
 
 Internals
 https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
@@ -1779,24 +1765,23 @@ Release, Weeknotes
 
 
 <--
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+Django Heroku
+
+Important
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+
+https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
+
 
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 
-https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
 https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
 Projects
 https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
 https://github.com/danistefanovic/build-your-own-x | danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
-
-Important
-https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
-
-https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
@@ -1823,12 +1808,20 @@ Real Python
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
 Full Stack Python
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 <!--
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 http://stackshare.io/posts/
@@ -1836,8 +1829,6 @@ http://stackshare.io/posts/
 https://www.infoq.com/
 
 https://mherman.org/talks | Talks and Trainings
-https://testdriven.io/ | Test-driven Development, Microservices, Web Development Courses | TestDriven.io
-https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
 
 Tech Terminology
 https://www.techopedia.com
@@ -1879,6 +1870,7 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 
 https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
 https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+
 
 https://www.pythonmorsels.com/resources/
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
@@ -1954,12 +1946,10 @@ https://github.com/btholt
 https://github.com/kentcdodds/
 https://github.com/wesbos/
 
-https://github.com/wesbos/beginner-javascript | wesbos/beginner-javascript: Slam Dunk JavaScript
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
 https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
 https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
 https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
-https://github.com/wesbos/JavaScript30/ | JavaScript30/index-FINISHED.html at master · wesbos/JavaScript30
 -->
 
 
@@ -2274,10 +2264,6 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
-http://www.brendangregg.com/perf.html | Linux perf Examples
-https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
-
-
 https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
 
 Spaces
@@ -2285,10 +2271,15 @@ https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
 
+http://www.brendangregg.com/perf.html | Linux perf Examples
+https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
 
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://www.tutorialspoint.com/unix/
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
+
+
+https://regexcrossword.com/ | Regex Crossword
+https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
 
 http://www.linfo.org/usr_sbin.html
 https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
@@ -2301,6 +2292,17 @@ https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scrip
 
 https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
+
 https://grymoire.com/Unix/Awk.html
 https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
@@ -2310,16 +2312,6 @@ https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hack
 
 https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
 https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
 
 https://github.com/topics/bash | Topic: bash
 https://github.com/Idnan/bash-guide
