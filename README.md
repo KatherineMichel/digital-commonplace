@@ -416,11 +416,6 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
-Important!
-https://andreasbm.github.io/web-skills/?compact | Web Skills
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
 https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
 
 https://pyvideo.org/ | PyVideo.org
@@ -429,73 +424,6 @@ https://www.w3.org/DesignIssues/Architecture.html
 Data Structures and Algorithms
 
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-
-https://wizardzines.com/comics/ | https://wizardzines.com/comics/
-https://twitter.com/b0rk
-
-
-https://wizardzines.com/comics/bash-if-statements/
-https://wizardzines.com/comics/bash-errors/
-https://twitter.com/simonw/status/1314384418170003456
-
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
-
-Julia
-https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://simple.wikipedia.org/wiki/Packet_(computing)
-
-https://www.tutorialspoint.com/unix/
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
-https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-
-
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
 ## Testing and Stuff
@@ -734,13 +662,87 @@ Design Centered Design
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 -->
 
+<!--
+Important!
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+https://wizardzines.com/comics/ | https://wizardzines.com/comics/
+https://twitter.com/b0rk
+
+
+https://wizardzines.com/comics/bash-if-statements/
+https://wizardzines.com/comics/bash-errors/
+https://twitter.com/simonw/status/1314384418170003456
+
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
+
+Julia
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
+
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://simple.wikipedia.org/wiki/Packet_(computing)
+
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
+
+Bash
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+
+
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
+
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+-->
 
 <!--
+Requests, AJAX, JSON, XML, XPath, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+
+http://learnjsthehardway.com
+
 https://en.wikipedia.org/wiki/User_agent
 
 https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
-
-http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
 
 https://thenewstack.io
 
@@ -756,24 +758,8 @@ https://github.com/benbrignell/principles.design | benbrignell/principles.design
 Kubernetes
 mongodb/brew/mongodb-community - Google Search
 
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
-
 * [Docker for Mac](https://docs.docker.com/docker-for-mac)
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
-
-* [JSON Schema](http://json-schema.org/)
-
-* [GraphQL](http://graphql.org/)
-* [Schemas and Types](http://graphql.org/learn/schema/)
-
-* [OAuth.io](https://oauth.io/)
-* [Auth0](https://auth0.com/)
-* [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
-
-* Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
-
-* [How does the Internet work]()
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
 
 https://devcenter.heroku.com/articles/platform-api-reference
 
@@ -786,16 +772,14 @@ https://devcenter.heroku.com/articles/platform-api-reference
 Interested
   * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
 
-https://webauthn.guide/ | Guide to Web Authentication
-https://howhttps.works/ | How HTTPS works - How HTTPS works
-http://websocketd.com/ | websocketd
-https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
 
 https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
 
 https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
 
 https://www.postgresql.org/about/ | PostgreSQL: About
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
 https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
 https://www.sqlite.org/serverless.html | SQLite Is Serverless
 https://www.sqlite.org/json1.html | The JSON1 Extension
@@ -809,57 +793,15 @@ https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: U
 https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
 https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
 
-https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
-https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
-
 http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
 https://www.openssl.org/ | /index.html
 
-https://github.com/tiangolo/fastapi | tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
+https://webauthn.guide/ | Guide to Web Authentication
+https://howhttps.works/ | How HTTPS works - How HTTPS works
+http://websocketd.com/ | websocketd
+https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
 
 https://www.w3.org/WAI
--->
-
-
-<!--
-Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Schema Creator](http://schema-creator.org)
-
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
-
-Microformats
-* [Microformats](http://microformats.org)
--->
-
-<!--
-https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit
-
-* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
-
-http://learnjsthehardway.com
-
-AJAX
-* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
-
-JSON
-* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-* [Introducing JSON](http://json.org)
-http://www.json.org/xml.html
-
-JSON Schema
-https://json-schema.org/understanding-json-schema/index.html | Understanding JSON Schema — Understanding JSON Schema 7.0 documentation
 -->
 
 
@@ -2451,98 +2393,10 @@ https://www.linuxjournal.com/content/understanding-bash-elements-programming
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 -->
 
-## JSON and YAML
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-<!--
-JSON, Black
-https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
-
-https://docs.python.org/3/library/json.html#module-json | json — JSON encoder and decoder — Python 3.9.0 documentation
-https://www.json.org/json-en.html | JSON
-https://docs.python-guide.org/scenarios/json/ | JSON — The Hitchhiker's Guide to Python
-
-JSON and YAML
-https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
-
-https://en.m.wikipedia.org/wiki/YAML
-https://yaml.org/ | The Official YAML Web Site
-https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
--->
-
-
-## Kenneth
-
-Records
-* [Records GitHub](https://github.com/kennethreitz/records)
-
-DJ Static, DJ Database URL
-* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
-* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-<!--
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/homebrew-pythons
--->
-
-## Important Tools
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-urllib3 (pip and Requests)
-* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
-
-Requests (HTTP for Humans) and Requests HTML
-* [Requests PyPI](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
-* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
-
-Bot Tools
-* [aiohttp](https://docs.aiohttp.org/)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
-
-<!--
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://pypi.org/project/requests/ | requests · PyPI
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
--->
-
 ## API
 
 <!--
 https://github.com/realpython/list-of-python-api-wrappers
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
 https://github.com/api-evangelist
@@ -2557,7 +2411,7 @@ https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz 
 ## API Tools
 
 <!--
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
 
 https://www.thepythoncode.com/article/using-github-api-in-python
 
@@ -3720,21 +3574,20 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/API
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
 -->
 
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
+
+jQuery
+* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+
 <!--
 https://github.com/phuoc-ng/html-dom
 
 http://youmightnotneedjs.com/ | You Might Not Need JavaScript
 
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery | nefe/You-Dont-Need-jQuery: Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 
 https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 https://github.com/you-dont-need/You-Dont-Need-Momentjs
-
-jQuery
-https://jquery.com/ | jQuery
-https://en.wikipedia.org/wiki/JQuery | jQuery - Wikipedia
 -->
 
 ## Jargon, Algorithms, and Patterns
