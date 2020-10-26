@@ -218,6 +218,17 @@ https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/djang
 -->
 
 <!--
+## Release management
+
+https://github.com/eventbrite/invoke-release | eventbrite/invoke-release: A set of command line tools that help software engineers release Python projects quickly, easily, and in a consistent manner.
+https://github.com/twisted/incremental#updating | twisted/incremental: A library for versioning your Python projects.
+
+https://www.youtube.com/watch?v=-BHverY7IwU
+http://www.pyinvoke.org/
+https://github.com/pypa/pip/blob/master/tasks/generate.py
+-->
+
+<!--
 https://pypi.org/project/keyring/ | keyring · PyPI
 
 https://pypi.org/project/setuptools-scm/
