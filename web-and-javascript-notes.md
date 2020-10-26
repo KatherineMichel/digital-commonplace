@@ -57,8 +57,11 @@ https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on T
 https://a.singlediv.com/ | A Single Div
 
 
+* [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
+  * Isomorphic JS / Universal JS
+* [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
+
 Airbnb- isomorphic
-https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc | Isomorphic JavaScript: The Future of Web Apps - Airbnb Engineering & Data Science - Medium
 https://github.com/spikebrehm/isomorphic-tutorial | spikebrehm/isomorphic-tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts.
 https://en.wikipedia.org/wiki/Isomorphic_JavaScript | Isomorphic JavaScript - Wikipedia
 https://en.wikipedia.org/wiki/Isomorphism_(disambiguation)
