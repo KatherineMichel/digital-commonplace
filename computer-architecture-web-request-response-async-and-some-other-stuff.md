@@ -24,6 +24,8 @@ https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 
 ## API
 
+* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
 <!--
 https://github.com/tiangolo/fastapi
 https://fastapi.tiangolo.com/#performance
@@ -31,8 +33,6 @@ https://fastapi.tiangolo.com/#performance
 Postman	
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 
-https://github.com/Microsoft/api-guidelines | Microsoft/api-guidelines: Microsoft REST API Guidelines
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
 https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
 https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
@@ -129,10 +129,11 @@ REST (API architecture style; versus SOAP or GraphQL)
 
 REST Alternatives
 * [GraphQL](http://graphql.org/)
+* [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
 * [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
 
 <!--
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
 
 Python Database
 * [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
@@ -148,6 +149,8 @@ REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTT
 * [XML Wikipedia](https://en.wikipedia.org/wiki/XML)
 
 <!--
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
+
 JSON versus s-expression
 https://en.wikipedia.org/wiki/S-expression
 -->
@@ -178,18 +181,14 @@ Callbacks (implemented often as subroutines, lambda expressions, blocks, or func
 
 Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
 * [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [List of Ajax Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript)
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 <!--
-www.json.org
-
 https://en.m.wikipedia.org/wiki/Serialization
 
 API... usually HTTP + XML or JSON
 https://en.wikipedia.org/wiki/Application_programming_interface
 "When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
-
-https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
 
 Important
 "HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
@@ -215,10 +214,137 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Event-driven_messaging
 -->
+## JSON and XML
+
+* [JSON](http://json.org)
+* [JSON Schema](http://json-schema.org/)
+* [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/index.html)
+* [JSON-LD](https://json-ld.org/) and [JSON-LD Wikipedia](https://en.wikipedia.org/wiki/JSON-LD)
+
+JSON Versus XML
+* ["JSON is much simpler than XML"](http://www.json.org/xml.html)
+
+XML, XPath, XHTML
+* [XML Wikipedia](https://en.wikipedia.org/wiki/XML)
+* [XPath Wikipedia](https://en.wikipedia.org/wiki/XPath)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+<!--
+https://docs.python-guide.org/scenarios/json/ | JSON — The Hitchhiker's Guide to Python
+
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+
+https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
+-->
+
+## JSON and YAML
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+<!--
+JSON, Black
+https://twitter.com/raymondh/status/1259209765072154624 | Raymond Hettinger on Twitter: "Over time, the #python world has shown increasing preference for double quotes: "hello" versus 'hello'. Perhaps, this is due to the persistent influence of JSON, PyCharm, Black, and plain English. In contrast, the interpreter itself prefers single quotes: &gt;&gt;&gt; "hello" 'hello'" / Twitter
+
+https://docs.python.org/3/library/json.html#module-json | json — JSON encoder and decoder — Python 3.9.0 documentation
+https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
+
+JSON and YAML
+https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
+-->
+
+## Graph, Schema, Format
+
+Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
+
+Microformats
+* [Microformats](http://microformats.org)
+
+
+
+## Kenneth- Python
+
+Django- DJ Static, DJ Database URL
+* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
+* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+<!--
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/homebrew-pythons
+-->
+
+## Network Tools and Other Utilities
+
+Utilities- Retrieving Files/Data
+* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [Wget Wikipedia](https://www.gnu.org/software/wget/)
+
+urllib3 (pip and Requests)
+* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
+
+Requests (HTTP for Humans) and Requests HTML
+* [Requests PyPI](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
+* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
+
+Records (SQL for Humans)
+* [Records GitHub](https://github.com/kennethreitz/records)
+
+Bot Tools
+* [aiohttp](https://docs.aiohttp.org/)
+* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
+* [sans I/O](https://sans-io.readthedocs.io/)
+
+<!--
+https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
+https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
+
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
+
+https://pypi.org/project/requests/ | requests · PyPI
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
+-->
 
 ## Auth
 
+* [OAuth.io](https://oauth.io/)
+* [Auth0](https://auth0.com/)
+
 <!--
+* [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
 https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
 https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
 
@@ -259,7 +385,6 @@ https://en.wikipedia.org/wiki/JSON_Web_Token
 https://jwt.io/ | JSON Web Tokens - jwt.io
 https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 
-https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
 https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
 https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
 https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
@@ -275,15 +400,6 @@ https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.
 
 Google Auth
 https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
--->
-
-## JSON
-
-<!--
-Schema
-http://json-schema.org/ | JSON Schema | The home of JSON Schema
-https://schema.org/
-https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
 -->
 
 ## Web Browser, Client/Server
