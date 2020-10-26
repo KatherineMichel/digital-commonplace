@@ -736,6 +736,8 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+https://en.wikipedia.org/wiki/User_agent
+
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
 http://websocketd.com/ | websocketd
