@@ -734,6 +734,81 @@ Design Centered Design
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 -->
 
+
+<!--
+https://webauthn.guide/ | Guide to Web Authentication
+https://howhttps.works/ | How HTTPS works - How HTTPS works
+http://websocketd.com/ | websocketd
+https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
+
+https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
+
+https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+
+https://www.postgresql.org/about/ | PostgreSQL: About
+https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
+https://www.sqlite.org/serverless.html | SQLite Is Serverless
+https://www.sqlite.org/json1.html | The JSON1 Extension
+https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
+https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
+
+https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
+
+http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
+https://www.openssl.org/ | /index.html
+https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
+
+https://github.com/tiangolo/fastapi | tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
+
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+-->
+
+<!--
+https://json.org/ | JSON
+https://schema.org/ | Home - schema.org
+
+Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
+* [Open Graph Protocol Schema](http://ogp.me) 
+* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
+* [Schema Creator](http://schema-creator.org)
+
+Open Search
+* [Open Search](http://www.opensearch.org/Home)
+
+Microformats
+* [Microformats](http://microformats.org)
+-->
+
+<!--
+https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit
+
+* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+
+http://learnjsthehardway.com
+
+AJAX
+* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
+
+JSON
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+* [Introducing JSON](http://json.org)
+http://www.json.org/xml.html
+
+JSON Schema
+https://json-schema.org/understanding-json-schema/index.html | Understanding JSON Schema — Understanding JSON Schema 7.0 documentation
+-->
+
 ## Eldarion
 
 ## Good Habits
@@ -2342,6 +2417,7 @@ https://en.m.wikipedia.org/wiki/YAML
 https://yaml.org/ | The Official YAML Web Site
 https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
 -->
+
 
 ## Kenneth
 
