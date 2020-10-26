@@ -738,6 +738,54 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 <!--
 https://en.wikipedia.org/wiki/User_agent
 
+https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
+
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+
+https://thenewstack.io
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+https://substack.com/ | Substack
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+
+https://principles.design/
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
+
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+
+* [JSON Schema](http://json-schema.org/)
+
+* [GraphQL](http://graphql.org/)
+* [Schemas and Types](http://graphql.org/learn/schema/)
+
+* [OAuth.io](https://oauth.io/)
+* [Auth0](https://auth0.com/)
+* [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
+* Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
+
+* [How does the Internet work]()
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+
+https://devcenter.heroku.com/articles/platform-api-reference
+
+* [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
+  * Isomorphic JS / Universal JS
+* [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+
+Interested
+  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
 http://websocketd.com/ | websocketd
