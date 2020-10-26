@@ -752,25 +752,28 @@ https://www.sqlite.org/json1.html | The JSON1 Extension
 https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
 https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
 
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+
+https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
 https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
+https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
 
 http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
 https://www.openssl.org/ | /index.html
-https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
 
 https://github.com/tiangolo/fastapi | tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
 
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://www.w3.org/WAI
 -->
 
-<!--
-https://json.org/ | JSON
-https://schema.org/ | Home - schema.org
 
+<!--
 Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
 * [Open Graph Protocol Schema](http://ogp.me) 
 * [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
@@ -808,6 +811,7 @@ http://www.json.org/xml.html
 JSON Schema
 https://json-schema.org/understanding-json-schema/index.html | Understanding JSON Schema — Understanding JSON Schema 7.0 documentation
 -->
+
 
 ## Eldarion
 
