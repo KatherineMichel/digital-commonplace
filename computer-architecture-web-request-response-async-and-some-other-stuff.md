@@ -38,6 +38,7 @@ https://fastapi.tiangolo.com/#performance
 Postman	
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 
+https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
 https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
 https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
 https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
