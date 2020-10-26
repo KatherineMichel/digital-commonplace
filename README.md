@@ -88,6 +88,8 @@ Checklist Manifesto
 
 ## Conferences
 
+https://pyvideo.org/ | PyVideo.org
+
 DevICT
 https://www.grooverlabs.org/events | Events | Groover Labs
 https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
@@ -409,6 +411,8 @@ https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chr
 
 ## Important
 
+https://www.w3.org/DesignIssues/Architecture.html
+
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
@@ -417,9 +421,6 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
 https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-
-https://pyvideo.org/ | PyVideo.org
-https://www.w3.org/DesignIssues/Architecture.html
 
 Data Structures and Algorithms
 
@@ -662,11 +663,76 @@ Design Centered Design
 https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 -->
 
+
 <!--
+https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
+
+
+https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
+
+https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
+
+http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
+https://www.openssl.org/ | /index.html
+
+https://www.w3.org/WAI
+-->
+
+
+<!--
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
+
+
+https://thenewstack.io
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+https://substack.com/ | Substack
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+
+https://principles.design/
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
+
+
+Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+
 Important!
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+
+http://learnjsthehardway.com
+
+* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+
+
+https://en.wikipedia.org/wiki/User_agent
+
+
+https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+
+
+https://www.sqlite.org/
+
+https://devcenter.heroku.com/articles/platform-api-reference
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+
+  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
 
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 https://twitter.com/b0rk
@@ -733,75 +799,6 @@ Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
--->
-
-<!--
-Requests, AJAX, JSON, XML, XPath, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
-
-http://learnjsthehardway.com
-
-https://en.wikipedia.org/wiki/User_agent
-
-https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
-
-https://thenewstack.io
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-https://substack.com/ | Substack
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-
-https://principles.design/
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
-
-https://devcenter.heroku.com/articles/platform-api-reference
-
-* [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
-  * Isomorphic JS / Universal JS
-* [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-
-Interested
-  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-
-
-https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
-
-https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
-
-https://www.postgresql.org/about/ | PostgreSQL: About
-http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
-https://www.sqlite.org/serverless.html | SQLite Is Serverless
-https://www.sqlite.org/json1.html | The JSON1 Extension
-https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
-https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
-
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-
-https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
-https://www.openssl.org/ | /index.html
-
-https://webauthn.guide/ | Guide to Web Authentication
-https://howhttps.works/ | How HTTPS works - How HTTPS works
-http://websocketd.com/ | websocketd
-https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
-
-https://www.w3.org/WAI
 -->
 
 
