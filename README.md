@@ -2335,21 +2335,6 @@ Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
-<!--
-https://www.anaconda.com/blog/get-python-package-download-statistics-with-condastats | Anaconda | Get Python Package Download Statistics with Condastats
-https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 4,000 most-downloaded packages from PyPI
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-High traffic projects
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://octoverse.github.com/2018/
-https://octoverse.github.com/2017/
-https://octoverse.github.com/2016/#organizations
--->
 
 ## Useful Files
 
@@ -3019,6 +3004,7 @@ https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
+
 
 ## Showcases
 
