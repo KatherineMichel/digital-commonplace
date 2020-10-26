@@ -1,8 +1,16 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+https://webauthn.guide/ | Guide to Web Authentication
+https://howhttps.works/ | How HTTPS works - How HTTPS works
+http://websocketd.com/ | websocketd
+https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
+
+https://chmodcommand.com
+https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
+
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
@@ -17,9 +25,6 @@ https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
 
 http://restcookbook.com/Miscellaneous/rest-and-http/
-
-https://chmodcommand.com
-https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 -->
 
 ## API
@@ -97,6 +102,21 @@ CPU versus IO
 Ports
 * [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
 
+<!--
+https://en.wikipedia.org/wiki/Memory_bound_function
+
+Interesting!
+https://en.wikipedia.org/wiki/Execution_model
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Event-driven_messaging
+-->
+
+## HTTP, HTTPS, and WebSockets
+
 HTTP and HTTPS
 * [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
 * [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
@@ -118,16 +138,38 @@ HTTP versus WebSocket (HTTP is uni-directional; WebSocket is bi-directional)
 * [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 * [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 
+<!--
+Important
+"HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
+https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
+https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
+-->
+
+## APIs, Callbacks, Webhooks
+
 Application Programming Interface (API... usually HTTP + XML or JSON)
 * [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
 * [Web API Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
 * [Web API Endpoints Wikipedia](https://en.wikipedia.org/wiki/Web_API#Endpoints)
 
-REST (API architecture style; versus SOAP or GraphQL)
+REST (API architecture style; versus SOAP or GraphQL; HTTP is commonly used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE; REST payload is formatted in HTML, JSON, XML, etc.)
 * [Representational State Transfer Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
 * [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
 
-REST Alternatives
+<!--
+https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URI_and_HTTP_methods
+https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
+-->
+
+Webhooks (Event-driven, custom callback... the format is usually JSON. The request is done as a HTTP POST request.)
+* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+
+Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
+* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
+
+
+"GraphQL is a query language for APIs " (REST Alternatives, also used in GitHub API)
 * [GraphQL](http://graphql.org/)
 * [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
 * [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
@@ -135,25 +177,29 @@ REST Alternatives
 <!--
 https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
 
-Python Database
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
 https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
 
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 https://github.com/graphql-python | GraphQL Python
 -->
 
-REST payload formatted in HTML, JSON, XML, etc. (Most commonly HTTP is used; HTTP methods available are GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS and TRACE.)
-* [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
-* [XML Wikipedia](https://en.wikipedia.org/wiki/XML)
+## SQL Related
+
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
 
 <!--
-https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
-
-JSON versus s-expression
-https://en.wikipedia.org/wiki/S-expression
+https://www.postgresql.org/about/ | PostgreSQL: About
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
+https://www.sqlite.org/serverless.html | SQLite Is Serverless
+https://www.sqlite.org/json1.html | The JSON1 Extension
+https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
+https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
 -->
+
+## Used Less Often
 
 Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
 * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
@@ -173,50 +219,11 @@ https://grpc.io/
 https://grpc.io/docs/guides/
 -->
 
-Webhooks (Event-driven, custom callback... the format is usually JSON. The request is done as a HTTP POST request.)
-* [Webhook Wikipedia](https://en.wikipedia.org/wiki/Webhook)
+## Serialization, JSON, XML, Ajax
 
-Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
-* [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
+* [Serialization Wikipedia](https://en.m.wikipedia.org/wiki/Serialization)
 
-Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
-* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
-
-<!--
-https://en.m.wikipedia.org/wiki/Serialization
-
-API... usually HTTP + XML or JSON
-https://en.wikipedia.org/wiki/Application_programming_interface
-"When used in the context of web development, an API is typically defined as a set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format."
-
-Important
-"HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
-https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
-https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
-https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
-
-https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URI_and_HTTP_methods
-https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
-
-https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
-
-https://en.wikipedia.org/wiki/Memory_bound_function
-
-Interesting!
-https://en.wikipedia.org/wiki/Execution_model
-https://en.wikipedia.org/wiki/Scheduling_(computing)
-
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Event-driven_messaging
--->
-## JSON and XML
-
-* [JSON](http://json.org)
+* [JSON](http://json.org) and [JSON Wikipedia](https://en.wikipedia.org/wiki/JSON)
 * [JSON Schema](http://json-schema.org/)
 * [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/index.html)
 * [JSON-LD](https://json-ld.org/) and [JSON-LD Wikipedia](https://en.wikipedia.org/wiki/JSON-LD)
@@ -230,12 +237,22 @@ XML, XPath, XHTML
 * [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
+Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
+* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
+
+
 <!--
 https://docs.python-guide.org/scenarios/json/ | JSON — The Hitchhiker's Guide to Python
 
 * [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
 
 https://dev.to/juliannatetreault/json-ld-what-it-is-and-how-dev-uses-it-4d25 | JSON-LD: What It Is and How DEV Uses It
+
+https://jsonapi.org/ | JSON:API — A specification for building APIs in JSON
+
+JSON versus s-expression
+https://en.wikipedia.org/wiki/S-expression
 -->
 
 ## JSON and YAML
@@ -289,14 +306,8 @@ https://github.com/kennethreitz/pip-purge
 https://github.com/kennethreitz/homebrew-pythons
 -->
 
+
 ## Network Tools and Other Utilities
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-urllib3 (pip and Requests)
-* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
 
 Requests (HTTP for Humans) and Requests HTML
 * [Requests PyPI](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
@@ -305,12 +316,20 @@ Requests (HTTP for Humans) and Requests HTML
 Records (SQL for Humans)
 * [Records GitHub](https://github.com/kennethreitz/records)
 
+Utilities- Retrieving Files/Data
+* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [Wget Wikipedia](https://www.gnu.org/software/wget/)
+
+urllib3 (pip and Requests)
+* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
+
 Bot Tools
 * [aiohttp](https://docs.aiohttp.org/)
 * [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
 * [sans I/O](https://sans-io.readthedocs.io/)
 
 <!--
+"Requests is a library to interact with APIs (as a client), while FastAPI is a library to build APIs (as a server)."
 https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
 https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
 
