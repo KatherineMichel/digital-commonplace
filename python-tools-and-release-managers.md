@@ -441,23 +441,43 @@ https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQu
 -->
 
 
-## Performance and Metrics
+## Python- What's New
 
 <!--
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+https://blog.python.org/
+https://www.djangoproject.com/weblog/
 
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
+What's New
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+https://www.python.org/download/pre-releases/
 
-See also: Data Science
-https://github.com/keen/cohorts
+Peps
+https://www.python.org/dev/peps/
+
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 -->
+
+## To Read- Python Packaging
+
+Django
+* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
+
+Python Docs- Packaging
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+Python- Official Packaging Info
+* [Sample Project](https://github.com/pypa/sampleproject)
+* [Python Packaging User Guide](https://packaging.python.org)
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging Guides](https://packaging.python.org/guides) 
+* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
+
 
 ## Useful Files
 
