@@ -1060,25 +1060,7 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 
 ## Python- What's New
 
-<!--
-https://blog.python.org/
-https://www.djangoproject.com/weblog/
-
-What's New
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-https://www.python.org/download/pre-releases/
-
-Peps
-https://www.python.org/dev/peps/
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
--->
+## To Read- Python Packaging
 
 ## To Read- Python Release
 
@@ -1100,21 +1082,6 @@ https://realpython.com/products/cpython-internals-book/
 https://realpython.com/lessons/cpython-book-download/
 https://realpython.com/cpython-internals/resources/
 -->
-
-## To Read- Python Packaging
-
-Django
-* [Django: How to write reusable apps](https://docs.djangoproject.com/en/2.0/intro/reusable-apps).
-
-Python Docs- Packaging
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-
-Python- Official Packaging Info
-* [Sample Project](https://github.com/pypa/sampleproject)
-* [Python Packaging User Guide](https://packaging.python.org)
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging Guides](https://packaging.python.org/guides) 
-* [Python Packaging Projects Tutorial](https://packaging.python.org/tutorials/packaging-projects)  
 
 
 ## Choices
@@ -2008,6 +1975,7 @@ Django Heroku
 
 Important
 https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
 
 https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
 
