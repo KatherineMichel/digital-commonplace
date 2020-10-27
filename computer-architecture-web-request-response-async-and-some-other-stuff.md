@@ -27,6 +27,24 @@ https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging
 http://restcookbook.com/Miscellaneous/rest-and-http/
 -->
 
+## Philosophies
+
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+* [Enterprise Ready](https://www.enterpriseready.io) and [Enterprise Ready GitHub](https://github.com/enterpriseready/enterpriseready)
+* [Open Microservices Guide](https://openmicroservices.org/)
+
+<!--
+https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
+
+  * [Microservices Dot IO](http://microservices.io)
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+
+https://github.com/microservices/cli
+-->
+
 ## General Software Design Patterns
 
 ## Architectures
