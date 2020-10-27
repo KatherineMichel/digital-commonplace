@@ -1,6 +1,12 @@
 # Python and JavaScript Learning Resources
 
 <!--
+Pass by value versus pass by reference
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
+https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
+
 https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/ | How to manage multiple Python versions and virtual environments
 
 Recs
