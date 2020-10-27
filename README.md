@@ -402,6 +402,8 @@ https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - commu
 https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
 https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
+Chrome Updates
+
 https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
 https://github.com/w3c/w3process
 https://github.com/tc39
@@ -671,12 +673,6 @@ https://www.openssl.org/ | /index.html
 
 
 <!--
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-
 https://www.redhat.com/
 https://www.redhat.com/en/blog
 
@@ -894,118 +890,6 @@ https://developers.google.com/tech-writing/one
 http://www.paulgraham.com/talk.html | Write Like You Talk
 https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
 -->
-
-
-## General Talks
-
-<!--
-Hynek Schlawack
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
-
-Kyle Knapp
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
-
-
-<!--
-lyftvm
-
-mergebot
-
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-
-https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
-
-https://www.youtube.com/watch?v=lx5WQjXLlq8&
-https://speakerdeck.com/carljm/instagram-under-the-hood
-https://blog.disqus.com/scaling-django-to-8-billion-page-views
-https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
-https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
-
-https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
--->
-
-<!--
-Co
-https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
-https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
-https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
-
-https://github.com/jazzband | Jazzband
-
-https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
-https://github.com/pantsbuild/example-python
-
-https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
--->
-
-
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-## Companies that Use Python
-## Major Organizations and Projects that Use Python or Django
-## Django Consulting Firms
-## Major Organizations and Projects that Use Django
 
 ## Performance
 
@@ -1491,6 +1375,145 @@ https://www.thoughtworks.com
 -->
 
 
+
+## General Talks
+
+<!--
+Hynek Schlawack
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+Kyle Knapp
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+-->
+
+
+<!--
+lyftvm
+
+mergebot
+
+https://engineering.linkedin.com/blog/2020/continuous-integration
+https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
+
+Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
+
+https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
+https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
+
+Python 3 at Facebook 
+https://lwn.net/Articles/758159/
+https://www.youtube.com/watch?v=H4SS9yVWJYA
+
+https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
+https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
+
+https://www.youtube.com/watch?v=lx5WQjXLlq8&
+https://speakerdeck.com/carljm/instagram-under-the-hood
+https://blog.disqus.com/scaling-django-to-8-billion-page-views
+https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
+https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
+
+https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
+-->
+
+<!--
+Co
+https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
+https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
+https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
+
+https://github.com/jazzband | Jazzband
+
+https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
+https://github.com/pantsbuild/example-python
+
+https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
+-->
+
+## Companies that Use Python
+## Major Organizations and Projects that Use Python or Django
+## Django Consulting Firms
+## Major Organizations and Projects that Use Django
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+http://stackshare.io/posts/
+
+https://us.pycon.org/2020/schedule/talks/
+
+https://techyaks.com/python-year-tytop.html
+-->
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+https://nextjs.org/showcase | Showcase | Next.js
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
+
+
 ## Makers
 
 Django, GitHub, SQL
@@ -1558,6 +1581,8 @@ Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
+https://womenmake.com/ | Women Make
+
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
@@ -1591,6 +1616,7 @@ Glitch Examples
 GitHub Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Trending Developers](https://github.com/trending/developers)
 
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
@@ -1602,13 +1628,21 @@ Python Articles
 
 
 <!--
-https://womenmake.com/ | Women Make
-
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
 
 <!--
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+Tutorial and project ideas
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 
 Show Indie Hacker
 
@@ -1617,22 +1651,13 @@ https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
 https://hn.algolia.com/?q=ask+hn
 https://hndex.org/
 
-http://stackshare.io/posts/
-
-Tutorial and project ideas
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
-
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
 https://codepen.io/tag/python
 http://codepen.io/projects/
 
-https://github.com/trending/developers
 https://repl.it/leaders | Repl.it - Leaderboard
 https://repl.it/talk/
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 -->
 
 ## Competitions, Hackathons, Festivals, Communities
@@ -1720,6 +1745,9 @@ Real Python
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
 TestDriven.io
 * [Test Driven Blog](https://testdriven.io/blog/)
 
@@ -1728,17 +1756,15 @@ Full Stack Python
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
-<!--
-https://simpleisbetterthancomplex.com/
-https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
+<!--
 Python Morsels
-https://treyhunner.com/
 https://mherman.org/talks | Talks and Trainings
 
 Digital Ocean
@@ -1781,9 +1807,6 @@ Practice
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
 
-100 Days of Code
-* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
-
 <!--
 https://www.pythonmorsels.com/resources/
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
@@ -1791,7 +1814,13 @@ https://www.pythonmorsels.com/exercises/list/ | Exercise List
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 -->
 
+
 ## Learning Resources- Projects
+
+100 Days of Code
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
+* [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
 
 Wes Bos Courses
 * [Wes Bos Courses](https://wesbos.com/courses/) and [Wes Bos GitHub](https://github.com/wesbos)
@@ -1801,9 +1830,6 @@ Wes Bos Courses
 
 
 <!--
-https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
-
-https://100daysofprojects.carrd.co/ | 100 Days Of Projects- About
 https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 
 
@@ -2014,6 +2040,9 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
@@ -3008,29 +3037,6 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 -->
 
 
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-https://nextjs.org/showcase | Showcase | Next.js
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
 
 
 ## GitHub and VS Code Integration
