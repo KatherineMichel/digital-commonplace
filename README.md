@@ -426,6 +426,8 @@ https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Applica
 
 Data Structures and Algorithms
 
+https://www.toptal.com/python/python-design-patterns
+
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
@@ -700,11 +702,6 @@ Important!
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
-
-http://learnjsthehardway.com
-
-* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
 
 https://en.wikipedia.org/wiki/User_agent
@@ -1494,139 +1491,6 @@ https://www.thoughtworks.com
 -->
 
 
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
-<!--
-Gam Jam
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
-
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-https://js1024.fun/results/2020 | JS1024 Results - 2020
-
-https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
-
-https://js13kgames.com/
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
--->
-
-## Project Ideas
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
-
-Glitch Examples
-* [Glitch Python](https://glitch.com/@python)
-* [Glitch Websites](https://glitch.com/@websites)
-
-<!--
-https://medium.com/glitch/the-building-blocks-of-a-creative-community-4eba7ee88f80 | The building blocks of a creative community – Glitch – Medium
--->
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://womenmake.com/ | Women Make
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Stackoverflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-<!--
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hn.algolia.com/?q=ask+hn
-https://hndex.org/
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-https://github.com/trending/developers
-https://repl.it/leaders | Repl.it - Leaderboard
-https://repl.it/talk/
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
--->
-
-
-## Projects
-
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
-
-<!--
-https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
-
-https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
-
-Node
-https://github.com/sqreen/awesome-nodejs-projects
-
-Python
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-Florin
-https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10-hours
-https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
-
-https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
--->
-
 ## Makers
 
 Django, GitHub, SQL
@@ -1678,11 +1542,55 @@ https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 -->
 
 
-## Look At
+## News and Terminology
 
 Articles
-* [Indie Hackers](https://www.indiehackers.com)
 * [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+Stack Overflow
+* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+<!--
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+-->
+
+## Project Ideas
+
+Stars
+* [Astral App](https://astralapp.com)
+
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+Glitch Examples
+* [Glitch Python](https://glitch.com/@python)
+* [Glitch Websites](https://glitch.com/@websites)
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending Python](https://github.com/trending/python)
 
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
@@ -1691,6 +1599,121 @@ The Practical Dev and Hackernoon
 Python Articles
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
+
+
+<!--
+https://womenmake.com/ | Women Make
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+<!--
+* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+
+Show Indie Hacker
+
+Show Hacker News
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+https://hn.algolia.com/?q=ask+hn
+https://hndex.org/
+
+http://stackshare.io/posts/
+
+Tutorial and project ideas
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
+https://github.com/trending/developers
+https://repl.it/leaders | Repl.it - Leaderboard
+https://repl.it/talk/
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+-->
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+Gam Jam
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+
+https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
+
+https://js13kgames.com/
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+-->
+
+
+## Projects
+
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
+
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
+
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+Python
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+Florin
+https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10-hours
+https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
+
+https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+-->
+
+
+## Learning Resources- Python Tutorials
 
 Real Python
 * [Real Python](https://realpython.com/) and [Real Python Courses](https://realpython.com/courses)
@@ -1705,42 +1728,23 @@ Full Stack Python
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
-<!--
-Tutorial and project ideas
-
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
--->
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 <!--
+https://simpleisbetterthancomplex.com/
 https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
 https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-http://stackshare.io/posts/
-
-https://www.infoq.com/
-
+Python Morsels
+https://treyhunner.com/
 https://mherman.org/talks | Talks and Trainings
 
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
+Digital Ocean
 
 https://www.datacamp.com/community/tutorials?tag=python
 https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
-
-https://www.toptal.com/python/python-design-patterns
-
-Pass by value versus pass by reference
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-http://purplediane.github.io/python/2017/05/14/variables-and-references.html
-
-https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 -->
 
 
@@ -1767,17 +1771,10 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 
 https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
 https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
-
-
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://github.com/JackMcKew/awesome-python-bytes
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 -->
 
-## Useful Learning Resources
+
+## Learning Resources- Challenges
 
 Practice
 * [LeetCode](https://leetcode.com)
@@ -1787,14 +1784,21 @@ Practice
 100 Days of Code
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 
+<!--
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+-->
+
+## Learning Resources- Projects
+
 Wes Bos Courses
 * [Wes Bos Courses](https://wesbos.com/courses/) and [Wes Bos GitHub](https://github.com/wesbos)
 * [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
 * [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 <!--
 https://twitter.com/hashtag/PushEveryDay?src=hashtag_click | #PushEveryDay - Twitter Search / Twitter
@@ -1805,6 +1809,8 @@ https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 Projects
 https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
@@ -5059,10 +5065,7 @@ Hacker News and Lobsters
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
 * [Lobsters](https://lobste.rs)
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python)
+* [Indie Hackers](https://www.indiehackers.com)
 
 Python
 * [Pythonic News](https://news.python.sc/)
