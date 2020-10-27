@@ -661,6 +661,7 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 -->
 
 
+
 <!--
 https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
 
@@ -698,12 +699,6 @@ Important!
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
-
-https://en.wikipedia.org/wiki/User_agent
-
-
-https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
 
 
 https://www.sqlite.org/
@@ -750,7 +745,6 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://simple.wikipedia.org/wiki/Packet_(computing)
 
 https://www.tutorialspoint.com/unix/
 https://www.tutorialspoint.com/unix/unix-useful-commands.htm
@@ -1479,41 +1473,6 @@ Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
 
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-https://nextjs.org/showcase | Showcase | Next.js
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
-
-
 ## Makers
 
 Django, GitHub, SQL
@@ -1564,7 +1523,6 @@ https://github.com/tj
 https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 -->
 
-
 ## News and Terminology
 
 Articles
@@ -1587,6 +1545,42 @@ Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
 -->
+
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+https://nextjs.org/showcase | Showcase | Next.js
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
+
 
 ## Project Ideas
 
