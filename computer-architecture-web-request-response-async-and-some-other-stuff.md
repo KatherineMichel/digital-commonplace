@@ -1,6 +1,11 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://en.wikipedia.org/wiki/User_agent
+https://simple.wikipedia.org/wiki/Packet_(computing)
+
+https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
 http://websocketd.com/ | websocketd
@@ -76,7 +81,6 @@ https://en.wikipedia.org/wiki/Software_architecture
 https://en.wikipedia.org/wiki/Architectural_pattern
 https://en.wikipedia.org/wiki/Messaging_pattern
 
-https://en.wikipedia.org/wiki/Request%E2%80%93response
 https://en.wikipedia.org/wiki/Post/Redirect/Get
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
 -->
