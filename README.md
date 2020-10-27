@@ -14,9 +14,11 @@ https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
 
 Eyes
 http://www.glassesoff.com/
-https://twitter.com/webology/status/1314404582789918722
 http://www.aaronsw.com/weblog/001083 | Eye Exercises (Aaron Swartz: The Weblog)
 https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
+
+Foam Roller
+https://twitter.com/webology/status/1314404582789918722
 
 Why We Sleep
 https://www.amazon.com/dp/B0752XRB5F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
