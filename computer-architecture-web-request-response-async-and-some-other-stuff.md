@@ -242,6 +242,26 @@ https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implemen
 https://github.com/graphql-python | GraphQL Python
 -->
 
+
+## Performance and Metrics
+
+<!--
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+See also: Data Science
+https://github.com/keen/cohorts
+-->
+
+
 ## SQL Related
 
 The Python SQL Toolkit and Object Relational Mapper
