@@ -400,15 +400,17 @@ https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - commu
 ## Dev Tools and Standards
 
 https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-Chrome Updates
 
 https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
 https://github.com/w3c/w3process
 https://github.com/tc39
 
 https://www.w3.org/WAI
+
+
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
