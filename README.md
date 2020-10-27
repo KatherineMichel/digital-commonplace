@@ -1539,6 +1539,8 @@ Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
+https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
+
 https://womenmake.com/ | Women Make
 
 Tech Terminology
@@ -1814,6 +1816,7 @@ https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skil
 100 Days of Code
 * [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
 * [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
 * [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
 
 Wes Bos Courses
@@ -1824,10 +1827,49 @@ Wes Bos Courses
 
 
 <!--
-https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+Searches
+https://github.com/search?q=github+action+heroku | Search · github action heroku
+https://github.com/actions?q=heroku&type=&language= | GitHub Actions
+https://github.com/heroku?q=python&type=&language= | Heroku
+https://github.com/search?p=3&q=node&type=Repositories | Search · node
 
+Heroku and Node
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
+
+https://github.com/search?q=django
+
+https://github.com/search?q=project
+https://github.com/search?q=example
+https://github.com/search?q=sample
+https://github.com/search?q=demo
+https://github.com/search?q=boilerplate
+https://github.com/search?q=starter
+
+https://github.com/search?q=clone
+https://github.com/search?q=instagram
+https://github.com/search?q=twitter
+https://github.com/search?q=slack
+https://github.com/search?q=hacker+news
+
+
+https://github.com/wesbos/JavaScript30
+
+https://github.com/bradtraversy/
+https://www.udemy.com/user/brad-traversy/
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+
+Traversy
+https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/modern_portfolio
+https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
 
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
@@ -1844,18 +1886,6 @@ https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://blog.repl.it/database | Repl.it - A database for every repl
 
-
-https://github.com/bradtraversy/
-https://www.udemy.com/user/brad-traversy/
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-Traversy
-https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/modern_portfolio
-https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
 
 
 https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
@@ -1929,6 +1959,7 @@ https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015
 
 <!--
 https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+
 https://keycode.info/ | JavaScript Event KeyCodes
 https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
@@ -2002,10 +2033,11 @@ https://github.com/python-telegram-bot/python-telegram-bot
 
 Demos and Boilerplates
 https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/nice-boys/product-boilerplate
 
 
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/DrkSephy/django-hackathon-starter
 
 
