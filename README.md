@@ -2448,7 +2448,6 @@ https://github.com/public-apis/public-apis | public-apis/public-apis: A collecti
 https://github.com/api-evangelist
 https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
-https://github.com/toddmotto/public-apis | toddmotto/public-apis: A collective list of free APIs for use in software and web development.
 https://www.programmableweb.com/category/all/apis
 
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
