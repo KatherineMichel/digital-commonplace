@@ -36,10 +36,58 @@ Public Interest
 https://github.com/OWASP | OWASP
 -->
 
-## Companies that Use Python
+## Django Consulting Firms
 
-Companies that Use Python
-* PyCon Slide
+Python and Django Consulting Firm GitHub Accounts
+* [Caktus Group GitHub](https://github.com/caktus) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
+* [Changeset Consulting](https://changeset.nyc)
+* [Cuttlesoft GitHub](https://github.com/cuttlesoft) and [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
+* [Divio GitHub](https://github.com/divio) and [Divio Blog](https://www.divio.com/blog)
+* [Eldarion GitHub](https://github.com/eldarion) and [Eldarion Blog](http://eldarion.com/blog)
+* [JamBon Software GitHub](https://github.com/jambonsw) and [JamBon Software](http://www.jambonsw.com)
+* [Lincoln Loop GitHub](https://github.com/lincolnloop) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [Pinax](https://pinaxproject.com) and [Pinax Blog](http://blog.pinaxproject.com)
+* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
+* [Torchbox GitHub](https://github.com/torchbox) and [Torchbox Blog](https://torchbox.com/blog)
+* [Truthful Technology GitHub](https://github.com/TruthfulTechnology) and [Truthful Technology](https://truthful.technology)
+* [Vinta Software GitHub](https://github.com/vintasoftware) and [Vinta Blog](https://www.vinta.com.br/blog)
+
+<!--
+https://www.jbssolutions.com/
+
+DjangoCon sponsors
+https://2018.djangocon.us/sponsors/
+-->
+
+## Major Organizations and Projects that Use Django
+
+* [18F GitHub](https://github.com/18F)  
+* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
+* [Disqus](https://github.com/disqus)
+* [Instagram GitHub](https://github.com/instagram)  
+* [Knight Foundation](http://www.knightfoundation.org/apps)  
+* [Mozilla GitHub](https://github.com/mozilla)
+* [National Geographic GitHub](https://github.com/natgeo)  
+* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
+* [PBS GitHub](https://github.com/pbs)  
+* [Pinterest GitHub](https://github.com/pinterest)  
+* [Rdio GitHub](https://github.com/rdio)  
+* [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
+* [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
+* [Wharton GitHub](https://github.com/wharton)
+* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
+
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
+
+
+## Companies that Use Python
 
 High Performance Python- Engineering Blogs
 * [Bloomberg](https://www.techatbloomberg.com/)
@@ -55,8 +103,12 @@ High Performance Python- Engineering Blogs
 
 ## Major Organizations and Projects that Use Python or Django
 
+Companies that Use Python
+* PyCon Slide
+
 <!--
 * [23andMe](https://github.com/23andMe) 
+
 * [Alexa](https://github.com/alexa) 
 * [Amazon Web Services](https://github.com/amazonwebservices)  
 * [Amazon](https://github.com/amzn)
@@ -147,55 +199,7 @@ walt disney animations tudios
 * [Yelp](https://github.com/Yelp) 
 -->
 
-## Django Consulting Firms
 
-Python and Django Consulting Firm GitHub Accounts
-* [Caktus Group GitHub](https://github.com/caktus) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
-* [Changeset Consulting](https://changeset.nyc)
-* [Cuttlesoft GitHub](https://github.com/cuttlesoft) and [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
-* [Divio GitHub](https://github.com/divio) and [Divio Blog](https://www.divio.com/blog)
-* [Eldarion GitHub](https://github.com/eldarion) and [Eldarion Blog](http://eldarion.com/blog)
-* [JamBon Software GitHub](https://github.com/jambonsw) and [JamBon Software](http://www.jambonsw.com)
-* [Lincoln Loop GitHub](https://github.com/lincolnloop) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
-* [Pinax](https://pinaxproject.com) and [Pinax Blog](http://blog.pinaxproject.com)
-* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
-* [Torchbox GitHub](https://github.com/torchbox) and [Torchbox Blog](https://torchbox.com/blog)
-* [Truthful Technology GitHub](https://github.com/TruthfulTechnology) and [Truthful Technology](https://truthful.technology)
-* [Vinta Software GitHub](https://github.com/vintasoftware) and [Vinta Blog](https://www.vinta.com.br/blog)
-
-<!--
-https://www.jbssolutions.com/
-
-DjangoCon sponsors
-https://2018.djangocon.us/sponsors/
--->
-
-## Major Organizations and Projects that Use Django
-
-* [18F GitHub](https://github.com/18F)  
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Disqus](https://github.com/disqus)
-* [Instagram GitHub](https://github.com/instagram)  
-* [Knight Foundation](http://www.knightfoundation.org/apps)  
-* [Mozilla GitHub](https://github.com/mozilla)
-* [National Geographic GitHub](https://github.com/natgeo)  
-* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-* [PBS GitHub](https://github.com/pbs)  
-* [Pinterest GitHub](https://github.com/pinterest)  
-* [Rdio GitHub](https://github.com/rdio)  
-* [Reddit GitHub](https://github.com/reddit)  
-* [Rover GitHub](https://github.com/roverdotcom)
-* [StyleSeat GitHub](https://github.com/styleseat) 
-* [The Spokesman Review](http://www.spokesman.com)
-* [Wharton GitHub](https://github.com/wharton)
-* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
-
-<!--
-https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
-
-http://www.spokesman.com/staff/
-http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
--->
 
 ## Large Scale Machine Learning and Data Science
 
@@ -299,6 +303,8 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 ### Quantum Computing
 
 * [Rigetti Computing](https://github.com/rigetti)
+
+
 
 ## Organizations on GitHub
 
