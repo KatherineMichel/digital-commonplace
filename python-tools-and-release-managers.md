@@ -500,6 +500,8 @@ Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
 <!--
+http://www.brendangregg.com/perf.html | Linux perf Examples
+
 ZSH	
 https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
 https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
