@@ -94,11 +94,9 @@ https://github.com/18F/
 Interesting!
 https://github.com/adidas
 https://github.com/adobe
+
 ALG
 https://github.com/TrueCar
-
-Tool
-https://github.com/ansible/ansible
 
 https://github.com/babylonhealth
 
@@ -125,11 +123,7 @@ https://github.com/braintree-go/braintree-go
 
 https://github.com/ImaginaryLandscape
 
-https://github.com/byuhbll
 https://github.com/capitalone
-https://github.com/opensourcecities
-https://github.com/CfA-Library
-https://github.com/kennyjacoby/Community-Court-PDF-Scraper
 
 https://github.com/CenturyLinkCloud
 https://github.com/CenturyLink
@@ -148,6 +142,7 @@ https://github.com/DevNetSandbox
 
 https://github.com/Coffee-Meets-Bagel
 https://github.com/coinsquare
+
 https://github.com/Comcast
 https://github.com/ComcastSamples
 
@@ -180,14 +175,9 @@ Learning
 https://github.com/edx
 https://github.com/edx/edx-platform
 
-Tool
-https://github.com/elastic
-
 https://github.com/EllieMae
 https://github.com/Ericsson
-Facebook
-https://github.com/factset/open-source-governance
-https://github.com/Faithlife
+
 https://github.com/FannieMaeOpenSource
 
 https://github.com/python-fedex-devs
@@ -204,8 +194,6 @@ https://github.com/hewlettpackard/
 https://github.com/HPE
 https://github.com/HPENetworking
 https://github.com/hpe-storage
-
-https://github.com/IBM
 
 https://github.com/watson-developer-cloud/
 
@@ -225,26 +213,19 @@ https://github.com/istrategylabs
 https://github.com/nasa-jpl
 https://github.com/nasajpl
 
-https://github.com/Data-Innovation-Research-Institute
 https://github.com/JetBrains
 https://github.com/JohnDeere
+
 https://github.com/juniper
 https://github.com/JNPRAutomate
+
 https://github.com/Kaggle
+
+Django
 https://github.com/labcorp
-https://github.com/LBNL-ETA
-https://github.com/LBNL-UCB-STI/
-https://github.com/LBLSecurity
-Interesting OS
-https://github.com/leapfrogtechnology
+
 https://github.com/LexisNexis
 
-https://github.com/lanl
-https://github.com/LANL-Seismoacoustics
-https://github.com/lanl-ansi
-https://github.com/lulu
-
-https://github.com/macmillanpublishers
 https://github.com/magicleap
 https://github.com/MagicLeapDevs/
 
@@ -261,17 +242,15 @@ https://github.com/HDI-Project
 https://github.com/mitmath/
 And other MIT I didn't list
 
-https://github.com/Maxar-Corp
-https://github.com/worldbank
 Microsoft
 
-https://github.com/mongodb/
-
 https://github.com/mozilla-mobile/
-https://github.com/NREL
+
 https://github.com/libertymutual
+
 https://github.com/nbcuniversal
 https://github.com/nbcnews
+
 https://github.com/netapp/
 https://github.com/NetAppDocs
 https://github.com/NetApp-StorageGRID
@@ -279,18 +258,15 @@ https://github.com/NetApp-StorageGRID
 https://github.com/TheUpshot
 https://github.com/nytimes
 https://github.com/nielsen-oss
-https://github.com/Nike-Inc
+
 https://github.com/usnistgov
 https://github.com/northwesternmutual
 https://github.com/oreillymedia
-https://github.com/optimizely/
 
 https://github.com/oracle
 https://github.com/oracle-quickstart
 
-https://github.com/pnnl
 https://github.com/PagerDuty
-https://github.com/PaloAltoNetworks
 
 Pearson
 https://github.com/Pearson-Higher-Ed
@@ -306,7 +282,7 @@ https://github.com/pluralsight-projects
 
 https://github.com/Progressive-Insurance
 https://github.com/Progressive
-https://github.com/prometheus
+
 https://github.com/QuIC
 https://github.com/Quansight
 https://github.com/Quansight-Labs
@@ -323,32 +299,20 @@ https://github.com/redhat-cop
 
 https://github.com/reddit-archive/reddit
 
-https://github.com/RevelSystems
-https://github.com/Rookout
-
-https://github.com/safesoftware/BestPractice
-
-https://github.com/salesforce
 https://github.com/forcedotcom
 https://github.com/developerforce
 
-https://github.com/sandialabs
 https://github.com/SAP
 https://github.com/SAP-samples
 https://github.com/SAPDocuments
-https://github.com/schireson
+
 https://github.com/Semmle
-https://github.com/ShopRunner
 https://github.com/flatironinstitute
 
 https://github.com/sony
 https://github.com/SonyWWS
 https://github.com/SNSystems
 
-https://github.com/spacetelescope
-https://github.com/splunk
-
-https://github.com/StanfordBioinformatics
 https://github.com/StateFarmIns
 https://github.com/StateFarmInsCodingCompetition
 
@@ -356,9 +320,6 @@ https://github.com/TexasInstruments
 https://github.com/homedepot
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
-
-https://github.com/JHUAPL
-https://github.com/jhuapl-boss/
 
 Disney
 https://github.com/disney
@@ -369,22 +330,14 @@ https://github.com/ThoughtWorksInc
 https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
 
-https://github.com/tobiitech/
-
-Tools
-https://github.com/travis-ci/travis-ci
-https://github.com/trello
-https://blog.trello.com/github-and-trello-integrate-your-commits
-
 https://github.com/palantir/
 
-https://github.com/upsidetravel/
-
 https://github.com/venmo
+
 https://github.com/VerizonMedia
 https://github.com/VerizonMedia/oss-guide
 https://verizonmedia.github.io/oss-guide/
-https://github.com/department-of-veterans-affairs/
+
 https://github.com/volkswagen
 https://github.com/Vonage
 
@@ -395,7 +348,6 @@ https://github.com/yandexdataschool
 https://github.com/yandex-cloud
 https://github.com/doochik/yandex-opensource
 
-https://github.com/Yipit
 https://github.com/yubico
 https://github.com/ZipRecruiter
 
@@ -412,7 +364,6 @@ High Performance Python- Engineering Blogs
 * [Instagram](https://engineering.instagram.com)
 * [Netflix](https://medium.com/netflix-techblog)
 * [Quora](https://engineering.quora.com)
-* [Reddit](https://redditblog.com)
 * [Reddit](https://redditblog.com)
 * [Spotify](https://labs.spotify.com)
 * [Uber](https://eng.uber.com)
