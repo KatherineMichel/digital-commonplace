@@ -665,18 +665,6 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 -->
 
 
-
-<!--
-https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
-
-
-https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
-
-http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
-https://www.openssl.org/ | /index.html
--->
-
-
 <!--
 https://www.redhat.com/
 https://www.redhat.com/en/blog
@@ -889,6 +877,7 @@ http://www.paulgraham.com/talk.html | Write Like You Talk
 https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
 -->
 
+
 ## Performance
 
 Python Time Complexity, Performance
@@ -905,66 +894,33 @@ Diagnostic tools
 * cProfile module
 
 <!--
-http://scipy.github.io/old-wiki/pages/PerformancePython
+Tools matrix
+https://www.integralist.co.uk/posts/profiling-python/
 
 27.4. The Python Profilers
 https://docs.python.org/3/library/profile.html#module-pstats
+https://docs.python.org/3/library/profile.html#pstats.Stats
 
-https://wiki.python.org/moin/PythonSpeed/Profiling
-http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
+https://github.com/pyutils/line_profiler
+https://docs.python.org/3/library/tracemalloc.html
 
 10.10. Performance Measurement
 https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
 10.11. Quality Control
 https://docs.python.org/3/tutorial/stdlib.html#quality-control
 
-https://numba.pydata.org/
+
+https://wiki.python.org/moin/PythonSpeed/Profiling
+http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
 
 https://en.wikipedia.org/wiki/Schwartzian_transform
 https://wiki.python.org/moin/DecorateSortUndecorate
 https://wiki.python.org/moin/ConcatenationTestCode
 
+https://numba.pydata.org/
+http://scipy.github.io/old-wiki/pages/PerformancePython
+
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
--->
-
-## Python Profiling
-
-<!--
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
-
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-
-Telemetry
-https://en.wikipedia.org/wiki/Telemetry
-https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-
-
-https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
-
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-
-Third Party Testing and Profiling
-
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-https://github.com/uber/pyflame | uber/pyflame: 🔥 Pyflame: A Ptracing Profiler For Python
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-http://www.integralist.co.uk/posts/profiling-python/ | Profiling Python ⋆ Mark McDonnell
-
-
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
 -->
 
 ## Time Complexity and Optimization-Improvement Methods
@@ -979,6 +935,48 @@ Improvement Methods
 * [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
 * [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
 * [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+
+<!--
+https://en.wikipedia.org/wiki/Dynamic_program_analysis
+
+https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
+
+
+https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
+
+Profiling
+https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
+https://github.com/asottile/importtime-waterfall/
+har http timing
+
+https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
+
+https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
+
+Nice README!
+https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
+https://opentelemetry-python.readthedocs.io/en/stable/getting-started.html
+https://github.com/jaegertracing/jaeger
+https://github.com/jaegertracing/jaeger-client-python
+https://prometheus.io/
+
+https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
+
+
+https://knasmueller.net/measure-code-execution-time-accurately-in-python
+
+Tools
+https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
+
+https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
+
+https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
+
+
+https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
+
+https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
+-->
 
 <!--
 lines of code (loc) versus complexity
@@ -1058,9 +1056,7 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 
 
 ## Python- What's New
-
 ## To Read- Python Packaging
-
 ## To Read- Python Release
 
 <!--
@@ -1165,7 +1161,6 @@ https://twitter.com/melsmo/status/1313180759889305601
 -->
 
 <!--
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
 
 JS Scene
@@ -1420,6 +1415,11 @@ https://github.com/pantsbuild/example-python
 https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
 -->
 
+<!--
+https://opensource.facebook.com/projects
+https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
+-->
+
 ## Companies that Use Python
 ## Major Organizations and Projects that Use Python or Django
 ## Django Consulting Firms
@@ -1432,6 +1432,8 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
 http://stackshare.io/posts/
 
 https://us.pycon.org/2020/schedule/talks/
@@ -1510,6 +1512,9 @@ Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
+https://hndex.org/
+https://hn.algolia.com/?q=ask+hn
+
 https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
 
 https://womenmake.com/ | Women Make
@@ -1612,6 +1617,28 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 -->
 
 <!--
+Searches
+https://github.com/search?q=github+action+heroku | Search · github action heroku
+https://github.com/actions?q=heroku&type=&language= | GitHub Actions
+https://github.com/heroku?q=python&type=&language= | Heroku
+https://github.com/search?p=3&q=node&type=Repositories | Search · node
+
+https://github.com/search?q=django
+
+https://github.com/search?q=project
+https://github.com/search?q=example
+https://github.com/search?q=sample
+https://github.com/search?q=demo
+https://github.com/search?q=boilerplate
+https://github.com/search?q=starter
+
+https://github.com/search?q=clone
+https://github.com/search?q=instagram
+https://github.com/search?q=twitter
+https://github.com/search?q=slack
+https://github.com/search?q=hacker+news
+
+
 Tutorial and project ideas
 https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
 https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
@@ -1633,8 +1660,6 @@ Show Indie Hacker
 
 Show Hacker News
 https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
-https://hn.algolia.com/?q=ask+hn
-https://hndex.org/
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
@@ -1813,31 +1838,10 @@ Wes Bos Courses
 
 
 <!--
-Searches
-https://github.com/search?q=github+action+heroku | Search · github action heroku
-https://github.com/actions?q=heroku&type=&language= | GitHub Actions
-https://github.com/heroku?q=python&type=&language= | Heroku
-https://github.com/search?p=3&q=node&type=Repositories | Search · node
-
 Heroku and Node
 https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
 https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
 https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
-
-https://github.com/search?q=django
-
-https://github.com/search?q=project
-https://github.com/search?q=example
-https://github.com/search?q=sample
-https://github.com/search?q=demo
-https://github.com/search?q=boilerplate
-https://github.com/search?q=starter
-
-https://github.com/search?q=clone
-https://github.com/search?q=instagram
-https://github.com/search?q=twitter
-https://github.com/search?q=slack
-https://github.com/search?q=hacker+news
 
 
 https://github.com/wesbos/JavaScript30
