@@ -922,7 +922,6 @@ https://numba.pydata.org/
 
 https://en.wikipedia.org/wiki/Schwartzian_transform
 https://wiki.python.org/moin/DecorateSortUndecorate
-
 https://wiki.python.org/moin/ConcatenationTestCode
 
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
@@ -1687,6 +1686,9 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
 https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
 
 https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
@@ -1702,10 +1704,6 @@ https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10
 https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
 
 https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
@@ -2250,19 +2248,19 @@ https://www.linuxjournal.com/content/understanding-bash-elements-programming
 <!--
 Stuff
 
-Fastmac
-https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
-https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
-
-https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
-
-https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
-
 Kenneth
 https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
 
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
+
+https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
+
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+
+https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
 
 Django
 https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 on Twitter: "I wrote a thing that's been useful ever since🖖 Run your Django project tests on GitHub Actions + explanation about what's happening 👇 https://t.co/OToacdQOVy" / Twitter
