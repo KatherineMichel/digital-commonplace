@@ -500,6 +500,29 @@ Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 
 <!--
+ZSH	
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+https://opensource.com/article/20/1/bash-scripts-aliases
+
+https://github.com/topics/bash | Topic: bash
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+
+https://regexcrossword.com/ | Regex Crossword
+https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
 https://www.iterm2.com/
 https://kapeli.com/dash_guide
 
@@ -522,23 +545,12 @@ https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on T
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
 
-ZSH	
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-https://github.com/hmml/awesome-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-https://opensource.com/article/20/1/bash-scripts-aliases
-
 File security
 http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
 
 https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
 https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
 https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
-
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
 
 Brew script
 
