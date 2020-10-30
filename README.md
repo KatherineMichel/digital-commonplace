@@ -1483,6 +1483,7 @@ https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
 
 https://mikecoutermarsh.com/ | Mike Coutermarsh
 https://jasonet.co/ | Jason Etcovitch · jasonet.co
+
 https://www.bdougie.live/ | bdougie.live
 https://github.com/bdougie/blog | bdougie/blog: My blog
 
@@ -1553,11 +1554,7 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
-
-## Project Ideas
-
-Stars
-* [Astral App](https://astralapp.com)
+## Product Hunt and BetaList
 
 Product Hunt
 * [Product Hunt](https://www.producthunt.com)
@@ -1569,6 +1566,20 @@ Product Hunt Product Leader Boards
 * [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
 * [Top 500 Products](http://500products.com)
 
+## Favorites
+
+Stars
+* [Astral App](https://astralapp.com)
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending Python](https://github.com/trending/python)
+
+## Project Ideas
+
+People
+* [GitHub Trending Developers](https://github.com/trending/developers)
+
 Product Hunt Maker Leader Boards
 * [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
 * [Top 500 Hunters](http://500hunters.com)
@@ -1579,11 +1590,6 @@ Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
 
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Trending Developers](https://github.com/trending/developers)
-
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 * [Hacker Noon](https://hackernoon.com)
@@ -1591,7 +1597,6 @@ The Practical Dev and Hackernoon
 Python Articles
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
-
 
 <!--
 https://glitch.dev/ | Using Glitch for Developer Relations
@@ -1607,20 +1612,22 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 -->
 
 <!--
+Tutorial and project ideas
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+
+http://www.githubstars.com/
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
 https://popular-github-repos.github.io/
 https://github.com/popular-github-repos/popular-github-repos.github.io
 
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-Tutorial and project ideas
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 
 Show Indie Hacker
 
