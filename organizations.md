@@ -96,39 +96,47 @@ https://github.com/adidas
 https://github.com/adobe
 ALG
 https://github.com/TrueCar
-Amazon
+
+Tool
 https://github.com/ansible/ansible
-Apple
+
 https://github.com/babylonhealth
-https://github.com/BaltimoreCity
-https://github.com/city-of-baltimore
-https://github.com/bchd
-https://github.com/Baltimore-City-EGIS
+
 https://github.com/bankofamerica
 https://github.com/chmarz/API-guidelines
 Bloomberg
 https://github.com/BMW-InnovationLab
 https://github.com/bmwcarit
 https://github.com/goboomtown
+
+Consultant
 https://github.com/boozallen
 https://github.com/booz-allen-hamilton
 https://github.com/booz-allen-hamilton/agile-playbook
 https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
+
 https://github.com/box
 https://github.com/box-community
 https://github.com/box-samples
 https://github.com/box-community
+
 https://github.com/braintree
 https://github.com/braintree-go/braintree-go
+
+https://github.com/ImaginaryLandscape
+
 https://github.com/byuhbll
 https://github.com/capitalone
 https://github.com/opensourcecities
 https://github.com/CfA-Library
+https://github.com/kennyjacoby/Community-Court-PDF-Scraper
+
 https://github.com/CenturyLinkCloud
 https://github.com/CenturyLink
 https://github.com/CenturyLinkLabs
-https://github.com/cfpb
+
 https://github.com/jpmorganchase
+
 https://github.com/cisco
 https://github.com/CiscoDevNet
 https://github.com/CiscoSystems
@@ -137,67 +145,71 @@ https://github.com/CiscoSecurity
 https://github.com/datacenter
 https://github.com/CiscoTestAutomation
 https://github.com/DevNetSandbox
-https://github.com/kennyjacoby/Community-Court-PDF-Scraper
+
 https://github.com/Coffee-Meets-Bagel
 https://github.com/coinsquare
 https://github.com/Comcast
 https://github.com/ComcastSamples
-https://github.com/cfpb
+
 https://github.com/creditkarma
-https://github.com/cuttlesoft
+
 https://github.com/NVIDIA/DIGITS
 https://github.com/deliveryhero
+
 https://github.com/dell
 https://github.com/Dell-Networking
+
 https://github.com/Deloitte
 https://github.com/DeloitteDigitalUK
 https://github.com/DeloitteDigital
 https://github.com/DeloitteDigitalAPAC
 https://github.com/DeloitteDigitalAT
-https://github.com/deptofdefense
+
 https://github.com/digitalocean
-https://github.com/doctorondemand
+
 https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
 https://github.com/dolbyio
+
 https://github.com/dowjones
+
+Hosting
 https://github.com/dreamhost
-https://github.com/dropbox
+
+Learning
 https://github.com/edx
 https://github.com/edx/edx-platform
+
+Tool
 https://github.com/elastic
+
 https://github.com/EllieMae
 https://github.com/Ericsson
 Facebook
 https://github.com/factset/open-source-governance
 https://github.com/Faithlife
 https://github.com/FannieMaeOpenSource
-https://github.com/fecgov
-https://github.com/USFRS
+
 https://github.com/python-fedex-devs
-https://github.com/FDA
-https://github.com/Ford
+
 https://github.com/freshbooks
 https://github.com/boston-dynamics
 https://github.com/GeneralMills
 https://github.com/gmfinancial
-https://github.com/godaddy
+
+Hardware
 https://github.com/goodyear
-https://github.com/grubhub
+
 https://github.com/hewlettpackard/
 https://github.com/HPE
 https://github.com/HPENetworking
 https://github.com/hpe-storage
+
 https://github.com/IBM
-https://github.com/idaholab
-https://github.com/IdahoLabResearch
-https://github.com/IdahoLabCuttingBoard
+
 https://github.com/watson-developer-cloud/
-https://github.com/ImaginaryLandscape
-https://github.com/indeedeng
-https://github.com/industrydive/scrapy-scripts
-https://github.com/Instagram
-https://github.com/IntegralDefense
+
+Famous
 https://github.com/intel
 https://github.com/IntelSoftware
 https://github.com/IntelLabs
@@ -206,11 +218,13 @@ https://github.com/Intel-bigdata
 https://github.com/IntelRealSense
 https://github.com/intuit
 https://github.com/IntuitDeveloper
+
 https://github.com/iovation
 https://github.com/istrategylabs
+
 https://github.com/nasa-jpl
 https://github.com/nasajpl
-https://github.com/nasa/
+
 https://github.com/Data-Innovation-Research-Institute
 https://github.com/JetBrains
 https://github.com/JohnDeere
@@ -224,18 +238,19 @@ https://github.com/LBLSecurity
 Interesting OS
 https://github.com/leapfrogtechnology
 https://github.com/LexisNexis
-https://github.com/linkedin
+
 https://github.com/lanl
 https://github.com/LANL-Seismoacoustics
 https://github.com/lanl-ansi
 https://github.com/lulu
-https://github.com/Lululemon
-https://github.com/lyft
+
 https://github.com/macmillanpublishers
 https://github.com/magicleap
 https://github.com/MagicLeapDevs/
-https://github.com/mailchimp
+
 https://github.com/managedbyq
+
+MIT
 https://github.com/mit
 https://github.com/mitmedialab
 https://github.com/mit-rss
@@ -245,15 +260,14 @@ https://github.com/mitodl
 https://github.com/HDI-Project
 https://github.com/mitmath/
 And other MIT I didn't list
+
 https://github.com/Maxar-Corp
 https://github.com/worldbank
 Microsoft
-https://github.com/deptofdefense
-https://github.com/ministryofjustice
+
 https://github.com/mongodb/
-https://github.com/mozilla
+
 https://github.com/mozilla-mobile/
-https://github.com/nationalparkservice
 https://github.com/NREL
 https://github.com/libertymutual
 https://github.com/nbcuniversal
@@ -261,33 +275,35 @@ https://github.com/nbcnews
 https://github.com/netapp/
 https://github.com/NetAppDocs
 https://github.com/NetApp-StorageGRID
-https://github.com/Netflix
-https://github.com/newrelic
+
 https://github.com/TheUpshot
 https://github.com/nytimes
-https://github.com/cityofnewyork
 https://github.com/nielsen-oss
 https://github.com/Nike-Inc
 https://github.com/usnistgov
 https://github.com/northwesternmutual
 https://github.com/oreillymedia
 https://github.com/optimizely/
+
 https://github.com/oracle
 https://github.com/oracle-quickstart
+
 https://github.com/pnnl
 https://github.com/PagerDuty
 https://github.com/PaloAltoNetworks
-https://github.com/Patreon
-https://github.com/paypal
+
+Pearson
 https://github.com/Pearson-Higher-Ed
 https://github.com/PearsonEducation
 https://github.com/pearsontechnology
 https://github.com/pearson-ux
+
 https://github.com/plangrid
+
+Learning
 https://github.com/pluralsight
 https://github.com/pluralsight-projects
-https://github.com/PrincetonUniversity
-https://github.com/pulibrary
+
 https://github.com/Progressive-Insurance
 https://github.com/Progressive
 https://github.com/prometheus
@@ -295,24 +311,27 @@ https://github.com/QuIC
 https://github.com/Quansight
 https://github.com/Quansight-Labs
 https://github.com/QuickenLoans
-https://github.com/rackspace
+
 https://github.com/rackerlabs
 https://github.com/racker
 https://github.com/rackspace-infrastructure-automation
-https://github.com/quora
+
 https://github.com/RedHatOfficial
 https://github.com/redhat-developer
 https://github.com/RedHatGov
 https://github.com/redhat-cop
-https://github.com/reddit
+
 https://github.com/reddit-archive/reddit
+
 https://github.com/RevelSystems
 https://github.com/Rookout
-https://github.com/roverdotcom
+
 https://github.com/safesoftware/BestPractice
+
 https://github.com/salesforce
 https://github.com/forcedotcom
 https://github.com/developerforce
+
 https://github.com/sandialabs
 https://github.com/SAP
 https://github.com/SAP-samples
@@ -320,53 +339,47 @@ https://github.com/SAPDocuments
 https://github.com/schireson
 https://github.com/Semmle
 https://github.com/ShopRunner
-https://github.com/simonsfoundation
 https://github.com/flatironinstitute
-https://www.sinenomine.net/news/GitHub
-https://github.com/sohonetlabs
-https://github.com/sohonet
+
 https://github.com/sony
 https://github.com/SonyWWS
 https://github.com/SNSystems
+
 https://github.com/spacetelescope
 https://github.com/splunk
-https://github.com/spotify
+
 https://github.com/StanfordBioinformatics
 https://github.com/StateFarmIns
 https://github.com/StateFarmInsCodingCompetition
-Interesting
-https://github.com/stride-nyc
-https://github.com/telus
+
 https://github.com/TexasInstruments
-Chaos Engine
-https://github.com/ThalesGroup
 https://github.com/homedepot
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
+
 https://github.com/JHUAPL
 https://github.com/jhuapl-boss/
+
+Disney
 https://github.com/disney
 https://github.com/wdas
+
 https://github.com/thoughtworks
 https://github.com/ThoughtWorksInc
 https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
+
 https://github.com/tobiitech/
+
+Tools
 https://github.com/travis-ci/travis-ci
 https://github.com/trello
 https://blog.trello.com/github-and-trello-integrate-your-commits
+
 https://github.com/palantir/
-https://github.com/tumblr
-https://github.com/usagov/
-https://github.com/US-GOV
-https://github.com/usgpo
-https://github.com/CivilServiceUSA/us-senate/
+
 https://github.com/upsidetravel/
-https://github.com/usarmyresearchlab
-https://github.com/USCGA
-https://github.com/usbr
-https://github.com/USEPA
-https://github.com/usgs
+
 https://github.com/venmo
 https://github.com/VerizonMedia
 https://github.com/VerizonMedia/oss-guide
@@ -374,21 +387,14 @@ https://verizonmedia.github.io/oss-guide/
 https://github.com/department-of-veterans-affairs/
 https://github.com/volkswagen
 https://github.com/Vonage
-https://github.com/voxmedia
-https://github.com/walmartlabs
-https://github.com/walmart
-https://github.com/wdas
-https://github.com/wayfair
+
 https://github.com/wayfair-contribs
 https://github.com/wayfair-archive
-https://github.com/worthwhile
-https://github.com/YaleUniversity
-https://github.com/yalelibrary
-https://github.com/yandex
+
 https://github.com/yandexdataschool
 https://github.com/yandex-cloud
 https://github.com/doochik/yandex-opensource
-https://github.com/Yelp
+
 https://github.com/Yipit
 https://github.com/yubico
 https://github.com/ZipRecruiter
@@ -406,6 +412,7 @@ High Performance Python- Engineering Blogs
 * [Instagram](https://engineering.instagram.com)
 * [Netflix](https://medium.com/netflix-techblog)
 * [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
 * [Reddit](https://redditblog.com)
 * [Spotify](https://labs.spotify.com)
 * [Uber](https://eng.uber.com)
@@ -461,14 +468,13 @@ Companies that Use Python
 * [Google Samples](https://github.com/googlesamples) 
 * [G Suite Devs](https://github.com/gsuitedevs )
 * [YouTube](https://github.com/youtube)
-
 * [Grubhub](https://github.com/grubhub) 
 * [IBM](https://github.com/IBM)  
 * [IBM Cloud](https://github.com/IBM-Cloud)
 * [Indeed](https://github.com/indeedeng)
 * [Instagram](https://github.com/Instragram)  
-* [LinkedIn GitHub](https://github.com/linkedin)
-lulumon
+* [LinkedIn](https://github.com/linkedin)
+* [Lululemon](https://github.com/Lululemon)
 * [Lyft](https://github.com/lyft)
 magic leap
 * [MailChimp](https://github.com/mailchimp) 
@@ -481,17 +487,23 @@ MIT
 * [Mozilla Foundation](https://github.com/MozillaFoundation)
 * [Mozilla IoT](https://github.com/mozilla-iot)
 * [Mozilla Services](https://github.com/mozilla-services)
+
+https://github.com/nasa/
+
 nasa
 nbc universal
 netapp
-new relic
+
+* [New Relic](https://github.com/newrelic)
 * [Nike Inc.](https://github.com/Nike-Inc)
 * [Netflix](https://github.com/Netflix) 
 o'reilly
 * [Patreon](https://github.com/patreon)  
+* [Quora](https://github.com/quora) 
 * [PayPal](https://github.com/paypal) 
 * [Rackspace](https://github.com/rackspace)
 * [Reddit](https://github.com/reddit) 
+* [Reddit Archive](https://github.com/reddit-archive/) 
 redhat
 * [Roverdotcom](https://github.com/roverdotcom)
 * [Salesforce GitHub](https://github.com/salesforce)
@@ -503,6 +515,7 @@ thoughtworks
 * [Tumblr](https://github.com/tumblr) 
 * [Vox Media](https://github.com/voxmedia) 
 * [Walmart Labs](https://github.com/walmartlabs) 
+
 walt disney animations tudios
 * [Wayfair](https://github.com/wayfair)
 * [Yandex](https://github.com/yandex)
