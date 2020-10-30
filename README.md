@@ -1595,10 +1595,22 @@ Python Articles
 
 
 <!--
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+-->
+
+<!--
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
 
 <!--
+https://popular-github-repos.github.io/
+https://github.com/popular-github-repos/popular-github-repos.github.io
+
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
 github users with the most followers - Google Search
@@ -1715,8 +1727,9 @@ Real Python
 Simple is Better Than Complex
 * [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
 
-TestDriven.io
+TestDriven.io and Michael
 * [Test Driven Blog](https://testdriven.io/blog/)
+* [Michael Herman](https://mherman.org/talks )
 
 Full Stack Python
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
@@ -1731,9 +1744,6 @@ David Beazley
 
 
 <!--
-Python Morsels
-https://mherman.org/talks | Talks and Trainings
-
 Digital Ocean
 
 https://www.datacamp.com/community/tutorials?tag=python
@@ -1850,13 +1860,6 @@ https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12
 https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 https://expressjs.com/ | Express - Node.js web application framework
-
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://blog.repl.it/database | Repl.it - A database for every repl
-
 
 
 https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
@@ -2196,21 +2199,18 @@ Shebang File
 * [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
 
 <!--
+ZSH, Bash and command line, aliases/bash script aliases
+
 https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
 
 Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
-
-http://www.brendangregg.com/perf.html | Linux perf Examples
+Pen testing 
 https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
 
-https://www.google.com/search?q=unix+performance+tools&sxsrf=ALeKk021JuhlObGl10CxPDYsznM8JOo0Yw:1591168225245&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiost_Gi-XpAhVPHc0KHXTbBSEQ_AUoAnoECBMQBA&biw=1432&bih=705#imgrc=yDrlKsz_HrH-XM | unix performance tools - Google Search
-
-
-https://regexcrossword.com/ | Regex Crossword
-https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+unix performance tools - Google Search
 
 
 http://www.linfo.org/usr_sbin.html
@@ -2239,20 +2239,12 @@ https://grymoire.com/Unix/Awk.html
 https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
 
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
 https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
 https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
 
-https://github.com/topics/bash | Topic: bash
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 -->
+
 
 
 <!--
@@ -2266,24 +2258,8 @@ https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-s
 
 https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
 
-Authenticator App
-https://twitter.com/natfriedman/status/1260431646257528833
-https://help.github.com/en/github/authenticating-to-github
-
 Kenneth
 https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-Brian Douglas
-https://github.com/bdougie/github-actions-continuous-delivery
-https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-
-https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
-https://twitter.com/bitandbang/status/1159514802596777984
-
-GitHub Metrics
-https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
-
 
 Jeff
 https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
@@ -2294,6 +2270,8 @@ https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 o
 
 
 <!--
+https://github.com/nektos/act
+
 GitHub Actions Examples
 https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
 https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
@@ -2302,7 +2280,7 @@ https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: 
 GA- Best
 https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
 
-GitHub Actions
+GitHub Actions- Lighthouse
 https://github.com/paulirish/lighthouse-ci-action
 https://github.com/GoogleChrome/lighthouse-stack-packs/issues
 
@@ -2353,6 +2331,25 @@ https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Action
 ## Projects
 
 <!--
+Todo 
+
+README.md
+https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
+https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
+
+Jeff
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+Simon- 
+Self-Rewriting README, TIL
+Datasette
+Doc Unit Tests
+Release, Weeknotes
+-->
+
+<!--
 Kofi
 https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
 https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
@@ -2367,15 +2364,6 @@ https://github.com/PyBites-Open-Source/karmabot
 https://twitter.com/aicoding_/status/1295011129836568577
 https://github.com/coding-ai/eyeBlinkedTREX
 
-
-https://popular-github-repos.github.io/
-https://github.com/popular-github-repos/popular-github-repos.github.io
-
-Interesting
-https://github.com/sw-yx/gh-action-data-scraping/blob/master/action.js | gh-action-data-scraping/action.js at master · sw-yx/gh-action-data-scraping
-https://github.com/muan/paint-github/blob/master/index.js | paint-github/index.js at master · muan/paint-github
-https://github.com/charliegerard/safe-space/blob/master/index.js | safe-space/index.js at master · charliegerard/safe-space
-https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 
 Twitter Sentiment Analysis
 https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
@@ -2395,14 +2383,6 @@ https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on
 Data Scraping
 https://github.com/sw-yx/gh-action-data-scraping | sw-yx/gh-action-data-scraping: this shows how to use github actions to do periodic data scraping
 
-README.md
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-Jeff
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
 
 Sarah
 https://github.com/sdras?tab=repositories
@@ -2431,53 +2411,40 @@ https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Langu
 Tweet DM Button
 https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
 
-Simon- 
-Self-Rewriting README, TIL
-Datasette
-Doc Unit Tests
-Release, Weeknotes
+https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+
+Brian Douglas
+https://github.com/bdougie/github-actions-continuous-delivery
+https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+
+https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
+https://twitter.com/bitandbang/status/1159514802596777984
+
+GitHub Metrics
+https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
 -->
 
 
 ## API
 
 <!--
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+https://www.thepythoncode.com/article/using-github-api-in-python
+
 https://github.com/realpython/list-of-python-api-wrappers
 
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
 https://github.com/api-evangelist
-https://github.com/abhishekbanthia/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
 https://www.programmableweb.com/category/all/apis
 
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
 -->
 
-## API Tools
-
-<!--
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://www.thepythoncode.com/article/using-github-api-in-python
-
-Python API Tools
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-
-Twython
-https://github.com/ryanmcgrath/twython
-https://twython.readthedocs.io/en/latest/ | Twython — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/install.html | Installation — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
-https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
-
-Tweepy
-http://tweepy.readthedocs.io/en/v3.5.0/getting_started.html
-http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-https://github.com/twintproject/twint | twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
--->
-
-## Data Science
+## Data Science and Network Analysis
 
 Python- Statistics Stack- iPython and Jupyter
 * [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
@@ -2515,13 +2482,14 @@ Python- Statistics Stack- StatsModel
 Python- Statistics Stack- GGPlot
 * [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
 
-<!--
-https://github.com/networkx/networkx | networkx/networkx: Network Analysis in Python
--->
+Python- Network Analysis- NetworkX
+* [NetworkX GitHub](https://github.com/networkx/networkx)
 
 ## Web Scraping
 
 <!--
+https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
+
 https://realpython.com/python-web-scraping-practical-introduction/
 
 https://www.crummy.com/software/BeautifulSoup/
@@ -2530,8 +2498,6 @@ https://pypi.org/project/beautifulsoup4/
 
 https://scrapy.org/
 https://github.com/scrapy/scrapy
-
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 -->
 
 ## Command Line
@@ -2740,28 +2706,41 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 
 
 
-<!--
-https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
-
-GraphQL/Relay
-https://twitter.com/leogcrespo/status/1313091661556314114
+## Third Party Social Media API Tools
 
 Tools
-https://twitter.com/kwuchu/status/1314286568362967041
-https://twitter.com/mscccc/status/1313668914283507712
+* [Twython](https://twython.readthedocs.io/) and [Twython GitHub](https://github.com/ryanmcgrath/twython)
+* [Tweepy](http://tweepy.readthedocs.io/)
 
-https://github.com/nektos/act
+<!--
+Python API Tools
+https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
+
+Twython
+https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
+https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
+
+Tweepy
+http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
+
+https://github.com/twintproject/twint | twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+
+https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 -->
 
 
 
+## Twitter API Tutorials
+
 <!--
-Twitter
+https://github.com/twitterdev/real-time-tweet-streamer
+https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
 
-https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2	
+Twitter API Tutorials
+https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
+https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
 
-Twitter API
-https://github.com/twitterdev?language=javascript | @TwitterDev
 https://github.com/twitterdev/search-tweets-python/tree/v2 | twitterdev/search-tweets-python at v2
 https://github.com/twitterdev/SnowBotDev/wiki | Home · twitterdev/SnowBotDev Wiki
 https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
@@ -2774,52 +2753,17 @@ https://twitter.com/i_am_daniele/status/1293599681176408064 | Daniele on Twitter
 https://twitter.com/suhemparack/status/1297976206940282880 | Suhem Parack on Twitter: "I put together some guidance on filtering and using Twitter data for your studies (which includes new operators available in the new Twitter API v2). I will add more examples to in the coming weeks and add sample code to demo some of the concepts mentioned in this guide." / Twitter
 https://twitter.com/TwitterDev/status/1296493468345413637 | Twitter Dev on Twitter: "The new #TwitterAPI was released last week. Learn more about v2 in this technical overview by @suhemparack. 👀 🍿 https://t.co/hFkgzmdFVv" / Twitter
 https://twitter.com/rubybatallones/status/1296172726877671425 | Ruby Batallones on Twitter: "Catching up with #WTD2020. First stop: @jessicagarson's practical tips on creating quality sample codes. 🙌 - Can you look at the code and know what’s going on? - Can you build off it? - How will others perceive your code samples? - Is it working? https://t.co/xF3vr6tQTE" / Twitter
-
-https://twitter.com/TweeterInsights | Tweeter Analytics (@TweeterInsights) / Twitter
-
-https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
--->
-
-## Twitter API Examples
-
-<!--
-https://github.com/twitterdev/real-time-tweet-streamer
-https://glitch.com/glimmer/post/build-twitter-api-app-stream-tweets-real-time
-
-Twitter API Tutorials
-https://dev.to/twitterdev/how-to-analyze-the-sentiment-of-your-own-tweets-fee | How to analyze the sentiment of your own Tweets - DEV
-https://blog.twitter.com/developer/en_us/topics/tips/2020/how-to-analyze-the-sentiment-of-your-own-tweets.html | How to analyze the sentiment of your own Tweets
-https://www.youtube.com/watch?time_continue=20&v=BE-lWgnvzRU&feature=emb_logo | "How to Run Your Favorite Python Package in R" - Jessica Garson - YouTube
-
-https://dev.to/twitterdev/getting-started-with-r-and-the-twitter-api-1fdf | Getting Started with R and the Twitter API - DEV Community 👩‍💻👨‍💻
 -->
 
 
-<!--
-GitHub
-
-https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
-https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
-
-https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#:~:text=You%20can%20cache%20pip%20dependencies,operating%20system%20of%20the%20runner. | Using Python with GitHub Actions - GitHub Help
-
-GitHub
-https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
-
-https://twitter.com/BotSE_WS/status/1278739016423178243 | BotSE on Twitter: "Coming up next: Gregor Martynus (@gr2m) will give the second keynote of the day and provide insights into automating GitHub workflows with Probot. Watch the livestream here: https://t.co/BPEO8ZsDTH" / Twitter
-
-https://github.com/apps/update-authors | GitHub Apps - Update Authors
-https://twitter.com/gr2m/status/1277723827594641408 | Gregor on Twitter: "The app is inspired by @djangoproject's AUTHOR file: https://t.co/uwkH1GxCLI" / Twitter
-
-https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
-
-https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ | What are Github Actions and How Can You Automate Tests and Slack Notifications?
-https://twitter.com/simonw/status/1268573694227386369 | Simon Willison on Twitter: "@jackiehluo If you have a Twitter API Key and somewhere you can run cron scripts you can use my tool to set that up for yourself - I use this ability all the time https://t.co/CE2VsGGhmR" / Twitter
--->
 
 ## Twitter API
 
 <!--
+Twitter API
+https://github.com/twitterdev | @TwitterDev
+
+
 https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
 
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
@@ -2847,21 +2791,20 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 
 ## GitHub API
 
+
 <!--
-https://twitter.com/zeke/status/1291563907606224896 | Zeke Sikelianos on Twitter: "@heroku I wish your GitHub Integration was a GitHub App instead of an OAuth App so the permissions could be more granular (single repo instead of entire org). This would empower GitHub employees to use Heroku more effectively inside the @github org. Is this on your roadmap?" / Twitter
-
-https://twitter.com/webKnjaZ/status/1283688115392204801 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@codewithanthony modern Checks or legacy Statuses API?" / Twitter
-
-GitHub Actions
-https://twitter.com/simonw/status/1266493620116324352 | Simon Willison on Twitter: "GitHub's actions/cache hit v2 the other day, with a small but crucial improvement: it now works for scheduled tasks, which means all of my git-scrapers that run in scheduled Actions don't have to reinstall their dependencies from PyPI every time they run! https://t.co/uER5eTPcb9" / Twitter
-
-
-https://github.com/topics/bot | bot · GitHub Topics
-
 Open API
 https://github.com/github/rest-api-description
 https://github.blog/2020-07-27-introducing-githubs-openapi-description/ | Introducing GitHub's OpenAPI Description - The GitHub Blog
 https://twitter.com/__xuorig__/status/1287782011936088069 | Marc-André Giroux on Twitter: "The best part was working with a world-class team: Thanks @imwiss @gwestr @bruce @andrewhoglund @rmosolgo &amp; Da Jin Chu 🚀" / Twitter
+
+PyGitHub
+https://pygithub.readthedocs.io/en/latest/examples.html | Examples — PyGithub 1.53 documentation
+https://pygithub.readthedocs.io/en/latest/introduction.html | Introduction — PyGithub 1.53 documentation
+
+https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions | Using Python with GitHub Actions - GitHub Help
+
+https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
 -->
 
 ## GitHub Actions Tools
@@ -3011,6 +2954,7 @@ http://githooks.com/
 <!--
 https://github.com/gr2m/
 https://octokit.github.io/rest.js/
+https://github.com/octokit/auth-app.js | octokit/auth-app.js: GitHub App authentication for JavaScript
 https://github.com/octokit/rest.js
 https://github.com/octokit/webhooks.js/blob/master/lib/webhook-names.json
 https://github.com/pksunkara/octonode | pksunkara/octonode: github api v3 in nodejs	
@@ -3033,37 +2977,6 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
 
-
-
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
-<!--
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-https://glitch.com/forteams | Glitch for Teams - Build and Share the Apps You Need
--->
 
 
 ## Heroku
@@ -3151,34 +3064,68 @@ Release Phase
 https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
 -->
 
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
 
 ## Deploy
 
 Hawt- Web
 * [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
 * [Netlify Features](https://www.netlify.com/features/)
-* [Zeit](https://zeit.co) and [Zeit GitHub](https://github.com/zeit)
-* [Zeit Zero Config](https://zeit.co/blog/zero-config)
+* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
+* [Vercel Zero Config](https://vercel.com/blog/zero-config)
 
 <!--
-https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
-https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
-
 https://vercel.com/blog/zeit-is-now-vercel
 
 https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
 https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://zeit.co/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
-* [Zeit now](https://zeit.co/now)
-* [Zeit micro](https://github.com/zeit/micro)
+* [Vercel now](https://zeit.co/now)
+* [Vercel micro](https://github.com/vercel/micro)
 
-https://github.com/zeit/serve | zeit/serve: Static file serving and directory listing
+https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
 
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
+
+## CMS
+
+<!--
+https://www.netlifycms.org/ | Netlify CMS | Open-Source Content Management System
+https://github.com/netlify/netlify-cms | netlify/netlify-cms: A Git-based CMS for Static Site Generators
+
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+-->
+
+## Database
+
+<!--
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://blog.repl.it/database | Repl.it - A database for every repl
+-->
+
 
 ## Python and Django
 
