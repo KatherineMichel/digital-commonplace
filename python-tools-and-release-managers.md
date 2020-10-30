@@ -1,6 +1,10 @@
 # Python Tools and Release Managers
 
 <!--
+http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
+https://www.openssl.org/ | /index.html
+
+
 https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
 https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
 https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
