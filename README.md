@@ -1595,19 +1595,34 @@ Python Articles
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
+Tutorial and project ideas
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+
+https://www.kaggle.com/learn/python
+https://aws.amazon.com/developer/language/python/
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+https://www.edx.org/learn/python
+
+https://scikit-learn.org/stable/tutorial/index.html
+https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
+https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
--->
 
-<!--
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
 
-<!--
+
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
 https://github.com/search?q=django
@@ -1630,11 +1645,6 @@ https://github.com/search?q=twitter
 https://github.com/search?q=slack
 https://github.com/search?q=hacker+news
 
-
-Tutorial and project ideas
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 
 http://www.githubstars.com/
 
@@ -1785,6 +1795,7 @@ https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
 
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
@@ -2497,6 +2508,8 @@ Python- Network Analysis- NetworkX
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 <!--
+https://docs.python.org/3/library/webbrowser.html
+
 Data Science
 https://docs.python.org/3/library/csv.html
 
@@ -2510,8 +2523,6 @@ https://docs.python.org/3/library/html.parser.html
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 https://realpython.com/python-web-scraping-practical-introduction/
-
-https://www.crummy.com/software/BeautifulSoup/bs4/doc/ | Beautiful Soup Documentation — Beautiful Soup 4.9.0 documentation
 -->
 
 ## Command Line
@@ -2741,6 +2752,9 @@ Reddit
 * [The Python Reddit API Wrapper (PRAW)](https://praw.readthedocs.io/)
 
 <!--
+https://github.com/timgrossmann/InstaPy
+https://github.com/InstaPy/instapy-quickstart
+
 Twython
 https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
 https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
