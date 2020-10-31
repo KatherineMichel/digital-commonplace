@@ -1563,7 +1563,17 @@ Product Hunt Product Leader Boards
 * [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
 * [Top 500 Products](http://500products.com)
 
-## Favorites
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+<!--
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+## Project Ideas
 
 Stars
 * [Astral App](https://astralapp.com)
@@ -1572,16 +1582,8 @@ GitHub Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python)
 
-## Project Ideas
-
 People
 * [GitHub Trending Developers](https://github.com/trending/developers)
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 
 Show Hacker News and IH
 * [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
@@ -1591,23 +1593,29 @@ Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
 
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
+Python Tutorials
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
 
-Python Articles and Tutorials
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
+
 * [Hacker Noon](https://hackernoon.com)
 
+Python Articles and Tutorials
+
 <!--
+https://hackernoon.com/tagged/hackernoon-top-story
+
 Tutorial and project ideas
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results - DEV Community 👩‍💻👨‍💻
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 
+ML
 https://www.kaggle.com/learn/python
+
 https://aws.amazon.com/developer/language/python/
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 https://www.edx.org/learn/python
@@ -1626,9 +1634,6 @@ https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
 
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
