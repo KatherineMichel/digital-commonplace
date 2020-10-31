@@ -524,6 +524,9 @@ https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - S
 
 ## Security
 
+Pen testing 
+https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
+
 Django security
 https://learndjango.com/tutorials/django-best-practices-security
 
@@ -2217,9 +2220,6 @@ Spaces
 https://mobile.twitter.com/andybudd/status/1247815911060451328
 https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
 
-Pen testing 
-https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
-
 unix performance tools - Google Search
 
 
@@ -2497,53 +2497,55 @@ Python- Network Analysis- NetworkX
 
 ## Web Scraping
 
+* [Scrapy](https://scrapy.org/) and [Scrapy GitHub](https://github.com/scrapy/scrapy)
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+
 <!--
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 https://realpython.com/python-web-scraping-practical-introduction/
 
-https://www.crummy.com/software/BeautifulSoup/
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/ | Beautiful Soup Documentation — Beautiful Soup 4.9.0 documentation
-https://pypi.org/project/beautifulsoup4/
-
-https://scrapy.org/
-https://github.com/scrapy/scrapy
 -->
 
 ## Command Line
 
-* [Click GitHub](https://github.com/pallets/click)
+Standard Library
+* [argparse](https://docs.python.org/3/library/argparse.html)
+* [sys.argv](https://docs.python.org/3/library/sys.html#sys.argv)
+
+CLI
+* [Typer](https://typer.tiangolo.com/)
+* [Click](https://click.palletsprojects.com/) and [Click GitHub](https://github.com/pallets/click)
+* [Click PyPI](https://pypi.python.org/pypi/django-click)
+* [docopt GitHub](https://github.com/docopt/docopt)
+* [Python Prompt Toolkit](https://python-prompt-toolkit.readthedocs.io/)
+* [PyInvoke](http://www.pyinvoke.org/)
+
+Terminal String Styling
 * [Chalk GitHub](https://github.com/chalk/chalk)
+* [Crayons GitHub](https://github.com/MasterOdin/crayons)
+* [Pygments](https://pygments.org/) and [Pygments GitHub](https://github.com/pygments/pygments/)
 
 <!--
-https://github.com/pygments/pygments/tree/master/pygments | pygments/pygments at master · pygments/pygments
-https://pygments.org/ | Welcome! — Pygments
-
-https://github.com/docopt/docopt
-http://www.pyinvoke.org/
-
-https://github.com/kennethreitz/crayons/blob/master/crayons.py | crayons/crayons.py at master · kennethreitz/crayons
-https://github.com/MasterOdin/crayons
+https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
 
 Click
-https://click.palletsprojects.com/en/7.x/ | Welcome to Click — Click Documentation (7.x)
 https://github.com/click-contrib | click-contrib
-https://pypi.python.org/pypi/django-click | django-click 2.0.0 : Python Package Index
 
-Typer
-https://typer.tiangolo.com/ | Typer
-
-https://github.com/google/python-fire/releases/tag/v0.2.0 | Release v0.2.0 · google/python-fire
 https://github.com/google/python-fire
 -->
 
 ## Images
 
-<!--
-https://www.pyimagesearch.com/ | PyImageSearch - You can master Computer Vision, Deep Learning, and OpenCV.
-
 Pillow
-https://pillow.readthedocs.io/en/stable/ | Pillow — Pillow (PIL Fork) 7.2.0 documentation
+* [Pillow (PIL Fork)](https://pillow.readthedocs.io/)
+
+ML
+* [PyImageSearch (Computer Vision, Deep Learning, and OpenCV)](https://www.pyimagesearch.com/)
+
+<!--
+Pillow
 https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
 https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
 https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
@@ -2557,6 +2559,10 @@ https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Mo
 Popular Libraries
 https://wiki.python.org/moin/PyQt
 -->
+
+## Games
+
+* [PyGame](https://www.pygame.org/)
 
 ## Python and Django Geo
 
