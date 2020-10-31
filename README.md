@@ -697,6 +697,7 @@ https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Ye
 
 
 https://www.sqlite.org/
+https://docs.python.org/3/library/sqlite3.html
 
 https://devcenter.heroku.com/articles/platform-api-reference
 https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
@@ -739,23 +740,9 @@ https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twi
 https://twitter.com/andrewgodwin/status/1147272951118483457
 
 
+Unix and bash
+
 https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-https://www.tutorialspoint.com/unix/
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
-https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html
-
-Bash
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
 
 
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
@@ -2229,10 +2216,24 @@ https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scrip
 
 https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 
+
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
+
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+
+
 https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://en.wikipedia.org/wiki/List_of_Unix_commands
 https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
 
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
 https://www.tutorialspoint.com/unix/unix-quick-guide.htm
 https://www.tutorialspoint.com/unix_commands/index.htm
 https://www.tutorialspoint.com/unix_system_calls/index.htm
@@ -2497,12 +2498,12 @@ Python- Network Analysis- NetworkX
 
 <!--
 Data Science
-https://docs.python.org/3/library/csv.html#module-csv
+https://docs.python.org/3/library/csv.html
 
 https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57
 
 https://developer.mozilla.org/en-US/docs/Web/XPath
-https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/json.html
 https://docs.python.org/3/library/xml.etree.elementtree.html
 https://docs.python.org/3/library/html.parser.html
 
