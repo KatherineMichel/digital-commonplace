@@ -468,6 +468,12 @@ direnv
 https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
 https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
 
+https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
+
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
 https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 
@@ -481,8 +487,6 @@ https://github.com/divio/demosite | divio/demosite: A basic project to serve as 
 https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
 
 https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
-
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
 
 Snyk
 https://snyk.io/ | Open Source Security Platform | Snyk
@@ -523,6 +527,7 @@ https://api.slack.com/ | Slack API | Slack
 https://api.slack.com/tutorials | Tutorials | Slack
 
 https://spotipy.readthedocs.io/en/2.14.0/ | Welcome to Spotipy! — spotipy 2.0 documentation
+
 
 
 ## Testing and Stuff
@@ -1703,7 +1708,18 @@ https://www.datacamp.com/community/tutorials/18-most-common-python-list-question
 -->
 
 <!--
+Python 3.9
+https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
+https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
+https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
+
 https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
+
+Tutorial
+https://testdriven.io/blog/flask-pytest/ | Testing Flask Applications with Pytest | TestDriven.io
+https://www.learnandmakeit.com/browser-automation-with-python-and-selenium/ | Browser Automation with Python and Selenium
+https://www.learnandmakeit.com/best-python-books-for-beginner-and-advanced-programmers/ | Best Python Books for Beginner and Advanced Programmers
+https://learnbyexample.github.io/customizing-pandoc/ | learnbyexample - Customizing pandoc to generate beautiful pdf and epub from markdown
 
 https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
 
@@ -1714,6 +1730,7 @@ http://www.justjon.net/reviews/review-natural-language-processing-with-python-an
 https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
 https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
 
+https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0 | The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science
 https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
 https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
 https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
