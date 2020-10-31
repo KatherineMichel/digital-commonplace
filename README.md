@@ -1381,10 +1381,6 @@ mergebot
 https://engineering.linkedin.com/blog/2020/continuous-integration
 https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
 
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-
 https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
 https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
 
@@ -1395,7 +1391,9 @@ https://www.youtube.com/watch?v=H4SS9yVWJYA
 https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
 https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
 
-https://www.youtube.com/watch?v=lx5WQjXLlq8&
+Carl Meyer talk
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+Talks
 https://speakerdeck.com/carljm/instagram-under-the-hood
 https://blog.disqus.com/scaling-django-to-8-billion-page-views
 https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
@@ -1626,11 +1624,11 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
 https://github.com/search?q=django
-
-https://github.com/search?q=github+action+heroku | Search · github action heroku
-https://github.com/actions?q=heroku&type=&language= | GitHub Actions
-https://github.com/heroku?q=python&type=&language= | Heroku
 https://github.com/search?p=3&q=node&type=Repositories | Search · node
+
+https://github.com/actions?q=heroku&type=&language= | GitHub Actions
+https://github.com/search?q=github+action+heroku | Search · github action heroku
+https://github.com/heroku?q=python&type=&language= | Heroku
 
 https://github.com/search?q=project
 https://github.com/search?q=example
@@ -1803,9 +1801,6 @@ https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on T
 
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
-
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
 -->
 
 
@@ -2501,6 +2496,16 @@ Python- Network Analysis- NetworkX
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 <!--
+Data Science
+https://docs.python.org/3/library/csv.html#module-csv
+
+https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57
+
+https://developer.mozilla.org/en-US/docs/Web/XPath
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/xml.etree.elementtree.html
+https://docs.python.org/3/library/html.parser.html
+
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 https://realpython.com/python-web-scraping-practical-introduction/
@@ -2545,6 +2550,8 @@ ML
 * [PyImageSearch (Computer Vision, Deep Learning, and OpenCV)](https://www.pyimagesearch.com/)
 
 <!--
+https://opencv.org/
+
 Pillow
 https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
 https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
