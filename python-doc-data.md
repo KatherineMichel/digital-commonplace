@@ -529,6 +529,8 @@ https://docs.python.org/3/library/csv.html#reader-objects
 https://docs.python.org/3/library/csv.html#writer-objects
 https://docs.python.org/3/library/csv.html#examples
 
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+
 21. Internet Protocols and Support
 
 19.2. json — JSON encoder and decoder
@@ -556,6 +558,7 @@ https://docs.python.org/3/tutorial/stdlib.html#mathematics
 https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
 https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
 https://docs.python.org/3/library/math.html#math.floor
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
 
 10.8. Dates and Times
 https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
