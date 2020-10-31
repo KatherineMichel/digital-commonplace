@@ -437,6 +437,94 @@ https://www.toptal.com/python/python-design-patterns
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
+https://search.firstround.com/lists
+
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
+Redwood
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+
+Firebase
+https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+Actions
+
+https://github.com/direnv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+direnv
+https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
+https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
+
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+Divio
+https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
+https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+Snyk
+https://snyk.io/ | Open Source Security Platform | Snyk
+https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
+https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
+https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
+
+Python Ideas
+https://devguide.python.org/stdlibchanges/ | 19. Adding to the Stdlib — Python Developer's Guide
+https://mail.python.org/mailman3/lists/python-ideas.python.org/ | Mailman 3 Info | python-ideas@python.org - python.org
+
+Sphinx
+https://www.sphinx-doc.org/en/master/ | Overview — Sphinx 4.0.0+ documentation
+https://sourceforge.net/docs/ref/rst/restructuredtext.html | Page not found - SourceForge.net
+
+APIs
+https://developers.facebook.com/docs/ | Facebook Developer Docs | Facebook APIs, SDKs & Guides
+https://developers.facebook.com/docs/instagram/ | Instagram Platform
+https://github.com/facebook/facebook-python-business-sdk | facebook/facebook-python-business-sdk: An SDK built to facilitate application development for Facebook Ads API.
+https://facebook-sdk.readthedocs.io/en/latest/ | Facebook SDK for Python — Facebook SDK for Python 4.0.0-pre documentation
+
+Twitter
+https://developer.twitter.com/en#/ | Developer
+https://developer.twitter.com/en/use-cases/analyze | Analyze – Twitter Developers
+https://developer.twitter.com/en/use-cases/engage | Engage – Twitter Developers
+https://developer.twitter.com/en/labs | Labs
+https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
+
+https://developer.spotify.com/documentation/web-api/quick-start/ | Web API Tutorial | Spotify for Developers
+
+https://docs.github.com/en/rest | GitHub REST API - GitHub Docs
+
+https://developers.google.com/gmail/api/v1/reference | API Reference  |  Gmail API  |  Google Developers
+https://github.com/google/mail-importer | google/mail-importer: Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
+
+https://api.slack.com/ | Slack API | Slack
+https://api.slack.com/tutorials | Tutorials | Slack
+
+https://spotipy.readthedocs.io/en/2.14.0/ | Welcome to Spotipy! — spotipy 2.0 documentation
+
+
 ## Testing and Stuff
 
 https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
@@ -1608,6 +1696,32 @@ Python Articles
 Python Articles and Tutorials
 
 <!--
+Digital Ocean
+
+https://www.datacamp.com/community/tutorials?tag=python
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
+-->
+
+<!--
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
+
+https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
+
+https://pythonspeed.com/articles/official-python-docker-image/ | A deep dive into the official Docker image for Python
+https://testdriven.io/blog/python-dependency-injection/ | Python Dependency Injection | TestDriven.io
+http://www.justjon.net/reviews/review-natural-language-processing-with-python-and-spacy/ | Review: Natural Language Processing With Python and spaCy | JustJon Online
+
+https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
+https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
+
+https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
+https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
+https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
+https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02 | You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
+https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd | Do You Know Python Has A Built-In Database? | by Christopher Tao | Jul, 2020 | Towards Data Science
+https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc | GitHub Action That Automates Portfolio Generation | by Kaustubh | Oct, 2020 | Towards Data Science
+
+
 https://hackernoon.com/tagged/hackernoon-top-story
 
 Tutorial and project ideas
@@ -1637,6 +1751,8 @@ https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
+
+https://github.com/search?q=top+python | Search · top python
 https://github.com/search?q=django
 https://github.com/search?p=3&q=node&type=Repositories | Search · node
 
@@ -1657,6 +1773,9 @@ https://github.com/search?q=twitter
 https://github.com/search?q=slack
 https://github.com/search?q=hacker+news
 
+
+GitHub Python
+http://git-awards.com/users?language=python | Python worldwide | Git Awards
 
 http://www.githubstars.com/
 
@@ -1748,7 +1867,9 @@ https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
 https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
 
 https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
 
@@ -1782,15 +1903,10 @@ David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 
-<!--
-Digital Ocean
-
-https://www.datacamp.com/community/tutorials?tag=python
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
--->
-
 
 <!--
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 Real Python
@@ -2446,6 +2562,7 @@ Brian Douglas
 https://github.com/bdougie/github-actions-continuous-delivery
 https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
 
 https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
 https://twitter.com/bitandbang/status/1159514802596777984
@@ -2594,6 +2711,10 @@ https://wiki.python.org/moin/PyQt
 ## Games
 
 * [PyGame](https://www.pygame.org/)
+
+<!--
+https://github.com/ppb/pursuedpybear | ppb/pursuedpybear: A python game engine.
+-->
 
 ## Python and Django Geo
 
