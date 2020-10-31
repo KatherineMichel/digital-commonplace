@@ -1617,6 +1617,9 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 -->
 
 <!--
+Show Hacker News
+https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+
 Searches
 https://github.com/search?q=github+action+heroku | Search · github action heroku
 https://github.com/actions?q=heroku&type=&language= | GitHub Actions
@@ -1657,9 +1660,6 @@ https://github.com/popular-github-repos/popular-github-repos.github.io
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
 Show Indie Hacker
-
-Show Hacker News
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
@@ -2006,6 +2006,7 @@ Clones
 https://github.com/techreagan?tab=repositories
 https://github.com/techreagan/youtube-clone-nodejs-api
 https://github.com/techreagan/vue-nodejs-youtube-clone
+
 https://github.com/CleverProgrammers
 https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
 https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
@@ -2720,19 +2721,18 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 Tools
 * [Twython](https://twython.readthedocs.io/) and [Twython GitHub](https://github.com/ryanmcgrath/twython)
 * [Tweepy](http://tweepy.readthedocs.io/)
+* [Twint (Python Twitter scraping & OSINT tool) GitHub](https://github.com/twintproject/twint)
+
+Reddit
+* [The Python Reddit API Wrapper (PRAW)](https://praw.readthedocs.io/)
 
 <!--
-Python API Tools
-https://praw.readthedocs.io/en/latest/ | PRAW: The Python Reddit API Wrapper — PRAW 7.0.0.dev0 documentation
-
 Twython
 https://twython.readthedocs.io/en/latest/usage/starting_out.html#oauth1 | Starting Out — Twython 3.8.0 documentation
 https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-image | Advanced Usage — Twython 3.8.0 documentation
 
 Tweepy
 http://docs.tweepy.org/en/latest/code_snippet.html | Code Snippets — tweepy 3.8.0 documentation
-
-https://github.com/twintproject/twint | twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 
 https://github.com/bisguzar/twitter-scraper | bisguzar/twitter-scraper: Scrape the Twitter Frontend API without authentication.
 https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
@@ -2800,6 +2800,7 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 
 ## GitHub API
 
+* [PyGitHub](https://pygithub.readthedocs.io/)
 
 <!--
 Open API
@@ -3640,7 +3641,9 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/API
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
 -->
 
+You Might Not Need
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
+* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
 
 jQuery
 * [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
@@ -3648,12 +3651,7 @@ jQuery
 <!--
 https://github.com/phuoc-ng/html-dom
 
-http://youmightnotneedjs.com/ | You Might Not Need JavaScript
-
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
 
 ## Jargon, Algorithms, and Patterns
