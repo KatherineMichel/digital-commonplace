@@ -1497,6 +1497,10 @@ Top Links of All Times
 * [Hacker News Search Engine](https://hndex.org/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
 Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
@@ -1579,8 +1583,9 @@ Product Hunt Maker Leader Boards
 * [Maker Rank](https://makerrank.co)
 * [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 
-Show Hacker News
+Show Hacker News and IH
 * [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
 
 Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
@@ -1590,9 +1595,11 @@ The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 * [Hacker Noon](https://hackernoon.com)
 
-Python Articles
+Python Articles and Tutorials
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
+
+* [Hacker Noon](https://hackernoon.com)
 
 <!--
 Tutorial and project ideas
