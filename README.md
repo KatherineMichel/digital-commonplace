@@ -1509,13 +1509,13 @@ Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
 Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
-https://hndex.org/
 https://hn.algolia.com/?q=ask+hn
 
 https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
@@ -1594,6 +1594,9 @@ Product Hunt Maker Leader Boards
 * [Maker Rank](https://makerrank.co)
 * [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
 
+Show Hacker News
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+
 Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
@@ -1620,16 +1623,14 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 -->
 
 <!--
-Show Hacker News
-https://hn.algolia.com/?q=Show+HN | HN Search powered by Algolia
+* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
-Searches
+https://github.com/search?q=django
+
 https://github.com/search?q=github+action+heroku | Search · github action heroku
 https://github.com/actions?q=heroku&type=&language= | GitHub Actions
 https://github.com/heroku?q=python&type=&language= | Heroku
 https://github.com/search?p=3&q=node&type=Repositories | Search · node
-
-https://github.com/search?q=django
 
 https://github.com/search?q=project
 https://github.com/search?q=example
@@ -1657,8 +1658,6 @@ https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
 https://popular-github-repos.github.io/
 https://github.com/popular-github-repos/popular-github-repos.github.io
-
-* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
@@ -1841,12 +1840,6 @@ Wes Bos Courses
 
 
 <!--
-Heroku and Node
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
-https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
-
-
 https://github.com/wesbos/JavaScript30
 
 https://github.com/bradtraversy/
@@ -1986,7 +1979,16 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 
 
 <--
-Django Heroku
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+
+
+Heroku and Node
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Heroku and Python/Django
+https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
 
 Important
 https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
@@ -1995,9 +1997,7 @@ https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitt
 https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
 
 
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
-
+Digital Ocean
 https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 -->
