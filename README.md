@@ -369,28 +369,6 @@ https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitte
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
 
-## Making
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-
-Important
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-
 ## Community
 
 Rusts Community automation
@@ -438,6 +416,29 @@ https://www.toptal.com/python/python-design-patterns
 https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
 
 
+
+## Making
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+
+Important
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+
 OS Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
 
@@ -445,8 +446,6 @@ https://twitter.com/JCSmiley4/status/1317194726223892481 | JC Smiley on Twitter:
 
 Wharton
 https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
-
-https://search.firstround.com/lists
 
 People
 https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
@@ -466,6 +465,7 @@ https://about.gitlab.com/company/culture/all-remote/asynchronous/#async-30-at-gi
 Use
 https://about.gitlab.com/handbook/business-ops/tech-stack/ | Business Operations - Tech Stack Details | GitLab
 
+
 Practical Dev
 https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
 
@@ -479,51 +479,19 @@ https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where progra
 
 https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
 
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
-Julia
-https://github.com/jvns/shell-examples | jvns/shell-examples
-https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
 
-Schema
-https://schema.org/docs/schemas.html | Schemas - schema.org
-https://schema.org/PostalAddress | PostalAddress - schema.org Type
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
 
-Formatting
-http://minifycode.com/html-beautifier/ | HTML beautifier | Minify Code
-https://jsonformatter.curiousconcept.com/# | JSON Formatter & Validator
-
-Regex
-https://www.freeformatter.com/regex-tester.html | Free Online Regular Expression Tester - FreeFormatter.com
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-GitHub
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
 
 Firebase
 https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
 Actions
 
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
-
-https://github.com/direnv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-direnv
-https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
-https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
-
-Mac
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
+GitHub
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
 https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
 
 https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
@@ -539,24 +507,32 @@ https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_
 https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
 https://github.com/octokit/?q=project&type=&language= | Octokit
 
-Redwood
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-
-Divio
-https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
-https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
-
-Docs
-https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on Twitter: "What's the difference between a tutorial and a guide on https://t.co/BsLdHu4PY2? Tutorial = end-to-end example Guide = book chapter The line has blurred a bit with Jupyter Notebooks (many guides have complete code, too)." / Twitter
-
 https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
 
-Snyk
-https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
+
+## Testing and Stuff
+
+https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
+
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
+https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
+
+obeying the testing goat - Google Search
+https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
+
 
 
 ## Python and Django
+
+https://github.com/direnv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+direnv
+https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
+https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
+
+https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
 
 https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
 https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
@@ -574,51 +550,6 @@ https://mail.python.org/mailman3/lists/python-ideas.python.org/ | Mailman 3 Info
 Sphinx
 https://www.sphinx-doc.org/en/master/ | Overview — Sphinx 4.0.0+ documentation
 https://sourceforge.net/docs/ref/rst/restructuredtext.html | Page not found - SourceForge.net
-
-
-## API
-
-https://github.com/googleapis/google-api-python-client | googleapis/google-api-python-client: 🐍 The official Python client library for Google's discovery based APIs.
-
-https://github.com/openaddresses/openaddresses | openaddresses/openaddresses: A repository of global open address data.
-
-APIs
-https://developers.facebook.com/docs/ | Facebook Developer Docs | Facebook APIs, SDKs & Guides
-https://developers.facebook.com/docs/instagram/ | Instagram Platform
-https://github.com/facebook/facebook-python-business-sdk | facebook/facebook-python-business-sdk: An SDK built to facilitate application development for Facebook Ads API.
-https://facebook-sdk.readthedocs.io/en/latest/ | Facebook SDK for Python — Facebook SDK for Python 4.0.0-pre documentation
-
-Twitter
-https://developer.twitter.com/en#/ | Developer
-https://developer.twitter.com/en/use-cases/analyze | Analyze – Twitter Developers
-https://developer.twitter.com/en/use-cases/engage | Engage – Twitter Developers
-https://developer.twitter.com/en/labs | Labs
-https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
-
-https://developer.spotify.com/documentation/web-api/quick-start/ | Web API Tutorial | Spotify for Developers
-
-https://docs.github.com/en/rest | GitHub REST API - GitHub Docs
-
-https://developers.google.com/gmail/api/v1/reference | API Reference  |  Gmail API  |  Google Developers
-https://github.com/google/mail-importer | google/mail-importer: Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
-
-https://api.slack.com/ | Slack API | Slack
-https://api.slack.com/tutorials | Tutorials | Slack
-
-https://spotipy.readthedocs.io/en/2.14.0/ | Welcome to Spotipy! — spotipy 2.0 documentation
-
-
-
-## Testing and Stuff
-
-https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
-
-https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
-https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
-
-obeying the testing goat - Google Search
-https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-
 
 ## Django
 
@@ -855,9 +786,6 @@ https://todoist.com/ | 503 Service Temporarily Unavailable
 https://principles.design/
 https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
 
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
 
 Docs driven dev
 Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
@@ -867,6 +795,16 @@ https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
+Snyk
+https://snyk.io/ | Open Source Security Platform | Snyk
+https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
+
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
+Mac
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
 
 https://www.sqlite.org/
 https://docs.python.org/3/library/sqlite3.html
@@ -875,6 +813,11 @@ https://devcenter.heroku.com/articles/platform-api-reference
 https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
 https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
 https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+https://www.docker.com/get-started | Get Started with Docker | Docker
+https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
+https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
 
 * [Docker for Mac](https://docs.docker.com/docker-for-mac)
 https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
@@ -887,6 +830,8 @@ https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 https://twitter.com/b0rk
 
+https://github.com/jvns/shell-examples | jvns/shell-examples
+https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
 
 https://wizardzines.com/comics/bash-if-statements/
 https://wizardzines.com/comics/bash-errors/
@@ -998,7 +943,16 @@ Pre-mortem
 https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
 -->
 
-## Public Speaking and Technical Writing
+## Public Speaking
+
+<!--
+https://github.com/matteofigus/awesome-speaking
+
+Public speaking
+https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
+-->
+
+## Technical Writing
 
 <!--
 https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
@@ -1007,16 +961,13 @@ https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: 
 https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
 https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
 
-
-https://github.com/matteofigus/awesome-speaking
-
-Public speaking
-https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
-
+https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
 
 https://github.com/github/docs
 
+Redwood
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
 https://redwoodjs.com/docs/introduction
 https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
 https://nextjs.org/docs/migrating/from-gatsby
@@ -1034,6 +985,8 @@ https://docs.fast.ai/gen_doc_main.html
 https://developers.google.com/style/
 https://developers.google.com/tech-writing
 https://developers.google.com/tech-writing/one
+
+https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on Twitter: "What's the difference between a tutorial and a guide on https://t.co/BsLdHu4PY2? Tutorial = end-to-end example Guide = book chapter The line has blurred a bit with Jupyter Notebooks (many guides have complete code, too)." / Twitter
 
 http://www.paulgraham.com/talk.html | Write Like You Talk
 https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
@@ -1919,6 +1872,74 @@ https://repl.it/leaders | Repl.it - Leaderboard
 https://repl.it/talk/
 -->
 
+## Learning Resources- Python Tutorials
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python Courses](https://realpython.com/courses)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+TestDriven.io and Michael
+* [Test Driven Blog](https://testdriven.io/blog/)
+* [Michael Herman](https://mherman.org/talks )
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+
+
+<!--
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+Real Python
+https://github.com/realpython/
+https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
+
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+-->
+
+
+## Learning Resources- Challenges
+
+Practice
+* [LeetCode](https://leetcode.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+
+<!--
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+-->
+
+
 ## Competitions, Hackathons, Festivals, Communities
 
 Coding Competitions
@@ -1995,74 +2016,6 @@ https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Commun
 https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
--->
-
-
-## Learning Resources- Python Tutorials
-
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python Courses](https://realpython.com/courses)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
-TestDriven.io and Michael
-* [Test Driven Blog](https://testdriven.io/blog/)
-* [Michael Herman](https://mherman.org/talks )
-
-Full Stack Python
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Trey Hunner
-* [Trey Hunner](https://treyhunner.com/)
-
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-
-
-<!--
-https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-Real Python
-https://github.com/realpython/
-https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
-
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
--->
-
-
-## Learning Resources- Challenges
-
-Practice
-* [LeetCode](https://leetcode.com)
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-
-<!--
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 -->
 
 
@@ -2272,6 +2225,9 @@ https://github.com/DrkSephy/django-hackathon-starter
 
 
 Django Templates
+
+Divio
+https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
@@ -2770,6 +2726,18 @@ https://docs.python.org/3/library/json.html
 https://docs.python.org/3/library/xml.etree.elementtree.html
 https://docs.python.org/3/library/html.parser.html
 
+https://schema.org/docs/schemas.html | Schemas - schema.org
+https://schema.org/PostalAddress | PostalAddress - schema.org Type
+
+Formatting
+http://minifycode.com/html-beautifier/ | HTML beautifier | Minify Code
+https://jsonformatter.curiousconcept.com/# | JSON Formatter & Validator
+
+Regex
+https://www.freeformatter.com/regex-tester.html | Free Online Regular Expression Tester - FreeFormatter.com
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
 https://realpython.com/python-web-scraping-practical-introduction/
@@ -3018,6 +2986,39 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 -->
 
 
+
+<!--
+## API
+
+https://github.com/googleapis/google-api-python-client | googleapis/google-api-python-client: 🐍 The official Python client library for Google's discovery based APIs.
+
+https://github.com/openaddresses/openaddresses | openaddresses/openaddresses: A repository of global open address data.
+
+APIs
+https://developers.facebook.com/docs/ | Facebook Developer Docs | Facebook APIs, SDKs & Guides
+https://developers.facebook.com/docs/instagram/ | Instagram Platform
+https://github.com/facebook/facebook-python-business-sdk | facebook/facebook-python-business-sdk: An SDK built to facilitate application development for Facebook Ads API.
+https://facebook-sdk.readthedocs.io/en/latest/ | Facebook SDK for Python — Facebook SDK for Python 4.0.0-pre documentation
+
+Twitter
+https://developer.twitter.com/en#/ | Developer
+https://developer.twitter.com/en/use-cases/analyze | Analyze – Twitter Developers
+https://developer.twitter.com/en/use-cases/engage | Engage – Twitter Developers
+https://developer.twitter.com/en/labs | Labs
+https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
+
+https://developer.spotify.com/documentation/web-api/quick-start/ | Web API Tutorial | Spotify for Developers
+
+https://docs.github.com/en/rest | GitHub REST API - GitHub Docs
+
+https://developers.google.com/gmail/api/v1/reference | API Reference  |  Gmail API  |  Google Developers
+https://github.com/google/mail-importer | google/mail-importer: Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
+
+https://api.slack.com/ | Slack API | Slack
+https://api.slack.com/tutorials | Tutorials | Slack
+
+https://spotipy.readthedocs.io/en/2.14.0/ | Welcome to Spotipy! — spotipy 2.0 documentation
+-->
 
 ## Third Party Social Media API Tools
 
