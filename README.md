@@ -829,6 +829,28 @@ https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
   * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
 
 
+
+Julia
+https://wizardzines.com/zines/containers/ | How Containers Work!
+http://jvns.ca/blog/2016/11/27/more-linux-drawings/
+
+Julia- Performance Review
+https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
+
+https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+
+https://twitter.com/b0rk/status/1000208860060307456 | 🔎Julia Evans🔍 on Twitter: "a few bash tricks… "
+https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/ | Your Linux Toolbox: a box set of my free zines - Julia Evans
+https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/ | Taking a year to explain computer things - Julia Evans
+https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twitter: "how to be a wizard programmer… "
+
+https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
+
+https://twitter.com/b0rk/status/981159808832286720
+
+
+
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 https://twitter.com/b0rk
 
