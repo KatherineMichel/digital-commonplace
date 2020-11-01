@@ -534,6 +534,8 @@ https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your 
 
 https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
 
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
+
 https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
 https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
 
@@ -1418,6 +1420,80 @@ Google Open Source Guides
 * [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
+
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+ZSH, Bash and command line, aliases/bash script aliases
+
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+unix performance tools - Google Search
+
+
+http://www.linfo.org/usr_sbin.html
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
+
+https://opensource.com/article/19/4/bash-vs-python
+
+
+Bash versus Python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
+
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+
+
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
+
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+-->
+
 ## High Performance and Patterns
 
 Useful Websites
@@ -1698,7 +1774,7 @@ Product Hunt Maker Leader Boards
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
 
-## Project Ideas
+## Project Ideas and Learning Resources
 
 Stars
 * [Astral App](https://astralapp.com)
@@ -1718,24 +1794,104 @@ Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
 
-Python Tutorials
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Real Python Courses](https://realpython.com/courses)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+Python Articles and Tutorials
+* [The Practical Dev Python](https://dev.to/search?q=python)
 * [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
 * [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
-
-Python Articles
-* [The Practical Dev Python](https://dev.to/search?q=python)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
-* [Hacker Noon](https://hackernoon.com)
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
 
-Python Articles and Tutorials
+TestDriven.io and Michael
+* [Test Driven Blog](https://testdriven.io/blog/)
+* [Michael Herman](https://mherman.org/talks )
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+
+
 
 <!--
 Digital Ocean
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
-https://www.datacamp.com/community/tutorials?tag=python
+https://www.digitalocean.com/community/tags/python
+
+https://github.com/mpirnat/django-tutorial | mpirnat/django-tutorial: Tutorial presented by Mike Pirnat and David Stanek at CodeMash 2014 about web development with Python and Django
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://aws.amazon.com/developer/language/python/
+
+https://www.edx.org/learn/python
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+
+Tutorial and project ideas
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+-->
+
+<!--
+Data Science
+
+https://www.kaggle.com/learn/python
+
+https://scikit-learn.org/stable/tutorial/index.html
+https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c
+https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0 | The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science
+https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
+https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
+https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
+https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02 | You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
+https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd | Do You Know Python Has A Built-In Database? | by Christopher Tao | Jul, 2020 | Towards Data Science
+https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc | GitHub Action That Automates Portfolio Generation | by Kaustubh | Oct, 2020 | Towards Data Science
+
 https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 -->
 
@@ -1745,75 +1901,38 @@ https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 
 https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
 https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
 
-https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
-
-https://github.com/realpython/python-scripts/issues | Issues · realpython/python-scripts
-https://dev.to/adityagamedev/screen-recording-in-python-2g89 | Screen Recording using python - DEV Community 👩‍💻👨‍💻
-
-https://www.learnandmakeit.com/browser-automation-with-python-and-selenium/ | Browser Automation with Python and Selenium
-https://www.learnandmakeit.com/best-python-books-for-beginner-and-advanced-programmers/ | Best Python Books for Beginner and Advanced Programmers
-https://learnbyexample.github.io/customizing-pandoc/ | learnbyexample - Customizing pandoc to generate beautiful pdf and epub from markdown
-
-https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
-https://github.com/realpython/django-slow-tests | realpython/django-slow-tests: Locate your slowest tests.
-
-https://pythonspeed.com/articles/official-python-docker-image/ | A deep dive into the official Docker image for Python
-
-http://www.justjon.net/reviews/review-natural-language-processing-with-python-and-spacy/ | Review: Natural Language Processing With Python and spaCy | JustJon Online
-
 https://testdriven.io/blog/python-dependency-injection/ | Python Dependency Injection | TestDriven.io
 https://testdriven.io/blog/fastapi-graphql/ | Developing an API with FastAPI and GraphQL | TestDriven.io
 https://testdriven.io/blog/flask-pytest/ | Testing Flask Applications with Pytest | TestDriven.io
 
-https://www.blog.pythonlibrary.org/ | The Mouse Vs. The Python - Python Programming from the Frontlines
-https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
-
 https://www.pythonmorsels.com/topics/looping-over-multiple-iterables/ | Python Morsels
 
-wxpython
-https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
-
-https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0 | The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
-https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
-https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
-https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02 | You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
-https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd | Do You Know Python Has A Built-In Database? | by Christopher Tao | Jul, 2020 | Towards Data Science
-https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc | GitHub Action That Automates Portfolio Generation | by Kaustubh | Oct, 2020 | Towards Data Science
-
-
-https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
-
-https://github.com/mpirnat/django-tutorial | mpirnat/django-tutorial: Tutorial presented by Mike Pirnat and David Stanek at CodeMash 2014 about web development with Python and Django
-
-https://pbpython.com/pandas-excel-range.html | Reading Poorly Structured Excel Files with Pandas - Practical Business Python
-https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
+https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
+https://github.com/realpython/django-slow-tests | realpython/django-slow-tests: Locate your slowest tests.
+https://github.com/realpython/python-scripts/issues | Issues · realpython/python-scripts
+https://dev.to/adityagamedev/screen-recording-in-python-2g89 | Screen Recording using python - DEV Community 👩‍💻👨‍💻
 
 https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial | Django, Docker, and PostgreSQL Tutorial | LearnDjango.com
 https://learndjango.com/tutorials/django-allauth-tutorial | Django-allauth Tutorial | LearnDjango.com
 
+https://pythonspeed.com/articles/official-python-docker-image/ | A deep dive into the official Docker image for Python
+
+https://www.learnandmakeit.com/browser-automation-with-python-and-selenium/ | Browser Automation with Python and Selenium
+https://www.learnandmakeit.com/best-python-books-for-beginner-and-advanced-programmers/ | Best Python Books for Beginner and Advanced Programmers
+
+https://learnbyexample.github.io/customizing-pandoc/ | learnbyexample - Customizing pandoc to generate beautiful pdf and epub from markdown
+
+http://www.justjon.net/reviews/review-natural-language-processing-with-python-and-spacy/ | Review: Natural Language Processing With Python and spaCy | JustJon Online
+
+https://www.blog.pythonlibrary.org/ | The Mouse Vs. The Python - Python Programming from the Frontlines
+https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
+
+wxpython
+https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
+
+https://pbpython.com/pandas-excel-range.html | Reading Poorly Structured Excel Files with Pandas - Practical Business Python
 
 
-https://hackernoon.com/tagged/hackernoon-top-story
-
-Tutorial and project ideas
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
-
-ML
-https://www.kaggle.com/learn/python
-
-https://aws.amazon.com/developer/language/python/
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-https://www.edx.org/learn/python
-
-https://scikit-learn.org/stable/tutorial/index.html
-https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
-https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
-https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
 
 
 https://glitch.dev/ | Using Glitch for Developer Relations
@@ -1859,9 +1978,10 @@ https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 https://popular-github-repos.github.io/
 https://github.com/popular-github-repos/popular-github-repos.github.io
 
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+README
+https://github.com/soimort/you-get
 
-Show Indie Hacker
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
@@ -1871,59 +1991,6 @@ http://codepen.io/projects/
 https://repl.it/leaders | Repl.it - Leaderboard
 https://repl.it/talk/
 -->
-
-## Learning Resources- Python Tutorials
-
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python Courses](https://realpython.com/courses)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
-TestDriven.io and Michael
-* [Test Driven Blog](https://testdriven.io/blog/)
-* [Michael Herman](https://mherman.org/talks )
-
-Full Stack Python
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Trey Hunner
-* [Trey Hunner](https://treyhunner.com/)
-
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-
-
-<!--
-https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-Real Python
-https://github.com/realpython/
-https://github.com/realpython/materials | realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials
-
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
--->
-
 
 ## Learning Resources- Challenges
 
@@ -1940,6 +2007,7 @@ https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skil
 -->
 
 
+
 ## Competitions, Hackathons, Festivals, Communities
 
 Coding Competitions
@@ -1948,15 +2016,15 @@ Coding Competitions
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 
 <!--
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
 Gam Jam
 https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
 
 https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
 https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
 https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
 https://js1024.fun/results/2020 | JS1024 Results - 2020
 
@@ -2049,8 +2117,10 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/modern_portfolio
 https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
+https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
 
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
@@ -2190,11 +2260,6 @@ https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpac
 https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
 
 https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
-
-
-Digital Ocean
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 -->
 
 ## Django Tutorials and Templates
@@ -2392,81 +2457,6 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-<!--
-ZSH, Bash and command line, aliases/bash script aliases
-
-https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-unix performance tools - Google Search
-
-
-http://www.linfo.org/usr_sbin.html
-https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
-
-https://opensource.com/article/19/4/bash-vs-python
-
-
-Bash versus Python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-
-https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
-
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-
-
-https://www.tutorialspoint.com/unix/
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-
-https://www.tutorialspoint.com/unix/unix-quick-guide.htm
-https://www.tutorialspoint.com/unix_commands/index.htm
-https://www.tutorialspoint.com/unix_system_calls/index.htm
-
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
-https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
-
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
--->
-
 
 
 <!--
