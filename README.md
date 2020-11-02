@@ -802,6 +802,77 @@ https://snyk.io/ | Open Source Security Platform | Snyk
 https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
 
 
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+
+https://github.com/sustainers | Sustain
+https://github.com/orgs/maintainers/people?page=1
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+
+https://github.community/ | Home - GitHub Community Forum
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+
+Git
+https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
+
+Git
+https://git.io/
+
+https://github.blog/2020-09-01-introducing-github-container-registry/ | Introducing GitHub Container Registry - The GitHub Blog
+https://git-lfs.github.com/ | Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+
+https://training.github.com/downloads/github-git-cheat-sheet.pdf | GitCheatSheet_issue#2366_102019-V5
+
+https://www.atlassian.com/git/tutorials/
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
+
+
+https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
+https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
+
+Trademark, license
+https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
+Email Git
+https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
+
+https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
+
+https://blog.tidelift.com
+https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
+https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
+
+Todo
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+
 https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
 http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
@@ -810,6 +881,7 @@ https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Prope
 
 https://www.sqlite.org/
 https://docs.python.org/3/library/sqlite3.html
+
 
 https://devcenter.heroku.com/articles/platform-api-reference
 https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
@@ -908,9 +980,17 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 ## Eldarion
 
-## Good Habits
+## Good Advice and Habits
 
 <!--
+Feross
+https://twitter.com/devonzuegel/status/1148708151992213510 | Devon on Twitter: "Great lessons from @feross' experience building @WebTorrentApp! I especially like this one: "Share your work early & often." Fun to see the timeline for the project, too. Helps put things in perspective. I wish more people shared their path through awesome work like this!… https://t.co/LsNkv8QXNq"
+
+https://twitter.com/nhuntwalker/status/1259892396248072200 | Nicholas Hunt-Walker on Twitter: "To all y'all in Tech Twitter that write Stack Overflow answers, write blog posts, make tutorial videos, give conference talks &amp; workshops, &amp; go out of your way to answer ppl's questions on here, thank you. Thank you so much. You're the reason why we can continue doing what we do" / Twitter
+
+https://twitter.com/tucker_dev/status/1287427626899038210 | James Tucker on Twitter: "4 things you can do to make your Github shine during your job search 1. Add a profile readme 2. Pin your favorite or most impressive projects 3. Add readmes to them 4. Create gifs of your projects and add them to your readmes" / Twitter
+https://twitter.com/manekinekko/status/1287072050641862656 | Wassim Chegham on Twitter: "If you are a developer and spend your time: - creating tech content - helping other devs - presenting at conferences - sharing your knowledge and passion - ... Good job! You are a kinda Developer Advocate. You are a developer who wants other devs to be successful! #devrel" / Twitter
+
 https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter: "This! Years ago someone told me that if you do four hours of excellent work, you should stop for the day. It's turned out to be some of the best advice I've received. (And it's a rare day that I manage even four hours of excellent work.) https://t.co/eSH55OaHmb" / Twitter
 
 https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
@@ -929,6 +1009,8 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
+
 https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
 https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
 https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
