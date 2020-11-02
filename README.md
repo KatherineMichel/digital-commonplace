@@ -800,65 +800,16 @@ https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter
 
 ## Look Through
 
-
-Julia
-https://wizardzines.com/zines/containers/ | How Containers Work!
-http://jvns.ca/blog/2016/11/27/more-linux-drawings/
-
-Julia- Performance Review
-https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
-
-https://twitter.com/b0rk/status/968225634127372288 | 🔎Julia Evans🔍 on Twitter: "I kind of wish GitHub repos had like a "success stories" section where people could comment and say how the project helped them"
-
-https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-
-https://twitter.com/b0rk/status/1000208860060307456 | 🔎Julia Evans🔍 on Twitter: "a few bash tricks… "
-https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/ | Your Linux Toolbox: a box set of my free zines - Julia Evans
-https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/ | Taking a year to explain computer things - Julia Evans
-https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twitter: "how to be a wizard programmer… "
-
-https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
-
-https://twitter.com/b0rk/status/981159808832286720
+https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
-https://wizardzines.com/comics/ | https://wizardzines.com/comics/
-https://twitter.com/b0rk
-
-https://github.com/jvns/shell-examples | jvns/shell-examples
-https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
-
-https://wizardzines.com/comics/bash-if-statements/
-https://wizardzines.com/comics/bash-errors/
-https://twitter.com/simonw/status/1314384418170003456
-
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
-
-Julia
-https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
-
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
+Julia Evans
 
 Unix and bash
 
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 What happens
 https://danluu.com/navigate-url/
@@ -1464,6 +1415,64 @@ Shebang File
 
 <!--
 ZSH, Bash and command line, aliases/bash script aliases
+
+Julia Evans
+
+https://wizardzines.com/comics/ | https://wizardzines.com/comics/
+https://twitter.com/b0rk
+https://github.com/jvns/
+
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/ | Taking a year to explain computer things - Julia Evans
+
+Collections
+https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/ | Your Linux Toolbox: a box set of my free zines - Julia Evans
+http://jvns.ca/blog/2016/11/27/more-linux-drawings/
+
+Non-code
+https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twitter: "how to be a wizard programmer… "
+https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
+https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+Refactoring
+https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
+
+Containers
+https://wizardzines.com/zines/containers/ | How Containers Work!
+
+JavaScript
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
+
+Browser
+https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
+
+https://github.com/jvns/shell-examples | jvns/shell-examples
+
+Bash
+https://twitter.com/b0rk/status/1000208860060307456 | 🔎Julia Evans🔍 on Twitter: "a few bash tricks… "
+https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
+https://wizardzines.com/comics/bash-if-statements/
+https://wizardzines.com/comics/bash-errors/
+https://twitter.com/simonw/status/1314384418170003456
+
+/proc
+https://twitter.com/b0rk/status/981159808832286720
+
+Perf
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
 
 https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
 
@@ -4089,7 +4098,6 @@ https://martinfowler.com/articles/refactoring-external-service.html | Refactorin
 https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
 https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript
 https://refactoring.guru/collapse-hierarchy
 
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
