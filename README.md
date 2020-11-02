@@ -242,6 +242,8 @@ https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 ## Opportunities
 
+https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
+
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
 https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
@@ -276,14 +278,6 @@ https://github.com/crweiner/hacktoberfest-swag-list
 https://github.com/digitalocean/hacktoberfest
 
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
-
-
-## Pinax
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 
 ## Demos and Other Content
@@ -353,6 +347,14 @@ LinkedIn
 https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
+## Pinax
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+
 ## Learning
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -369,148 +371,6 @@ https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitte
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
 
-## Community
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-
-## Dev Tools and Standards
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
-
-
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
-
-
-## Important
-
-https://www.w3.org/DesignIssues/Architecture.html
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-
-Data Structures and Algorithms
-
-https://www.toptal.com/python/python-design-patterns
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-
-
-## Making
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-
-Important
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-https://twitter.com/JCSmiley4/status/1317194726223892481 | JC Smiley on Twitter: "Tips to break the “Tutorial Hell” cycle: 1⃣ Tweak the tutorial by adding more features. 2⃣ Apply the principles learned in a different application. 3⃣ Rebuild the project without the tutorial as a guide. @CodeNewbies @JuniorsInTech @codeconnector_" / Twitter
-
-Wharton
-https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
-
-People
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-https://twitter.com/amyjokim | ⚡️ AJK ⚡️ (@amyjokim) / Twitter
-
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
-https://twitter.com/shreyas/status/1318073178686566400 | https://twitter.com/shreyas/status/1318073178686566400
-
-Extract till you drop
-https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
-
-Atlassian and GitLab
-https://www.atlassian.com/blog/teamwork/new-research-covid-19-remote-work-impact | How to debug remote work, as suggested by new research - Work Life by Atlassian
-https://about.gitlab.com/company/culture/all-remote/asynchronous/#async-30-at-gitlab | Embracing asynchronous communication | GitLab
-
-Use
-https://about.gitlab.com/handbook/business-ops/tech-stack/ | Business Operations - Tech Stack Details | GitLab
-
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
-
-Firebase
-https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
-Actions
-
-GitHub
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
-
-Deck
-https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
-
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
-
-
-
 ## Testing and Stuff
 
 https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
@@ -520,7 +380,6 @@ https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, explorat
 
 obeying the testing goat - Google Search
 https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-
 
 
 ## Python and Django
@@ -655,27 +514,7 @@ https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-p
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
 
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
-
-https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
-https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
-
-vscode html css support - Google Search
-
-
-OS
+## OS
 
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
 https://github.com/nayafia/awesome-maintainers | nayafia/awesome-maintainers: Talks, blog posts, and interviews about the experience of being an open source maintainer
@@ -721,10 +560,27 @@ https://twitter.com/levelsio/status/1314280439243300865
 https://github.com/phodal/growth-in-action
 
 
-Sid
-https://twitter.com/changelog/status/1276514876228284417
+## Social Media
 
-http://www.collaborativefund.com/blog
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+
+
+## Product
+
+https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
+
+https://twitter.com/shreyas/status/1318073178686566400 | https://twitter.com/shreyas/status/1318073178686566400
 
 https://vimeo.com/298147468 | Building Product in the age of Distrust by Ryan Freitas on Vimeo
 
@@ -736,6 +592,7 @@ http://www.eugenewei.com/blog/2017/6/7/my-most-popular-posts | My most popular p
 https://github.com/wongmjane | wongmjane (Jane Manchun Wong)
 https://wongmjane.com/ | Jane Manchun Wong’s Personal Website
 https://wongmjane.com/post/secret-of-my-reverse-engineering | Not Found
+https://twitter.com/amyjokim | ⚡️ AJK ⚡️ (@amyjokim) / Twitter
 
 https://twitter.com/johncutlefish/
 https://medium.com/@johnpcutler
@@ -762,6 +619,7 @@ https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experien
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 
+## Design-y Stuff
 
 https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
@@ -774,48 +632,62 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
-https://www.redhat.com/
-https://www.redhat.com/en/blog
+## Community
 
-https://thenewstack.io
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-https://substack.com/ | Substack
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-
-https://principles.design/
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
 
 
-Docs driven dev
-Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+## Dev Tools and Standards
 
-Important!
-https://andreasbm.github.io/web-skills/?compact | Web Skills
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
 
-Snyk
-https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+https://www.w3.org/WAI
 
 
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
-https://github.com/sustainers | Sustain
-https://github.com/orgs/maintainers/people?page=1
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
-https://github.community/ | Home - GitHub Community Forum
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
+## Important
 
-Git
+https://www.w3.org/DesignIssues/Architecture.html
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+
+Data Structures and Algorithms
+
+https://www.toptal.com/python/python-design-patterns
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+Extract till you drop
+https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
+
+## Git
+
+Martin
+https://martinfowler.com/articles/branching-patterns.html#ComparingFeatureBranchingAndContinuousIntegration
+https://martinfowler.com/articles/branching-patterns.html#feature-branching
+
 https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
 
-Git
 https://git.io/
 
 https://github.blog/2020-09-01-introducing-github-container-registry/ | Introducing GitHub Container Registry - The GitHub Blog
@@ -830,76 +702,7 @@ https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Docume
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
-
-https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
-https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
-
-Trademark, license
-https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
-Email Git
-https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
-
-https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
-
-https://blog.tidelift.com
-https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
-https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
-
-Todo
-https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
-
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
-
-Mac
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-https://www.sqlite.org/
-https://docs.python.org/3/library/sqlite3.html
-
-
-https://devcenter.heroku.com/articles/platform-api-reference
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-
-  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-
+## Look Through
 
 
 Julia
@@ -920,7 +723,6 @@ https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twit
 https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
 
 https://twitter.com/b0rk/status/981159808832286720
-
 
 
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
@@ -975,6 +777,224 @@ Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+
+## Miscellaneous Tech
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
+
+vscode html css support - Google Search
+
+Mac
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
+
+Firebase
+https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+Actions
+
+https://www.sqlite.org/
+https://docs.python.org/3/library/sqlite3.html
+
+https://devcenter.heroku.com/articles/platform-api-reference
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+https://www.docker.com/get-started | Get Started with Docker | Docker
+https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
+https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+
+  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+
+https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
+https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
+
+## OS
+
+https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
+https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
+
+Trademark, license
+https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
+
+https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
+
+https://blog.tidelift.com
+https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
+https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
+
+Todo
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+
+
+
+
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
+Email Git
+https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
+
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+http://www.collaborativefund.com/blog
+
+
+https://www.redhat.com/
+https://www.redhat.com/en/blog
+https://www.atlassian.com/blog/
+
+https://thenewstack.io
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+https://substack.com/ | Substack
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+
+https://principles.design/
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+
+
+Docs driven dev
+Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+
+Important!
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+
+
+Snyk
+https://snyk.io/ | Open Source Security Platform | Snyk
+https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
+
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+
+https://github.com/sustainers | Sustain
+https://github.com/orgs/maintainers/people?page=1
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+
+https://github.community/ | Home - GitHub Community Forum
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+
+
+
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
+
+
+## Making
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+
+Important
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+
+Wharton
+https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
+
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
+Atlassian and GitLab
+https://about.gitlab.com/company/culture/all-remote/asynchronous/#async-30-at-gitlab | Embracing asynchronous communication | GitLab
+
+Use
+https://about.gitlab.com/handbook/business-ops/tech-stack/ | Business Operations - Tech Stack Details | GitLab
+
+
+
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
+
+
+Deck
+https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
+
+GitHub
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
 -->
 
 
@@ -983,6 +1003,8 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 ## Good Advice and Habits
 
 <!--
+https://twitter.com/JCSmiley4/status/1317194726223892481 | JC Smiley on Twitter: "Tips to break the “Tutorial Hell” cycle: 1⃣ Tweak the tutorial by adding more features. 2⃣ Apply the principles learned in a different application. 3⃣ Rebuild the project without the tutorial as a guide. @CodeNewbies @JuniorsInTech @codeconnector_" / Twitter
+
 Feross
 https://twitter.com/devonzuegel/status/1148708151992213510 | Devon on Twitter: "Great lessons from @feross' experience building @WebTorrentApp! I especially like this one: "Share your work early & often." Fun to see the timeline for the project, too. Helps put things in perspective. I wish more people shared their path through awesome work like this!… https://t.co/LsNkv8QXNq"
 
