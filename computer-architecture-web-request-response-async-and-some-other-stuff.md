@@ -1,6 +1,9 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+MongoDB/Cap
+https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
+
 https://en.wikipedia.org/wiki/User_agent
 https://simple.wikipedia.org/wiki/Packet_(computing)
 
