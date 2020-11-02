@@ -603,6 +603,8 @@ https://github.com/matteofigus/awesome-speaking
 Public speaking
 https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
 
+http://sijinjoseph.com/programmer-competency-matrix/
+
 ## Pinax
 
 As CTO
@@ -673,8 +675,6 @@ https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tas
 https://todoist.com/ | 503 Service Temporarily Unavailable
 
 
-
-http://sijinjoseph.com/programmer-competency-matrix/
 
 Sid
 https://twitter.com/changelog/status/1276514876228284417
@@ -944,11 +944,6 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 ## Miscellaneous Tech
 
-## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
-
 vscode html css support - Google Search
 
 https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
@@ -1192,6 +1187,11 @@ https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on T
 http://www.paulgraham.com/talk.html | Write Like You Talk
 https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
 -->
+
+## Website and Blog Resources
+## Shortcuts
+## Visual Studio Code
+## GitHub and VS Code Integration
 
 ## Performance
 ## Time Complexity and Optimization-Improvement Methods
