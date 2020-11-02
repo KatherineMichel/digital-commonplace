@@ -534,6 +534,11 @@ https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compati
 
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
 
+Business
+https://wakatime.com/ | WakaTime · Quantify your coding
+https://www.indiehackers.com/businesses/wakatime | WakaTime - Indie Hackers
+https://web.archive.org/web/20171016160159/https://www.indiehackers.com/businesses/wakatime | Indie Hackers: Learn from Profitable Online Businesses
+
 https://twitter.com/shreyas/status/1318073178686566400 | https://twitter.com/shreyas/status/1318073178686566400
 
 https://twitter.com/wakaleo/status/854702550469234692
@@ -600,6 +605,13 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+Inclusive terminology
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=49decddd39e5f6132ccd7d9fdc3d7c470b0061bb | kernel/git/torvalds/linux.git - Linux kernel source tree
+
+Language
+https://twitter.com/jesstelford/status/992756386160234497
+
+
 https://www.redhat.com/
 https://www.redhat.com/en/blog
 https://www.atlassian.com/blog/
@@ -631,6 +643,7 @@ https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Fol
 https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
 
 
+http://sijinjoseph.com/programmer-competency-matrix/
 
 Sid
 https://twitter.com/changelog/status/1276514876228284417
@@ -652,6 +665,8 @@ https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Ri
 
 Docs
 http://pybee.org/contributing/how/first-time/ | First-time contributors — BeeWare
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
 
 https://twitter.com/sinamossayeb/status/1044389224638631936 | SINA on Twitter: "What is an example of the best “playbook” format and expression you’ve seen?"
 
@@ -703,6 +718,18 @@ https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal
 https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
 https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
+
+Postmortem
+https://cloudplatform.googleblog.com/2017/11/fearless-shared-postmortems-CRE-life-lessons.html | Google Cloud Platform Blog: Fearless shared postmortems — CRE life lessons
+
+https://dev.to/dev3l/blameless-port-mortem-meeting-template | Blameless Post Mortem Meeting Template
+
+https://en.wikipedia.org/wiki/X_Window_System#Principles
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
 
 
 
@@ -825,13 +852,7 @@ https://martinfowler.com/articles/branching-patterns.html#feature-branching
 
 https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
 
-https://git.io/
-
-https://github.blog/2020-09-01-introducing-github-container-registry/ | Introducing GitHub Container Registry - The GitHub Blog
-https://git-lfs.github.com/ | Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
-
-https://training.github.com/downloads/github-git-cheat-sheet.pdf | GitCheatSheet_issue#2366_102019-V5
-
+https://www.atlassian.com/agile/
 https://www.atlassian.com/git/tutorials/
 https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
 https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
@@ -2381,6 +2402,13 @@ https://css-tricks.com/learning-to-learn/
 
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+
+Sarah Drasner
+https://twitter.com/sarah_edo/status/1244991486250217472
+https://twitter.com/FagnerBrack
+https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
+https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
+https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
 
 Egghead
 https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
