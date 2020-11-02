@@ -514,52 +514,6 @@ https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-p
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
 
-## OS
-
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-https://github.com/nayafia/awesome-maintainers | nayafia/awesome-maintainers: Talks, blog posts, and interviews about the experience of being an open source maintainer
-https://github.com/matiassingers/awesome-readme | matiassingers/awesome-readme: A curated list of awesome READMEs
-
-https://www.tidelift.com/subscription/2020-managed-open-source-survey
-
-https://twitter.com/idangazit/status/1313521574171955200
-
-All repos
-https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
-
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-Interesting
-Turning off issues
-https://gist.github.com/ryanflorence/8a62abea562ca2896dee
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/jamstack/jamstack.org
-https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
-https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
-https://twitter.com/mojombo/status/1313572403595759616
-
-
-https://twitter.com/wakaleo/status/854702550469234692
-
-https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
-https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
-https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
-https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
-
-Make
-https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
-
-https://twitter.com/levelsio/status/1314280439243300865
-
-https://github.com/phodal/growth-in-action
-
-
 ## Social Media
 
 Practical Dev
@@ -581,6 +535,20 @@ https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compati
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
 
 https://twitter.com/shreyas/status/1318073178686566400 | https://twitter.com/shreyas/status/1318073178686566400
+
+https://twitter.com/wakaleo/status/854702550469234692
+
+https://pdmethods.com/ | Product Discovery Methods - Product Discovery Methods
+https://www.indiehackers.com/start | Start a Profitable Side Project in 2020 - Indie Hackers
+https://blog.samaltman.com/idea-generation | Idea Generation - Sam Altman
+https://www.fs.blog/general-thinking-tools/ | General Thinking Tools: 9 Mental Models to Solve Difficult Problems
+
+Make
+https://twitter.com/levelsio/status/1288084378627833856 | ؜ on Twitter: "@ShivEnigma @brunoraljic You don't need to buy anything or pay anyone to be an indie hacker and build your own products. Everything is already free on the internet. Here's a summary of my book for free: https://t.co/pwoIOuMrHq" / Twitter
+
+https://twitter.com/levelsio/status/1314280439243300865
+
+https://github.com/phodal/growth-in-action
 
 https://vimeo.com/298147468 | Building Product in the age of Distrust by Ryan Freitas on Vimeo
 
@@ -632,6 +600,104 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+http://www.collaborativefund.com/blog
+
+
+https://www.redhat.com/
+https://www.redhat.com/en/blog
+https://www.atlassian.com/blog/
+
+https://thenewstack.io
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+https://substack.com/ | Substack
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+
+
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+
+https://github.com/sustainers | Sustain
+https://github.com/orgs/maintainers/people?page=1
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+
+https://github.community/ | Home - GitHub Community Forum
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+
+
+## Making
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
+
+Docs
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+Wharton
+https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
+
+Deck
+https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
+
+Docs driven dev
+Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+
+Important!
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+Snyk
+https://snyk.io/ | Open Source Security Platform | Snyk
+https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+
+https://principles.design/
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+
+
 ## Community
 
 Rusts Community automation
@@ -681,6 +747,9 @@ Extract till you drop
 https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
 
 ## Git
+
+Email Git
+https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
 
 Martin
 https://martinfowler.com/articles/branching-patterns.html#ComparingFeatureBranchingAndContinuousIntegration
@@ -825,7 +894,58 @@ https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
+
 ## OS
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+https://github.com/nayafia/awesome-maintainers | nayafia/awesome-maintainers: Talks, blog posts, and interviews about the experience of being an open source maintainer
+https://github.com/matiassingers/awesome-readme | matiassingers/awesome-readme: A curated list of awesome READMEs
+
+https://www.tidelift.com/subscription/2020-managed-open-source-survey
+
+https://twitter.com/idangazit/status/1313521574171955200
+
+All repos
+https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
+
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/jamstack/jamstack.org
+https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
+https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
+https://twitter.com/mojombo/status/1313572403595759616
+
+
+## OS
+
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+
+GitHub
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
 
 https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
 https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
@@ -849,152 +969,6 @@ https://github.com/todogroup/governance | todogroup/governance: TODO Group Gover
 
 Important!
 https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-
-
-
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
-
-Email Git
-https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
-
-
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-http://www.collaborativefund.com/blog
-
-
-https://www.redhat.com/
-https://www.redhat.com/en/blog
-https://www.atlassian.com/blog/
-
-https://thenewstack.io
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-https://substack.com/ | Substack
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-
-https://principles.design/
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-
-
-Docs driven dev
-Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
-
-Important!
-https://andreasbm.github.io/web-skills/?compact | Web Skills
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
-
-
-Snyk
-https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
-
-
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
-
-https://github.com/sustainers | Sustain
-https://github.com/orgs/maintainers/people?page=1
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-
-https://github.community/ | Home - GitHub Community Forum
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
-
-
-
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
-
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
-
-
-## Making
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-
-Important
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-
-Wharton
-https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
-
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-
-Atlassian and GitLab
-https://about.gitlab.com/company/culture/all-remote/asynchronous/#async-30-at-gitlab | Embracing asynchronous communication | GitLab
-
-Use
-https://about.gitlab.com/handbook/business-ops/tech-stack/ | Business Operations - Tech Stack Details | GitLab
-
-
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
-
-Deck
-https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
-
-GitHub
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
-
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
 -->
 
 
