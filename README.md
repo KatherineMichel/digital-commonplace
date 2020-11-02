@@ -600,16 +600,6 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
-
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-http://www.collaborativefund.com/blog
-
-
 https://www.redhat.com/
 https://www.redhat.com/en/blog
 https://www.atlassian.com/blog/
@@ -625,6 +615,9 @@ https://todoist.com/ | 503 Service Temporarily Unavailable
 
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 
+People
+https://www.twitch.tv/directory/following
+
 https://github.com/sustainers | Sustain
 https://github.com/orgs/maintainers/people?page=1
 https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
@@ -636,6 +629,81 @@ https://maintainers.github.com/
 https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
 
 https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+
+
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+http://www.collaborativefund.com/blog
+
+http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
+
+https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
+
+Cool!
+https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+
+Check this out...
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+
+Docs
+http://pybee.org/contributing/how/first-time/ | First-time contributors — BeeWare
+
+https://twitter.com/sinamossayeb/status/1044389224638631936 | SINA on Twitter: "What is an example of the best “playbook” format and expression you’ve seen?"
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
+
+https://glitch.com/help/import-git/ | Can I import code from a GitHub repository?
+
+https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
+
+Git Internals
+https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
+https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
+
+http://githubengineering.com/the-github-graphql-api/
+https://githubengineering.com/kubernetes-at-github/
+
+GitHub JavaScript
+https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
+https://mobile.twitter.com/gr2m/status/1248320202162331648
+
+https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
+
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
+
+Experiments
+https://experiments.github.com/semantic-code-search | GitHub Experiments - Semantic Code Search
+
+http://ohshitgit.com/ | Oh, shit, git!
+
+https://twitter.com/webKnjaZ/status/1285214525629833217 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@johnlindquist Pro Git 2" / Twitter
+
+https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
+
+https://twitter.com/nnja/status/1219759039757742080 | Nina Zakharenko 💜🐍 on Twitter: "@WillingCarol https://t.co/4uT3zDkfAC" / Twitter
+
+Author File
+https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/ | Easy maintenance of your AUTHORS file | Kevin Burke
+
+Contributor Recognition
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+
+https://twitter.com/seb_ruder/status/1114182134506430464 | Sebastian Ruder on Twitter: "Papers with Code now has badges to put on your GitHub repo that indicate that your model is state-of-the-art. 🏅 This seems like a great way to incentivize open-sourcing code! I hope we'll see a lot more badges to highlight useful implementations. 🥇🥈🥉… https://t.co/ZC6xxfUOpA"
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
+
 
 
 ## Making
@@ -781,6 +849,8 @@ http://jvns.ca/blog/2016/11/27/more-linux-drawings/
 Julia- Performance Review
 https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
 
+https://twitter.com/b0rk/status/968225634127372288 | 🔎Julia Evans🔍 on Twitter: "I kind of wish GitHub repos had like a "success stories" section where people could comment and say how the project helped them"
+
 https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
 https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
 
@@ -856,6 +926,9 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 vscode html css support - Google Search
 
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
 Mac
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
 
@@ -920,9 +993,19 @@ https://github.com/jamstack/jamstack.org
 https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
 https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
 https://twitter.com/mojombo/status/1313572403595759616
+https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter: "✨ Today at 1pm PST ✨ @mojombo and members of the @redwoodjs core team are live-streaming a Fireside chat during the JS Bootcamp Olympics. Free and Everyone’s invited! https://t.co/i8YLrsj00l" / Twitter
 
 
 ## OS
+
+Important
+https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9 | Open Source is Not About You
+
+Chaoss
+https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
+
+Repeat
+https://github.com/github/maturity-model | github/maturity-model: A maturity model for adopting open source
 
 https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
@@ -1660,6 +1743,28 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
+<!--
+## Hynek's talk
+
+Contributing
+https://github.blog/2012-09-17-contributing-guidelines/
+https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
+
+Code of Conduct
+https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
+https://www.contributor-covenant.org/
+
+Expectations
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+https://twitter.com/brettsky/status/1154908949956554752
+https://twitter.com/brettsky/status/996052518114390016
+
+https://lukasa.co.uk/2016/04/One_Of_The_Team/
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
+https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
+-->
 
 <!--
 lyftvm
