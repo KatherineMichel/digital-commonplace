@@ -757,53 +757,6 @@ https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executi
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
-## Git and OS
-
-https://glitch.com/help/import-git/ | Can I import code from a GitHub repository?
-
-
-http://githubengineering.com/the-github-graphql-api/
-https://githubengineering.com/kubernetes-at-github/
-
-GitHub JavaScript
-https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
-https://mobile.twitter.com/gr2m/status/1248320202162331648
-
-https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
-
-https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
-
-
-https://github.community/ | Home - GitHub Community Forum
-
-https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
-
-Git Internals
-https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
-https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
-
-Experiments
-https://experiments.github.com/semantic-code-search | GitHub Experiments - Semantic Code Search
-
-http://ohshitgit.com/ | Oh, shit, git!
-
-https://twitter.com/webKnjaZ/status/1285214525629833217 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@johnlindquist Pro Git 2" / Twitter
-
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-http://rfm.sospedra.me/?ref=betalist#/
-
-https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
-
-https://twitter.com/nnja/status/1219759039757742080 | Nina Zakharenko 💜🐍 on Twitter: "@WillingCarol https://t.co/4uT3zDkfAC" / Twitter
-
-
-https://twitter.com/seb_ruder/status/1114182134506430464 | Sebastian Ruder on Twitter: "Papers with Code now has badges to put on your GitHub repo that indicate that your model is state-of-the-art. 🏅 This seems like a great way to incentivize open-sourcing code! I hope we'll see a lot more badges to highlight useful implementations. 🥇🥈🥉… https://t.co/ZC6xxfUOpA"
-
-
 
 
 ## Dev Tools and Standards
@@ -844,25 +797,6 @@ https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Boo
 
 Extract till you drop
 https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
-
-## Git
-
-Email Git
-https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
-
-Martin
-https://martinfowler.com/articles/branching-patterns.html#ComparingFeatureBranchingAndContinuousIntegration
-https://martinfowler.com/articles/branching-patterns.html#feature-branching
-
-https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
-
-https://www.atlassian.com/agile/
-https://www.atlassian.com/git/tutorials/
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
 ## Look Through
 
@@ -987,6 +921,73 @@ https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 
+
+
+## Git and OS
+
+https://glitch.com/help/import-git/ | Can I import code from a GitHub repository?
+
+
+http://githubengineering.com/the-github-graphql-api/
+https://githubengineering.com/kubernetes-at-github/
+
+GitHub JavaScript
+https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
+https://mobile.twitter.com/gr2m/status/1248320202162331648
+
+https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
+
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
+
+
+https://github.community/ | Home - GitHub Community Forum
+
+https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
+
+Git Internals
+https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
+https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
+
+Experiments
+https://experiments.github.com/semantic-code-search | GitHub Experiments - Semantic Code Search
+
+http://ohshitgit.com/ | Oh, shit, git!
+
+https://twitter.com/webKnjaZ/status/1285214525629833217 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@johnlindquist Pro Git 2" / Twitter
+
+
+Sustain OSS
+https://github.com/sustainers | Sustain
+
+https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
+http://rfm.sospedra.me/?ref=betalist#/
+
+https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
+
+https://twitter.com/nnja/status/1219759039757742080 | Nina Zakharenko 💜🐍 on Twitter: "@WillingCarol https://t.co/4uT3zDkfAC" / Twitter
+
+
+https://twitter.com/seb_ruder/status/1114182134506430464 | Sebastian Ruder on Twitter: "Papers with Code now has badges to put on your GitHub repo that indicate that your model is state-of-the-art. 🏅 This seems like a great way to incentivize open-sourcing code! I hope we'll see a lot more badges to highlight useful implementations. 🥇🥈🥉… https://t.co/ZC6xxfUOpA"
+
+
+## Git
+
+Email Git
+https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
+
+Martin
+https://martinfowler.com/articles/branching-patterns.html#ComparingFeatureBranchingAndContinuousIntegration
+https://martinfowler.com/articles/branching-patterns.html#feature-branching
+
+https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
+
+https://www.atlassian.com/agile/
+https://www.atlassian.com/git/tutorials/
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
+https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
+https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
 ## OS
 
