@@ -301,6 +301,9 @@ https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
 
 27.2. pydoc — Documentation generator and online help system
 https://docs.python.org/3/library/pydoc.html
+
+27.3. doctest — Test interactive Python examples
+https://docs.python.org/3/library/doctest.html
 -->
 
 
