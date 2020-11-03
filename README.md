@@ -871,151 +871,6 @@ https://www.section508.gov/create/web-content | Developing Accessible Web Conten
 https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
 
 https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-
-
-## Git and OS
-
-https://glitch.com/help/import-git/ | Can I import code from a GitHub repository?
-
-
-http://githubengineering.com/the-github-graphql-api/
-https://githubengineering.com/kubernetes-at-github/
-
-GitHub JavaScript
-https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
-https://mobile.twitter.com/gr2m/status/1248320202162331648
-
-https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
-
-https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
-
-
-https://github.community/ | Home - GitHub Community Forum
-
-https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
-
-Git Internals
-https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
-https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
-
-Experiments
-https://experiments.github.com/semantic-code-search | GitHub Experiments - Semantic Code Search
-
-http://ohshitgit.com/ | Oh, shit, git!
-
-https://twitter.com/webKnjaZ/status/1285214525629833217 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@johnlindquist Pro Git 2" / Twitter
-
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-https://discourse.sustainoss.org/
-
-https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
-http://rfm.sospedra.me/?ref=betalist#/
-
-https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
-
-https://twitter.com/nnja/status/1219759039757742080 | Nina Zakharenko 💜🐍 on Twitter: "@WillingCarol https://t.co/4uT3zDkfAC" / Twitter
-
-
-https://twitter.com/seb_ruder/status/1114182134506430464 | Sebastian Ruder on Twitter: "Papers with Code now has badges to put on your GitHub repo that indicate that your model is state-of-the-art. 🏅 This seems like a great way to incentivize open-sourcing code! I hope we'll see a lot more badges to highlight useful implementations. 🥇🥈🥉… https://t.co/ZC6xxfUOpA"
-
-
-## Git
-
-Email Git
-https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
-
-https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
-
-https://www.atlassian.com/agile/
-
-https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
-https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
-
-## OS
-
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://github.com/github/maturity-model | github/maturity-model: A maturity model for adopting open source
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-Chaoss
-https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
-
-Survey
-https://www.tidelift.com/subscription/2020-managed-open-source-survey
-
-README
-https://github.com/soimort/you-get
-
-Example
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-Versioning
-https://twitter.com/idangazit/status/1313521574171955200
-
-All repos
-https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-https://github.com/jamstack/jamstack.org
-
-
-## OS
-
-Important
-https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9 | Open Source is Not About You
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
-https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
-https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
-
-Trademark, license
-https://en.wikipedia.org/wiki/End-user_license_agreement | End-user license agreement - Wikipedia
-
-https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
-
-https://blog.tidelift.com
-https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
-https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
-
-Todo
-https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
-
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
 -->
 
 
@@ -4312,8 +4167,6 @@ https://github.com/Droogans/unmaintainable-code
 ## High Performance
 
 <!--
-https://developer.atlassian.com
-
 https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
 https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
 https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
@@ -4335,6 +4188,128 @@ Richard Feynman
 -->
 
 
+
+<!--
+## Git and OS
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://www.atlassian.com/agile/
+https://developer.atlassian.com
+
+https://github.com/jamstack/jamstack.org
+
+
+README
+https://github.com/soimort/you-get
+
+Example
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+
+https://git-scm.com/docs
+https://git-scm.com/docs/git-status
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
+
+https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
+
+
+Email Git
+https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
+
+https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
+
+Git Internals
+https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
+https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
+
+
+https://github.community/ | Home - GitHub Community Forum
+
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+
+http://githubengineering.com/the-github-graphql-api/
+https://githubengineering.com/kubernetes-at-github/
+
+GitHub JavaScript
+https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
+https://mobile.twitter.com/gr2m/status/1248320202162331648
+
+https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
+
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
+
+
+
+Sustain OSS
+https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
+
+https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
+
+Chaoss
+https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
+
+https://github.com/github/maturity-model | github/maturity-model: A maturity model for adopting open source
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+
+
+Survey
+https://www.tidelift.com/subscription/2020-managed-open-source-survey
+https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
+
+Todo
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+
+
+
+## OS
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
+
+https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
+https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
+
+https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
+
+https://blog.tidelift.com
+https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
+https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
+-->
 
 ## Open Source and Release Examples
 
@@ -4367,13 +4342,6 @@ GitHub Community
 * [GitHub Community](https://github.community/)
 
 <!--
-https://git-scm.com/docs
-https://git-scm.com/docs/git-status
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
-https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
-
-
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
 
