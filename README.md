@@ -624,10 +624,6 @@ https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 
-Docs
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
-
 OS Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
 
@@ -641,6 +637,14 @@ https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - 
 
 https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
 
+Docs
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+
+Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+https://twitter.com/sinamossayeb/status/1044389224638631936 | SINA on Twitter: "What is an example of the best “playbook” format and expression you’ve seen?"
+
 This is great!
 https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
 
@@ -648,7 +652,8 @@ Check this out...
 https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
 
 Docs
-http://pybee.org/contributing/how/first-time/ | First-time contributors — BeeWare
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+https://beeware.org/contributing/how/first-time/setup/
 
 https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
 
@@ -683,9 +688,6 @@ Cool!
 https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
 
 
-https://twitter.com/sinamossayeb/status/1044389224638631936 | SINA on Twitter: "What is an example of the best “playbook” format and expression you’ve seen?"
-
-
 ## Community
 
 Rusts Community automation
@@ -709,6 +711,19 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 Docs driven dev
 Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
 
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
+Postmortem
+https://cloudplatform.googleblog.com/2017/11/fearless-shared-postmortems-CRE-life-lessons.html | Google Cloud Platform Blog: Fearless shared postmortems — CRE life lessons
+
+https://dev.to/dev3l/blameless-port-mortem-meeting-template | Blameless Post Mortem Meeting Template
+
+Pre-mortem
+https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+
+
 Important!
 https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
@@ -723,15 +738,7 @@ https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "
 
 https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
 
-Postmortem
-https://cloudplatform.googleblog.com/2017/11/fearless-shared-postmortems-CRE-life-lessons.html | Google Cloud Platform Blog: Fearless shared postmortems — CRE life lessons
-
-https://dev.to/dev3l/blameless-port-mortem-meeting-template | Blameless Post Mortem Meeting Template
-
 https://en.wikipedia.org/wiki/X_Window_System#Principles
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
 
 https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
 
@@ -822,6 +829,12 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 vscode html css support - Google Search
 
+Kenneth
+https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
+
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
+
 https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
 http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
@@ -832,6 +845,7 @@ Firebase
 https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
 Actions
 
+GraphQL
 https://www.sqlite.org/
 https://docs.python.org/3/library/sqlite3.html
 
@@ -840,6 +854,8 @@ https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: U
 https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
 https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
 
+
+Container
 https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
 https://www.docker.com/get-started | Get Started with Docker | Docker
 https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
@@ -848,14 +864,18 @@ https://code.visualstudio.com/docs/containers/quickstart-python | Build and run 
 * [Docker for Mac](https://docs.docker.com/docker-for-mac)
 https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
 
+
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 
   * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
 
+
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+
 
 https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
 https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
+
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
@@ -933,9 +953,6 @@ https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Li
 https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
 
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-Pre-mortem
-https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
 -->
 
 ## Technical Writing
@@ -2495,12 +2512,6 @@ Python- Django- Project Stucture
 <!--
 Stuff
 
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
 https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
 
 Fastmac
@@ -2686,11 +2697,12 @@ https://github.com/api-evangelist
 https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
 https://www.programmableweb.com/category/all/apis
-
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
 -->
 
 ## Data Science and Network Analysis
+
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
 
 Python- Statistics Stack- iPython and Jupyter
 * [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
@@ -2700,16 +2712,42 @@ Python- Statistics Stack- NumPy
 * [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
 * [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
 
-Python- Statistics Stack- SciPy 
-* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
+<!--
+"Ecosystem"
+https://numpy.org/
+-->
 
 Python- Statistics Stack- Scikit-Learn
 * [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
 * [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
 * [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
 
+<!--
+https://scikit-image.org/
+https://scikit-image.org/docs/stable/auto_examples/
+-->
+
 Python- Statistics Stack- Pandas
 * [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
+
+<!--
+Input/output
+Pickling
+Flat file
+Clipboard
+Excel
+JSON
+HTML
+HDFStore: PyTables (HDF5)
+Feather
+Parquet
+ORC
+SAS
+SPSS
+SQL
+Google BigQuery
+STATA
+-->
 
 Python- Statistics Stack- MatPlotLib
 * [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
@@ -2731,16 +2769,25 @@ Python- Statistics Stack- GGPlot
 Python- Network Analysis- NetworkX
 * [NetworkX GitHub](https://github.com/networkx/networkx)
 
+<!--
+Discrete event simuation framework
+https://simpy.readthedocs.io/en/latest/
+https://github.com/robclewley/pydstool
+-->
+
 ## Web Scraping
 
 * [Scrapy](https://scrapy.org/) and [Scrapy GitHub](https://github.com/scrapy/scrapy)
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 <!--
+https://realpython.com/python-web-scraping-practical-introduction/
+
 https://docs.python.org/3/library/webbrowser.html
 
 Data Science
 https://pandas.pydata.org/
+https://pandas.pydata.org/docs/reference/index.html#api
 https://docs.python.org/3/library/csv.html
 https://docs.python.org/3/library/collections.html#collections.OrderedDict
 https://realpython.com/python-csv/
@@ -2770,22 +2817,25 @@ https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedi
 
 https://github.com/IonicaBizau/scrape-it | IonicaBizau/scrape-it: 🔮 A Node.js scraper for humans.
 
-https://realpython.com/python-web-scraping-practical-introduction/
-
 
 Scrapy and Fast API
 https://twitter.com/mrcartoonster/status/1319098654871830528 | mrcartoonster 🇵🇷 on Twitter: "@KatiMichel YES! Complete your Sith training by pairing it with FastAPI... https://t.co/N1dQOISSdF" / Twitter
 
 https://en.wikipedia.org/wiki/GeoJSON | GeoJSON - Wikipedia
 
+XPath
 https://developer.mozilla.org/en-US/docs/Web/XPath/Functions/normalize-space | normalize-space - XPath | MDN
+
 https://github.com/alltheplaces/alltheplaces/search?q=application%2Fld%2Bjson | Search · application/ld+json
+
+Scrapy
 https://docs.scrapy.org/en/latest/topics/items.html | Items — Scrapy 2.4.0 documentation
 https://docs.scrapy.org/en/latest/topics/spiders.html | Spiders — Scrapy 2.4.0 documentation
 https://docs.scrapy.org/en/latest/topics/selectors.html | Selectors — Scrapy 2.4.0 documentation
 https://docs.scrapy.org/en/latest/topics/request-response.html | Requests and Responses — Scrapy 2.4.0 documentation
-https://www.tutorialspoint.com/scrapy/scrapy_selectors.htm | Scrapy - Selectors - Tutorialspoint
 https://doc.scrapy.org/en/latest/topics/request-response.html#using-errbacks-to-catch-exceptions-in-request-processing | Requests and Responses — Scrapy 2.4.0 documentation
+
+https://www.tutorialspoint.com/scrapy/scrapy_selectors.htm | Scrapy - Selectors - Tutorialspoint
 https://www.w3.org/TR/xpath/all/ | xpath cover page - W3C
 https://www.w3schools.com/python/ref_string_title.asp | Python String title() Method
 
