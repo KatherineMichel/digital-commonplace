@@ -2740,7 +2740,14 @@ Python- Network Analysis- NetworkX
 https://docs.python.org/3/library/webbrowser.html
 
 Data Science
+https://pandas.pydata.org/
 https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/collections.html#collections.OrderedDict
+https://realpython.com/python-csv/
+
+Other types of files
+https://realpython.com/read-write-files-python/#dont-re-invent-the-snake
+
 
 https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57
 
