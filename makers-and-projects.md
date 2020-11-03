@@ -152,6 +152,66 @@ https://michaelheap.com/building-github-actions | Building GitHub Actions | Mich
 -->
 
 <!--
+<!--
+https://github.com/nektos/act
+
+GitHub Actions Examples
+https://devopsdirective.com/posts/2020/07/stupid-github-actions/ | Doing Stupid Stuff with GitHub Actions | DevOps Directive
+https://github.com/sdras/awesome-actions | sdras/awesome-actions: A curated list of awesome actions to use on GitHub
+https://twitter.com/mheap/status/1254124824298954752 | Michael Heap on Twitter: "So, everyone seems to love @GitHub Actions for CI, but did you know that there's a ton more things you can do with them? Literally *anything* you can think of is possible. Let's visit some of my favourites:" / Twitter
+
+GA- Best
+https://twitter.com/zooba/status/1286311085142945793 | Steve Dower on Twitter: "Okay #EuroPython2020, for the benefit of an upcoming open space, which Python project has _the best_ @GitHub Actions integration? Lint, build, test, publish, verify, etc. Which project do you go to when you need to steal some CI scripts? 😁" / Twitter
+
+GitHub Actions- Lighthouse
+https://github.com/paulirish/lighthouse-ci-action
+https://github.com/GoogleChrome/lighthouse-stack-packs/issues
+
+Rust GA
+https://blog.rust-lang.org/inside-rust/2020/07/23/rust-ci-is-moving-to-github-actions.html | Rust's CI is moving to GitHub Actions | Inside Rust Blog
+https://twitter.com/simonw/status/1285653911580409859 | Simon Willison on Twitter: "This is a monstrous, delightful hack. Jonty built a GitHub Action which spins up a Python server, runs "wget --mirror" against it to create as static copy of the content, then pushes that content to GitHub pages. https://t.co/iJq33NPIqp" / Twitter
+-->
+
+<!--
+Hynek, Jeff, Simon GA
+
+Matrix
+https://twitter.com/webology/status/1281590320443129856 | Jeff says, "wear a mask" 😷 on Twitter: "@simonw check out https://t.co/4XpkblhDgg if you haven't seen it." / Twitter
+https://twitter.com/simonw/status/1281591600926187523 | Simon Willison on Twitter: "@webology @laymonage Wow that is some beautiful matrix action there" / Twitter
+https://github.com/laymonage/django-jsonfield-backport/blob/master/.github/workflows/test.yml | django-jsonfield-backport/test.yml at master · laymonage/django-jsonfield-backport
+
+https://twitter.com/webology/status/1255842961880944641
+
+https://hynek.me/articles/python-github-actions/
+https://github.com/actions/virtual-environments/blob/master/images/linux/Ubuntu1804-README.md
+https://twitter.com/hynek/status/1236227708746596353
+
+GitHub Actions Matrix Demo
+https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix
+https://twitter.com/webology/status/1195412423936753670
+https://github.com/jefftriplett/python-github-actions-matrix-demo
+https://twitter.com/webology/status/1201887760413528065
+https://github.com/jefftriplett/python-github-actions-matrix-demo/blob/master/.github/workflows/test.yml
+
+https://github.com/jefftriplett/example-python-actions | jefftriplett/example-python-actions: An example GitHub Action using Python Actions
+https://github.com/jefftriplett/python-actions/runs/46194678 | :pencil: :whale: Switches back to entrypoint.sh · jefftriplett/python-actions@334b8e0
+
+Jeff's Examples
+https://twitter.com/webology/status/1259199459579383809 | Jeff says, "wash your hands" 🧼👏 on Twitter: "✨ If you use GitHub Actions to build and publish Docker, there is an easier way instead of building a series of `run` steps. 🐳 ⬇ Here is an example of what I'm using to build the new https://t.co/6ueTxxQ9a3 (out soon) https://t.co/Nt9DEnPxbc" / Twitter
+https://twitter.com/webology/status/1254091755026288640 | Jeff says, "wash your hands" 🧼 on Twitter: " If you are using GitHub Actions, here is a standard event trigger setup that I use for running a workflow on all pull requests and all git commits pushed to the master branch. I use it in almost every project I touch, and I see people confused by how to set it up. https://t.co/CMdKCHTyMT" / Twitter
+https://twitter.com/webology/status/1254798717196042241 | Jeff says, "wash your hands" 🧼 on Twitter: "If you are using GitHub Actions and wondering why this is useful? If you use `on: [pull_request, push]` (which I commonly see in docs) you are going spawn two test runs every time you push/update a pull request which is annoying. https://t.co/2fWPxHSjdA" / Twitter
+
+Simon
+https://mobile.twitter.com/simonw/status/1252052032019546112
+https://mobile.twitter.com/webology/status/1252052023459090432
+
+https://twitter.com/simonw/status/1199851134564884480
+
+GitHub Action CI Example from Jeff
+https://simonwillison.net/2019/Dec/18/github-actions-ciyml-deno/ | GitHub Actions ci.yml for deno
+-->
+
+<!--
 GitHub Actions
 
 https://actionsbook.com/ | Building GitHub Actions | Building GitHub Actions
