@@ -653,11 +653,12 @@ https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Ri
 
 Docs
 https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
 https://beeware.org/contributing/how/first-time/setup/
 
-https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
-
 https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
 
 Author File
 https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/ | Easy maintenance of your AUTHORS file | Kevin Burke
@@ -715,13 +716,7 @@ Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
 
 
-Postmortem
-https://cloudplatform.googleblog.com/2017/11/fearless-shared-postmortems-CRE-life-lessons.html | Google Cloud Platform Blog: Fearless shared postmortems — CRE life lessons
-
-https://dev.to/dev3l/blameless-port-mortem-meeting-template | Blameless Post Mortem Meeting Template
-
-Pre-mortem
-https://www.dropbox.com/scl/fi/03811h336dar605cn1gbi/-Dropbox-Pre-mortem-Template.paper?dl=0&rlkey=1dh3ag1436h0q0djcxf5r76x4 | Dropbox Pre-mortem Template
+Pre-mortem and Postmortem
 
 
 Important!
@@ -731,7 +726,11 @@ https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Ye
 
 https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
 
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+
+  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
 
 https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
 https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
@@ -863,11 +862,6 @@ https://code.visualstudio.com/docs/containers/quickstart-python | Build and run 
 
 * [Docker for Mac](https://docs.docker.com/docker-for-mac)
 https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-
-  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
 
 
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
@@ -3087,8 +3081,6 @@ https://developer.twitter.com/en/use-cases/engage | Engage – Twitter Developer
 https://developer.twitter.com/en/labs | Labs
 https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
 
-https://developer.spotify.com/documentation/web-api/quick-start/ | Web API Tutorial | Spotify for Developers
-
 https://docs.github.com/en/rest | GitHub REST API - GitHub Docs
 
 https://developers.google.com/gmail/api/v1/reference | API Reference  |  Gmail API  |  Google Developers
@@ -3097,6 +3089,7 @@ https://github.com/google/mail-importer | google/mail-importer: Mail Importer fo
 https://api.slack.com/ | Slack API | Slack
 https://api.slack.com/tutorials | Tutorials | Slack
 
+https://developer.spotify.com/documentation/web-api/quick-start/ | Web API Tutorial | Spotify for Developers
 https://spotipy.readthedocs.io/en/2.14.0/ | Welcome to Spotipy! — spotipy 2.0 documentation
 -->
 
