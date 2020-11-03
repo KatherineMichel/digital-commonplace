@@ -840,8 +840,8 @@ https://docs.python.org/3/library/sqlite3.html
 
 https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
 https://postgis.net/docs/manual-3.0/
-
 https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://en.wikipedia.org/wiki/List_of_file_formats
 https://en.wikipedia.org/wiki/File_format
@@ -893,6 +893,60 @@ https://www.section508.gov/create/web-content | Developing Accessible Web Conten
 https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
 -->
 
+<!--
+Hynek Schlawack
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+Kyle Knapp
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+-->
+
+<!--
+## Hynek's talk
+
+Contributing
+https://github.blog/2012-09-17-contributing-guidelines/
+https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
+
+Code of Conduct
+https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
+https://www.contributor-covenant.org/
+
+Expectations
+https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
+https://twitter.com/brettsky/status/1154908949956554752
+https://twitter.com/brettsky/status/996052518114390016
+
+https://lukasa.co.uk/2016/04/One_Of_The_Team/
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
+https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
+-->
 
 ## Eldarion
 
@@ -1456,61 +1510,6 @@ https://www.thoughtworks.com
 
 
 ## General Talks
-
-<!--
-Hynek Schlawack
-https://hynek.me/talks/python-foss/
-https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
-
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
-https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
-
-Kyle Knapp
-Important talk
-https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
-https://2018.pygotham.org/talks/automating-code-quality-next-level/
-
-https://pyvideo.org/speaker/kyle-knapp.html
-https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
-https://pyvideo.org/pycon-us-2018/automating-code-quality.html
-PyGotham
-
-Thea's talk
-https://www.youtube.com/watch?v=-BHverY7IwU
-
-Carl Meyer: Set your code free
-https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
-https://www.oddbird.net/talks/set-your-code-free/
-
-https://speakerdeck.com/carljm
-https://github.com/carljm/dotfiles
--->
-
-<!--
-## Hynek's talk
-
-Contributing
-https://github.blog/2012-09-17-contributing-guidelines/
-https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
-
-Code of Conduct
-https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-https://www.contributor-covenant.org/
-
-Expectations
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-https://twitter.com/brettsky/status/1154908949956554752
-https://twitter.com/brettsky/status/996052518114390016
-
-https://lukasa.co.uk/2016/04/One_Of_The_Team/
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
-
-https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
-https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
--->
 
 <!--
 lyftvm
