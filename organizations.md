@@ -7,22 +7,20 @@ https://github.com/zapier | Zapier
 https://github.com/unsplash/datasets
 
 https://github.com/lifechurch | Life.Church
+
 https://github.com/micnews/
 https://github.com/FidelityInternational | Fidelity International
 https://github.com/keybase | Keybase
+https://github.com/atlassian-labs | Atlassian Labs
+https://github.com/gettyimages | Getty Images
+https://github.com/cumulusnetworks/ | Cumulus Networks
 
 https://github.com/defcon201/
 
 https://github.com/historicalsource | historicalsource (Historical Source)
 https://mobile.twitter.com/OpenSFHistory
 
-https://github.com/atlassian-labs | Atlassian Labs
-
-https://github.com/gettyimages | Getty Images
-
 https://github.com/NHSX
-
-https://github.com/cumulusnetworks/ | Cumulus Networks
 
 https://github.com/Hacker0x01/
 https://github.com/HangarOrg/
@@ -196,15 +194,13 @@ https://github.com/IntuitDeveloper
 
 * [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
 
-https://github.com/nasa-jpl
-https://github.com/nasajpl
+* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
+* [NASA Jet Propulsion Laboratory](https://github.com/nasajpl) 
 
 * [JetBrains](https://github.com/JetBrains) 
 * [John Deere](https://github.com/JohnDeere) 
-
-https://github.com/juniper
-https://github.com/JNPRAutomate
-
+* [Juniper Networks](https://github.com/juniper) 
+* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 * [Kaggle](https://github.com/Kaggle) 
 * [LexisNexis](https://github.com/LexisNexis) 
 * [Magic Leap](https://github.com/magicleap) 
@@ -1067,20 +1063,6 @@ Azure
 * [NETTUTS](https://github.com/NETTUTS)
 * [TUTS+](https://github.com/tutsplus)
 
-## Digital Agency
-
-* [Caktus](https://github.com/caktus)
-* [Eldarion](https://github.com/eldarion)
-* [ElevenYellow](https://github.com/elevenyellow)
-* [Filament Group](https://github.com/filamentgroup) 
-* [Glitch](https://github.com/glitchdotcom/)
-* [Hanno](https://github.com/wearehanno) 
-* [Postlight](https://github.com/postlight)
-* [Potato London](https://github.com/potatolondon)
-* [Revolution Systems](https://github.com/revsys)
-* [ribot](https://github.com/ribot)
-* [thoughtbot](https://github.com/thoughtbot)
-
 ## Government
 
 U.S. Government
@@ -1118,6 +1100,17 @@ U.K. Government
 
 Australian Government 
 * [Australia Digital Transformation Office](https://github.com/AusDTO)
+
+## Digital Agency
+
+* [ElevenYellow](https://github.com/elevenyellow)
+* [Filament Group](https://github.com/filamentgroup) 
+* [Glitch](https://github.com/glitchdotcom/)
+* [Hanno](https://github.com/wearehanno) 
+* [Postlight](https://github.com/postlight)
+* [Potato London](https://github.com/potatolondon)
+* [ribot](https://github.com/ribot)
+* [thoughtbot](https://github.com/thoughtbot)
 
 ## Not-Profit
  
