@@ -552,6 +552,9 @@ https://docs.python.org/3/library/json.html#implementation-limitations
 https://docs.python.org/3/library/json.html#module-json.tool
 https://docs.python.org/3/library/json.html#command-line-options
 
+12.4. marshal — Internal Python object serialization
+https://docs.python.org/3/library/marshal.html
+
 
 10.6. Mathematics
 https://docs.python.org/3/tutorial/stdlib.html#mathematics
@@ -689,6 +692,17 @@ https://docs.python.org/3/library/sqlite3.html
 https://docs.python.org/3/library/cgi.html
 https://docs.python.org/3/library/wsgiref.html
 
+22.5. urllib — URL handling modules
+
+https://docs.python.org/3/library/urllib.html
+
+
+26.1. typing — Support for type hints
+https://docs.python.org/3/library/typing.html
+
+
+14. File Formats
+https://docs.python.org/3/library/fileformats.html
 
 6. Text Processing Services
 https://docs.python.org/3/library/text.html
@@ -709,9 +723,6 @@ https://docs.python.org/3/library/html.parser.html#htmlparser-methods
 https://docs.python.org/3/library/html.parser.html#examples
 https://docs.python.org/3/library/html.entities.html
 
-14. File Formats
-https://docs.python.org/3/library/fileformats.html
-
 
 22.22. http.server — HTTP servers
 22.23. http.cookies — HTTP state management
@@ -721,11 +732,6 @@ Not recommended for production
 https://docs.python.org/3/library/http.server.html
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
-
-
-22.5. urllib — URL handling modules
-
-https://docs.python.org/3/library/urllib.html
 
 
 ## Data Model
