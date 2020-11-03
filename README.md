@@ -909,6 +909,7 @@ https://twitter.com/webKnjaZ/status/1285214525629833217 | Sviatoslove.py🐍 �
 
 Sustain OSS
 https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
 
 https://twitter.com/webology/status/1279787307156017152 | Jeff says, "wear a mask" 😷 on Twitter: ""Request for Maintainers" looks promising." / Twitter
 http://rfm.sospedra.me/?ref=betalist#/
@@ -926,46 +927,63 @@ https://twitter.com/seb_ruder/status/1114182134506430464 | Sebastian Ruder on Tw
 Email Git
 https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
 
-Martin
-https://martinfowler.com/articles/branching-patterns.html#ComparingFeatureBranchingAndContinuousIntegration
-https://martinfowler.com/articles/branching-patterns.html#feature-branching
-
 https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
 
 https://www.atlassian.com/agile/
-https://www.atlassian.com/git/tutorials/
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
+
 https://blog.digitalocean.com/documentation-as-an-open-source-practice/ | Documentation as an Open Source Practice
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
 https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects | How To Maintain Open-Source Software Projects | DigitalOcean
 
 ## OS
 
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-https://github.com/nayafia/awesome-maintainers | nayafia/awesome-maintainers: Talks, blog posts, and interviews about the experience of being an open source maintainer
-https://github.com/matiassingers/awesome-readme | matiassingers/awesome-readme: A curated list of awesome READMEs
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
 
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://github.com/github/maturity-model | github/maturity-model: A maturity model for adopting open source
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+
+Chaoss
+https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
+
+Survey
 https://www.tidelift.com/subscription/2020-managed-open-source-survey
 
+README
+https://github.com/soimort/you-get
+
+Example
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+Versioning
 https://twitter.com/idangazit/status/1313521574171955200
 
 All repos
 https://twitter.com/gr2m/status/1298766872863600641 | https://twitter.com/gr2m/status/1298766872863600641
 
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
 
 https://opensourcedesign.net/goals/ | Goals - Open Source Design
 
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
 https://github.com/jamstack/jamstack.org
-https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
-https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
-https://twitter.com/mojombo/status/1313572403595759616
-https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter: "✨ Today at 1pm PST ✨ @mojombo and members of the @redwoodjs core team are live-streaming a Fireside chat during the JS Bootcamp Olympics. Free and Everyone’s invited! https://t.co/i8YLrsj00l" / Twitter
 
 
 ## OS
@@ -973,31 +991,10 @@ https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter:
 Important
 https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9 | Open Source is Not About You
 
-Chaoss
-https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
-
-Repeat
-https://github.com/github/maturity-model | github/maturity-model: A maturity model for adopting open source
-
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-GitHub
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
-
 Octokit
 https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
 https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
 https://github.com/octokit/?q=project&type=&language= | Octokit
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
 
 Kubernetes
 mongodb/brew/mongodb-community - Google Search
@@ -1013,11 +1010,6 @@ https://blog.tidelift.com/what-are-your-organizations-open-source-standards | Wh
 https://blog.tidelift.com
 https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
 https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
 
 Todo
 https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
@@ -1138,6 +1130,36 @@ https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on T
 
 http://www.paulgraham.com/talk.html | Write Like You Talk
 https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
+-->
+
+## Technical Writing- More Stuff
+
+<!--
+https://en.wikipedia.org/wiki/Five_Ws
+
+https://github.com/jnordberg/wintersmith/wiki/Showcase
+
+http://www.writethedocs.org/
+https://github.com/writethedocs/www
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
+
+https://twitter.com/thoward37/status/1227286141537144832
+https://abookapart.com/products/everyday-information-architecture
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
+
+2017 Open Source Survey
+https://opensourcesurvey.org/2017/
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 -->
 
 ## Website and Blog Resources
@@ -1831,6 +1853,62 @@ Product Hunt Maker Leader Boards
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
 
+
+## Orgs
+
+General Open Source Sites
+* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Dot Com](https://opensource.com)
+
+Foundations
+* [Choose A Foundation](http://chooseafoundation.com/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Apache Foundation](https://www.apache.org/foundation/)
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [JavaScript Foundation](https://js.foundation/)
+* [Open JavaScript Foundation](https://openjsf.org/)
+* [Node Foundation](https://foundation.nodejs.org/)
+
+Important Orgs
+* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [TODO Group](https://todogroup.org/)
+
+<!--
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://choosealicense.com/ | Choose an open source license | Choose a License
+
+"OSI Approved License" badge
+https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
+
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+JS
+https://twitter.com/openjsf
+
+CNCF
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
+
+https://www.eff.org
+https://www.redhat.com
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+-->
+
+
 ## Project Ideas and Learning Resources
 
 Stars
@@ -1888,19 +1966,6 @@ Trey Hunner
 
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-<!--
-People
-https://www.twitch.tv/directory/following
-
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
-https://github.com/orgs/maintainers/people
-
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
--->
 
 <!--
 Digital Ocean
@@ -2009,6 +2074,7 @@ https://glitch.com/culture/looky-what-we-made | Looky What We Made
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 
+
 * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
 
 https://github.com/search?q=top+python | Search · top python
@@ -2032,6 +2098,20 @@ https://github.com/search?q=instagram
 https://github.com/search?q=twitter
 https://github.com/search?q=slack
 https://github.com/search?q=hacker+news
+-->
+
+
+<!--
+People
+https://www.twitch.tv/directory/following
+
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
 
 
 GitHub Python
@@ -2044,9 +2124,6 @@ https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
 https://popular-github-repos.github.io/
 https://github.com/popular-github-repos/popular-github-repos.github.io
-
-README
-https://github.com/soimort/you-get
 
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
@@ -4290,7 +4367,26 @@ GitHub Community
 * [GitHub Community](https://github.community/)
 
 <!--
+https://git-scm.com/docs
+https://git-scm.com/docs/git-status
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
+
+
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+
+https://github.com/blog/967-github-secrets | GitHub Secrets
+
+https://github.com/benbalter/github-mention-highlighter
+https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
+https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
+
+http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
+
+https://github.com/github/rest-api-description
+
 
 https://github.com/blog/2464-use-any-theme-with-github-pages | Use any theme with GitHub Pages
 https://github.com/topics/jekyll-theme | Topic: jekyll-theme
@@ -4299,15 +4395,8 @@ https://cli.github.com/
 https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
 
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
-
-https://git-scm.com/docs
-https://git-scm.com/docs/git-status
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
-https://www.atlassian.com/git/tutorials/saving-changes/git-stash | git stash - Saving Changes | Atlassian Git Tutorial
-
-https://stackoverflow.com/questions/1587846/how-do-i-show-the-changes-which-have-been-staged | git - How do I show the changes which have been staged? - Stack Overflow
 -->
+
 
 <!--
 https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
@@ -4322,6 +4411,7 @@ https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/7
 https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
 
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
 
 ADR
 https://github.blog/2020-08-13-why-write-adrs/
@@ -4387,6 +4477,7 @@ https://github.com/opensourceway/open-decision-framework
 https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZSR0o/edit#slide=id.p4 | Open-decision-framework-P4 - Google Slides
 https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
 -->
+
 
 <!--
 3 methods
@@ -4483,6 +4574,8 @@ https://opensource.microsoft.com/program/#program-contributing
 http://anonymoushash.vmbrasseur.com
 https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
 
+https://github.com/adobe/open-development-template
+
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
@@ -4490,8 +4583,6 @@ https://saracope.github.io/shaping-the-contributor-experience/
 https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
 
 https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
-https://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
 
 https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
 
@@ -4522,52 +4613,6 @@ https://opensource.guide/leadership-and-governance/
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
-
-<!--
-Doc Examples
-
-https://twitter.com/gr2m/status/1260706056398749696
-https://deno.land/manual/contributing
-
-Docs
-pip for Python on Windows
-https://twitter.com/simonw/status/1243297680886870017
-https://projects.raspberrypi.org/en/projects/using-pip-on-windows
-
-
-Very interested- Postmortem
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-https://github.com/danluu/post-mortems
-
-README, Styleguide
-* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
-* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
-* [Guides GitHub](https://github.com/NARKOZ/guides)
-* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
-
-Templates
-https://github.com/TalAter/open-source-templates | TalAter/open-source-templates: Issue and Pull Request Template Generator featuring Chtulhu and Lewis Carroll
-https://www.talater.com/open-source-templates/#/
-
-Docs
-https://github.com/kylelobo/The-Documentation-Compendium | kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-
-https://github.com/kbariotis/templates
-https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS
-
-CODE_OF_CONDUCT
-https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
-https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
-https://github.com/VarCI/inspiring-github-templates
-
-Wiki
-https://github.com/mongodb/mongo/wiki
-
-https://github.com/adobe/open-development-template
-
-https://github.com/sponsors/chrissimpkins | Sponsor @chrissimpkins on GitHub Sponsors
--->
-
 
 ## General Software Design Patterns
 
@@ -5001,46 +5046,6 @@ GH Learning Lab
 https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
 
 https://github.com/features/insights | Features · Insights
-
-https://github.com/blog/967-github-secrets | GitHub Secrets
-
-https://github.com/benbalter/github-mention-highlighter
-https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
-https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/ | GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog
-
-http://docs-playground.herokuapp.com/using-node-js-with-github-actions | docs-playground.herokuapp.com/using-node-js-with-github-actions
-
-https://github.com/github/rest-api-description
--->
-
-## Technical Writing- General
-
-<!--
-https://en.wikipedia.org/wiki/Five_Ws
-
-https://github.com/jnordberg/wintersmith/wiki/Showcase
-
-http://www.writethedocs.org/
-https://github.com/writethedocs/www
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-https://twitter.com/thoward37/status/1227286141537144832
-https://abookapart.com/products/everyday-information-architecture
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 -->
 
 ## GitHub Security
@@ -5120,60 +5125,6 @@ Company or Organization Specific Git Workflows
 
 <!--
 https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
--->
-
-## Orgs
-
-General Open Source Sites
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
-
-Foundations
-* [Choose A Foundation](http://chooseafoundation.com/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
-* [Linux Foundation](https://www.linuxfoundation.org/)
-* [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
-* [JavaScript Foundation](https://js.foundation/)
-* [Open JavaScript Foundation](https://openjsf.org/)
-* [Node Foundation](https://foundation.nodejs.org/)
-
-Important Orgs
-* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
-* [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
-
-<!--
-https://joss.theoj.org/ | Journal of Open Source Software
-http://jmlr.org/ | Journal of Machine Learning Research Homepage
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://choosealicense.com/ | Choose an open source license | Choose a License
-
-"OSI Approved License" badge
-https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
-
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-JS
-https://twitter.com/openjsf
-
-CNCF
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
-
-https://www.eff.org
-https://www.redhat.com
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
 -->
 
 ## Authority Figures and Books
