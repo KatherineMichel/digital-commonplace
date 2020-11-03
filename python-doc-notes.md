@@ -79,17 +79,12 @@ https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
 https://docs.python.org/3/library/email.html#module-email
 https://docs.python.org/3/library/poplib.html#module-poplib
 
-https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
-https://docs.python.org/3/library/xml.dom.html#module-xml.dom
-https://docs.python.org/3/library/xml.sax.html#module-xml.sax
-
 10.12. Batteries Included
 10.7. Internet Access
 https://docs.python.org/3/library/smtplib.html#module-smtplib
 
 10.7. Internet Access
 https://docs.python.org/3/tutorial/stdlib.html#internet-access
-https://docs.python.org/3/library/urllib.request.html#module-urllib.request
 
 urllib
 https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
@@ -245,6 +240,8 @@ https://docs.python.org/3/library/zipimport.html
 https://docs.python.org/3/library/zipimport.html#zipimporter-objects
 https://docs.python.org/3/library/zipimport.html#examples
 
+
+pip
 29.2. ensurepip — Bootstrapping the pip installer
 https://docs.python.org/3/library/ensurepip.html
 https://docs.python.org/3/library/ensurepip.html#command-line-interface
@@ -299,17 +296,11 @@ https://docs.python.org/3/library/stdtypes.html#the-ellipsis-object
 4.7.6. Documentation Strings
 https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
 
-12.4. marshal — Internal Python object serialization
-https://docs.python.org/3/library/marshal.html
-
 
 ## Python and Django Testing
 
 27.2. pydoc — Documentation generator and online help system
 https://docs.python.org/3/library/pydoc.html
-
-27.3. doctest — Test interactive Python examples
-https://docs.python.org/3/library/doctest.html
 -->
 
 
