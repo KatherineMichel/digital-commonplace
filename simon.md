@@ -15,7 +15,8 @@ https://sqlite.org/mostdeployed.html
 https://github.com/simonw/datasette/discussions/990 | Potential new elevator pitch / tagline for Datasette: The best way to publish data online · Discussion #990 · simonw/datasette
 
 Dogsheep
-https://twitter.com/amjithr/status/1181315692311789568 | Amjith on Twitter: "One of the most information dense blog posts I've seen in a while. I now have at least 10 links to dig into. Thank you for posting your progress. This is awesome!! https://t.co/DMfhxJdwUl" / Twitter
+https://simonwillison.net/2019/Oct/7/dogsheep/
+https://twitter.com/simonw/status/1181292173020368896
 
 Personal Data Warehouse
 https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
