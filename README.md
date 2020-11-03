@@ -2730,6 +2730,9 @@ https://github.com/robclewley/pydstool
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 <!--
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+
+
 https://realpython.com/python-web-scraping-practical-introduction/
 
 https://docs.python.org/3/library/webbrowser.html
@@ -2749,7 +2752,12 @@ https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57
 
 https://developer.mozilla.org/en-US/docs/Web/XPath
 https://docs.python.org/3/library/json.html
+
+XML
 https://docs.python.org/3/library/xml.etree.elementtree.html
+https://docs.python.org/3/library/xml.dom.html
+https://docs.python.org/3/library/xml.sax.html
+
 https://docs.python.org/3/library/html.parser.html
 
 https://schema.org/docs/schemas.html | Schemas - schema.org
