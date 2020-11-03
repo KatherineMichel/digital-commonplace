@@ -596,6 +596,17 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+https://substack.com/ | Substack
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+
+
+
 ## Public Speaking
 
 https://github.com/matteofigus/awesome-speaking
@@ -659,23 +670,6 @@ Language
 https://twitter.com/jesstelford/status/992756386160234497
 
 
-https://www.redhat.com/
-https://www.redhat.com/en/blog
-https://www.atlassian.com/blog/
-
-https://thenewstack.io
-
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
-
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-https://substack.com/ | Substack
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-
-
-
 Sid
 https://twitter.com/changelog/status/1276514876228284417
 
@@ -711,9 +705,6 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
-
-Deck
-https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
 
 Docs driven dev
 Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
@@ -1731,36 +1722,70 @@ Important Orgs
 * [TODO Group](https://todogroup.org/)
 
 <!--
-https://joss.theoj.org/ | Journal of Open Source Software
-http://jmlr.org/ | Journal of Machine Learning Research Homepage
+https://twitter.com/SustainOSS/
 
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+https://www.openapis.org/
 
-https://choosealicense.com/ | Choose an open source license | Choose a License
+https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
 
-"OSI Approved License" badge
-https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
+Continuous Delivery Foundation
+https://cd.foundation/
+
+https://opensource.googleblog.com/
+
+
+https://numfocus.org/
+
+https://www.redhat.com
+https://www.redhat.com/en/blog
+https://access.redhat.com/documentation/en-us/
+https://developers.redhat.com/blog
+https://www.atlassian.com/blog/
+
+Kubernetes
+https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
+https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
+
+https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+
+GNOME Foundation
+https://blogs.gnome.org
+
+https://www.fsf.org/blogs/
+http://ftp.gnu.org
+http://gcc.gnu.org
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+
+ACM Library
+https://www.acm.org/
+https://dl.acm.org/
+
+https://www.linux.com/
+https://lwn.net/
+
+https://www.eff.org
+
+Recurse Center
+https://www.recurse.com/
 
 Foundations
 https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
 
-JS
-https://twitter.com/openjsf
-
 CNCF
+https://github.com/cncf/
+https://www.cncf.io/blog/
 https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
 https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/ | A Guide to Untangling the CNCF Cross-Community Relationships - Cloud Native Computing Foundation
 
 OS Security
 https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-https://opensource.googleblog.com/2020/08/google-joins-open-source-security.html | Google joins the Open Source Security Foundation | Google Open Source Blog
 
-https://www.eff.org
-https://www.redhat.com
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
 -->
 
 
@@ -1957,6 +1982,8 @@ https://github.com/search?q=hacker+news
 
 
 <!--
+https://thenewstack.io
+
 People
 https://www.twitch.tv/directory/following
 
