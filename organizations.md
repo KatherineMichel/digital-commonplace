@@ -92,15 +92,15 @@ https://github.com/customer-stories/nationwide
 https://github.com/18F/
 
 Interesting!
-https://github.com/adidas
-https://github.com/adobe
+* [Adidas](https://github.com/adidas) 
+* [Adobe](https://github.com/adobe) 
 
-ALG
-https://github.com/TrueCar
+* [True Car](https://github.com/TrueCar) 
+* [Babylon Health](https://github.com/bankofamerica) 
+* [Bank of America](https://github.com/bankofamerica) 
+* [Booz Allen](https://github.com/boozallen) 
+* [Booz Allen Hamilton](https://github.com/booz-allen-hamilton) 
 
-https://github.com/babylonhealth
-
-https://github.com/bankofamerica
 https://github.com/chmarz/API-guidelines
 Bloomberg
 https://github.com/BMW-InnovationLab
@@ -108,22 +108,16 @@ https://github.com/bmwcarit
 https://github.com/goboomtown
 
 Consultant
-https://github.com/boozallen
-https://github.com/booz-allen-hamilton
 https://github.com/booz-allen-hamilton/agile-playbook
 https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
 
-https://github.com/box
 https://github.com/box-community
 https://github.com/box-samples
 https://github.com/box-community
 
-https://github.com/braintree
-https://github.com/braintree-go/braintree-go
-
-https://github.com/ImaginaryLandscape
-
-https://github.com/capitalone
+* [Box](https://github.com/box) 
+* [Braintree](https://github.com/braintree) 
+* [Capital One](https://github.com/capitalone) 
 
 https://github.com/CenturyLinkCloud
 https://github.com/CenturyLink
@@ -143,10 +137,10 @@ https://github.com/DevNetSandbox
 https://github.com/Coffee-Meets-Bagel
 https://github.com/coinsquare
 
-https://github.com/Comcast
 https://github.com/ComcastSamples
 
-https://github.com/creditkarma
+* [Comcase](https://github.com/Comcast) 
+* [Credit Karma](https://github.com/creditkarma) 
 
 https://github.com/NVIDIA/DIGITS
 https://github.com/deliveryhero
@@ -160,45 +154,41 @@ https://github.com/DeloitteDigital
 https://github.com/DeloitteDigitalAPAC
 https://github.com/DeloitteDigitalAT
 
-https://github.com/digitalocean
+* [DigitalOcean](https://github.com/digitalocean) 
 
 https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
 https://github.com/dolbyio
 
-https://github.com/dowjones
-
-Hosting
-https://github.com/dreamhost
+* [Dow Jones](https://github.com/dowjones) 
+* [DreamHost](https://github.com/dreamhost) 
+* [edX](https://github.com/edx) 
 
 Learning
-https://github.com/edx
 https://github.com/edx/edx-platform
 
-https://github.com/EllieMae
-https://github.com/Ericsson
-
-https://github.com/FannieMaeOpenSource
+* [Ellie Mae](https://github.com/EllieMae) 
+* [Ericsson](https://github.com/Ericsson) 
+* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
 
 https://github.com/python-fedex-devs
 
-https://github.com/freshbooks
-https://github.com/boston-dynamics
-https://github.com/GeneralMills
-https://github.com/gmfinancial
+* [FreshBooks](https://github.com/freshbooks) 
+* [Boston Dynamics](https://github.com/boston-dynamics) 
+* [General Mills](https://github.com/GeneralMills) 
+* [GM Financial](https://github.com/gmfinancial) 
+* [Goodyear](https://github.com/goodyear) 
+* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
+* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
 
-Hardware
-https://github.com/goodyear
-
-https://github.com/hewlettpackard/
-https://github.com/HPE
 https://github.com/HPENetworking
 https://github.com/hpe-storage
 
 https://github.com/watson-developer-cloud/
 
+* [Intel](https://github.com/intel) 
+
 Famous
-https://github.com/intel
 https://github.com/IntelSoftware
 https://github.com/IntelLabs
 https://github.com/IntelPython
@@ -207,29 +197,22 @@ https://github.com/IntelRealSense
 https://github.com/intuit
 https://github.com/IntuitDeveloper
 
-https://github.com/iovation
-https://github.com/istrategylabs
+* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
 
 https://github.com/nasa-jpl
 https://github.com/nasajpl
 
-https://github.com/JetBrains
-https://github.com/JohnDeere
+* [JetBrains](https://github.com/JetBrains) 
+* [John Deere](https://github.com/JohnDeere) 
 
 https://github.com/juniper
 https://github.com/JNPRAutomate
 
-https://github.com/Kaggle
-
-Django
-https://github.com/labcorp
-
-https://github.com/LexisNexis
-
-https://github.com/magicleap
-https://github.com/MagicLeapDevs/
-
-https://github.com/managedbyq
+* [Kaggle](https://github.com/Kaggle) 
+* [LexisNexis](https://github.com/LexisNexis) 
+* [Magic Leap](https://github.com/magicleap) 
+* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
+* [Managed by Q](https://github.com/managedbyq) 
 
 MIT
 https://github.com/mit
@@ -244,12 +227,11 @@ And other MIT I didn't list
 
 Microsoft
 
-https://github.com/mozilla-mobile/
+* [Mozilla Mobile](https://github.com/mozilla-mobile/) 
 
-https://github.com/libertymutual
-
-https://github.com/nbcuniversal
-https://github.com/nbcnews
+* [Liberty Mutual Insurance](https://github.com/libertymutual) 
+* [NBC Universal](https://github.com/nbcuniversal) 
+* [NBC News Digital](https://github.com/nbcnews) 
 
 https://github.com/netapp/
 https://github.com/NetAppDocs
@@ -260,6 +242,7 @@ https://github.com/nytimes
 https://github.com/nielsen-oss
 
 https://github.com/usnistgov
+
 https://github.com/northwesternmutual
 https://github.com/oreillymedia
 
@@ -309,37 +292,27 @@ https://github.com/SAPDocuments
 https://github.com/Semmle
 https://github.com/flatironinstitute
 
-https://github.com/sony
+* [Sony](https://github.com/sony) 
+
 https://github.com/SonyWWS
 https://github.com/SNSystems
 
-https://github.com/StateFarmIns
-https://github.com/StateFarmInsCodingCompetition
-
-https://github.com/TexasInstruments
-https://github.com/homedepot
-https://github.com/homedepot/opensource-corebeliefs
-https://homedepot.github.io/
-
-Disney
-https://github.com/disney
-https://github.com/wdas
+* [State Farm](https://github.com/StateFarmIns) 
+* [Texas Instruments](https://github.com/TexasInstruments) 
+* [Home Depot](https://github.com/homedepot) 
+* [Disney](https://github.com/disney) 
+* [Walt Disney Animation Studios](https://github.com/wdas) 
 
 https://github.com/thoughtworks
 https://github.com/ThoughtWorksInc
 https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
 
-https://github.com/palantir/
-
-https://github.com/venmo
-
-https://github.com/VerizonMedia
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
-
-https://github.com/volkswagen
-https://github.com/Vonage
+* [Palantir](https://github.com/palantir/) 
+* [Venmo](https://github.com/venmo) 
+* [Verizon Media](https://github.com/VerizonMedia) 
+* [Volkswagen](https://github.com/volkswagen) 
+* [Vonage](https://github.com/Vonage) 
 
 https://github.com/wayfair-contribs
 https://github.com/wayfair-archive
@@ -348,9 +321,26 @@ https://github.com/yandexdataschool
 https://github.com/yandex-cloud
 https://github.com/doochik/yandex-opensource
 
-https://github.com/yubico
-https://github.com/ZipRecruiter
+* [Yubico](https://github.com/yubico) 
+* [ZipRecruiter](https://github.com/ZipRecruiter) 
 
+
+
+Agency
+https://github.com/istrategylabs
+Django
+https://github.com/labcorp
+
+https://github.com/braintree-go/braintree-go
+https://github.com/ImaginaryLandscape
+
+https://github.com/StateFarmInsCodingCompetition
+
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
 -->
 
 
