@@ -1,9 +1,10 @@
 # Organizations
 
 <!--
+https://github.com/DataDog | Datadog, Inc.
+
 https://github.com/zapier | Zapier
 https://github.com/unsplash/datasets
-https://github.com/ThoughtWorksStudios
 
 https://github.com/lifechurch | Life.Church
 https://github.com/micnews/
@@ -15,8 +16,6 @@ https://github.com/defcon201/
 https://github.com/historicalsource | historicalsource (Historical Source)
 https://mobile.twitter.com/OpenSFHistory
 
-https://github.com/RedHatInsights | cloud.redhat.com
-
 https://github.com/atlassian-labs | Atlassian Labs
 
 https://github.com/gettyimages | Getty Images
@@ -24,7 +23,7 @@ https://github.com/gettyimages | Getty Images
 https://github.com/NHSX
 
 https://github.com/cumulusnetworks/ | Cumulus Networks
-https://github.com/DataDog | Datadog, Inc.
+
 https://github.com/Hacker0x01/
 https://github.com/HangarOrg/
 
@@ -143,9 +142,10 @@ https://github.com/ComcastSamples
 * [Credit Karma](https://github.com/creditkarma) 
 
 https://github.com/NVIDIA/DIGITS
-https://github.com/deliveryhero
 
-https://github.com/dell
+* [Delivery Hero SE](https://github.com/deliveryhero) 
+* [Dell Technologies](https://github.com/dell) 
+
 https://github.com/Dell-Networking
 
 https://github.com/Deloitte
@@ -163,10 +163,7 @@ https://github.com/dolbyio
 * [Dow Jones](https://github.com/dowjones) 
 * [DreamHost](https://github.com/dreamhost) 
 * [edX](https://github.com/edx) 
-
-Learning
-https://github.com/edx/edx-platform
-
+* [edX Platform](https://github.com/edx/edx-platform) 
 * [Ellie Mae](https://github.com/EllieMae) 
 * [Ericsson](https://github.com/Ericsson) 
 * [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
@@ -243,13 +240,11 @@ https://github.com/nielsen-oss
 
 https://github.com/usnistgov
 
-https://github.com/northwesternmutual
-https://github.com/oreillymedia
-
-https://github.com/oracle
-https://github.com/oracle-quickstart
-
-https://github.com/PagerDuty
+* [Northwestern Mutual](https://github.com/northwesternmutual) 
+* [O'Reilly Media](https://github.com/oreillymedia) 
+* [Oracle](https://github.com/oracle) 
+* [Oracle Quick Start](https://github.com/oracle-quickstart) 
+* [PagerDuty](https://github.com/PagerDuty) 
 
 Pearson
 https://github.com/Pearson-Higher-Ed
@@ -257,19 +252,13 @@ https://github.com/PearsonEducation
 https://github.com/pearsontechnology
 https://github.com/pearson-ux
 
-https://github.com/plangrid
-
-Learning
-https://github.com/pluralsight
-https://github.com/pluralsight-projects
-
-https://github.com/Progressive-Insurance
-https://github.com/Progressive
-
-https://github.com/QuIC
-https://github.com/Quansight
-https://github.com/Quansight-Labs
-https://github.com/QuickenLoans
+* [PlanGrid](https://github.com/plangrid) 
+* [Pluralsight](https://github.com/pluralsight) 
+* [Pluralsight Projects](https://github.com/pluralsight-projects) 
+* [Progressive Insurance](https://github.com/Progressive-Insurance) 
+* [Progressive Insurance](https://github.com/Progressive) 
+* [Qualcomm Innovation Center](https://github.com/QuIC) 
+* [Quicken Loans](https://github.com/QuickenLoans) 
 
 https://github.com/rackerlabs
 https://github.com/racker
@@ -279,6 +268,7 @@ https://github.com/RedHatOfficial
 https://github.com/redhat-developer
 https://github.com/RedHatGov
 https://github.com/redhat-cop
+https://github.com/RedHatInsights | cloud.redhat.com
 
 https://github.com/reddit-archive/reddit
 
@@ -293,10 +283,8 @@ https://github.com/Semmle
 https://github.com/flatironinstitute
 
 * [Sony](https://github.com/sony) 
-
-https://github.com/SonyWWS
-https://github.com/SNSystems
-
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+* [SN Systems](https://github.com/SNSystems) 
 * [State Farm](https://github.com/StateFarmIns) 
 * [Texas Instruments](https://github.com/TexasInstruments) 
 * [Home Depot](https://github.com/homedepot) 
@@ -330,6 +318,9 @@ Agency
 https://github.com/istrategylabs
 Django
 https://github.com/labcorp
+
+https://github.com/Quansight
+https://github.com/Quansight-Labs
 
 https://github.com/braintree-go/braintree-go
 https://github.com/ImaginaryLandscape
