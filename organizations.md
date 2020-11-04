@@ -65,9 +65,10 @@ Interesting!
 * [Adobe](https://github.com/adobe) 
 
 https://github.com/chmarz/API-guidelines
-Bloomberg
+
 https://github.com/BMW-InnovationLab
 https://github.com/bmwcarit
+
 https://github.com/goboomtown
 
 https://github.com/Coffee-Meets-Bagel
@@ -212,8 +213,6 @@ https://github.com/hpe-storage
 IBM
 https://github.com/watson-developer-cloud/
 
-* [Intel](https://github.com/intel) 
-
 https://github.com/IntelSoftware
 https://github.com/IntelLabs
 https://github.com/IntelPython
@@ -353,12 +352,7 @@ Companies that Use Python
 * [Mozilla IoT](https://github.com/mozilla-iot)
 * [Mozilla Services](https://github.com/mozilla-services)
 
-* [Elastic](https://github.com/elastic)
-
 * [Grubhub](https://github.com/grubhub) 
-
-* [IBM](https://github.com/IBM)  
-* [IBM Cloud](https://github.com/IBM-Cloud)
 
 * [Indeed](https://github.com/indeedeng)
 * [Lululemon](https://github.com/Lululemon)
@@ -372,6 +366,14 @@ DevRel
 
 
 ## Python
+
+### Infrastructure and Other
+
+* [Elastic](https://github.com/elastic)
+* [IBM](https://github.com/IBM)  
+* [IBM Cloud](https://github.com/IBM-Cloud)
+* [Intel](https://github.com/intel) 
+* [SAP](https://github.com/SAP)  
 
 ### Not Classified Yet
 
@@ -729,6 +731,7 @@ Azure
 * [Yahoo!](https://github.com/yahoo) 
 * [Yandex](https://github.com/yandex)
 
+
 ## Tools
 
 ### DevOps and Project Management
@@ -751,25 +754,18 @@ Azure
 * [CloudFlare](https://github.com/cloudflare)
 * [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
 * [Couchbase Labs](https://github.com/couchbaselabs)  
-* [Digital Ocean](https://github.com/digitalocean)
 * [Docker](https://github.com/docker)
 * [Docker Library](https://github.com/docker-library)
-* [Elastic](https://github.com/elastic)
 * [Firebase](https://github.com/firebase)
 * [HashiCorp](https://github.com/hashicorp)
 * [Heroku](https://github.com/heroku)  
 * [Heroku Examples](https://github.com/heroku-examples)
-* [IBM](https://github.com/IBM)  
-* [IBM Cloud](https://github.com/IBM-Cloud)
-* [Intel](https://github.com/intel) 
 * [Kubernetes Incubator](https://github.com/kubernetes-incubator)
 * [OpenShift](https://github.com/openshift)
 * [Opera Software](https://github.com/operasoftware)
 * [PostgreSQL](https://github.com/postgres)
-* [SAP](https://github.com/SAP)  
 * [Ubuntu](https://github.com/ubuntu)
 * [VMware](https://github.com/vmware)
-
 
 ## Companies by Subject
 
