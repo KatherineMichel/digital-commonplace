@@ -83,12 +83,6 @@ https://github.com/python-fedex-devs
 
 * [JetBrains](https://github.com/JetBrains) 
 
-https://github.com/DolbyLaboratories
-https://github.com/DolbyDev
-https://github.com/dolbyio
-
-* [Juniper Networks](https://github.com/juniper) 
-* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 * [Kaggle](https://github.com/Kaggle) 
 
 * [Managed by Q](https://github.com/managedbyq) 
@@ -185,6 +179,13 @@ Telecomm
 * [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
 * [SN Systems](https://github.com/SNSystems) 
 * [Vonage](https://github.com/Vonage) 
+
+https://github.com/DolbyLaboratories
+https://github.com/DolbyDev
+https://github.com/dolbyio
+
+* [Juniper Networks](https://github.com/juniper) 
+* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 
 https://github.com/cisco
 https://github.com/CiscoDevNet
