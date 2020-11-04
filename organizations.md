@@ -64,9 +64,6 @@ Interesting!
 * [Adidas](https://github.com/adidas) 
 * [Adobe](https://github.com/adobe) 
 
-* [True Car](https://github.com/TrueCar) 
-* [Babylon Health](https://github.com/bankofamerica) 
-
 https://github.com/chmarz/API-guidelines
 Bloomberg
 https://github.com/BMW-InnovationLab
@@ -88,35 +85,19 @@ https://github.com/coinsquare
 https://github.com/NVIDIA/DIGITS
 
 * [Delivery Hero SE](https://github.com/deliveryhero) 
+
 * [Dell Technologies](https://github.com/dell) 
-
-https://github.com/Dell-Networking
-
-https://github.com/Deloitte
-https://github.com/DeloitteDigitalUK
-https://github.com/DeloitteDigital
-https://github.com/DeloitteDigitalAPAC
-https://github.com/DeloitteDigitalAT
-
-* [DigitalOcean](https://github.com/digitalocean) 
+* [Dell Networking](https://github.com/Dell-Networking) 
 
 https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
 https://github.com/dolbyio
 
-* [Dow Jones](https://github.com/dowjones) 
-* [DreamHost](https://github.com/dreamhost) 
-
-* [Ellie Mae](https://github.com/EllieMae) 
-* [Ericsson](https://github.com/Ericsson) 
-* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
-
 https://github.com/python-fedex-devs
 
 * [FreshBooks](https://github.com/freshbooks) 
 * [Boston Dynamics](https://github.com/boston-dynamics) 
-* [GM Financial](https://github.com/gmfinancial) 
-* [Goodyear](https://github.com/goodyear) 
+
 * [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
 * [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
 
@@ -218,7 +199,6 @@ https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
 
 * [Verizon Media](https://github.com/VerizonMedia) 
-* [Volkswagen](https://github.com/volkswagen) 
 
 Telecomm
 * [Vonage](https://github.com/Vonage) 
@@ -236,6 +216,30 @@ https://github.com/doochik/yandex-opensource
 markel corporation!
 
 nbc universal
+
+
+Hosting
+* [DigitalOcean](https://github.com/digitalocean) 
+* [DreamHost](https://github.com/dreamhost) 
+* [GoDaddy](https://github.com/godaddy)
+
+Finance
+* [Dow Jones](https://github.com/dowjones) 
+* [Ellie Mae](https://github.com/EllieMae) 
+* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
+* [GM Financial](https://github.com/gmfinancial) 
+
+Transport
+* [Goodyear](https://github.com/goodyear) 
+* [True Car](https://github.com/TrueCar) 
+* [Volkswagen](https://github.com/volkswagen) 
+
+Healthcare
+* [Babylon Health](https://github.com/babylonhealth) 
+
+Telecomm
+* [Ericsson](https://github.com/Ericsson) 
+
 
 https://github.com/ImaginaryLandscape
 -->
@@ -344,11 +348,10 @@ Companies that Use Python
 
 * [Ford](https://github.com/Ford)
 
-* [GoDaddy](https://github.com/godaddy)
-
 * [Grubhub](https://github.com/grubhub) 
 * [IBM](https://github.com/IBM)  
 * [IBM Cloud](https://github.com/IBM-Cloud)
+
 * [Indeed](https://github.com/indeedeng)
 * [Lululemon](https://github.com/Lululemon)
 
@@ -499,6 +502,14 @@ DevRel
 * [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
 * [Booz Allen](https://github.com/boozallen)
 * [Deloitte Solutions](https://github.com/DeloitteSolutions)
+
+<!--
+https://github.com/Deloitte
+https://github.com/DeloitteDigitalUK
+https://github.com/DeloitteDigital
+https://github.com/DeloitteDigitalAPAC
+https://github.com/DeloitteDigitalAT
+-->
 
 ### Investment- Python
 
