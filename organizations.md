@@ -3,7 +3,6 @@
 <!--
 https://github.com/DataDog | Datadog, Inc.
 
-https://github.com/zapier | Zapier
 https://github.com/unsplash/datasets
 
 https://github.com/lifechurch | Life.Church
@@ -56,6 +55,214 @@ DjangoCon sponsors
 https://2018.djangocon.us/sponsors/
 -->
 
+<!--
+https://github.com/customer-stories/nationwide
+
+https://github.com/18F/
+
+Interesting!
+* [Adidas](https://github.com/adidas) 
+* [Adobe](https://github.com/adobe) 
+
+* [True Car](https://github.com/TrueCar) 
+* [Babylon Health](https://github.com/bankofamerica) 
+
+https://github.com/chmarz/API-guidelines
+Bloomberg
+https://github.com/BMW-InnovationLab
+https://github.com/bmwcarit
+https://github.com/goboomtown
+
+https://github.com/cisco
+https://github.com/CiscoDevNet
+https://github.com/CiscoSystems
+https://github.com/CiscoSE
+https://github.com/CiscoSecurity
+https://github.com/datacenter
+https://github.com/CiscoTestAutomation
+https://github.com/DevNetSandbox
+
+https://github.com/Coffee-Meets-Bagel
+https://github.com/coinsquare
+
+https://github.com/NVIDIA/DIGITS
+
+* [Delivery Hero SE](https://github.com/deliveryhero) 
+* [Dell Technologies](https://github.com/dell) 
+
+https://github.com/Dell-Networking
+
+https://github.com/Deloitte
+https://github.com/DeloitteDigitalUK
+https://github.com/DeloitteDigital
+https://github.com/DeloitteDigitalAPAC
+https://github.com/DeloitteDigitalAT
+
+* [DigitalOcean](https://github.com/digitalocean) 
+
+https://github.com/DolbyLaboratories
+https://github.com/DolbyDev
+https://github.com/dolbyio
+
+* [Dow Jones](https://github.com/dowjones) 
+* [DreamHost](https://github.com/dreamhost) 
+
+* [Ellie Mae](https://github.com/EllieMae) 
+* [Ericsson](https://github.com/Ericsson) 
+* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
+
+https://github.com/python-fedex-devs
+
+* [FreshBooks](https://github.com/freshbooks) 
+* [Boston Dynamics](https://github.com/boston-dynamics) 
+* [GM Financial](https://github.com/gmfinancial) 
+* [Goodyear](https://github.com/goodyear) 
+* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
+* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
+
+https://github.com/HPENetworking
+https://github.com/hpe-storage
+
+https://github.com/watson-developer-cloud/
+
+* [Intel](https://github.com/intel) 
+
+Famous
+https://github.com/IntelSoftware
+https://github.com/IntelLabs
+https://github.com/IntelPython
+https://github.com/Intel-bigdata
+https://github.com/IntelRealSense
+https://github.com/intuit
+https://github.com/IntuitDeveloper
+
+* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
+
+* [JetBrains](https://github.com/JetBrains) 
+* [John Deere](https://github.com/JohnDeere) 
+* [Juniper Networks](https://github.com/juniper) 
+* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
+* [Kaggle](https://github.com/Kaggle) 
+* [LexisNexis](https://github.com/LexisNexis) 
+
+* [Magic Leap](https://github.com/magicleap) 
+* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
+
+* [Managed by Q](https://github.com/managedbyq) 
+
+MIT
+https://github.com/mit
+https://github.com/mitmedialab
+https://github.com/mit-rss
+https://github.com/mit-cml/
+https://github.com/MIT-SPARK/
+https://github.com/mitodl
+https://github.com/HDI-Project
+https://github.com/mitmath/
+And other MIT I didn't list
+
+Microsoft
+
+* [Mozilla Mobile](https://github.com/mozilla-mobile/) 
+
+https://github.com/netapp/
+https://github.com/NetAppDocs
+https://github.com/NetApp-StorageGRID
+
+https://github.com/nielsen-oss
+
+https://github.com/usnistgov
+
+* [O'Reilly Media](https://github.com/oreillymedia) 
+* [Oracle](https://github.com/oracle) 
+* [Oracle Quick Start](https://github.com/oracle-quickstart) 
+* [PagerDuty](https://github.com/PagerDuty) 
+
+Pearson
+https://github.com/Pearson-Higher-Ed
+https://github.com/PearsonEducation
+https://github.com/pearsontechnology
+https://github.com/pearson-ux
+
+* [PlanGrid](https://github.com/plangrid) 
+* [Qualcomm Innovation Center](https://github.com/QuIC) 
+
+https://github.com/rackerlabs
+https://github.com/racker
+https://github.com/rackspace-infrastructure-automation
+
+https://github.com/RedHatOfficial
+https://github.com/redhat-developer
+https://github.com/RedHatGov
+https://github.com/redhat-cop
+https://github.com/RedHatInsights | cloud.redhat.com
+
+https://github.com/SAP
+https://github.com/SAP-samples
+https://github.com/SAPDocuments
+
+https://github.com/Semmle
+https://github.com/flatironinstitute
+
+* [Sony](https://github.com/sony) 
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+
+* [SN Systems](https://github.com/SNSystems) 
+
+* [Texas Instruments](https://github.com/TexasInstruments) 
+* [Home Depot](https://github.com/homedepot) 
+
+https://github.com/thoughtworks
+https://github.com/ThoughtWorksInc
+https://github.com/ThoughtWorksStudios
+https://github.com/thoughtworksarts
+
+* [Verizon Media](https://github.com/VerizonMedia) 
+* [Volkswagen](https://github.com/volkswagen) 
+
+Telecomm
+* [Vonage](https://github.com/Vonage) 
+
+https://github.com/wayfair-contribs
+https://github.com/wayfair-archive
+
+https://github.com/yandexdataschool
+https://github.com/yandex-cloud
+https://github.com/doochik/yandex-opensource
+
+* [Yubico](https://github.com/yubico) 
+* [ZipRecruiter](https://github.com/ZipRecruiter) 
+
+markel corporation!
+
+nbc universal
+
+https://github.com/ImaginaryLandscape
+-->
+
+
+## Kansas Non-Profit
+
+* [devICT](https://github.com/devict)
+* [Ennovar](https://github.com/Ennovar)
+* [Open Wichita](https://github.com/openwichita)
+* [Startup Wichita](https://github.com/StartupWichita)
+* [Wichitalks](https://github.com/Wichitalks)
+
+## Companies that Use Python- Engineering Blogs
+
+High Performance Python- Engineering Blogs
+* [Bloomberg](https://www.techatbloomberg.com/)
+* [Dropbox](https://blogs.dropbox.com)
+* [Google](https://developers.googleblog.com)
+* [Instagram](https://engineering.instagram.com)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Quora](https://engineering.quora.com)
+* [Reddit](https://redditblog.com)
+* [Spotify](https://labs.spotify.com)
+* [Uber](https://eng.uber.com)
+* [Zapier](https://zapier.com/engineering)
+
 ## Major Organizations and Projects that Use Django
 
 * [18F GitHub](https://github.com/18F)  
@@ -83,290 +290,18 @@ http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
-<!--
-https://github.com/customer-stories/nationwide
-
-https://github.com/18F/
-
-Interesting!
-* [Adidas](https://github.com/adidas) 
-* [Adobe](https://github.com/adobe) 
-
-* [True Car](https://github.com/TrueCar) 
-* [Babylon Health](https://github.com/bankofamerica) 
-* [Bank of America](https://github.com/bankofamerica) 
-* [Booz Allen](https://github.com/boozallen) 
-* [Booz Allen Hamilton](https://github.com/booz-allen-hamilton) 
-
-https://github.com/chmarz/API-guidelines
-Bloomberg
-https://github.com/BMW-InnovationLab
-https://github.com/bmwcarit
-https://github.com/goboomtown
-
-Consultant
-https://github.com/booz-allen-hamilton/agile-playbook
-https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
-
-https://github.com/box-community
-https://github.com/box-samples
-https://github.com/box-community
-
-* [Box](https://github.com/box) 
-* [Braintree](https://github.com/braintree) 
-* [Capital One](https://github.com/capitalone) 
-
-https://github.com/CenturyLinkCloud
-https://github.com/CenturyLink
-https://github.com/CenturyLinkLabs
-
-https://github.com/jpmorganchase
-
-https://github.com/cisco
-https://github.com/CiscoDevNet
-https://github.com/CiscoSystems
-https://github.com/CiscoSE
-https://github.com/CiscoSecurity
-https://github.com/datacenter
-https://github.com/CiscoTestAutomation
-https://github.com/DevNetSandbox
-
-https://github.com/Coffee-Meets-Bagel
-https://github.com/coinsquare
-
-https://github.com/ComcastSamples
-
-* [Comcase](https://github.com/Comcast) 
-* [Credit Karma](https://github.com/creditkarma) 
-
-https://github.com/NVIDIA/DIGITS
-
-* [Delivery Hero SE](https://github.com/deliveryhero) 
-* [Dell Technologies](https://github.com/dell) 
-
-https://github.com/Dell-Networking
-
-https://github.com/Deloitte
-https://github.com/DeloitteDigitalUK
-https://github.com/DeloitteDigital
-https://github.com/DeloitteDigitalAPAC
-https://github.com/DeloitteDigitalAT
-
-* [DigitalOcean](https://github.com/digitalocean) 
-
-https://github.com/DolbyLaboratories
-https://github.com/DolbyDev
-https://github.com/dolbyio
-
-* [Dow Jones](https://github.com/dowjones) 
-* [DreamHost](https://github.com/dreamhost) 
-* [edX](https://github.com/edx) 
-* [edX Platform](https://github.com/edx/edx-platform) 
-* [Ellie Mae](https://github.com/EllieMae) 
-* [Ericsson](https://github.com/Ericsson) 
-* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
-
-https://github.com/python-fedex-devs
-
-* [FreshBooks](https://github.com/freshbooks) 
-* [Boston Dynamics](https://github.com/boston-dynamics) 
-* [General Mills](https://github.com/GeneralMills) 
-* [GM Financial](https://github.com/gmfinancial) 
-* [Goodyear](https://github.com/goodyear) 
-* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
-* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
-
-https://github.com/HPENetworking
-https://github.com/hpe-storage
-
-https://github.com/watson-developer-cloud/
-
-* [Intel](https://github.com/intel) 
-
-Famous
-https://github.com/IntelSoftware
-https://github.com/IntelLabs
-https://github.com/IntelPython
-https://github.com/Intel-bigdata
-https://github.com/IntelRealSense
-https://github.com/intuit
-https://github.com/IntuitDeveloper
-
-* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
-
-* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
-* [NASA Jet Propulsion Laboratory](https://github.com/nasajpl) 
-
-* [JetBrains](https://github.com/JetBrains) 
-* [John Deere](https://github.com/JohnDeere) 
-* [Juniper Networks](https://github.com/juniper) 
-* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
-* [Kaggle](https://github.com/Kaggle) 
-* [LexisNexis](https://github.com/LexisNexis) 
-* [Magic Leap](https://github.com/magicleap) 
-* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
-* [Managed by Q](https://github.com/managedbyq) 
-
-MIT
-https://github.com/mit
-https://github.com/mitmedialab
-https://github.com/mit-rss
-https://github.com/mit-cml/
-https://github.com/MIT-SPARK/
-https://github.com/mitodl
-https://github.com/HDI-Project
-https://github.com/mitmath/
-And other MIT I didn't list
-
-Microsoft
-
-* [Mozilla Mobile](https://github.com/mozilla-mobile/) 
-
-* [Liberty Mutual Insurance](https://github.com/libertymutual) 
-* [NBC Universal](https://github.com/nbcuniversal) 
-* [NBC News Digital](https://github.com/nbcnews) 
-
-https://github.com/netapp/
-https://github.com/NetAppDocs
-https://github.com/NetApp-StorageGRID
-
-https://github.com/TheUpshot
-https://github.com/nytimes
-https://github.com/nielsen-oss
-
-https://github.com/usnistgov
-
-* [Northwestern Mutual](https://github.com/northwesternmutual) 
-* [O'Reilly Media](https://github.com/oreillymedia) 
-* [Oracle](https://github.com/oracle) 
-* [Oracle Quick Start](https://github.com/oracle-quickstart) 
-* [PagerDuty](https://github.com/PagerDuty) 
-
-Pearson
-https://github.com/Pearson-Higher-Ed
-https://github.com/PearsonEducation
-https://github.com/pearsontechnology
-https://github.com/pearson-ux
-
-* [PlanGrid](https://github.com/plangrid) 
-* [Pluralsight](https://github.com/pluralsight) 
-* [Pluralsight Projects](https://github.com/pluralsight-projects) 
-* [Progressive Insurance](https://github.com/Progressive-Insurance) 
-* [Progressive Insurance](https://github.com/Progressive) 
-* [Qualcomm Innovation Center](https://github.com/QuIC) 
-* [Quicken Loans](https://github.com/QuickenLoans) 
-
-https://github.com/rackerlabs
-https://github.com/racker
-https://github.com/rackspace-infrastructure-automation
-
-https://github.com/RedHatOfficial
-https://github.com/redhat-developer
-https://github.com/RedHatGov
-https://github.com/redhat-cop
-https://github.com/RedHatInsights | cloud.redhat.com
-
-https://github.com/reddit-archive/reddit
-
-https://github.com/forcedotcom
-https://github.com/developerforce
-
-https://github.com/SAP
-https://github.com/SAP-samples
-https://github.com/SAPDocuments
-
-https://github.com/Semmle
-https://github.com/flatironinstitute
-
-* [Sony](https://github.com/sony) 
-* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
-* [SN Systems](https://github.com/SNSystems) 
-* [State Farm](https://github.com/StateFarmIns) 
-* [Texas Instruments](https://github.com/TexasInstruments) 
-* [Home Depot](https://github.com/homedepot) 
-* [Disney](https://github.com/disney) 
-* [Walt Disney Animation Studios](https://github.com/wdas) 
-
-https://github.com/thoughtworks
-https://github.com/ThoughtWorksInc
-https://github.com/ThoughtWorksStudios
-https://github.com/thoughtworksarts
-
-* [Palantir](https://github.com/palantir/) 
-* [Venmo](https://github.com/venmo) 
-* [Verizon Media](https://github.com/VerizonMedia) 
-* [Volkswagen](https://github.com/volkswagen) 
-* [Vonage](https://github.com/Vonage) 
-
-https://github.com/wayfair-contribs
-https://github.com/wayfair-archive
-
-https://github.com/yandexdataschool
-https://github.com/yandex-cloud
-https://github.com/doochik/yandex-opensource
-
-* [Yubico](https://github.com/yubico) 
-* [ZipRecruiter](https://github.com/ZipRecruiter) 
-
-
-
-Agency
-https://github.com/istrategylabs
-Django
-https://github.com/labcorp
-
-https://github.com/Quansight
-https://github.com/Quansight-Labs
-
-https://github.com/braintree-go/braintree-go
-https://github.com/ImaginaryLandscape
-
-https://github.com/StateFarmInsCodingCompetition
-
-https://github.com/homedepot/opensource-corebeliefs
-https://homedepot.github.io/
-
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
--->
-
-
-
-## Companies that Use Python
-
-High Performance Python- Engineering Blogs
-* [Bloomberg](https://www.techatbloomberg.com/)
-* [Dropbox](https://blogs.dropbox.com)
-* [Google](https://developers.googleblog.com)
-* [Instagram](https://engineering.instagram.com)
-* [Netflix](https://medium.com/netflix-techblog)
-* [Quora](https://engineering.quora.com)
-* [Reddit](https://redditblog.com)
-* [Spotify](https://labs.spotify.com)
-* [Uber](https://eng.uber.com)
-* [Zapier](https://zapier.com/engineering)
-
 ## Major Organizations and Projects that Use Python or Django
 
 Companies that Use Python
 * PyCon Slide
 
 <!--
-* [23andMe](https://github.com/23andMe) 
-
 * [Alexa](https://github.com/alexa) 
 * [Amazon Web Services](https://github.com/amazonwebservices)  
 * [Amazon](https://github.com/amzn)
 * [AWS](https://github.com/aws)  
 * [AWS Labs](https://github.com/awslabs)
-* [Apple](https://github.com/apple)
-* [Bloomberg](https://github.com/bloomberg) 
-* [Box](https://github.com/box) 
-* [Britecore](https://github.com/britecore) 
-* [Disney](https://github.com/disney)
-* [Doctor on Demand](https://github.com/doctorondemand)
-* [Dropbox](https://github.com/dropbox) 
-* [Elastic](https://github.com/elastic)
+
 * [Facebook](https://github.com/facebook)  
 * [Facebook Archive](https://github.com/facebookarchive)  
 * [Facebook Experimental](https://github.com/facebookexperimental)
@@ -374,8 +309,6 @@ Companies that Use Python
 * [Facebook Incubator](https://github.com/facebookincubator)
 * [Facebook Platform Samples](https://github.com/fbsamples) 
 * [Facebook Research](https://github.com/facebookresearch)
-* [Ford](https://github.com/Ford)
-* [GoDaddy](https://github.com/godaddy)
 
 * [Android](https://github.com/android) 
 * [Google](https://github.com/google)  
@@ -394,20 +327,11 @@ Companies that Use Python
 * [Google Knowledge](https://github.com/googleknowledge)  
 * [Google Maps](https://github.com/googlemaps)  
 * [Google Samples](https://github.com/googlesamples) 
-* [G Suite Devs](https://github.com/gsuitedevs )
+* [G Suite Devs](https://github.com/gsuitedevs)
 * [YouTube](https://github.com/youtube)
-* [Grubhub](https://github.com/grubhub) 
-* [IBM](https://github.com/IBM)  
-* [IBM Cloud](https://github.com/IBM-Cloud)
-* [Indeed](https://github.com/indeedeng)
-* [Instagram](https://github.com/Instragram)  
-* [LinkedIn](https://github.com/linkedin)
-* [Lululemon](https://github.com/Lululemon)
-* [Lyft](https://github.com/lyft)
-magic leap
-* [MailChimp](https://github.com/mailchimp) 
-markel corporation!
-MIT
+
+* [Apple](https://github.com/apple)
+
 * [Mozilla](https://github.com/mozilla)
 * [Mozilla Developer Network](https://github.com/mdn)
 * [Mozilla Developer Outreach](https://github.com/mozdevs)
@@ -416,39 +340,169 @@ MIT
 * [Mozilla IoT](https://github.com/mozilla-iot)
 * [Mozilla Services](https://github.com/mozilla-services)
 
-https://github.com/nasa/
+* [Elastic](https://github.com/elastic)
 
-nasa
-nbc universal
-netapp
+* [Ford](https://github.com/Ford)
 
-* [New Relic](https://github.com/newrelic)
-* [Nike Inc.](https://github.com/Nike-Inc)
-* [Netflix](https://github.com/Netflix) 
-o'reilly
-* [Patreon](https://github.com/patreon)  
-* [Quora](https://github.com/quora) 
-* [PayPal](https://github.com/paypal) 
+* [GoDaddy](https://github.com/godaddy)
+
+* [Grubhub](https://github.com/grubhub) 
+* [IBM](https://github.com/IBM)  
+* [IBM Cloud](https://github.com/IBM-Cloud)
+* [Indeed](https://github.com/indeedeng)
+* [Lululemon](https://github.com/Lululemon)
+
+* [Yandex](https://github.com/yandex)
+
+DevRel
+* [Twilio](https://github.com/twilio)  
+* [Twilio Org](https://github.com/Twilio-org) 
+-->
+
+
+## Python
+
+### Not Classified Yet
+
+* [Disney](https://github.com/disney) 
+* [Walt Disney Animation Studios](https://github.com/wdas) 
+* [Salesforce](https://github.com/salesforce)
+* [Salesforce Developers](https://github.com/developerforce)
+* [Salesforce UX](https://github.com/salesforce-ux)
+* [Force.com](https://github.com/forcedotcom)  
+* [LinkedIn](https://github.com/linkedin)  
+* [Palantir](https://github.com/palantir)
+* [Pearson Technology](https://github.com/pearsontechnology) 
 * [Rackspace](https://github.com/rackspace)
+* [Samsung](https://github.com/Samsung)
+* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
+
+### Learning
+
+* [edX](https://github.com/edx) 
+* [edX Platform](https://github.com/edx/edx-platform) 
+* [O'Reilly Media](https://github.com/oreillymedia)
+* [O'Reilly Japan](https://github.com/oreilly-japan)
+* [Pluralsight](https://github.com/pluralsight)
+* [Pluralsight Guides](https://github.com/pluralsight/guides)
+* [Pluralsight Projects](https://github.com/pluralsight-projects)
+
+### Design
+
+* [Adobe](https://github.com/adobe)  
+* [Adobe Fonts](https://github.com/adobe-fonts)
+* [Adobe Research](https://github.com/adobe-research)
+
+### Tools
+
+* [Box](https://github.com/box) 
+* [Box Samples](https://github.com/box-samples) 
+* [Box Community](https://github.com/box-community) 
+* [Dropbox](https://github.com/dropbox) 
+* [MailChimp](https://github.com/mailchimp) 
+
+### Metrics
+
+* [New Relic](https://github.com/newrelic)  
+
+### eCommerce
+
+* [General Mills](https://github.com/GeneralMills)
+* [Nike Inc.](https://github.com/Nike-Inc)
+* [Roverdotcom](https://github.com/roverdotcom)
+* [Walmart Labs](https://github.com/walmartlabs) 
+* [Wayfair](https://github.com/wayfair)
+
+### Social
+
+* [Instagram](https://github.com/Instragram)  
+* [Tumblr](https://github.com/tumblr) 
+* [Yelp](https://github.com/Yelp) 
+
+### Music
+
+* [Spotify](https://github.com/spotify) 
+
+### Events and Tickets- Python
+
+* [Eventbrite](https://github.com/eventbrite)  
+
+### Forums
+
+* [Quora](https://github.com/quora) 
 * [Reddit](https://github.com/reddit) 
 * [Reddit Archive](https://github.com/reddit-archive/) 
-redhat
-* [Roverdotcom](https://github.com/roverdotcom)
-* [Salesforce GitHub](https://github.com/salesforce)
-* [Samsung GitHub](https://github.com/Samsung)
-sony 
-* [Spotify](https://github.com/spotify) 
-the walt disney company
-thoughtworks
-* [Tumblr](https://github.com/tumblr) 
-* [Vox Media](https://github.com/voxmedia) 
-* [Walmart Labs](https://github.com/walmartlabs) 
 
-walt disney animations tudios
-* [Wayfair](https://github.com/wayfair)
-* [Yandex](https://github.com/yandex)
-* [Yelp](https://github.com/Yelp) 
--->
+## News
+
+* [NBC Universal](https://github.com/nbcuniversal) 
+* [NBC News Digital](https://github.com/nbcnews) 
+* [The New York Times](https://github.com/NYTimes) 
+* [NYT Labs](https://github.com/nytlabs)  
+* [NYT Newsroom Developers](https://github.com/newsdev)
+* [Stanford Journalism](https://github.com/stanfordjournalism)
+* [The Upshot](https://github.com/TheUpshot)  
+* [Vox Media](https://github.com/voxmedia)  
+
+### Transport
+
+* [Lyft](https://github.com/lyft)
+* [Uber](https://github.com/uber)  
+* [Uber Common](https://github.com/uber-common) 
+* [Uber Web](https://github.com/uber-web ) 
+* [Uber Go](https://github.com/uber-go)
+
+### Telecommunications
+
+* [Century Link](https://github.com/CenturyLink)
+* [Century Link Labs](https://github.com/CenturyLinkLabs)
+* [Century Link Cloud](https://github.com/CenturyLinkCloud)
+* [Comcast](https://github.com/Comcast) 
+* [Comcast Samples](https://github.com/Comcast) 
+* [Netflix](https://github.com/Netflix) 
+
+### Health
+
+* [23andMe](https://github.com/23andMe) 
+* [Doctor on Demand](https://github.com/doctorondemand)
+
+### Insurance
+
+* [Liberty Mutual Insurance](https://github.com/libertymutual) 
+* [Northwestern Mutual](https://github.com/northwesternmutual) 
+* [Progressive Insurance](https://github.com/Progressive-Insurance) 
+* [Progressive Insurance](https://github.com/Progressive) 
+* [State Farm](https://github.com/StateFarmIns) 
+
+### Financial Services
+
+* [Bank of America](https://github.com/bankofamerica) 
+* [Braintree](https://github.com/braintree) 
+* [Britecore](https://github.com/britecore) 
+* [Capital One](https://github.com/capitalone) 
+* [Credit Karma](https://github.com/creditkarma) 
+* [JP Morgan Chase](https://github.com/jpmorganchase)
+* [Patreon](https://github.com/patreon)  
+* [PayPal](https://github.com/paypal) 
+* [Quicken Loans](https://github.com/QuickenLoans) 
+* [Venmo](https://github.com/venmo)
+
+### Not-Profit
+
+* [NASA](https://github.com/nasa) 
+* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
+* [NASA Jet Propulsion Laboratory](https://github.com/nasajpl) 
+* [Stanford University Digital Library](https://github.com/sul-dlss)  
+
+### Analyst Agencies- Python
+
+* [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
+* [Booz Allen](https://github.com/boozallen)
+* [Deloitte Solutions](https://github.com/DeloitteSolutions)
+
+### Investment- Python
+
+* [Bloomberg Finance L.P.](https://github.com/bloomberg)
 
 
 
@@ -697,12 +751,12 @@ Azure
 * [Ubuntu](https://github.com/ubuntu)
 * [VMware](https://github.com/vmware)
 
+
 ## Companies by Subject
 
 ### Not Classified Yet
 
 * [Digg](https://github.com/digg)  
-* [Disney](https://github.com/disney)
 * [Duolingo](https://github.com/duolingo) 
 * [Edward Tufte](https://github.com/edwardtufte)
 * [Estimote](https://github.com/Estimote) 
@@ -710,7 +764,6 @@ Azure
 * [FiftyThree](https://github.com/fiftythree)
 * [Flipkart](https://github.com/flipkart)
 * [Flipkart Incubator](https://github.com/flipkart-incubator)
-* [Force.com](https://github.com/forcedotcom)  
 * [Goldman Sachs](https://github.com/goldmansachs)  
 * [Groupon](https://github.com/groupon)  
 * [Hudl](https://github.com/hudl) 
@@ -719,7 +772,6 @@ Azure
 * [Justin.tv](https://github.com/justintv)  
 * [Keen](https://github.com/keen) 
 * [LaunchKit](https://github.com/launchkit)
-* [LinkedIn](https://github.com/linkedin)  
 * [ManageIQ](https://github.com/ManageIQ)
 * [Mapbox](https://github.com/mapbox)
 * [Mashery](https://github.com/mashery)  
@@ -727,22 +779,15 @@ Azure
 * [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
 * [Optimizely](https://github.com/optimizely) 
-* [Palantir](https://github.com/palantir)
-* [Pearson Technology](https://github.com/pearsontechnology) 
 * [Pivotal Labs](https://github.com/pivotal)
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
 * [Postmates](https://github.com/postmates)  
 * [Product Hunt](https://github.com/producthunt)   
 * [Quip](https://github.com/quip)  
-* [Rackspace](https://github.com/rackspace)  
 * [Rakuten](https://github.com/rakuten)  
 * [Rap Genius](https://github.com/RapGenius)  
 * [Rdio](https://github.com/rdio) 
-* [Salesforce](https://github.com/salesforce)
-* [Salesforce UX](https://github.com/salesforce-ux)
-* [Samsung](https://github.com/Samsung)
-* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
 * [Scribd](https://github.com/scribd)   
 * [SlideShare](https://github.com/slideshare)  
 * [Storify](https://github.com/storify)   
@@ -750,15 +795,10 @@ Azure
 * [Swipely](https://github.com/swipely)  
 * [Taobao](https://github.com/taobao)  
 * [Deprecated: ThinkUp](https://github.com/ThinkUpLLC/ThinkUp)
-* [Twilio](https://github.com/twilio)  
-* [Twilio Org](https://github.com/Twilio-org) 
 
 ### Design
 
 * [99designs](https://github.com/99designs/)
-* [Adobe](https://github.com/adobe)  
-* [Adobe Fonts](https://github.com/adobe-fonts)
-* [Adobe Research](https://github.com/adobe-research)
 * [Canva](https://github.com/canva) 
 * [Figma](https://github.com/figma)
 * [Typekit](https://github.com/typekit) 
@@ -798,61 +838,42 @@ Azure
 * [eBay](https://github.com/eBay)
 * [Etsy](https://github.com/etsy) 
 * [Fasholista](https://github.com/Fashiolista)
-* [General Mills](https://github.com/GeneralMills)
-* [Nike Inc.](https://github.com/Nike-Inc)
-* [Roverdotcom](https://github.com/roverdotcom)
 * [Stitch Fix](https://github.com/stitchfix)
 * [StyleSeat](https://github.com/styleseat) 
 * [Target](https://github.com/target)  
 * [Under Armour](https://github.com/underarmour)
 * [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc)
-* [Walmart Labs](https://github.com/walmartlabs) 
-* [Wayfair](https://github.com/wayfair)
 
 ### Social
 
 * [App.net](https://github.com/appdotnet)  
 * [eHarmony](https://github.com/eharmony)  
 * [Ello](https://github.com/ello)
-* [Instagram](https://github.com/Instragram)  
 * [Foursquare](https://github.com/foursquare) 
 * [Meetup](https://github.com/meetup) 
 * [Nextdoor](https://github.com/nextdoor)
 * [Pinterest](https://github.com/pinterest)  
 * [Snapchat](https://github.com/snapchat)    
 * [Stack Exchange](https://github.com/stackexchange)  
-* [Tumblr](https://github.com/tumblr) 
 * [Upworthy](https://github.com/upworthy) 
 * [Vimeo](https://github.com/vimeo)  
 * [Vine](https://github.com/vine)  
-* [Yelp](https://github.com/Yelp) 
 
 ### Music
 
 * [SoundCloud](https://github.com/soundcloud)  
-* [Spotify](https://github.com/spotify) 
 
 ### Events and Tickets
 
-* [Eventbrite](https://github.com/eventbrite)  
 * [Lanyard](http://github.lanyrd.com)
 * [Ticketmaster](https://github.com/ticketmaster) 
-
-### Metrics
-
-* [Chartbeat](https://github.com/chartbeat)
-* [Chartbeat Labs](https://github.com/chartbeat-labs)  
-* [Mixpanel](https://github.com/mixpanel)
-* [New Relic](https://github.com/newrelic)  
 
 ### Tools
 
 * [AddThis](https://github.com/addthis)
 * [Bitly](https://github.com/bitly)  
 * [BitTorrent](https://github.com/bittorrent)
-* [Box](https://github.com/box) 
 * [Buffer](https://github.com/bufferapp) 
-* [Dropbox](https://github.com/dropbox) 
 * [Disqus](https://github.com/disqus) 
 * [Evernote](https://github.com/evernote) 
 * [Hootsuite](https://github.com/hootsuite)  
@@ -861,9 +882,14 @@ Azure
 * [Gnip](https://github.com/gnip)
 * [KISSmetrics](https://github.com/kissmetrics)  
 * [Klout](https://github.com/klout)
-* [MailChimp](https://github.com/mailchimp) 
 * [Prezi](https://github.com/prezi) 
 * [SurveyMonkey](https://github.com/surveymonkey) 
+
+### Metrics
+
+* [Chartbeat](https://github.com/chartbeat)
+* [Chartbeat Labs](https://github.com/chartbeat-labs)  
+* [Mixpanel](https://github.com/mixpanel)
 
 ### Admin
 
@@ -876,27 +902,19 @@ Azure
 ### Telecommunications
 
 * [AT&T Dev Support](https://github.com/attdevsupport)  
-* [Century Link Cloud](https://github.com/CenturyLinkCloud)
-* [Comcast](https://github.com/Comcast) 
 * [Hulu](https://github.com/hulu) 
-* [Netflix](https://github.com/Netflix) 
 * [Nokia](https://github.com/nokia/) 
 
 ### Transport
 
 * [DiDi](https://github.com/didi)
-* [Lyft](https://github.com/lyft)
 * [Tesla Motors](https://github.com/teslamotors)  
-* [Uber](https://github.com/uber)  
-* [Uber Common](https://github.com/uber-common) 
-* [Uber Web](https://github.com/uber-web ) 
-* [Uber Go](https://github.com/uber-go)
 
 ### Travel, Housing, Hospitality
 
 * [Airbnb](https://github.com/airbnb)  
-* [Airbus SecLab](https://github.com/airbus-seclab)
 * [Airbnb: Crowdtilt](https://github.com/Crowdtilt) 
+* [Airbus SecLab](https://github.com/airbus-seclab)
 * [HotelTonight](https://github.com/hoteltonight)
 * [Kayak](https://github.com/kayak)
 * [Trip Advisor](https://github.com/tripadvisor)  
@@ -904,51 +922,24 @@ Azure
 * [Zillow](https://github.com/zillow)
 * [Zillow Research](https://github.com/zillow-research)
 
-### Health
-
-* [23andMe](https://github.com/23andMe) 
-* [Cerner](https://github.com/cerner)
-* [Doctor on Demand](https://github.com/doctorondemand)
-* [Watsi](https://github.com/watsi) 
-
-### Games and Robots
-
-* [3D Robotics](https://github.com/3drobotics)
-* [Epic Games](https://github.com/EpicGames)
-* [Twitch TV](https://github.com/twitchtv) 
-* [Zynga](https://github.com/zynga)
-
-### VR
-
-* [Google VR](https://github.com/googlevr)
-* [Oculus VR](https://github.com/OculusVR) 
-
 ### Financial Services
 
 * [American Express](https://github.com/americanexpress)
 * [Blackrock Digital](https://github.com/BlackrockDigital)
-* [Braintree](https://github.com/braintree)
-* [Britecore](https://github.com/britecore) 
 * [C2FO](https://github.com/C2FO) 
-* [Capital One](https://github.com/capitalone)
 * [Dwolla](https://github.com/dwolla)  
 * [Funding Circle](https://github.com/fundingcircle)
-* [JP Morgan Chase](https://github.com/jpmorganchase)
 * [Kickstarter](https://github.com/kickstarter) 
 * [Quantopian](https://github.com/quantopian) 
-* [Patreon](https://github.com/patreon)  
-* [PayPal](https://github.com/paypal) 
 * [Plaid](https://github.com/plaid)
 * [Robinhood](https://github.com/robinhood) 
 * [Square](https://github.com/square)
 * [Stripe](https://github.com/stripe) 
 * [TruStory](https://github.com/TruStory) 
-* [Venmo](https://github.com/venmo)
 * [Wealthfront](https://github.com/wealthfront)
 
 ### Forums
 
-* [Quora](https://github.com/quora)
 * [Hacker News](https://github.com/HackerNews)
 * [Reddit](https://github.com/reddit) 
 
@@ -965,7 +956,7 @@ Azure
 * [Medium Policy](https://github.com/Medium/medium-policy)
 * [Wattpad](https://github.com/wattpad) 
 
-## News
+### News
 
 * [ABC News](https://github.com/abcnews)
 * [Al Jazeera America](https://github.com/ajam)  
@@ -995,73 +986,75 @@ Azure
 * [Mic News](https://github.com/micnews)
 * [NPR Apps](https://github.com/nprapps)  
 * [Northwestern University Knight Lab](https://github.com/nuknightlab) 
-* [The New York Times](https://github.com/NYTimes) 
-* [NYT Labs](https://github.com/nytlabs)  
-* [NYT Newsroom Developers](https://github.com/newsdev)
 * [Propublica](https://github.com/propublica)  
-* [Stanford Journalism](https://github.com/stanfordjournalism)
 * [TechCrunch](https://github.com/techcrunch)  
 * [The Economist](https://github.com/TheEconomist) 
 * [The Oregonian](https://github.com/TheOregonian)
 * [The Telegraph](https://github.com/telegraph)  
 * [Time Magazine](https://github.com/TimeMagazine)  
 * [Tribune News Applications Teams](https://github.com/newsapps)  
-* [Vox Media](https://github.com/voxmedia)  
 * [Washington Post](https://github.com/washingtonpost)  
 * [Washington Post Investigative](https://github.com/wpinvestigative)  
 * [Washington Times](https://github.com/washingtontimes)  
 
-### Analyst Agencies
-
-* [Accenture](https://github.com/Accenture)
-* [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
-* [Booz Allen](https://github.com/boozallen)
-* [Deloitte Solutions](https://github.com/DeloitteSolutions)
-
-### Investment
-
-* [a16z](https://github.com/a16z)
-* [Agile Ventures](https://github.com/AgileVentures)
-* [AngelList](https://github.com/AngelList) 
-* [Bloomberg Finance L.P.](https://github.com/bloomberg)
-* [Expa](https://github.com/expa)
-* [Indie.vc](https://github.com/indievc)
-* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
-
-## Learning
+### Learning
 
 * [Code School](https://github.com/codeschool)
 * [Codecademy](https://github.com/Codecademy)  
 * [CodePath](https://github.com/codepath)
 * [Coursera](https://github.com/coursera)  
 * [DataCamp](https://github.com/datacamp/) 
-* [edX](https://github.com/edx) 
 * [egghead.io](https://github.com/eggheadio)
 * [freeCodeCamp](https://github.com/freeCodeCamp) 
 * [Jewelbots](https://github.com/Jewelbots)
 * [Khan Academy](https://github.com/Khan)
 * [Make School](https://github.com/MakeSchool)
-* [O'Reilly Media](https://github.com/oreillymedia)
-* [O'Reilly Japan](https://github.com/oreilly-japan)
 * [Packt Publishing](https://github.com/PacktPublishing)
-* [Pluralsight](https://github.com/pluralsight)
-* [Pluralsight Guides](https://github.com/pluralsight/guides)
-* [Pluralsight Projects](https://github.com/pluralsight-projects)
 * [Udacity](https://github.com/udacity)  
 * [Udemy](https://github.com/udemy)
 * [W3Schools](https://github.com/w3schools) 
 
-## Standards
+### Standards
 
 * [W3C (The World Wide Web Consortium)](https://github.com/w3c)  
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://github.com/whatwg)
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
-## Design 
+### Design 
 
 * [Codrops](https://github.com/codrops)
 * [NETTUTS](https://github.com/NETTUTS)
 * [TUTS+](https://github.com/tutsplus)
+
+### Games and Robots
+
+* [3D Robotics](https://github.com/3drobotics)
+* [Epic Games](https://github.com/EpicGames)
+* [Twitch TV](https://github.com/twitchtv) 
+* [Zynga](https://github.com/zynga)
+
+### VR
+
+* [Google VR](https://github.com/googlevr)
+* [Oculus VR](https://github.com/OculusVR) 
+
+### Health
+
+* [Cerner](https://github.com/cerner)
+* [Watsi](https://github.com/watsi) 
+
+### Analyst Agencies
+
+* [Accenture](https://github.com/Accenture)
+
+### Investment
+
+* [a16z](https://github.com/a16z)
+* [Agile Ventures](https://github.com/AgileVentures)
+* [AngelList](https://github.com/AngelList) 
+* [Expa](https://github.com/expa)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
 
 ## Government
 
@@ -1126,28 +1119,14 @@ Not-Profit
 * [Knight-Mozilla OpenNews](https://github.com/OpenNews)
 * [Library of Congress](https://github.com/LibraryofCongress)
 * [Open Library](https://github.com/openlibrary)  
-* [NASA](https://github.com/nasa) 
-* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
 * [National Geospatial-Intelligence Agency](https://github.com/ngageoint) 
 * [OKFN](https://github.com/okfn) 
 * [OpenGov Foundation](https://github.com/opengovfoundation)
 * [Our World in Data](https://github.com/OurWorldInData)
-* [PBS](https://github.com/pbs)  
 * [Smithsonian](https://github.com/Smithsonian) 
-* [Stanford University Digital Library](https://github.com/sul-dlss)  
 * [Sunlight Labs](https://github.com/sunlightlabs)
-* [The Upshot](https://github.com/TheUpshot)  
-* [Wharton](https://github.com/wharton)
-* [Wharton Learning Lab](https://github.com/whartonlearninglab)
 * [Wikidata](https://github.com/wikidata)  
 * [Wikidata Library](https://github.com/wikidata-lib)  
 * [Wikimedia](https://github.com/wikimedia)  
 * [Wikimedia Research](https://github.com/wikimedia-research)  
 * [Wikimedia Deutschland](https://github.com/wmde) 
-
-Kansas Non-Profit
-* [devICT](https://github.com/devict)
-* [Ennovar](https://github.com/Ennovar)
-* [Open Wichita](https://github.com/openwichita)
-* [Startup Wichita](https://github.com/StartupWichita)
-* [Wichitalks](https://github.com/Wichitalks)
