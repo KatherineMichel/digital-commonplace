@@ -66,9 +66,6 @@ Interesting!
 
 https://github.com/chmarz/API-guidelines
 
-https://github.com/BMW-InnovationLab
-https://github.com/bmwcarit
-
 https://github.com/goboomtown
 
 https://github.com/Coffee-Meets-Bagel
@@ -93,11 +90,8 @@ https://github.com/dolbyio
 * [Juniper Networks](https://github.com/juniper) 
 * [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 * [Kaggle](https://github.com/Kaggle) 
-* [LexisNexis](https://github.com/LexisNexis) 
 
 * [Managed by Q](https://github.com/managedbyq) 
-
-* [Mozilla Mobile](https://github.com/mozilla-mobile/) 
 
 https://github.com/netapp/
 https://github.com/NetAppDocs
@@ -138,17 +132,7 @@ markel corporation!
 nbc universal
 
 
-
 https://github.com/ImaginaryLandscape
-
-
-* [O'Reilly Media](https://github.com/oreillymedia) 
-
-Pearson
-https://github.com/Pearson-Higher-Ed
-https://github.com/PearsonEducation
-https://github.com/pearsontechnology
-https://github.com/pearson-ux
 
 
 * [Boston Dynamics](https://github.com/boston-dynamics) 
@@ -157,15 +141,18 @@ https://github.com/pearson-ux
 * [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
 * [Texas Instruments](https://github.com/TexasInstruments) 
 
-
-* [Sony](https://github.com/sony) 
-* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
-* [SN Systems](https://github.com/SNSystems) 
-
 * [Verizon Media](https://github.com/VerizonMedia) 
 
-Telecomm
-* [Vonage](https://github.com/Vonage) 
+* [Grubhub](https://github.com/grubhub) 
+
+* [Indeed](https://github.com/indeedeng)
+* [Lululemon](https://github.com/Lululemon)
+
+* [Yandex](https://github.com/yandex)
+
+DevRel
+* [Twilio](https://github.com/twilio)  
+* [Twilio Org](https://github.com/Twilio-org) 
 
 
 Hosting
@@ -185,12 +172,19 @@ Transport
 * [True Car](https://github.com/TrueCar) 
 * [Volkswagen](https://github.com/volkswagen) 
 
+https://github.com/BMW-InnovationLab
+https://github.com/bmwcarit
+
 Healthcare
 * [Babylon Health](https://github.com/babylonhealth) 
 
 Telecomm
 * [Ericsson](https://github.com/Ericsson) 
-
+* [LexisNexis](https://github.com/LexisNexis) 
+* [Sony](https://github.com/sony) 
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+* [SN Systems](https://github.com/SNSystems) 
+* [Vonage](https://github.com/Vonage) 
 
 https://github.com/cisco
 https://github.com/CiscoDevNet
@@ -351,17 +345,7 @@ Companies that Use Python
 * [Mozilla Foundation](https://github.com/MozillaFoundation)
 * [Mozilla IoT](https://github.com/mozilla-iot)
 * [Mozilla Services](https://github.com/mozilla-services)
-
-* [Grubhub](https://github.com/grubhub) 
-
-* [Indeed](https://github.com/indeedeng)
-* [Lululemon](https://github.com/Lululemon)
-
-* [Yandex](https://github.com/yandex)
-
-DevRel
-* [Twilio](https://github.com/twilio)  
-* [Twilio Org](https://github.com/Twilio-org) 
+* [Mozilla Mobile](https://github.com/mozilla-mobile/) 
 -->
 
 
@@ -373,22 +357,20 @@ DevRel
 * [IBM](https://github.com/IBM)  
 * [IBM Cloud](https://github.com/IBM-Cloud)
 * [Intel](https://github.com/intel) 
+* [Rackspace](https://github.com/rackspace)
+* [Salesforce](https://github.com/salesforce)
+* [Salesforce Developers](https://github.com/developerforce)
+* [Salesforce UX](https://github.com/salesforce-ux)
+* [Force.com](https://github.com/forcedotcom)  
 * [SAP](https://github.com/SAP)  
 
 ### Not Classified Yet
 
 * [Disney](https://github.com/disney) 
 * [Walt Disney Animation Studios](https://github.com/wdas) 
-* [Salesforce](https://github.com/salesforce)
-* [Salesforce Developers](https://github.com/developerforce)
-* [Salesforce UX](https://github.com/salesforce-ux)
-* [Force.com](https://github.com/forcedotcom)  
 * [LinkedIn](https://github.com/linkedin)  
 * [Palantir](https://github.com/palantir)
-* [Pearson Technology](https://github.com/pearsontechnology) 
-* [Rackspace](https://github.com/rackspace)
-* [Samsung](https://github.com/Samsung)
-* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
+* [Netflix](https://github.com/Netflix) 
 
 ### Learning
 
@@ -396,9 +378,17 @@ DevRel
 * [edX Platform](https://github.com/edx/edx-platform) 
 * [O'Reilly Media](https://github.com/oreillymedia)
 * [O'Reilly Japan](https://github.com/oreilly-japan)
+* [Pearson Technology](https://github.com/pearsontechnology) 
 * [Pluralsight](https://github.com/pluralsight)
 * [Pluralsight Guides](https://github.com/pluralsight/guides)
 * [Pluralsight Projects](https://github.com/pluralsight-projects)
+
+<!--
+Pearson
+https://github.com/Pearson-Higher-Ed
+https://github.com/PearsonEducation
+https://github.com/pearson-ux
+-->
 
 ### Design
 
@@ -472,7 +462,8 @@ DevRel
 * [Century Link Cloud](https://github.com/CenturyLinkCloud)
 * [Comcast](https://github.com/Comcast) 
 * [Comcast Samples](https://github.com/Comcast) 
-* [Netflix](https://github.com/Netflix) 
+* [Samsung](https://github.com/Samsung)
+* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
 
 ### Health
 
