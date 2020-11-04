@@ -70,15 +70,6 @@ https://github.com/BMW-InnovationLab
 https://github.com/bmwcarit
 https://github.com/goboomtown
 
-https://github.com/cisco
-https://github.com/CiscoDevNet
-https://github.com/CiscoSystems
-https://github.com/CiscoSE
-https://github.com/CiscoSecurity
-https://github.com/datacenter
-https://github.com/CiscoTestAutomation
-https://github.com/DevNetSandbox
-
 https://github.com/Coffee-Meets-Bagel
 https://github.com/coinsquare
 
@@ -86,63 +77,24 @@ https://github.com/NVIDIA/DIGITS
 
 * [Delivery Hero SE](https://github.com/deliveryhero) 
 
-* [Dell Technologies](https://github.com/dell) 
-* [Dell Networking](https://github.com/Dell-Networking) 
+https://github.com/python-fedex-devs
+
+* [FreshBooks](https://github.com/freshbooks) 
+
+* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
+
+* [JetBrains](https://github.com/JetBrains) 
 
 https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
 https://github.com/dolbyio
 
-https://github.com/python-fedex-devs
-
-* [FreshBooks](https://github.com/freshbooks) 
-* [Boston Dynamics](https://github.com/boston-dynamics) 
-
-* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
-* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
-
-https://github.com/HPENetworking
-https://github.com/hpe-storage
-
-https://github.com/watson-developer-cloud/
-
-* [Intel](https://github.com/intel) 
-
-Famous
-https://github.com/IntelSoftware
-https://github.com/IntelLabs
-https://github.com/IntelPython
-https://github.com/Intel-bigdata
-https://github.com/IntelRealSense
-https://github.com/intuit
-https://github.com/IntuitDeveloper
-
-* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
-
-* [JetBrains](https://github.com/JetBrains) 
-* [John Deere](https://github.com/JohnDeere) 
 * [Juniper Networks](https://github.com/juniper) 
 * [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 * [Kaggle](https://github.com/Kaggle) 
 * [LexisNexis](https://github.com/LexisNexis) 
 
-* [Magic Leap](https://github.com/magicleap) 
-* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
-
 * [Managed by Q](https://github.com/managedbyq) 
-
-MIT
-https://github.com/mit
-https://github.com/mitmedialab
-https://github.com/mit-rss
-https://github.com/mit-cml/
-https://github.com/MIT-SPARK/
-https://github.com/mitodl
-https://github.com/HDI-Project
-https://github.com/mitmath/
-And other MIT I didn't list
-
-Microsoft
 
 * [Mozilla Mobile](https://github.com/mozilla-mobile/) 
 
@@ -154,54 +106,21 @@ https://github.com/nielsen-oss
 
 https://github.com/usnistgov
 
-* [O'Reilly Media](https://github.com/oreillymedia) 
-* [Oracle](https://github.com/oracle) 
-* [Oracle Quick Start](https://github.com/oracle-quickstart) 
 * [PagerDuty](https://github.com/PagerDuty) 
-
-Pearson
-https://github.com/Pearson-Higher-Ed
-https://github.com/PearsonEducation
-https://github.com/pearsontechnology
-https://github.com/pearson-ux
 
 * [PlanGrid](https://github.com/plangrid) 
 * [Qualcomm Innovation Center](https://github.com/QuIC) 
 
-https://github.com/rackerlabs
-https://github.com/racker
-https://github.com/rackspace-infrastructure-automation
-
-https://github.com/RedHatOfficial
-https://github.com/redhat-developer
-https://github.com/RedHatGov
-https://github.com/redhat-cop
-https://github.com/RedHatInsights | cloud.redhat.com
-
-https://github.com/SAP
-https://github.com/SAP-samples
-https://github.com/SAPDocuments
 
 https://github.com/Semmle
 https://github.com/flatironinstitute
 
-* [Sony](https://github.com/sony) 
-* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
-
-* [SN Systems](https://github.com/SNSystems) 
-
-* [Texas Instruments](https://github.com/TexasInstruments) 
 * [Home Depot](https://github.com/homedepot) 
 
 https://github.com/thoughtworks
 https://github.com/ThoughtWorksInc
 https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
-
-* [Verizon Media](https://github.com/VerizonMedia) 
-
-Telecomm
-* [Vonage](https://github.com/Vonage) 
 
 https://github.com/wayfair-contribs
 https://github.com/wayfair-archive
@@ -218,6 +137,36 @@ markel corporation!
 nbc universal
 
 
+
+https://github.com/ImaginaryLandscape
+
+
+* [O'Reilly Media](https://github.com/oreillymedia) 
+
+Pearson
+https://github.com/Pearson-Higher-Ed
+https://github.com/PearsonEducation
+https://github.com/pearsontechnology
+https://github.com/pearson-ux
+
+
+* [Boston Dynamics](https://github.com/boston-dynamics) 
+* [John Deere](https://github.com/JohnDeere) 
+* [Magic Leap](https://github.com/magicleap) 
+* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
+* [Texas Instruments](https://github.com/TexasInstruments) 
+
+
+* [Sony](https://github.com/sony) 
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+* [SN Systems](https://github.com/SNSystems) 
+
+* [Verizon Media](https://github.com/VerizonMedia) 
+
+Telecomm
+* [Vonage](https://github.com/Vonage) 
+
+
 Hosting
 * [DigitalOcean](https://github.com/digitalocean) 
 * [DreamHost](https://github.com/dreamhost) 
@@ -230,6 +179,7 @@ Finance
 * [GM Financial](https://github.com/gmfinancial) 
 
 Transport
+* [Ford](https://github.com/Ford)
 * [Goodyear](https://github.com/goodyear) 
 * [True Car](https://github.com/TrueCar) 
 * [Volkswagen](https://github.com/volkswagen) 
@@ -241,7 +191,66 @@ Telecomm
 * [Ericsson](https://github.com/Ericsson) 
 
 
-https://github.com/ImaginaryLandscape
+https://github.com/cisco
+https://github.com/CiscoDevNet
+https://github.com/CiscoSystems
+https://github.com/CiscoSE
+https://github.com/CiscoSecurity
+https://github.com/datacenter
+https://github.com/CiscoTestAutomation
+https://github.com/DevNetSandbox
+
+* [Dell Technologies](https://github.com/dell) 
+* [Dell Networking](https://github.com/Dell-Networking) 
+
+* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
+* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
+
+https://github.com/HPENetworking
+https://github.com/hpe-storage
+
+IBM
+https://github.com/watson-developer-cloud/
+
+* [Intel](https://github.com/intel) 
+
+https://github.com/IntelSoftware
+https://github.com/IntelLabs
+https://github.com/IntelPython
+https://github.com/Intel-bigdata
+https://github.com/IntelRealSense
+https://github.com/intuit
+https://github.com/IntuitDeveloper
+
+MIT
+https://github.com/mit
+https://github.com/mitmedialab
+https://github.com/mit-rss
+https://github.com/mit-cml/
+https://github.com/MIT-SPARK/
+https://github.com/mitodl
+https://github.com/HDI-Project
+https://github.com/mitmath/
+And other MIT I didn't list
+
+Microsoft
+
+* [Oracle](https://github.com/oracle) 
+* [Oracle Quick Start](https://github.com/oracle-quickstart) 
+
+https://github.com/rackerlabs
+https://github.com/racker
+https://github.com/rackspace-infrastructure-automation
+
+https://github.com/RedHatOfficial
+https://github.com/redhat-developer
+https://github.com/RedHatGov
+https://github.com/redhat-cop
+https://github.com/RedHatInsights | cloud.redhat.com
+
+https://github.com/SAP
+https://github.com/SAP-samples
+https://github.com/SAPDocuments
 -->
 
 
@@ -346,9 +355,8 @@ Companies that Use Python
 
 * [Elastic](https://github.com/elastic)
 
-* [Ford](https://github.com/Ford)
-
 * [Grubhub](https://github.com/grubhub) 
+
 * [IBM](https://github.com/IBM)  
 * [IBM Cloud](https://github.com/IBM-Cloud)
 
