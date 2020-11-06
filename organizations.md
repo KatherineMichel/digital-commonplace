@@ -380,16 +380,12 @@ Companies that Use Python
 * [O'Reilly Media](https://github.com/oreillymedia)
 * [O'Reilly Japan](https://github.com/oreilly-japan)
 * [Pearson Technology](https://github.com/pearsontechnology) 
+* [Pearson Higher Ed](https://github.com/Pearson-Higher-Ed) 
+* [Pearson Education](https://github.com/PearsonEducation) 
+* [Pearson User Experience](https://github.com/pearson-ux) 
 * [Pluralsight](https://github.com/pluralsight)
 * [Pluralsight Guides](https://github.com/pluralsight/guides)
 * [Pluralsight Projects](https://github.com/pluralsight-projects)
-
-<!--
-Pearson
-https://github.com/Pearson-Higher-Ed
-https://github.com/PearsonEducation
-https://github.com/pearson-ux
--->
 
 ### Design
 
@@ -504,14 +500,11 @@ https://github.com/pearson-ux
 * [Booz Allen Hamilton](https://github.com/booz-allen-hamilton)
 * [Booz Allen](https://github.com/boozallen)
 * [Deloitte Solutions](https://github.com/DeloitteSolutions)
-
-<!--
-https://github.com/Deloitte
-https://github.com/DeloitteDigitalUK
-https://github.com/DeloitteDigital
-https://github.com/DeloitteDigitalAPAC
-https://github.com/DeloitteDigitalAT
--->
+* [Deloitte](https://github.com/Deloitte)
+* [Deloitte Digital UK](https://github.com/DeloitteDigitalUK)
+* [Deloitte Digital](https://github.com/DeloitteDigital)
+* [Deloitte Digital Asia Pacific](https://github.com/DeloitteDigitalAPAC)
+* [Deloitte Digital Austria](https://github.com/DeloitteDigitalAT)
 
 ### Investment- Python
 
@@ -519,13 +512,17 @@ https://github.com/DeloitteDigitalAT
 
 
 
-## Large Scale Machine Learning and Data Science
+## Large Scale Python, Machine Learning, and Data Science
 
 ### Facebook
 
+* [Facebook](https://github.com/facebook)  
 * [Facebook Experimental](https://github.com/facebookexperimental)
 * [Facebook Incubator GitHub](https://github.com/facebookincubator)
 * [Facebook Research GitHub](https://github.com/facebookresearch)
+* [Facebook Platform Samples](https://github.com/fbsamples) 
+* [Facebook Archive](https://github.com/facebookarchive)  
+* [Facebook Go](https://github.com/facebookgo)
 
 ### Google
 
@@ -543,8 +540,11 @@ https://github.com/DeloitteDigitalAT
 
 ### Amazon
 
-* [Amazon GitHub](https://github.com/amzn)
-* [Amazon Labs GitHub](https://github.com/awslabs)
+* [Alexa](https://github.com/alexa) 
+* [Amazon Web Services](https://github.com/amazonwebservices)  
+* [Amazon](https://github.com/amzn)
+* [AWS](https://github.com/aws)  
+* [AWS Labs](https://github.com/awslabs)
 
 ### Baidu
 
@@ -556,10 +556,20 @@ https://github.com/DeloitteDigitalAT
 
 * [NVIDIA GitHub](https://github.com/NVIDIA)
 
+### Apple
+
+* [Apple](https://github.com/apple)
+
+## Browsers and Search Engines
+
+* [Brave](https://github.com/brave) 
+* [DuckDuckGo](https://github.com/duckduckgo) 
+* [Yahoo!](https://github.com/yahoo) 
+* [Yandex](https://github.com/yandex)
+
 ### Companies with Data Science Frameworks/Infrastructure
 
 * [Apache GitHub](https://github.com/apache)
-* [Apple GitHub](https://github.com/apple)
 * [ARM Software GitHub](https://github.com/ARM-software)
 * [Cisco GitHub](https://github.com/cisco/)
 * [Cisco Systems GitHub](https://github.com/CiscoSystems)
@@ -571,8 +581,6 @@ https://github.com/DeloitteDigitalAT
 * [Microsoft GitHub](https://github.com/Microsoft)
 * [Nervana Systems GitHub](https://github.com/NervanaSystems)
 * [Tencent GitHub](https://github.com/Tencent)
-* [Yahoo! GitHub](https://github.com/yahoo)
-* [Yandex GitHub](https://github.com/yandex)
 
 ## Machine Learning and Data Science Tools
 
@@ -625,28 +633,6 @@ https://github.com/DeloitteDigitalAT
 
 
 ## Organizations on GitHub
-
-### Amazon
-
-* [Alexa](https://github.com/alexa) 
-* [Amazon Web Services](https://github.com/amazonwebservices)  
-* [Amazon](https://github.com/amzn)
-* [AWS](https://github.com/aws)  
-* [AWS Labs](https://github.com/awslabs)
-
-### Apple
-
-* [Apple](https://github.com/apple)
-
-### Facebook
-
-* [Facebook](https://github.com/facebook)  
-* [Facebook Archive](https://github.com/facebookarchive)  
-* [Facebook Experimental](https://github.com/facebookexperimental)
-* [Facebook Go](https://github.com/facebookgo)
-* [Facebook Incubator](https://github.com/facebookincubator)
-* [Facebook Platform Samples](https://github.com/fbsamples) 
-* [Facebook Research](https://github.com/facebookresearch)
 
 ### Google
 
@@ -705,23 +691,12 @@ Azure
 * [Alibaba Tech](https://github.com/alibabatech)  
 * [Alibaba Technology](https://github.com/Alibaba-Technology) 
 
-### Baidu
-
-* [Baidu](https://github.com/baidu) 
-* [Baidu Research](https://github.com/baidu-research)  
-
 ### Tencent
 
 * [Tencent](https://github.com/Tencent)
 * [Tencent Open](https://github.com/TencentOpen)
 * [Tencent YouTu Research](https://github.com/TencentYoutuResearch)
 
-## Browsers and Search Engines
-
-* [Brave](https://github.com/brave) 
-* [DuckDuckGo](https://github.com/duckduckgo) 
-* [Yahoo!](https://github.com/yahoo) 
-* [Yandex](https://github.com/yandex)
 
 
 ## Tools
