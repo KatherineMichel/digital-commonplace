@@ -518,25 +518,37 @@ Companies that Use Python
 
 * [Facebook](https://github.com/facebook)  
 * [Facebook Experimental](https://github.com/facebookexperimental)
-* [Facebook Incubator GitHub](https://github.com/facebookincubator)
-* [Facebook Research GitHub](https://github.com/facebookresearch)
+* [Facebook Incubator](https://github.com/facebookincubator)
+* [Facebook Research](https://github.com/facebookresearch)
 * [Facebook Platform Samples](https://github.com/fbsamples) 
 * [Facebook Archive](https://github.com/facebookarchive)  
 * [Facebook Go](https://github.com/facebookgo)
 
 ### Google
 
-* [DeepMind (Google) GitHub](https://github.com/deepmind)
-* [Google GitHub](https://github.com/google)
-* [Google Colab GitHub](https://github.com/googlecolab/)
-* [Google Creative Lab GitHub](https://github.com/googlecreativelab)
-* [Google Genomics GitHub](https://github.com/googlegenomics)
-* [Google Research GitHub](https://github.com/google-research)
+* [DeepMind (Google)](https://github.com/deepmind)
+* [Google](https://github.com/google)
+* [Google Colab](https://github.com/googlecolab/)
+* [Google Creative Lab](https://github.com/googlecreativelab)
+* [Google Genomics](https://github.com/googlegenomics)
+* [Google Research](https://github.com/google-research)
 
-### Uber
-
-* [Uber GitHub](https://github.com/uber)
-* [Uber Common GitHub](https://github.com/uber-common)
+* [Android](https://github.com/android) 
+* [Actions on Google](https://github.com/actions-on-google)
+* [Google Ads](https://github.com/googleads)  
+* [Google Chrome](https://github.com/GoogleChrome)  
+* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
+* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
+* [Google Container Tools](https://github.com/GoogleContainerTools)  
+* [Google Developer Training](https://github.com/google-developer-training) 
+* [Google Drive](https://github.com/googledrive) 
+* [Google Glass](https://github.com/googleglass)  
+* [Google Knowledge](https://github.com/googleknowledge)  
+* [Google Maps](https://github.com/googlemaps)  
+* [Google Samples](https://github.com/googlesamples) 
+* [G Suite Devs](https://github.com/gsuitedevs )
+* [YouTube](https://github.com/youtube)
 
 ### Amazon
 
@@ -548,17 +560,48 @@ Companies that Use Python
 
 ### Baidu
 
-* [Baidu GitHub](https://github.com/baidu)
-* [Baidu Research GitHub](https://github.com/baidu-research)
+* [Baidu](https://github.com/baidu)
+* [Baidu Research](https://github.com/baidu-research)
 * [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
 
-### NVIDIA
+### Alibaba
 
-* [NVIDIA GitHub](https://github.com/NVIDIA)
+* [Alibaba](https://github.com/alibaba)  
+* [Alibaba-IntlUED-FD](https://github.com/sdc-alibaba) 
+* [Alibaba Tech](https://github.com/alibabatech)  
+* [Alibaba Technology](https://github.com/Alibaba-Technology) 
+
+### Tencent
+
+* [Tencent](https://github.com/Tencent)
+* [Tencent Open](https://github.com/TencentOpen)
+* [Tencent YouTu Research](https://github.com/TencentYoutuResearch)
 
 ### Apple
 
 * [Apple](https://github.com/apple)
+
+### Uber
+
+* [Uber](https://github.com/uber)
+* [Uber Common](https://github.com/uber-common)
+
+### Twitter
+
+* [Twitter](https://github.com/twitter)  
+* [Twitter Dev](https://github.com/twitterdev) 
+
+### Mozilla
+
+* [Mozilla](https://github.com/mozilla)
+* [Mozilla Developer Network](https://github.com/mdn)
+* [Mozilla Developer Outreach](https://github.com/mozdevs)
+* [Mozilla devtools-html](https://github.com/devtools-html)
+* [Mozilla Foundation](https://github.com/MozillaFoundation)
+* [Mozilla IoT](https://github.com/mozilla-iot)
+* [Mozilla Mobile](https://github.com/mozilla-mobile/)
+* [Mozilla Security](https://github.com/MozillaSecurity/)
+* [Mozilla Services](https://github.com/mozilla-services)
 
 ## Browsers and Search Engines
 
@@ -567,56 +610,83 @@ Companies that Use Python
 * [Yahoo!](https://github.com/yahoo) 
 * [Yandex](https://github.com/yandex)
 
+### Microsoft
+
+* [ASP.NET](https://github.com/aspnet)
+* [Microsoft](https://github.com/Microsoft) 
+* [Microsoft Graph](https://github.com/microsoftgraph)
+* [Office Dev](https://github.com/OfficeDev)
+
+Azure
+* [Azure](https://github.com/azure)
+* [Windows Azure](https://github.com/WindowsAzure) 
+
+### IBM
+
+* [IBM](https://github.com/IBM)
+* [Watson Developer Cloud (IBM)](https://github.com/watson-developer-cloud)
+
+### Intel
+
+* [Intel](https://github.com/intel)
+* [Intel Analytics](https://github.com/intel-analytics)
+* [Nervana Systems](https://github.com/NervanaSystems)
+
+### NVIDIA
+
+* [NVIDIA](https://github.com/NVIDIA)
+
+### Cisco
+
+* [Cisco](https://github.com/cisco/)
+* [Cisco Systems](https://github.com/CiscoSystems)
+
+
 ### Companies with Data Science Frameworks/Infrastructure
 
-* [Apache GitHub](https://github.com/apache)
-* [ARM Software GitHub](https://github.com/ARM-software)
-* [Cisco GitHub](https://github.com/cisco/)
-* [Cisco Systems GitHub](https://github.com/CiscoSystems)
-* [Cloudera GitHub](https://github.com/cloudera)
-* [IBM GitHub](https://github.com/IBM)
-* [Watson Developer Cloud (IBM) GitHub](https://github.com/watson-developer-cloud)
-* [Intel GitHub](https://github.com/intel)
-* [Intel Analytics GitHub](https://github.com/intel-analytics)
-* [Microsoft GitHub](https://github.com/Microsoft)
-* [Nervana Systems GitHub](https://github.com/NervanaSystems)
-* [Tencent GitHub](https://github.com/Tencent)
+* [Apache](https://github.com/apache)
+* [ARM Software](https://github.com/ARM-software)
+
+
+
+* [Cloudera](https://github.com/cloudera)
+
 
 ## Machine Learning and Data Science Tools
 
 ### Companies with Individual Tools
 
-* [AddThis GitHub](https://github.com/addthis)
-* [Airbnb GitHub](https://github.com/airbnb)
-* [EdX GitHub](https://github.com/edx)
-* [Etsy GitHub](https://github.com/etsy)
-* [Dropbox GitHub](https://github.com/dropbox)
-* [Eventbrite GitHub](https://github.com/eventbrite)
-* [Flickr GitHub](https://github.com/flickr)
-* [Flipkart GitHub](https://github.com/flipkart)
-* [Foursquare GitHub](https://github.com/foursquare)
-* [Groupon GitHub](https://github.com/groupon)
-* [Hulu GitHub](https://github.com/hulu)
-* [Indeed GitHub](https://github.com/indeedeng)
-* [Instacart GitHub](https://github.com/instacart)
-* [Instagram GitHub](https://github.com/instagram)
-* [Intercom GitHub](https://github.com/intercom)
-* [LinkedIn GitHub](https://github.com/linkedin)
-* [Mixpanel GitHub](https://github.com/mixpanel)
-* [Mozilla GitHub](https://github.com/mozilla)
+* [AddThis](https://github.com/addthis)
+* [Airbnb](https://github.com/airbnb)
+* [EdX](https://github.com/edx)
+* [Etsy](https://github.com/etsy)
+* [Dropbox](https://github.com/dropbox)
+* [Eventbrite](https://github.com/eventbrite)
+* [Flickr](https://github.com/flickr)
+* [Flipkart](https://github.com/flipkart)
+* [Foursquare](https://github.com/foursquare)
+* [Groupon](https://github.com/groupon)
+* [Hulu](https://github.com/hulu)
+* [Indeed](https://github.com/indeedeng)
+* [Instacart](https://github.com/instacart)
+* [Instagram](https://github.com/instagram)
+* [Intercom](https://github.com/intercom)
+* [LinkedIn](https://github.com/linkedin)
+* [Mixpanel](https://github.com/mixpanel)
+* [Mozilla](https://github.com/mozilla)
 * [Netflix](https://github.com/Netflix)
-* [OpenStack GitHub](https://github.com/openstack)
-* [Pinterest GitHub](https://github.com/pinterest)
-* [Salesforce GitHub](https://github.com/salesforce)
-* [Samsung GitHub](https://github.com/Samsung)
-* [Shopify GitHub](https://github.com/shopify)
-* [Slack GitHub](https://github.com/slackhq)
-* [Sony GitHub](https://github.com/sony)
-* [Spotify GitHub](https://github.com/spotify)
-* [Twitter GitHub](https://github.com/twitter)
-* [Yammer GitHub](https://github.com/yammer)
-* [Yelp GitHub](https://github.com/yelp)
-* [Zillow GitHub](https://github.com/zillow)
+* [OpenStack](https://github.com/openstack)
+* [Pinterest](https://github.com/pinterest)
+* [Salesforce](https://github.com/salesforce)
+* [Samsung](https://github.com/Samsung)
+* [Shopify](https://github.com/shopify)
+* [Slack](https://github.com/slackhq)
+* [Sony](https://github.com/sony)
+* [Spotify](https://github.com/spotify)
+* [Twitter](https://github.com/twitter)
+* [Yammer](https://github.com/yammer)
+* [Yelp](https://github.com/yelp)
+* [Zillow](https://github.com/zillow)
 
 
 * [comma.ai](https://github.com/commaai)
@@ -634,71 +704,6 @@ Companies that Use Python
 
 ## Organizations on GitHub
 
-### Google
-
-* [Android](https://github.com/android) 
-* [Google](https://github.com/google)  
-* [Actions on Google](https://github.com/actions-on-google)
-* [Google Ads](https://github.com/googleads)  
-* [Google Chrome](https://github.com/GoogleChrome)  
-* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
-* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
-* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
-* [Google Container Tools](https://github.com/GoogleContainerTools)  
-* [Google Creative Lab](https://github.com/googlecreativelab) 
-* [Google Developer Training](https://github.com/google-developer-training) 
-* [Google Drive](https://github.com/googledrive) 
-* [Google Genomics](https://github.com/googlegenomics)  
-* [Google Glass](https://github.com/googleglass)  
-* [Google Knowledge](https://github.com/googleknowledge)  
-* [Google Maps](https://github.com/googlemaps)  
-* [Google Samples](https://github.com/googlesamples) 
-* [G Suite Devs](https://github.com/gsuitedevs )
-* [YouTube](https://github.com/youtube)
-
-### Microsoft
-
-* [ASP.NET](https://github.com/aspnet)
-* [Microsoft](https://github.com/Microsoft) 
-* [Microsoft Graph](https://github.com/microsoftgraph)
-* [Office Dev](https://github.com/OfficeDev)
-
-Azure
-* [Azure](https://github.com/azure)
-* [Windows Azure](https://github.com/WindowsAzure) 
-
-### Mozilla
-
-* [Mozilla](https://github.com/mozilla)
-* [Mozilla Developer Network](https://github.com/mdn)
-* [Mozilla Developer Outreach](https://github.com/mozdevs)
-* [Mozilla devtools-html](https://github.com/devtools-html)
-* [Mozilla Foundation](https://github.com/MozillaFoundation)
-* [Mozilla IoT](https://github.com/mozilla-iot)
-* [Mozilla Mobile](https://github.com/mozilla-mobile/)
-* [Mozilla Security](https://github.com/MozillaSecurity/)
-* [Mozilla Services](https://github.com/mozilla-services)
-
-### Twitter
-
-* [Twitter](https://github.com/twitter)  
-* [Twitter Dev](https://github.com/twitterdev) 
-
-### Alibaba
-
-* [Alibaba](https://github.com/alibaba)  
-* [Alibaba-IntlUED-FD](https://github.com/sdc-alibaba) 
-* [Alibaba Tech](https://github.com/alibabatech)  
-* [Alibaba Technology](https://github.com/Alibaba-Technology) 
-
-### Tencent
-
-* [Tencent](https://github.com/Tencent)
-* [Tencent Open](https://github.com/TencentOpen)
-* [Tencent YouTu Research](https://github.com/TencentYoutuResearch)
-
-
-
 ## Tools
 
 ### DevOps and Project Management
@@ -715,11 +720,9 @@ Azure
 
 ### Infrastructure and Other
 
-* [Apache](https://github.com/apache)
 * [Chef](https://github.com/chef)
-* [Cloudera](https://github.com/cloudera)  
-* [CloudFlare](https://github.com/cloudflare)
 * [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
+* [CloudFlare](https://github.com/cloudflare)
 * [Couchbase Labs](https://github.com/couchbaselabs)  
 * [Docker](https://github.com/docker)
 * [Docker Library](https://github.com/docker-library)
@@ -794,15 +797,12 @@ Azure
 * [Shutterstock](https://github.com/shutterstock) 
 * [Unsplash](https://github.com/unsplash)
 
-### Web Hosting
-
-* [Netlify](https://github.com/netlify) 
-
 ### Website and App on Demand
 
 * [Automattic](https://github.com/Automattic) 
 * [DWNLD](https://github.com/dwnld) 
 * [GoDaddy](https://github.com/godaddy)
+* [Netlify](https://github.com/netlify) 
 * [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) 
 * [Shopify](https://github.com/Shopify) 
 * [Squarespace](https://github.com/squarespace)  
