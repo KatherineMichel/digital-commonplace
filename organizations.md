@@ -247,48 +247,54 @@ https://github.com/SAP-samples
 https://github.com/SAPDocuments
 -->
 
-
 ## Kansas Non-Profit
 
-* [devICT](https://github.com/devict)
-* [Ennovar](https://github.com/Ennovar)
-* [Open Wichita](https://github.com/openwichita)
-* [Startup Wichita](https://github.com/StartupWichita)
-* [Wichitalks](https://github.com/Wichitalks)
+| Blog Link                                                                      | GitHub.                                                 |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| devICT          || [devICT](https://github.com/devict)
+| Ennovar         || [Ennovar](https://github.com/Ennovar)
+| Open Wichita    || [Open Wichita](https://github.com/openwichita)
+| Startup Wichita || [Startup Wichita](https://github.com/StartupWichita)
+| Wichitalks      || [Wichitalks](https://github.com/Wichitalks)
 
-## Companies that Use Python- Engineering Blogs
+## High Performance Python- Engineering Blogs
 
-High Performance Python- Engineering Blogs
-* [Bloomberg](https://www.techatbloomberg.com/)
-* [Dropbox](https://blogs.dropbox.com)
-* [Google](https://developers.googleblog.com)
-* [Instagram](https://engineering.instagram.com)
-* [Netflix](https://medium.com/netflix-techblog)
-* [Quora](https://engineering.quora.com)
-* [Reddit](https://redditblog.com)
-* [Spotify](https://labs.spotify.com)
-* [Uber](https://eng.uber.com)
-* [Zapier](https://zapier.com/engineering)
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Bloomberg "Tech at Bloomberg"](https://www.techatbloomberg.com/blog/) || [Bloomberg Finance L.P.](https://github.com/bloomberg)
+| [Dropbox Tech](https://blogs.dropbox.com/tech/)                        || [Dropbox](https://github.com/dropbox) 
+| [Google Developers](https://developers.googleblog.com/)                ||
+| [Google AI Blog](https://ai.googleblog.com/)                           ||
+| [Google Security](https://security.googleblog.com/)                    ||
+| [Instagram Engineering](https://instagram-engineering.com/)            || [Instagram](https://github.com/Instragram)  
+| [Netflix Tech](https://netflixtechblog.com/)                           || [Netflix](https://github.com/Netflix)
+| [Quora Engineering](https://engineering.quora.com/)                    || [Quora](https://github.com/quora)
+| [Reddit](https://redditblog.com/)                                      || [Reddit](https://github.com/reddit)
+| [Spotify Engineering and Technology](https://labs.spotify.com/)        || [Spotify](https://github.com/spotify)
+| [Uber Engineering](https://eng.uber.com/)                              || [Uber](https://github.com/uber)
+| [Zapier Engineering](https://zapier.com/engineering/)                  || [Zapier](https://github.com/zapier)
 
 ## Major Organizations and Projects that Use Django
 
-* [18F GitHub](https://github.com/18F)  
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Disqus](https://github.com/disqus)
-* [Instagram GitHub](https://github.com/instagram)  
-* [Knight Foundation](http://www.knightfoundation.org/apps)  
-* [Mozilla GitHub](https://github.com/mozilla)
-* [National Geographic GitHub](https://github.com/natgeo)  
-* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-* [PBS GitHub](https://github.com/pbs)  
-* [Pinterest GitHub](https://github.com/pinterest)  
-* [Rdio GitHub](https://github.com/rdio)  
-* [Reddit GitHub](https://github.com/reddit)  
-* [Rover GitHub](https://github.com/roverdotcom)
-* [StyleSeat GitHub](https://github.com/styleseat) 
-* [The Spokesman Review](http://www.spokesman.com)
-* [Wharton GitHub](https://github.com/wharton)
-* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| 18F                                || [18F](https://github.com/18F) 
+| The Dallas Morning News            || [The Dallas Morning News](https://github.com/DallasMorningNews)
+| Disqus                             || [Disqus](https://github.com/disqus)
+| Instagram                          || [Instagram](https://github.com/instagram)
+| Knight Foundation                  || [Knight Foundation](http://www.knightfoundation.org/apps) 
+| Mozilla                            || [Mozilla](https://github.com/mozilla)
+| National Geographic                || [National Geographic](https://github.com/natgeo) 
+| Northwestern University Knight Lab || [Northwestern University Knight Lab](https://github.com/NUKnightLab)
+| PBS                                || [PBS](https://github.com/pbs) 
+| Pinterest                          || [Pinterest](https://github.com/pinterest)  
+| Rdio                               || [Rdio](https://github.com/rdio) 
+| Reddit                             || [Reddit](https://github.com/reddit) 
+| Rover                              || [Rover](https://github.com/roverdotcom)
+| StyleSeat                          || [StyleSeat](https://github.com/styleseat)
+| The Spokesman Review               || [The Spokesman Review](http://www.spokesman.com)
+| Wharton.                           || [Wharton](https://github.com/wharton)
+| Wharton Learning Lab               || [Wharton Learning Lab](https://github.com/whartonlearninglab)
 
 <!--
 https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
@@ -297,60 +303,9 @@ http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
 
+
+
 ## Major Organizations and Projects that Use Python or Django
-
-Companies that Use Python
-* PyCon Slide
-
-<!--
-* [Alexa](https://github.com/alexa) 
-* [Amazon Web Services](https://github.com/amazonwebservices)  
-* [Amazon](https://github.com/amzn)
-* [AWS](https://github.com/aws)  
-* [AWS Labs](https://github.com/awslabs)
-
-* [Facebook](https://github.com/facebook)  
-* [Facebook Archive](https://github.com/facebookarchive)  
-* [Facebook Experimental](https://github.com/facebookexperimental)
-* [Facebook Go](https://github.com/facebookgo)
-* [Facebook Incubator](https://github.com/facebookincubator)
-* [Facebook Platform Samples](https://github.com/fbsamples) 
-* [Facebook Research](https://github.com/facebookresearch)
-
-* [Android](https://github.com/android) 
-* [Google](https://github.com/google)  
-* [Actions on Google](https://github.com/actions-on-google)
-* [Google Ads](https://github.com/googleads)  
-* [Google Chrome](https://github.com/GoogleChrome)  
-* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
-* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
-* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
-* [Google Container Tools](https://github.com/GoogleContainerTools)  
-* [Google Creative Lab](https://github.com/googlecreativelab) 
-* [Google Developer Training](https://github.com/google-developer-training) 
-* [Google Drive](https://github.com/googledrive) 
-* [Google Genomics](https://github.com/googlegenomics)  
-* [Google Glass](https://github.com/googleglass)  
-* [Google Knowledge](https://github.com/googleknowledge)  
-* [Google Maps](https://github.com/googlemaps)  
-* [Google Samples](https://github.com/googlesamples) 
-* [G Suite Devs](https://github.com/gsuitedevs)
-* [YouTube](https://github.com/youtube)
-
-* [Apple](https://github.com/apple)
-
-* [Mozilla](https://github.com/mozilla)
-* [Mozilla Developer Network](https://github.com/mdn)
-* [Mozilla Developer Outreach](https://github.com/mozdevs)
-* [Mozilla devtools-html](https://github.com/devtools-html)
-* [Mozilla Foundation](https://github.com/MozillaFoundation)
-* [Mozilla IoT](https://github.com/mozilla-iot)
-* [Mozilla Services](https://github.com/mozilla-services)
-* [Mozilla Mobile](https://github.com/mozilla-mobile/) 
--->
-
-
-## Python
 
 ### Infrastructure and Other
 
@@ -371,7 +326,6 @@ Companies that Use Python
 * [Walt Disney Animation Studios](https://github.com/wdas) 
 * [LinkedIn](https://github.com/linkedin)  
 * [Palantir](https://github.com/palantir)
-* [Netflix](https://github.com/Netflix) 
 
 ### Learning
 
@@ -398,7 +352,6 @@ Companies that Use Python
 * [Box](https://github.com/box) 
 * [Box Samples](https://github.com/box-samples) 
 * [Box Community](https://github.com/box-community) 
-* [Dropbox](https://github.com/dropbox) 
 * [MailChimp](https://github.com/mailchimp) 
 
 ### Metrics
@@ -415,13 +368,8 @@ Companies that Use Python
 
 ### Social
 
-* [Instagram](https://github.com/Instragram)  
 * [Tumblr](https://github.com/tumblr) 
 * [Yelp](https://github.com/Yelp) 
-
-### Music
-
-* [Spotify](https://github.com/spotify) 
 
 ### Events and Tickets- Python
 
@@ -429,51 +377,19 @@ Companies that Use Python
 
 ### Forums
 
-* [Quora](https://github.com/quora) 
-* [Reddit](https://github.com/reddit) 
 * [Reddit Archive](https://github.com/reddit-archive/) 
-
-## News
-
-* [NBC Universal](https://github.com/nbcuniversal) 
-* [NBC News Digital](https://github.com/nbcnews) 
-* [The New York Times](https://github.com/NYTimes) 
-* [NYT Labs](https://github.com/nytlabs)  
-* [NYT Newsroom Developers](https://github.com/newsdev)
-* [Stanford Journalism](https://github.com/stanfordjournalism)
-* [The Upshot](https://github.com/TheUpshot)  
-* [Vox Media](https://github.com/voxmedia)  
 
 ### Transport
 
 * [Lyft](https://github.com/lyft)
-* [Uber](https://github.com/uber)  
 * [Uber Common](https://github.com/uber-common) 
 * [Uber Web](https://github.com/uber-web ) 
 * [Uber Go](https://github.com/uber-go)
-
-### Telecommunications
-
-* [Century Link](https://github.com/CenturyLink)
-* [Century Link Labs](https://github.com/CenturyLinkLabs)
-* [Century Link Cloud](https://github.com/CenturyLinkCloud)
-* [Comcast](https://github.com/Comcast) 
-* [Comcast Samples](https://github.com/Comcast) 
-* [Samsung](https://github.com/Samsung)
-* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
 
 ### Health
 
 * [23andMe](https://github.com/23andMe) 
 * [Doctor on Demand](https://github.com/doctorondemand)
-
-### Insurance
-
-* [Liberty Mutual Insurance](https://github.com/libertymutual) 
-* [Northwestern Mutual](https://github.com/northwesternmutual) 
-* [Progressive Insurance](https://github.com/Progressive-Insurance) 
-* [Progressive Insurance](https://github.com/Progressive) 
-* [State Farm](https://github.com/StateFarmIns) 
 
 ### Financial Services
 
@@ -488,12 +404,41 @@ Companies that Use Python
 * [Quicken Loans](https://github.com/QuickenLoans) 
 * [Venmo](https://github.com/venmo)
 
+## News
+
+* [NBC Universal](https://github.com/nbcuniversal) 
+* [NBC News Digital](https://github.com/nbcnews) 
+* [The New York Times](https://github.com/NYTimes) 
+* [NYT Labs](https://github.com/nytlabs)  
+* [NYT Newsroom Developers](https://github.com/newsdev)
+* [Stanford Journalism](https://github.com/stanfordjournalism)
+* [The Upshot](https://github.com/TheUpshot)  
+* [Vox Media](https://github.com/voxmedia)  
+
 ### Not-Profit
 
 * [NASA](https://github.com/nasa) 
 * [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
 * [NASA Jet Propulsion Laboratory](https://github.com/nasajpl) 
 * [Stanford University Digital Library](https://github.com/sul-dlss)  
+
+### Telecommunications
+
+* [Century Link](https://github.com/CenturyLink)
+* [Century Link Labs](https://github.com/CenturyLinkLabs)
+* [Century Link Cloud](https://github.com/CenturyLinkCloud)
+* [Comcast](https://github.com/Comcast) 
+* [Comcast Samples](https://github.com/Comcast) 
+* [Samsung](https://github.com/Samsung)
+* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
+
+### Insurance
+
+* [Liberty Mutual Insurance](https://github.com/libertymutual) 
+* [Northwestern Mutual](https://github.com/northwesternmutual) 
+* [Progressive Insurance](https://github.com/Progressive-Insurance) 
+* [Progressive Insurance](https://github.com/Progressive) 
+* [State Farm](https://github.com/StateFarmIns) 
 
 ### Analyst Agencies- Python
 
@@ -505,10 +450,6 @@ Companies that Use Python
 * [Deloitte Digital](https://github.com/DeloitteDigital)
 * [Deloitte Digital Asia Pacific](https://github.com/DeloitteDigitalAPAC)
 * [Deloitte Digital Austria](https://github.com/DeloitteDigitalAT)
-
-### Investment- Python
-
-* [Bloomberg Finance L.P.](https://github.com/bloomberg)
 
 
 
