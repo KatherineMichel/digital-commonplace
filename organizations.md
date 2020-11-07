@@ -17,10 +17,6 @@ https://github.com/unsplash/datasets
 https://github.com/HangarOrg/
 
 https://github.com/defcon201/
-
-Security
-https://github.com/OWASP | OWASP
-https://github.com/Hacker0x01/
 -->
 
 <!--
@@ -42,8 +38,6 @@ https://github.com/python-fedex-devs
 
 * [PagerDuty](https://github.com/PagerDuty) 
 
-https://github.com/Semmle
-
 DevRel
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
@@ -60,15 +54,6 @@ https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
 https://github.com/dolbyio
 
-https://github.com/cisco
-https://github.com/CiscoDevNet
-https://github.com/CiscoSystems
-https://github.com/CiscoSE
-https://github.com/CiscoSecurity
-https://github.com/datacenter
-https://github.com/CiscoTestAutomation
-https://github.com/DevNetSandbox
-
 * [Dell Technologies](https://github.com/dell) 
 * [Dell Networking](https://github.com/Dell-Networking) 
 
@@ -78,14 +63,6 @@ https://github.com/DevNetSandbox
 https://github.com/HPENetworking
 https://github.com/hpe-storage
 
-IBM
-https://github.com/watson-developer-cloud/
-
-https://github.com/IntelSoftware
-https://github.com/IntelLabs
-https://github.com/IntelPython
-https://github.com/Intel-bigdata
-https://github.com/IntelRealSense
 https://github.com/intuit
 https://github.com/IntuitDeveloper
 
@@ -99,8 +76,6 @@ https://github.com/mitodl
 https://github.com/HDI-Project
 https://github.com/mitmath/
 And other MIT I didn't list
-
-Microsoft
 
 * [Oracle](https://github.com/oracle) 
 * [Oracle Quick Start](https://github.com/oracle-quickstart) 
@@ -230,6 +205,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [Flatiron Institute](https://github.com/flatironinstitute)
 * [Palantir](https://github.com/palantir)
+* [Semmle](https://github.com/Semmle)
 
 ### Learning
 
@@ -561,6 +537,14 @@ Azure
 * [Intel Analytics](https://github.com/intel-analytics)
 * [Nervana Systems](https://github.com/NervanaSystems)
 
+<!--
+https://github.com/IntelSoftware
+https://github.com/IntelLabs
+https://github.com/IntelPython
+https://github.com/Intel-bigdata
+https://github.com/IntelRealSense
+-->
+
 ### NVIDIA
 
 * [NVIDIA](https://github.com/NVIDIA)
@@ -570,6 +554,16 @@ Azure
 * [Cisco](https://github.com/cisco/)
 * [Cisco Systems](https://github.com/CiscoSystems)
 
+<!--
+https://github.com/cisco
+https://github.com/CiscoDevNet
+https://github.com/CiscoSystems
+https://github.com/CiscoSE
+https://github.com/CiscoSecurity
+https://github.com/datacenter
+https://github.com/CiscoTestAutomation
+https://github.com/DevNetSandbox
+-->
 
 ### Companies with Data Science Frameworks/Infrastructure
 
@@ -647,6 +641,11 @@ Azure
 * [Open Source Maintainers on GitHub](https://github.com/maintainers)
 * [GitHub Archive](https://github.com/github-archive)
 * [Trello](https://github.com/trello)
+
+### Security
+
+* [Hacker One](https://github.com/Hacker0x01/)
+* [OWASP](https://github.com/OWASP)
 
 ### Infrastructure and Other
 
