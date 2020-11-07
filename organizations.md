@@ -9,22 +9,23 @@ https://github.com/ImaginaryLandscape
 
 https://github.com/StateFarmInsCodingCompetition
 
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/HangarOrg/defaults
+
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
-
-https://github.com/booz-allen-hamilton/agile-playbook
-https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
+https://github.com/indeedeng/FOSS-Contributor-Fund
 https://github.com/VerizonMedia/oss-guide
 https://verizonmedia.github.io/oss-guide/
+https://github.com/booz-allen-hamilton/agile-playbook
+https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
 
 https://github.com/chmarz/API-guidelines
 
 https://github.com/NVIDIA/DIGITS
 
 https://github.com/unsplash/datasets
-
-
-https://github.com/HangarOrg/
 
 https://github.com/defcon201/
 -->
@@ -99,13 +100,6 @@ DevRel
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
 
-Tool
-https://github.com/ansible/ansible
-https://github.com/mongodb/
-https://github.com/prometheus
-https://github.com/splunk
-https://github.com/travis-ci/travis-ci
-https://github.com/trello
 https://blog.trello.com/github-and-trello-integrate-your-commits
 
 
@@ -306,6 +300,15 @@ https://github.com/SAPDocuments
 * [JetBrains](https://github.com/JetBrains) 
 * [MailChimp](https://github.com/mailchimp) 
 * [Yubico](https://github.com/yubico) 
+
+<!--
+https://github.com/ansible/ansible
+https://github.com/mongodb/
+https://github.com/prometheus
+https://github.com/splunk
+https://github.com/travis-ci/travis-ci
+https://github.com/trello
+-->
 
 ### Metrics
 
