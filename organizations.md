@@ -32,22 +32,6 @@ Public Interest
 https://github.com/OWASP | OWASP
 -->
 
-## Django Consulting Firms
-
-Python and Django Consulting Firm GitHub Accounts
-* [Caktus Group GitHub](https://github.com/caktus) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
-* [Changeset Consulting](https://changeset.nyc)
-* [Cuttlesoft GitHub](https://github.com/cuttlesoft) and [Cuttlesoft Blog](https://www.cuttlesoft.com/blog)
-* [Divio GitHub](https://github.com/divio) and [Divio Blog](https://www.divio.com/blog)
-* [Eldarion GitHub](https://github.com/eldarion) and [Eldarion Blog](http://eldarion.com/blog)
-* [JamBon Software GitHub](https://github.com/jambonsw) and [JamBon Software](http://www.jambonsw.com)
-* [Lincoln Loop GitHub](https://github.com/lincolnloop) and [Lincoln Loop Blog](https://lincolnloop.com/blog)
-* [Pinax](https://pinaxproject.com) and [Pinax Blog](http://blog.pinaxproject.com)
-* [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [RevSys Tidbits](http://www.revsys.com/tidbits) 
-* [Torchbox GitHub](https://github.com/torchbox) and [Torchbox Blog](https://torchbox.com/blog)
-* [Truthful Technology GitHub](https://github.com/TruthfulTechnology) and [Truthful Technology](https://truthful.technology)
-* [Vinta Software GitHub](https://github.com/vintasoftware) and [Vinta Blog](https://www.vinta.com.br/blog)
-
 <!--
 https://www.jbssolutions.com/
 
@@ -251,50 +235,54 @@ https://github.com/SAPDocuments
 
 | Blog Link                                                                      | GitHub.                                                 |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| devICT          || [devICT](https://github.com/devict)
-| Ennovar         || [Ennovar](https://github.com/Ennovar)
-| Open Wichita    || [Open Wichita](https://github.com/openwichita)
-| Startup Wichita || [Startup Wichita](https://github.com/StartupWichita)
-| Wichitalks      || [Wichitalks](https://github.com/Wichitalks)
+| devICT          | [devICT](https://github.com/devict) |
+| Ennovar         | [Ennovar](https://github.com/Ennovar) |
+| Open Wichita    | [Open Wichita](https://github.com/openwichita) |
+| Startup Wichita | [Startup Wichita](https://github.com/StartupWichita) |
+| Wichitalks      | [Wichitalks](https://github.com/Wichitalks) |
 
-## High Performance Python- Engineering Blogs
+## Python and Django Consulting Firm Accounts
 
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Bloomberg "Tech at Bloomberg"](https://www.techatbloomberg.com/blog/) || [Bloomberg Finance L.P.](https://github.com/bloomberg)
-| [Dropbox Tech](https://blogs.dropbox.com/tech/)                        || [Dropbox](https://github.com/dropbox) 
-| [Google Developers](https://developers.googleblog.com/)                ||
-| [Google AI Blog](https://ai.googleblog.com/)                           ||
-| [Google Security](https://security.googleblog.com/)                    ||
-| [Instagram Engineering](https://instagram-engineering.com/)            || [Instagram](https://github.com/Instragram)  
-| [Netflix Tech](https://netflixtechblog.com/)                           || [Netflix](https://github.com/Netflix)
-| [Quora Engineering](https://engineering.quora.com/)                    || [Quora](https://github.com/quora)
-| [Reddit](https://redditblog.com/)                                      || [Reddit](https://github.com/reddit)
-| [Spotify Engineering and Technology](https://labs.spotify.com/)        || [Spotify](https://github.com/spotify)
-| [Uber Engineering](https://eng.uber.com/)                              || [Uber](https://github.com/uber)
-| [Zapier Engineering](https://zapier.com/engineering/)                  || [Zapier](https://github.com/zapier)
+| [Caktus Group](https://www.caktusgroup.com/blog    | [Caktus Group](https://github.com/caktus)
+| [Changeset Consulting](https://changeset.nyc)      ||
+| [Cuttlesoft](https://www.cuttlesoft.com/blog)      | [Cuttlesoft](https://github.com/cuttlesoft) |
+| [Divio](https://www.divio.com/blog)                | [Divio](https://github.com/divio) |
+| [Eldarion](http://eldarion.com/blog)               | [Eldarion](https://github.com/eldarion) |
+| [JamBon Software](http://www.jambonsw.com)         | [JamBon Software](https://github.com/jambonsw) |
+| [Lincoln Loop](https://lincolnloop.com/blog)       | [Lincoln Loop](https://github.com/lincolnloop) |
+| [Pinax Blog](http://blog.pinaxproject.com)         | [Pinax](https://pinaxproject.com) |
+| [Revolution Systems](http://www.revsys.com/blog)   | [Revolution Systems](https://github.com/revsys) |
+| [Torchbox](https://torchbox.com/blog)              | [Torchbox](https://github.com/torchbox) |
+| [Truthful Technology](https://truthful.technology) | [Truthful Technology](https://github.com/TruthfulTechnology) |
+| [Vinta](https://www.vinta.com.br/blog)             | [Vinta Software](https://github.com/vintasoftware) |
+
+<!--
+[Revolution Systems Writings](http://www.revsys.com/writings) and [RevSys Tidbits](http://www.revsys.com/tidbits) 
+-->
 
 ## Major Organizations and Projects that Use Django
 
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| 18F                                || [18F](https://github.com/18F) 
-| The Dallas Morning News            || [The Dallas Morning News](https://github.com/DallasMorningNews)
-| Disqus                             || [Disqus](https://github.com/disqus)
-| Instagram                          || [Instagram](https://github.com/instagram)
-| Knight Foundation                  || [Knight Foundation](http://www.knightfoundation.org/apps) 
-| Mozilla                            || [Mozilla](https://github.com/mozilla)
-| National Geographic                || [National Geographic](https://github.com/natgeo) 
-| Northwestern University Knight Lab || [Northwestern University Knight Lab](https://github.com/NUKnightLab)
-| PBS                                || [PBS](https://github.com/pbs) 
-| Pinterest                          || [Pinterest](https://github.com/pinterest)  
-| Rdio                               || [Rdio](https://github.com/rdio) 
-| Reddit                             || [Reddit](https://github.com/reddit) 
-| Rover                              || [Rover](https://github.com/roverdotcom)
-| StyleSeat                          || [StyleSeat](https://github.com/styleseat)
-| The Spokesman Review               || [The Spokesman Review](http://www.spokesman.com)
-| Wharton.                           || [Wharton](https://github.com/wharton)
-| Wharton Learning Lab               || [Wharton Learning Lab](https://github.com/whartonlearninglab)
+| 18F                                | [18F](https://github.com/18F) |
+| The Dallas Morning News            | [The Dallas Morning News](https://github.com/DallasMorningNews) |
+| Disqus                             | [Disqus](https://github.com/disqus) |
+| Instagram                          | [Instagram](https://github.com/instagram) |
+| Knight Foundation                  | [Knight Foundation](http://www.knightfoundation.org/apps) |
+| Mozilla                            | [Mozilla](https://github.com/mozilla) |
+| National Geographic                | [National Geographic](https://github.com/natgeo) |
+| Northwestern University Knight Lab | [Northwestern University Knight Lab](https://github.com/NUKnightLab) |
+| PBS                                | [PBS](https://github.com/pbs) |
+| Pinterest                          | [Pinterest](https://github.com/pinterest) |  
+| Rdio                               | [Rdio](https://github.com/rdio) |
+| Reddit                             | [Reddit](https://github.com/reddit) | 
+| Rover                              | [Rover](https://github.com/roverdotcom) |
+| StyleSeat                          | [StyleSeat](https://github.com/styleseat) |
+| The Spokesman Review               | [The Spokesman Review](http://www.spokesman.com) |
+| Wharton.                           | [Wharton](https://github.com/wharton) |
+| Wharton Learning Lab               | [Wharton Learning Lab](https://github.com/whartonlearninglab) |
 
 <!--
 https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
@@ -302,6 +290,23 @@ https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann 
 http://www.spokesman.com/staff/
 http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
 -->
+
+## High Performance Python- Engineering Blogs
+
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Bloomberg "Tech at Bloomberg"](https://www.techatbloomberg.com/blog/) | [Bloomberg Finance L.P.](https://github.com/bloomberg) |
+| [Dropbox Tech](https://blogs.dropbox.com/tech/)                        | [Dropbox](https://github.com/dropbox) |
+| [Google Developers](https://developers.googleblog.com/)                |
+| [Google AI Blog](https://ai.googleblog.com/)                           |
+| [Google Security](https://security.googleblog.com/)                    |
+| [Instagram Engineering](https://instagram-engineering.com/)            | [Instagram](https://github.com/Instragram) |  
+| [Netflix Tech](https://netflixtechblog.com/)                           | [Netflix](https://github.com/Netflix) |
+| [Quora Engineering](https://engineering.quora.com/)                    | [Quora](https://github.com/quora) |
+| [Reddit](https://redditblog.com/)                                      | [Reddit](https://github.com/reddit) |
+| [Spotify Engineering and Technology](https://labs.spotify.com/)        | [Spotify](https://github.com/spotify) |
+| [Uber Engineering](https://eng.uber.com/)                              | [Uber](https://github.com/uber) |
+| [Zapier Engineering](https://zapier.com/engineering/)                  | [Zapier](https://github.com/zapier) |
 
 
 
