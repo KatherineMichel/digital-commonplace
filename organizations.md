@@ -3,33 +3,24 @@
 <!--
 markel corporation!
 
+https://github.com/customer-stories/nationwide
+
 https://github.com/ImaginaryLandscape
 
 https://github.com/chmarz/API-guidelines
 
-
-https://github.com/DataDog | Datadog, Inc.
+https://github.com/NVIDIA/DIGITS
 
 https://github.com/unsplash/datasets
 
-Religious
-https://github.com/lifechurch | Life.Church
 
-https://github.com/atlassian-labs | Atlassian Labs
-https://github.com/cumulusnetworks/ | Cumulus Networks
+https://github.com/HangarOrg/
 
 https://github.com/defcon201/
 
-https://github.com/historicalsource | historicalsource (Historical Source)
-https://mobile.twitter.com/OpenSFHistory
-
-https://github.com/NHSX
-
-https://github.com/Hacker0x01/
-https://github.com/HangarOrg/
-
-Public Interest
+Security
 https://github.com/OWASP | OWASP
+https://github.com/Hacker0x01/
 -->
 
 <!--
@@ -40,8 +31,6 @@ https://2018.djangocon.us/sponsors/
 -->
 
 <!--
-https://github.com/customer-stories/nationwide
-
 https://github.com/18F/
 https://github.com/usnistgov
 
@@ -49,16 +38,9 @@ Interesting!
 * [Adidas](https://github.com/adidas) 
 * [Adobe](https://github.com/adobe) 
 
-
-https://github.com/NVIDIA/DIGITS
-
 https://github.com/python-fedex-devs
 
-* [Kaggle](https://github.com/Kaggle) 
-
-
 * [PagerDuty](https://github.com/PagerDuty) 
-
 
 https://github.com/Semmle
 
@@ -251,6 +233,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ### Learning
 
+* [Kaggle](https://github.com/Kaggle) 
 * [edX](https://github.com/edx) 
 * [edX Platform](https://github.com/edx/edx-platform) 
 * [O'Reilly Media](https://github.com/oreillymedia)
@@ -655,6 +638,7 @@ Azure
 ### DevOps and Project Management
 
 * [Atlassian](https://github.com/atlassian)
+* [Atlassian Labs](https://github.com/atlassian-labs )
 * [Asana](https://github.com/asana)
 * [Basecamp](https://github.com/basecamp)
 * [Codeship](https://github.com/codeship)
@@ -682,6 +666,10 @@ Azure
 * [PostgreSQL](https://github.com/postgres)
 * [Ubuntu](https://github.com/ubuntu)
 * [VMware](https://github.com/vmware)
+
+<!--
+https://github.com/DataDog | Datadog, Inc.
+-->
 
 ## Companies by Subject
 
@@ -831,6 +819,7 @@ Azure
 ### Telecommunications
 
 * [AT&T Dev Support](https://github.com/attdevsupport)  
+* [Cumulus Networks](https://github.com/cumulusnetworks/) 
 * [Hulu](https://github.com/hulu) 
 * [Nokia](https://github.com/nokia/) 
 
@@ -1035,8 +1024,18 @@ Australian Government
 * [ribot](https://github.com/ribot)
 * [thoughtbot](https://github.com/thoughtbot)
 
+## Religious
+
+* [Life.Church](https://github.com/lifechurch)
+
 ## Not-Profit
- 
+
+<!--
+https://github.com/historicalsource | historicalsource (Historical Source)
+https://mobile.twitter.com/OpenSFHistory
+https://github.com/NHSX
+-->
+
 Not-Profit
 * [ACLU](https://github.com/aclu-national)
 * [Be My Eyes](https://github.com/bemyeyes)
