@@ -43,29 +43,6 @@ DevRel
 * [Twilio Org](https://github.com/Twilio-org) 
 
 
-https://github.com/netapp/
-https://github.com/NetAppDocs
-https://github.com/NetApp-StorageGRID
-
-* [Juniper Networks](https://github.com/juniper) 
-* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
-
-https://github.com/DolbyLaboratories
-https://github.com/DolbyDev
-https://github.com/dolbyio
-
-* [Dell Technologies](https://github.com/dell) 
-* [Dell Networking](https://github.com/Dell-Networking) 
-
-* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
-* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
-
-https://github.com/HPENetworking
-https://github.com/hpe-storage
-
-https://github.com/intuit
-https://github.com/IntuitDeveloper
-
 MIT
 https://github.com/mit
 https://github.com/mitmedialab
@@ -76,23 +53,6 @@ https://github.com/mitodl
 https://github.com/HDI-Project
 https://github.com/mitmath/
 And other MIT I didn't list
-
-* [Oracle](https://github.com/oracle) 
-* [Oracle Quick Start](https://github.com/oracle-quickstart) 
-
-https://github.com/rackerlabs
-https://github.com/racker
-https://github.com/rackspace-infrastructure-automation
-
-https://github.com/RedHatOfficial
-https://github.com/redhat-developer
-https://github.com/RedHatGov
-https://github.com/redhat-cop
-https://github.com/RedHatInsights | cloud.redhat.com
-
-https://github.com/SAP
-https://github.com/SAP-samples
-https://github.com/SAPDocuments
 -->
 
 <!--
@@ -194,12 +154,50 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [IBM](https://github.com/IBM)  
 * [IBM Cloud](https://github.com/IBM-Cloud)
 * [Intel](https://github.com/intel) 
+* [Oracle](https://github.com/oracle) 
+* [Oracle Quick Start](https://github.com/oracle-quickstart) 
 * [Rackspace](https://github.com/rackspace)
 * [Salesforce](https://github.com/salesforce)
 * [Salesforce Developers](https://github.com/developerforce)
 * [Salesforce UX](https://github.com/salesforce-ux)
 * [Force.com](https://github.com/forcedotcom)  
 * [SAP](https://github.com/SAP)  
+
+<!--
+https://github.com/netapp/
+https://github.com/NetAppDocs
+https://github.com/NetApp-StorageGRID
+
+* [Juniper Networks](https://github.com/juniper) 
+* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
+
+https://github.com/DolbyLaboratories
+https://github.com/DolbyDev
+https://github.com/dolbyio
+
+* [Dell Technologies](https://github.com/dell) 
+* [Dell Networking](https://github.com/Dell-Networking) 
+
+* [Hewlett Packard Enterprise](https://github.com/hewlettpackard/) 
+* [HPE (Hewlett Packard Enterprise)](https://github.com/HPE) 
+
+https://github.com/HPENetworking
+https://github.com/hpe-storage
+
+https://github.com/rackerlabs
+https://github.com/racker
+https://github.com/rackspace-infrastructure-automation
+
+https://github.com/RedHatOfficial
+https://github.com/redhat-developer
+https://github.com/RedHatGov
+https://github.com/redhat-cop
+https://github.com/RedHatInsights | cloud.redhat.com
+
+https://github.com/SAP
+https://github.com/SAP-samples
+https://github.com/SAPDocuments
+-->
 
 ### Not Classified
 
@@ -338,6 +336,9 @@ https://github.com/bmwcarit
 * [Venmo](https://github.com/venmo)
 
 <!--
+https://github.com/intuit
+https://github.com/IntuitDeveloper
+
 https://github.com/coinsquare
 -->
 
