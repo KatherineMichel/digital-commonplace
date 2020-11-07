@@ -869,7 +869,6 @@ Azure
 ### Forums
 
 * [Hacker News](https://github.com/HackerNews)
-* [Reddit](https://github.com/reddit) 
 
 ### Classifieds
 
