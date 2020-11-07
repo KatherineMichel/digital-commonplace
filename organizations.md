@@ -7,6 +7,16 @@ https://github.com/customer-stories/nationwide
 
 https://github.com/ImaginaryLandscape
 
+https://github.com/StateFarmInsCodingCompetition
+
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+
+https://github.com/booz-allen-hamilton/agile-playbook
+https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
+
 https://github.com/chmarz/API-guidelines
 
 https://github.com/NVIDIA/DIGITS
@@ -27,6 +37,53 @@ https://2018.djangocon.us/sponsors/
 -->
 
 <!--
+https://github.com/factset/open-source-governance
+Interesting OS
+https://github.com/leapfrogtechnology
+Interesting
+https://github.com/stride-nyc
+
+https://github.com/opensourcecities
+https://github.com/CfA-Library
+https://github.com/kennyjacoby/Community-Court-PDF-Scraper
+
+University
+https://github.com/PrincetonUniversity
+https://github.com/pulibrary
+https://github.com/YaleUniversity
+https://github.com/yalelibrary
+
+Gov
+https://github.com/18F/sbhub
+https://github.com/cityofnewyork
+https://github.com/BaltimoreCity
+https://github.com/city-of-baltimore
+https://github.com/bchd
+https://github.com/Baltimore-City-EGIS
+https://github.com/cfpb
+https://github.com/department-of-veterans-affairs/
+https://github.com/deptofdefense
+https://github.com/fecgov
+https://github.com/USFRS
+https://github.com/FDA
+https://github.com/idaholab
+https://github.com/IdahoLabResearch
+https://github.com/IdahoLabCuttingBoard
+https://github.com/ministryofjustice
+https://github.com/NREL
+https://github.com/nationalparkservice
+https://github.com/usagov/
+https://github.com/US-GOV
+https://github.com/usgpo
+https://github.com/CivilServiceUSA/us-senate/
+https://github.com/usarmyresearchlab
+https://github.com/USCGA
+https://github.com/usbr
+https://github.com/USEPA
+https://github.com/usgs
+https://github.com/worldbank
+
+
 https://github.com/18F/
 https://github.com/usnistgov
 
@@ -41,6 +98,15 @@ https://github.com/python-fedex-devs
 DevRel
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
+
+Tool
+https://github.com/ansible/ansible
+https://github.com/mongodb/
+https://github.com/prometheus
+https://github.com/splunk
+https://github.com/travis-ci/travis-ci
+https://github.com/trello
+https://blog.trello.com/github-and-trello-integrate-your-commits
 
 
 MIT
@@ -102,23 +168,23 @@ https://github.com/thoughtworksarts
 
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| 18F                                | [18F](https://github.com/18F) |
-| The Dallas Morning News            | [The Dallas Morning News](https://github.com/DallasMorningNews) |
-| Disqus                             | [Disqus](https://github.com/disqus) |
-| Instagram                          | [Instagram](https://github.com/instagram) |
-| Knight Foundation                  | [Knight Foundation](http://www.knightfoundation.org/apps) |
-| Mozilla                            | [Mozilla](https://github.com/mozilla) |
-| National Geographic                | [National Geographic](https://github.com/natgeo) |
-| Northwestern University Knight Lab | [Northwestern University Knight Lab](https://github.com/NUKnightLab) |
-| PBS                                | [PBS](https://github.com/pbs) |
-| Pinterest                          | [Pinterest](https://github.com/pinterest) |  
-| Rdio                               | [Rdio](https://github.com/rdio) |
-| Reddit                             | [Reddit](https://github.com/reddit) | 
-| Rover                              | [Rover](https://github.com/roverdotcom) |
-| StyleSeat                          | [StyleSeat](https://github.com/styleseat) |
-| The Spokesman Review               | [The Spokesman Review](http://www.spokesman.com) |
-| Wharton.                           | [Wharton](https://github.com/wharton) |
-| Wharton Learning Lab               | [Wharton Learning Lab](https://github.com/whartonlearninglab) |
+| 18F                                                         | [18F](https://github.com/18F) |
+| The Dallas Morning News                                     | [The Dallas Morning News](https://github.com/DallasMorningNews) |
+| Disqus                                                      | [Disqus](https://github.com/disqus) |
+| Instagram                                                   | [Instagram](https://github.com/instagram) |
+| Knight Foundation                                           | [Knight Foundation](http://www.knightfoundation.org/apps) |
+| Mozilla                                                     | [Mozilla](https://github.com/mozilla) |
+| National Geographic                                         | [National Geographic](https://github.com/natgeo) |
+| Northwestern University Knight Lab                          | [Northwestern University Knight Lab](https://github.com/NUKnightLab) |
+| PBS                                                         | [PBS](https://github.com/pbs) |
+| [Pinterest Engineering](https://medium.com/@Pinterest_Engineering) | [Pinterest](https://github.com/pinterest) |  
+| Rdio                                                        | [Rdio](https://github.com/rdio) |
+| Reddit                                                      | [Reddit](https://github.com/reddit) | 
+| Rover                                                       | [Rover](https://github.com/roverdotcom) |
+| StyleSeat                                                   | [StyleSeat](https://github.com/styleseat) |
+| The Spokesman Review                                        | [The Spokesman Review](http://www.spokesman.com) |
+| Wharton                                                     | [Wharton](https://github.com/wharton) |
+| Wharton Learning Lab                                        | [Wharton Learning Lab](https://github.com/whartonlearninglab) |
 
 <!--
 https://twitter.com/m_holtermann/status/1139264917008257031 | Markus Holtermann @ #LeadDevLondon on Twitter: "Do I know somebody at @eventbrite, @instagram, @NASA, @Pinterest, or @washingtonpost? Can you confirm (or deny) that you're still using (parts of) @djangoproject? #Django"
@@ -253,13 +319,10 @@ https://github.com/SAPDocuments
 * [Nike Inc.](https://github.com/Nike-Inc)
 * [Roverdotcom](https://github.com/roverdotcom)
 * [Walmart Labs](https://github.com/walmartlabs) 
+* [Walmart](https://github.com/walmart) 
 * [Wayfair](https://github.com/wayfair)
 
 <!--
-* [Managed by Q](https://github.com/managedbyq) 
-
-https://github.com/walmart
-
 https://github.com/wayfair-contribs
 https://github.com/wayfair-archive
 -->
@@ -277,16 +340,19 @@ https://github.com/wayfair-archive
 
 ### Events and Tickets- Python
 
-* [Eventbrite](https://github.com/eventbrite)  
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Eventbrite Engineering](https://www.eventbrite.com/engineering/) | [Eventbrite](https://github.com/eventbrite)  |
 
 ### Forums
 
 * [Reddit Archive](https://github.com/reddit-archive/) 
 
-### Food Delivery
+### On Demand
 
 * [Delivery Hero SE](https://github.com/deliveryhero) 
 * [Grubhub](https://github.com/grubhub) 
+* [Managed by Q](https://github.com/managedbyq) 
 
 ### Transport
 
@@ -328,19 +394,14 @@ https://github.com/bmwcarit
 * [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
 * [FreshBooks](https://github.com/freshbooks) 
 * [GM Financial](https://github.com/gmfinancial) 
+* [Intuit](https://github.com/intuit) 
+* [Intuit Developer](https://github.com/IntuitDeveloper) 
 * [JP Morgan Chase](https://github.com/jpmorganchase)
 * [Patreon](https://github.com/patreon)  
 * [PayPal](https://github.com/paypal) 
 * [Quicken Loans](https://github.com/QuickenLoans) 
 * [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
 * [Venmo](https://github.com/venmo)
-
-<!--
-https://github.com/intuit
-https://github.com/IntuitDeveloper
-
-https://github.com/coinsquare
--->
 
 ### Insurance
 
