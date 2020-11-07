@@ -12,13 +12,10 @@ https://github.com/DataDog | Datadog, Inc.
 
 https://github.com/unsplash/datasets
 
+Religious
 https://github.com/lifechurch | Life.Church
 
-https://github.com/micnews/
-https://github.com/FidelityInternational | Fidelity International
-https://github.com/keybase | Keybase
 https://github.com/atlassian-labs | Atlassian Labs
-https://github.com/gettyimages | Getty Images
 https://github.com/cumulusnetworks/ | Cumulus Networks
 
 https://github.com/defcon201/
@@ -59,44 +56,27 @@ https://github.com/python-fedex-devs
 
 * [Kaggle](https://github.com/Kaggle) 
 
-* [Managed by Q](https://github.com/managedbyq) 
-
-https://github.com/Coffee-Meets-Bagel
-https://github.com/coinsquare
-
-https://github.com/netapp/
-https://github.com/NetAppDocs
-https://github.com/NetApp-StorageGRID
-
-https://github.com/nielsen-oss
-
 
 * [PagerDuty](https://github.com/PagerDuty) 
 
-* [Qualcomm Innovation Center](https://github.com/QuIC) 
-
 
 https://github.com/Semmle
-https://github.com/flatironinstitute
-
-https://github.com/thoughtworks
-https://github.com/ThoughtWorksInc
-https://github.com/ThoughtWorksStudios
-https://github.com/thoughtworksarts
 
 DevRel
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
 
-* [Verizon Media](https://github.com/VerizonMedia) 
 
+https://github.com/netapp/
+https://github.com/NetAppDocs
+https://github.com/NetApp-StorageGRID
+
+* [Juniper Networks](https://github.com/juniper) 
+* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 
 https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
 https://github.com/dolbyio
-
-* [Juniper Networks](https://github.com/juniper) 
-* [Juniper Networks Automation](https://github.com/JNPRAutomate) 
 
 https://github.com/cisco
 https://github.com/CiscoDevNet
@@ -193,6 +173,11 @@ https://github.com/TwilioDevEd
 | [Vinta](https://www.vinta.com.br/blog)             | [Vinta Software](https://github.com/vintasoftware) |
 
 <!--
+https://github.com/thoughtworks
+https://github.com/ThoughtWorksInc
+https://github.com/ThoughtWorksStudios
+https://github.com/thoughtworksarts
+
 [Revolution Systems Writings](http://www.revsys.com/writings) and [RevSys Tidbits](http://www.revsys.com/tidbits) 
 -->
 
@@ -259,10 +244,9 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Force.com](https://github.com/forcedotcom)  
 * [SAP](https://github.com/SAP)  
 
-### Not Classified Yet
+### Not Classified
 
-* [Disney](https://github.com/disney) 
-* [Walt Disney Animation Studios](https://github.com/wdas) 
+* [Flatiron Institute](https://github.com/flatironinstitute)
 * [Palantir](https://github.com/palantir)
 
 ### Learning
@@ -315,14 +299,22 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Wayfair](https://github.com/wayfair)
 
 <!--
+* [Managed by Q](https://github.com/managedbyq) 
+
 https://github.com/walmart
 
 https://github.com/wayfair-contribs
 https://github.com/wayfair-archive
 -->
 
+### Entertainment
+
+* [Disney](https://github.com/disney) 
+* [Walt Disney Animation Studios](https://github.com/wdas) 
+
 ### Social
 
+* [Coffee Meets Bagel](https://github.com/Coffee-Meets-Bagel) 
 * [Tumblr](https://github.com/tumblr) 
 * [Yelp](https://github.com/Yelp) 
 
@@ -386,6 +378,10 @@ https://github.com/bmwcarit
 * [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
 * [Venmo](https://github.com/venmo)
 
+<!--
+https://github.com/coinsquare
+-->
+
 ### Insurance
 
 * [Liberty Mutual Insurance](https://github.com/libertymutual) 
@@ -405,6 +401,12 @@ https://github.com/bmwcarit
 * [The Upshot](https://github.com/TheUpshot)  
 * [Vox Media](https://github.com/voxmedia)  
 
+<!--
+* [Verizon Media](https://github.com/VerizonMedia) 
+
+https://github.com/nielsen-oss
+-->
+
 ### Hardware
 
 * [Boston Dynamics](https://github.com/boston-dynamics) 
@@ -422,6 +424,7 @@ https://github.com/bmwcarit
 * [Comcast Samples](https://github.com/Comcast) 
 * [Ericsson](https://github.com/Ericsson) 
 * [LexisNexis](https://github.com/LexisNexis) 
+* [Qualcomm Innovation Center](https://github.com/QuIC) 
 * [Samsung](https://github.com/Samsung)
 * [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
 * [Sony](https://github.com/sony) 
@@ -734,6 +737,7 @@ Azure
 ### Photos and Gifs
 
 * [Flickr](https://github.com/flickr) 
+* [Getty Images](https://github.com/gettyimages) 
 * [Giphy](https://github.com/Giphy)  
 * [Imgur](https://github.com/imgur)  
 * [Photobucket](https://github.com/photobucket) 
@@ -853,7 +857,9 @@ Azure
 * [Blackrock Digital](https://github.com/BlackrockDigital)
 * [C2FO](https://github.com/C2FO) 
 * [Dwolla](https://github.com/dwolla)  
+* [Fidelity International](https://github.com/FidelityInternational)  
 * [Funding Circle](https://github.com/fundingcircle)
+* [Keybase](https://github.com/keybase) 
 * [Kickstarter](https://github.com/kickstarter) 
 * [Quantopian](https://github.com/quantopian) 
 * [Plaid](https://github.com/plaid)
