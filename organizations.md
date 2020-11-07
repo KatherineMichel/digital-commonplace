@@ -1,6 +1,13 @@
 # Organizations
 
 <!--
+markel corporation!
+
+https://github.com/ImaginaryLandscape
+
+https://github.com/chmarz/API-guidelines
+
+
 https://github.com/DataDog | Datadog, Inc.
 
 https://github.com/unsplash/datasets
@@ -24,10 +31,6 @@ https://github.com/NHSX
 https://github.com/Hacker0x01/
 https://github.com/HangarOrg/
 
-DevRel
-https://github.com/nexmo | Nexmo
-https://github.com/TwilioDevEd
-
 Public Interest
 https://github.com/OWASP | OWASP
 -->
@@ -43,33 +46,23 @@ https://2018.djangocon.us/sponsors/
 https://github.com/customer-stories/nationwide
 
 https://github.com/18F/
+https://github.com/usnistgov
 
 Interesting!
 * [Adidas](https://github.com/adidas) 
 * [Adobe](https://github.com/adobe) 
 
-https://github.com/chmarz/API-guidelines
-
-https://github.com/goboomtown
-
-https://github.com/Coffee-Meets-Bagel
-https://github.com/coinsquare
 
 https://github.com/NVIDIA/DIGITS
 
-* [Delivery Hero SE](https://github.com/deliveryhero) 
-
 https://github.com/python-fedex-devs
-
-* [FreshBooks](https://github.com/freshbooks) 
-
-* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
-
-* [JetBrains](https://github.com/JetBrains) 
 
 * [Kaggle](https://github.com/Kaggle) 
 
 * [Managed by Q](https://github.com/managedbyq) 
+
+https://github.com/Coffee-Meets-Bagel
+https://github.com/coinsquare
 
 https://github.com/netapp/
 https://github.com/NetAppDocs
@@ -77,92 +70,26 @@ https://github.com/NetApp-StorageGRID
 
 https://github.com/nielsen-oss
 
-https://github.com/usnistgov
 
 * [PagerDuty](https://github.com/PagerDuty) 
 
-* [PlanGrid](https://github.com/plangrid) 
 * [Qualcomm Innovation Center](https://github.com/QuIC) 
 
 
 https://github.com/Semmle
 https://github.com/flatironinstitute
 
-* [Home Depot](https://github.com/homedepot) 
-
 https://github.com/thoughtworks
 https://github.com/ThoughtWorksInc
 https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
 
-https://github.com/wayfair-contribs
-https://github.com/wayfair-archive
-
-https://github.com/yandexdataschool
-https://github.com/yandex-cloud
-https://github.com/doochik/yandex-opensource
-
-* [Yubico](https://github.com/yubico) 
-* [ZipRecruiter](https://github.com/ZipRecruiter) 
-
-markel corporation!
-
-nbc universal
-
-
-https://github.com/ImaginaryLandscape
-
-
-* [Boston Dynamics](https://github.com/boston-dynamics) 
-* [John Deere](https://github.com/JohnDeere) 
-* [Magic Leap](https://github.com/magicleap) 
-* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
-* [Texas Instruments](https://github.com/TexasInstruments) 
-
-* [Verizon Media](https://github.com/VerizonMedia) 
-
-* [Grubhub](https://github.com/grubhub) 
-
-* [Indeed](https://github.com/indeedeng)
-* [Lululemon](https://github.com/Lululemon)
-
-* [Yandex](https://github.com/yandex)
-
 DevRel
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
 
+* [Verizon Media](https://github.com/VerizonMedia) 
 
-Hosting
-* [DigitalOcean](https://github.com/digitalocean) 
-* [DreamHost](https://github.com/dreamhost) 
-* [GoDaddy](https://github.com/godaddy)
-
-Finance
-* [Dow Jones](https://github.com/dowjones) 
-* [Ellie Mae](https://github.com/EllieMae) 
-* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
-* [GM Financial](https://github.com/gmfinancial) 
-
-Transport
-* [Ford](https://github.com/Ford)
-* [Goodyear](https://github.com/goodyear) 
-* [True Car](https://github.com/TrueCar) 
-* [Volkswagen](https://github.com/volkswagen) 
-
-https://github.com/BMW-InnovationLab
-https://github.com/bmwcarit
-
-Healthcare
-* [Babylon Health](https://github.com/babylonhealth) 
-
-Telecomm
-* [Ericsson](https://github.com/Ericsson) 
-* [LexisNexis](https://github.com/LexisNexis) 
-* [Sony](https://github.com/sony) 
-* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
-* [SN Systems](https://github.com/SNSystems) 
-* [Vonage](https://github.com/Vonage) 
 
 https://github.com/DolbyLaboratories
 https://github.com/DolbyDev
@@ -229,6 +156,13 @@ https://github.com/RedHatInsights | cloud.redhat.com
 https://github.com/SAP
 https://github.com/SAP-samples
 https://github.com/SAPDocuments
+-->
+
+<!--
+DevRel
+Twitter
+https://github.com/nexmo | Nexmo
+https://github.com/TwilioDevEd
 -->
 
 ## Kansas Non-Profit
@@ -329,7 +263,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [Disney](https://github.com/disney) 
 * [Walt Disney Animation Studios](https://github.com/wdas) 
-* [LinkedIn](https://github.com/linkedin)  
 * [Palantir](https://github.com/palantir)
 
 ### Learning
@@ -352,12 +285,20 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Adobe Fonts](https://github.com/adobe-fonts)
 * [Adobe Research](https://github.com/adobe-research)
 
+### Hosting
+
+* [DigitalOcean](https://github.com/digitalocean) 
+* [DreamHost](https://github.com/dreamhost) 
+* [GoDaddy](https://github.com/godaddy)
+
 ### Tools
 
 * [Box](https://github.com/box) 
 * [Box Samples](https://github.com/box-samples) 
 * [Box Community](https://github.com/box-community) 
+* [JetBrains](https://github.com/JetBrains) 
 * [MailChimp](https://github.com/mailchimp) 
+* [Yubico](https://github.com/yubico) 
 
 ### Metrics
 
@@ -366,10 +307,19 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 ### eCommerce
 
 * [General Mills](https://github.com/GeneralMills)
+* [Home Depot](https://github.com/homedepot) 
+* [Lululemon](https://github.com/Lululemon)
 * [Nike Inc.](https://github.com/Nike-Inc)
 * [Roverdotcom](https://github.com/roverdotcom)
 * [Walmart Labs](https://github.com/walmartlabs) 
 * [Wayfair](https://github.com/wayfair)
+
+<!--
+https://github.com/walmart
+
+https://github.com/wayfair-contribs
+https://github.com/wayfair-archive
+-->
 
 ### Social
 
@@ -384,17 +334,38 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 * [Reddit Archive](https://github.com/reddit-archive/) 
 
+### Food Delivery
+
+* [Delivery Hero SE](https://github.com/deliveryhero) 
+* [Grubhub](https://github.com/grubhub) 
+
 ### Transport
 
+* [Ford](https://github.com/Ford)
+* [Goodyear](https://github.com/goodyear)
 * [Lyft](https://github.com/lyft)
+* [True Car](https://github.com/TrueCar) 
 * [Uber Common](https://github.com/uber-common) 
 * [Uber Web](https://github.com/uber-web ) 
 * [Uber Go](https://github.com/uber-go)
+* [Volkswagen](https://github.com/volkswagen) 
+
+<!--
+https://github.com/BMW-InnovationLab
+https://github.com/bmwcarit
+-->
 
 ### Health
 
 * [23andMe](https://github.com/23andMe) 
+* [Babylon Health](https://github.com/babylonhealth) 
 * [Doctor on Demand](https://github.com/doctorondemand)
+
+### Career
+
+* [Indeed](https://github.com/indeedeng)
+* [LinkedIn](https://github.com/linkedin)  
+* [ZipRecruiter](https://github.com/ZipRecruiter) 
 
 ### Financial Services
 
@@ -403,13 +374,27 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Britecore](https://github.com/britecore) 
 * [Capital One](https://github.com/capitalone) 
 * [Credit Karma](https://github.com/creditkarma) 
+* [Dow Jones](https://github.com/dowjones) 
+* [Ellie Mae](https://github.com/EllieMae) 
+* [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
+* [FreshBooks](https://github.com/freshbooks) 
+* [GM Financial](https://github.com/gmfinancial) 
 * [JP Morgan Chase](https://github.com/jpmorganchase)
 * [Patreon](https://github.com/patreon)  
 * [PayPal](https://github.com/paypal) 
 * [Quicken Loans](https://github.com/QuickenLoans) 
+* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
 * [Venmo](https://github.com/venmo)
 
-## News
+### Insurance
+
+* [Liberty Mutual Insurance](https://github.com/libertymutual) 
+* [Northwestern Mutual](https://github.com/northwesternmutual) 
+* [Progressive Insurance](https://github.com/Progressive-Insurance) 
+* [Progressive Insurance](https://github.com/Progressive) 
+* [State Farm](https://github.com/StateFarmIns) 
+
+### News
 
 * [NBC Universal](https://github.com/nbcuniversal) 
 * [NBC News Digital](https://github.com/nbcnews) 
@@ -420,12 +405,13 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [The Upshot](https://github.com/TheUpshot)  
 * [Vox Media](https://github.com/voxmedia)  
 
-### Not-Profit
+### Hardware
 
-* [NASA](https://github.com/nasa) 
-* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
-* [NASA Jet Propulsion Laboratory](https://github.com/nasajpl) 
-* [Stanford University Digital Library](https://github.com/sul-dlss)  
+* [Boston Dynamics](https://github.com/boston-dynamics) 
+* [John Deere](https://github.com/JohnDeere) 
+* [Magic Leap](https://github.com/magicleap) 
+* [Magic Leap Devs](https://github.com/MagicLeapDevs/) 
+* [Texas Instruments](https://github.com/TexasInstruments) 
 
 ### Telecommunications
 
@@ -434,16 +420,21 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Century Link Cloud](https://github.com/CenturyLinkCloud)
 * [Comcast](https://github.com/Comcast) 
 * [Comcast Samples](https://github.com/Comcast) 
+* [Ericsson](https://github.com/Ericsson) 
+* [LexisNexis](https://github.com/LexisNexis) 
 * [Samsung](https://github.com/Samsung)
 * [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
+* [Sony](https://github.com/sony) 
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+* [SN Systems](https://github.com/SNSystems) 
+* [Vonage](https://github.com/Vonage) 
 
-### Insurance
+### Not-Profit
 
-* [Liberty Mutual Insurance](https://github.com/libertymutual) 
-* [Northwestern Mutual](https://github.com/northwesternmutual) 
-* [Progressive Insurance](https://github.com/Progressive-Insurance) 
-* [Progressive Insurance](https://github.com/Progressive) 
-* [State Farm](https://github.com/StateFarmIns) 
+* [NASA](https://github.com/nasa) 
+* [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl) 
+* [NASA Jet Propulsion Laboratory](https://github.com/nasajpl) 
+* [Stanford University Digital Library](https://github.com/sul-dlss)  
 
 ### Analyst Agencies- Python
 
@@ -555,6 +546,12 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [DuckDuckGo](https://github.com/duckduckgo) 
 * [Yahoo!](https://github.com/yahoo) 
 * [Yandex](https://github.com/yandex)
+
+<!--
+https://github.com/yandexdataschool
+https://github.com/yandex-cloud
+https://github.com/doochik/yandex-opensource
+-->
 
 ### Microsoft
 
