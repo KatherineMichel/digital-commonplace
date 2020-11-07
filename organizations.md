@@ -245,7 +245,7 @@ https://github.com/SAPDocuments
 
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Caktus Group](https://www.caktusgroup.com/blog    | [Caktus Group](https://github.com/caktus)
+| [Caktus Group](https://www.caktusgroup.com/blog)   | [Caktus Group](https://github.com/caktus)
 | [Changeset Consulting](https://changeset.nyc)      ||
 | [Cuttlesoft](https://www.cuttlesoft.com/blog)      | [Cuttlesoft](https://github.com/cuttlesoft) |
 | [Divio](https://www.divio.com/blog)                | [Divio](https://github.com/divio) |
