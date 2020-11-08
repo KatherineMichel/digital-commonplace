@@ -409,7 +409,6 @@ https://github.com/IntelRealSense
 * [Cisco Systems](https://github.com/CiscoSystems)
 
 <!--
-https://github.com/cisco
 https://github.com/CiscoDevNet
 https://github.com/CiscoSystems
 https://github.com/CiscoSE
@@ -452,27 +451,22 @@ https://github.com/DevNetSandbox
 | [Hulu](https://tech.hulu.com/)                                | [Hulu](https://github.com/hulu) |
 | [Indeed Engineering](http://engineering.indeedblog.com/blog/) | [Indeed](https://github.com/indeedeng) |
 | [Instacart Tech](https://tech.instacart.com/)                 | [Instacart](https://github.com/instacart) |
+| [Instagram Engineering](https://instagram-engineering.com/)   | [Instagram](https://github.com/Instragram) |  
 | [Intercom.io](https://blog.intercom.io)                       ||
 | [Intercom.io Engineering](https://engineering.intercom.io/)   | [Intercom](https://github.com/intercom) |
 | [LinkedIn Engineering](https://engineering.linkedin.com/blog) | [LinkedIn](https://github.com/linkedin) |
 | [Mixpanel](https://mixpanel.com/blog/)                        | [Mixpanel](https://github.com/mixpanel) |
 | [Mixpanel](https://medium.com/mixpaneleng/)                   ||
+| [Netflix Tech](https://netflixtechblog.com/)                  | [Netflix](https://github.com/Netflix) |
 |                                                               | [OpenStack](https://github.com/openstack) |
+| [Pinterest Engineering](https://medium.com/@Pinterest_Engineering) | [Pinterest](https://github.com/pinterest) |  
 |                                                               | [Shopify](https://github.com/shopify) |
-
 | [Slack Engineering](https://slack.engineering/)               | [Slack](https://github.com/slackhq) |
+|                                                               | [Spotify](https://github.com/spotify) |
 | [Yammer Engineering](https://medium.com/yammer-engineering)   | [Yammer](https://github.com/yammer) |
 | [Yammer Engineering (Old)](https://medium.com/@YammerEng)     ||
+| [Yelp Product and Engineering](https://engineeringblog.yelp.com/) | [Yelp](https://github.com/Yelp)   |
 | [Zillow Engineering](https://www.zillow.com/engineering/)     | [Zillow](https://github.com/zillow) |
-
-<!--
-|                                                               | [Netflix](https://github.com/Netflix) |
-|                                                               | [Instagram](https://github.com/instagram) |
-|                                                               | [Pinterest](https://github.com/pinterest) |
-|                                                               | [Yelp](https://github.com/yelp) |
-
-* [Spotify](https://github.com/spotify)
--->
 
 * [Samsung](https://github.com/Samsung)
 * [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
