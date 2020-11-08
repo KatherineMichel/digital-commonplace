@@ -825,6 +825,7 @@ https://github.com/nielsen-oss
 |                                                                | [Keen](https://github.com/keen) |
 |                                                                | [Kubernetes Incubator](https://github.com/kubernetes-incubator) |
 |                                                                | [Mapbox](https://github.com/mapbox) |
+|                                                                | [Mashery](https://github.com/mashery) |
 | [Okta](https://developer.okta.com/blog/) | [Okta](https://github.com/okta) |
 | [OpenDNS](https://engineering.opendns.com/) ||
 | [Snyk](https://snyk.io/blog) ||
@@ -868,6 +869,7 @@ https://github.com/nielsen-oss
 |                                                              | [Disqus](https://github.com/disqus)  |
 | [Evernote](https://evernote.com/blog/) ||
 | [Evernote Tech](https://blog.evernote.com/tech/)             | [Evernote](https://github.com/evernote) |
+| [FiftyThree "Making FiftyThree"](http://making.fiftythree.com/) | [FiftyThree](https://github.com/fiftythree) |
 | [Grammarly](https://tech.grammarly.com/blog/index.html) ||
 | [Gusto Engineering](http://engineering.gusto.com) ||
 | [Hootsuite](http://code.hootsuite.com/)                      | [Hootsuite](https://github.com/hootsuite) |
@@ -897,7 +899,6 @@ https://github.com/nielsen-oss
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [FiftyThree "Making FiftyThree"](http://making.fiftythree.com/) | [FiftyThree](https://github.com/fiftythree) |
 
 Don't Fit Another Category
 * [Edward Tufte](https://github.com/edwardtufte)
@@ -905,18 +906,14 @@ Don't Fit Another Category
 * [Exxon Mobil](https://github.com/ExxonMobil) 
 * [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
 
-* [Justin.tv](https://github.com/justintv)  
-* [Mashery](https://github.com/mashery)  
 * [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
 * [Optimizely](https://github.com/optimizely) 
 * [Pivotal Labs](https://github.com/pivotal)
-* [Pixate](https://github.com/Pixate)
 * [Product Hunt](https://github.com/producthunt)
 * [Rap Genius](https://github.com/RapGenius)  
 * [Swipely](https://github.com/swipely)  
 * [Taobao](https://github.com/taobao)  
-* [Deprecated: ThinkUp](https://github.com/ThinkUpLLC/ThinkUp)
 
 Animation
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
@@ -1147,8 +1144,9 @@ Sport
 |                                                              | [3D Robotics](https://github.com/3drobotics) |
 |                                                              | [Epic Games](https://github.com/EpicGames) |
 | [Twitch](https://blog.twitch.tv/tagged/engineering)          | [Twitch TV](https://github.com/twitchtv) |
+|                                                              | [Justin.tv (Twitch)](https://github.com/justintv) |
 | [Zynga Engineering](https://www.zynga.com/blogs/engineering) | [Zynga](https://github.com/zynga) |
-
+  
 ### VR
 
 * [Google VR](https://github.com/googlevr)
@@ -1320,3 +1318,5 @@ Not-Profit
 | [Gnip Engineering (Twitter)](https://engineering.gnip.com/)| [Gnip](https://github.com/gnip) |
 |                                                            | [DWNLD](https://github.com/dwnld) |
 |                                                            | [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) |
+|                                                            | [Pixate](https://github.com/Pixate) |
+|                                                            | [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) |
