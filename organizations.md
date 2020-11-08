@@ -216,7 +216,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 | [Yelp Product and Engineering](https://engineeringblog.yelp.com/) | [Yelp](https://github.com/Yelp)   |
 | [Zapier Engineering](https://zapier.com/engineering/)                  | [Zapier](https://github.com/zapier) |
 
-## Major Organizations and Projects that Use Python or Django
+## Large Scale Python, Machine Learning, and Data Science
 
 ### Infrastructure
 
@@ -224,6 +224,282 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [Mozilla](https://blog.mozilla.org/)                                          ||
 | [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
+
+### Facebook
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Facebook Engineering](https://code.facebook.com/posts/)                       ||
+| [Facebook AI Research](https://engineering.fb.com/category/ai-research/)       ||
+
+* [Facebook](https://github.com/facebook)  
+* [Facebook Experimental](https://github.com/facebookexperimental)
+* [Facebook Incubator](https://github.com/facebookincubator)
+* [Facebook Research](https://github.com/facebookresearch)
+* [Facebook Platform Samples](https://github.com/fbsamples) 
+* [Facebook Archive](https://github.com/facebookarchive)  
+* [Facebook Go](https://github.com/facebookgo)
+
+### Google
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [YouTube Engineering and Developers](https://youtube-eng.googleblog.com/) | [YouTube](https://github.com/youtube) |
+
+* [DeepMind (Google)](https://github.com/deepmind)
+* [Google](https://github.com/google)
+* [Google Colab](https://github.com/googlecolab/)
+* [Google Creative Lab](https://github.com/googlecreativelab)
+* [Google Genomics](https://github.com/googlegenomics)
+* [Google Research](https://github.com/google-research)
+
+* [Android](https://github.com/android) 
+* [Actions on Google](https://github.com/actions-on-google)
+* [Google Ads](https://github.com/googleads)  
+* [Google Chrome](https://github.com/GoogleChrome)  
+* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
+* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
+* [Google Container Tools](https://github.com/GoogleContainerTools)  
+* [Google Developer Training](https://github.com/google-developer-training) 
+* [Google Drive](https://github.com/googledrive) 
+* [Google Glass](https://github.com/googleglass)  
+* [Google Knowledge](https://github.com/googleknowledge)  
+* [Google Maps](https://github.com/googlemaps)  
+* [Google Samples](https://github.com/googlesamples) 
+* [G Suite Devs](https://github.com/gsuitedevs )
+
+### Amazon
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [AWS](https://aws.amazon.com/blogs/aws/) ||
+| [Amazon Developer](https://developer.amazon.com/blogs)                         ||
+
+* [Alexa](https://github.com/alexa) 
+* [Amazon Web Services](https://github.com/amazonwebservices)  
+* [Amazon](https://github.com/amzn)
+* [AWS](https://github.com/aws)  
+* [AWS Labs](https://github.com/awslabs)
+
+### Baidu
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Baidu Research](http://research.baidu.com/Blog) | [Baidu Research](https://github.com/baidu-research) |
+
+* [Baidu](https://github.com/baidu)
+* [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
+
+### Alibaba
+
+* [Alibaba](https://github.com/alibaba)  
+* [Alibaba-IntlUED-FD](https://github.com/sdc-alibaba) 
+* [Alibaba Tech](https://github.com/alibabatech)  
+* [Alibaba Technology](https://github.com/Alibaba-Technology) 
+
+### Tencent
+
+* [Tencent](https://github.com/Tencent)
+* [Tencent Open](https://github.com/TencentOpen)
+* [Tencent YouTu Research](https://github.com/TencentYoutuResearch)
+
+### Apple
+
+* [Apple](https://github.com/apple)
+
+### Uber
+
+* [Uber](https://github.com/uber)
+* [Uber Common](https://github.com/uber-common)
+* [Uber Web](https://github.com/uber-web ) 
+* [Uber Go](https://github.com/uber-go)
+
+### Twitter
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                             | [Twitter](https://github.com/twitter) |
+| [Twitter Engineering](https://blog.twitter.com/engineering) | [Twitter Dev](https://github.com/twitterdev) |
+
+### Mozilla
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Mozilla](https://blog.mozilla.org/) | [Mozilla](https://github.com/mozilla) |
+| [Mozilla Automation Team](https://planet.mozilla.org/ateam/) ||
+| [Mozilla Hacks](https://hacks.mozilla.org/) ||
+| [Mozilla Release Engineering](https://planet.mozilla.org/releng/) ||
+
+* [Mozilla Developer Network](https://github.com/mdn)
+* [Mozilla Developer Outreach](https://github.com/mozdevs)
+* [Mozilla devtools-html](https://github.com/devtools-html)
+* [Mozilla Foundation](https://github.com/MozillaFoundation)
+* [Mozilla IoT](https://github.com/mozilla-iot)
+* [Mozilla Mobile](https://github.com/mozilla-mobile/)
+* [Mozilla Security](https://github.com/MozillaSecurity/)
+* [Mozilla Services](https://github.com/mozilla-services)
+
+## Browsers and Search Engines
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Yahoo! Engineering](https://yahooeng.tumblr.com/) | [Yahoo!](https://github.com/yahoo) |
+
+* [Brave](https://github.com/brave) 
+* [DuckDuckGo](https://github.com/duckduckgo) 
+* [Yandex](https://github.com/yandex)
+
+<!--
+https://github.com/yandexdataschool
+https://github.com/yandex-cloud
+https://github.com/doochik/yandex-opensource
+-->
+
+### Microsoft
+
+* [ASP.NET](https://github.com/aspnet)
+* [Microsoft](https://github.com/Microsoft) 
+* [Microsoft Graph](https://github.com/microsoftgraph)
+* [Office Dev](https://github.com/OfficeDev)
+
+Azure
+* [Azure](https://github.com/azure)
+* [Windows Azure](https://github.com/WindowsAzure) 
+
+### IBM
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [IBM developerWorks ](https://developer.ibm.com/dwblog/) ||
+
+* [IBM](https://github.com/IBM)
+* [IBM Cloud](https://github.com/IBM-Cloud)
+* [Watson Developer Cloud (IBM)](https://github.com/watson-developer-cloud)
+
+### Salesforce
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
+|                                                                              | [Salesforce Developers](https://github.com/developerforce) |
+|                                                                              | [Salesforce UX](https://github.com/salesforce-ux) |
+|                                                                              | [Force.com](https://github.com/forcedotcom) |
+
+### Intel
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Intel](https://software.intel.com/en-us/blogs/) | [Intel](https://github.com/intel) |
+
+* [Intel Analytics](https://github.com/intel-analytics)
+* [Nervana Systems](https://github.com/NervanaSystems)
+
+<!--
+https://github.com/IntelSoftware
+https://github.com/IntelLabs
+https://github.com/IntelPython
+https://github.com/Intel-bigdata
+https://github.com/IntelRealSense
+-->
+
+### NVIDIA
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Nvidia](https://blogs.nvidia.com/) | [NVIDIA](https://github.com/NVIDIA) |
+
+### Cisco
+
+* [Cisco](https://github.com/cisco/)
+* [Cisco Systems](https://github.com/CiscoSystems)
+
+<!--
+https://github.com/cisco
+https://github.com/CiscoDevNet
+https://github.com/CiscoSystems
+https://github.com/CiscoSE
+https://github.com/CiscoSecurity
+https://github.com/datacenter
+https://github.com/CiscoTestAutomation
+https://github.com/DevNetSandbox
+-->
+
+### Companies with Data Science Frameworks/Infrastructure
+
+* [Apache](https://github.com/apache)
+* [ARM Software](https://github.com/ARM-software)
+
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Cloudera Technical](https://blog.cloudera.com/) | [Cloudera](https://github.com/cloudera) |
+
+
+## Machine Learning and Data Science Tools
+
+### Companies with Individual Tools
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                               | [AddThis](https://github.com/addthis) |
+| [AirBnB Engineering](https://medium.com/airbnb-engineering)   | [Airbnb](https://github.com/airbnb) |
+|                                                               | [Airbnb: Crowdtilt](https://github.com/Crowdtilt) |
+|                                                               | [Airbus SecLab](https://github.com/airbus-seclab) |
+|                                                               | [Dropbox](https://github.com/dropbox) |
+|                                                               | [EdX](https://github.com/edx) |
+|                                                               | [Etsy](https://github.com/etsy) |
+|                                                               | [Eventbrite](https://github.com/eventbrite) |
+| [Flickr](https://code.flickr.net/)                            | [Flickr](https://github.com/flickr) |
+| [Flipkart Engineering](https://tech.flipkart.com/)            | [Flipkart](https://github.com/flipkart) |
+| [Foursquare](https://engineering.foursquare.com/)             | [Foursquare](https://github.com/foursquare) |
+| [Groupon Engineering](https://engineering.groupon.com/)       | [Groupon](https://github.com/groupon) |
+| [Hulu](https://tech.hulu.com/)                                | [Hulu](https://github.com/hulu) |
+| [Indeed Engineering](http://engineering.indeedblog.com/blog/) | [Indeed](https://github.com/indeedeng) |
+| [Instacart Tech](https://tech.instacart.com/)                 | [Instacart](https://github.com/instacart) |
+| [Intercom.io](https://blog.intercom.io)                       ||
+| [Intercom.io Engineering](https://engineering.intercom.io/)   | [Intercom](https://github.com/intercom) |
+| [LinkedIn Engineering](https://engineering.linkedin.com/blog) | [LinkedIn](https://github.com/linkedin) |
+| [Mixpanel](https://mixpanel.com/blog/)                        | [Mixpanel](https://github.com/mixpanel) |
+| [Mixpanel](https://medium.com/mixpaneleng/)                   ||
+|                                                               | [OpenStack](https://github.com/openstack) |
+|                                                               | [Shopify](https://github.com/shopify) |
+
+| [Slack Engineering](https://slack.engineering/)               | [Slack](https://github.com/slackhq) |
+| [Yammer Engineering](https://medium.com/yammer-engineering)   | [Yammer](https://github.com/yammer) |
+| [Yammer Engineering (Old)](https://medium.com/@YammerEng)     ||
+| [Zillow Engineering](https://www.zillow.com/engineering/)     | [Zillow](https://github.com/zillow) |
+
+<!--
+|                                                               | [Netflix](https://github.com/Netflix) |
+|                                                               | [Instagram](https://github.com/instagram) |
+|                                                               | [Pinterest](https://github.com/pinterest) |
+|                                                               | [Yelp](https://github.com/yelp) |
+
+* [Spotify](https://github.com/spotify)
+-->
+
+* [Flipkart Incubator](https://github.com/flipkart-incubator)
+
+* [Samsung](https://github.com/Samsung)
+* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
+* [Sony](https://github.com/sony) 
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+* [SN Systems](https://github.com/SNSystems) 
+
+* [comma.ai](https://github.com/commaai)
+* [Databricks](https://github.com/databricks)
+* [Facebook Torch](https://github.com/torch)
+* [fast.ai](https://github.com/fastai)
+* [Google TensorFlow](https://github.com/tensorflow)
+* [OpenAI](https://github.com/openai)
+
+### Quantum Computing
+
+* [Rigetti Computing](https://github.com/rigetti)
+
+
+## Major Organizations and Projects that Use Python or Django
 
 ### Tools
 
@@ -236,6 +512,7 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Oracle](https://github.com/oracle) 
 * [Oracle Quick Start](https://github.com/oracle-quickstart) 
 * [Rackspace](https://github.com/rackspace)
+| [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
 * [SAP](https://github.com/SAP)  
 
 <!--
@@ -507,284 +784,6 @@ https://github.com/nielsen-oss
 * [Deloitte Digital](https://github.com/DeloitteDigital)
 * [Deloitte Digital Asia Pacific](https://github.com/DeloitteDigitalAPAC)
 * [Deloitte Digital Austria](https://github.com/DeloitteDigitalAT)
-
-
-
-## Large Scale Python, Machine Learning, and Data Science
-
-### Facebook
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Facebook Engineering](https://code.facebook.com/posts/)                       ||
-| [Facebook AI Research](https://engineering.fb.com/category/ai-research/)       ||
-
-* [Facebook](https://github.com/facebook)  
-* [Facebook Experimental](https://github.com/facebookexperimental)
-* [Facebook Incubator](https://github.com/facebookincubator)
-* [Facebook Research](https://github.com/facebookresearch)
-* [Facebook Platform Samples](https://github.com/fbsamples) 
-* [Facebook Archive](https://github.com/facebookarchive)  
-* [Facebook Go](https://github.com/facebookgo)
-
-### Google
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [YouTube Engineering and Developers](https://youtube-eng.googleblog.com/) | [YouTube](https://github.com/youtube) |
-
-* [DeepMind (Google)](https://github.com/deepmind)
-* [Google](https://github.com/google)
-* [Google Colab](https://github.com/googlecolab/)
-* [Google Creative Lab](https://github.com/googlecreativelab)
-* [Google Genomics](https://github.com/googlegenomics)
-* [Google Research](https://github.com/google-research)
-
-* [Android](https://github.com/android) 
-* [Actions on Google](https://github.com/actions-on-google)
-* [Google Ads](https://github.com/googleads)  
-* [Google Chrome](https://github.com/GoogleChrome)  
-* [Google Chrome Labs](https://github.com/GoogleChromeLabs)  
-* [(Google) ChromeDevTools](https://github.com/ChromeDevTools)
-* [Google Cloud Platform](https://github.com/GoogleCloudPlatform) 
-* [Google Container Tools](https://github.com/GoogleContainerTools)  
-* [Google Developer Training](https://github.com/google-developer-training) 
-* [Google Drive](https://github.com/googledrive) 
-* [Google Glass](https://github.com/googleglass)  
-* [Google Knowledge](https://github.com/googleknowledge)  
-* [Google Maps](https://github.com/googlemaps)  
-* [Google Samples](https://github.com/googlesamples) 
-* [G Suite Devs](https://github.com/gsuitedevs )
-
-### Amazon
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [AWS](https://aws.amazon.com/blogs/aws/) ||
-| [Amazon Developer](https://developer.amazon.com/blogs)                         ||
-
-* [Alexa](https://github.com/alexa) 
-* [Amazon Web Services](https://github.com/amazonwebservices)  
-* [Amazon](https://github.com/amzn)
-* [AWS](https://github.com/aws)  
-* [AWS Labs](https://github.com/awslabs)
-
-### Baidu
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Baidu Research](http://research.baidu.com/Blog) | [Baidu Research](https://github.com/baidu-research) |
-
-* [Baidu](https://github.com/baidu)
-* [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
-
-### Alibaba
-
-* [Alibaba](https://github.com/alibaba)  
-* [Alibaba-IntlUED-FD](https://github.com/sdc-alibaba) 
-* [Alibaba Tech](https://github.com/alibabatech)  
-* [Alibaba Technology](https://github.com/Alibaba-Technology) 
-
-### Tencent
-
-* [Tencent](https://github.com/Tencent)
-* [Tencent Open](https://github.com/TencentOpen)
-* [Tencent YouTu Research](https://github.com/TencentYoutuResearch)
-
-### Apple
-
-* [Apple](https://github.com/apple)
-
-### Uber
-
-* [Uber](https://github.com/uber)
-* [Uber Common](https://github.com/uber-common)
-* [Uber Web](https://github.com/uber-web ) 
-* [Uber Go](https://github.com/uber-go)
-
-### Twitter
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-|                                                             | [Twitter](https://github.com/twitter) |
-| [Twitter Engineering](https://blog.twitter.com/engineering) | [Twitter Dev](https://github.com/twitterdev) |
-
-### Mozilla
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Mozilla Automation Team](https://planet.mozilla.org/ateam/) ||
-| [Mozilla Hacks](https://hacks.mozilla.org/) ||
-| [Mozilla Release Engineering](https://planet.mozilla.org/releng/) ||
-
-* [Mozilla](https://github.com/mozilla)
-* [Mozilla Developer Network](https://github.com/mdn)
-* [Mozilla Developer Outreach](https://github.com/mozdevs)
-* [Mozilla devtools-html](https://github.com/devtools-html)
-* [Mozilla Foundation](https://github.com/MozillaFoundation)
-* [Mozilla IoT](https://github.com/mozilla-iot)
-* [Mozilla Mobile](https://github.com/mozilla-mobile/)
-* [Mozilla Security](https://github.com/MozillaSecurity/)
-* [Mozilla Services](https://github.com/mozilla-services)
-
-## Browsers and Search Engines
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Yahoo! Engineering](https://yahooeng.tumblr.com/) | [Yahoo!](https://github.com/yahoo) |
-
-* [Brave](https://github.com/brave) 
-* [DuckDuckGo](https://github.com/duckduckgo) 
-* [Yandex](https://github.com/yandex)
-
-<!--
-https://github.com/yandexdataschool
-https://github.com/yandex-cloud
-https://github.com/doochik/yandex-opensource
--->
-
-### Microsoft
-
-* [ASP.NET](https://github.com/aspnet)
-* [Microsoft](https://github.com/Microsoft) 
-* [Microsoft Graph](https://github.com/microsoftgraph)
-* [Office Dev](https://github.com/OfficeDev)
-
-Azure
-* [Azure](https://github.com/azure)
-* [Windows Azure](https://github.com/WindowsAzure) 
-
-### IBM
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [IBM developerWorks ](https://developer.ibm.com/dwblog/) ||
-
-* [IBM](https://github.com/IBM)
-* [IBM Cloud](https://github.com/IBM-Cloud)
-* [Watson Developer Cloud (IBM)](https://github.com/watson-developer-cloud)
-
-### Salesforce
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
-|                                                                              | [Salesforce Developers](https://github.com/developerforce) |
-|                                                                              | [Salesforce UX](https://github.com/salesforce-ux) |
-|                                                                              | [Force.com](https://github.com/forcedotcom) |
-
-### Intel
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Intel](https://software.intel.com/en-us/blogs/) | [Intel](https://github.com/intel) |
-
-* [Intel Analytics](https://github.com/intel-analytics)
-* [Nervana Systems](https://github.com/NervanaSystems)
-
-<!--
-https://github.com/IntelSoftware
-https://github.com/IntelLabs
-https://github.com/IntelPython
-https://github.com/Intel-bigdata
-https://github.com/IntelRealSense
--->
-
-### NVIDIA
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Nvidia](https://blogs.nvidia.com/) | [NVIDIA](https://github.com/NVIDIA) |
-
-### Cisco
-
-* [Cisco](https://github.com/cisco/)
-* [Cisco Systems](https://github.com/CiscoSystems)
-
-<!--
-https://github.com/cisco
-https://github.com/CiscoDevNet
-https://github.com/CiscoSystems
-https://github.com/CiscoSE
-https://github.com/CiscoSecurity
-https://github.com/datacenter
-https://github.com/CiscoTestAutomation
-https://github.com/DevNetSandbox
--->
-
-### Companies with Data Science Frameworks/Infrastructure
-
-* [Apache](https://github.com/apache)
-* [ARM Software](https://github.com/ARM-software)
-
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Cloudera Technical](https://blog.cloudera.com/) | [Cloudera](https://github.com/cloudera) |
-
-
-## Machine Learning and Data Science Tools
-
-### Companies with Individual Tools
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-|                                                               | [AddThis](https://github.com/addthis) |
-| [AirBnB Engineering](https://medium.com/airbnb-engineering)   | [Airbnb](https://github.com/airbnb) |
-|                                                               | [Airbnb: Crowdtilt](https://github.com/Crowdtilt) |
-|                                                               | [Airbus SecLab](https://github.com/airbus-seclab) |
-|                                                               | [Dropbox](https://github.com/dropbox) |
-|                                                               | [EdX](https://github.com/edx) |
-|                                                               | [Etsy](https://github.com/etsy) |
-|                                                               | [Eventbrite](https://github.com/eventbrite) |
-| [Flickr](https://code.flickr.net/)                            | [Flickr](https://github.com/flickr) |
-| [Flipkart Engineering](https://tech.flipkart.com/)            | [Flipkart](https://github.com/flipkart) |
-| [Foursquare](https://engineering.foursquare.com/)             | [Foursquare](https://github.com/foursquare) |
-| [Groupon Engineering](https://engineering.groupon.com/)       | [Groupon](https://github.com/groupon) |
-| [Hulu](https://tech.hulu.com/)                                | [Hulu](https://github.com/hulu) |
-| [Indeed Engineering](http://engineering.indeedblog.com/blog/) | [Indeed](https://github.com/indeedeng) |
-| [Instacart Tech](https://tech.instacart.com/)                 | [Instacart](https://github.com/instacart) |
-| [Intercom.io](https://blog.intercom.io)                       ||
-| [Intercom.io Engineering](https://engineering.intercom.io/)   | [Intercom](https://github.com/intercom) |
-| [LinkedIn Engineering](https://engineering.linkedin.com/blog) | [LinkedIn](https://github.com/linkedin) |
-| [Mixpanel](https://mixpanel.com/blog/)                        | [Mixpanel](https://github.com/mixpanel) |
-| [Mixpanel](https://medium.com/mixpaneleng/)                   ||
-|                                                               | [OpenStack](https://github.com/openstack) |
-|                                                               | [Shopify](https://github.com/shopify) |
-
-| [Slack Engineering](https://slack.engineering/)               | [Slack](https://github.com/slackhq) |
-| [Yammer Engineering](https://medium.com/yammer-engineering)   | [Yammer](https://github.com/yammer) |
-| [Yammer Engineering (Old)](https://medium.com/@YammerEng)     ||
-| [Zillow Engineering](https://www.zillow.com/engineering/)     | [Zillow](https://github.com/zillow) |
-
-<!--
-|                                                               | [Netflix](https://github.com/Netflix) |
-|                                                               | [Instagram](https://github.com/instagram) |
-|                                                               | [Pinterest](https://github.com/pinterest) |
-|                                                               | [Yelp](https://github.com/yelp) |
-
-* [Spotify](https://github.com/spotify)
--->
-
-* [Flipkart Incubator](https://github.com/flipkart-incubator)
-
-* [Samsung](https://github.com/Samsung)
-* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
-* [Sony](https://github.com/sony) 
-* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
-* [SN Systems](https://github.com/SNSystems) 
-
-* [comma.ai](https://github.com/commaai)
-* [Databricks](https://github.com/databricks)
-* [Facebook Torch](https://github.com/torch)
-* [fast.ai](https://github.com/fastai)
-* [Google TensorFlow](https://github.com/tensorflow)
-* [OpenAI](https://github.com/openai)
-
-### Quantum Computing
-
-* [Rigetti Computing](https://github.com/rigetti)
-
 
 
 
