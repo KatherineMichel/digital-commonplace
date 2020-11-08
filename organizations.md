@@ -828,9 +828,10 @@ https://github.com/nielsen-oss
 |                                                                | [Mashery](https://github.com/mashery) |
 | [Okta](https://developer.okta.com/blog/) | [Okta](https://github.com/okta) |
 | [OpenDNS](https://engineering.opendns.com/) ||
-| [Snyk](https://snyk.io/blog) ||
 |                                                                | [Opera Software](https://github.com/operasoftware) |
+|                                                                | [Optimizely](https://github.com/optimizely) |
 |                                                                | [PostgreSQL](https://github.com/postgres) |
+| [Snyk](https://snyk.io/blog) ||
 |                                                                | [Ubuntu](https://github.com/ubuntu) |
 |                                                                | [VMware](https://github.com/vmware) |
   
@@ -906,20 +907,20 @@ Don't Fit Another Category
 * [Exxon Mobil](https://github.com/ExxonMobil) 
 * [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
 
-* [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
-* [Optimizely](https://github.com/optimizely) 
 * [Pivotal Labs](https://github.com/pivotal)
 * [Product Hunt](https://github.com/producthunt)
-* [Rap Genius](https://github.com/RapGenius)  
-* [Swipely](https://github.com/swipely)  
-* [Taobao](https://github.com/taobao)  
 
 Animation
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 
 Sport
 * [Hudl](https://github.com/hudl) 
+
+<!--
+Upserve 
+* [Swipely](https://github.com/swipely)  
+-->
 
 ### Design
 
@@ -953,10 +954,12 @@ Sport
 | [ebay](https://tech.ebayinc.com/)                                  | [eBay](https://github.com/eBay) |
 | [Etsy Engineering "Code as Craft"](https://codeascraft.com/)       | [Etsy](https://github.com/etsy) |
 |                                                                    | [Fasholista](https://github.com/Fashiolista) |
+|                                                                    | [OpenBazaar](https://github.com/openbazaar) |
 |                                                                    | [Rakuten Ads](https://github.com/rakuten-ads) |
 |                                                                    | [RakutenTech](https://github.com/rakutentech) |
 | [Stitch Fix Engineering](http://multithreaded.stitchfix.com/blog/) | [Stitch Fix](https://github.com/stitchfix) |
 |                                                                    | [StyleSeat](https://github.com/styleseat)  |
+|                                                                    | [Taobao](https://github.com/taobao)  |
 | [Target](https://target.github.io/)                                | [Target](https://github.com/target) |
 | [Teespring](http://teespring.engineering/)                         ||
 |                                                                    | [Under Armour](https://github.com/underarmour) |
@@ -1319,4 +1322,5 @@ Not-Profit
 |                                                            | [DWNLD](https://github.com/dwnld) |
 |                                                            | [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) |
 |                                                            | [Pixate](https://github.com/Pixate) |
-|                                                            | [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) |
+|                                                            | [Rap Genius](https://github.com/RapGenius) |
+|                                                            | [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) | 
