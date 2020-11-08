@@ -313,15 +313,18 @@ https://github.com/trello
 
 ### eCommerce
 
-* [General Mills](https://github.com/GeneralMills)
-* [Home Depot](https://github.com/homedepot) 
-* [Lululemon](https://github.com/Lululemon)
-* [Nike Inc.](https://github.com/Nike-Inc)
-* [Walmart Labs](https://github.com/walmartlabs) 
-* [Walmart](https://github.com/walmart) 
-* [Wayfair](https://github.com/wayfair)
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                            | [General Mills](https://github.com/GeneralMills) |
+|                                                            | [Home Depot](https://github.com/homedepot) |
+|                                                            | [Lululemon](https://github.com/Lululemon) |
+|                                                            | [Nike Inc.](https://github.com/Nike-Inc) |
+| [Walmart Labs Engineering](https://medium.com/walmartlabs) | [Walmart Labs](https://github.com/walmartlabs) |
+| [Wayfair Engineering](https://engineering.wayfair.com/)    | [Wayfair](https://github.com/wayfair) |
 
 <!--
+* [Walmart](https://github.com/walmart) 
+
 https://github.com/wayfair-contribs
 https://github.com/wayfair-archive
 -->
@@ -547,10 +550,18 @@ https://github.com/nielsen-oss
 
 ### Twitter
 
-* [Twitter](https://github.com/twitter)  
-* [Twitter Dev](https://github.com/twitterdev) 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                             | [Twitter](https://github.com/twitter) |
+| [Twitter Engineering](https://blog.twitter.com/engineering) | [Twitter Dev](https://github.com/twitterdev) |
 
 ### Mozilla
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Mozilla Automation Team](https://planet.mozilla.org/ateam/) ||
+| [Mozilla Hacks](https://hacks.mozilla.org/) ||
+| [Mozilla Release Engineering](https://planet.mozilla.org/releng/) ||
 
 * [Mozilla](https://github.com/mozilla)
 * [Mozilla Developer Network](https://github.com/mdn)
@@ -639,37 +650,48 @@ https://github.com/DevNetSandbox
 
 ### Companies with Individual Tools
 
-* [AddThis](https://github.com/addthis)
-* [Airbnb](https://github.com/airbnb)
-* [EdX](https://github.com/edx)
-* [Etsy](https://github.com/etsy)
-* [Dropbox](https://github.com/dropbox)
-* [Eventbrite](https://github.com/eventbrite)
-* [Flickr](https://github.com/flickr)
-* [Flipkart](https://github.com/flipkart)
-* [Foursquare](https://github.com/foursquare)
-* [Groupon](https://github.com/groupon)
-* [Hulu](https://github.com/hulu)
-* [Indeed](https://github.com/indeedeng)
-* [Instacart](https://github.com/instacart)
-* [Instagram](https://github.com/instagram)
-* [Intercom](https://github.com/intercom)
-* [LinkedIn](https://github.com/linkedin)
-* [Mixpanel](https://github.com/mixpanel)
-* [Mozilla](https://github.com/mozilla)
-* [Netflix](https://github.com/Netflix)
-* [OpenStack](https://github.com/openstack)
-* [Pinterest](https://github.com/pinterest)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                               | [AddThis](https://github.com/addthis) |
+| [AirBnB Engineering](https://medium.com/airbnb-engineering)   | [Airbnb](https://github.com/airbnb) |
+|                                                               | [Airbnb: Crowdtilt](https://github.com/Crowdtilt) |
+|                                                               | [Airbus SecLab](https://github.com/airbus-seclab) |
+|                                                               | [Dropbox](https://github.com/dropbox) |
+|                                                               | [EdX](https://github.com/edx) |
+|                                                               | [Etsy](https://github.com/etsy) |
+|                                                               | [Eventbrite](https://github.com/eventbrite) |
+| [Flickr](https://code.flickr.net/)                            | [Flickr](https://github.com/flickr) |
+| [Flipkart Engineering](https://tech.flipkart.com/)            | [Flipkart](https://github.com/flipkart) |
+| [Foursquare](https://engineering.foursquare.com/)             | [Foursquare](https://github.com/foursquare) |
+| [Groupon Engineering](https://engineering.groupon.com/)       | [Groupon](https://github.com/groupon) |
+| [Hulu](https://tech.hulu.com/)                                | [Hulu](https://github.com/hulu) |
+| [Indeed Engineering](http://engineering.indeedblog.com/blog/) | [Indeed](https://github.com/indeedeng) |
+| [Instacart Tech](https://tech.instacart.com/)                 | [Instacart](https://github.com/instacart) |
+| [Intercom.io](https://blog.intercom.io)                       ||
+| [Intercom.io Engineering](https://engineering.intercom.io/)   | [Intercom](https://github.com/intercom) |
+| [LinkedIn Engineering](https://engineering.linkedin.com/blog) | [LinkedIn](https://github.com/linkedin) |
+| [Mixpanel](https://mixpanel.com/blog/)                        | [Mixpanel](https://github.com/mixpanel) |
+| [Mixpanel](https://medium.com/mixpaneleng/)                   ||
+|                                                               | [OpenStack](https://github.com/openstack) |
+
+| [Yammer Engineering](https://medium.com/yammer-engineering)   | [Yammer](https://github.com/yammer) |
+| [Yammer Engineering (Old)](https://medium.com/@YammerEng)     ||
+| [Zillow Engineering](https://www.zillow.com/engineering/)     | [Zillow](https://github.com/zillow) |
+
+<!--
+|                                                               | [Netflix](https://github.com/Netflix) |
+|                                                               | [Instagram](https://github.com/instagram) |
+|                                                               | [Pinterest](https://github.com/pinterest) |
+|                                                               | [Yelp](https://github.com/yelp) |
+-->
+
 * [Salesforce](https://github.com/salesforce)
 * [Samsung](https://github.com/Samsung)
 * [Shopify](https://github.com/shopify)
 * [Slack](https://github.com/slackhq)
 * [Sony](https://github.com/sony)
 * [Spotify](https://github.com/spotify)
-* [Twitter](https://github.com/twitter)
-* [Yammer](https://github.com/yammer)
-* [Yelp](https://github.com/yelp)
-* [Zillow](https://github.com/zillow)
+
 
 
 * [comma.ai](https://github.com/commaai)
@@ -776,31 +798,41 @@ https://github.com/DataDog | Datadog, Inc.
 
 ### Design
 
-* [99designs](https://github.com/99designs/)
-* [Canva](https://github.com/canva) 
-* [Figma](https://github.com/figma)
-* [Typekit](https://github.com/typekit) 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [99Designs Tech](https://99designs.com/tech-blog/) | [99designs](https://github.com/99designs/) |
+| [Canva](https://engineering.canva.com/)            | [Canva](https://github.com/canva) |
+|                                                    | [Figma](https://github.com/figma)  |
+|                                                    | [Typekit](https://github.com/typekit)  |
 
 ### Photos and Gifs
 
-* [Flickr](https://github.com/flickr) 
-* [Getty Images](https://github.com/gettyimages) 
-* [Giphy](https://github.com/Giphy)  
-* [Imgur](https://github.com/imgur)  
-* [Photobucket](https://github.com/photobucket) 
-* [Shutterstock](https://github.com/shutterstock) 
-* [Unsplash](https://github.com/unsplash)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                               | [Flickr](https://github.com/flickr)  |
+|                                               | [Getty Images](https://github.com/gettyimages) |
+| [Giphy](https://engineering.giphy.com/)       | [Giphy](https://github.com/Giphy) |
+| [Imgur](https://blog.imgur.com/category/eng/) | [Imgur](https://github.com/imgur) |
+|                                               | [Photobucket](https://github.com/photobucket)  |
+|                                               | [Shutterstock](https://github.com/shutterstock)  |
+|                                               | [Unsplash](https://github.com/unsplash) |
 
 ### Website and App on Demand
 
-* [Automattic](https://github.com/Automattic) 
-* [DWNLD](https://github.com/dwnld) 
-* [GoDaddy](https://github.com/godaddy)
-* [Netlify](https://github.com/netlify) 
-* [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) 
-* [Shopify](https://github.com/Shopify) 
-* [Squarespace](https://github.com/squarespace)  
-* [Wix](https://github.com/wix)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                                    | [Automattic](https://github.com/Automattic) |
+|                                                                    | [DWNLD](https://github.com/dwnld) |
+|                                                                    | [GoDaddy](https://github.com/godaddy) |
+|                                                                    | [Netlify](https://github.com/netlify) |
+|                                                                    | [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) |
+| [Shopify Engineering](https://engineering.shopify.com)             | [Shopify](https://github.com/Shopify) |
+| [Squarespace](https://engineering.squarespace.com/)                | [Squarespace](https://github.com/squarespace) |
+| [Wix Engineering](https://www.wix.engineering/blog)                | [Wix](https://github.com/wix) |
+
+
+  
+ 
 * [WordPress](https://github.com/WordPress)  
 * [WordPress Mobile](https://github.com/wordpress-mobile/) 
 * [WordPress Plugins](https://github.com/wp-plugins) 
@@ -808,42 +840,50 @@ https://github.com/DataDog | Datadog, Inc.
 
 ### eCommerce
 
-* [Artsy](https://github.com/artsy) 
-* [Behance](https://github.com/behance) 
-* [Dollar Shave Club](https://github.com/dollarshaveclub)  
-* [eBay](https://github.com/eBay)
-* [Etsy](https://github.com/etsy) 
-* [Fasholista](https://github.com/Fashiolista)
-* [Stitch Fix](https://github.com/stitchfix)
-* [StyleSeat](https://github.com/styleseat) 
-* [Target](https://github.com/target)  
-* [Under Armour](https://github.com/underarmour)
-* [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Artsy Engineering](https://artsy.github.io/)                      | [Artsy](https://github.com/artsy) |
+|                                                                    | [Behance](https://github.com/behance) |
+|                                                                    | [Dollar Shave Club](https://github.com/dollarshaveclub)  |
+| [ebay](https://tech.ebayinc.com/)                                  | [eBay](https://github.com/eBay) |
+| [Etsy Engineering, Code as Craft](https://codeascraft.com/)        | [Etsy](https://github.com/etsy) |
+|                                                                    | [Fasholista](https://github.com/Fashiolista) |
+| [Stitch Fix Engineering](http://multithreaded.stitchfix.com/blog/) | [Stitch Fix](https://github.com/stitchfix) |
+|                                                                    | [StyleSeat](https://github.com/styleseat)  |
+| [Target](https://target.github.io/)                                | [Target](https://github.com/target) |
+|                                                                    | [Under Armour](https://github.com/underarmour) |
+|                                                                    | [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc) |
 
 ### Social
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [FourSquare Engineering](https://engineering.foursquare.com/) | [Foursquare](https://github.com/foursquare) |
+| [Nextdoor](https://engblog.nextdoor.com/)                     | [Nextdoor](https://github.com/nextdoor) |
+| [Vine](http://engineering.vine.co/)                           | [Vine](https://github.com/vine) |
+
+
 * [App.net](https://github.com/appdotnet)  
-* [eHarmony](https://github.com/eharmony)  
 * [Ello](https://github.com/ello)
-* [Foursquare](https://github.com/foursquare) 
-* [Meetup](https://github.com/meetup) 
-* [Nextdoor](https://github.com/nextdoor)
-* [Pinterest](https://github.com/pinterest)  
+
+* [eHarmony](https://github.com/eharmony)  
 * [Snapchat](https://github.com/snapchat)    
 * [Stack Exchange](https://github.com/stackexchange)  
 * [Upworthy](https://github.com/upworthy) 
-* [Vimeo](https://github.com/vimeo)  
-* [Vine](https://github.com/vine)  
+* [Vimeo](https://github.com/vimeo)   
 
 ### Music
 
-* [SoundCloud](https://github.com/soundcloud)  
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [SoundCloud Backstage](https://developers.soundcloud.com/blog/) | [SoundCloud](https://github.com/soundcloud)  |
 
 ### Events and Tickets
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 |                                                | [Lanyard](http://github.lanyrd.com) |
+|                                                | [Meetup](https://github.com/meetup) |
 | [Ticketmaster](https://tech.ticketmaster.com/) | [Ticketmaster](https://github.com/ticketmaster) |
 
 ### Tools
@@ -872,17 +912,15 @@ https://github.com/DataDog | Datadog, Inc.
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [Chartbeat Engineering](http://engineering.chartbeat.com/) | [Chartbeat](https://github.com/chartbeat) |
 |                                                            | [Chartbeat Labs](https://github.com/chartbeat-labs) |
-| [Mixpanel](https://mixpanel.com/blog/)                     | [Mixpanel](https://github.com/mixpanel) |
-| [Mixpanel](https://medium.com/mixpaneleng/)                ||
 
 ### Admin
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Zendesk](https://medium.com/zendesk-engineering) | [Zendesk](https://github.com/zendesk) |
-|                                                   | [Staffjoy](https://github.com/Staffjoy) |
-|                                                   | [Zenefits](https://github.com/zenefits) |
-|                                                   | [Ziggeo](https://github.com/ziggeo) |
+| [Zendesk](https://medium.com/zendesk-engineering)               | [Zendesk](https://github.com/zendesk) |
+|                                                                 | [Staffjoy](https://github.com/Staffjoy) |
+| [Zenefits Engineering](https://engineering.zenefits.com/posts/) | [Zenefits](https://github.com/zenefits) |
+|                                                                 | [Ziggeo](https://github.com/ziggeo) |
  
 ### On Demand
 
@@ -909,53 +947,61 @@ https://github.com/DataDog | Datadog, Inc.
 
 ### Travel, Housing, Hospitality
 
-* [Airbnb](https://github.com/airbnb)  
-* [Airbnb: Crowdtilt](https://github.com/Crowdtilt) 
-* [Airbus SecLab](https://github.com/airbus-seclab)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Expedia](https://medium.com/expedia-group-tech) ||
+| [Secret Escapes](http://tech.secretescapes.com/) ||
+| [TripAdvisor](http://engineering.tripadvisor.com/) | [Trip Advisor](https://github.com/tripadvisor) |
+
 * [HotelTonight](https://github.com/hoteltonight)
-* [Kayak](https://github.com/kayak)
-* [Trip Advisor](https://github.com/tripadvisor)  
+* [Kayak](https://github.com/kayak) 
 * [TripIt](https://github.com/tripit)  
 * [Zillow](https://github.com/zillow)
 * [Zillow Research](https://github.com/zillow-research)
 
 ### Financial Services
 
-* [American Express](https://github.com/americanexpress)
-* [Blackrock Digital](https://github.com/BlackrockDigital)
-* [C2FO](https://github.com/C2FO) 
-* [Dwolla](https://github.com/dwolla)  
-* [Fidelity International](https://github.com/FidelityInternational)  
-* [Funding Circle](https://github.com/fundingcircle)
-* [Keybase](https://github.com/keybase) 
-* [Kickstarter](https://github.com/kickstarter) 
-* [Quantopian](https://github.com/quantopian) 
-* [Plaid](https://github.com/plaid)
-* [Robinhood](https://github.com/robinhood) 
-* [Square](https://github.com/square)
-* [Stripe](https://github.com/stripe) 
-* [TruStory](https://github.com/TruStory) 
-* [Wealthfront](https://github.com/wealthfront)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                           | [American Express](https://github.com/americanexpress) |
+| [BlackRock Engineering](http://rockthecode.io/)           | [Blackrock Digital](https://github.com/BlackrockDigital) |
+|                                                           | [C2FO](https://github.com/C2FO) |
+|                                                           | [Dwolla](https://github.com/dwolla) |
+|                                                           | [Fidelity International](https://github.com/FidelityInternational) | 
+| [Funding Circle](https://engineering.fundingcircle.com/)  | [Funding Circle](https://github.com/fundingcircle) |
+|                                                           | [Kickstarter](https://github.com/kickstarter) | 
+|                                                           | [Quantopian](https://github.com/quantopian) | 
+|                                                           | [Plaid](https://github.com/plaid) | 
+| [Robinhood Engineering](https://robinhood.engineering/)   | [Robinhood](https://github.com/robinhood) |
+| [Square Developer](https://developer.squareup.com/blog/)  | [Square](https://github.com/square) |
+| [Stripe](https://stripe.com/blog)                         ||
+| [Stripe Engineering](https://stripe.com/blog/engineering) | [Stripe](https://github.com/stripe) |
+|                                                           | [TruStory](https://github.com/TruStory) | 
+| [Wealthfront Engineering](https://eng.wealthfront.com/)   | [Wealthfront](https://github.com/wealthfront) |
 
 ### Forums
 
-* [Hacker News](https://github.com/HackerNews)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                                                | [Hacker News](https://github.com/HackerNews) |
 
 ### Classifieds
 
-* [Craigslist](https://github.com/craigslist)  
-* [Gumtree](https://github.com/gumtree)  
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                                                | [Craigslist](https://github.com/craigslist)  |
+|                                                                                | [Gumtree](https://github.com/gumtree) |
+
 
 ### Publications
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Medium Engineering](https://medium.engineering/)                            | [Medium](https://github.com/medium) |
-|                                                                              | [Medium Open Source](https://github.com/Medium/opensource) |
-|                                                                              | [Medium Policy](https://github.com/Medium/medium-policy) |
-
-* [Flipboard](https://github.com/flipboard)
-* [Wattpad](https://github.com/wattpad) 
+|                                                   | [Flipboard](https://github.com/flipboard) |
+| [Medium Engineering](https://medium.engineering/) | [Medium](https://github.com/medium) |
+|                                                   | [Medium Open Source](https://github.com/Medium/opensource) |
+|                                                   | [Medium Policy](https://github.com/Medium/medium-policy) |
+|                                                   | [Wattpad](https://github.com/wattpad) |
 
 ### News
 
