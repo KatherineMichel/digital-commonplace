@@ -93,8 +93,6 @@ Interesting!
 
 https://github.com/python-fedex-devs
 
-* [PagerDuty](https://github.com/PagerDuty) 
-
 DevRel
 * [Twilio](https://github.com/twilio)  
 * [Twilio Org](https://github.com/Twilio-org) 
@@ -208,7 +206,12 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ### Infrastructure and Other
 
-* [Elastic](https://github.com/elastic)
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Elastic](https://www.elastic.co/blog)                                                   | [Elastic](https://github.com/elastic) |
+| [Elastic Engineering](https://www.elastic.co/blog/category/engineering)                  ||
+| [Pagerduty](https://www.pagerduty.com/blog/) | [PagerDuty](https://github.com/PagerDuty) |
+
 * [IBM](https://github.com/IBM)  
 * [IBM Cloud](https://github.com/IBM-Cloud)
 * [Intel](https://github.com/intel) 
@@ -494,6 +497,15 @@ https://github.com/nielsen-oss
 
 ## Large Scale Python, Machine Learning, and Data Science
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [AWS](https://aws.amazon.com/blogs/aws/) ||
+| [Amazon Developer](https://developer.amazon.com/blogs)                         ||
+| [Baidu Research](http://research.baidu.com/Blog)                               ||
+| [Facebook Engineering](https://code.facebook.com/posts/)                       ||
+| [Facebook AI Research](https://engineering.fb.com/category/ai-research/)       ||
+
+
 ### Facebook
 
 * [Facebook](https://github.com/facebook)  
@@ -735,12 +747,13 @@ https://github.com/DevNetSandbox
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-|                                                           | [Stack Exchange](https://github.com/stackexchange) |
-| [Stack Overflow](https://stackoverflow.blog/engineering/) ||
-| [StackShare](https://stackshare.io/feed) ||
+| [GitHub Engineering](https://githubengineering.com/)                     | [GitHub](https://github.com/github) | 
+| [GitHub Engineering Category](https://github.blog/category/engineering/) ||
+|                                                                          | [Stack Exchange](https://github.com/stackexchange) |
+| [Stack Overflow](https://stackoverflow.blog/engineering/)                ||
+| [StackShare](https://stackshare.io/feed)                                 ||
 | [Trello](https://tech.trello.com/) | [Trello](https://github.com/trello) |
 
-* [GitHub](https://github.com/github) 
 * [Open Source Maintainers on GitHub](https://github.com/maintainers)
 * [GitHub Archive](https://github.com/github-archive)
 
@@ -948,6 +961,7 @@ Sharing
 | [OpenTable](http://tech.opentable.com/) ||
 | [OpenTable UK](http://tech.opentable.co.uk/) ||
 | [Postmates](https://blog.postmates.com/tagged/engineering) | [Postmates](https://github.com/postmates) |
+| [Shyp](https://medium.com/shyp-engineering) ||
 | [TaskRabbit](http://tech.taskrabbit.com/)                  | [TaskRabbit](https://github.com/taskrabbit) |
 
 ### Entertainment
@@ -1040,7 +1054,19 @@ Sharing
 |                                                            | [Medium Policy](https://github.com/Medium/medium-policy) |
 | [Wattpad](http://engineering.wattpad.com/).                | [Wattpad](https://github.com/wattpad) |
 
+<!--
+| [Medium](https://medium.com/medium-eng) ||
+-->
+
 ### News
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Buzzfeed](https://www.buzzfeed.com/techblog) ||
+| [Condé Nast](https://technology.condenast.com/) ||
+| [Guardian](https://www.theguardian.com/info/developer-blog) ||
+| [New York Times](https://open.blogs.nytimes.com) ||
+| [NPR Apps](http://blog.apps.npr.org/) ||
 
 * [ABC News](https://github.com/abcnews)
 * [Al Jazeera America](https://github.com/ajam)  
