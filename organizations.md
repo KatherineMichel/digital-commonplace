@@ -494,13 +494,14 @@ https://github.com/DevNetSandbox
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [Elastic](https://www.elastic.co/blog)                                                   | [Elastic](https://github.com/elastic) |
 | [Elastic Engineering](https://www.elastic.co/blog/category/engineering)                  ||
-| [Pagerduty](https://www.pagerduty.com/blog/) | [PagerDuty](https://github.com/PagerDuty) |
+| [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
 
 * [Oracle](https://github.com/oracle) 
 * [Oracle Quick Start](https://github.com/oracle-quickstart) 
 * [Rackspace](https://github.com/rackspace)
-| [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
 * [SAP](https://github.com/SAP)  
+
+| [Pagerduty](https://www.pagerduty.com/blog/) | [PagerDuty](https://github.com/PagerDuty) |
 
 <!--
 https://github.com/netapp/
@@ -821,8 +822,10 @@ https://github.com/nielsen-oss
 | [HashiCorp](https://www.hashicorp.com/blog)                    | [HashiCorp](https://github.com/hashicorp) |
 | [Heroku Engineering](https://blog.heroku.com/engineering)      | [Heroku](https://github.com/heroku) |
 |                                                                | [Heroku Examples](https://github.com/heroku-examples) |
+|                                                                | [Keen](https://github.com/keen) |
 |                                                                | [Kubernetes Incubator](https://github.com/kubernetes-incubator) |
-| [Okta](https://developer.okta.com/blog/) ||
+|                                                                | [Mapbox](https://github.com/mapbox) |
+| [Okta](https://developer.okta.com/blog/) | [Okta](https://github.com/okta) |
 | [OpenDNS](https://engineering.opendns.com/) ||
 | [Snyk](https://snyk.io/blog) ||
 |                                                                | [Opera Software](https://github.com/operasoftware) |
@@ -838,23 +841,21 @@ https://github.com/nielsen-oss
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 |                                                                    | [Automattic](https://github.com/Automattic) |
 | [Bigcommerce](http://www.bigeng.io/) ||
-|                                                                    | [DWNLD](https://github.com/dwnld) |
+|                                                                    | [Firebase](https://github.com/firebase) |
 |                                                                    | [GoDaddy](https://github.com/godaddy) |
+|                                                                    | [LaunchKit](https://github.com/launchkit) |
 |                                                                    | [Netlify](https://github.com/netlify) |
-|                                                                    | [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) |
+|                                                                    | [OpenShift](https://github.com/openshift) |
 | [Shopify Engineering](https://engineering.shopify.com)             | [Shopify](https://github.com/Shopify) |
 | [Squarespace](https://engineering.squarespace.com/)                | [Squarespace](https://github.com/squarespace) |
 | [Wix Engineering](https://www.wix.engineering/blog)                | [Wix](https://github.com/wix) |
 
-
-* [Firebase](https://github.com/firebase)
-* [OpenShift](https://github.com/openshift)
 * [WordPress](https://github.com/WordPress)  
 * [WordPress Mobile](https://github.com/wordpress-mobile/) 
 * [WordPress Plugins](https://github.com/wp-plugins) 
 * [WordPress Accessibility](https://github.com/wpaccessibility)
 
-### Tools
+### People Tools
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
@@ -872,7 +873,6 @@ https://github.com/nielsen-oss
 | [Hootsuite](http://code.hootsuite.com/)                      | [Hootsuite](https://github.com/hootsuite) |
 | [HubSpot](http://product.hubspot.com/blog/topic/engineering) | [HubSpot](https://github.com/HubSpot) |
 | [IFTTT](http://engineering.ifttt.com/)                       | [IFTTT](https://github.com/IFTTT) |
-| [Gnip Engineering](https://engineering.gnip.com/)            | [Gnip](https://github.com/gnip) |
 |                                                              | [KISSmetrics](https://github.com/kissmetrics) |
 |                                                              | [Klout](https://github.com/klout) |
 | [Prezi Engineering](https://engineering.prezi.com/)          | [Prezi](https://github.com/prezi) |
@@ -899,32 +899,30 @@ https://github.com/nielsen-oss
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [FiftyThree "Making FiftyThree"](http://making.fiftythree.com/) | [FiftyThree](https://github.com/fiftythree) |
 
-Sharing
-* [Digg](https://github.com/digg)  
-* [Okta](https://github.com/okta)
-* [Rakuten](https://github.com/rakuten)  
-
+Don't Fit Another Category
 * [Edward Tufte](https://github.com/edwardtufte)
 * [Estimote](https://github.com/Estimote) 
 * [Exxon Mobil](https://github.com/ExxonMobil) 
-* [Hudl](https://github.com/hudl) 
 * [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
+
 * [Justin.tv](https://github.com/justintv)  
-* [Keen](https://github.com/keen) 
-* [LaunchKit](https://github.com/launchkit)
-* [Mapbox](https://github.com/mapbox)
 * [Mashery](https://github.com/mashery)  
 * [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
 * [Optimizely](https://github.com/optimizely) 
 * [Pivotal Labs](https://github.com/pivotal)
-* [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
 * [Product Hunt](https://github.com/producthunt)
 * [Rap Genius](https://github.com/RapGenius)  
 * [Swipely](https://github.com/swipely)  
 * [Taobao](https://github.com/taobao)  
 * [Deprecated: ThinkUp](https://github.com/ThinkUpLLC/ThinkUp)
+
+Animation
+* [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
+
+Sport
+* [Hudl](https://github.com/hudl) 
 
 ### Design
 
@@ -956,8 +954,10 @@ Sharing
 |                                                                    | [Behance](https://github.com/behance) |
 |                                                                    | [Dollar Shave Club](https://github.com/dollarshaveclub)  |
 | [ebay](https://tech.ebayinc.com/)                                  | [eBay](https://github.com/eBay) |
-| [Etsy Engineering "Code as Craft"](https://codeascraft.com/)        | [Etsy](https://github.com/etsy) |
+| [Etsy Engineering "Code as Craft"](https://codeascraft.com/)       | [Etsy](https://github.com/etsy) |
 |                                                                    | [Fasholista](https://github.com/Fashiolista) |
+|                                                                    | [Rakuten Ads](https://github.com/rakuten-ads) |
+|                                                                    | [RakutenTech](https://github.com/rakutentech) |
 | [Stitch Fix Engineering](http://multithreaded.stitchfix.com/blog/) | [Stitch Fix](https://github.com/stitchfix) |
 |                                                                    | [StyleSeat](https://github.com/styleseat)  |
 | [Target](https://target.github.io/)                                | [Target](https://github.com/target) |
@@ -986,18 +986,12 @@ Sharing
 |                                                               | [Vimeo](https://github.com/vimeo) |
 | [Vine](http://engineering.vine.co/)                           | [Vine](https://github.com/vine) |
  
-### On Demand
+### Forums
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Deliveroo](https://deliveroo.engineering/) ||
-| [DoorDash](https://blog.doordash.com/tagged/engineering) ||
-|                                                            | [ManageIQ](https://github.com/ManageIQ) |
-| [OpenTable](http://tech.opentable.com/) ||
-| [OpenTable UK](http://tech.opentable.co.uk/) ||
-| [Postmates](https://blog.postmates.com/tagged/engineering) | [Postmates](https://github.com/postmates) |
-| [Shyp](https://medium.com/shyp-engineering) ||
-| [TaskRabbit](http://tech.taskrabbit.com/)                  | [TaskRabbit](https://github.com/taskrabbit) |
+|                                                                                | [Digg](https://github.com/digg) |
+|                                                                                | [Hacker News](https://github.com/HackerNews) |
 
 ### Entertainment
 
@@ -1036,36 +1030,6 @@ Sharing
 |                                                    | [Zillow](https://github.com/zillow) |
 |                                                    | [Zillow Research](https://github.com/zillow-research) |
 
-### Financial Services
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-|                                                                | [American Express](https://github.com/americanexpress) |
-| [BlackRock Engineering](http://rockthecode.io/)                | [Blackrock Digital](https://github.com/BlackrockDigital) |
-|                                                                | [C2FO](https://github.com/C2FO) |
-| [Coinbase](https://engineering.coinbase.com/)                  ||
-|                                                                | [Dwolla](https://github.com/dwolla) |
-|                                                                | [Fidelity International](https://github.com/FidelityInternational) | 
-| [Funding Circle](https://engineering.fundingcircle.com/)       | [Funding Circle](https://github.com/fundingcircle) |
-| [Kickstarter](https://www.kickstarter.com/backing-and-hacking) | [Kickstarter](https://github.com/kickstarter) | 
-| [LendingHome](https://tech.lendinghome.com/)                   ||
-|                                                                | [Quantopian](https://github.com/quantopian) | 
-|                                                                | [Plaid](https://github.com/plaid) | 
-| [Robinhood Engineering](https://robinhood.engineering/)        | [Robinhood](https://github.com/robinhood) |
-| [Square Developer](https://developer.squareup.com/blog/)       | [Square](https://github.com/square) |
-| [Stripe](https://stripe.com/blog)                              ||
-| [Stripe Engineering](https://stripe.com/blog/engineering)      | [Stripe](https://github.com/stripe) |
-| [Transferwise](http://tech.transferwise.com/)                  ||
-|                                                                | [TruStory](https://github.com/TruStory) | 
-| [Wealthfront Engineering](https://eng.wealthfront.com/)        | [Wealthfront](https://github.com/wealthfront) |
-| [Wonga](http://tech.wonga.com/)                                ||
-
-### Forums
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-|                                                                                | [Hacker News](https://github.com/HackerNews) |
-
 ## Relationship
 
 | Blog Link                                                                      | Description                                             |
@@ -1079,6 +1043,19 @@ Sharing
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 |                                                                                | [Craigslist](https://github.com/craigslist)  |
 |                                                                                | [Gumtree](https://github.com/gumtree) |
+
+### On Demand
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Deliveroo](https://deliveroo.engineering/) ||
+| [DoorDash](https://blog.doordash.com/tagged/engineering) ||
+|                                                            | [ManageIQ](https://github.com/ManageIQ) |
+| [OpenTable](http://tech.opentable.com/) ||
+| [OpenTable UK](http://tech.opentable.co.uk/) ||
+| [Postmates](https://blog.postmates.com/tagged/engineering) | [Postmates](https://github.com/postmates) |
+| [Shyp](https://medium.com/shyp-engineering) ||
+| [TaskRabbit](http://tech.taskrabbit.com/)                  | [TaskRabbit](https://github.com/taskrabbit) |
 
 ### Publications
 
@@ -1138,6 +1115,30 @@ Sharing
 * [Washington Post](https://github.com/washingtonpost)  
 * [Washington Post Investigative](https://github.com/wpinvestigative)  
 * [Washington Times](https://github.com/washingtontimes)  
+
+### Financial Services
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                                | [American Express](https://github.com/americanexpress) |
+| [BlackRock Engineering](http://rockthecode.io/)                | [Blackrock Digital](https://github.com/BlackrockDigital) |
+|                                                                | [C2FO](https://github.com/C2FO) |
+| [Coinbase](https://engineering.coinbase.com/)                  ||
+|                                                                | [Dwolla](https://github.com/dwolla) |
+|                                                                | [Fidelity International](https://github.com/FidelityInternational) | 
+| [Funding Circle](https://engineering.fundingcircle.com/)       | [Funding Circle](https://github.com/fundingcircle) |
+| [Kickstarter](https://www.kickstarter.com/backing-and-hacking) | [Kickstarter](https://github.com/kickstarter) | 
+| [LendingHome](https://tech.lendinghome.com/)                   ||
+|                                                                | [Quantopian](https://github.com/quantopian) | 
+|                                                                | [Plaid](https://github.com/plaid) | 
+| [Robinhood Engineering](https://robinhood.engineering/)        | [Robinhood](https://github.com/robinhood) |
+| [Square Developer](https://developer.squareup.com/blog/)       | [Square](https://github.com/square) |
+| [Stripe](https://stripe.com/blog)                              ||
+| [Stripe Engineering](https://stripe.com/blog/engineering)      | [Stripe](https://github.com/stripe) |
+| [Transferwise](http://tech.transferwise.com/)                  ||
+|                                                                | [TruStory](https://github.com/TruStory) | 
+| [Wealthfront Engineering](https://eng.wealthfront.com/)        | [Wealthfront](https://github.com/wealthfront) |
+| [Wonga](http://tech.wonga.com/)                                ||
 
 ### Games and Robots
 
@@ -1311,3 +1312,11 @@ Not-Profit
 * [Wikimedia](https://github.com/wikimedia)  
 * [Wikimedia Research](https://github.com/wikimedia-research)  
 * [Wikimedia Deutschland](https://github.com/wmde) 
+
+## Defunct
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Gnip Engineering (Twitter)](https://engineering.gnip.com/)| [Gnip](https://github.com/gnip) |
+|                                                            | [DWNLD](https://github.com/dwnld) |
+|                                                            | [Nodejitsu (now GoDaddy)](https://github.com/nodejitsu) |
