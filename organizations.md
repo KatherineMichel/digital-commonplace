@@ -3,6 +3,9 @@
 <!--
 markel corporation!
 
+* [Open Source Maintainers on GitHub](https://github.com/maintainers) 
+* [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
+
 https://github.com/customer-stories/nationwide
 
 https://github.com/ImaginaryLandscape
@@ -151,7 +154,7 @@ https://github.com/TwilioDevEd
 | [Lincoln Loop](https://lincolnloop.com/blog)       | [Lincoln Loop](https://github.com/lincolnloop) |
 | [Pinax Blog](http://blog.pinaxproject.com)         | [Pinax](https://pinaxproject.com) |
 | [Revolution Systems](http://www.revsys.com/blog)   | [Revolution Systems](https://github.com/revsys) |
-| [ThoughtWorks Engineering](https://www.thoughtworks.com/insights) | https://github.com/thoughtworks |
+| [ThoughtWorks Engineering](https://www.thoughtworks.com/insights) | [ThoughtWorks](https://github.com/thoughtworks) |
 | [Torchbox](https://torchbox.com/blog)              | [Torchbox](https://github.com/torchbox) |
 | [Truthful Technology](https://truthful.technology) | [Truthful Technology](https://github.com/TruthfulTechnology) |
 | [Vinta](https://www.vinta.com.br/blog)             | [Vinta Software](https://github.com/vintasoftware) |
@@ -217,9 +220,12 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Mozilla](https://blog.mozilla.org/)                                           ||
-| [Red Hat Developers](https://developers.redhat.com/blog/)                      ||
-| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/)  ||
+| [Mozilla](https://blog.mozilla.org/)                                          ||
+| [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
+| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
+|                                                                              | [Salesforce Developers](https://github.com/developerforce) |
+|                                                                              | [Salesforce UX](https://github.com/salesforce-ux) |
+|                                                                              | [Force.com](https://github.com/forcedotcom) |
 
 ### Tools
 
@@ -235,10 +241,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 * [Oracle](https://github.com/oracle) 
 * [Oracle Quick Start](https://github.com/oracle-quickstart) 
 * [Rackspace](https://github.com/rackspace)
-* [Salesforce](https://github.com/salesforce)
-* [Salesforce Developers](https://github.com/developerforce)
-* [Salesforce UX](https://github.com/salesforce-ux)
-* [Force.com](https://github.com/forcedotcom)  
 * [SAP](https://github.com/SAP)  
 
 <!--
@@ -298,11 +300,10 @@ https://github.com/SAPDocuments
 * [Pearson Education](https://github.com/PearsonEducation) 
 * [Pearson User Experience](https://github.com/pearson-ux) 
 * [Pluralsight](https://github.com/pluralsight)
-* [Pluralsight Guides](https://github.com/pluralsight/guides)
-* [Pluralsight Projects](https://github.com/pluralsight-projects)
 
 <!--
-https://www.pluralsight.com/guides
+* [Pluralsight Guides](https://github.com/pluralsight/guides)
+* [Pluralsight Projects](https://github.com/pluralsight-projects)
 -->
 
 ### Design
@@ -403,9 +404,6 @@ https://github.com/wayfair-archive
 
 * [Ford](https://github.com/Ford)
 * [Goodyear](https://github.com/goodyear) 
-* [Uber Common](https://github.com/uber-common) 
-* [Uber Web](https://github.com/uber-web ) 
-* [Uber Go](https://github.com/uber-go)
 * [Volkswagen](https://github.com/volkswagen) 
 
 <!--
@@ -529,19 +527,15 @@ https://github.com/nielsen-oss
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [AWS](https://aws.amazon.com/blogs/aws/) ||
-| [Amazon Developer](https://developer.amazon.com/blogs)                         ||
-| [Baidu Research](http://research.baidu.com/Blog)                               ||
-| [Facebook Engineering](https://code.facebook.com/posts/)                       ||
-| [Facebook AI Research](https://engineering.fb.com/category/ai-research/)       ||
-| [IBM developerWorks ](https://developer.ibm.com/dwblog/) ||
-| [Salesforce](https://developer.salesforce.com/blogs/engineering/) ||
-| [Intel](https://software.intel.com/en-us/blogs/) ||
 | [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/) ||
 | [Nvidia](https://blogs.nvidia.com/) ||
-| [YouTube Engineering and Developers](https://youtube-eng.googleblog.com/)   ||
 
 ### Facebook
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Facebook Engineering](https://code.facebook.com/posts/)                       ||
+| [Facebook AI Research](https://engineering.fb.com/category/ai-research/)       ||
 
 * [Facebook](https://github.com/facebook)  
 * [Facebook Experimental](https://github.com/facebookexperimental)
@@ -552,6 +546,10 @@ https://github.com/nielsen-oss
 * [Facebook Go](https://github.com/facebookgo)
 
 ### Google
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [YouTube Engineering and Developers](https://youtube-eng.googleblog.com/) | [YouTube](https://github.com/youtube) |
 
 * [DeepMind (Google)](https://github.com/deepmind)
 * [Google](https://github.com/google)
@@ -575,9 +573,13 @@ https://github.com/nielsen-oss
 * [Google Maps](https://github.com/googlemaps)  
 * [Google Samples](https://github.com/googlesamples) 
 * [G Suite Devs](https://github.com/gsuitedevs )
-* [YouTube](https://github.com/youtube)
 
 ### Amazon
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [AWS](https://aws.amazon.com/blogs/aws/) ||
+| [Amazon Developer](https://developer.amazon.com/blogs)                         ||
 
 * [Alexa](https://github.com/alexa) 
 * [Amazon Web Services](https://github.com/amazonwebservices)  
@@ -587,8 +589,11 @@ https://github.com/nielsen-oss
 
 ### Baidu
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Baidu Research](http://research.baidu.com/Blog) | [Baidu Research](https://github.com/baidu-research) |
+
 * [Baidu](https://github.com/baidu)
-* [Baidu Research](https://github.com/baidu-research)
 * [Paddle Paddle (Baidu)](https://github.com/PaddlePaddle)
 
 ### Alibaba
@@ -612,6 +617,8 @@ https://github.com/nielsen-oss
 
 * [Uber](https://github.com/uber)
 * [Uber Common](https://github.com/uber-common)
+* [Uber Web](https://github.com/uber-web ) 
+* [Uber Go](https://github.com/uber-go)
 
 ### Twitter
 
@@ -667,12 +674,25 @@ Azure
 
 ### IBM
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [IBM developerWorks ](https://developer.ibm.com/dwblog/) ||
+
 * [IBM](https://github.com/IBM)
 * [Watson Developer Cloud (IBM)](https://github.com/watson-developer-cloud)
 
+### Salesforce
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Salesforce](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
+
 ### Intel
 
-* [Intel](https://github.com/intel)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Intel](https://software.intel.com/en-us/blogs/) | [Intel](https://github.com/intel) |
+
 * [Intel Analytics](https://github.com/intel-analytics)
 * [Nervana Systems](https://github.com/NervanaSystems)
 
@@ -756,7 +776,6 @@ https://github.com/DevNetSandbox
 * [Spotify](https://github.com/spotify)
 -->
 
-* [Salesforce](https://github.com/salesforce)
 * [Samsung](https://github.com/Samsung)
 * [Shopify](https://github.com/shopify)
 * [Sony](https://github.com/sony)
@@ -796,8 +815,6 @@ https://github.com/DevNetSandbox
 | [StackShare](https://stackshare.io/feed)                                 ||
 | [Trello](https://tech.trello.com/) | [Trello](https://github.com/trello) |
 
-* [Open Source Maintainers on GitHub](https://github.com/maintainers) 
-
 ### Security
 
 * [Hacker One](https://github.com/Hacker0x01/)
@@ -836,8 +853,6 @@ https://github.com/DevNetSandbox
 |                                                                | [PostgreSQL](https://github.com/postgres) |
 |                                                                | [Ubuntu](https://github.com/ubuntu) |
 |                                                                | [VMware](https://github.com/vmware) |
-
-* [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
   
 ## Companies by Subject
 
@@ -967,7 +982,7 @@ Sharing
 |                                                                    | [Behance](https://github.com/behance) |
 |                                                                    | [Dollar Shave Club](https://github.com/dollarshaveclub)  |
 | [ebay](https://tech.ebayinc.com/)                                  | [eBay](https://github.com/eBay) |
-| [Etsy Engineering, Code as Craft](https://codeascraft.com/)        | [Etsy](https://github.com/etsy) |
+| [Etsy Engineering "Code as Craft"](https://codeascraft.com/)        | [Etsy](https://github.com/etsy) |
 |                                                                    | [Fasholista](https://github.com/Fashiolista) |
 | [Stitch Fix Engineering](http://multithreaded.stitchfix.com/blog/) | [Stitch Fix](https://github.com/stitchfix) |
 |                                                                    | [StyleSeat](https://github.com/styleseat)  |
