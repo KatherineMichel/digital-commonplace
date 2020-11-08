@@ -828,8 +828,10 @@ https://github.com/nielsen-oss
 |                                                                | [Mashery](https://github.com/mashery) |
 | [Okta](https://developer.okta.com/blog/) | [Okta](https://github.com/okta) |
 | [OpenDNS](https://engineering.opendns.com/) ||
+|                                                                | [OpenStack](https://github.com/openstack) |
 |                                                                | [Opera Software](https://github.com/operasoftware) |
 |                                                                | [Optimizely](https://github.com/optimizely) |
+|                                                                | [Pivotal Labs (VMWare)](https://github.com/pivotal) |
 |                                                                | [PostgreSQL](https://github.com/postgres) |
 | [Snyk](https://snyk.io/blog) ||
 |                                                                | [Ubuntu](https://github.com/ubuntu) |
@@ -851,8 +853,8 @@ https://github.com/nielsen-oss
 | [Shopify Engineering](https://engineering.shopify.com)             | [Shopify](https://github.com/Shopify) |
 | [Squarespace](https://engineering.squarespace.com/)                | [Squarespace](https://github.com/squarespace) |
 | [Wix Engineering](https://www.wix.engineering/blog)                | [Wix](https://github.com/wix) |
-
-* [WordPress](https://github.com/WordPress)  
+|                                                                    | [WordPress](https://github.com/WordPress) |
+  
 * [WordPress Mobile](https://github.com/wordpress-mobile/) 
 * [WordPress Plugins](https://github.com/wp-plugins) 
 * [WordPress Accessibility](https://github.com/wpaccessibility)
@@ -896,26 +898,16 @@ https://github.com/nielsen-oss
 | [Zenefits Engineering](https://engineering.zenefits.com/posts/) | [Zenefits](https://github.com/zenefits) |
 |                                                                 | [Ziggeo](https://github.com/ziggeo) |
  
-### Not Classified Yet
+### Not Classified
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                    | [Edward Tufte](https://github.com/edwardtufte) |
+|                                                    | [Estimote](https://github.com/Estimote) |
+|                                                    | [Exxon Mobil](https://github.com/ExxonMobil) |
+|                                                    | [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau) |
 
-Don't Fit Another Category
-* [Edward Tufte](https://github.com/edwardtufte)
-* [Estimote](https://github.com/Estimote) 
-* [Exxon Mobil](https://github.com/ExxonMobil) 
-* [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
-
-* [OpenStack](https://github.com/openstack)  
-* [Pivotal Labs](https://github.com/pivotal)
 * [Product Hunt](https://github.com/producthunt)
-
-Animation
-* [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
-
-Sport
-* [Hudl](https://github.com/hudl) 
 
 <!--
 Upserve 
@@ -998,6 +990,7 @@ Upserve
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 |                                                            | [Hulu](https://github.com/hulu) |
+|                                                            | [Pixar Animation Studios](https://github.com/PixarAnimationStudios) |
 
 ### Music
 
@@ -1154,6 +1147,12 @@ Upserve
 
 * [Google VR](https://github.com/googlevr)
 * [Oculus VR](https://github.com/OculusVR) 
+
+### Sport
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                            | [Hudl](https://github.com/hudl) |
 
 ### Transport
 
