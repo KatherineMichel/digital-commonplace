@@ -28,6 +28,19 @@ https://github.com/NVIDIA/DIGITS
 https://github.com/unsplash/datasets
 
 https://github.com/defcon201/
+
+
+[Red Hat Developers](https://developers.redhat.com/) 
+
+* Intent Media http://intentmedia.com/blog/
+
+* Scrapinghub https://blog.scrapinghub.com/
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Periscope Data](https://www.sisense.com/blog/)                          ||
+
+Periscope
 -->
 
 <!--
@@ -138,12 +151,12 @@ https://github.com/TwilioDevEd
 | [Lincoln Loop](https://lincolnloop.com/blog)       | [Lincoln Loop](https://github.com/lincolnloop) |
 | [Pinax Blog](http://blog.pinaxproject.com)         | [Pinax](https://pinaxproject.com) |
 | [Revolution Systems](http://www.revsys.com/blog)   | [Revolution Systems](https://github.com/revsys) |
+| [ThoughtWorks Engineering](https://www.thoughtworks.com/insights) | https://github.com/thoughtworks |
 | [Torchbox](https://torchbox.com/blog)              | [Torchbox](https://github.com/torchbox) |
 | [Truthful Technology](https://truthful.technology) | [Truthful Technology](https://github.com/TruthfulTechnology) |
 | [Vinta](https://www.vinta.com.br/blog)             | [Vinta Software](https://github.com/vintasoftware) |
 
 <!--
-https://github.com/thoughtworks
 https://github.com/ThoughtWorksInc
 https://github.com/ThoughtWorksStudios
 https://github.com/thoughtworksarts
@@ -526,6 +539,7 @@ https://github.com/nielsen-oss
 | [Intel](https://software.intel.com/en-us/blogs/) ||
 | [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/) ||
 | [Nvidia](https://blogs.nvidia.com/) ||
+| [YouTube Engineering and Developers](https://youtube-eng.googleblog.com/)   ||
 
 ### Facebook
 
@@ -626,9 +640,12 @@ https://github.com/nielsen-oss
 
 ## Browsers and Search Engines
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Yahoo! Engineering](https://yahooeng.tumblr.com/) | [Yahoo!](https://github.com/yahoo) |
+
 * [Brave](https://github.com/brave) 
 * [DuckDuckGo](https://github.com/duckduckgo) 
-* [Yahoo!](https://github.com/yahoo) 
 * [Yandex](https://github.com/yandex)
 
 <!--
@@ -806,7 +823,6 @@ https://github.com/DevNetSandbox
 | [Docker](https://blog.docker.com/)                             | [Docker](https://github.com/docker) |
 | [Docker Engineering](https://engineering.docker.com/)          | [Docker Library](https://github.com/docker-library) |
 |                                                                | [Heroku Examples](https://github.com/heroku-examples) |
-
 |                                                                | [Gerrit Code Review](https://github.com/GerritCodeReview) |
 | [Grafana](https://grafana.com/blog/) ||
 | [HashiCorp](https://www.hashicorp.com/blog)                    | [HashiCorp](https://github.com/hashicorp) |
@@ -888,6 +904,10 @@ https://github.com/DevNetSandbox
  
 ### Not Classified Yet
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [FiftyThree "Making FiftyThree"](http://making.fiftythree.com/) | [FiftyThree](https://github.com/fiftythree) |
+
 Sharing
 * [Digg](https://github.com/digg)  
 * [Flipkart](https://github.com/flipkart)
@@ -898,10 +918,8 @@ Sharing
 * [Edward Tufte](https://github.com/edwardtufte)
 * [Estimote](https://github.com/Estimote) 
 * [Exxon Mobil](https://github.com/ExxonMobil) 
-* [FiftyThree](https://github.com/fiftythree)
 * [Hudl](https://github.com/hudl) 
 * [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
-* [Intuit](https://github.com/intuit)
 * [Justin.tv](https://github.com/justintv)  
 * [Keen](https://github.com/keen) 
 * [LaunchKit](https://github.com/launchkit)
@@ -1262,6 +1280,10 @@ Australian Government
 
 ## Digital Agency
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Thoughtbot](https://robots.thoughtbot.com/) | [thoughtbot](https://github.com/thoughtbot) |
+
 * [ElevenYellow](https://github.com/elevenyellow)
 * [Filament Group](https://github.com/filamentgroup) 
 * [Glitch](https://github.com/glitchdotcom/)
@@ -1269,7 +1291,6 @@ Australian Government
 * [Postlight](https://github.com/postlight)
 * [Potato London](https://github.com/potatolondon)
 * [ribot](https://github.com/ribot)
-* [thoughtbot](https://github.com/thoughtbot)
 
 ## Religious
 
