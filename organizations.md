@@ -204,7 +204,15 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ## Major Organizations and Projects that Use Python or Django
 
-### Infrastructure and Other
+### Infrastructure
+
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Mozilla](https://blog.mozilla.org/)                                           ||
+| [Red Hat Developers](https://developers.redhat.com/blog/)                      ||
+| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/)  ||
+
+### Tools
 
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
@@ -398,6 +406,11 @@ https://github.com/bmwcarit
 
 ### Financial Services
 
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [PayPal Engineering](https://www.paypal-engineering.com/) | [PayPal](https://github.com/paypal) |
+| [Venmo Engineering](http://blog.venmo.com/?category=Engineering)                                | [Venmo](https://github.com/venmo) |
+
 * [Bank of America](https://github.com/bankofamerica) 
 * [Braintree](https://github.com/braintree) 
 * [Capital One](https://github.com/capitalone) 
@@ -409,11 +422,8 @@ https://github.com/bmwcarit
 * [Intuit](https://github.com/intuit) 
 * [Intuit Developer](https://github.com/IntuitDeveloper) 
 * [JP Morgan Chase](https://github.com/jpmorganchase)
-* [Patreon](https://github.com/patreon)  
-* [PayPal](https://github.com/paypal) 
+* [Patreon](https://github.com/patreon)   
 * [Quicken Loans](https://github.com/QuickenLoans) 
-
-* [Venmo](https://github.com/venmo)
 
 ### Credit
 
@@ -429,7 +439,7 @@ https://github.com/bmwcarit
 * [Progressive Insurance](https://github.com/Progressive) 
 * [State Farm](https://github.com/StateFarmIns) 
 
-### News
+### News and Media
 
 * [NBC Universal](https://github.com/nbcuniversal) 
 * [NBC News Digital](https://github.com/nbcnews) 
@@ -439,10 +449,9 @@ https://github.com/bmwcarit
 * [Stanford Journalism](https://github.com/stanfordjournalism)
 * [The Upshot](https://github.com/TheUpshot)  
 * [Vox Media](https://github.com/voxmedia)  
-
-<!--
 * [Verizon Media](https://github.com/VerizonMedia) 
 
+<!--
 https://github.com/nielsen-oss
 -->
 
@@ -759,10 +768,6 @@ https://github.com/DevNetSandbox
 
 * [Atlassian](https://github.com/atlassian)
 * [Atlassian Labs](https://github.com/atlassian-labs )
-* [Asana](https://github.com/asana)
-* [Basecamp](https://github.com/basecamp)
-* [Codeship](https://github.com/codeship)
-* [Gerrit Code Review](https://github.com/GerritCodeReview)
 
 ### Security
 
@@ -771,22 +776,36 @@ https://github.com/DevNetSandbox
 
 ### Infrastructure and Other
 
-* [Chef](https://github.com/chef)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                                | [Asana](https://github.com/asana) |
+|                                                                | [Basecamp](https://github.com/basecamp) |
+| [Blender](https://code.blender.org/) ||
+| [Chef](https://blog.chef.io) | [Chef](https://github.com/chef) |
+| [CockroachDB](https://www.cockroachlabs.com/blog/) ||
+| [Codeship](https://blog.codeship.com/)                         | [Codeship](https://github.com/codeship) |
+| [Databricks](https://databricks.com/blog) ||
+|                                                                | [Gerrit Code Review](https://github.com/GerritCodeReview) |
+| [Grafana](https://grafana.com/blog/) ||
+| [HashiCorp](https://www.hashicorp.com/blog)                    | [HashiCorp](https://github.com/hashicorp) |
+| [Okta](https://developer.okta.com/blog/) ||
+| [OpenDNS](https://engineering.opendns.com/) ||
+| [Snyk](https://snyk.io/blog) ||
+|                                                                | [Opera Software](https://github.com/operasoftware) |
+|                                                                | [PostgreSQL](https://github.com/postgres) |
+|                                                                | [Ubuntu](https://github.com/ubuntu) |
+|                                                                | [VMware](https://github.com/vmware) |
+
+
 * [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
-* [CloudFlare](https://github.com/cloudflare)
-* [Couchbase Labs](https://github.com/couchbaselabs)  
 * [Docker](https://github.com/docker)
 * [Docker Library](https://github.com/docker-library)
-* [Firebase](https://github.com/firebase)
-* [HashiCorp](https://github.com/hashicorp)
 * [Heroku](https://github.com/heroku)  
 * [Heroku Examples](https://github.com/heroku-examples)
+
+* [CloudFlare](https://github.com/cloudflare)
+* [Couchbase Labs](https://github.com/couchbaselabs)  
 * [Kubernetes Incubator](https://github.com/kubernetes-incubator)
-* [OpenShift](https://github.com/openshift)
-* [Opera Software](https://github.com/operasoftware)
-* [PostgreSQL](https://github.com/postgres)
-* [Ubuntu](https://github.com/ubuntu)
-* [VMware](https://github.com/vmware)
 
 <!--
 https://github.com/DataDog | Datadog, Inc.
@@ -809,6 +828,8 @@ https://github.com/DataDog | Datadog, Inc.
 | [Wix Engineering](https://www.wix.engineering/blog)                | [Wix](https://github.com/wix) |
 
 
+* [Firebase](https://github.com/firebase)
+* [OpenShift](https://github.com/openshift)
 * [WordPress](https://github.com/WordPress)  
 * [WordPress Mobile](https://github.com/wordpress-mobile/) 
 * [WordPress Plugins](https://github.com/wp-plugins) 
@@ -855,31 +876,30 @@ https://github.com/DataDog | Datadog, Inc.
 
 Sharing
 * [Digg](https://github.com/digg)  
+* [Flipkart](https://github.com/flipkart)
+* [Flipkart Incubator](https://github.com/flipkart-incubator)
+* [Okta](https://github.com/okta)
+* [Rakuten](https://github.com/rakuten)  
 
 * [Edward Tufte](https://github.com/edwardtufte)
 * [Estimote](https://github.com/Estimote) 
 * [Exxon Mobil](https://github.com/ExxonMobil) 
 * [FiftyThree](https://github.com/fiftythree)
-* [Flipkart](https://github.com/flipkart)
-* [Flipkart Incubator](https://github.com/flipkart-incubator)
 * [Hudl](https://github.com/hudl) 
 * [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
 * [Intuit](https://github.com/intuit)
 * [Justin.tv](https://github.com/justintv)  
 * [Keen](https://github.com/keen) 
 * [LaunchKit](https://github.com/launchkit)
-* [ManageIQ](https://github.com/ManageIQ)
 * [Mapbox](https://github.com/mapbox)
 * [Mashery](https://github.com/mashery)  
-* [Okta](https://github.com/okta)
 * [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
 * [Optimizely](https://github.com/optimizely) 
 * [Pivotal Labs](https://github.com/pivotal)
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
-* [Product Hunt](https://github.com/producthunt)   
-* [Rakuten](https://github.com/rakuten)  
+* [Product Hunt](https://github.com/producthunt)
 * [Rap Genius](https://github.com/RapGenius)  
 * [Swipely](https://github.com/swipely)  
 * [Taobao](https://github.com/taobao)  
@@ -958,6 +978,7 @@ Sharing
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [Deliveroo](https://deliveroo.engineering/) ||
 | [DoorDash](https://blog.doordash.com/tagged/engineering) ||
+|                                                            | [ManageIQ](https://github.com/ManageIQ) |
 | [OpenTable](http://tech.opentable.com/) ||
 | [OpenTable UK](http://tech.opentable.co.uk/) ||
 | [Postmates](https://blog.postmates.com/tagged/engineering) | [Postmates](https://github.com/postmates) |
