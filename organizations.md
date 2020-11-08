@@ -683,6 +683,8 @@ https://github.com/DevNetSandbox
 |                                                               | [Instagram](https://github.com/instagram) |
 |                                                               | [Pinterest](https://github.com/pinterest) |
 |                                                               | [Yelp](https://github.com/yelp) |
+
+* [Spotify](https://github.com/spotify)
 -->
 
 * [Salesforce](https://github.com/salesforce)
@@ -690,7 +692,6 @@ https://github.com/DevNetSandbox
 * [Shopify](https://github.com/shopify)
 * [Slack](https://github.com/slackhq)
 * [Sony](https://github.com/sony)
-* [Spotify](https://github.com/spotify)
 
 
 
@@ -714,15 +715,20 @@ https://github.com/DevNetSandbox
 
 ### DevOps and Project Management
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                               | [Stack Exchange](https://github.com/stackexchange) |
+
+* [GitHub](https://github.com/github) 
+* [Open Source Maintainers on GitHub](https://github.com/maintainers)
+* [GitHub Archive](https://github.com/github-archive)
+
 * [Atlassian](https://github.com/atlassian)
 * [Atlassian Labs](https://github.com/atlassian-labs )
 * [Asana](https://github.com/asana)
 * [Basecamp](https://github.com/basecamp)
 * [Codeship](https://github.com/codeship)
 * [Gerrit Code Review](https://github.com/GerritCodeReview)
-* [GitHub](https://github.com/github) 
-* [Open Source Maintainers on GitHub](https://github.com/maintainers)
-* [GitHub Archive](https://github.com/github-archive)
 * [Trello](https://github.com/trello)
 
 ### Security
@@ -890,20 +896,16 @@ Tools
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                               | [App.net](https://github.com/appdotnet) |
+|                                                               | [Ello](https://github.com/ello) |
+|                                                               | [eHarmony](https://github.com/eharmony) |
 | [FourSquare Engineering](https://engineering.foursquare.com/) | [Foursquare](https://github.com/foursquare) |
 | [Nextdoor](https://engblog.nextdoor.com/)                     | [Nextdoor](https://github.com/nextdoor) |
+|                                                               | [Snapchat](https://github.com/snapchat) |
+|                                                               | [Upworthy](https://github.com/upworthy) |
+|                                                               | [Vimeo](https://github.com/vimeo) |
 | [Vine](http://engineering.vine.co/)                           | [Vine](https://github.com/vine) |
-
-
-* [App.net](https://github.com/appdotnet)  
-* [Ello](https://github.com/ello)
-
-* [eHarmony](https://github.com/eharmony)  
-* [Snapchat](https://github.com/snapchat)    
-* [Stack Exchange](https://github.com/stackexchange)  
-* [Upworthy](https://github.com/upworthy) 
-* [Vimeo](https://github.com/vimeo)   
-
+ 
 ### Metrics
 
 | Blog Link                                                                      | Description                                             |
