@@ -85,7 +85,6 @@ https://github.com/usgs
 https://github.com/worldbank
 
 
-https://github.com/18F/
 https://github.com/usnistgov
 
 Interesting!
@@ -202,9 +201,8 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 | [Reddit](https://redditblog.com/)                                      | [Reddit](https://github.com/reddit) |
 | [Spotify Engineering and Technology](https://labs.spotify.com/)        | [Spotify](https://github.com/spotify) |
 | [Uber Engineering](https://eng.uber.com/)                              | [Uber](https://github.com/uber) |
+| [Yelp Product and Engineering](https://engineeringblog.yelp.com/) | [Yelp](https://github.com/Yelp)   |
 | [Zapier Engineering](https://zapier.com/engineering/)                  | [Zapier](https://github.com/zapier) |
-
-
 
 ## Major Organizations and Projects that Use Python or Django
 
@@ -254,7 +252,6 @@ https://github.com/RedHatGov
 https://github.com/redhat-cop
 https://github.com/RedHatInsights | cloud.redhat.com
 
-https://github.com/SAP
 https://github.com/SAP-samples
 https://github.com/SAPDocuments
 -->
@@ -320,7 +317,6 @@ https://github.com/trello
 * [Home Depot](https://github.com/homedepot) 
 * [Lululemon](https://github.com/Lululemon)
 * [Nike Inc.](https://github.com/Nike-Inc)
-* [Roverdotcom](https://github.com/roverdotcom)
 * [Walmart Labs](https://github.com/walmartlabs) 
 * [Walmart](https://github.com/walmart) 
 * [Wayfair](https://github.com/wayfair)
@@ -339,7 +335,6 @@ https://github.com/wayfair-archive
 
 * [Coffee Meets Bagel](https://github.com/Coffee-Meets-Bagel) 
 * [Tumblr](https://github.com/tumblr) 
-* [Yelp](https://github.com/Yelp) 
 
 ### Events and Tickets- Python
 
@@ -690,6 +685,7 @@ https://github.com/DevNetSandbox
 
 
 
+
 ## Organizations on GitHub
 
 ## Tools
@@ -765,7 +761,6 @@ https://github.com/DataDog | Datadog, Inc.
 * [Pivotal Labs](https://github.com/pivotal)
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
-* [Postmates](https://github.com/postmates)  
 * [Product Hunt](https://github.com/producthunt)   
 * [Quip](https://github.com/quip)  
 * [Rakuten](https://github.com/rakuten)  
@@ -846,39 +841,59 @@ https://github.com/DataDog | Datadog, Inc.
 
 ### Events and Tickets
 
-* [Lanyard](http://github.lanyrd.com)
-* [Ticketmaster](https://github.com/ticketmaster) 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                | [Lanyard](http://github.lanyrd.com) |
+| [Ticketmaster](https://tech.ticketmaster.com/) | [Ticketmaster](https://github.com/ticketmaster) |
 
 ### Tools
 
-* [AddThis](https://github.com/addthis)
-* [Bitly](https://github.com/bitly)  
-* [BitTorrent](https://github.com/bittorrent)
-* [Buffer](https://github.com/bufferapp) 
-* [Disqus](https://github.com/disqus) 
-* [Evernote](https://github.com/evernote) 
-* [Hootsuite](https://github.com/hootsuite)  
-* [HubSpot](https://github.com/HubSpot)   
-* [IFTTT](https://github.com/IFTTT) 
-* [Gnip](https://github.com/gnip)
-* [KISSmetrics](https://github.com/kissmetrics)  
-* [Klout](https://github.com/klout)
-* [Prezi](https://github.com/prezi) 
-* [SurveyMonkey](https://github.com/surveymonkey) 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                              | [AddThis](https://github.com/addthis) |
+| [Bitly Engineering](http://word.bitly.com/)                  | [Bitly](https://github.com/bitly) |
+| [BitTorrent Engineering](http://engineering.bittorrent.com/) | [BitTorrent](https://github.com/bittorrent) |
+|                                                              | [Buffer](https://github.com/bufferapp) |
+|                                                              | [Disqus](https://github.com/disqus)  |
+| [Evernote](https://evernote.com/blog/) ||
+| [Evernote Tech](https://blog.evernote.com/tech/)             | [Evernote](https://github.com/evernote) |
+| [Hootsuite](http://code.hootsuite.com/)                      | [Hootsuite](https://github.com/hootsuite) |
+| [HubSpot](http://product.hubspot.com/blog/topic/engineering) | [HubSpot](https://github.com/HubSpot) |
+| [IFTTT](http://engineering.ifttt.com/)                       | [IFTTT](https://github.com/IFTTT) |
+| [Gnip Engineering](https://engineering.gnip.com/)            | [Gnip](https://github.com/gnip) |
+|                                                              | [KISSmetrics](https://github.com/kissmetrics) |
+|                                                              | [Klout](https://github.com/klout) |
+| [Prezi Engineering](https://engineering.prezi.com/)          | [Prezi](https://github.com/prezi) |
+| [SurveyMonkey](https://engineering.surveymonkey.com/)        | [SurveyMonkey](https://github.com/surveymonkey) |  
 
 ### Metrics
 
-* [Chartbeat](https://github.com/chartbeat)
-* [Chartbeat Labs](https://github.com/chartbeat-labs)  
-* [Mixpanel](https://github.com/mixpanel)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Chartbeat Engineering](http://engineering.chartbeat.com/) | [Chartbeat](https://github.com/chartbeat) |
+|                                                            | [Chartbeat Labs](https://github.com/chartbeat-labs) |
+| [Mixpanel](https://mixpanel.com/blog/)                     | [Mixpanel](https://github.com/mixpanel) |
+| [Mixpanel](https://medium.com/mixpaneleng/)                ||
 
 ### Admin
 
-* [Staffjoy](https://github.com/Staffjoy) 
-* [TaskRabbit](https://github.com/taskrabbit)
-* [Zendesk](https://github.com/zendesk)
-* [Zenefits](https://github.com/zenefits)
-* [Ziggeo](https://github.com/ziggeo)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Zendesk](https://medium.com/zendesk-engineering) | [Zendesk](https://github.com/zendesk) |
+|                                                   | [Staffjoy](https://github.com/Staffjoy) |
+|                                                   | [Zenefits](https://github.com/zenefits) |
+|                                                   | [Ziggeo](https://github.com/ziggeo) |
+ 
+### On Demand
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Deliveroo](https://deliveroo.engineering/) ||
+| [DoorDash](https://blog.doordash.com/tagged/engineering) ||
+| [OpenTable](http://tech.opentable.com/) ||
+| [OpenTable UK](http://tech.opentable.co.uk/) ||
+| [Postmates](https://blog.postmates.com/tagged/engineering) | [Postmates](https://github.com/postmates) |
+| [TaskRabbit](http://tech.taskrabbit.com/)                  | [TaskRabbit](https://github.com/taskrabbit) |
 
 ### Telecommunications
 
@@ -933,10 +948,13 @@ https://github.com/DataDog | Datadog, Inc.
 
 ### Publications
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Medium Engineering](https://medium.engineering/)                            | [Medium](https://github.com/medium) |
+|                                                                              | [Medium Open Source](https://github.com/Medium/opensource) |
+|                                                                              | [Medium Policy](https://github.com/Medium/medium-policy) |
+
 * [Flipboard](https://github.com/flipboard)
-* [Medium](https://github.com/medium)
-* [Medium Open Source](https://github.com/Medium/opensource)
-* [Medium Policy](https://github.com/Medium/medium-policy)
 * [Wattpad](https://github.com/wattpad) 
 
 ### News
