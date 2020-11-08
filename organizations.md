@@ -3,8 +3,10 @@
 <!--
 markel corporation!
 
-* [Open Source Maintainers on GitHub](https://github.com/maintainers) 
+| [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/) ||
+
 * [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
+* [Open Source Maintainers on GitHub](https://github.com/maintainers) 
 
 https://github.com/customer-stories/nationwide
 
@@ -222,10 +224,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [Mozilla](https://blog.mozilla.org/)                                          ||
 | [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
-| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
-|                                                                              | [Salesforce Developers](https://github.com/developerforce) |
-|                                                                              | [Salesforce UX](https://github.com/salesforce-ux) |
-|                                                                              | [Force.com](https://github.com/forcedotcom) |
 
 ### Tools
 
@@ -235,9 +233,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 | [Elastic Engineering](https://www.elastic.co/blog/category/engineering)                  ||
 | [Pagerduty](https://www.pagerduty.com/blog/) | [PagerDuty](https://github.com/PagerDuty) |
 
-* [IBM](https://github.com/IBM)  
-* [IBM Cloud](https://github.com/IBM-Cloud)
-* [Intel](https://github.com/intel) 
 * [Oracle](https://github.com/oracle) 
 * [Oracle Quick Start](https://github.com/oracle-quickstart) 
 * [Rackspace](https://github.com/rackspace)
@@ -419,8 +414,6 @@ https://github.com/bmwcarit
 
 ### Career
 
-* [Indeed](https://github.com/indeedeng)
-* [LinkedIn](https://github.com/linkedin)  
 * [ZipRecruiter](https://github.com/ZipRecruiter) 
 
 ### Financial Services
@@ -486,9 +479,8 @@ https://github.com/nielsen-oss
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [CenturyLink](https://www.ctl.io/developers/blog) ||
+| [CenturyLink](https://www.ctl.io/developers/blog) | [Century Link](https://github.com/CenturyLink) |
 
-* [Century Link](https://github.com/CenturyLink)
 * [Century Link Labs](https://github.com/CenturyLinkLabs)
 * [Century Link Cloud](https://github.com/CenturyLinkCloud)
 * [Comcast](https://github.com/Comcast) 
@@ -496,11 +488,6 @@ https://github.com/nielsen-oss
 * [Ericsson](https://github.com/Ericsson) 
 * [LexisNexis](https://github.com/LexisNexis) 
 * [Qualcomm Innovation Center](https://github.com/QuIC) 
-* [Samsung](https://github.com/Samsung)
-* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
-* [Sony](https://github.com/sony) 
-* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
-* [SN Systems](https://github.com/SNSystems) 
 * [Vonage](https://github.com/Vonage) 
 
 ### Not-Profit
@@ -524,11 +511,6 @@ https://github.com/nielsen-oss
 
 
 ## Large Scale Python, Machine Learning, and Data Science
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Microsoft Python Engineering](https://blogs.msdn.microsoft.com/pythonengineering/) ||
-| [Nvidia](https://blogs.nvidia.com/) ||
 
 ### Facebook
 
@@ -679,13 +661,17 @@ Azure
 | [IBM developerWorks ](https://developer.ibm.com/dwblog/) ||
 
 * [IBM](https://github.com/IBM)
+* [IBM Cloud](https://github.com/IBM-Cloud)
 * [Watson Developer Cloud (IBM)](https://github.com/watson-developer-cloud)
 
 ### Salesforce
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Salesforce](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
+| [Salesforce Engineering](https://developer.salesforce.com/blogs/engineering/) | [Salesforce](https://github.com/salesforce) |
+|                                                                              | [Salesforce Developers](https://github.com/developerforce) |
+|                                                                              | [Salesforce UX](https://github.com/salesforce-ux) |
+|                                                                              | [Force.com](https://github.com/forcedotcom) |
 
 ### Intel
 
@@ -706,7 +692,9 @@ https://github.com/IntelRealSense
 
 ### NVIDIA
 
-* [NVIDIA](https://github.com/NVIDIA)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Nvidia](https://blogs.nvidia.com/) | [NVIDIA](https://github.com/NVIDIA) |
 
 ### Cisco
 
@@ -762,6 +750,8 @@ https://github.com/DevNetSandbox
 | [Mixpanel](https://mixpanel.com/blog/)                        | [Mixpanel](https://github.com/mixpanel) |
 | [Mixpanel](https://medium.com/mixpaneleng/)                   ||
 |                                                               | [OpenStack](https://github.com/openstack) |
+|                                                               | [Shopify](https://github.com/shopify) |
+
 | [Slack Engineering](https://slack.engineering/)               | [Slack](https://github.com/slackhq) |
 | [Yammer Engineering](https://medium.com/yammer-engineering)   | [Yammer](https://github.com/yammer) |
 | [Yammer Engineering (Old)](https://medium.com/@YammerEng)     ||
@@ -776,11 +766,13 @@ https://github.com/DevNetSandbox
 * [Spotify](https://github.com/spotify)
 -->
 
+* [Flipkart Incubator](https://github.com/flipkart-incubator)
+
 * [Samsung](https://github.com/Samsung)
-* [Shopify](https://github.com/shopify)
-* [Sony](https://github.com/sony)
-
-
+* [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
+* [Sony](https://github.com/sony) 
+* [Sony Computer Entertainment, Worldwide Studios](https://github.com/SonyWWS) 
+* [SN Systems](https://github.com/SNSystems) 
 
 * [comma.ai](https://github.com/commaai)
 * [Databricks](https://github.com/databricks)
@@ -925,8 +917,6 @@ https://github.com/DevNetSandbox
 
 Sharing
 * [Digg](https://github.com/digg)  
-* [Flipkart](https://github.com/flipkart)
-* [Flipkart Incubator](https://github.com/flipkart-incubator)
 * [Okta](https://github.com/okta)
 * [Rakuten](https://github.com/rakuten)  
 
