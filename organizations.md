@@ -264,7 +264,11 @@ https://github.com/SAPDocuments
 
 ### Learning
 
-* [Kaggle](https://github.com/Kaggle) 
+| Blog Link                                                                      | GitHub                                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Kaggle](http://blog.kaggle.com/) | [Kaggle](https://github.com/Kaggle) |
+| [Pluralsight](https://www.pluralsight.com/guides) ||
+
 * [edX](https://github.com/edx) 
 * [edX Platform](https://github.com/edx/edx-platform) 
 * [O'Reilly Media](https://github.com/oreillymedia)
@@ -277,6 +281,10 @@ https://github.com/SAPDocuments
 * [Pluralsight Guides](https://github.com/pluralsight/guides)
 * [Pluralsight Projects](https://github.com/pluralsight-projects)
 
+<!--
+https://www.pluralsight.com/guides
+-->
+
 ### Design
 
 * [Adobe](https://github.com/adobe)  
@@ -285,9 +293,11 @@ https://github.com/SAPDocuments
 
 ### Hosting
 
-* [DigitalOcean](https://github.com/digitalocean) 
-* [DreamHost](https://github.com/dreamhost) 
-* [GoDaddy](https://github.com/godaddy)
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [DigitalOcean](https://blog.digitalocean.com/tag/engineering/) | [DigitalOcean](https://github.com/digitalocean) |
+|                                                                | [DreamHost](https://github.com/dreamhost) |
+|                                                                | [GoDaddy](https://github.com/godaddy) |
 
 ### Tools
 
@@ -387,9 +397,7 @@ https://github.com/bmwcarit
 
 * [Bank of America](https://github.com/bankofamerica) 
 * [Braintree](https://github.com/braintree) 
-* [Britecore](https://github.com/britecore) 
 * [Capital One](https://github.com/capitalone) 
-* [Credit Karma](https://github.com/creditkarma) 
 * [Dow Jones](https://github.com/dowjones) 
 * [Ellie Mae](https://github.com/EllieMae) 
 * [Fannie Mae Open Source](https://github.com/FannieMaeOpenSource) 
@@ -401,11 +409,17 @@ https://github.com/bmwcarit
 * [Patreon](https://github.com/patreon)  
 * [PayPal](https://github.com/paypal) 
 * [Quicken Loans](https://github.com/QuickenLoans) 
-* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
+
 * [Venmo](https://github.com/venmo)
+
+### Credit
+
+* [Credit Karma](https://github.com/creditkarma) 
+* [TransUnion Global Fraud & Identity Solutions](https://github.com/iovation) 
 
 ### Insurance
 
+* [Britecore](https://github.com/britecore) 
 * [Liberty Mutual Insurance](https://github.com/libertymutual) 
 * [Northwestern Mutual](https://github.com/northwesternmutual) 
 * [Progressive Insurance](https://github.com/Progressive-Insurance) 
@@ -438,6 +452,10 @@ https://github.com/nielsen-oss
 * [Texas Instruments](https://github.com/TexasInstruments) 
 
 ### Telecommunications
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [CenturyLink](https://www.ctl.io/developers/blog) ||
 
 * [Century Link](https://github.com/CenturyLink)
 * [Century Link Labs](https://github.com/CenturyLinkLabs)
@@ -717,7 +735,10 @@ https://github.com/DevNetSandbox
 
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
-|                                                               | [Stack Exchange](https://github.com/stackexchange) |
+|                                                           | [Stack Exchange](https://github.com/stackexchange) |
+| [Stack Overflow](https://stackoverflow.blog/engineering/) ||
+| [StackShare](https://stackshare.io/feed) ||
+| [Trello](https://tech.trello.com/) | [Trello](https://github.com/trello) |
 
 * [GitHub](https://github.com/github) 
 * [Open Source Maintainers on GitHub](https://github.com/maintainers)
@@ -729,7 +750,6 @@ https://github.com/DevNetSandbox
 * [Basecamp](https://github.com/basecamp)
 * [Codeship](https://github.com/codeship)
 * [Gerrit Code Review](https://github.com/GerritCodeReview)
-* [Trello](https://github.com/trello)
 
 ### Security
 
@@ -766,6 +786,7 @@ https://github.com/DataDog | Datadog, Inc.
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 |                                                                    | [Automattic](https://github.com/Automattic) |
+| [Bigcommerce](http://www.bigeng.io/) ||
 |                                                                    | [DWNLD](https://github.com/dwnld) |
 |                                                                    | [GoDaddy](https://github.com/godaddy) |
 |                                                                    | [Netlify](https://github.com/netlify) |
@@ -775,8 +796,6 @@ https://github.com/DataDog | Datadog, Inc.
 | [Wix Engineering](https://www.wix.engineering/blog)                | [Wix](https://github.com/wix) |
 
 
-  
- 
 * [WordPress](https://github.com/WordPress)  
 * [WordPress Mobile](https://github.com/wordpress-mobile/) 
 * [WordPress Plugins](https://github.com/wp-plugins) 
@@ -790,9 +809,11 @@ https://github.com/DataDog | Datadog, Inc.
 | [Bitly Engineering](http://word.bitly.com/)                  | [Bitly](https://github.com/bitly) |
 | [BitTorrent Engineering](http://engineering.bittorrent.com/) | [BitTorrent](https://github.com/bittorrent) |
 |                                                              | [Buffer](https://github.com/bufferapp) |
+| [Discord](https://blog.discordapp.com/) ||
 |                                                              | [Disqus](https://github.com/disqus)  |
 | [Evernote](https://evernote.com/blog/) ||
 | [Evernote Tech](https://blog.evernote.com/tech/)             | [Evernote](https://github.com/evernote) |
+| [Grammarly](https://tech.grammarly.com/blog/index.html) ||
 | [Hootsuite](http://code.hootsuite.com/)                      | [Hootsuite](https://github.com/hootsuite) |
 | [HubSpot](http://product.hubspot.com/blog/topic/engineering) | [HubSpot](https://github.com/HubSpot) |
 | [IFTTT](http://engineering.ifttt.com/)                       | [IFTTT](https://github.com/IFTTT) |
@@ -800,6 +821,12 @@ https://github.com/DataDog | Datadog, Inc.
 |                                                              | [KISSmetrics](https://github.com/kissmetrics) |
 |                                                              | [Klout](https://github.com/klout) |
 | [Prezi Engineering](https://engineering.prezi.com/)          | [Prezi](https://github.com/prezi) |
+|                                                              | [Quip](https://github.com/quip) |
+|                                                              | [Scribd](https://github.com/scribd) |
+| [ShareThis](https://www.sharethis.com/category/engineering/) ||
+|                                                              | [Superhuman](https://github.com/superhuman) |
+|                                                              | [SlideShare](https://github.com/slideshare) |
+|                                                              | [Storify](https://github.com/storify) |
 | [SurveyMonkey](https://engineering.surveymonkey.com/)        | [SurveyMonkey](https://github.com/surveymonkey) |  
 
 ### Admin
@@ -822,7 +849,6 @@ Sharing
 * [FiftyThree](https://github.com/fiftythree)
 * [Flipkart](https://github.com/flipkart)
 * [Flipkart Incubator](https://github.com/flipkart-incubator)
-* [Groupon](https://github.com/groupon)  
 * [Hudl](https://github.com/hudl) 
 * [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau)
 * [Intuit](https://github.com/intuit)
@@ -840,19 +866,11 @@ Sharing
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
 * [Product Hunt](https://github.com/producthunt)   
-* [Quip](https://github.com/quip)  
 * [Rakuten](https://github.com/rakuten)  
 * [Rap Genius](https://github.com/RapGenius)  
-* [Rdio](https://github.com/rdio) 
-* [Scribd](https://github.com/scribd)   
-* [Superhuman](https://github.com/superhuman) 
 * [Swipely](https://github.com/swipely)  
 * [Taobao](https://github.com/taobao)  
 * [Deprecated: ThinkUp](https://github.com/ThinkUpLLC/ThinkUp)
-
-Tools
-* [SlideShare](https://github.com/slideshare)  
-* [Storify](https://github.com/storify)   
 
 ### Design
 
@@ -861,6 +879,7 @@ Tools
 | [99Designs Tech](https://99designs.com/tech-blog/) | [99designs](https://github.com/99designs/) |
 | [Canva](https://engineering.canva.com/)            | [Canva](https://github.com/canva) |
 |                                                    | [Figma](https://github.com/figma)  |
+| [InVision](http://engineering.invisionapp.com/)    ||
 |                                                    | [Typekit](https://github.com/typekit)  |
 
 ### Photos and Gifs
@@ -891,6 +910,13 @@ Tools
 | [Teespring](http://teespring.engineering/)                         ||
 |                                                                    | [Under Armour](https://github.com/underarmour) |
 |                                                                    | [Walker & Co. Brands, Inc](https://github.com/WalkerAndCoBrandsInc) |
+
+## Discounts 
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+|                                                            | [Groupon](https://github.com/groupon)  |
+| [RetailMeNot](https://medium.com/retailmenot-engineering/) ||
 
 ### Social
 
@@ -933,6 +959,8 @@ Tools
 | Blog Link                                                                      | Description                                             |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | [SoundCloud Backstage](https://developers.soundcloud.com/blog/) | [SoundCloud](https://github.com/soundcloud)  |
+|                                                                 | [Rdio](https://github.com/rdio) |
+| [Vevo](http://blog.vevo.com/) ||
 
 ### Events and Tickets
 
@@ -1107,19 +1135,22 @@ Tools
 
 ### Learning
 
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Coursera](https://blog.coursera.org/)                          | [Coursera](https://github.com/coursera) |
+| [Khan Academy Engineering](http://engineering.khanacademy.org/) | [Khan Academy](https://github.com/Khan) |
+| [Udacity](https://blog.udacity.com/)                            | [Udacity](https://github.com/udacity) |
+
 * [Code School](https://github.com/codeschool)
 * [Codecademy](https://github.com/Codecademy)  
-* [CodePath](https://github.com/codepath)
-* [Coursera](https://github.com/coursera)  
+* [CodePath](https://github.com/codepath) 
 * [Duolingo](https://github.com/duolingo) 
 * [DataCamp](https://github.com/datacamp/) 
 * [egghead.io](https://github.com/eggheadio)
 * [freeCodeCamp](https://github.com/freeCodeCamp) 
 * [Jewelbots](https://github.com/Jewelbots)
-* [Khan Academy](https://github.com/Khan)
 * [Make School](https://github.com/MakeSchool)
-* [Packt Publishing](https://github.com/PacktPublishing)
-* [Udacity](https://github.com/udacity)  
+* [Packt Publishing](https://github.com/PacktPublishing) 
 * [Udemy](https://github.com/udemy)
 * [W3Schools](https://github.com/w3schools) 
 
