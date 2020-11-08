@@ -174,6 +174,7 @@ https://github.com/thoughtworksarts
 | Blog Link                                                                      | GitHub                                                  |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------|
 | 18F                                                         | [18F](https://github.com/18F) |
+| 23andMe                                                     | [23andMe](https://github.com/23andMe) |
 | The Dallas Morning News                                     | [The Dallas Morning News](https://github.com/DallasMorningNews) |
 | Disqus                                                      | [Disqus](https://github.com/disqus) |
 | Instagram                                                   | [Instagram](https://github.com/instagram) |
@@ -445,6 +446,7 @@ https://github.com/DevNetSandbox
 |                                                               | [Eventbrite](https://github.com/eventbrite) |
 | [Flickr](https://code.flickr.net/)                            | [Flickr](https://github.com/flickr) |
 | [Flipkart Engineering](https://tech.flipkart.com/)            | [Flipkart](https://github.com/flipkart) |
+| [Flipkart Incubator](https://tech.flipkart.com/)              | [Flipkart Incubator](https://github.com/flipkart-incubator) |
 | [Foursquare](https://engineering.foursquare.com/)             | [Foursquare](https://github.com/foursquare) |
 | [Groupon Engineering](https://engineering.groupon.com/)       | [Groupon](https://github.com/groupon) |
 | [Hulu](https://tech.hulu.com/)                                | [Hulu](https://github.com/hulu) |
@@ -471,8 +473,6 @@ https://github.com/DevNetSandbox
 
 * [Spotify](https://github.com/spotify)
 -->
-
-* [Flipkart Incubator](https://github.com/flipkart-incubator)
 
 * [Samsung](https://github.com/Samsung)
 * [Samsung Internet Dev Rel](https://github.com/SamsungInternet)
@@ -667,18 +667,14 @@ https://github.com/wayfair-archive
 | [Lyft](https://eng.lyft.com/) | [Lyft](https://github.com/lyft) |
 | [TrueCar](https://www.drivenbycode.com/) | [True Car](https://github.com/TrueCar) |
 
+* [BMW Car IT GmbH](https://github.com/bmwcarit) 
+* [BMW InnovationLab](https://github.com/BMW-InnovationLab) 
 * [Ford](https://github.com/Ford)
 * [Goodyear](https://github.com/goodyear) 
 * [Volkswagen](https://github.com/volkswagen) 
 
-<!--
-https://github.com/BMW-InnovationLab
-https://github.com/bmwcarit
--->
-
 ### Health
 
-* [23andMe](https://github.com/23andMe) 
 * [Babylon Health](https://github.com/babylonhealth) 
 * [Doctor on Demand](https://github.com/doctorondemand)
 
@@ -734,6 +730,8 @@ https://github.com/bmwcarit
 * [Verizon Media](https://github.com/VerizonMedia) 
 
 <!--
+| [New York Times](https://open.blogs.nytimes.com) ||
+
 https://github.com/nielsen-oss
 -->
 
@@ -1109,9 +1107,8 @@ Sharing
 | [BBC Design and Engineering](https://medium.com/bbc-design-engineering/) ||
 | [Buzzfeed](https://www.buzzfeed.com/techblog) ||
 | [Condé Nast](https://technology.condenast.com/) ||
-| [Guardian](https://www.theguardian.com/info/developer-blog) ||
-| [New York Times](https://open.blogs.nytimes.com) ||
-| [NPR Apps](http://blog.apps.npr.org/) ||
+| [Guardian](https://www.theguardian.com/info/developer-blog) | [Guardian](https://github.com/guardian) |
+| [NPR Apps](http://blog.apps.npr.org/) | [NPR Apps](https://github.com/nprapps) |
 
 * [ABC News](https://github.com/abcnews)
 * [Al Jazeera America](https://github.com/ajam)  
@@ -1125,7 +1122,6 @@ Sharing
 * [Buzzfeed News](https://github.com/buzzfeednews)  
 * [Buzzfeed News Everything](https://github.com/BuzzFeedNews/everything)  
 * [Census Reporter](https://github.com/censusreporter) 
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
 * [Data Desk](https://github.com/datadesk)  
 * [Duke Chronicle](https://github.com/dukechronicle)
 * [Financial Times](https://github.com/Financial-Times)  
@@ -1133,14 +1129,11 @@ Sharing
 * [Freedom of Press](https://github.com/freedomofpress) 
 * [FT Interactive](https://github.com/ft-interactive)
 * [FT Labs](https://github.com/ftlabs)
-* [Grasswire](https://github.com/grasswire)  
-* [Guardian](https://github.com/guardian)  
+* [Grasswire](https://github.com/grasswire)   
 * [Huffington Post](https://github.com/huffingtonpost)  
 * [Huffington Post Data](https://github.com/huffpostdata)  
 * [Mashable](https://github.com/mashable) 
-* [Mic News](https://github.com/micnews)
-* [NPR Apps](https://github.com/nprapps)  
-* [Northwestern University Knight Lab](https://github.com/nuknightlab) 
+* [Mic News](https://github.com/micnews) 
 * [Propublica](https://github.com/propublica)  
 * [TechCrunch](https://github.com/techcrunch)  
 * [The Economist](https://github.com/TheEconomist) 
