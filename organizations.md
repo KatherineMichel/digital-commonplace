@@ -218,13 +218,6 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 ## Large Scale Python, Machine Learning, and Data Science
 
-### Infrastructure
-
-| Blog Link                                                                      | GitHub                                                  |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Mozilla](https://blog.mozilla.org/)                                          ||
-| [Red Hat Developers](https://developers.redhat.com/blog/)                     ||
-
 ### Facebook
 
 | Blog Link                                                                      | Description                                             |
@@ -700,7 +693,7 @@ https://github.com/bmwcarit
 |                                                      | [Intuit](https://github.com/intuit) |
 | [Intuit](https://quickbooks-engineering.intuit.com/) | [Intuit Developer](https://github.com/IntuitDeveloper) |
 | [PayPal Engineering](https://www.paypal-engineering.com/) | [PayPal](https://github.com/paypal) |
-| [Venmo Engineering](http://blog.venmo.com/?category=Engineering)                                | [Venmo](https://github.com/venmo) |
+| [Venmo Engineering](http://blog.venmo.com/?category=Engineering) | [Venmo](https://github.com/venmo) |
 
 * [Bank of America](https://github.com/bankofamerica) 
 * [Braintree](https://github.com/braintree) 
