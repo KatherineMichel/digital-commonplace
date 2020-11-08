@@ -594,6 +594,7 @@ https://github.com/SAPDocuments
 * [Box Community](https://github.com/box-community) 
 * [JetBrains](https://github.com/JetBrains) 
 * [MailChimp](https://github.com/mailchimp) 
+* [New Relic](https://github.com/newrelic)  
 * [Yubico](https://github.com/yubico) 
 
 <!--
@@ -603,10 +604,6 @@ https://github.com/splunk
 https://github.com/travis-ci/travis-ci
 https://github.com/trello
 -->
-
-### Metrics
-
-* [New Relic](https://github.com/newrelic)  
 
 ### eCommerce
 
@@ -907,11 +904,8 @@ https://github.com/nielsen-oss
 |                                                    | [Exxon Mobil](https://github.com/ExxonMobil) |
 |                                                    | [Interactive Advertising Bureau](https://github.com/InteractiveAdvertisingBureau) |
 
-* [Product Hunt](https://github.com/producthunt)
-
 <!--
-Upserve 
-* [Swipely](https://github.com/swipely)  
+* [Product Hunt](https://github.com/producthunt)
 -->
 
 ### Design
@@ -1049,6 +1043,8 @@ Upserve
 | [Postmates](https://blog.postmates.com/tagged/engineering) | [Postmates](https://github.com/postmates) |
 | [Shyp](https://medium.com/shyp-engineering) ||
 | [TaskRabbit](http://tech.taskrabbit.com/)                  | [TaskRabbit](https://github.com/taskrabbit) |
+|                                                            | [Swipely (Upserve)](https://github.com/swipely) |
+|                                                            | [Upserve](https://github.com/upserve) |
 
 ### Publications
 
@@ -1192,6 +1188,10 @@ Upserve
 * [Indie.vc](https://github.com/indievc)
 * [O'Reilly AlphaTech Ventures](https://github.com/OATV)
 
+## Religious
+
+* [Life.Church](https://github.com/lifechurch)
+
 ### Learning
 
 | Blog Link                                                                      | Description                                             |
@@ -1225,7 +1225,25 @@ Upserve
 * [NETTUTS](https://github.com/NETTUTS)
 * [TUTS+](https://github.com/tutsplus)
 
+## Digital Agency
+
+| Blog Link                                                                      | Description                                             |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------|
+| [Thoughtbot](https://robots.thoughtbot.com/) | [thoughtbot](https://github.com/thoughtbot) |
+
+* [ElevenYellow](https://github.com/elevenyellow)
+* [Filament Group](https://github.com/filamentgroup) 
+* [Glitch](https://github.com/glitchdotcom/)
+* [Hanno](https://github.com/wearehanno) 
+* [Postlight](https://github.com/postlight)
+* [Potato London](https://github.com/potatolondon)
+* [ribot](https://github.com/ribot)
+
 ## Government
+
+<!--
+https://github.com/NHSX
+-->
 
 U.S. Government
 * [WhiteHouse](https://github.com/WhiteHouse) 
@@ -1263,30 +1281,11 @@ U.K. Government
 Australian Government 
 * [Australia Digital Transformation Office](https://github.com/AusDTO)
 
-## Digital Agency
-
-| Blog Link                                                                      | Description                                             |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------|
-| [Thoughtbot](https://robots.thoughtbot.com/) | [thoughtbot](https://github.com/thoughtbot) |
-
-* [ElevenYellow](https://github.com/elevenyellow)
-* [Filament Group](https://github.com/filamentgroup) 
-* [Glitch](https://github.com/glitchdotcom/)
-* [Hanno](https://github.com/wearehanno) 
-* [Postlight](https://github.com/postlight)
-* [Potato London](https://github.com/potatolondon)
-* [ribot](https://github.com/ribot)
-
-## Religious
-
-* [Life.Church](https://github.com/lifechurch)
-
 ## Not-Profit
 
 <!--
 https://github.com/historicalsource | historicalsource (Historical Source)
 https://mobile.twitter.com/OpenSFHistory
-https://github.com/NHSX
 -->
 
 Not-Profit
