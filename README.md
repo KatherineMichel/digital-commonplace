@@ -88,6 +88,12 @@ https://twitter.com/hunterwalk/status/1294699190585454592
 
 Checklist Manifesto
 
+http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
+
+https://substack.com/ | Substack
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+
 
 ## Conferences
 
@@ -376,29 +382,21 @@ https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testi
 
 ## Python and Django
 
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
+https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
+https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
+
+Recommended by Jeff
 https://github.com/direnv
 https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-direnv
-https://twitter.com/webology/status/1249711305851916290 | Jeff says, "wash your hands" 🧼👏 on Twitter: "@carltongibson Please use https://t.co/r85QZqhspb It will save you from having project env variables leak into another too. Five stars. Use it for a day or two and you'll thank me later." / Twitter
-https://twitter.com/webology/status/1249711521070014464 | Jeff says, "wash your hands" 🧼👏 on Twitter: "PSA: Use direnv. Just use it. It'll save you frustrating and accidentally env leakage. https://t.co/r85QZqhspb https://t.co/1YzNPaNlmg" / Twitter
 
 https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
 
 https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
 
-https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
-https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
-
 Interesting (glitch)
 http://python-peps-graph.glitch.me/ | Python PEPs Graph
-
-Stats
-https://hugovk.github.io/drop-python/ | Drop Python
-
-Python Ideas
-https://devguide.python.org/stdlibchanges/ | 19. Adding to the Stdlib — Python Developer's Guide
-https://mail.python.org/mailman3/lists/python-ideas.python.org/ | Mailman 3 Info | python-ideas@python.org - python.org
 
 Sphinx
 https://www.sphinx-doc.org/en/master/ | Overview — Sphinx 4.0.0+ documentation
@@ -416,7 +414,6 @@ https://djangobuilder.io/#/ | Django Builder
 https://github.com/wsvincent/awesome-django
 
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
@@ -520,6 +517,13 @@ https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where progra
 https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
 
 
+## Models and Stuff
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+http://www.collaborativefund.com/blog
+
 ## Product
 
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
@@ -596,17 +600,6 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
-
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-https://substack.com/ | Substack
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-
-
-
 ## Public Speaking
 
 https://github.com/matteofigus/awesome-speaking
@@ -615,79 +608,6 @@ Public speaking
 https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
 
 http://sijinjoseph.com/programmer-competency-matrix/
-
-## Pinax
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Wharton
-https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-Docs
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
-
-Docs
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-https://twitter.com/sinamossayeb/status/1044389224638631936 | SINA on Twitter: "What is an example of the best “playbook” format and expression you’ve seen?"
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-
-Check this out...
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-
-Docs
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
-
-Author File
-https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/ | Easy maintenance of your AUTHORS file | Kevin Burke
-
-Contributor Recognition
-https://github.com/kentcdodds/all-contributors
-https://www.npmjs.com/package/all-contributors-cli
-https://github.com/jfmengels/all-contributors-cli
-
-
-Inclusive terminology
-https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=49decddd39e5f6132ccd7d9fdc3d7c470b0061bb | kernel/git/torvalds/linux.git - Linux kernel source tree
-
-Language
-https://twitter.com/jesstelford/status/992756386160234497
-
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-http://www.collaborativefund.com/blog
-
-http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
-
-https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
-
-Cool!
-https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
-
 
 ## Community
 
@@ -708,6 +628,84 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
+## Open Source
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+Author File
+https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/ | Easy maintenance of your AUTHORS file | Kevin Burke
+
+Contributor Recognition
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
+
+Docs
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+
+Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+
+## To Do
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+Wharton
+https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+
+Check this out...
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+
+Docs
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+## Projects
+
+Cool!
+https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+
+
+https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
+
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/HangarOrg/defaults
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+
 
 
 Important!
@@ -715,26 +713,11 @@ https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-
-  * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
 https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
 
 https://en.wikipedia.org/wiki/X_Window_System#Principles
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-Snyk
-https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
 
 https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
 
@@ -743,7 +726,6 @@ https://github.com/benbrignell/principles.design | benbrignell/principles.design
 
 https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
 
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
 
 
@@ -765,6 +747,12 @@ https://chromeos.dev/en | Chrome OS | chromeOS.dev
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 ## Important
+
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+
+* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
 
 https://www.w3.org/DesignIssues/Architecture.html
 
@@ -814,6 +802,11 @@ Feross
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+
+Snyk
+https://snyk.io/ | Open Source Security Platform | Snyk
+https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
 
 ## Miscellaneous Tech
 
@@ -1008,6 +1001,7 @@ Git Scraping
 https://twitter.com/simonw/status/1314654153646383104
 -->
 
+
 <!--
 Hynek Schlawack
 https://hynek.me/talks/python-foss/
@@ -1040,47 +1034,14 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
-<!--
-## Hynek's talk
-
-Contributing
-https://github.blog/2012-09-17-contributing-guidelines/
-https://github.com/testdouble/contributing-tests/wiki/Feedback-Loop
-
-Code of Conduct
-https://help.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-https://www.contributor-covenant.org/
-
-Expectations
-https://snarky.ca/setting-expectations-for-open-source-participation/ | Setting expectations for open source participation
-https://twitter.com/brettsky/status/1154908949956554752
-https://twitter.com/brettsky/status/996052518114390016
-
-https://lukasa.co.uk/2016/04/One_Of_The_Team/
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
-
-https://twitter.com/slicknet/status/471834362950844416?ref_src=twsrc%5Etfw
-https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html
--->
-
 ## Eldarion
 
 ## Good Advice and Habits
 
 <!--
-https://twitter.com/JCSmiley4/status/1317194726223892481 | JC Smiley on Twitter: "Tips to break the “Tutorial Hell” cycle: 1⃣ Tweak the tutorial by adding more features. 2⃣ Apply the principles learned in a different application. 3⃣ Rebuild the project without the tutorial as a guide. @CodeNewbies @JuniorsInTech @codeconnector_" / Twitter
-
-Feross
-https://twitter.com/devonzuegel/status/1148708151992213510 | Devon on Twitter: "Great lessons from @feross' experience building @WebTorrentApp! I especially like this one: "Share your work early & often." Fun to see the timeline for the project, too. Helps put things in perspective. I wish more people shared their path through awesome work like this!… https://t.co/LsNkv8QXNq"
-
-https://twitter.com/nhuntwalker/status/1259892396248072200 | Nicholas Hunt-Walker on Twitter: "To all y'all in Tech Twitter that write Stack Overflow answers, write blog posts, make tutorial videos, give conference talks &amp; workshops, &amp; go out of your way to answer ppl's questions on here, thank you. Thank you so much. You're the reason why we can continue doing what we do" / Twitter
-
 https://twitter.com/tucker_dev/status/1287427626899038210 | James Tucker on Twitter: "4 things you can do to make your Github shine during your job search 1. Add a profile readme 2. Pin your favorite or most impressive projects 3. Add readmes to them 4. Create gifs of your projects and add them to your readmes" / Twitter
-https://twitter.com/manekinekko/status/1287072050641862656 | Wassim Chegham on Twitter: "If you are a developer and spend your time: - creating tech content - helping other devs - presenting at conferences - sharing your knowledge and passion - ... Good job! You are a kinda Developer Advocate. You are a developer who wants other devs to be successful! #devrel" / Twitter
 
 https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter: "This! Years ago someone told me that if you do four hours of excellent work, you should stop for the day. It's turned out to be some of the best advice I've received. (And it's a rare day that I manage even four hours of excellent work.) https://t.co/eSH55OaHmb" / Twitter
-
-https://twitter.com/samjulien/status/1176911453577777153 | Sam Julien on Twitter: "Best piece of advice someone gave me that I never followed and always regretted: Every time you learn something coding at work, write a tiny, low-effort blog post about it. You can always edit or beef up later, but it's the fastest way to remember what you've learned." / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
@@ -2086,6 +2047,7 @@ https://pbpython.com/pandas-excel-range.html | Reading Poorly Structured Excel F
 
 
 
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
