@@ -693,6 +693,7 @@ https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Develope
 
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
+Microsoft
 https://github.com/indeedeng/FOSS-Contributor-Fund
 https://github.com/VerizonMedia/oss-guide
 https://verizonmedia.github.io/oss-guide/
@@ -748,22 +749,14 @@ https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chr
 
 ## Important
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-
 * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
 
 https://www.w3.org/DesignIssues/Architecture.html
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
 
 Data Structures and Algorithms
 
@@ -1560,82 +1553,33 @@ High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 * [Ilya Grigorik](https://www.igvita.com/)
 
-Refactoring
+Martin Fowler, Refactoring, Patterns, ThoughtWorks
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Refactoring Catalog](https://refactoring.com/catalog/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [ThoughtWorks](https://www.thoughtworks.com)
 
 Checklists and Cheat Sheets
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
 
 <!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
 
 https://martinfowler.com/articles/collection-pipeline/
 
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-https://www.thoughtworks.com
 -->
 
-
-
-## General Talks
-
-<!--
-lyftvm
-
-mergebot
-
-https://engineering.linkedin.com/blog/2020/continuous-integration
-https://eng.lyft.com/announcing-omnibot-a-slack-proxy-and-slack-bot-framework-d4e32dd85ee4
-
-https://www.youtube.com/watch?v=ZYD9yyMh9Hk | Stephen Simmons, Neil Slinger python at massive scale - Google Search
-https://www.youtube.com/watch?v=H4SS9yVWJYA | Jason Fried - Fighting the Good Fight: Python 3 in your organization - PyCon 2018 - YouTube
-
-Python 3 at Facebook 
-https://lwn.net/Articles/758159/
-https://www.youtube.com/watch?v=H4SS9yVWJYA
-
-https://engineering.linkedin.com/blog/2020/how-we-retired-python-2-and-improved-developer-happiness
-https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/ | How we rolled out one of the largest Python 3 migrations ever | Dropbox Tech Blog
-
-Carl Meyer talk
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-Talks
-https://speakerdeck.com/carljm/instagram-under-the-hood
-https://blog.disqus.com/scaling-django-to-8-billion-page-views
-https://engineering.instagram.com/performance-usage-at-instagram-d2ba0347e442
-https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553#.fjosw93rm
-
-https://opensource.googleblog.com/2018/08/how-we-brought-latest-python-to-app-engine.html | How we brought the latest version of Python to App Engine and Cloud Functions | Google Open Source Blog
--->
-
-<!--
-Co
-https://medium.com/product-experimentation/optimizelys-product-manager-leveling-framework-1cfdc0123147
-https://twitter.com/buritica/status/1133470680979316738 | ☠️ 𝖇𝖚𝖗𝖎𝖙𝖎𝖈𝖆 ☠️ on Twitter: "ICYM: last week I gave a talk about how we accelerated engineering delivery at Splice through a strategy based on industry research. video coming soon but the slides are here https://t.co/MmMvqyYEZN"
-https://github.com/buritica/mgt/blob/master/rfcs/up-tempo.md
-
-https://github.com/jazzband | Jazzband
-
-https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/
-https://github.com/pantsbuild/example-python
-
-https://github.com/mozilla/bedrock | mozilla/bedrock: Making mozilla.org awesome, one pebble at a time
--->
-
-<!--
-https://opensource.facebook.com/projects
-https://github.com/facebook/watchman | facebook/watchman: Watches files and records, or triggers actions, when they change.
--->
-
-## Companies that Use Python
-## Major Organizations and Projects that Use Python or Django
-## Django Consulting Firms
-## Major Organizations and Projects that Use Django
 
 ## High Performance Trends
 
@@ -1644,6 +1588,8 @@ List of Engineering Blogs
 * [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 <!--
+https://github.com/KatherineMichel/organizations
+
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 
 http://stackshare.io/posts/
@@ -1680,7 +1626,9 @@ Product
 
 <!--
 Lorena
+https://github.com/lorenanicole
 Mariatta
+https://github.com/mariatta
 
 https://github.com/sindresorhus | sindresorhus (Sindre Sorhus)
 
@@ -2591,22 +2539,6 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-
-<!--
-Stuff
-
-https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
-
-Fastmac
-https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
-https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
-
-https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
-
-Django
-https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 on Twitter: "I wrote a thing that's been useful ever since🖖 Run your Django project tests on GitHub Actions + explanation about what's happening 👇 https://t.co/OToacdQOVy" / Twitter
--->
 
 
 ## Projects
