@@ -239,6 +239,7 @@ https://github.com/pypa/pip/blob/master/tasks/generate.py
 <!--
 https://www.anaconda.com/blog/get-python-package-download-statistics-with-condastats | Anaconda | Get Python Package Download Statistics with Condastats
 https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 4,000 most-downloaded packages from PyPI
+https://hugovk.github.io/drop-python/ | Drop Python
 
 Top downloaded wheels
 https://pythonwheels.com/
