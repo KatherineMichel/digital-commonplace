@@ -1367,6 +1367,14 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 GitHub and Twitter Roadmaps
 https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
 
+Slack Roadmap
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+Asana
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
 https://redwoodjs.com/roadmap
 https://github.com/11ty/eleventy#major-roadmapped-features
 
