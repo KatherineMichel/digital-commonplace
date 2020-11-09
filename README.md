@@ -748,18 +748,18 @@ https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chr
 
 ## Important
 
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-
-* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-
-https://www.w3.org/DesignIssues/Architecture.html
 
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
+* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
+https://www.w3.org/DesignIssues/Architecture.html
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
@@ -775,9 +775,6 @@ Extract till you drop
 https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
 
 ## Look Through
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-
 
 Julia Evans
 
@@ -1741,6 +1738,8 @@ https://womenmake.com/ | Women Make
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 -->
 
 
