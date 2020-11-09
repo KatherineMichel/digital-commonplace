@@ -1,6 +1,21 @@
 # Makers and Projects
 
 <!--
+Stuff
+
+https://github.com/swinton/github-apps-cheat-sheet | swinton/github-apps-cheat-sheet: A cheat sheet for GitHub Apps
+
+Fastmac
+https://github.com/fastai/fastmac/ | fastai/fastmac: Get a MacOS for Linux shell, for free, in around 2 minutes
+https://twitter.com/jeremyphoward/status/1304777046287986691 | Jeremy Howard on Twitter: "Want to build or test software on a Mac, but don't have a Mac to use? No problem! I've just released `fastmac`, which lets you use a Mac terminal for free for up to 6 hours at a time. It takes 2 minutes to get started. Linux available too! 1/ https://t.co/c2ioyG74cU" / Twitter
+
+https://jasonet.co/posts/scheduled-actions/ | Run your GitHub Actions workflow on a schedule - Jason Etcovitch · jasonet.co
+
+Django
+https://twitter.com/Rado_g/status/1258756366631608320 | Rado Georgiev 🇧🇬 on Twitter: "I wrote a thing that's been useful ever since🖖 Run your Django project tests on GitHub Actions + explanation about what's happening 👇 https://t.co/OToacdQOVy" / Twitter
+-->
+
+<!--
 Netlify
 https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/ | See 13 Netlify features for the best control of development workflow
 https://www.netlify.com/blog/2020/04/12/speed-up-productivity-with-terminal-aliases/
