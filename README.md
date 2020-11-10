@@ -691,10 +691,30 @@ https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
 
 https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
 
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+MS OS
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Microsoft
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://primer.style/doctocat/usage/deployment
+
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
 Microsoft
-https://github.com/indeedeng/FOSS-Contributor-Fund
 https://github.com/VerizonMedia/oss-guide
 https://verizonmedia.github.io/oss-guide/
 
