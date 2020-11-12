@@ -107,34 +107,22 @@ https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
 https://www.writethedocs.org
 
-Every Friday
-https://twitter.com/feross/status/1314341808739057666
-https://twitter.com/Speakeasy_JS/status/1312168218052628482
-https://twitter.com/feross/status/1312171857592815616
-
 https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
 https://www.youtube.com/pytexas
-
-Plone
-https://twitter.com/tkimnguyen/status/1311696073187090433
-https://sixfeetup.com/company/events/plone-6-theming-sprint-2020
-
-October 6
-https://www.meetup.com/Code-for-Philly/events/273595264/
-https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
-
-October 19-20
-https://2020.allthingsopen.org/register/
-https://2020.allthingsopen.org/speakers/
-
-October 29
-https://www.meetup.com/Miami-PyLadies/events/273725738/
 
 December 8-10
 https://githubuniverse.com/
 
 Patterns conference
 https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
+
+Every Friday
+https://twitter.com/Speakeasy_JS/
+
+October 6
+https://www.meetup.com/Code-for-Philly/events/273595264/
+https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
+
 
 https://www.meetup.com/pythonsd/
 
