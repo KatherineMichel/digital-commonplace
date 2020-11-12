@@ -1,6 +1,10 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+https://en.wikipedia.org/wiki/X_Window_System#Principles
+
 MongoDB/Cap
 https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
 
@@ -19,8 +23,6 @@ https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 Authenticate bearer
 Swarm testing
