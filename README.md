@@ -208,6 +208,8 @@ https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 GitLab
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 
+https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
+
 
 ## Personal Brand
 
@@ -600,14 +602,49 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+## To Do
+
+http://sijinjoseph.com/programmer-competency-matrix/
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+Wharton
+https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+
+Check this out...
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+
+Docs
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+## Projects
+
+Cool!
+https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
+
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
 ## Public Speaking
 
 https://github.com/matteofigus/awesome-speaking
 
 Public speaking
 https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
-
-http://sijinjoseph.com/programmer-competency-matrix/
 
 ## Community
 
@@ -654,42 +691,6 @@ https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-
 Docs
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
 
-## To Do
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Wharton
-https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-
-Check this out...
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-
-Docs
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-## Projects
-
-Cool!
-https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-
-
-https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
 
 https://jeffwilcox.blog/2019/06/scaling-25k/
 https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
@@ -725,47 +726,6 @@ https://github.com/HangarOrg/defaults
 https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
 https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-
-
-Important!
-https://andreasbm.github.io/web-skills/?compact | Web Skills
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
-
-https://en.wikipedia.org/wiki/X_Window_System#Principles
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
-
-https://principles.design/
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-
-
-
-## Dev Tools and Standards
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
-
-
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 ## Important
 
@@ -818,7 +778,25 @@ https://snyk.io/ | Open Source Security Platform | Snyk
 https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
 
 
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+
+
 ## Miscellaneous Tech
+
+Important!
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://www.hanselman.com/blog/YoureJustAnotherCarriageReturnLineFeedInTheWall.aspx | You're just another carriage return line feed in the wall - Scott Hanselman
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+
+https://principles.design/
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+
 
 vscode html css support - Google Search
 
@@ -894,6 +872,24 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | M
 Accessibility
 https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
 https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
+
+
+## Dev Tools and Standards
+
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+https://www.w3.org/WAI
+
+
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 -->
 
 <!--
