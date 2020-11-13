@@ -276,6 +276,38 @@ https://github.com/digitalocean/hacktoberfest
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
 
+## To Do
+
+http://sijinjoseph.com/programmer-competency-matrix/
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+Author File
+https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/ | Easy maintenance of your AUTHORS file | Kevin Burke
+
+Contributor Recognition
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+Docs
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+
+
+
 ## Demos and Other Content
 
 Demo
@@ -590,43 +622,6 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
-## To Do
-
-http://sijinjoseph.com/programmer-competency-matrix/
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Wharton
-https://github.com/pennlabs/django-rest-live | pennlabs/django-rest-live: Subscriptions for Django REST Framework over Websockets.
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-
-Check this out...
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-
-Docs
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
-
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-## Projects
-
-Cool!
-https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
 ## Public Speaking
 
 https://github.com/matteofigus/awesome-speaking
@@ -652,68 +647,6 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-## Open Source
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-Author File
-https://kevin.burke.dev/kevin/easy-maintenance-of-your-authors-file/ | Easy maintenance of your AUTHORS file | Kevin Burke
-
-Contributor Recognition
-https://github.com/kentcdodds/all-contributors
-https://www.npmjs.com/package/all-contributors-cli
-https://github.com/jfmengels/all-contributors-cli
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
-
-Docs
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
-
-Docs
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-
-
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-MS OS
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-Microsoft
-https://github.com/indeedeng/FOSS-Contributor-Fund
-https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://primer.style/doctocat/usage/deployment
-
-https://github.com/homedepot/opensource-corebeliefs
-https://homedepot.github.io/
-Microsoft
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-https://github.com/HangarOrg/defaults
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
 
 ## Important
 
@@ -1091,6 +1024,17 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 ## Technical Writing
 
 <!--
+Check this out...
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+
+
 https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
 https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
 
@@ -1592,6 +1536,28 @@ http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 -->
 
+## General Software Design Patterns
+
+## Architectures
+
+## Site Reliability
+
+Google Site Reliability Engineering Books
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+<!--
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+-->
+
 
 ## High Performance Trends
 
@@ -1757,95 +1723,6 @@ Product Hunt Maker Leader Boards
 
 <!--
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
-
-
-## Orgs
-
-General Open Source Sites
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
-
-Foundations
-* [Choose A Foundation](http://chooseafoundation.com/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
-* [Linux Foundation](https://www.linuxfoundation.org/)
-* [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
-* [JavaScript Foundation](https://js.foundation/)
-* [Open JavaScript Foundation](https://openjsf.org/)
-* [Node Foundation](https://foundation.nodejs.org/)
-
-Important Orgs
-* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
-* [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
-
-<!--
-https://twitter.com/SustainOSS/
-
-https://www.openapis.org/
-
-https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
-
-Continuous Delivery Foundation
-https://cd.foundation/
-
-https://opensource.googleblog.com/
-
-
-https://numfocus.org/
-
-https://www.redhat.com
-https://www.redhat.com/en/blog
-https://access.redhat.com/documentation/en-us/
-https://developers.redhat.com/blog
-https://www.atlassian.com/blog/
-
-Kubernetes
-https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
-https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
-
-https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
-
-GNOME Foundation
-https://blogs.gnome.org
-
-https://www.fsf.org/blogs/
-http://ftp.gnu.org
-http://gcc.gnu.org
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
-
-ACM Library
-https://www.acm.org/
-https://dl.acm.org/
-
-https://www.linux.com/
-https://lwn.net/
-
-https://www.eff.org
-
-Recurse Center
-https://www.recurse.com/
-
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-CNCF
-https://github.com/cncf/
-https://www.cncf.io/blog/
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://joss.theoj.org/ | Journal of Open Source Software
-http://jmlr.org/ | Journal of Machine Learning Research Homepage
 -->
 
 
@@ -2105,6 +1982,11 @@ Coding Competitions
 <!--
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
 
 https://js1024.fun/results/2020 | JS1024 Results - 2020
 
@@ -2557,6 +2439,13 @@ Python- Django- Project Stucture
 
 <!--
 Todo 
+
+https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
+
+Cool!
+https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
+
+https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
 
 README.md
 https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
@@ -4224,8 +4113,116 @@ Richard Feynman
 
 
 
+## Orgs
+
+General Open Source Sites
+* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Dot Com](https://opensource.com)
+
+Foundations
+* [Choose A Foundation](http://chooseafoundation.com/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Apache Foundation](https://www.apache.org/foundation/)
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [JavaScript Foundation](https://js.foundation/)
+* [Open JavaScript Foundation](https://openjsf.org/)
+* [Node Foundation](https://foundation.nodejs.org/)
+
+Important Orgs
+* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [TODO Group](https://todogroup.org/)
+
 <!--
-## Git and OS
+https://twitter.com/SustainOSS/
+
+https://www.openapis.org/
+
+https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
+
+Continuous Delivery Foundation
+https://cd.foundation/
+
+https://opensource.googleblog.com/
+
+
+https://numfocus.org/
+
+https://www.redhat.com
+https://www.redhat.com/en/blog
+https://access.redhat.com/documentation/en-us/
+https://developers.redhat.com/blog
+https://www.atlassian.com/blog/
+
+Kubernetes
+https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
+https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
+
+https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+
+GNOME Foundation
+https://blogs.gnome.org
+
+https://www.fsf.org/blogs/
+http://ftp.gnu.org
+http://gcc.gnu.org
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+
+ACM Library
+https://www.acm.org/
+https://dl.acm.org/
+
+https://www.linux.com/
+https://lwn.net/
+
+https://www.eff.org
+
+Recurse Center
+https://www.recurse.com/
+
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+CNCF
+https://github.com/cncf/
+https://www.cncf.io/blog/
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
+-->
+
+<!--
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+People
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+http://githubengineering.com/the-github-graphql-api/
+
+Sustain OSS
+https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
+
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
 Community engineering
 https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
@@ -4234,8 +4231,12 @@ https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
 https://www.atlassian.com/agile/
 https://developer.atlassian.com
 
-https://github.com/jamstack/jamstack.org
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/HangarOrg/defaults
 
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
 README
 https://github.com/soimort/you-get
@@ -4247,61 +4248,22 @@ https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
-
-https://git-scm.com/docs
-https://git-scm.com/docs/git-status
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
-
-https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
-
-
-Email Git
-https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
-
-https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
-
-Git Internals
-https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
-https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
-
-
-https://github.community/ | Home - GitHub Community Forum
-
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-
-http://githubengineering.com/the-github-graphql-api/
-https://githubengineering.com/kubernetes-at-github/
-
-GitHub JavaScript
-https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
-https://mobile.twitter.com/gr2m/status/1248320202162331648
-
-https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
-
-https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
-
-
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-https://discourse.sustainoss.org/
-
 https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
 
 Chaoss
 https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
 
-https://github.com/github/maturity-model | github/maturity-model: A maturity model for adopting open source
 https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
 https://github.com/joelparkerhenderson/maturity_models
 
+https://github.com/jamstack/jamstack.org
 
-Survey
-https://www.tidelift.com/subscription/2020-managed-open-source-survey
-https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
+## Organization Resources
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
 
 Todo
 https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
@@ -4309,8 +4271,10 @@ https://github.com/todogroup/governance | todogroup/governance: TODO Group Gover
 Important!
 https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
 
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
 
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+https://github.com/adobe/open-development-template
 
 https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
 
@@ -4321,23 +4285,92 @@ https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba435
 https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
 https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
 
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
+## Company Open Source
+
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+MS OS
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Microsoft
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://primer.style/doctocat/usage/deployment
+
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+Microsoft
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
+-->
+
+<!--
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+ADR
+https://github.blog/2020-08-13-why-write-adrs/
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record
+
+https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
+https://bestpractices.coreinfrastructure.org/en | BadgeApp
+https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+-->
 
 
 
+<!--
+## Git and OS
 
-## OS
+https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
 
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
+https://git-scm.com/docs
+https://git-scm.com/docs/git-status
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
 
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
+https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
 
-https://github.com/codetriage/CodeTriage | codetriage/CodeTriage: Discover the best way to get started contributing to Open Source projects
-https://github.com/opensource254/opensource254.github.io | opensource254/opensource254.github.io: Made in kenya
+Email Git
+https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
+
+https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
+
+Git Internals
+https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
+https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
+
+https://github.community/ | Home - GitHub Community Forum
+
+
+Survey
+https://www.tidelift.com/subscription/2020-managed-open-source-survey
+https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
 
 https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
 
@@ -4345,6 +4378,51 @@ https://blog.tidelift.com
 https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
 https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
 -->
+
+## Open Source and Release Examples
+
+<!--
+http://anonymoushash.vmbrasseur.com
+https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
+
+Sarah Cope
+https://github.com/saracope/shaping-the-contributor-experience
+https://saracope.github.io/shaping-the-contributor-experience/
+
+https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
+
+https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
+
+https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
+
+Important!
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
+
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+Contributing to Open Source: A Guide
+https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
+http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
+https://stackoverflow.com/help/minimal-reproducible-example
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
+https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
+
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
+
+https://opensource.guide/best-practices/
+https://github.com/github/opensource.guide/tree/master/_articles
+https://opensource.guide/starting-a-project/
+https://opensource.guide/finding-users/
+https://opensource.guide/building-community/
+https://opensource.guide/leadership-and-governance/
+
+https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
+https://glasnt.com/talks/2017_08_PyConAU/#/
+-->
+
 
 ## Open Source and Release Examples
 
@@ -4398,37 +4476,80 @@ https://cli.github.com/
 https://github.com/cli/cli | cli/cli: GitHub’s official command line tool
 
 https://github.com/github/super-linter | github/super-linter: Combination of multiple linters to install as a GitHub Action
+
+
+GitHub Case Studies
+
+https://githubengineering.com/kubernetes-at-github/
+
+GitHub JavaScript
+https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
+https://mobile.twitter.com/gr2m/status/1248320202162331648
+
+https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ on Twitter: "This is a really fascinating overview of how @github manages MySQL schema migrations. There is a lot here to unpack but my favorite takeaway is how they change DROP TABLE to RENAME TABLE statements and then are later garbage collected and dropped. Clever. https://t.co/YZAqCOda2y" / Twitter
+
+https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 -->
 
+## Open Source in Orgs
 
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+    
 <!--
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
 
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+https://github.com/todogroup/awesome-oss-mgmt
 
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
 
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
 
+https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
 
-ADR
-https://github.blog/2020-08-13-why-write-adrs/
-https://adr.github.io/ | Architectural Decision Records | adr.github.io
-https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
-https://github.com/joelparkerhenderson/architecture_decision_record
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://github.com/customer-stories/facebook | Facebook
 
-https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
-https://bestpractices.coreinfrastructure.org/en | BadgeApp
-https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
-
-https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
-
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://github.com/microsoft/opensource.microsoft.com
+https://opensource.microsoft.com/program/#program-contributing
 -->
 
 ## Open Source and Assessment
@@ -4481,7 +4602,6 @@ https://docs.google.com/presentation/d/1ldc9dmV1dcm7o1Sjw4RLV6fEAV7ui6nvblhxduZS
 https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedia
 -->
 
-
 <!--
 3 methods
 https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
@@ -4501,142 +4621,6 @@ http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | 
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
 
 Open source report card
--->
-
-
-## Open Source in Orgs
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-    
-<!--
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://github.com/todogroup/awesome-oss-mgmt
-
-https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
-
-https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
-
-https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
-
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://github.com/customer-stories/facebook | Facebook
-
-https://github.com/microsoft/opensource.microsoft.com
-https://opensource.microsoft.com/program/#program-contributing
--->
-
-## Open Source and Release Examples
-
-<!--
-http://anonymoushash.vmbrasseur.com
-https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
-
-https://github.com/adobe/open-development-template
-
-Sarah Cope
-https://github.com/saracope/shaping-the-contributor-experience
-https://saracope.github.io/shaping-the-contributor-experience/
-
-https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
-
-https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
-https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
-
-Important!
-https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007296 | Ten simple rules for helping newcomers become contributors to open projects
-
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-
-Contributing to Open Source: A Guide
-https://pyvideo.org/pydata-new-york-city-2018/contributing-to-open-source-a-guide.html
-http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports
-https://stackoverflow.com/help/minimal-reproducible-example
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
-https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
-
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
-
-https://opensource.guide/best-practices/
-https://github.com/github/opensource.guide/tree/master/_articles
-https://opensource.guide/starting-a-project/
-https://opensource.guide/finding-users/
-https://opensource.guide/building-community/
-https://opensource.guide/leadership-and-governance/
-
-https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
-https://glasnt.com/talks/2017_08_PyConAU/#/
--->
-
-## General Software Design Patterns
-
-## Architectures
-
-## Site Reliability
-
-Google Site Reliability Engineering Books
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-<!--
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
-
-https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
 -->
 
 ## More DevOps
