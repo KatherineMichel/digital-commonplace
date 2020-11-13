@@ -961,6 +961,97 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
+<!--
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+People
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://github.com/jamstack/jamstack.org
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+http://githubengineering.com/the-github-graphql-api/
+
+Sustain OSS
+https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
+
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://www.atlassian.com/agile/
+https://developer.atlassian.com
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/HangarOrg/defaults
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+
+README
+https://github.com/soimort/you-get
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+-->
+
+
+<!--
+Todo
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+ADR
+https://github.blog/2020-08-13-why-write-adrs/
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record
+
+https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
+https://bestpractices.coreinfrastructure.org/en | BadgeApp
+https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+-->
+
 ## Eldarion
 
 ## Good Advice and Habits
@@ -1579,6 +1670,111 @@ https://techyaks.com/python-year-tytop.html
 
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
+
+
+## Open Source in Orgs
+
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+    
+<!--
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+https://github.com/todogroup/awesome-oss-mgmt
+
+https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
+
+https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
+
+https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
+
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://github.com/customer-stories/facebook | Facebook
+
+https://github.com/microsoft/opensource.microsoft.com
+https://opensource.microsoft.com/program/#program-contributing
+
+
+Kubernetes
+mongodb/brew/mongodb-community - Google Search
+
+https://github.com/adobe/open-development-template
+
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
+
+## Company Open Source
+
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+MS OS
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Microsoft
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://primer.style/doctocat/usage/deployment
+
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+Microsoft
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
+-->
 
 
 ## Makers
@@ -4028,6 +4224,7 @@ https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
+
 ## Systems
 
 * [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
@@ -4201,148 +4398,6 @@ https://joss.theoj.org/ | Journal of Open Source Software
 http://jmlr.org/ | Journal of Machine Learning Research Homepage
 -->
 
-<!--
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-People
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-http://githubengineering.com/the-github-graphql-api/
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-https://discourse.sustainoss.org/
-
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://www.atlassian.com/agile/
-https://developer.atlassian.com
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-https://github.com/HangarOrg/defaults
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-README
-https://github.com/soimort/you-get
-
-Example
-https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
-https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
-
-Chaoss
-https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-https://github.com/jamstack/jamstack.org
-
-## Organization Resources
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-Todo
-https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
-
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
-https://github.com/adobe/open-development-template
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-https://github.com/aws/containers-roadmap | aws/containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
-
-## Company Open Source
-
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-MS OS
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-Microsoft
-https://github.com/indeedeng/FOSS-Contributor-Fund
-https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://primer.style/doctocat/usage/deployment
-
-https://github.com/homedepot/opensource-corebeliefs
-https://homedepot.github.io/
-Microsoft
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
--->
-
-<!--
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-ADR
-https://github.blog/2020-08-13-why-write-adrs/
-https://adr.github.io/ | Architectural Decision Records | adr.github.io
-https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
-https://github.com/joelparkerhenderson/architecture_decision_record
-
-https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
-https://bestpractices.coreinfrastructure.org/en | BadgeApp
-https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
-
-https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
--->
-
-
 
 <!--
 ## Git and OS
@@ -4366,6 +4421,15 @@ https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommi
 https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
 
 https://github.community/ | Home - GitHub Community Forum
+
+
+https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
+
+Chaoss
+https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
 
 
 Survey
@@ -4408,6 +4472,10 @@ https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/3
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/4
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/8
 https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
+
+Example
+https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
+https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
 
 https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
@@ -4455,9 +4523,6 @@ GitHub Community
 * [GitHub Community](https://github.community/)
 
 <!--
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-
 https://github.com/blog/967-github-secrets | GitHub Secrets
 
 https://github.com/benbalter/github-mention-highlighter
@@ -4491,74 +4556,44 @@ https://twitter.com/webology/status/1229501187575222277 | ✨ Jeff Triplett ✨ 
 https://github.com/github/gh-ost/issues/331#issuecomment-266027731 | Thoughts on Foreign Keys? · Issue #331 · github/gh-ost
 -->
 
-## Open Source in Orgs
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-    
 <!--
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+Metrics and Health
 
-https://github.com/todogroup/awesome-oss-mgmt
+Open source report card
 
-https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
-
-https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
-
-https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
-
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://github.com/customer-stories/facebook | Facebook
-
-https://github.com/microsoft/opensource.microsoft.com
-https://opensource.microsoft.com/program/#program-contributing
+3 methods
+https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
+Metrics
+https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
+https://nadiaeghbal.com/tragedy-of-the-commons
 -->
 
-## Open Source and Assessment
+## Open Source Metrics
 
 Mozilla Metrics
 * [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
 * [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
 * [CHAOSS](https://chaoss.community/) and [CHAOSS GitHub](https://github.com/chaoss/)
 * [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
+
+<!--
+https://opensource.guide/metrics/
+
+https://bitergia.com/
+https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
+https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
+https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
+
+https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
+https://bitergia.com/resources/webinars/ | Webinars - Bitergia
+
+https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
+
+https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
+https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
+-->
+
+## Health and Maturity
 
 Open Source
 * [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
@@ -4574,16 +4609,6 @@ Maturity Models and Frameworks
 * [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
 <!--
-https://opensource.guide/metrics/
-
-https://bitergia.com/
-https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
-https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
-https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
-
-https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
-https://bitergia.com/resources/webinars/ | Webinars - Bitergia
-
 Assessment
 https://coiled.io/blog/stages-of-openness.html
 Service metrics
@@ -4603,24 +4628,11 @@ https://en.m.wikipedia.org/wiki/Cynefin_framework | Cynefin framework - Wikipedi
 -->
 
 <!--
-3 methods
-https://nadiaeghbal.com/user-support | Nadia Eghbal | Understanding user support systems in open source
-Metrics
-https://nadiaeghbal.com/project-health | Nadia Eghbal | Methodologies for measuring project health
-https://nadiaeghbal.com/tragedy-of-the-commons
-
-https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
-
-https://github.com/GSA/code-gov-github-metrics/blob/master/DATASCHEMA.md | code-gov-github-metrics/DATASCHEMA.md at master · GSA/code-gov-github-metrics
-https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github-metrics: GitHub metrics report generator for code.gov repos
-
 https://martinfowler.com/bliki/MaturityModel.html
 https://martinfowler.com/articles/agileFluency.html | The Agile Fluency Model
 
 http://info.thoughtworks.com/rs/thoughtworks2/images/agile_maturity_model.pdf | agile_maturity_model.pdf
 https://www.atlassian.com/blog/archives/agile-maturity-how-agile-is-your-organization | Agile maturity - How agile is your organization? - Atlassian Blog
-
-Open source report card
 -->
 
 ## More DevOps
