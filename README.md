@@ -622,6 +622,12 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+https://seagl.org/watch/
+
+https://global.pydata.org/pages/schedule
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+https://forum.numfocus.org/pydata-global/channels/town-square
+
 ## Public Speaking
 
 https://github.com/matteofigus/awesome-speaking
@@ -4076,6 +4082,7 @@ https://github.com/phuoc-ng/html-dom
 
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
 -->
+
 
 ## Jargon, Algorithms, and Patterns
 
