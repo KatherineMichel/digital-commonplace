@@ -105,26 +105,27 @@ https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-p
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 
-https://www.writethedocs.org
-
-https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
-https://www.youtube.com/pytexas
-
-December 8-10
-https://githubuniverse.com/
-
-Patterns conference
-https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
-
-Every Friday
-https://twitter.com/Speakeasy_JS/
-
 October 6
 https://www.meetup.com/Code-for-Philly/events/273595264/
 https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
 
+https://global.pydata.org/pages/schedule
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+https://forum.numfocus.org/pydata-global/channels/town-square
+
+Every Friday
+https://twitter.com/Speakeasy_JS/
+
+December 8-10
+https://githubuniverse.com/
+
+https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
+https://www.youtube.com/pytexas
 
 https://www.meetup.com/pythonsd/
+https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
+
+https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
 
 SF Python
 https://www.meetup.com/sfpython/
@@ -136,39 +137,12 @@ https://twitter.com/sfdjangomeetup
 https://twitter.com/sfdjangomeetup/status/1288711058639601664
 https://twitter.com/sfdjangomeetup/following
 
+https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
+https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
+
 SF, Seattle, Vancouver
 https://twitter.com/wwcsf | https://twitter.com/wwcsf
 https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
-https://twitter.com/pyladiessf | PyLadies SF (@pyladiessf) / Twitter
-
-
-## People and Places
-
-https://twitter.com/natfriedman/following
-https://twitter.com/i/lists/1294427753782140928
-https://twitter.com/i/lists/1041844109479034880
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-https://github.com/twitterdev | @TwitterDev
-https://github.com/orgs/twitterdev/people | People · @TwitterDev
-https://twitter.com/TwitterEng/lists/memberships
-https://twitter.com/i/lists/1287873548971778048
-
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-
-https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Sharing Management Ideas
-https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
-
-https://nuzzel.com/friendsfeeds
-
-https://freestateforge.com/map
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 
 ## DevRel
@@ -234,6 +208,35 @@ https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson 
 http://www.hawraf.com/
 
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
+
+
+## People and Places
+
+https://twitter.com/natfriedman/following
+https://twitter.com/i/lists/1294427753782140928
+https://twitter.com/i/lists/1041844109479034880
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+https://github.com/twitterdev | @TwitterDev
+https://github.com/orgs/twitterdev/people | People · @TwitterDev
+https://twitter.com/TwitterEng/lists/memberships
+https://twitter.com/i/lists/1287873548971778048
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+
+https://thinkers50.com/t50-ranking/ Thinkers50 | Identifying, Ranking, and Sharing Management Ideas
+https://www.ibm.com/ibm/ideasfromibm/us/ibm_fellows/ | IBM Fellows - United States
+
+https://nuzzel.com/friendsfeeds
+
+https://freestateforge.com/map
+
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 
 ## Opportunities
@@ -620,14 +623,92 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 -->
 
 
+<!--
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+People
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://github.com/jamstack/jamstack.org
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+http://githubengineering.com/the-github-graphql-api/
+
+Sustain OSS
+https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
+
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://www.atlassian.com/agile/
+https://developer.atlassian.com
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/HangarOrg/defaults
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+
+README
+https://github.com/soimort/you-get
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+-->
+
 
 <!--
-https://seagl.org/watch/
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 
-https://global.pydata.org/pages/schedule
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
-https://forum.numfocus.org/pydata-global/channels/town-square
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
 
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+ADR
+https://github.blog/2020-08-13-why-write-adrs/
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record
+
+https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
+https://bestpractices.coreinfrastructure.org/en | BadgeApp
+https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+-->
+
+<!--
 ## Public Speaking
 
 https://github.com/matteofigus/awesome-speaking
@@ -967,96 +1048,6 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
-<!--
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-People
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://github.com/jamstack/jamstack.org
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-http://githubengineering.com/the-github-graphql-api/
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-https://discourse.sustainoss.org/
-
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://www.atlassian.com/agile/
-https://developer.atlassian.com
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-https://github.com/HangarOrg/defaults
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-
-README
-https://github.com/soimort/you-get
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
--->
-
-
-<!--
-Todo
-https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
-
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-ADR
-https://github.blog/2020-08-13-why-write-adrs/
-https://adr.github.io/ | Architectural Decision Records | adr.github.io
-https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
-https://github.com/joelparkerhenderson/architecture_decision_record
-
-https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
-https://bestpractices.coreinfrastructure.org/en | BadgeApp
-https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
-
-https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
--->
 
 ## Eldarion
 
@@ -1721,8 +1712,15 @@ Google Developers- Code
 <!--
 https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
 
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+
 https://github.com/todogroup/awesome-oss-mgmt
 
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+Survey
 https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
 
 https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
