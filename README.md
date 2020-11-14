@@ -102,11 +102,22 @@ https://pyvideo.org/ | PyVideo.org
 https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://www.python.org/events/python-events/past/?page=2
 
+Wagtail
+https://www.caktusgroup.com/blog/2019/08/05/making-space-wagtail/
+
+https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+
 DevICT
 https://www.grooverlabs.org/events | Events | Groover Labs
 https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
+Bazel
+https://app.slack.com/client/TA4K1KQ87/CA31HN1T3
+
+Patterns conference
+https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
 
 October 6
 https://www.meetup.com/Code-for-Philly/events/273595264/
@@ -139,8 +150,9 @@ https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Pyth
 https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
 
 SF Python
-https://www.meetup.com/sfpython/
 https://www.youtube.com/c/SFPython/videos
+https://www.meetup.com/sfpython/
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
 https://twitter.com/pyladiessf
 
 https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
