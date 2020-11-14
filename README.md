@@ -144,6 +144,8 @@ https://githubuniverse.com/
 https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
 https://www.youtube.com/pytexas
 
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
 https://www.meetup.com/pythonsd/
 https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
 
@@ -153,6 +155,7 @@ SF Python
 https://www.youtube.com/c/SFPython/videos
 https://www.meetup.com/sfpython/
 https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
+https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
 https://twitter.com/pyladiessf
 
 https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
@@ -169,6 +172,8 @@ https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bing
 
 October 29
 https://www.meetup.com/Miami-PyLadies/events/273725738/
+
+https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
 
 
 ## DevRel
@@ -650,6 +655,16 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
+http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
+https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
+
+Vicky
+https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
+https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
+https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
+
+
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
