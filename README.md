@@ -99,6 +99,9 @@ https://todoist.com/ | 503 Service Temporarily Unavailable
 
 https://pyvideo.org/ | PyVideo.org
 
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
 DevICT
 https://www.grooverlabs.org/events | Events | Groover Labs
 https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
@@ -109,9 +112,17 @@ October 6
 https://www.meetup.com/Code-for-Philly/events/273595264/
 https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
 
+September 11-13
+https://www.german-russians.info/
+
 https://global.pydata.org/pages/schedule
 https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
 https://forum.numfocus.org/pydata-global/channels/town-square
+
+PyCon
+https://us.pycon.org/2020/remote/
+https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
 
 Every Friday
 https://twitter.com/Speakeasy_JS/
@@ -143,6 +154,9 @@ https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter 
 SF, Seattle, Vancouver
 https://twitter.com/wwcsf | https://twitter.com/wwcsf
 https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
+
+October 29
+https://www.meetup.com/Miami-PyLadies/events/273725738/
 
 
 ## DevRel
