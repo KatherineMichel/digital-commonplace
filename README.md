@@ -655,6 +655,8 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 
 <!--
+https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
+
 https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
 http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
 https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
@@ -1710,7 +1712,7 @@ Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
 
-## Open Source in Orgs
+## Open Source in Orgs- Tools
 
 Google: Why Open Source
 * [Why Open Source?](https://opensource.google.com/docs/why)
@@ -1758,6 +1760,9 @@ https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Sour
 
 
 https://github.com/todogroup/awesome-oss-mgmt
+
+http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
+https://github.com/todogroup/guides | todogroup/guides: TODO Group Guides
 
 https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
 
@@ -1819,6 +1824,14 @@ https://homedepot.github.io/
 Microsoft
 https://github.com/VerizonMedia/oss-guide
 https://verizonmedia.github.io/oss-guide/
+
+
+Mozilla open leaders programme - Google Search
+https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
+https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
+
+https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
+https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
 -->
 
 
