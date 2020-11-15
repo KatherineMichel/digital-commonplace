@@ -97,54 +97,14 @@ https://todoist.com/ | 503 Service Temporarily Unavailable
 
 ## Conferences
 
-https://pyvideo.org/ | PyVideo.org
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-Wagtail
-https://www.caktusgroup.com/blog/2019/08/05/making-space-wagtail/
-
-https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+September 11-13
+https://www.german-russians.info/
 
 DevICT
 https://www.grooverlabs.org/events | Events | Groover Labs
 https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-Bazel
-https://app.slack.com/client/TA4K1KQ87/CA31HN1T3
-
-Patterns conference
-https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
-
-October 6
-https://www.meetup.com/Code-for-Philly/events/273595264/
-https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
-
-September 11-13
-https://www.german-russians.info/
-
-https://global.pydata.org/pages/schedule
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
-https://forum.numfocus.org/pydata-global/channels/town-square
-
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
-
-Every Friday
-https://twitter.com/Speakeasy_JS/
-
-December 8-10
-https://githubuniverse.com/
-
-https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
-https://www.youtube.com/pytexas
-
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 https://www.meetup.com/pythonsd/
 https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
@@ -174,6 +134,55 @@ October 29
 https://www.meetup.com/Miami-PyLadies/events/273725738/
 
 https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
+
+
+https://pyvideo.org/ | PyVideo.org
+
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+Wagtail
+https://www.caktusgroup.com/blog/2019/08/05/making-space-wagtail/
+
+https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+
+Bazel
+https://app.slack.com/client/TA4K1KQ87/CA31HN1T3
+
+Patterns conference
+https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
+
+https://slidesgo.com/editors-choice
+
+October 6
+https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
+https://www.meetup.com/Code-for-Philly/events/273595264/
+https://drive.google.com/file/d/1KADdmnjeC14d3fIaP7sWDAMj9ZzDksf1/view
+https://slidesgo.com/
+https://www.flaticon.com/
+https://www.freepik.com/
+https://stories.forpeople.studio/
+
+
+https://global.pydata.org/pages/schedule
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+https://forum.numfocus.org/pydata-global/channels/town-square
+
+PyCon
+https://us.pycon.org/2020/remote/
+https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
+
+Every Friday
+https://twitter.com/Speakeasy_JS/
+
+December 8-10
+https://githubuniverse.com/
+
+https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
+https://www.youtube.com/pytexas
+
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 
 ## DevRel
@@ -337,9 +346,10 @@ https://github.com/jfmengels/all-contributors-cli
 
 https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
 
+https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
+
 Docs
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-
 
 
 ## Demos and Other Content
@@ -505,9 +515,17 @@ https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on T
 
 ## Python Talks
 
-https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
+http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
+https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
 
-https://us.pycon.org/2019/schedule/presentation/212/ | Presentation: Python on Windows is Okay, Actually | PyCon 2019 in Cleveland, Ohio
+Vicky
+https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
+https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
+https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
+
+https://osem.seagl.org/conferences/seagl2020/program/proposals/779
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
 
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 
@@ -515,18 +533,6 @@ Nina
 https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
 https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
 https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-https://www.youtube.com/watch?v=S0No2zSJmks&feature=youtu.be&t=3116 | When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/ | The Composition Over Inheritance Principle
-
-Packaging Talk
-https://twitter.com/judy2k/status/1290194052550471680 | Judy2k on Twitter: "This is not my favourite version of this python packaging talk, but it is the most up-to-date." / Twitter
-
-Stop Writing Classes
-https://twitter.com/chrisalbon/status/1282317175588417536 | Chris Albon on Twitter: "Also. https://t.co/KMJPtsZ4i8" / Twitter
-https://python-patterns.guide/gang-of-four/composition-over-inheritance/
-
-https://www.youtube.com/watch?v=S58rRIBi0A0 | (3) Dunder methods are special - Scott Irwin - PyLondinium19 - YouTube
 
 
 ## Security
@@ -654,19 +660,8 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 -->
 
 
+
 <!--
-https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
-
-https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
-http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
-https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
-
-Vicky
-https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
-https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
-https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
-
-
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
