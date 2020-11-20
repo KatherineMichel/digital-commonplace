@@ -320,8 +320,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA
 
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
 
-https://github.com/digitalocean/hacktoberfest
-
 https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
 
@@ -348,10 +346,39 @@ https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Electio
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
 
-Launch Story
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+People
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/HangarOrg/defaults
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+http://githubengineering.com/the-github-graphql-api/
 
 
 
@@ -697,48 +724,10 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 -->
 
 
-
-
-<!--
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-People
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
-
-https://github.com/jamstack/jamstack.org
-
-
-http://githubengineering.com/the-github-graphql-api/
-
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-https://github.com/HangarOrg/defaults
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
--->
-
 <!--
 ## Important
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
@@ -1371,20 +1360,23 @@ https://redwoodjs.com/docs/introduction
 https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
 https://nextjs.org/docs/migrating/from-gatsby
 
-Check this out...
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+Vue
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
 https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
 Fairly easy Pythons setup?
 https://beeware.org/contributing/how/first-time/setup/
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
 -->
 
 ## Launch
 
 <!--
+Launch Story
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 -->
