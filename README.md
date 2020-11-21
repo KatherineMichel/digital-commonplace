@@ -1495,6 +1495,10 @@ Next
 https://nextjs.org/blog/
 https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
 Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+https://en.wikipedia.org/wiki/Use_case
 
 Gatsby Case Study
 https://twitter.com/gatsbyjs
@@ -1506,7 +1510,7 @@ Redwood
 https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
 https://redwoodjs.com/docs/introduction
 https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://nextjs.org/docs/migrating/from-gatsby
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
 
 Vue
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
