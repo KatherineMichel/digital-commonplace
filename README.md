@@ -733,7 +733,29 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 <!--
 ## Important
 
+Product Hunt
+https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
+https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
+
 https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+
+https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
+
+Gov
+https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
+https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
+
+FOSS Governance
+https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
+https://www.zotero.org/groups/2310183/foss_governance/library
+
+Vicky
+https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
+
+https://www.bvp.com/atlas/roadmap-open-source
+https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
+
+https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
@@ -1807,17 +1829,22 @@ https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
 https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
 https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
 
-Microsoft
-https://github.com/indeedeng/FOSS-Contributor-Fund
+https://eng.uber.com/open-source-principles/#:~:text=Open%20source%20at%20Uber%20supports,expand%20upon%20existing%20community%20solutions. | Introducing Uber’s Open Source Principles | Uber Engineering Blog
+https://uber.github.io/#/principles | Uber Open Source
+
 https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://primer.style/doctocat/usage/deployment
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://github.com/indeedeng/FOSS-Contributor-Fund#the-project-must-use-an-osi-approved-license | indeedeng/FOSS-Contributor-Fund: This document outlines the processes we use to manage our FOSS Contributor Fund initiative at Indeed.
+https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
+https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
 
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
-Microsoft
+
 https://github.com/VerizonMedia/oss-guide
 https://verizonmedia.github.io/oss-guide/
 
+https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
 
 Mozilla open leaders programme - Google Search
 https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
@@ -1826,6 +1853,8 @@ https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Tra
 https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
 https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
 
+
+https://primer.style/doctocat/usage/deployment
 
 https://opensourcedesign.net/goals/ | Goals - Open Source Design
 
@@ -4656,9 +4685,13 @@ https://opensource.guide/metrics/
 https://bitergia.com/
 https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
 https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
+https://chaoss.github.io/grimoirelab-tutorial/ | GrimoireLab Tutorial | GrimoireLab Tutorial
 https://github.com/chaoss/grimoirelab-perceval | chaoss/grimoirelab-perceval: Send Sir Perceval on a quest to retrieve and gather data from software repositories.
 
 https://chaoss.community/metrics/ | Metrics 202001 - CHAOSS
+
+https://speakerdeck.com/bitergia/
+https://blog.bitergia.com/
 https://bitergia.com/resources/webinars/ | Webinars - Bitergia
 
 https://github.com/universeworkshops/the-metrics-that-matter/blob/master/the-metrics-that-matter.pdf | the-metrics-that-matter/the-metrics-that-matter.pdf at master · universeworkshops/the-metrics-that-matter
