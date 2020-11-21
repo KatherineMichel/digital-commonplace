@@ -93,6 +93,11 @@ http://www.timcasasola.com/blog/writing | Why does writing matter in remote work
 https://substack.com/ | Substack
 https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 https://todoist.com/ | 503 Service Temporarily Unavailable
+https://hackerone.com/
+https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
+https://calendly.com/ | Free Online Appointment Scheduling Software - Calendly
+https://carrd.co/ | Carrd - Simple, free, fully responsive one-page sites for pretty much anything
+https://builtwith.carrd.co/ | Built with Carrd
 
 
 ## Conferences
@@ -235,6 +240,7 @@ https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
 https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
 https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
 https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+https://twitter.com/bdougieYO/status/1308446624092311553 | Brian Douglas on Twitter: "Join me this Friday to learn how to contribute to open source." / Twitter
 
 Speaking
 https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
@@ -733,13 +739,80 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 <!--
 ## Important
 
+Book
+https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
+
+Julia
+https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
+https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
+
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+https://twitter.com/AdamChainz/status/1324680039250776070 | Adam Johnson on Twitter: "Django uses descriptors to power its database field "magic". @raymondh 's new guide to descriptors in the Python 3.9 docs is a great source for understanding how they work! https://t.co/3ZsHUB0KTA" / Twitter
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+
+
+Important
+https://sive.rs/srs | Memorizing a programming language using spaced repetition software | Derek Sivers
+
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
+Mac Scrips
+https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
+
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+
+https://github.com/mmmonteiro/designethics/blob/master/en_US.m
+https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
+
+
+https://github.com/mikeal | mikeal (Mikeal Rogers)
+
+https://github.com/sdras/
+https://github.com/cassidoo/
+
+https://github.com/cassidoo/book-rating-demo | cassidoo/book-rating-demo: A demo built with React and HarperDB to show book ratings
+
+
 Product Hunt
 https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
 https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
 
 https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 
+
+https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
+https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getting credit: Taking your place in a meritocracy | Opensource.com
+https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
+https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
+
 https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
+
+https://www.harihareswara.net/sumana/2016/10/12/0 | Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History
+https://twitter.com/brainwane/status/1310171548590931974 | https://twitter.com/brainwane/status/1310171548590931974
 
 Gov
 https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
@@ -752,10 +825,18 @@ https://www.zotero.org/groups/2310183/foss_governance/library
 Vicky
 https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
 
+https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
+
+https://missionprotocol.org/ | About | Mission Protocol
+
+COSS
 https://www.bvp.com/atlas/roadmap-open-source
 https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
 
+https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
+
 https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
+
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
@@ -1452,6 +1533,13 @@ List of top product management article links
 
 https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
 https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://www.sideprojectchecklist.com/ | Side Project Checklist
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
 -->
 
 ## Roadmaps
