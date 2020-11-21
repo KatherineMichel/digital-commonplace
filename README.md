@@ -507,6 +507,14 @@ https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testi
 
 ## Python and Django
 
+https://twitter.com/FlipperPA/status/1296430919704809472 | Tim A. on Twitter: "@mariatta @zapier Markdown and READMEs with @rgs258’s https://t.co/42wsEpmfiP - simple is better than complex!" / Twitter
+
+https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+
+
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
 https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
