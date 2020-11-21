@@ -511,6 +511,15 @@ https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testi
 
 ## Python and Django
 
+https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
+
+https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
+
+pip-tools
+https://twitter.com/webology/status/1324134889172701190 | Jeff "voted 🗳 and wears a mask 😷 " Triplett on Twitter: "@epicserve Pip-tools is solid and you should use it with pip. You may want to try out poetry to see if it works with your workflow." / Twitter
+
+https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
+
 https://twitter.com/FlipperPA/status/1296430919704809472 | Tim A. on Twitter: "@mariatta @zapier Markdown and READMEs with @rgs258’s https://t.co/42wsEpmfiP - simple is better than complex!" / Twitter
 
 https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
