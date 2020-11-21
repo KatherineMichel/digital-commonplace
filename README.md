@@ -362,8 +362,6 @@ https://opensource.google/docs/releasing/publishing/#announce | Releasing and Pu
 
 https://github.com/HangarOrg/
 https://github.com/HangarOrg/sphinx-netlify-cicd
-https://github.com/HangarOrg/defaults
-
 https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
 https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
