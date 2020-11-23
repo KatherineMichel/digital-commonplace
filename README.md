@@ -383,6 +383,8 @@ https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sp
 
 https://github.com/digitalocean/hacktoberfest
 https://github.com/jamstack/jamstack.org
+https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
+
 
 http://githubengineering.com/the-github-graphql-api/
 
@@ -785,6 +787,7 @@ https://twitter.com/Lanooba/status/1318271853262180352 | Nivia Sedai, Amyrlin Se
 
 https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
 https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
+https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 
 Deployment
 https://twitter.com/rashiq/status/1319462542163496960 | rashiq on Twitter: "it's incredible to me that a $5 digital ocean box can serve traffic for 200k unique visitors and yet there's startups out there who deploy their landing pages with kubectl" / Twitter
@@ -1937,10 +1940,9 @@ https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
 
 
-Kubernetes
-mongodb/brew/mongodb-community - Google Search
-
 https://github.com/adobe/open-development-template
+
+https://github.com/salesforce/oss-template/
 
 https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
 
@@ -4611,6 +4613,8 @@ https://www.acm.org/
 https://dl.acm.org/
 
 https://www.linux.com/
+https://www.linuxjournal.com
+https://www.linux.com/blog/
 https://lwn.net/
 
 https://www.eff.org
