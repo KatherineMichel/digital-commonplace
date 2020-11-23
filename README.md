@@ -465,8 +465,6 @@ LinkedIn
 https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
-
-
 ## Demos and Other Content
 
 Demo
@@ -760,6 +758,16 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 <!--
 ## Important
+
+https://about.gitlab.com/2018/05/17/eliminating-distractions-and-getting-things-done/ | Remote work: 9 tips for eliminating distractions and getting things done | GitLab
+
+Important
+https://twitter.com/emollick/status/1156788598303272960 | Ethan Mollick on Twitter: "The world's top published happiness researchers were asked to rank the most effective &amp; feasible strategies to happiness. Here's the list, though most of the results aren't shocking (though pets are lower &amp; shortening commutes are higher than expected) https://t.co/JglJfpZmHi https://t.co/c3InSDovtb" / Twitter
+
+Interesting
+https://twitter.com/housecor/status/1130926121011306497 | Cory House on Twitter: "This is one of my all time favorite blog posts, by one of my favorite authors, Seth Godin (@ThisIsSethsBlog). For a long while, I've had a little printout of the post sitting in my office. My wife just surprised me with a framed copy. ❤️… https://t.co/dESSQSzdVl"
+https://twitter.com/amasad/status/1115488571387867138 | Amjad Masad 🎱 on Twitter: "It's weird to admit but LessWrong was instrumental for me in dealing with some procrastination & avoidance issues I had when I was younger. I once printed this and read it every morning:… https://t.co/P7EjIRwgCa"
+
 
 Book
 https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
