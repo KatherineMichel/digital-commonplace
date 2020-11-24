@@ -39,6 +39,10 @@ https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 
+Great Quote
+https://twitter.com/RyanHoliday/status/1072966880380551171 | Ryan Holiday on Twitter: ""It is impossible to produce superior performance unless you do something different." John Templeton"
+https://twitter.com/JackieKazil/status/1277250345236860929 | Jackie wears a on Twitter: "A major motivator doing or completing the for the hardest things in life is spite." / Twitter
+
 https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
@@ -758,6 +762,8 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 <!--
 ## Important
+
+https://twitter.com/dparzych/status/1211813997202161665 | Dawn is done with travel for the year. on Twitter: "2019 by the numbers: 2 jobs 5 new talks created &amp; delivered 9 speaking engagements 15 articles/blogs published 58 books read Doubled daily step count. I am now doing between 10 &amp; 12K a day compared to 4-6K in March. 22K miles flown (a 50% reduction from last year)." / Twitter
 
 https://about.gitlab.com/2018/05/17/eliminating-distractions-and-getting-things-done/ | Remote work: 9 tips for eliminating distractions and getting things done | GitLab
 
