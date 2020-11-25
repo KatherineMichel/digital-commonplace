@@ -19,6 +19,70 @@ http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building
 * Checklist Manifesto
 * Maker's Schedule/Manager's Schedule
 
+
+## Personal Brand
+
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+
+https://twitter.com/tucker_dev/status/1287427626899038210 | James Tucker on Twitter: "4 things you can do to make your Github shine during your job search 1. Add a profile readme 2. Pin your favorite or most impressive projects 3. Add readmes to them 4. Create gifs of your projects and add them to your readmes" / Twitter
+
+https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
+
+Brian Douglas
+https://twitter.com/bdougieYO
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+
+Speaking
+https://automationpanda.com/speaking/
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+Wow
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+
+MSc
+https://twitter.com/NimaRoohiS/status/1312916303225729026
+
+Brag documents
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
+https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
+
+Accomplishments versus responsibilities
+https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+LinkedIn
+https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
+
+
+## Demos and Other Content
+
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
+
+Record a Video/Gif
+
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Demos
+http://en.wikipedia.org/wiki/Vlog
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
+
+
 ## Conferences
 
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
@@ -71,6 +135,8 @@ https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bing
 Women Who Code SF
 https://twitter.com/wwcsf | https://twitter.com/wwcsf
 
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 
@@ -91,13 +157,12 @@ https://forum.numfocus.org/pydata-global/channels/town-square
 
 
 
+
+
 ## DevRel
 
-https://devrel.io/ | DevRel IO - The Best DevRel Advice
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
-https://twitter.com/DevRelAwards
-https://twitter.com/hashtag/DevRelAwards?src=hashtag_click
 
 https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
 
@@ -111,11 +176,10 @@ http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
 
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-
 GitLab
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+https://about.gitlab.com/handbook/marketing/community-relations/evangelist-program/
 
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
 
 
@@ -126,64 +190,6 @@ Community engineering
 https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
 
-
-
-## Personal Brand
-
-Brian Douglas
-https://twitter.com/bdougieYO
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
-https://twitter.com/saucedopen/
-https://www.meetup.com/Open-Sauced-Meetup/
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
-
-Speaking
-https://automationpanda.com/speaking/
-
-2020 Goals
-https://twitter.com/AutomationPanda/status/1226591212632596480
-
-Wow
-https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
-
-MSc
-https://twitter.com/NimaRoohiS/status/1312916303225729026
-
-Brag documents
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
-
-Accomplishments versus responsibilities
-https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-LinkedIn
-https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
-
-
-
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-https://makeandshine.com/ | Make & Shine — The Indie Maker's Guide to Personal Branding
-
-https://thestartingidea.com/personal-branding-guide/
-
-https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
-
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-https://leerob.io/blog/how-stripe-designs-beautiful-websites
-
-
-
-https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
 
 
 
@@ -215,12 +221,12 @@ Southern California Tech Industry
 https://twitter.com/Nate_somewhere/status/1218962488189808640
 https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
 
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 
 ## Opportunities
 
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+https://github.com/matteofigus/awesome-speaking
 
 https://slidesgo.com/editors-choice
 
@@ -268,7 +274,12 @@ https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs
 
 
 
+
 ## To Do
+
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
 
 http://sijinjoseph.com/programmer-competency-matrix/
 
@@ -278,12 +289,6 @@ https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-
 This is great!
 https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
 
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
 
@@ -292,16 +297,40 @@ https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Electio
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
 
+People
+https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
+https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
+https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Websites
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
+
+
+http://githubengineering.com/the-github-graphql-api/
+
+
+
+## Of Interest
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-People
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-https://twitter.com/i/lists/1138837023832334338/members | Latest Tweets / Twitter
-https://twitter.com/i/lists/1196306156655763457 | @KatiMichel/Open Source Offices/Leads on Twitter / Twitter
 
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
 
@@ -312,27 +341,6 @@ https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "
 
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
-
-
-http://githubengineering.com/the-github-graphql-api/
-
-
-
-## Public Speaking
-
-https://github.com/matteofigus/awesome-speaking
-
-Public speaking
-https://twitter.com/Alyssa_Milano/status/1303203435412557825 | https://twitter.com/Alyssa_Milano/status/1303203435412557825
 
 ## Community
 
@@ -353,24 +361,6 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
-
-## Demos and Other Content
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
 
 
 ## Learning
@@ -1120,14 +1110,6 @@ http://www.timcasasola.com/blog/writing | Why does writing matter in remote work
 -->
 
 ## Eldarion
-
-## Good Advice and Habits
-
-<!--
-https://twitter.com/tucker_dev/status/1287427626899038210 | James Tucker on Twitter: "4 things you can do to make your Github shine during your job search 1. Add a profile readme 2. Pin your favorite or most impressive projects 3. Add readmes to them 4. Create gifs of your projects and add them to your readmes" / Twitter
-
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
--->
 
 ## Engineering Performance Resources
 
