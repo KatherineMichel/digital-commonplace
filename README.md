@@ -1313,17 +1313,6 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Technical Writing Tools
 
 <!--
-Docusaurus
-https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
-https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
-
-Markdown
-https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
-
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-
-
-
 https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
 https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
 
@@ -1386,6 +1375,15 @@ https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "
 -->
 
 <!--
+Docusaurus
+https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
+https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
+
+Markdown
+https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
+
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
 Docs
 http://stylepedia.net/ | Writing Style Guide
 https://arturdryomov.dev/posts/on-technical-writing/ | On Technical Writing
