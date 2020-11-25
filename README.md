@@ -157,20 +157,19 @@ https://forum.numfocus.org/pydata-global/channels/town-square
 
 
 
-
-
 ## DevRel
 
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
 
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+
 https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
 
 DevRel List
 https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
 
 http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
 
@@ -225,6 +224,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxm
 
 ## Opportunities
 
+https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
+
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 https://github.com/matteofigus/awesome-speaking
 
@@ -246,10 +247,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA
 Speaking at SF Python
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
 
+https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
+https://bugs.python.org/issue33649
 
-
-
-https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
+Season of Docs- Django
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
@@ -263,14 +265,6 @@ https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years 
 https://www.digitalocean.com/community/pages/write-for-digitalocean
 Traversy Media
 https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
-
-https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
-https://bugs.python.org/issue33649
-
-Season of Docs- Django
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
-
-
 
 
 
