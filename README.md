@@ -3,6 +3,9 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+Important
+https://twitter.com/emollick/status/1156788598303272960 | Ethan Mollick on Twitter: "The world's top published happiness researchers were asked to rank the most effective &amp; feasible strategies to happiness. Here's the list, though most of the results aren't shocking (though pets are lower &amp; shortening commutes are higher than expected) https://t.co/JglJfpZmHi https://t.co/c3InSDovtb" / Twitter
+
 http://www.drvondawright.com/fitness-after-40/
 
 https://www.penguinrandomhouse.com/books/606199/the-xx-brain-by-lisa-mosconi-phd-foreword-by-maria-shriver/ | The XX Brain by Lisa Mosconi PhD: 9780593083116 | PenguinRandomHouse.com: Books
@@ -19,8 +22,15 @@ http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building
 * Checklist Manifesto
 * Maker's Schedule/Manager's Schedule
 
+Important
+https://sive.rs/srs | Memorizing a programming language using spaced repetition software | Derek Sivers
+
+https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
+
 
 ## Personal Brand
+
+https://twitter.com/dparzych/status/1211813997202161665 | Dawn is done with travel for the year. on Twitter: "2019 by the numbers: 2 jobs 5 new talks created &amp; delivered 9 speaking engagements 15 articles/blogs published 58 books read Doubled daily step count. I am now doing between 10 &amp; 12K a day compared to 4-6K in March. 22K miles flown (a 50% reduction from last year)." / Twitter
 
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
@@ -209,6 +219,11 @@ https://github.com/matteofigus/awesome-speaking
 
 https://slidesgo.com/editors-choice
 
+Vicky
+https://www.meetup.com/Code-for-Philly/events/273595264/ | Technical Blogging with Vicki Boykis | Meetup
+https://slidesgo.com/editors-choice | Free Editor's Choice Google Slides themes and PPT templates
+https://i.imgur.com/WRuJV6rl.png | WRuJV6rl.png (640×494)
+
 October 6
 https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
 https://www.meetup.com/Code-for-Philly/events/273595264/
@@ -252,6 +267,8 @@ https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc |
 
 As CTO
 https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
@@ -463,6 +480,13 @@ https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where progra
 
 https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
 
+## Websites
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
+
+
 
 ## Models and Stuff
 
@@ -554,22 +578,13 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 <!--
 ## Of Interest
 
+https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
+https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
+https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
+
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
-
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
-
-
-Websites
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 
 
 http://githubengineering.com/the-github-graphql-api/
@@ -608,57 +623,18 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 
 ## Important
 
-https://twitter.com/dparzych/status/1211813997202161665 | Dawn is done with travel for the year. on Twitter: "2019 by the numbers: 2 jobs 5 new talks created &amp; delivered 9 speaking engagements 15 articles/blogs published 58 books read Doubled daily step count. I am now doing between 10 &amp; 12K a day compared to 4-6K in March. 22K miles flown (a 50% reduction from last year)." / Twitter
-
-https://about.gitlab.com/2018/05/17/eliminating-distractions-and-getting-things-done/ | Remote work: 9 tips for eliminating distractions and getting things done | GitLab
-
-Important
-https://twitter.com/emollick/status/1156788598303272960 | Ethan Mollick on Twitter: "The world's top published happiness researchers were asked to rank the most effective &amp; feasible strategies to happiness. Here's the list, though most of the results aren't shocking (though pets are lower &amp; shortening commutes are higher than expected) https://t.co/JglJfpZmHi https://t.co/c3InSDovtb" / Twitter
-
-Interesting
-https://twitter.com/housecor/status/1130926121011306497 | Cory House on Twitter: "This is one of my all time favorite blog posts, by one of my favorite authors, Seth Godin (@ThisIsSethsBlog). For a long while, I've had a little printout of the post sitting in my office. My wife just surprised me with a framed copy. ❤️… https://t.co/dESSQSzdVl"
-https://twitter.com/amasad/status/1115488571387867138 | Amjad Masad 🎱 on Twitter: "It's weird to admit but LessWrong was instrumental for me in dealing with some procrastination & avoidance issues I had when I was younger. I once printed this and read it every morning:… https://t.co/P7EjIRwgCa"
-
-
-Book
-https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
-
-Important
-https://twitter.com/JuttaEckstein/status/1301199403622031363 | Tweet / Twitter
-
-Important
-https://sive.rs/srs | Memorizing a programming language using spaced repetition software | Derek Sivers
-
-https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
 https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
 
 https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
 
 https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
-Vicky
-https://www.meetup.com/Code-for-Philly/events/273595264/ | Technical Blogging with Vicki Boykis | Meetup
-https://slidesgo.com/editors-choice | Free Editor's Choice Google Slides themes and PPT templates
-https://i.imgur.com/WRuJV6rl.png | WRuJV6rl.png (640×494)
 
-https://twitter.com/Lanooba/status/1318271853262180352 | Nivia Sedai, Amyrlin Seat, says Defund the Police on Twitter: "Management is assigning people to Tasks. Leadership is aligning the org’s business needs and priorities to an individual’s intrinsic motivation. The results: the org meets its goals; and that individual makes an impact and feels valued." / Twitter
-
-https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
-https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
-https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 
 Deployment
 https://twitter.com/rashiq/status/1319462542163496960 | rashiq on Twitter: "it's incredible to me that a $5 digital ocean box can serve traffic for 200k unique visitors and yet there's startups out there who deploy their landing pages with kubectl" / Twitter
 
-Docs
-https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
-https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
 
-Markdown
-https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
-
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
 
@@ -667,6 +643,7 @@ https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-dem
 Fast API
 https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
 
+
 Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
@@ -674,6 +651,28 @@ https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
+
+
+Martin
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
+
+Interesting
+https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
+
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+
+
+
+## Makers and Projects
+
+Julia
+https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
+https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
 
 https://github.com/mikeal | mikeal (Mikeal Rogers)
 
@@ -686,23 +685,14 @@ Product Hunt
 https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
 https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
 
-Martin
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
 
-Interesting
-https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
+## Open Source
 
-Julia
-https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
-https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
 
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
 
+https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
 
 https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
 https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getting credit: Taking your place in a meritocracy | Opensource.com
@@ -1323,6 +1313,17 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Technical Writing Tools
 
 <!--
+Docusaurus
+https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
+https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
+
+Markdown
+https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
+
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
+
+
 https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
 https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
 
